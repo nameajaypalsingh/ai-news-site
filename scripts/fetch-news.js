@@ -22,10 +22,25 @@ const FEEDS = [
 const OUTPUT_FILE = path.join(__dirname, '../web/public/news.json');
 
 // Real AI Function
+// Helper to create slugs
+function generateSlug(title) {
+    return title
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/(^-|-$)+/g, '');
+}
+
+// Real AI Function
 async function rewriteWithAI(article) {
+    const slug = generateSlug(article.title);
+
     if (!process.env.GEMINI_API_KEY) {
         console.warn("⚠️ No Gemini API Key found, skipping AI rewrite.");
-        return { ...article, title: `(No AI) ${article.title}` };
+        return {
+            ...article,
+            title: `(No AI) ${article.title}`,
+            slug: slug
+        };
     }
 
     try {
@@ -55,15 +70,9 @@ async function rewriteWithAI(article) {
         try {
             const aiData = JSON.parse(text);
 
-            // Generate a slug for the URL
-            const slug = aiData.title
-                .toLowerCase()
-                .replace(/[^a-z0-9]+/g, '-')
-                .replace(/(^-|-$)+/g, '');
-
             return {
                 ...aiData, // title, summary, content, hashtags
-                slug: slug,
+                slug: slug, // Use consistent slug based on original title
                 link: article.link, // Keep original link as "Source"
                 source: article.source,
                 date: new Date().toISOString(),
@@ -78,14 +87,17 @@ async function rewriteWithAI(article) {
 
     } catch (error) {
         console.error(`❌ AI Error on "${article.title}":`, error.message);
-        // Fallback to original
+        // Fallback to original BUT WITH SLUG
         return {
             title: article.title,
-            summary: article.contentSnippet?.slice(0, 150) + "...",
+            summary: article.contentSnippet || article.content, // Use full content if valid, else snippet
+            content: article.content || article.contentSnippet, // Fallback content for the page
             link: article.link,
+            slug: slug, // CRITICAL: Always provide a slug
             source: article.source,
             date: new Date().toISOString(),
-            imageUrl: article.imageUrl // Pass through the original image URL
+            imageUrl: article.imageUrl,
+            hashtags: ["#TechNews", "#AI"] // Generic tags for fallback
         };
     }
 }
@@ -133,8 +145,8 @@ async function main() {
     for (const article of allNews) {
         const rewritten = await rewriteWithAI(article);
         processedNews.push(rewritten);
-        // Small delay to be nice to the free tier
-        await new Promise(r => setTimeout(r, 1000));
+        // Generous delay to be nice to the free tier (4 seconds)
+        await new Promise(r => setTimeout(r, 4000));
     }
 
     // 4. Save to JSON
