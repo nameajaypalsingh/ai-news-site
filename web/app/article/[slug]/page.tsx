@@ -22,7 +22,8 @@ async function getNewsItem(slug: string): Promise<NewsItem | undefined> {
         if (fs.existsSync(filePath)) {
             const fileContents = fs.readFileSync(filePath, 'utf8');
             const news: NewsItem[] = JSON.parse(fileContents);
-            return news.find((item) => item.slug === slug);
+            // Safeguard: Only match items that HAVE a slug to avoid "undefined" matching fallback items
+            return news.find((item) => item.slug && item.slug === slug);
         }
         return undefined;
     } catch (e) {
@@ -114,6 +115,15 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                     <p className="mt-4 text-xs text-gray-400">
                         AI-generated content based on original reporting.
                     </p>
+                    {/* DEBUG SECTION - TO BE REMOVED */}
+                    <div className="mt-12 p-4 bg-red-50 border border-red-200 rounded text-xs text-red-800 font-mono text-left overflow-auto">
+                        <p><strong>DEBUG INFO:</strong></p>
+                        <p>Requested Slug: {slug}</p>
+                        <p>Matched Article: {article.title}</p>
+                        <p>Article Slug: {article.slug}</p>
+                        <p>Article Date: {article.date}</p>
+                        <p>Source Link: {article.link}</p>
+                    </div>
                 </div>
             </article>
         </main>
