@@ -97,7 +97,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 </header>
 
                 {/* Content */}
-                <div className="prose prose-xl md:prose-2xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-16 rounded-3xl shadow-sm border border-gray-100 mb-16 max-w-none">
+                <div className="prose prose-xl md:prose-2xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-16 rounded-3xl shadow-sm border border-gray-100 mb-16 max-w-none text-gray-900">
                     <ReactMarkdown
                         components={{
                             img: ({ node, ...props }: any) => <img {...props} className="rounded-xl shadow-md my-8 w-full" />,
