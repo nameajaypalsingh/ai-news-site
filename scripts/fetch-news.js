@@ -3,6 +3,7 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
+const he = require('he');
 
 const parser = new Parser();
 
@@ -125,8 +126,16 @@ async function main() {
                     }
                 }
 
+                // Clean up content by decoding HTML entities
+                const cleanTitle = he.decode(item.title || '');
+                const cleanContent = he.decode(item.content || item.contentSnippet || '');
+                const cleanSnippet = he.decode(item.contentSnippet || '');
+
                 return {
                     ...item,
+                    title: cleanTitle,
+                    content: cleanContent,
+                    contentSnippet: cleanSnippet,
                     source: feed.name,
                     imageUrl: imageUrl
                 };

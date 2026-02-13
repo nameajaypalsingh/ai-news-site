@@ -65,7 +65,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 </div>
             </nav>
 
-            <article className="max-w-4xl mx-auto px-4 mt-8 md:mt-16">
+            <article className="max-w-5xl mx-auto px-4 mt-8 md:mt-16">
                 {/* Header */}
                 <header className="mb-12 text-center md:text-left">
                     <div className="flex items-center justify-center md:justify-start gap-4 mb-6">
@@ -81,7 +81,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                         </span>
                     </div>
 
-                    <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-8 leading-tight tracking-tight">
+                    <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-gray-900 mb-8 leading-tight tracking-tight">
                         {article.title}
                     </h1>
 
@@ -97,7 +97,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 </header>
 
                 {/* Content */}
-                <div className="prose prose-lg md:prose-xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-gray-100 mb-16">
+                <div className="prose prose-xl md:prose-2xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-16 rounded-3xl shadow-sm border border-gray-100 mb-16 max-w-none">
                     <ReactMarkdown
                         rehypePlugins={[rehypeRaw]}
                         className="whitespace-pre-wrap leading-loose text-gray-700 font-serif"
