@@ -14,6 +14,8 @@ type NewsItem = {
   link: string;
   source: string;
   date: string;
+  slug?: string;
+  content?: string;
 };
 
 async function getNews(): Promise<NewsItem[]> {
@@ -61,35 +63,36 @@ export default async function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {news.map((item, index) => (
               <article key={index} className="bg-white rounded-xl shadow-sm hover:shadow-md transition duration-200 border border-gray-200 overflow-hidden flex flex-col h-full">
-                <div className="p-6 flex-1 flex flex-col">
-                  <div className="flex items-center justify-between gap-2 mb-3">
-                    <span className="bg-blue-50 text-blue-700 text-[10px] uppercase tracking-wider font-bold px-2 py-1 rounded-full border border-blue-100">
+                <div className="p-6 md:p-8">
+                  <div className="flex items-center gap-3 mb-4">
+                    <span className="bg-blue-100 text-blue-800 text-xs font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wide">
                       {item.source}
                     </span>
-                    <time className="text-[11px] text-gray-400 font-medium">
-                      {new Date(item.date).toLocaleDateString()}
-                    </time>
+                    <span className="text-gray-400 text-xs">
+                      {new Date(item.date).toLocaleDateString(undefined, {
+                        month: 'short',
+                        day: 'numeric'
+                      })}
+                    </span>
                   </div>
 
-                  <h2 className="text-lg font-bold mb-3 leading-snug text-gray-900 group-hover:text-blue-600">
-                    <Link href={item.link} target="_blank" className="hover:underline decoration-2 decoration-blue-100 underline-offset-2">
-                      {item.title}
-                    </Link>
+                  <h2 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
+                    {item.title}
                   </h2>
 
-                  <p className="text-gray-600 text-sm leading-relaxed line-clamp-4 mb-4 flex-1">
+                  <p className="text-gray-600 mb-6 line-clamp-3 text-sm leading-relaxed">
                     {item.summary}
                   </p>
-                </div>
 
-                <div className="px-6 py-4 bg-gray-50 border-t border-gray-100 group">
-                  <Link
-                    href={item.link}
-                    target="_blank"
-                    className="text-sm font-semibold text-blue-600 group-hover:text-blue-700 flex items-center gap-1 transition-colors"
-                  >
-                    Read on {item.source} <span className="group-hover:translate-x-1 transition-transform">→</span>
-                  </Link>
+                  <div className="flex items-center justify-between mt-auto">
+                    <Link
+                      href={item.slug ? `/article/${item.slug}` : item.link}
+                      className="inline-flex items-center gap-2 text-blue-600 font-semibold text-sm hover:underline"
+                    >
+                      Read Story
+                      <svg className="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    </Link>
+                  </div>
                 </div>
               </article>
             ))}

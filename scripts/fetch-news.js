@@ -11,9 +11,11 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 // 1. Define Sources
 const FEEDS = [
-    { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
-    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
-    { name: 'Wired', url: 'https://www.wired.com/feed/rss' }
+    { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+    { name: 'The Verge AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
+    { name: 'OpenAI', url: 'https://openai.com/news/rss.xml' },
+    { name: 'Google DeepMind', url: 'https://deepmind.google/discover/blog/feed/' },
+    { name: 'Wired AI', url: 'https://www.wired.com/feed/tag/ai/latest/rss' }
 ];
 
 // Update output path to the Next.js web directory
@@ -31,41 +33,47 @@ async function rewriteWithAI(article) {
         const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
         const prompt = `
-        You are an AI journalist. Rewrite this news article for a tech news aggregator.
+        You are an AI journalist. Rewrite this news article into an engaging, expanded blog post (around 300 words).
         
-        Original Title: ${article.title}
-        Original Snippet: ${article.contentSnippet || article.content}
+        Article:
+        Title: ${article.title}
+        Content: ${article.contentSnippet || article.content}
+        Source: ${article.source}
         
-        Task:
-        1. Write a new, catchy title (max 10 words).
-        2. Write a concise 2-sentence summary (max 40 words).
-        3. Extract 2-3 relevant hashtags.
-        
-        Output format (JSON only):
-        {
-            "title": "New Title",
-            "summary": "New Summary",
-            "hashtags": ["#tag1", "#tag2"]
-        }
+        Return valid JSON with these fields:
+        - title: A catchy new title
+        - summary: A 2-sentence summary/hook
+        - content: The full rewritten article in Markdown format
+        - hashtags: An array of 3 relevant hashtags
         `;
 
         const result = await model.generateContent(prompt);
-        const response = await result.response;
-        const text = response.text();
+        const response = result.response;
+        // Clean up markdown code blocks if Gemini wraps JSON in them
+        const text = response.text().replace(/```json/g, '').replace(/```/g, '').trim();
 
-        // Clean up markdown code blocks if present
-        const jsonStr = text.replace(/```json/g, '').replace(/```/g, '').trim();
-        const aiData = JSON.parse(jsonStr);
+        try {
+            const aiData = JSON.parse(text);
 
-        return {
-            title: aiData.title,
-            summary: aiData.summary,
-            hashtags: aiData.hashtags,
-            link: article.link,
-            source: article.source,
-            date: new Date().toISOString(),
-            originalDate: article.pubDate
-        };
+            // Generate a slug for the URL
+            const slug = aiData.title
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/(^-|-$)+/g, '');
+
+            return {
+                ...aiData, // title, summary, content, hashtags
+                slug: slug,
+                link: article.link, // Keep original link as "Source"
+                source: article.source,
+                date: new Date().toISOString(),
+                originalDate: article.pubDate
+            };
+        } catch (e) {
+            console.error("❌ Error parsing AI JSON:", e.message);
+            console.log("Raw AI response:", text);
+            throw e;
+        }
 
     } catch (error) {
         console.error(`❌ AI Error on "${article.title}":`, error.message);
