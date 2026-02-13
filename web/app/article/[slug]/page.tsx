@@ -1,8 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound } from "next/navigation";
 import { Metadata } from 'next';
+import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 
 type NewsItem = {
     title: string;
@@ -13,6 +15,7 @@ type NewsItem = {
     source: string;
     date: string;
     hashtags?: string[];
+    imageUrl?: string;
 };
 
 async function getNewsItem(slug: string): Promise<NewsItem | undefined> {
@@ -95,11 +98,23 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
                 {/* Content */}
                 <div className="prose prose-lg md:prose-xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-gray-100 mb-16">
-                    <div className="whitespace-pre-wrap leading-loose text-gray-700 font-serif">
-                        {article.content || article.summary}
-                    </div>
+                    <ReactMarkdown
+                        rehypePlugins={[rehypeRaw]}
+                        className="whitespace-pre-wrap leading-loose text-gray-700 font-serif"
+                        components={{
+                            img: ({ node, ...props }: any) => <img {...props} className="rounded-xl shadow-md my-8 w-full" />,
+                            a: ({ node, ...props }: any) => <a {...props} className="text-blue-600 hover:underline font-bold" target="_blank" rel="noopener noreferrer" />,
+                            h1: ({ node, ...props }: any) => <h1 {...props} className="text-3xl font-bold mt-8 mb-4 text-gray-900" />,
+                            h2: ({ node, ...props }: any) => <h2 {...props} className="text-2xl font-bold mt-8 mb-4 text-gray-900" />,
+                            p: ({ node, ...props }: any) => <p {...props} className="mb-6 leading-relaxed" />,
+                            ul: ({ node, ...props }: any) => <ul {...props} className="list-disc pl-6 mb-6 space-y-2" />,
+                            ol: ({ node, ...props }: any) => <ol {...props} className="list-decimal pl-6 mb-6 space-y-2" />,
+                            blockquote: ({ node, ...props }: any) => <blockquote {...props} className="border-l-4 border-blue-500 pl-4 italic text-gray-600 my-6 bg-gray-50 py-2 pr-2 rounded-r" />,
+                        }}
+                    >
+                        {article.content || article.summary || ""}
+                    </ReactMarkdown>
                 </div>
-
                 {/* Footer/Action */}
                 <div className="border-t border-gray-100 pt-12 text-center pb-20">
                     <h3 className="text-gray-900 font-bold text-lg mb-6">Interested in the original source?</h3>
