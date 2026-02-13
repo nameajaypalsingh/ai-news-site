@@ -62,14 +62,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 </div>
             </nav>
 
-            <article className="max-w-3xl mx-auto px-4 mt-8 md:mt-12">
+            <article className="max-w-4xl mx-auto px-4 mt-8 md:mt-16">
                 {/* Header */}
-                <header className="mb-8">
-                    <div className="flex items-center gap-3 mb-4">
-                        <span className="bg-blue-100 text-blue-800 text-xs font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wide">
+                <header className="mb-12 text-center md:text-left">
+                    <div className="flex items-center justify-center md:justify-start gap-4 mb-6">
+                        <span className="bg-blue-100/50 text-blue-700 border border-blue-100 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
                             {article.source}
                         </span>
-                        <span className="text-gray-500 text-sm">
+                        <span className="text-gray-400 text-sm font-medium">
                             {new Date(article.date).toLocaleDateString(undefined, {
                                 year: 'numeric',
                                 month: 'long',
@@ -78,14 +78,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                         </span>
                     </div>
 
-                    <h1 className="text-3xl md:text-4xl font-extJQbold text-gray-900 mb-6 leading-tight">
+                    <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-8 leading-tight tracking-tight">
                         {article.title}
                     </h1>
 
                     {article.hashtags && (
-                        <div className="flex flex-wrap gap-2 mb-6">
+                        <div className="flex flex-wrap justify-center md:justify-start gap-2 mb-8">
                             {article.hashtags.map(tag => (
-                                <span key={tag} className="text-blue-600 text-sm font-medium">
+                                <span key={tag} className="bg-gray-100 text-gray-600 px-3 py-1 rounded-lg text-sm font-medium hover:bg-gray-200 transition-colors cursor-default">
                                     {tag}
                                 </span>
                             ))}
@@ -94,29 +94,23 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 </header>
 
                 {/* Content */}
-                <div className="prose prose-lg prose-blue bg-white p-8 md:p-10 rounded-2xl shadow-sm border border-gray-100 mb-10">
-                    {/* If content is markdown, we ideally render it. For now, simple text or html replacement */}
-                    {/* Since simple parser, standard newline to break */}
-                    <div className="whitespace-pre-wrap leading-relaxed text-gray-700">
+                <div className="prose prose-lg md:prose-xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-gray-100 mb-16">
+                    <div className="whitespace-pre-wrap leading-loose text-gray-700 font-serif">
                         {article.content || article.summary}
                     </div>
                 </div>
 
-                {/* Action */}
-                <div className="text-center">
+                {/* Footer/Action */}
+                <div className="border-t border-gray-100 pt-12 text-center pb-20">
+                    <h3 className="text-gray-900 font-bold text-lg mb-6">Interested in the original source?</h3>
                     <Link
                         href={article.link}
                         target="_blank"
-                        className="inline-flex items-center gap-2 bg-gray-900 hover:bg-gray-800 text-white px-6 py-3 rounded-lg font-semibold transition-all hover:-translate-y-0.5 shadow-lg shadow-gray-200"
+                        className="inline-flex items-center gap-3 bg-gray-900 hover:bg-black text-white px-8 py-4 rounded-full font-bold transition-all hover:-translate-y-1 shadow-xl hover:shadow-2xl"
                     >
-                        Read Originals on {article.source}
-                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                        Read full article on {article.source}
+                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                     </Link>
-                    <p className="mt-4 text-xs text-gray-400">
-                        AI-generated content based on original reporting.
-                    </p>
-                    {/* DEBUG SECTION - TO BE REMOVED */}
-                    {/* Removed for production */}
                 </div>
             </article>
         </main>

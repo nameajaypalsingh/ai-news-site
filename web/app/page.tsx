@@ -53,49 +53,103 @@ export default async function Home() {
       </header>
 
       {/* News Grid */}
-      <div className="max-w-6xl mx-auto px-4 mt-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* Header */}
+        <header className="mb-12 text-center md:text-left">
+          <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 tracking-tight mb-4">
+            Today's <span className="text-blue-600">Headlines</span>
+          </h1>
+          <p className="text-lg text-gray-600 max-w-2xl">
+            AI-curated insights from the world's top tech sources. Updated every 4 hours.
+          </p>
+        </header>
+
         {news.length === 0 ? (
-          <div className="text-center py-20 text-gray-500 bg-white rounded-xl shadow-sm border border-dashed border-gray-300">
-            <p className="text-lg mb-2">No news found yet.</p>
-            <p className="text-sm">Run the scraper script to populate data!</p>
+          <div className="text-center py-20 bg-white rounded-3xl shadow-sm border border-gray-100">
+            <div className="text-6xl mb-4">🤔</div>
+            <h3 className="text-xl font-bold text-gray-900 mb-2">No news yet</h3>
+            <p className="text-gray-500">Wait for the next AI update cycle.</p>
           </div>
         ) : (
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {news.map((item, index) => (
-              <article key={index} className="bg-white rounded-xl shadow-sm hover:shadow-md transition duration-200 border border-gray-200 overflow-hidden flex flex-col h-full">
-                <div className="p-6 md:p-8">
-                  <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wide">
-                      {item.source}
-                    </span>
-                    <span className="text-gray-400 text-xs">
-                      {new Date(item.date).toLocaleDateString(undefined, {
-                        month: 'short',
-                        day: 'numeric'
-                      })}
-                    </span>
-                  </div>
+          <div className="space-y-12">
+            {/* HERO SECTION (First Item) */}
+            {news[0] && (
+              <section className="relative group overflow-hidden rounded-3xl bg-gray-900 text-white shadow-2xl transition-transform hover:scale-[1.005] duration-500">
+                <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-purple-600/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                <div className="relative p-8 md:p-12 lg:p-16 flex flex-col md:flex-row gap-8 items-start">
+                  <div className="flex-1 space-y-6">
+                    <div className="flex items-center gap-3">
+                      <span className="bg-blue-500/20 text-blue-200 border border-blue-500/30 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider backdrop-blur-sm">
+                        Featured • {news[0].source}
+                      </span>
+                      <time className="text-gray-400 text-sm font-medium">
+                        {new Date(news[0].date).toLocaleDateString(undefined, { dateStyle: 'long' })}
+                      </time>
+                    </div>
 
-                  <h2 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
-                    {item.title}
-                  </h2>
+                    <h2 className="text-3xl md:text-5xl font-extrabold leading-tight tracking-tight">
+                      <Link href={news[0].slug ? `/article/${news[0].slug}` : news[0].link} className="hover:text-blue-200 transition-colors">
+                        {news[0].title}
+                      </Link>
+                    </h2>
 
-                  <p className="text-gray-600 mb-6 line-clamp-3 text-sm leading-relaxed">
-                    {item.summary}
-                  </p>
+                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed max-w-3xl">
+                      {news[0].summary}
+                    </p>
 
-                  <div className="flex items-center justify-between mt-auto">
-                    <Link
-                      href={item.slug ? `/article/${item.slug}` : item.link}
-                      className="inline-flex items-center gap-2 text-blue-600 font-semibold text-sm hover:underline"
-                    >
-                      Read Story
-                      <svg className="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-                    </Link>
+                    <div className="pt-4">
+                      <Link
+                        href={news[0].slug ? `/article/${news[0].slug}` : news[0].link}
+                        className="inline-flex items-center gap-2 bg-white text-gray-900 hover:bg-gray-100 px-8 py-4 rounded-xl font-bold transition-all hover:gap-3 shadow-lg shadow-white/10"
+                      >
+                        Read Full Story
+                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                      </Link>
+                    </div>
                   </div>
                 </div>
-              </article>
-            ))}
+              </section>
+            )}
+
+            {/* GRID SECTION (Rest of items) */}
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {news.slice(1).map((item, index) => (
+                <article key={index} className="group bg-white rounded-2xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 flex flex-col overflow-hidden">
+                  <div className="p-8 flex-1 flex flex-col">
+                    <div className="flex items-center justify-between mb-4">
+                      <span className="text-xs font-bold text-blue-600 uppercase tracking-wider">
+                        {item.source}
+                      </span>
+                      <span className="text-xs text-gray-400">
+                        {new Date(item.date).toLocaleDateString()}
+                      </span>
+                    </div>
+
+                    <h3 className="text-xl font-bold text-gray-900 mb-3 leading-snug group-hover:text-blue-600 transition-colors">
+                      <Link href={item.slug ? `/article/${item.slug}` : item.link}>
+                        {item.title}
+                      </Link>
+                    </h3>
+
+                    <p className="text-gray-600 line-clamp-3 text-sm leading-relaxed mb-6 flex-1">
+                      {item.summary}
+                    </p>
+
+                    <div className="mt-auto pt-6 border-t border-gray-50 flex items-center justify-between">
+                      <Link
+                        href={item.slug ? `/article/${item.slug}` : item.link}
+                        className="text-sm font-semibold text-gray-900 group-hover:text-blue-600 flex items-center gap-2 transition-colors"
+                      >
+                        Read Story <span className="text-lg leading-none">→</span>
+                      </Link>
+
+                      {/* Hashtags as tiny dots/pills if available */}
+                      {/* (Optional visual flair) */}
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
           </div>
         )}
       </div>
