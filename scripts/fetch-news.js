@@ -67,7 +67,8 @@ async function rewriteWithAI(article) {
                 link: article.link, // Keep original link as "Source"
                 source: article.source,
                 date: new Date().toISOString(),
-                originalDate: article.pubDate
+                originalDate: article.pubDate,
+                imageUrl: article.imageUrl // Pass through the original image URL
             };
         } catch (e) {
             console.error("❌ Error parsing AI JSON:", e.message);
@@ -83,7 +84,8 @@ async function rewriteWithAI(article) {
             summary: article.contentSnippet?.slice(0, 150) + "...",
             link: article.link,
             source: article.source,
-            date: new Date().toISOString()
+            date: new Date().toISOString(),
+            imageUrl: article.imageUrl // Pass through the original image URL
         };
     }
 }
@@ -99,10 +101,24 @@ async function main() {
             console.log(`✅ Fetched ${feedData.items.length} items from ${feed.name}`);
 
             // Take top 2 from each to save API rate limits during testing
-            const topItems = feedData.items.slice(0, 2).map(item => ({
-                ...item,
-                source: feed.name
-            }));
+            const topItems = feedData.items.slice(0, 2).map(item => {
+                let imageUrl = item.enclosure?.url || item.itunes?.image || item.media?.thumbnail?.[0]?.url || item.media?.content?.[0]?.url;
+
+                // Fallback: Try to extract from content if no specific tag exists
+                if (!imageUrl && (item.content || item.contentSnippet)) {
+                    // Match src="URL" or src='URL'
+                    const imgMatch = (item.content || item.contentSnippet).match(/<img[^>]+src=["']([^"']+)["']/i);
+                    if (imgMatch) {
+                        imageUrl = imgMatch[1];
+                    }
+                }
+
+                return {
+                    ...item,
+                    source: feed.name,
+                    imageUrl: imageUrl
+                };
+            });
             allNews.push(...topItems);
 
         } catch (error) {

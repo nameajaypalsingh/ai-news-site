@@ -16,6 +16,7 @@ type NewsItem = {
   date: string;
   slug?: string;
   content?: string;
+  imageUrl?: string;
 };
 
 async function getNews(): Promise<NewsItem[]> {
@@ -74,33 +75,42 @@ export default async function Home() {
           <div className="space-y-12">
             {/* HERO SECTION (First Item) */}
             {news[0] && (
-              <section className="relative group overflow-hidden rounded-3xl bg-gray-900 text-white shadow-2xl transition-transform hover:scale-[1.005] duration-500">
-                <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-purple-600/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-                <div className="relative p-8 md:p-12 lg:p-16 flex flex-col md:flex-row gap-8 items-start">
+              <section className="relative group overflow-hidden rounded-3xl bg-gray-900 text-white shadow-2xl transition-all hover:scale-[1.01] duration-500">
+                {/* Background Image or Gradient */}
+                <div className="absolute inset-0 z-0">
+                  {news[0].imageUrl ? (
+                    <img src={news[0].imageUrl} alt={news[0].title} className="w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700" />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-blue-900 via-indigo-900 to-slate-900" />
+                  )}
+                  <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40 to-transparent" />
+                </div>
+
+                <div className="relative z-10 p-8 md:p-12 lg:p-16 flex flex-col md:flex-row gap-8 items-start min-h-[500px] justify-end">
                   <div className="flex-1 space-y-6">
                     <div className="flex items-center gap-3">
-                      <span className="bg-blue-500/20 text-blue-200 border border-blue-500/30 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider backdrop-blur-sm">
+                      <span className="bg-blue-500/80 text-white border border-blue-400/30 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider backdrop-blur-md">
                         Featured • {news[0].source}
                       </span>
-                      <time className="text-gray-400 text-sm font-medium">
+                      <time className="text-gray-300 text-sm font-medium drop-shadow-md">
                         {new Date(news[0].date).toLocaleDateString(undefined, { dateStyle: 'long' })}
                       </time>
                     </div>
 
-                    <h2 className="text-3xl md:text-5xl font-extrabold leading-tight tracking-tight">
+                    <h2 className="text-3xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight drop-shadow-lg">
                       <Link href={news[0].slug ? `/article/${news[0].slug}` : news[0].link} className="hover:text-blue-200 transition-colors">
                         {news[0].title}
                       </Link>
                     </h2>
 
-                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed max-w-3xl">
+                    <p className="text-lg md:text-xl text-gray-200 leading-relaxed max-w-3xl drop-shadow-md line-clamp-3">
                       {news[0].summary}
                     </p>
 
                     <div className="pt-4">
                       <Link
                         href={news[0].slug ? `/article/${news[0].slug}` : news[0].link}
-                        className="inline-flex items-center gap-2 bg-white text-gray-900 hover:bg-gray-100 px-8 py-4 rounded-xl font-bold transition-all hover:gap-3 shadow-lg shadow-white/10"
+                        className="inline-flex items-center gap-2 bg-white text-gray-900 hover:bg-gray-100 px-8 py-4 rounded-xl font-bold transition-all hover:gap-3 shadow-lg hover:shadow-xl"
                       >
                         Read Full Story
                         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
@@ -114,10 +124,19 @@ export default async function Home() {
             {/* GRID SECTION (Rest of items) */}
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {news.slice(1).map((item, index) => (
-                <article key={index} className="group bg-white rounded-2xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 flex flex-col overflow-hidden">
+                <article key={index} className="group bg-white rounded-2xl shadow-sm hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 flex flex-col overflow-hidden border border-gray-100">
+                  {/* Card Image */}
+                  <div className="h-48 overflow-hidden relative bg-gray-100">
+                    {item.imageUrl ? (
+                      <img src={item.imageUrl} alt={item.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                    ) : (
+                      <div className={`w-full h-full bg-gradient-to-br opacity-80 ${['from-blue-500 to-purple-600', 'from-emerald-400 to-cyan-500', 'from-orange-400 to-pink-500'][index % 3]}`} />
+                    )}
+                  </div>
+
                   <div className="p-8 flex-1 flex flex-col">
                     <div className="flex items-center justify-between mb-4">
-                      <span className="text-xs font-bold text-blue-600 uppercase tracking-wider">
+                      <span className="text-xs font-bold text-blue-600 uppercase tracking-wider bg-blue-50 px-2 py-1 rounded-md">
                         {item.source}
                       </span>
                       <span className="text-xs text-gray-400">
