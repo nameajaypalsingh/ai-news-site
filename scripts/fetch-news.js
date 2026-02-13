@@ -49,63 +49,101 @@ async function rewriteWithAI(article) {
         };
     }
 
-    try {
-        // Use gemini-2.5-flash as confirmed by listModels
-        const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+    // Retry configuration
+    const MAX_RETRIES = 3;
+    const RETRY_DELAY_MS = 20000; // 20 seconds
 
-        const prompt = `
-        You are an AI journalist. Rewrite this news article into an engaging, expanded blog post (around 300 words).
-        
-        Article:
-        Title: ${article.title}
-        Content: ${article.contentSnippet || article.content}
-        Source: ${article.source}
-        
-        Return valid JSON with these fields:
-        - title: A catchy new title
-        - summary: A 2-sentence summary/hook
-        - content: The full rewritten article in Markdown format
-        - hashtags: An array of 3 relevant hashtags
-        `;
-
-        const result = await model.generateContent(prompt);
-        const response = result.response;
-        // Clean up markdown code blocks if Gemini wraps JSON in them
-        const text = response.text().replace(/```json/g, '').replace(/```/g, '').trim();
-
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
         try {
-            const aiData = JSON.parse(text);
+            // Revert to gemini-2.5-flash (known working)
+            const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
-            return {
-                ...aiData, // title, summary, content, hashtags
-                slug: slug, // Use consistent slug based on original title
-                link: article.link, // Keep original link as "Source"
-                source: article.source,
-                date: new Date().toISOString(),
-                originalDate: article.pubDate,
-                imageUrl: article.imageUrl // Pass through the original image URL
-            };
-        } catch (e) {
-            console.error("❌ Error parsing AI JSON:", e.message);
-            console.log("Raw AI response:", text);
-            throw e;
+            const prompt = `
+            You are an AI journalist. Rewrite this news article into an engaging, expanded blog post (around 300 words).
+            
+            Article:
+            Title: ${article.title}
+            Content: ${article.contentSnippet || article.content}
+            Source: ${article.source}
+            
+            Return valid JSON with these fields:
+            - title: A catchy new title
+            - summary: A 2-sentence summary/hook
+            - content: The full rewritten article in Markdown format
+            - hashtags: An array of 3 relevant hashtags
+            `;
+
+            const result = await model.generateContent(prompt);
+            const response = result.response;
+            // Clean up markdown code blocks if Gemini wraps JSON in them
+            const text = response.text().replace(/```json/g, '').replace(/```/g, '').trim();
+
+            try {
+                const aiData = JSON.parse(text);
+
+                return {
+                    ...aiData, // title, summary, content, hashtags
+                    slug: slug, // Use consistent slug based on original title
+                    link: article.link, // Keep original link as "Source"
+                    source: article.source,
+                    date: new Date().toISOString(),
+                    originalDate: article.pubDate,
+                    imageUrl: article.imageUrl // Pass through the original image URL
+                };
+            } catch (e) {
+                console.error("❌ Error parsing AI JSON:", e.message);
+                console.log("Raw AI response:", text);
+                throw e; // Retry if parsing fails? Maybe not, usually deterministic.
+            }
+
+        } catch (error) {
+            const isRateLimit = error.message.includes('429') || error.message.includes('Quota exceeded');
+
+            if (isRateLimit && attempt < MAX_RETRIES) {
+                console.warn(`⏳ Rate limit hit on "${article.title}". Retrying in ${RETRY_DELAY_MS / 1000}s... (Attempt ${attempt}/${MAX_RETRIES})`);
+                await new Promise(r => setTimeout(r, RETRY_DELAY_MS));
+                continue; // Retry
+            }
+
+            console.error(`❌ AI Error on "${article.title}" (Attempt ${attempt}):`, error.message);
+
+            // If it's the last attempt, fall through to fallback
+            if (attempt === MAX_RETRIES) break;
         }
-
-    } catch (error) {
-        console.error(`❌ AI Error on "${article.title}":`, error.message);
-        // Fallback to original BUT WITH SLUG
-        return {
-            title: article.title,
-            summary: article.contentSnippet || article.content, // Use full content if valid, else snippet
-            content: article.content || article.contentSnippet, // Fallback content for the page
-            link: article.link,
-            slug: slug, // CRITICAL: Always provide a slug
-            source: article.source,
-            date: new Date().toISOString(),
-            imageUrl: article.imageUrl,
-            hashtags: ["#TechNews", "#AI"] // Generic tags for fallback
-        };
     }
+
+    // Fallback logic
+    console.log(`⚠️ Using fallback content for "${article.title}"`);
+
+    let fallbackContent = article.content || article.contentSnippet || '';
+
+    // If fallback is too short (under 500 chars), append generic "Analysis" to fill space
+    if (fallbackContent.length < 500) {
+        fallbackContent += `
+        
+### Why This Matters
+
+This development highlights the rapidly evolving landscape of artificial intelligence. As companies like ${article.source} report on these changes, it becomes clear that the integration of AI into daily workflows and consumer products is accelerating.
+
+### The Bigger Picture
+
+Experts suggest that moves like this could set new industry standards. While details are still emerging, the implications for privacy, efficiency, and market competition are significant. We will continue to monitor this story as it develops.
+
+*Note: This summary was auto-generated from a limited source snippet. Please visit the original article for the full investigation.*
+        `;
+    }
+
+    return {
+        title: article.title,
+        summary: article.contentSnippet || article.content, // Use full content if valid, else snippet
+        content: fallbackContent, // Fallback content for the page
+        link: article.link,
+        slug: slug, // CRITICAL: Always provide a slug
+        source: article.source,
+        date: new Date().toISOString(),
+        imageUrl: article.imageUrl,
+        hashtags: ["#TechNews", "#AI"] // Generic tags for fallback
+    };
 }
 
 async function main() {
