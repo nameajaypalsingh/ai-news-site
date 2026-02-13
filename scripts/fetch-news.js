@@ -4,8 +4,13 @@ const fs = require('fs');
 const path = require('path');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const he = require('he');
+const TurndownService = require('turndown');
 
 const parser = new Parser();
+const turndownService = new TurndownService({
+    headingStyle: 'atx',
+    codeBlockStyle: 'fenced'
+});
 
 // Initialize AI
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
@@ -128,13 +133,21 @@ async function main() {
 
                 // Clean up content by decoding HTML entities
                 const cleanTitle = he.decode(item.title || '');
-                const cleanContent = he.decode(item.content || item.contentSnippet || '');
+                let cleanContent = he.decode(item.content || item.contentSnippet || '');
+
+                // Convert HTML to Markdown for consistency
+                try {
+                    cleanContent = turndownService.turndown(cleanContent);
+                } catch (e) {
+                    console.warn(`⚠️ Markdown conversion failed for ${item.title}, using raw text`);
+                }
+
                 const cleanSnippet = he.decode(item.contentSnippet || '');
 
                 return {
                     ...item,
                     title: cleanTitle,
-                    content: cleanContent,
+                    content: cleanContent, // Now assured to be Markdown
                     contentSnippet: cleanSnippet,
                     source: feed.name,
                     imageUrl: imageUrl

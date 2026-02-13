@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { notFound } from "next/navigation";
 import { Metadata } from 'next';
 import ReactMarkdown from 'react-markdown';
-import rehypeRaw from 'rehype-raw';
+// import rehypeRaw from 'rehype-raw'; // Removed as we are checking backend conversion now
 
 type NewsItem = {
     title: string;
@@ -99,13 +99,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                 {/* Content */}
                 <div className="prose prose-xl md:prose-2xl prose-slate mx-auto md:mx-0 bg-white p-8 md:p-16 rounded-3xl shadow-sm border border-gray-100 mb-16 max-w-none">
                     <ReactMarkdown
-                        rehypePlugins={[rehypeRaw]}
-                        className="whitespace-pre-wrap leading-loose text-gray-700 font-serif"
                         components={{
                             img: ({ node, ...props }: any) => <img {...props} className="rounded-xl shadow-md my-8 w-full" />,
                             a: ({ node, ...props }: any) => <a {...props} className="text-blue-600 hover:underline font-bold" target="_blank" rel="noopener noreferrer" />,
                             h1: ({ node, ...props }: any) => <h1 {...props} className="text-3xl font-bold mt-8 mb-4 text-gray-900" />,
                             h2: ({ node, ...props }: any) => <h2 {...props} className="text-2xl font-bold mt-8 mb-4 text-gray-900" />,
+                            h3: ({ node, ...props }: any) => <h3 {...props} className="text-xl font-bold mt-6 mb-3 text-gray-900" />,
                             p: ({ node, ...props }: any) => <p {...props} className="mb-6 leading-relaxed" />,
                             ul: ({ node, ...props }: any) => <ul {...props} className="list-disc pl-6 mb-6 space-y-2" />,
                             ol: ({ node, ...props }: any) => <ol {...props} className="list-decimal pl-6 mb-6 space-y-2" />,
