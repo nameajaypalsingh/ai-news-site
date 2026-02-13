@@ -116,14 +116,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                         AI-generated content based on original reporting.
                     </p>
                     {/* DEBUG SECTION - TO BE REMOVED */}
-                    <div className="mt-12 p-4 bg-red-50 border border-red-200 rounded text-xs text-red-800 font-mono text-left overflow-auto">
-                        <p><strong>DEBUG INFO:</strong></p>
-                        <p>Requested Slug: {slug}</p>
-                        <p>Matched Article: {article.title}</p>
-                        <p>Article Slug: {article.slug}</p>
-                        <p>Article Date: {article.date}</p>
-                        <p>Source Link: {article.link}</p>
-                    </div>
+                    {/* Removed for production */}
                 </div>
             </article>
         </main>
