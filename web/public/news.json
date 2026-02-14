@@ -1,51 +1,48 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) OpenAI removes access to sycophancy-prone GPT-4o model",
-    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-    "pubDate": "Fri, 13 Feb 2026 18:10:00 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
-    "contentSnippet": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
-    "guid": "https://techcrunch.com/?p=3092840",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+    "pubDate": "Fri, 13 Feb 2026 22:12:26 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+    "contentSnippet": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+    "guid": "https://techcrunch.com/?p=3093066",
     "categories": [
       "AI",
-      "ChatGPT",
-      "gpt-4o",
-      "In Brief",
-      "OpenAI"
+      "Apps",
+      "Commerce",
+      "ai agent",
+      "airnb",
+      "commerce",
+      "marketplace"
     ],
-    "isoDate": "2026-02-13T18:10:00.000Z",
+    "isoDate": "2026-02-13T22:12:26.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-removes-access-to-sycophancy-prone-gpt-4o-model"
+    "slug": "airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-us-and-canada"
   },
   {
-    "creator": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
-    "title": "(No AI) AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
-    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
-    "pubDate": "Fri, 13 Feb 2026 18:03:32 +0000",
-    "dc:creator": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
-    "content": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten \\[…\\]",
-    "contentSnippet": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3092956",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Why top talent is walking away from OpenAI and xAI",
+    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+    "pubDate": "Fri, 13 Feb 2026 21:00:00 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony \\[…\\]",
+    "contentSnippet": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3092996",
     "categories": [
       "AI",
-      "Robotics",
       "Startups",
-      "Venture",
-      "apptronik",
-      "david stern",
-      "Equity podcast",
+      "Equity",
       "fusion startup",
-      "google deepmind",
       "humanoid robotics",
-      "Intertia Enterprises",
       "OpenAI",
-      "xAI"
+      "Roundup",
+      "staff cuts"
     ],
-    "isoDate": "2026-02-13T18:03:32.000Z",
+    "isoDate": "2026-02-13T21:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-burnout-billion-dollar-bets-and-silicon-valley-s-epstein-problem"
+    "slug": "why-top-talent-is-walking-away-from-openai-and-xai"
   },
   {
     "title": "(No AI) What’s behind the mass exodus at xAI?",
@@ -126,6 +123,23 @@
     "slug": "accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think"
   },
   {
+    "creator": "Zeyi Yang",
+    "title": "(No AI) OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+    "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+    "pubDate": "Fri, 13 Feb 2026 21:56:18 +0000",
+    "dc:creator": "Zeyi Yang",
+    "content": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+    "contentSnippet": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+    "guid": "698cfbf49ab1d3ee0004bde6",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-13T21:56:18.000Z",
+    "source": "Wired AI",
+    "slug": "openai-is-nuking-its-4o-model-china-s-chatgpt-fans-aren-t-ok"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) Zillow Has Gone Wild—for AI",
     "link": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
@@ -141,22 +155,5 @@
     "isoDate": "2026-02-13T16:14:25.000Z",
     "source": "Wired AI",
     "slug": "zillow-has-gone-wild-for-ai"
-  },
-  {
-    "creator": "Brittany Spanos",
-    "title": "(No AI) Inside the New York City Date Night for AI Lovers",
-    "link": "https://www.wired.com/story/inside-the-new-york-city-date-night-for-ai-lovers/",
-    "pubDate": "Fri, 13 Feb 2026 11:30:00 +0000",
-    "dc:creator": "Brittany Spanos",
-    "content": "EVA AI created a pop-up romantic date night at a Manhattan wine bar to help making AI-human relationships a “new normal.”",
-    "contentSnippet": "EVA AI created a pop-up romantic date night at a Manhattan wine bar to help making AI-human relationships a “new normal.”",
-    "guid": "698cc3fa486f8c4a823c83b6",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-02-13T11:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "inside-the-new-york-city-date-night-for-ai-lovers"
   }
 ]
