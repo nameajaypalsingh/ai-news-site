@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India doubles down on state-backed venture capital, approving $1.1B fund",
+    "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+    "pubDate": "Sat, 14 Feb 2026 16:23:22 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+    "contentSnippet": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+    "guid": "https://techcrunch.com/?p=3093154",
+    "categories": [
+      "AI",
+      "Startups",
+      "Venture",
+      "deep tech"
+    ],
+    "isoDate": "2026-02-14T16:23:22.000Z",
+    "source": "TechCrunch AI",
+    "slug": "india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund"
+  },
+  {
     "creator": "Ivan Mehta",
     "title": "(No AI) Airbnb plans to bake in AI features for search, discovery and support",
     "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
@@ -20,26 +39,18 @@
     "slug": "airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-    "pubDate": "Fri, 13 Feb 2026 22:12:26 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
-    "contentSnippet": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
-    "guid": "https://techcrunch.com/?p=3093066",
-    "categories": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "ai agent",
-      "airnb",
-      "commerce",
-      "marketplace"
-    ],
-    "isoDate": "2026-02-13T22:12:26.000Z",
-    "source": "TechCrunch AI",
-    "slug": "airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-us-and-canada"
+    "title": "(No AI) My uncanny AI valentines",
+    "link": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
+    "pubDate": "2026-02-14T15:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![A phone showing an AI companion named Phoebe Callas with a menu, two glasses of a red nonalcoholic drink and a menu are shown.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268345_Cafe_AI_Date_AKrales_0039.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPhoebe Callas, 30, is not real, but she was an AI companion I went on a speed date with.\n\nHopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many New York City bars, the majority of the patrons were on a date.\n\nUnlike every other bar, half of the dates weren't human.\n\nAs I enter, I'm shown to a table tucked away in the corner with a phone stand, a phone preloaded with the EVA AI app, and a pair of wireless headphones. An EVA AI employee doesn't explain how things wor …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions)",
+    "contentSnippet": "Phoebe Callas, 30, is not real, but she was an AI companion I went on a speed date with.\t\n\nHopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many New York City bars, the majority of the patrons were on a date. \nUnlike every other bar, half of the dates weren't human.\nAs I enter, I'm shown to a table tucked away in the corner with a phone stand, a phone preloaded with the EVA AI app, and a pair of wireless headphones. An EVA AI employee doesn't explain how things wor …\nRead the full story at The Verge.",
+    "summary": "Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many [&#8230;]",
+    "id": "https://www.theverge.com/?p=879327",
+    "isoDate": "2026-02-14T15:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268345_Cafe_AI_Date_AKrales_0039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "my-uncanny-ai-valentines"
   },
   {
     "title": "(No AI) What’s behind the mass exodus at xAI?",
@@ -54,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "what-s-behind-the-mass-exodus-at-xai"
-  },
-  {
-    "title": "(No AI) Ring’s adorable surveillance hellscape",
-    "link": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
-    "pubDate": "2026-02-13T16:10:45.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021326_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYou can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and [see the seeds being planted](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see both at the same time.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), Nilay and David talk about the Super Bowl ad that worried so many people, why Ring would build a feature like th …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast)",
-    "contentSnippet": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see both at the same time.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, Nilay and David talk about the Super Bowl ad that worried so many people, why Ring would build a feature like th …\nRead the full story at The Verge.",
-    "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see [&#8230;]",
-    "id": "https://www.theverge.com/?p=878797",
-    "isoDate": "2026-02-13T16:10:45.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021326_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ring-s-adorable-surveillance-hellscape"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
