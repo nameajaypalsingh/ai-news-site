@@ -1,43 +1,42 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "pubDate": "Sun, 15 Feb 2026 15:41:16 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-    "contentSnippet": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-    "guid": "https://techcrunch.com/?p=3093184",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India has 100M weekly active ChatGPT users, Sam Altman says",
+    "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+    "pubDate": "Sun, 15 Feb 2026 18:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+    "contentSnippet": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+    "guid": "https://techcrunch.com/?p=3093246",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "bytedance",
-      "Disney",
-      "motion picture association",
-      "seedance"
+      "sam altman",
+      "OpenAI",
+      "ChatGPT"
     ],
-    "isoDate": "2026-02-15T15:41:16.000Z",
+    "isoDate": "2026-02-15T18:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "hollywood-isn-t-happy-about-the-new-seedance-2-0-video-generator"
+    "slug": "india-has-100m-weekly-active-chatgpt-users-sam-altman-says"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The great computer science exodus (and where students are going instead)",
-    "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-    "pubDate": "Sun, 15 Feb 2026 08:40:27 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-    "contentSnippet": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
-    "guid": "https://techcrunch.com/?p=3093211",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+    "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+    "pubDate": "Sun, 15 Feb 2026 17:30:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
+    "contentSnippet": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
+    "guid": "https://techcrunch.com/?p=3093083",
     "categories": [
+      "Enterprise",
       "AI",
-      "TC",
-      "college",
-      "computer science"
+      "Enterprise AI",
+      "Glean",
+      "Equity"
     ],
-    "isoDate": "2026-02-15T08:40:27.000Z",
+    "isoDate": "2026-02-15T17:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-great-computer-science-exodus-and-where-students-are-going-instead"
+    "slug": "the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface"
   },
   {
     "title": "(No AI) I hate my AI pet with every fiber of my being",
