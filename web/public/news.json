@@ -1,46 +1,59 @@
 [
   {
     "creator": "Jagmeet Singh",
-    "title": "(No AI) As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-    "pubDate": "Mon, 16 Feb 2026 01:00:00 +0000",
+    "title": "(No AI) Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+    "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+    "pubDate": "Mon, 16 Feb 2026 11:51:25 +0000",
     "dc:creator": "Jagmeet Singh",
-    "content": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
-    "contentSnippet": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
-    "guid": "https://techcrunch.com/?p=3093187",
+    "content": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
+    "contentSnippet": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
+    "guid": "https://techcrunch.com/?p=3093288",
     "categories": [
-      "Startups",
       "AI",
-      "data centers",
-      "Exclusive",
-      "Peak XV Partners",
-      "ai data centers",
-      "TDK Ventures",
-      "C2i",
-      "C2i Semiconductors"
+      "Enterprise",
+      "Fractal Analytics",
+      "IPOs"
     ],
-    "isoDate": "2026-02-16T01:00:00.000Z",
+    "isoDate": "2026-02-16T11:51:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck"
+    "slug": "fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-    "pubDate": "Mon, 16 Feb 2026 00:30:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
-    "contentSnippet": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
-    "guid": "https://techcrunch.com/?p=3093252",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "pubDate": "Mon, 16 Feb 2026 11:20:27 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+    "contentSnippet": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+    "guid": "https://techcrunch.com/?p=3093283",
     "categories": [
       "AI",
-      "Startups",
-      "Blackstone",
-      "Neysa"
+      "Government & Policy",
+      "Anthropic",
+      "Google",
+      "India AI summit",
+      "Microsoft",
+      "nvidia",
+      "OpenAI"
     ],
-    "isoDate": "2026-02-16T00:30:00.000Z",
+    "isoDate": "2026-02-16T11:20:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-infrastructure"
+    "slug": "all-the-important-news-from-the-ongoing-india-ai-impact-summit"
+  },
+  {
+    "title": "(No AI) After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement",
+    "pubDate": "2026-02-16T11:29:24.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Tom Cruise and Brad Pitt attend the European Premiere of ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2221026706.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nHollywood groups have spoken out against Seedance 2.0 since generated videos like fight scenes between Tom Cruise and Brad Pitt went viral. | Image by Dave Benett / WireImage via Getty\n\nTikTok creator ByteDance says that it is working to improve safeguards on its new AI video generator after Disney, Paramount, and Hollywood trade groups accused the tool of violating copyright protections. Concerns were raised after hyperrealistic videos generated by the [Seedance 2.0 model](https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch) went viral last week, with the likeness of actors, such as Tom Cruise and Brad Pitt, and characters from [_Dragon Ball Z_](https://x.com/NACHOS2D_/status/2020624444344213959?s=20), [_Family Guy_](https://x.com/aleenaamiir/status/2021900753955434844?s=20), and [_Pokémon_](https://x.com/nasan_0422/status/2021066670668906615?s=20).\n\n\"ByteDance respects intellectual property rights and we have heard the concerns regarding Seedance 2.0,\" a ByteDance spokesperson said in a statement shared by [_CNBC_](https://www.cnbc.com/2026/02/16/bytedance-safegaurds-seedance-ai-copyright-disney-mpa-netflix-paramount-sony-universal.html). \"We are taking steps to strengthen current saf …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement)",
+    "contentSnippet": "Hollywood groups have spoken out against Seedance 2.0 since generated videos like fight scenes between Tom Cruise and Brad Pitt went viral. | Image by Dave Benett / WireImage via Getty\t\n\nTikTok creator ByteDance says that it is working to improve safeguards on its new AI video generator after Disney, Paramount, and Hollywood trade groups accused the tool of violating copyright protections. Concerns were raised after hyperrealistic videos generated by the Seedance 2.0 model went viral last week, with the likeness of actors, such as Tom Cruise and Brad Pitt, and characters from Dragon Ball Z, Family Guy, and Pokémon.\n\"ByteDance respects intellectual property rights and we have heard the concerns regarding Seedance 2.0,\" a ByteDance spokesperson said in a statement shared by CNBC. \"We are taking steps to strengthen current saf …\nRead the full story at The Verge.",
+    "summary": "TikTok creator ByteDance says that it is working to improve safeguards on its new AI video generator after Disney, Paramount, and Hollywood trade groups accused the tool of violating copyright protections. Concerns were raised after hyperrealistic videos generated by the Seedance 2.0 model went viral last week, with the likeness of actors, such as Tom [&#8230;]",
+    "id": "https://www.theverge.com/?p=879644",
+    "isoDate": "2026-02-16T11:29:24.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2221026706.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "after-spooking-hollywood-bytedance-will-tweak-safeguards-on-new-ai-model"
   },
   {
     "title": "(No AI) OpenClaw founder Peter Steinberger is joining OpenAI",
@@ -55,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openclaw-founder-peter-steinberger-is-joining-openai"
-  },
-  {
-    "title": "(No AI) I hate my AI pet with every fiber of my being",
-    "link": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
-    "pubDate": "2026-02-15T15:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![A bronze Moflin on a wooden desk. ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268331_Casio_Moflin_AI_pet_hands_on_RHart_0002.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI can still hear it whining and whirring. | Photo by Robert Hart / The Verge\n\nAfter a few weeks living with [Casio's AI-powered pet, Moflin](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin), I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with an overwhelming desire to hurl it as far as I can.\n\nMy antipathy surprises me. By any metric, I am the exact kind of person Moflin was made for: I long for the companionship of a pet, but can't own one thanks to a mixture of lifestyle, allergies, a small London flat, and a broadly irresponsible temperament that makes caring for another living …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet)",
-    "contentSnippet": "I can still hear it whining and whirring. | Photo by Robert Hart / The Verge\t\n\nAfter a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with an overwhelming desire to hurl it as far as I can. \nMy antipathy surprises me. By any metric, I am the exact kind of person Moflin was made for: I long for the companionship of a pet, but can't own one thanks to a mixture of lifestyle, allergies, a small London flat, and a broadly irresponsible temperament that makes caring for another living  …\nRead the full story at The Verge.",
-    "summary": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with [&#8230;]",
-    "id": "https://www.theverge.com/?p=877858",
-    "isoDate": "2026-02-15T15:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268331_Casio_Moflin_AI_pet_hands_on_RHart_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "i-hate-my-ai-pet-with-every-fiber-of-my-being"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
