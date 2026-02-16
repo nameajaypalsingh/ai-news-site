@@ -1,42 +1,60 @@
 [
   {
     "creator": "Jagmeet Singh",
-    "title": "(No AI) India has 100M weekly active ChatGPT users, Sam Altman says",
-    "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-    "pubDate": "Sun, 15 Feb 2026 18:00:00 +0000",
+    "title": "(No AI) As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+    "pubDate": "Mon, 16 Feb 2026 01:00:00 +0000",
     "dc:creator": "Jagmeet Singh",
-    "content": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-    "contentSnippet": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-    "guid": "https://techcrunch.com/?p=3093246",
+    "content": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+    "contentSnippet": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+    "guid": "https://techcrunch.com/?p=3093187",
     "categories": [
+      "Startups",
       "AI",
-      "sam altman",
-      "OpenAI",
-      "ChatGPT"
+      "data centers",
+      "Exclusive",
+      "Peak XV Partners",
+      "ai data centers",
+      "TDK Ventures",
+      "C2i",
+      "C2i Semiconductors"
     ],
-    "isoDate": "2026-02-15T18:00:00.000Z",
+    "isoDate": "2026-02-16T01:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-has-100m-weekly-active-chatgpt-users-sam-altman-says"
+    "slug": "as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-    "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-    "pubDate": "Sun, 15 Feb 2026 17:30:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-    "contentSnippet": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-    "guid": "https://techcrunch.com/?p=3093083",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+    "pubDate": "Mon, 16 Feb 2026 00:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+    "contentSnippet": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+    "guid": "https://techcrunch.com/?p=3093252",
     "categories": [
-      "Enterprise",
+      "Startups",
       "AI",
-      "Enterprise AI",
-      "Glean",
-      "Equity"
+      "Blackstone",
+      "Neysa"
     ],
-    "isoDate": "2026-02-15T17:30:00.000Z",
+    "isoDate": "2026-02-16T00:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface"
+    "slug": "blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-infrastructure"
+  },
+  {
+    "title": "(No AI) OpenClaw founder Peter Steinberger is joining OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+    "pubDate": "2026-02-15T22:56:16.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![The OpenClaw logo on a dark blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman [announced on X](https://x.com/sama/status/2023150230905159801) that Peter Steinberger, the man behind the trendy AI agent [OpenClaw](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news), was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents to work together will \"quickly become core to our product offerings.\"\n\nOpenClaw, previously known as Moltbot and Clawdbot, exploded on the scene earlier this year and became the [darling of the tech world](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent). Its rise was swift, but not without its bumps along the way. Earlier this month, researchers [found over 400 malicious skil …](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)",
+    "contentSnippet": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents to work together will \"quickly become core to our product offerings.\"\nOpenClaw, previously known as Moltbot and Clawdbot, exploded on the scene earlier this year and became the darling of the tech world. Its rise was swift, but not without its bumps along the way. Earlier this month, researchers found over 400 malicious skil …\nRead the full story at The Verge.",
+    "summary": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that this ability for agents [&#8230;]",
+    "id": "https://www.theverge.com/?p=879623",
+    "isoDate": "2026-02-15T22:56:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openclaw-founder-peter-steinberger-is-joining-openai"
   },
   {
     "title": "(No AI) I hate my AI pet with every fiber of my being",
@@ -51,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268331_Casio_Moflin_AI_pet_hands_on_RHart_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "i-hate-my-ai-pet-with-every-fiber-of-my-being"
-  },
-  {
-    "title": "(No AI) AI can’t make good video game worlds yet, and it might never be able to",
-    "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
-    "pubDate": "2026-02-15T13:00:00.000Z",
-    "author": "Jay Peters",
-    "content": "![Project Genie rendering of a Mario-like world](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [The Stepback](https://www.theverge.com/the-stepback-newsletter)_, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, [follow Jay Peters](https://www.theverge.com/authors/jay-peters)._ The Stepback _arrives in our subscribers' inboxes at 8AM ET. Opt in for_ The Stepback [_here_](https://www.theverge.com/newsletters)_._\n\n## How it started\n\nLong before the generative AI explosion, video game developers made games that could generate their own worlds. Think of titles like _Minecraft_ or even the original 1980 _Rogue_ that is the basis for the term \"roguelike\"; these games and many others create worlds on the fly with certain rules and parameters. Human developers painstakingly work to make s …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie)",
-    "contentSnippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before the generative AI explosion, video game developers made games that could generate their own worlds. Think of titles like Minecraft or even the original 1980 Rogue that is the basis for the term \"roguelike\"; these games and many others create worlds on the fly with certain rules and parameters. Human developers painstakingly work to make s …\nRead the full story at The Verge.",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before the generative AI explosion, [&#8230;]",
-    "id": "https://www.theverge.com/?p=879524",
-    "isoDate": "2026-02-15T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-can-t-make-good-video-game-worlds-yet-and-it-might-never-be-able-to"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
