@@ -121,6 +121,23 @@
     "slug": "accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) The Small English Town Swept Up in the Global AI Arms Race",
+    "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+    "pubDate": "Tue, 17 Feb 2026 07:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "contentSnippet": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "guid": "69836f0ce73fc082de0e115e",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-17T07:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-small-english-town-swept-up-in-the-global-ai-arms-race"
+  },
+  {
     "creator": "David Nield",
     "title": "(No AI) Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
     "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
@@ -136,22 +153,5 @@
     "isoDate": "2026-02-15T11:30:00.000Z",
     "source": "Wired AI",
     "slug": "google-s-ai-overviews-can-scam-you-here-s-how-to-stay-safe"
-  },
-  {
-    "creator": "Zeyi Yang",
-    "title": "(No AI) OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
-    "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-    "pubDate": "Fri, 13 Feb 2026 21:56:18 +0000",
-    "dc:creator": "Zeyi Yang",
-    "content": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-    "contentSnippet": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-    "guid": "698cfbf49ab1d3ee0004bde6",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-13T21:56:18.000Z",
-    "source": "Wired AI",
-    "slug": "openai-is-nuking-its-4o-model-china-s-chatgpt-fans-aren-t-ok"
   }
 ]
