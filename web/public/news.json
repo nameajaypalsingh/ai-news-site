@@ -1,42 +1,43 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
-    "link": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
-    "pubDate": "Tue, 17 Feb 2026 12:55:12 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
-    "contentSnippet": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
-    "guid": "https://techcrunch.com/?p=3093372",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Running AI models is turning into a memory game",
+    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+    "pubDate": "Tue, 17 Feb 2026 16:44:14 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+    "contentSnippet": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+    "guid": "https://techcrunch.com/?p=3093429",
     "categories": [
       "AI",
-      "Enterprise",
-      "Anthropic",
-      "infosys",
-      "it services"
+      "dram",
+      "Exclusive",
+      "inference costs"
     ],
-    "isoDate": "2026-02-17T12:55:12.000Z",
+    "isoDate": "2026-02-17T16:44:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents"
+    "slug": "running-ai-models-is-turning-into-a-memory-game"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Cohere launches a family of open multilingual models",
-    "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
-    "pubDate": "Tue, 17 Feb 2026 09:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Cohere's Tiny Aya models support over 70 langauges",
-    "contentSnippet": "Cohere's Tiny Aya models support over 70 langauges",
-    "guid": "https://techcrunch.com/?p=3093327",
+    "creator": "Zack Whittaker",
+    "title": "(No AI) European Parliament blocks AI on lawmakers’ devices, citing security risks",
+    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "pubDate": "Tue, 17 Feb 2026 16:30:43 +0000",
+    "dc:creator": "Zack Whittaker",
+    "content": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+    "contentSnippet": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+    "guid": "https://techcrunch.com/?p=3093475",
     "categories": [
       "AI",
-      "Cohere",
-      "ai models",
-      "Offline first"
+      "Security",
+      "cybersecurity",
+      "data protection",
+      "Europe",
+      "european union"
     ],
-    "isoDate": "2026-02-17T09:00:00.000Z",
+    "isoDate": "2026-02-17T16:30:43.000Z",
     "source": "TechCrunch AI",
-    "slug": "cohere-launches-a-family-of-open-multilingual-models"
+    "slug": "european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks"
   },
   {
     "title": "(No AI) Laurie Spiegel on the difference between algorithmic music and ‘AI’",
@@ -57,8 +58,8 @@
     "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
     "pubDate": "2026-02-17T10:55:32.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Three screenshots taken from AI-generated Samsung ads on YouTube.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-AI-slop-ads-.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEven if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\n\nThe \"[Brighten your after hours](https://www.youtube.com/shorts/QkomSJ7P4O4)\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen towards the end of the video, flagging that it was \"generated with the as …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop)",
-    "contentSnippet": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nThe \"Brighten your after hours\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen towards the end of the video, flagging that it was \"generated with the as …\nRead the full story at The Verge.",
+    "content": "![Three screenshots taken from AI-generated Samsung ads on YouTube.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-AI-slop-ads-.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEven if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\n\nThe \"[Brighten your after hours](https://www.youtube.com/shorts/QkomSJ7P4O4)\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop)",
+    "contentSnippet": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nThe \"Brighten your after hours\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\nRead the full story at The Verge.",
     "summary": "After cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series. The [&#8230;]",
     "id": "https://www.theverge.com/?p=879864",
     "isoDate": "2026-02-17T10:55:32.000Z",
@@ -139,8 +140,8 @@
     "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
     "pubDate": "Tue, 17 Feb 2026 07:00:00 +0000",
     "dc:creator": "Joel Khalili",
-    "content": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-    "contentSnippet": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "content": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "contentSnippet": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
     "guid": "69836f0ce73fc082de0e115e",
     "categories": [
       "Business",
