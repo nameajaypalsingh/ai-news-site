@@ -1,71 +1,68 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Apple is reportedly cooking up a trio of AI wearables",
+    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+    "contentSnippet": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+    "guid": "https://techcrunch.com/?p=3093595",
+    "categories": [
+      "AI",
+      "Apple",
+      "iPhone",
+      "wearables"
+    ],
+    "isoDate": "2026-02-17T20:14:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "apple-is-reportedly-cooking-up-a-trio-of-ai-wearables"
+  },
+  {
     "creator": "Russell Brandom",
-    "title": "(No AI) Running AI models is turning into a memory game",
-    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-    "pubDate": "Tue, 17 Feb 2026 16:44:14 +0000",
+    "title": "(No AI) Anthropic releases Sonnet 4.6",
+    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "pubDate": "Tue, 17 Feb 2026 18:00:00 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-    "contentSnippet": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-    "guid": "https://techcrunch.com/?p=3093429",
+    "content": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+    "contentSnippet": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+    "guid": "https://techcrunch.com/?p=3093500",
     "categories": [
       "AI",
-      "dram",
-      "Exclusive",
-      "inference costs"
+      "Anthropic",
+      "Sonnet"
     ],
-    "isoDate": "2026-02-17T16:44:14.000Z",
+    "isoDate": "2026-02-17T18:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "running-ai-models-is-turning-into-a-memory-game"
+    "slug": "anthropic-releases-sonnet-4-6"
   },
   {
-    "creator": "Zack Whittaker",
-    "title": "(No AI) European Parliament blocks AI on lawmakers’ devices, citing security risks",
-    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-    "pubDate": "Tue, 17 Feb 2026 16:30:43 +0000",
-    "dc:creator": "Zack Whittaker",
-    "content": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-    "contentSnippet": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-    "guid": "https://techcrunch.com/?p=3093475",
-    "categories": [
-      "AI",
-      "Security",
-      "cybersecurity",
-      "data protection",
-      "Europe",
-      "european union"
-    ],
-    "isoDate": "2026-02-17T16:30:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks"
-  },
-  {
-    "title": "(No AI) Laurie Spiegel on the difference between algorithmic music and ‘AI’",
-    "link": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
-    "pubDate": "2026-02-17T13:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Laurie Spiegel on the streets of NYC.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/04-Laurie-Spiegel-by-Irina-Prosser.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFrom Bell Labs to Macs, Laurie Spiegel has pushed musical boundaries. | Image: Irina Prosser / Eventide\n\nIn 1986, electronic music pioneer Laurie Spiegel created [Music Mouse](https://youtu.be/D-mmEvGOopk), a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. [Music Mouse](https://www.eventideaudio.com/software/music-mouse/) is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the computer mouse was still a relatively novel device. While it can trace its origins back to the late '60s, it wasn't until the [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) in 1984 that it started seeing widespread adoption.\n\nBy then Spiegel, was already an accomplished composer. Her 1980 album [_The Expanding Universe_](https://lauriespiegel.bandcamp.com/album/the-expanding-universe?search_item_id%3D1696851893%26search_item_type%3Da%26search_match_part%3D%253F%26search_page_id%3D5139357610%26search_page_no%3D0%26search_rank%3D2=) is generally considered among the [greatest ambient](https://pitchfork.com/features/lists-and-guides/9948-the-50-best-ambient-albums-of-all-time/) records of all tim …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)",
-    "contentSnippet": "From Bell Labs to Macs, Laurie Spiegel has pushed musical boundaries. | Image: Irina Prosser / Eventide\t\n\nIn 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the computer mouse was still a relatively novel device. While it can trace its origins back to the late '60s, it wasn't until the Macintosh 128K in 1984 that it started seeing widespread adoption.\nBy then Spiegel, was already an accomplished composer. Her 1980 album The Expanding Universe is generally considered among the greatest ambient records of all tim …\nRead the full story at The Verge.",
-    "summary": "In 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the computer mouse was [&#8230;]",
-    "id": "https://www.theverge.com/?p=879819",
-    "isoDate": "2026-02-17T13:00:00.000Z",
+    "title": "(No AI) Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
+    "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
+    "pubDate": "2026-02-17T19:26:21.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of the second-gen Ray-Ban Meta smart glasses](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0103.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, [according to a report from _Bloomberg_'s Mark Gurman](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era). The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" _Bloomberg_ reports.\n\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)",
+    "contentSnippet": "The second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports.\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to  …\nRead the full story at The Verge.",
+    "summary": "Apple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports. [&#8230;]",
+    "id": "https://www.theverge.com/?p=880293",
+    "isoDate": "2026-02-17T19:26:21.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/04-Laurie-Spiegel-by-Irina-Prosser.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "laurie-spiegel-on-the-difference-between-algorithmic-music-and-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods"
   },
   {
-    "title": "(No AI) Samsung is slopping AI ads all over its social channels",
-    "link": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
-    "pubDate": "2026-02-17T10:55:32.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Three screenshots taken from AI-generated Samsung ads on YouTube.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-AI-slop-ads-.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEven if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\n\nThe \"[Brighten your after hours](https://www.youtube.com/shorts/QkomSJ7P4O4)\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop)",
-    "contentSnippet": "Even if the AI wasn’t being disclosed, its usage in these videos isn’t exactly subtle. | Image: Samsung / The Verge\t\n\nAfter cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nThe \"Brighten your after hours\" video features two people skateboarding at night, and supposedly shows off the low-light video capabilities of the upcoming Galaxy S26 devices. Fine print appears at the bottom of the screen toward the end of the video, flagging that it was \"generated with the ass …\nRead the full story at The Verge.",
-    "summary": "After cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media. Several videos posted to the company's YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series. The [&#8230;]",
-    "id": "https://www.theverge.com/?p=879864",
-    "isoDate": "2026-02-17T10:55:32.000Z",
+    "title": "(No AI) WordPress’ new AI assistant will let users edit their sites with prompts",
+    "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+    "pubDate": "2026-02-17T18:33:15.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A screenshot of WordPress’ built-in AI assistant in the site editor](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/wordpress-ai-assistant-page-editor.png?quality=90&strip=all&crop=0,0,100,100)\n\nStarting on Tuesday, WordPress users can edit their websites using the [new AI assistant](https://wordpress.com/blog/2026/02/17/wordpress-ai-assistant/) built into the platform's site editor and media library, [_TechCrunch_](https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/) reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new [block notes feature](https://wordpress.org/download/releases/6-9/) WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)",
+    "contentSnippet": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new block notes feature WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\nRead the full story at The Verge.",
+    "summary": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make [&#8230;]",
+    "id": "https://www.theverge.com/?p=880223",
+    "isoDate": "2026-02-17T18:33:15.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-AI-slop-ads-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "samsung-is-slopping-ai-ads-all-over-its-social-channels"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/wordpress-ai-assistant-page-editor.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "wordpress-new-ai-assistant-will-let-users-edit-their-sites-with-prompts"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
@@ -118,6 +115,23 @@
     "slug": "accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns",
+    "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+    "pubDate": "Tue, 17 Feb 2026 20:10:12 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
+    "contentSnippet": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
+    "guid": "6994b28bda5070f98b77f79b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-17T20:10:12.000Z",
+    "source": "Wired AI",
+    "slug": "meta-and-other-tech-companies-ban-openclaw-over-cybersecurity-concerns"
+  },
+  {
     "creator": "Emily Mullin",
     "title": "(No AI) AI Digital Twins Are Helping People Manage Diabetes and Obesity",
     "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
@@ -133,22 +147,5 @@
     "isoDate": "2026-02-17T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-digital-twins-are-helping-people-manage-diabetes-and-obesity"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) The Small English Town Swept Up in the Global AI Arms Race",
-    "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-    "pubDate": "Tue, 17 Feb 2026 07:00:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-    "contentSnippet": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-    "guid": "69836f0ce73fc082de0e115e",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-17T07:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-small-english-town-swept-up-in-the-global-ai-arms-race"
   }
 ]
