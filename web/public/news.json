@@ -1,48 +1,48 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google adds music-generation capabilities to the Gemini app",
-    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-    "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Users will be able to use text, images, and videos as a reference to generate music.",
-    "contentSnippet": "Users will be able to use text, images, and videos as a reference to generate music.",
-    "guid": "https://techcrunch.com/?p=3093872",
+    "creator": "Rebecca Bellan, Theresa Loconsolo",
+    "title": "(No AI) Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+    "pubDate": "Wed, 18 Feb 2026 20:22:29 +0000",
+    "dc:creator": "Rebecca Bellan, Theresa Loconsolo",
+    "content": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond \\[…\\]",
+    "contentSnippet": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3094010",
     "categories": [
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "ai music",
-      "gemini",
-      "Google"
+      "Fundraising",
+      "Startups",
+      "AI startup",
+      "Darren Mowry",
+      "Equity podcast",
+      "google cloud",
+      "Google Global Startups",
+      "LLMs"
     ],
-    "isoDate": "2026-02-18T16:00:00.000Z",
+    "isoDate": "2026-02-18T20:22:29.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-adds-music-generation-capabilities-to-the-gemini-app"
+    "slug": "google-cloud-s-vp-for-startups-on-reading-your-check-engine-light-before-it-s-too-late"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-    "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-    "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-    "contentSnippet": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-    "guid": "https://techcrunch.com/?p=3093896",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Amazon halts Blue Jay robotics project after less than six months",
+    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+    "pubDate": "Wed, 18 Feb 2026 18:27:10 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
+    "contentSnippet": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
+    "guid": "https://techcrunch.com/?p=3094024",
     "categories": [
       "AI",
-      "Commerce",
-      "Startups",
-      "AI agents",
-      "Exclusive",
-      "Marketing",
-      "martech",
-      "mayfield",
-      "mayfield fund"
+      "Robotics",
+      "Amazon",
+      "artificial intelligence",
+      "robotics",
+      "warehouse robotics"
     ],
-    "isoDate": "2026-02-18T15:08:40.000Z",
+    "isoDate": "2026-02-18T18:27:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers"
+    "slug": "amazon-halts-blue-jay-robotics-project-after-less-than-six-months"
   },
   {
     "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
@@ -123,37 +123,37 @@
     "slug": "accelerating-discovery-in-india-through-ai-powered-science-and-education"
   },
   {
-    "creator": "Molly Taft",
-    "title": "(No AI) Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof",
-    "link": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-    "pubDate": "Wed, 18 Feb 2026 15:17:31 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-    "contentSnippet": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-    "guid": "69947316e8ce4dcb7c18d0a3",
-    "categories": [
-      "Science",
-      "Science / Environment"
-    ],
-    "isoDate": "2026-02-18T15:17:31.000Z",
-    "source": "Wired AI",
-    "slug": "big-tech-says-generative-ai-will-save-the-planet-it-doesn-t-offer-much-proof"
-  },
-  {
-    "creator": "Kyle MacNeill",
-    "title": "(No AI) The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
-    "link": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
-    "pubDate": "Wed, 18 Feb 2026 11:00:00 +0000",
-    "dc:creator": "Kyle MacNeill",
-    "content": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\"",
-    "contentSnippet": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\"",
-    "guid": "69865e85c3efe03ee31a6737",
+    "creator": "Will Knight",
+    "title": "(No AI) This Defense Company Made AI Agents That Blow Things Up",
+    "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+    "pubDate": "Wed, 18 Feb 2026 19:47:15 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+    "contentSnippet": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+    "guid": "698607fb8d12f90caa650ff8",
     "categories": [
       "Business",
-      "Business / Startups"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-02-18T11:00:00.000Z",
+    "isoDate": "2026-02-18T19:47:15.000Z",
     "source": "Wired AI",
-    "slug": "the-rise-of-rentahuman-the-marketplace-where-bots-put-people-to-work"
+    "slug": "this-defense-company-made-ai-agents-that-blow-things-up"
+  },
+  {
+    "creator": "Lauren Goode",
+    "title": "(No AI) Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "pubDate": "Wed, 18 Feb 2026 19:24:55 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+    "contentSnippet": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+    "guid": "6995c8515366fbe3869b6b5b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-18T19:24:55.000Z",
+    "source": "Wired AI",
+    "slug": "nvidia-s-deal-with-meta-signals-a-new-era-in-computing-power"
   }
 ]
