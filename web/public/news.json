@@ -10,7 +10,9 @@
     "guid": "https://techcrunch.com/?p=3093595",
     "categories": [
       "AI",
+      "Hardware",
       "Apple",
+      "In Brief",
       "iPhone",
       "wearables"
     ],
@@ -24,12 +26,13 @@
     "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
     "pubDate": "Tue, 17 Feb 2026 18:00:00 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
-    "contentSnippet": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+    "content": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
+    "contentSnippet": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
     "guid": "https://techcrunch.com/?p=3093500",
     "categories": [
       "AI",
       "Anthropic",
+      "In Brief",
       "Sonnet"
     ],
     "isoDate": "2026-02-17T18:00:00.000Z",
@@ -37,32 +40,32 @@
     "slug": "anthropic-releases-sonnet-4-6"
   },
   {
-    "title": "(No AI) Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
-    "link": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
-    "pubDate": "2026-02-17T19:26:21.000Z",
-    "author": "Emma Roth",
-    "content": "![A photo of the second-gen Ray-Ban Meta smart glasses](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0103.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, [according to a report from _Bloomberg_'s Mark Gurman](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era). The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" _Bloomberg_ reports.\n\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)",
-    "contentSnippet": "The second-gen Ray-Ban Meta smart glasses. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports.\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch. The new device will compete directly with Meta's lineup of smart glasses and is rumored to feature speakers, microphones, and a high-resolution camera for taking photos and videos, in addition to  …\nRead the full story at The Verge.",
-    "summary": "Apple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg's Mark Gurman. The three devices come with built-in cameras and will connect to the iPhone, allowing Siri to use \"visual context to carry out actions,\" Bloomberg reports. [&#8230;]",
-    "id": "https://www.theverge.com/?p=880293",
-    "isoDate": "2026-02-17T19:26:21.000Z",
+    "title": "(No AI) Meta’s new deal with Nvidia buys up millions of AI chips",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+    "pubDate": "2026-02-18T00:27:08.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![An illustration of the Meta logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which [Nvidia says](https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia) will deliver \"significant performance-per-watt improvements in \\[Meta's\\] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027.\n\nMeta is also [working on its own in-house chips](https://www.theverge.com/2024/2/1/24058179/meta-reportedly-working-on-a-new-ai-chip-it-plans-to-launch-this-year) for running AI models, but according to the [_Financial Times_](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504), it has run into \"technical challenges and rollout …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips)",
+    "contentSnippet": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027. \nMeta is also working on its own in-house chips for running AI models, but according to the Financial Times, it has run into \"technical challenges and rollout  …\nRead the full story at The Verge.",
+    "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
+    "id": "https://www.theverge.com/?p=880513",
+    "isoDate": "2026-02-18T00:27:08.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-s-new-deal-with-nvidia-buys-up-millions-of-ai-chips"
   },
   {
-    "title": "(No AI) WordPress’ new AI assistant will let users edit their sites with prompts",
-    "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
-    "pubDate": "2026-02-17T18:33:15.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A screenshot of WordPress’ built-in AI assistant in the site editor](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/wordpress-ai-assistant-page-editor.png?quality=90&strip=all&crop=0,0,100,100)\n\nStarting on Tuesday, WordPress users can edit their websites using the [new AI assistant](https://wordpress.com/blog/2026/02/17/wordpress-ai-assistant/) built into the platform's site editor and media library, [_TechCrunch_](https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/) reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new [block notes feature](https://wordpress.org/download/releases/6-9/) WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)",
-    "contentSnippet": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.\n\nUsers can also interact with the AI through the new block notes feature WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor. By tagging the AI assistant with \"@ai\" in block notes, users can give it p …\nRead the full story at The Verge.",
-    "summary": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make [&#8230;]",
-    "id": "https://www.theverge.com/?p=880223",
-    "isoDate": "2026-02-17T18:33:15.000Z",
+    "title": "(No AI) Google’s AI search results will make links more obvious",
+    "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+    "pubDate": "2026-02-17T22:38:24.000Z",
+    "author": "Emma Roth",
+    "content": "![An illustration of the Google logo on a red, green, and blue background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, [announced on Tuesday](https://x.com/rmstein/status/2023865995908313531?s=20) that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images.\n\nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/aimode-link-popup.png?quality=90&strip=all&crop=0,0,100,100)\n\nWhile AI Overviews appear as …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update)",
+    "contentSnippet": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images. \nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\nWhile AI Overviews appear as  …\nRead the full story at The Verge.",
+    "summary": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of [&#8230;]",
+    "id": "https://www.theverge.com/?p=880475",
+    "isoDate": "2026-02-17T22:38:24.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/wordpress-ai-assistant-page-editor.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "wordpress-new-ai-assistant-will-let-users-edit-their-sites-with-prompts"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-search-results-will-make-links-more-obvious"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
@@ -116,7 +119,7 @@
   },
   {
     "creator": "Paresh Dave",
-    "title": "(No AI) Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns",
+    "title": "(No AI) Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
     "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
     "pubDate": "Tue, 17 Feb 2026 20:10:12 +0000",
     "dc:creator": "Paresh Dave",
@@ -129,7 +132,7 @@
     ],
     "isoDate": "2026-02-17T20:10:12.000Z",
     "source": "Wired AI",
-    "slug": "meta-and-other-tech-companies-ban-openclaw-over-cybersecurity-concerns"
+    "slug": "meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears"
   },
   {
     "creator": "Emily Mullin",
