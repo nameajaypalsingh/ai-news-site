@@ -1,43 +1,62 @@
 [
   {
     "creator": "Ivan Mehta",
-    "title": "(No AI) India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
-    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
-    "pubDate": "Wed, 18 Feb 2026 13:01:04 +0000",
+    "title": "(No AI) Google adds music-generation capabilities to the Gemini app",
+    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+    "pubDate": "Wed, 18 Feb 2026 16:00:00 +0000",
     "dc:creator": "Ivan Mehta",
-    "content": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
-    "contentSnippet": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
-    "guid": "https://techcrunch.com/?p=3093888",
+    "content": "Users will be able to use text, images, and videos as a reference to generate music.",
+    "contentSnippet": "Users will be able to use text, images, and videos as a reference to generate music.",
+    "guid": "https://techcrunch.com/?p=3093872",
     "categories": [
       "AI",
-      "Hardware",
-      "India AI Impact Summit 2026",
-      "Qualcomm",
-      "Sarvam"
+      "Apps",
+      "Media & Entertainment",
+      "ai music",
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-02-18T13:01:04.000Z",
+    "isoDate": "2026-02-18T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-s-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses"
+    "slug": "google-adds-music-generation-capabilities-to-the-gemini-app"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
-    "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
-    "pubDate": "Wed, 18 Feb 2026 12:55:20 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
-    "contentSnippet": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
-    "guid": "https://techcrunch.com/?p=3093889",
+    "creator": "Ram Iyer",
+    "title": "(No AI) Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+    "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+    "pubDate": "Wed, 18 Feb 2026 15:08:40 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+    "contentSnippet": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+    "guid": "https://techcrunch.com/?p=3093896",
     "categories": [
       "AI",
-      "India AI Impact Summit 2026",
-      "Saram 105B",
-      "Sarvam",
-      "Sarvam 30B"
+      "Commerce",
+      "Startups",
+      "AI agents",
+      "Exclusive",
+      "Marketing",
+      "martech",
+      "mayfield",
+      "mayfield fund"
     ],
-    "isoDate": "2026-02-18T12:55:20.000Z",
+    "isoDate": "2026-02-18T15:08:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "indian-ai-lab-sarvam-s-new-models-are-a-major-bet-on-the-viability-of-open-source-ai"
+    "slug": "kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers"
+  },
+  {
+    "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta",
+    "pubDate": "2026-02-18T16:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A screenshot of the Gemini app’s new AI music maker.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Gemini-app-lyria-3-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLet Gemini be your, uh, Bard? | Image: Google\n\nGoogle has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to [Lyria 3](https://deepmind.google/models/lyria/) is rolling out in the Gemini app, enabling users to generate 30-second tracks based on text, images, and videos, without having to leave the chatbot window.\n\nThe new music-making tool is available globally starting today in English, German, Spanish, French, Hindi, Japanese, Korean, and Portuguese, with plans to expand in the future. Access is limited to Gemini app users who are 18 years or older.\n\nLyria 3's text-to-music capabilities allow Gemini app users to make songs by describing specific genres, moods, or …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta)",
+    "contentSnippet": "Let Gemini be your, uh, Bard? | Image: Google\t\n\nGoogle has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to Lyria 3 is rolling out in the Gemini app, enabling users to generate 30-second tracks based on text, images, and videos, without having to leave the chatbot window.\nThe new music-making tool is available globally starting today in English, German, Spanish, French, Hindi, Japanese, Korean, and Portuguese, with plans to expand in the future. Access is limited to Gemini app users who are 18 years or older.\nLyria 3's text-to-music capabilities allow Gemini app users to make songs by describing specific genres, moods, or …\nRead the full story at The Verge.",
+    "summary": "Google has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to Lyria 3 is rolling out in the Gemini app, enabling users to generate 30-second tracks based on text, images, and videos, without having to leave the chatbot window. The new music-making tool is available globally [&#8230;]",
+    "id": "https://www.theverge.com/?p=880584",
+    "isoDate": "2026-02-18T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Gemini-app-lyria-3-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-music-maker-is-coming-to-the-gemini-app"
   },
   {
     "title": "(No AI) Perplexity joins anti-ad camp as AI companies battle over trust and revenue ",
@@ -52,20 +71,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "perplexity-joins-anti-ad-camp-as-ai-companies-battle-over-trust-and-revenue"
-  },
-  {
-    "title": "(No AI) Meta’s new deal with Nvidia buys up millions of AI chips",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-    "pubDate": "2026-02-18T00:27:08.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![An illustration of the Meta logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which [Nvidia says](https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia) will deliver \"significant performance-per-watt improvements in \\[Meta's\\] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027.\n\nMeta is also [working on its own in-house chips](https://www.theverge.com/2024/2/1/24058179/meta-reportedly-working-on-a-new-ai-chip-it-plans-to-launch-this-year) for running AI models, but according to the [_Financial Times_](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504), it has run into \"technical challenges and rollout …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips)",
-    "contentSnippet": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] data centers.\" The deal also includes plans to add Nvidia's next-generation Vera CPUs to Meta's data centers in 2027. \nMeta is also working on its own in-house chips for running AI models, but according to the Financial Times, it has run into \"technical challenges and rollout  …\nRead the full story at The Verge.",
-    "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
-    "id": "https://www.theverge.com/?p=880513",
-    "isoDate": "2026-02-18T00:27:08.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-s-new-deal-with-nvidia-buys-up-millions-of-ai-chips"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
@@ -96,6 +101,17 @@
     "slug": "introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
   },
   {
+    "title": "(No AI) A new way to express yourself: Gemini can now create music",
+    "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "pubDate": "Wed, 18 Feb 2026 16:01:38 +0000",
+    "content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "contentSnippet": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "guid": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "isoDate": "2026-02-18T16:01:38.000Z",
+    "source": "Google DeepMind",
+    "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
+  },
+  {
     "title": "(No AI) Accelerating discovery in India through AI-powered science and education",
     "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
     "pubDate": "Tue, 17 Feb 2026 13:42:20 +0000",
@@ -107,24 +123,30 @@
     "slug": "accelerating-discovery-in-india-through-ai-powered-science-and-education"
   },
   {
-    "title": "(No AI) Gemini 3 Deep Think: Advancing science, research and engineering",
-    "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-    "pubDate": "Thu, 12 Feb 2026 16:15:09 +0000",
-    "content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
-    "contentSnippet": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
-    "guid": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-    "isoDate": "2026-02-12T16:15:09.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-3-deep-think-advancing-science-research-and-engineering"
+    "creator": "Molly Taft",
+    "title": "(No AI) Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof",
+    "link": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
+    "pubDate": "Wed, 18 Feb 2026 15:17:31 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+    "contentSnippet": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+    "guid": "69947316e8ce4dcb7c18d0a3",
+    "categories": [
+      "Science",
+      "Science / Environment"
+    ],
+    "isoDate": "2026-02-18T15:17:31.000Z",
+    "source": "Wired AI",
+    "slug": "big-tech-says-generative-ai-will-save-the-planet-it-doesn-t-offer-much-proof"
   },
   {
     "creator": "Kyle MacNeill",
-    "title": "(No AI) How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+    "title": "(No AI) The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
     "link": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
     "pubDate": "Wed, 18 Feb 2026 11:00:00 +0000",
     "dc:creator": "Kyle MacNeill",
-    "content": "“We would \\[all\\] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”",
-    "contentSnippet": "“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”",
+    "content": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\"",
+    "contentSnippet": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\"",
     "guid": "69865e85c3efe03ee31a6737",
     "categories": [
       "Business",
@@ -132,23 +154,6 @@
     ],
     "isoDate": "2026-02-18T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "how-two-zoomers-created-rentahuman-the-first-marketplace-for-bots-to-hire-humans"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
-    "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
-    "pubDate": "Tue, 17 Feb 2026 20:10:12 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-    "contentSnippet": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-    "guid": "6994b28bda5070f98b77f79b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-17T20:10:12.000Z",
-    "source": "Wired AI",
-    "slug": "meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears"
+    "slug": "the-rise-of-rentahuman-the-marketplace-where-bots-put-people-to-work"
   }
 ]
