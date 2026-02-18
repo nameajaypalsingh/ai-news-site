@@ -1,43 +1,57 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Apple is reportedly cooking up a trio of AI wearables",
-    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-    "pubDate": "Tue, 17 Feb 2026 20:14:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-    "contentSnippet": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-    "guid": "https://techcrunch.com/?p=3093595",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+    "pubDate": "Wed, 18 Feb 2026 13:01:04 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+    "contentSnippet": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+    "guid": "https://techcrunch.com/?p=3093888",
     "categories": [
       "AI",
       "Hardware",
-      "Apple",
-      "In Brief",
-      "iPhone",
-      "wearables"
+      "India AI Impact Summit 2026",
+      "Qualcomm",
+      "Sarvam"
     ],
-    "isoDate": "2026-02-17T20:14:00.000Z",
+    "isoDate": "2026-02-18T13:01:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-is-reportedly-cooking-up-a-trio-of-ai-wearables"
+    "slug": "india-s-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic releases Sonnet 4.6",
-    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-    "pubDate": "Tue, 17 Feb 2026 18:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-    "contentSnippet": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-    "guid": "https://techcrunch.com/?p=3093500",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+    "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+    "pubDate": "Wed, 18 Feb 2026 12:55:20 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+    "contentSnippet": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+    "guid": "https://techcrunch.com/?p=3093889",
     "categories": [
       "AI",
-      "Anthropic",
-      "In Brief",
-      "Sonnet"
+      "India AI Impact Summit 2026",
+      "Saram 105B",
+      "Sarvam",
+      "Sarvam 30B"
     ],
-    "isoDate": "2026-02-17T18:00:00.000Z",
+    "isoDate": "2026-02-18T12:55:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-releases-sonnet-4-6"
+    "slug": "indian-ai-lab-sarvam-s-new-models-are-a-major-bet-on-the-viability-of-open-source-ai"
+  },
+  {
+    "title": "(No AI) Perplexity joins anti-ad camp as AI companies battle over trust and revenue ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+    "pubDate": "2026-02-18T11:02:22.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like Anthropic promising to keep them out.\n\nPerplexity began phasing out ads late last year and isn't exploring any new ad deals at the moment, executives said on Monday at a roundtable event, according to [_Business Insider_](https://www.businessinsider.com/perplexity-shifts-to-subscriptions-business-growth-2026-2) and the [_Financial Times_](https://www.ft.com/content/6eec07a5-34a8-4f78-a9ed-93ab4263d43c). It is a noteworthy U-turn for the US startup, which became one of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads)",
+    "contentSnippet": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like Anthropic promising to keep them out. \nPerplexity began phasing out ads late last year and isn't exploring any new ad deals at the moment, executives said on Monday at a roundtable event, according to Business Insider and the Financial Times. It is a noteworthy U-turn for the US startup, which became one of  …\nRead the full story at The Verge.",
+    "summary": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like [&#8230;]",
+    "id": "https://www.theverge.com/?p=880562",
+    "isoDate": "2026-02-18T11:02:22.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "perplexity-joins-anti-ad-camp-as-ai-companies-battle-over-trust-and-revenue"
   },
   {
     "title": "(No AI) Meta’s new deal with Nvidia buys up millions of AI chips",
@@ -52,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "meta-s-new-deal-with-nvidia-buys-up-millions-of-ai-chips"
-  },
-  {
-    "title": "(No AI) Google’s AI search results will make links more obvious",
-    "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-    "pubDate": "2026-02-17T22:38:24.000Z",
-    "author": "Emma Roth",
-    "content": "![An illustration of the Google logo on a red, green, and blue background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, [announced on Tuesday](https://x.com/rmstein/status/2023865995908313531?s=20) that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images.\n\nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/aimode-link-popup.png?quality=90&strip=all&crop=0,0,100,100)\n\nWhile AI Overviews appear as …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update)",
-    "contentSnippet": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images. \nStein adds that Google will also show these \"more descriptive and prominent link icons\" in its AI responses on desktop and mobile. \"Our testing shows this new UI is more engaging, making it easier to get to great content across the web,\" Stein writes.\nWhile AI Overviews appear as  …\nRead the full story at The Verge.",
-    "summary": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of [&#8230;]",
-    "id": "https://www.theverge.com/?p=880475",
-    "isoDate": "2026-02-17T22:38:24.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-ai-search-results-will-make-links-more-obvious"
   },
   {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
@@ -96,6 +96,17 @@
     "slug": "introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
   },
   {
+    "title": "(No AI) Accelerating discovery in India through AI-powered science and education",
+    "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "pubDate": "Tue, 17 Feb 2026 13:42:20 +0000",
+    "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "contentSnippet": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+    "guid": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "isoDate": "2026-02-17T13:42:20.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-discovery-in-india-through-ai-powered-science-and-education"
+  },
+  {
     "title": "(No AI) Gemini 3 Deep Think: Advancing science, research and engineering",
     "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
     "pubDate": "Thu, 12 Feb 2026 16:15:09 +0000",
@@ -107,15 +118,21 @@
     "slug": "gemini-3-deep-think-advancing-science-research-and-engineering"
   },
   {
-    "title": "(No AI) Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-    "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "pubDate": "Mon, 09 Feb 2026 16:12:06 +0000",
-    "content": "Research papers point to the growing impact of Deep Think across fields",
-    "contentSnippet": "Research papers point to the growing impact of Deep Think across fields",
-    "guid": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "isoDate": "2026-02-09T16:12:06.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think"
+    "creator": "Kyle MacNeill",
+    "title": "(No AI) How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+    "link": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
+    "pubDate": "Wed, 18 Feb 2026 11:00:00 +0000",
+    "dc:creator": "Kyle MacNeill",
+    "content": "“We would \\[all\\] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”",
+    "contentSnippet": "“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”",
+    "guid": "69865e85c3efe03ee31a6737",
+    "categories": [
+      "Business",
+      "Business / Startups"
+    ],
+    "isoDate": "2026-02-18T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "how-two-zoomers-created-rentahuman-the-first-marketplace-for-bots-to-hire-humans"
   },
   {
     "creator": "Paresh Dave",
@@ -133,22 +150,5 @@
     "isoDate": "2026-02-17T20:10:12.000Z",
     "source": "Wired AI",
     "slug": "meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears"
-  },
-  {
-    "creator": "Emily Mullin",
-    "title": "(No AI) AI Digital Twins Are Helping People Manage Diabetes and Obesity",
-    "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
-    "pubDate": "Tue, 17 Feb 2026 11:00:00 +0000",
-    "dc:creator": "Emily Mullin",
-    "content": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
-    "contentSnippet": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
-    "guid": "697cba05d81e4a03091a36de",
-    "categories": [
-      "Science",
-      "Science / Health"
-    ],
-    "isoDate": "2026-02-17T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-digital-twins-are-helping-people-manage-diabetes-and-obesity"
   }
 ]
