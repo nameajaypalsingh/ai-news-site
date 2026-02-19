@@ -1,44 +1,55 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI reportedly finalizing $100B deal at more than $850B valuation",
-    "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
-    "pubDate": "Thu, 19 Feb 2026 15:35:58 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
-    "contentSnippet": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
-    "guid": "https://techcrunch.com/?p=3094399",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) YouTube’s latest experiment brings its conversational AI tool to TVs",
+    "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+    "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
+    "contentSnippet": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
+    "guid": "https://techcrunch.com/?p=3094582",
     "categories": [
+      "Media & Entertainment",
       "AI",
-      "Fundraising",
-      "OpenAI",
-      "In Brief"
+      "Apps",
+      "YouTube",
+      "conversational AI"
     ],
-    "isoDate": "2026-02-19T15:35:58.000Z",
+    "isoDate": "2026-02-19T20:30:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation"
+    "slug": "youtube-s-latest-experiment-brings-its-conversational-ai-tool-to-tvs"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) OpenAI, Reliance partner to add AI search to JioHotstar",
-    "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-    "pubDate": "Thu, 19 Feb 2026 14:45:29 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-    "contentSnippet": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-    "guid": "https://techcrunch.com/?p=3094286",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Reddit is testing a new AI search feature for shopping",
+    "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+    "pubDate": "Thu, 19 Feb 2026 18:22:51 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+    "contentSnippet": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+    "guid": "https://techcrunch.com/?p=3094494",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "JioHotstar",
-      "JioStar",
-      "OpenAI",
-      "reliance industries",
-      "reliance jio"
+      "Apps",
+      "Reddit"
     ],
-    "isoDate": "2026-02-19T14:45:29.000Z",
+    "isoDate": "2026-02-19T18:22:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-reliance-partner-to-add-ai-search-to-jiohotstar"
+    "slug": "reddit-is-testing-a-new-ai-search-feature-for-shopping"
+  },
+  {
+    "title": "(No AI) The AI security nightmare is here and it looks suspiciously like lobster",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+    "pubDate": "2026-02-19T18:58:56.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_B_a2aa40.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA hacker tricked a popular AI coding tool into installing OpenClaw - the [viral, open-source AI agent OpenClaw](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news) that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf.\n\nThe hacker took advantage of a vulnerability in Cline, an open-source AI coding agent popular among developers, that security researcher Adnan Khan had [surfaced](https://adnanthekhan.com/posts/clinejection/) just days earlier as a proof of concept. Simply put, Cline's workflow used Anthropic's Claude, which could be fed sneaky instructions and made to do things that it shouldn't, a technique known …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack)",
+    "contentSnippet": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. \nThe hacker took advantage of a vulnerability in Cline, an open-source AI coding agent popular among developers, that security researcher Adnan Khan had surfaced just days earlier as a proof of concept. Simply put, Cline's workflow used Anthropic's Claude, which could be fed sneaky instructions and made to do things that it shouldn't, a technique known  …\nRead the full story at The Verge.",
+    "summary": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. The hacker took advantage of [&#8230;]",
+    "id": "https://www.theverge.com/?p=881574",
+    "isoDate": "2026-02-19T18:58:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_B_a2aa40.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-ai-security-nightmare-is-here-and-it-looks-suspiciously-like-lobster"
   },
   {
     "title": "(No AI) The speech police came for Colbert",
@@ -55,18 +66,18 @@
     "slug": "the-speech-police-came-for-colbert"
   },
   {
-    "title": "(No AI) Money no longer matters to AI’s top talent",
-    "link": "https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo",
-    "pubDate": "2026-02-19T15:00:00.000Z",
-    "author": "Nilay Patel",
-    "content": "![A photo illustration featuring Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DCD_0219.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nToday on _Decoder_ we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers.\n\nThe vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying some of the highest salaries in the history of the tech industry to poach researchers from one another.\n\nIt feels like every time one of these AI researchers leaves one company for another, they tell us exactly why. Sometimes they’re simply [resigning to go be a poet](https://www.bbc.com/news/articles/c62dlvdq3e3o). Sometimes they’re chasing a mission. Sometimes they’re worried that AI is going to imperil humanity, destroy all jobs, and plunge the world into chaos.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don’t forget you get exclusive access to ad-free _Decoder_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nThey’re really saying these things. They’re publishing these notes on X, in blog posts, or in the case of one former OpenAI safety researcher by writing a [full _New York Times_ op-ed](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html).\n\nI’ve been dying to really dig in and try to unpack what’s going on with all these talent moves in AI. So my guest today is _Verge_ senior AI reporter Hayden Field, who’s been covering the revolving door of the AI industry really closely and also the broader culture that’s motivating the AI workers to jump ship and the companies that are ruthlessly trying to hire them.\n\nThose motivations vary. Sure, all these people are paid extravagant salaries, but as you’ll hear Hayden say, a stronger motivating force is ideology and mission. The people working on AI, by and large, believe that what they’re doing is going to radically change the world, and they’re not really in desperate need of more money. So that really changes the incentive structures that might push people to leave, say, OpenAI for Anthropic, or to [quit Elon Musk’s xAI](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring) now that it’s been acquired by SpaceX.\n\nAt the same time, the incentives of the AI companies themselves are going from raising money to making money. Reporting suggests OpenAI and maybe even Anthropic [could go public this year,](https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42) and doing so would create a historic amount of wealth. It would also put new kinds of pressure on these companies to be more transparent about how they spend money and to be much more accountable for returning on the huge investments that they’ve raised so far.\n\nThere’s a lot in this conversation. The AI industry right now is full of drama. There’s big characters, bitter rivalries, lots of money, and really, really long blog posts about the end of the world.\n\n_If you’d like to read more about what we discussed in this episode, check out these links:_\n\n*   What’s behind the mass exodus at xAI? | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring)\n*   OpenClaw founder Peter Steinberger is joining OpenAI | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)\n*   Two more xAI co-founders leave after the SpaceX merger | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger)\n*   AI safety leader says ‘world is in peril’ and quits to study poetry | [BBC](https://www.bbc.com/news/articles/c62dlvdq3e3o)\n*   OpenAI is making the mistakes Facebook made. I quit. | [_The New York Times_](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)\n*   Anthropic’s chief on AI: ‘We don’t know if the models are conscious’ | [_The New York Times_](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)\n*   Meet the one woman Anthropic trusts to teach AI morals | [_The Wall Street Journal_](https://www.wsj.com/tech/ai/anthropic-amanda-askell-philosopher-ai-3c031883?gaa_at=eafs&gaa_n=AWEtsqfXBfeXgO6fBo8JzOvVyIAMRD4uJgMSTYfUJ7_V36uoSk3m261FNmUyni-zh-A%3D&gaa_ts=699495e0&gaa_sig=c_fHBU1lpTV-fL9dy8w6OOyhM8T1v43D-KngyDMAwuvaO5My3Iqnuq733uDOnmUFikrex1LBLElsbS0wXaUZqw%3D%3D)\n*   OpenAI plans fourth-quarter IPO in race to beat Anthropic to market | [_The Wall Street Journal_](https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42)\n\n_Questions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!_",
-    "contentSnippet": "Today on Decoder we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers.\nThe vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying some of the highest salaries in the history of the tech industry to poach researchers from one another.\nIt feels like every time one of these AI researchers leaves one company for another, they tell us exactly why. Sometimes they’re simply resigning to go be a poet. Sometimes they’re chasing a mission. Sometimes they’re worried that AI is going to imperil humanity, destroy all jobs, and plunge the world into chaos.\n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nThey’re really saying these things. They’re publishing these notes on X, in blog posts, or in the case of one former OpenAI safety researcher by writing a full New York Times op-ed. \nI’ve been dying to really dig in and try to unpack what’s going on with all these talent moves in AI. So my guest today is Verge senior AI reporter Hayden Field, who’s been covering the revolving door of the AI industry really closely and also the broader culture that’s motivating the AI workers to jump ship and the companies that are ruthlessly trying to hire them.\nThose motivations vary. Sure, all these people are paid extravagant salaries, but as you’ll hear Hayden say, a stronger motivating force is ideology and mission. The people working on AI, by and large, believe that what they’re doing is going to radically change the world, and they’re not really in desperate need of more money. So that really changes the incentive structures that might push people to leave, say, OpenAI for Anthropic, or to quit Elon Musk’s xAI now that it’s been acquired by SpaceX.\nAt the same time, the incentives of the AI companies themselves are going from raising money to making money. Reporting suggests OpenAI and maybe even Anthropic could go public this year, and doing so would create a historic amount of wealth. It would also put new kinds of pressure on these companies to be more transparent about how they spend money and to be much more accountable for returning on the huge investments that they’ve raised so far.\nThere’s a lot in this conversation. The AI industry right now is full of drama. There’s big characters, bitter rivalries, lots of money, and really, really long blog posts about the end of the world.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nWhat’s behind the mass exodus at xAI? | The Verge\nOpenClaw founder Peter Steinberger is joining OpenAI | The Verge\nTwo more xAI co-founders leave after the SpaceX merger | The Verge\nAI safety leader says ‘world is in peril’ and quits to study poetry | BBC\nOpenAI is making the mistakes Facebook made. I quit. | The New York Times\nAnthropic’s chief on AI: ‘We don’t know if the models are conscious’ | The New York Times\nMeet the one woman Anthropic trusts to teach AI morals | The Wall Street Journal\nOpenAI plans fourth-quarter IPO in race to beat Anthropic to market | The Wall Street Journal\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "summary": "Today on Decoder we&#8217;re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers. The vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays, such companies are paying [&#8230;]",
-    "id": "https://www.theverge.com/?p=880778",
-    "isoDate": "2026-02-19T15:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DCD_0219.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "money-no-longer-matters-to-ai-s-top-talent"
+    "title": "(No AI) Advancing independent research on AI alignment",
+    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "pubDate": "Thu, 19 Feb 2026 10:00:00 GMT",
+    "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "contentSnippet": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "guid": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-02-19T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "advancing-independent-research-on-ai-alignment"
   },
   {
     "title": "(No AI) Introducing OpenAI for India",
@@ -81,20 +92,6 @@
     "isoDate": "2026-02-18T21:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-openai-for-india"
-  },
-  {
-    "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
-    "link": "https://openai.com/index/new-result-theoretical-physics",
-    "pubDate": "Fri, 13 Feb 2026 11:00:00 GMT",
-    "content": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-    "contentSnippet": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-    "guid": "https://openai.com/index/new-result-theoretical-physics",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-02-13T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "gpt-5-2-derives-a-new-result-in-theoretical-physics"
   },
   {
     "title": "(No AI) Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -119,37 +116,37 @@
     "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
   },
   {
-    "creator": "Justin Pot",
-    "title": "(No AI) This AI Tool Will Tell You to Stop Slacking Off",
-    "link": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
-    "pubDate": "Thu, 19 Feb 2026 10:30:00 +0000",
-    "dc:creator": "Justin Pot",
-    "content": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
-    "contentSnippet": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
-    "guid": "698d1356b397b1ead5556c3e",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+    "link": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+    "pubDate": "Thu, 19 Feb 2026 19:30:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+    "contentSnippet": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+    "guid": "6995ef1f5366fbe3869b6be2",
     "categories": [
-      "Gear",
-      "Gear / How To and Advice"
+      "Business / Artificial Intelligence",
+      "Business"
     ],
-    "isoDate": "2026-02-19T10:30:00.000Z",
+    "isoDate": "2026-02-19T19:30:00.000Z",
     "source": "Wired AI",
-    "slug": "this-ai-tool-will-tell-you-to-stop-slacking-off"
+    "slug": "code-metal-raises-125-million-to-rewrite-the-defense-industry-s-code-with-ai"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) This Defense Company Made AI Agents That Blow Things Up",
-    "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
-    "pubDate": "Wed, 18 Feb 2026 19:47:15 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-    "contentSnippet": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-    "guid": "698607fb8d12f90caa650ff8",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+    "link": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+    "pubDate": "Thu, 19 Feb 2026 19:12:38 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+    "contentSnippet": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+    "guid": "699650f76d98d90f48952e1b",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-02-18T19:47:15.000Z",
+    "isoDate": "2026-02-19T19:12:38.000Z",
     "source": "Wired AI",
-    "slug": "this-defense-company-made-ai-agents-that-blow-things-up"
+    "slug": "perplexity-s-retreat-from-ads-signals-a-bigger-strategic-shift"
   }
 ]
