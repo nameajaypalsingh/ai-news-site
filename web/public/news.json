@@ -1,43 +1,47 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
-    "pubDate": "Thu, 19 Feb 2026 05:34:25 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
-    "contentSnippet": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
-    "guid": "https://techcrunch.com/?p=3094276",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Freeform raises $67M Series B to scale up laser AI manufacturing ",
+    "link": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
+    "pubDate": "Thu, 19 Feb 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
+    "contentSnippet": "“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
+    "guid": "https://techcrunch.com/?p=3094239",
     "categories": [
+      "Hardware",
       "AI",
-      "Enterprise",
-      "OpenAI",
-      "Tata Group",
-      "tcs"
+      "Fundraising",
+      "nvidia",
+      "SpaceX",
+      "Exclusive",
+      "Freeform"
     ],
-    "isoDate": "2026-02-19T05:34:25.000Z",
+    "isoDate": "2026-02-19T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw"
+    "slug": "freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing"
   },
   {
     "creator": "Jagmeet Singh",
-    "title": "(No AI) OpenAI deepens India push with Pine Labs fintech partnership",
-    "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
-    "pubDate": "Thu, 19 Feb 2026 03:30:00 +0000",
+    "title": "(No AI) Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "pubDate": "Thu, 19 Feb 2026 11:39:17 +0000",
     "dc:creator": "Jagmeet Singh",
-    "content": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
-    "contentSnippet": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
-    "guid": "https://techcrunch.com/?p=3094103",
+    "content": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+    "contentSnippet": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+    "guid": "https://techcrunch.com/?p=3094292",
     "categories": [
-      "Enterprise",
-      "Fintech",
       "AI",
-      "OpenAI",
-      "pine labs"
+      "Enterprise",
+      "ai data centers",
+      "jio",
+      "Mukesh Ambani",
+      "reliance industries",
+      "reliance jio"
     ],
-    "isoDate": "2026-02-19T03:30:00.000Z",
+    "isoDate": "2026-02-19T11:39:17.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-deepens-india-push-with-pine-labs-fintech-partnership"
+    "slug": "reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions"
   },
   {
     "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
@@ -118,6 +122,23 @@
     "slug": "accelerating-discovery-in-india-through-ai-powered-science-and-education"
   },
   {
+    "creator": "Justin Pot",
+    "title": "(No AI) This AI Tool Will Tell You to Stop Slacking Off",
+    "link": "https://www.wired.com/story/fomi-ai-will-tell-you-to-stop-slacking-off/",
+    "pubDate": "Thu, 19 Feb 2026 10:30:00 +0000",
+    "dc:creator": "Justin Pot",
+    "content": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
+    "contentSnippet": "Fomi watches you work, then scolds you when your attention wanders. It’s helpful, but there are privacy issues to consider.",
+    "guid": "698d1356b397b1ead5556c3e",
+    "categories": [
+      "Gear",
+      "Gear / How To and Advice"
+    ],
+    "isoDate": "2026-02-19T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "this-ai-tool-will-tell-you-to-stop-slacking-off"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) This Defense Company Made AI Agents That Blow Things Up",
     "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
@@ -133,22 +154,5 @@
     "isoDate": "2026-02-18T19:47:15.000Z",
     "source": "Wired AI",
     "slug": "this-defense-company-made-ai-agents-that-blow-things-up"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Nvidia’s Deal With Meta Signals a New Era in Computing Power",
-    "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-    "pubDate": "Wed, 18 Feb 2026 19:24:55 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
-    "contentSnippet": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
-    "guid": "6995c8515366fbe3869b6b5b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-18T19:24:55.000Z",
-    "source": "Wired AI",
-    "slug": "nvidia-s-deal-with-meta-signals-a-new-era-in-computing-power"
   }
 ]
