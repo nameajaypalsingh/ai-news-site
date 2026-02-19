@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+    "pubDate": "Wed, 18 Feb 2026 21:07:00 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond \\[…\\]",
+    "contentSnippet": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3094123",
+    "categories": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "infrastructure",
+      "google cloud",
+      "startup building",
+      "Cloud credits"
+    ],
+    "isoDate": "2026-02-18T21:07:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "is-your-startup-s-check-engine-light-on-google-cloud-s-vp-explains-what-to-do"
+  },
+  {
     "creator": "Rebecca Bellan, Theresa Loconsolo",
     "title": "(No AI) Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
     "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
@@ -22,27 +44,6 @@
     "isoDate": "2026-02-18T20:22:29.000Z",
     "source": "TechCrunch AI",
     "slug": "google-cloud-s-vp-for-startups-on-reading-your-check-engine-light-before-it-s-too-late"
-  },
-  {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Amazon halts Blue Jay robotics project after less than six months",
-    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-    "pubDate": "Wed, 18 Feb 2026 18:27:10 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-    "contentSnippet": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-    "guid": "https://techcrunch.com/?p=3094024",
-    "categories": [
-      "AI",
-      "Robotics",
-      "Amazon",
-      "artificial intelligence",
-      "robotics",
-      "warehouse robotics"
-    ],
-    "isoDate": "2026-02-18T18:27:10.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amazon-halts-blue-jay-robotics-project-after-less-than-six-months"
   },
   {
     "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
