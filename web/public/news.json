@@ -1,6 +1,26 @@
 [
   {
     "creator": "Jagmeet Singh",
+    "title": "(No AI) OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+    "pubDate": "Thu, 19 Feb 2026 05:34:25 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+    "contentSnippet": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+    "guid": "https://techcrunch.com/?p=3094276",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "OpenAI",
+      "Tata Group",
+      "tcs"
+    ],
+    "isoDate": "2026-02-19T05:34:25.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw"
+  },
+  {
+    "creator": "Jagmeet Singh",
     "title": "(No AI) OpenAI deepens India push with Pine Labs fintech partnership",
     "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
     "pubDate": "Thu, 19 Feb 2026 03:30:00 +0000",
@@ -18,28 +38,6 @@
     "isoDate": "2026-02-19T03:30:00.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-deepens-india-push-with-pine-labs-fintech-partnership"
-  },
-  {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
-    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-    "pubDate": "Wed, 18 Feb 2026 21:07:00 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond \\[…\\]",
-    "contentSnippet": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3094123",
-    "categories": [
-      "Startups",
-      "AI",
-      "Fundraising",
-      "infrastructure",
-      "google cloud",
-      "startup building",
-      "Cloud credits"
-    ],
-    "isoDate": "2026-02-18T21:07:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "is-your-startup-s-check-engine-light-on-google-cloud-s-vp-explains-what-to-do"
   },
   {
     "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
