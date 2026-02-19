@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) OpenAI deepens India push with Pine Labs fintech partnership",
+    "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+    "pubDate": "Thu, 19 Feb 2026 03:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+    "contentSnippet": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+    "guid": "https://techcrunch.com/?p=3094103",
+    "categories": [
+      "Enterprise",
+      "Fintech",
+      "AI",
+      "OpenAI",
+      "pine labs"
+    ],
+    "isoDate": "2026-02-19T03:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-deepens-india-push-with-pine-labs-fintech-partnership"
+  },
+  {
     "creator": "Theresa Loconsolo",
     "title": "(No AI) Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
     "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
@@ -20,30 +40,6 @@
     "isoDate": "2026-02-18T21:07:00.000Z",
     "source": "TechCrunch AI",
     "slug": "is-your-startup-s-check-engine-light-on-google-cloud-s-vp-explains-what-to-do"
-  },
-  {
-    "creator": "Rebecca Bellan, Theresa Loconsolo",
-    "title": "(No AI) Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
-    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
-    "pubDate": "Wed, 18 Feb 2026 20:22:29 +0000",
-    "dc:creator": "Rebecca Bellan, Theresa Loconsolo",
-    "content": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond \\[…\\]",
-    "contentSnippet": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3094010",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "AI startup",
-      "Darren Mowry",
-      "Equity podcast",
-      "google cloud",
-      "Google Global Startups",
-      "LLMs"
-    ],
-    "isoDate": "2026-02-18T20:22:29.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-cloud-s-vp-for-startups-on-reading-your-check-engine-light-before-it-s-too-late"
   },
   {
     "title": "(No AI) Google’s AI music maker is coming to the Gemini app",
@@ -74,6 +70,20 @@
     "slug": "perplexity-joins-anti-ad-camp-as-ai-companies-battle-over-trust-and-revenue"
   },
   {
+    "title": "(No AI) Introducing OpenAI for India",
+    "link": "https://openai.com/index/openai-for-india",
+    "pubDate": "Wed, 18 Feb 2026 21:00:00 GMT",
+    "content": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "contentSnippet": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+    "guid": "https://openai.com/index/openai-for-india",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-02-18T21:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-openai-for-india"
+  },
+  {
     "title": "(No AI) GPT-5.2 derives a new result in theoretical physics",
     "link": "https://openai.com/index/new-result-theoretical-physics",
     "pubDate": "Fri, 13 Feb 2026 11:00:00 GMT",
@@ -86,20 +96,6 @@
     "isoDate": "2026-02-13T11:00:00.000Z",
     "source": "OpenAI",
     "slug": "gpt-5-2-derives-a-new-result-in-theoretical-physics"
-  },
-  {
-    "title": "(No AI) Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-    "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-    "pubDate": "Fri, 13 Feb 2026 10:00:00 GMT",
-    "content": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-    "contentSnippet": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-    "guid": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-02-13T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
   },
   {
     "title": "(No AI) A new way to express yourself: Gemini can now create music",
