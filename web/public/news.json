@@ -1,41 +1,57 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) YouTube’s latest experiment brings its conversational AI tool to TVs",
-    "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-    "pubDate": "Thu, 19 Feb 2026 20:30:19 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-    "contentSnippet": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-    "guid": "https://techcrunch.com/?p=3094582",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Google’s new Gemini Pro model has record benchmark scores — again",
+    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+    "pubDate": "Fri, 20 Feb 2026 00:55:22 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+    "contentSnippet": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
+    "guid": "https://techcrunch.com/?p=3094765",
     "categories": [
-      "Media & Entertainment",
       "AI",
-      "Apps",
-      "YouTube",
-      "conversational AI"
+      "TC",
+      "Gemini Pro 3.1",
+      "Google",
+      "In Brief",
+      "Mercor"
     ],
-    "isoDate": "2026-02-19T20:30:19.000Z",
+    "isoDate": "2026-02-20T00:55:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "youtube-s-latest-experiment-brings-its-conversational-ai-tool-to-tvs"
+    "slug": "google-s-new-gemini-pro-model-has-record-benchmark-scores-again"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Reddit is testing a new AI search feature for shopping",
-    "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
-    "pubDate": "Thu, 19 Feb 2026 18:22:51 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
-    "contentSnippet": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
-    "guid": "https://techcrunch.com/?p=3094494",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Nvidia deepens early-stage push into India’s AI startup ecosystem",
+    "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+    "pubDate": "Fri, 20 Feb 2026 00:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+    "contentSnippet": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+    "guid": "https://techcrunch.com/?p=3094604",
     "categories": [
       "AI",
-      "Apps",
-      "Reddit"
+      "Startups",
+      "activate",
+      "nvidia"
     ],
-    "isoDate": "2026-02-19T18:22:51.000Z",
+    "isoDate": "2026-02-20T00:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "reddit-is-testing-a-new-ai-search-feature-for-shopping"
+    "slug": "nvidia-deepens-early-stage-push-into-india-s-ai-startup-ecosystem"
+  },
+  {
+    "title": "(No AI) The Pitt has a sharp take on AI",
+    "link": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+    "pubDate": "2026-02-19T23:15:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![A woman standing in an emergency room with a tablet in her hands and a concerned look on her face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEach episode of HBO's _The Pitt_ features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves _The Pitt_'s central characters shaken. But as alarming as many of _The Pitt_'s more gore-forward moments can be, what's even more unsettling is the show's slow-burning subplot about hospitals adopting generative artificial intelligence.\n\nIn its second season, _The Pitt_ once again chronicles all the events that happen …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting)",
+    "contentSnippet": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often leaves The Pitt's central characters shaken. But as alarming as many of The Pitt's more gore-forward moments can be, what's even more unsettling is the show's slow-burning subplot about hospitals adopting generative artificial intelligence.\nIn its second season, The Pitt once again chronicles all the events that happen  …\nRead the full story at The Verge.",
+    "summary": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often [&#8230;]",
+    "id": "https://www.theverge.com/?p=881016",
+    "isoDate": "2026-02-19T23:15:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-pitt-has-a-sharp-take-on-ai"
   },
   {
     "title": "(No AI) The AI security nightmare is here and it looks suspiciously like lobster",
@@ -50,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_B_a2aa40.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-ai-security-nightmare-is-here-and-it-looks-suspiciously-like-lobster"
-  },
-  {
-    "title": "(No AI) The speech police came for Colbert",
-    "link": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
-    "pubDate": "2026-02-19T15:08:39.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021926_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGenerally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly [took Jimmy Kimmel off the air](https://www.theverge.com/news/780471/disney-abc-jimmy-kimmel-live-charlie-kirk), his vague threats appear to have been enough to convince CBS to [tell Stephen Colbert not to air an interview](https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview). Which, of course, became a whole thing.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast) (which we recorded and published a day early bot …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast)",
-    "contentSnippet": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen Colbert not to air an interview. Which, of course, became a whole thing.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast (which we recorded and published a day early bot …\nRead the full story at The Verge.",
-    "summary": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen [&#8230;]",
-    "id": "https://www.theverge.com/?p=881222",
-    "isoDate": "2026-02-19T15:08:39.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-speech-police-came-for-colbert"
   },
   {
     "title": "(No AI) Advancing independent research on AI alignment",
