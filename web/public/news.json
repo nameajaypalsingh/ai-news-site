@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+    "pubDate": "Fri, 20 Feb 2026 11:58:15 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India",
+    "contentSnippet": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India",
+    "guid": "https://techcrunch.com/?p=3094823",
+    "categories": [
+      "AI",
+      "AI compute capacity",
+      "Cerebras",
+      "g42",
+      "India AI Impact Summit 2026"
+    ],
+    "isoDate": "2026-02-20T11:58:15.000Z",
+    "source": "TechCrunch AI",
+    "slug": "uae-s-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) General Catalyst commits $5B to India over five years",
     "link": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
@@ -20,27 +40,6 @@
     "isoDate": "2026-02-20T06:41:44.000Z",
     "source": "TechCrunch AI",
     "slug": "general-catalyst-commits-5b-to-india-over-five-years"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Google’s new Gemini Pro model has record benchmark scores — again",
-    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
-    "pubDate": "Fri, 20 Feb 2026 00:55:22 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
-    "contentSnippet": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
-    "guid": "https://techcrunch.com/?p=3094765",
-    "categories": [
-      "AI",
-      "TC",
-      "Gemini Pro 3.1",
-      "Google",
-      "In Brief",
-      "Mercor"
-    ],
-    "isoDate": "2026-02-20T00:55:22.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-new-gemini-pro-model-has-record-benchmark-scores-again"
   },
   {
     "title": "(No AI) The Pitt has a sharp take on AI",
@@ -121,37 +120,37 @@
     "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
   },
   {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
-    "link": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
-    "pubDate": "Thu, 19 Feb 2026 19:30:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-    "contentSnippet": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-    "guid": "6995ef1f5366fbe3869b6be2",
+    "creator": "Rhett Allain",
+    "title": "(No AI) Could AI Data Centers Be Moved to Outer Space?",
+    "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+    "pubDate": "Fri, 20 Feb 2026 12:00:00 +0000",
+    "dc:creator": "Rhett Allain",
+    "content": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "contentSnippet": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+    "guid": "698a9bddb5c7a8766f86a5c4",
     "categories": [
-      "Business / Artificial Intelligence",
-      "Business"
+      "Science",
+      "Science / Physics and Math"
     ],
-    "isoDate": "2026-02-19T19:30:00.000Z",
+    "isoDate": "2026-02-20T12:00:00.000Z",
     "source": "Wired AI",
-    "slug": "code-metal-raises-125-million-to-rewrite-the-defense-industry-s-code-with-ai"
+    "slug": "could-ai-data-centers-be-moved-to-outer-space"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
-    "link": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
-    "pubDate": "Thu, 19 Feb 2026 19:12:38 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
-    "contentSnippet": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
-    "guid": "699650f76d98d90f48952e1b",
+    "creator": "Jason Parham",
+    "title": "(No AI) The Search Engine for OnlyFans Models Who Look Like Your Crush",
+    "link": "https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/",
+    "pubDate": "Fri, 20 Feb 2026 11:00:00 +0000",
+    "dc:creator": "Jason Parham",
+    "content": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
+    "contentSnippet": "Presearch’s “Doppelgänger” is trying to help people discover adult creators rather than use nonconsensual deepfakes.",
+    "guid": "698d0dd7c092dc0d6c3de09c",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Culture",
+      "Culture / Digital Culture"
     ],
-    "isoDate": "2026-02-19T19:12:38.000Z",
+    "isoDate": "2026-02-20T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "perplexity-s-retreat-from-ads-signals-a-bigger-strategic-shift"
+    "slug": "the-search-engine-for-onlyfans-models-who-look-like-your-crush"
   }
 ]
