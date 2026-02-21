@@ -1,50 +1,57 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) India’s Sarvam launches Indus AI chat app as competition heats up",
-    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-    "pubDate": "Sat, 21 Feb 2026 01:00:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Sarvam's Indus chat app is currently available in beta.",
-    "contentSnippet": "Sarvam's Indus chat app is currently available in beta.",
-    "guid": "https://techcrunch.com/?p=3095084",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Google VP warns that two types of AI startups may not survive",
+    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+    "pubDate": "Sat, 21 Feb 2026 16:00:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+    "contentSnippet": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+    "guid": "https://techcrunch.com/?p=3094718",
     "categories": [
-      "AI",
-      "Apps",
       "Startups",
-      "chat apps",
-      "Indus app",
-      "Sarvam",
-      "Sarvam 105B",
-      "Sarvam AI"
+      "AI",
+      "google cloud",
+      "AI startups",
+      "Equity",
+      "Darren Mowry",
+      "llm wrapper",
+      "llm aggregator"
     ],
-    "isoDate": "2026-02-21T01:00:00.000Z",
+    "isoDate": "2026-02-21T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-s-sarvam-launches-indus-ai-chat-app-as-competition-heats-up"
+    "slug": "google-vp-warns-that-two-types-of-ai-startups-may-not-survive"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) The creator economy’s ad revenue problem and India’s AI ambitions",
-    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-    "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, \\[…\\]",
-    "contentSnippet": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3095239",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) OpenAI debated calling police about suspected Canadian shooter’s chats",
+    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+    "pubDate": "Sat, 21 Feb 2026 15:25:44 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+    "contentSnippet": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+    "guid": "https://techcrunch.com/?p=3095314",
     "categories": [
-      "Startups",
-      "Media & Entertainment",
       "AI",
-      "Roundup",
-      "OpenAI",
-      "creator economy",
-      "Anthropic",
-      "Equity Video",
-      "India AI Impact Summit 2026"
+      "OpenAI"
     ],
-    "isoDate": "2026-02-20T23:00:00.000Z",
+    "isoDate": "2026-02-21T15:25:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-creator-economy-s-ad-revenue-problem-and-india-s-ai-ambitions"
+    "slug": "openai-debated-calling-police-about-suspected-canadian-shooter-s-chats"
+  },
+  {
+    "title": "(No AI) Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+    "pubDate": "2026-02-21T15:22:57.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe suspect in the [mass shooting at Tumbler Ridge](https://www.cbc.ca/news/canada/british-columbia/livestory/active-shooter-alert-tumbler-ridge-secondary-school-bc-live-updates-9.7083740), British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined.\n\nAccording to the _[Wall Street Journal](http://redible%20and%20imminent%20risk%20of%20serious%20physical%20harm%20to%20others.)_, leaders at the company decided that Rootselaar's posts did not constitute a \"credible and imminent risk of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)",
+    "contentSnippet": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined. \nAccording to the Wall Street Journal, leaders at the company decided that Rootselaar's posts did not constitute a \"credible and imminent risk of …\nRead the full story at The Verge.",
+    "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could [&#8230;]",
+    "id": "https://www.theverge.com/?p=882814",
+    "isoDate": "2026-02-21T15:22:57.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "suspect-in-tumbler-ridge-school-shooting-described-violent-scenarios-to-chatgpt"
   },
   {
     "title": "(No AI) Trump is making coal plants even dirtier as AI demands more energy",
@@ -59,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "trump-is-making-coal-plants-even-dirtier-as-ai-demands-more-energy"
-  },
-  {
-    "title": "(No AI) Amazon blames human employees for an AI coding agent’s mistake",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-    "pubDate": "2026-02-20T16:52:48.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, [according to the _Financial Times_](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d). Numerous unnamed Amazon employees told the _FT_ that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar with the matter said the tool chose to \"delete and recreate the environment\" it was working on, which caused the outage.\n\nWhile Kiro normally requires sign-off from two humans to push changes, the bot had the permissions of its operator, and a human error there allowed more access than expected.\n\nAmazon describ …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)",
-    "contentSnippet": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar with the matter said the tool chose to \"delete and recreate the environment\" it was working on, which caused the outage.\nWhile Kiro normally requires sign-off from two humans to push changes, the bot had the permissions of its operator, and a human error there allowed more access than expected.\nAmazon describ …\nRead the full story at The Verge.",
-    "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar [&#8230;]",
-    "id": "https://www.theverge.com/?p=882005",
-    "isoDate": "2026-02-20T16:52:48.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-blames-human-employees-for-an-ai-coding-agent-s-mistake"
   },
   {
     "title": "(No AI) Our First Proof submissions",
