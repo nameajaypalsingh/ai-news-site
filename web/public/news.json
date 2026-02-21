@@ -1,47 +1,50 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) InScope nabs $14.5M to solve the pain of financial reporting",
-    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-    "pubDate": "Fri, 20 Feb 2026 19:24:57 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
-    "contentSnippet": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
-    "guid": "https://techcrunch.com/?p=3095072",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India’s Sarvam launches Indus AI chat app as competition heats up",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "pubDate": "Sat, 21 Feb 2026 01:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Sarvam's Indus chat app is currently available in beta.",
+    "contentSnippet": "Sarvam's Indus chat app is currently available in beta.",
+    "guid": "https://techcrunch.com/?p=3095084",
     "categories": [
       "AI",
-      "Fintech",
+      "Apps",
       "Startups",
-      "Venture",
-      "accounting",
-      "Better Tomorrow Ventures",
-      "financial reporting",
-      "InScope",
-      "norwest venture partners"
+      "chat apps",
+      "Indus app",
+      "Sarvam",
+      "Sarvam 105B",
+      "Sarvam AI"
     ],
-    "isoDate": "2026-02-20T19:24:57.000Z",
+    "isoDate": "2026-02-21T01:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting"
+    "slug": "india-s-sarvam-launches-indus-ai-chat-app-as-competition-heats-up"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-    "pubDate": "Fri, 20 Feb 2026 18:26:54 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
-    "contentSnippet": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
-    "guid": "https://techcrunch.com/?p=3094977",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) The creator economy’s ad revenue problem and India’s AI ambitions",
+    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "pubDate": "Fri, 20 Feb 2026 23:00:00 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, \\[…\\]",
+    "contentSnippet": "The creator economy is evolving fast, and ad revenue alone isn’t cutting it anymore. YouTubers are launching product lines, acquiring startups, and building actual business empires. In fact, MrBeast’s company bought fintech startup Step, and his chocolate business is outearning his media arm. This isn’t just one creator’s strategy. For many, it’s the new playbook.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan unpack how creators are diversifying beyond ads, […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3095239",
     "categories": [
+      "Startups",
+      "Media & Entertainment",
       "AI",
-      "Elon Musk",
-      "Exclusive",
-      "Grok",
-      "video games"
+      "Roundup",
+      "OpenAI",
+      "creator economy",
+      "Anthropic",
+      "Equity Video",
+      "India AI Impact Summit 2026"
     ],
-    "isoDate": "2026-02-20T18:26:54.000Z",
+    "isoDate": "2026-02-20T23:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldur-s-gate"
+    "slug": "the-creator-economy-s-ad-revenue-problem-and-india-s-ai-ambitions"
   },
   {
     "title": "(No AI) Trump is making coal plants even dirtier as AI demands more energy",
@@ -72,6 +75,20 @@
     "slug": "amazon-blames-human-employees-for-an-ai-coding-agent-s-mistake"
   },
   {
+    "title": "(No AI) Our First Proof submissions",
+    "link": "https://openai.com/index/first-proof-submissions",
+    "pubDate": "Fri, 20 Feb 2026 14:30:00 GMT",
+    "content": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "contentSnippet": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "guid": "https://openai.com/index/first-proof-submissions",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-02-20T14:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "our-first-proof-submissions"
+  },
+  {
     "title": "(No AI) Advancing independent research on AI alignment",
     "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
     "pubDate": "Thu, 19 Feb 2026 10:00:00 GMT",
@@ -84,20 +101,6 @@
     "isoDate": "2026-02-19T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "advancing-independent-research-on-ai-alignment"
-  },
-  {
-    "title": "(No AI) Introducing OpenAI for India",
-    "link": "https://openai.com/index/openai-for-india",
-    "pubDate": "Wed, 18 Feb 2026 21:00:00 GMT",
-    "content": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-    "contentSnippet": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-    "guid": "https://openai.com/index/openai-for-india",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-02-18T21:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-openai-for-india"
   },
   {
     "title": "(No AI) Gemini 3.1 Pro: A smarter model for your most complex tasks",
