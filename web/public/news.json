@@ -1,6 +1,24 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Sam Altman would like remind you that humans use a lot of energy, too",
+    "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+    "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "\"It also takes a lot of energy to train a human.\"",
+    "contentSnippet": "\"It also takes a lot of energy to train a human.\"",
+    "guid": "https://techcrunch.com/?p=3095339",
+    "categories": [
+      "AI",
+      "OpenAI",
+      "sam altman"
+    ],
+    "isoDate": "2026-02-21T21:38:01.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
     "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
     "pubDate": "Sat, 21 Feb 2026 17:41:27 +0000",
@@ -19,35 +37,12 @@
     "slug": "microsoft-s-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Google VP warns that two types of AI startups may not survive",
-    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-    "pubDate": "Sat, 21 Feb 2026 16:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-    "contentSnippet": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-    "guid": "https://techcrunch.com/?p=3094718",
-    "categories": [
-      "Startups",
-      "AI",
-      "google cloud",
-      "AI startups",
-      "Equity",
-      "Darren Mowry",
-      "llm wrapper",
-      "llm aggregator"
-    ],
-    "isoDate": "2026-02-21T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-vp-warns-that-two-types-of-ai-startups-may-not-survive"
-  },
-  {
     "title": "(No AI) Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
     "link": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
     "pubDate": "2026-02-21T15:22:57.000Z",
     "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe suspect in the [mass shooting at Tumbler Ridge](https://www.cbc.ca/news/canada/british-columbia/livestory/active-shooter-alert-tumbler-ridge-secondary-school-bc-live-updates-9.7083740), British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined.\n\nAccording to the _[Wall Street Journal](http://redible%20and%20imminent%20risk%20of%20serious%20physical%20harm%20to%20others.)_, leaders at the company decided that Rootselaar's posts did not constitute a \"credible and imminent risk of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)",
-    "contentSnippet": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined. \nAccording to the Wall Street Journal, leaders at the company decided that Rootselaar's posts did not constitute a \"credible and imminent risk of …\nRead the full story at The Verge.",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe suspect in the [mass shooting at Tumbler Ridge](https://www.cbc.ca/news/canada/british-columbia/livestory/active-shooter-alert-tumbler-ridge-secondary-school-bc-live-updates-9.7083740), British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees [raised concerns](http://redible%20and%20imminent%20risk%20of%20serious%20physical%20harm%20to%20others.) that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined.\n\nOpenAI spokesperson Kayla Wood told The Verge that, while the company considered referring the account to law enforcement, it was ultimately deci …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)",
+    "contentSnippet": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could be a precursor to real-world violence and encouraged company leaders to contact the authorities, but they ultimately declined.\nOpenAI spokesperson Kayla Wood told The Verge that, while the company considered referring the account to law enforcement, it was ultimately deci …\nRead the full story at The Verge.",
     "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could [&#8230;]",
     "id": "https://www.theverge.com/?p=882814",
     "isoDate": "2026-02-21T15:22:57.000Z",
