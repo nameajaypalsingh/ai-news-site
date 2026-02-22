@@ -115,6 +115,24 @@
     "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) How to Hide Google’s AI Overviews From Your Search Results",
+    "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+    "pubDate": "Sun, 22 Feb 2026 11:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+    "contentSnippet": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+    "guid": "699736240310f6e896b98933",
+    "categories": [
+      "Gear",
+      "Gear / How To and Advice",
+      "Gear / Products / Online Services"
+    ],
+    "isoDate": "2026-02-22T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "how-to-hide-google-s-ai-overviews-from-your-search-results"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) AI Safety Meets the War Machine",
     "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
@@ -130,22 +148,5 @@
     "isoDate": "2026-02-20T17:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-safety-meets-the-war-machine"
-  },
-  {
-    "creator": "Rhett Allain",
-    "title": "(No AI) Could AI Data Centers Be Moved to Outer Space?",
-    "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-    "pubDate": "Fri, 20 Feb 2026 12:00:00 +0000",
-    "dc:creator": "Rhett Allain",
-    "content": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-    "contentSnippet": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-    "guid": "698a9bddb5c7a8766f86a5c4",
-    "categories": [
-      "Science",
-      "Science / Physics and Math"
-    ],
-    "isoDate": "2026-02-20T12:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "could-ai-data-centers-be-moved-to-outer-space"
   }
 ]
