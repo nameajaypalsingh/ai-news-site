@@ -1,56 +1,55 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) All the important news from the ongoing India AI Impact Summit",
-    "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-    "pubDate": "Sun, 22 Feb 2026 17:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-    "contentSnippet": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-    "guid": "https://techcrunch.com/?p=3093283",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "pubDate": "Mon, 23 Feb 2026 16:55:40 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+    "contentSnippet": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+    "guid": "https://techcrunch.com/?p=3095581",
     "categories": [
-      "AI",
-      "Government & Policy",
-      "Google",
-      "Microsoft",
-      "nvidia",
-      "OpenAI",
-      "Anthropic",
-      "India AI summit"
-    ],
-    "isoDate": "2026-02-22T17:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "all-the-important-news-from-the-ongoing-india-ai-impact-summit"
-  },
-  {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-    "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-    "pubDate": "Sun, 22 Feb 2026 15:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-    "contentSnippet": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-    "guid": "https://techcrunch.com/?p=3095265",
-    "categories": [
-      "Startups",
-      "Transportation",
-      "Security",
-      "Space",
-      "Hardware",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
       "AI",
       "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
+      "Startups",
+      "particle"
     ],
-    "isoDate": "2026-02-22T15:00:00.000Z",
+    "isoDate": "2026-02-23T16:55:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates"
+    "slug": "particle-s-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-don-t-have-to"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
+    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+    "pubDate": "Mon, 23 Feb 2026 16:50:36 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+    "contentSnippet": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+    "guid": "https://techcrunch.com/?p=3095584",
+    "categories": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "Spotify"
+    ],
+    "isoDate": "2026-02-23T16:50:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "spotify-rolls-out-ai-powered-prompted-playlists-to-the-u-k-and-other-markets"
+  },
+  {
+    "title": "(No AI) If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
+    "pubDate": "2026-02-23T16:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Photo collage of a pig eating digital slop out of a bucket.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nProgress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\n\nAs 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" [Mosseri lamented](https://www.theverge.com/news/851954/feed-is-dead). \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people, Mosseri insisted, still wanted \"content that feels real.\" His proposed solution was finding a way to label real media. \"Camera manufacturers will cryptographically sign images at capture, creating a chain of custody,\" he said. The result would be a trustworthy system for determining what's not AI.\n\nThe g …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)",
+    "contentSnippet": "Progress towards reliable deepfake labelling tech is sluggish, despite all the “help” from AI providers. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAs 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" But people, Mosseri insisted, still wanted \"content that feels real.\" His proposed solution was finding a way to label real media. \"Camera manufacturers will cryptographically sign images at capture, creating a chain of custody,\" he said. The result would be a trustworthy system for determining what's not AI.\nThe g …\nRead the full story at The Verge.",
+    "summary": "As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=882956",
+    "isoDate": "2026-02-23T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "if-big-tech-cared-about-fighting-ai-slop-it-wouldn-t-be-drowning-us-in-it"
   },
   {
     "title": "(No AI) How many AIs does it take to read a PDF?",
@@ -67,18 +66,18 @@
     "slug": "how-many-ais-does-it-take-to-read-a-pdf"
   },
   {
-    "title": "(No AI) Samsung is adding Perplexity to Galaxy AI",
-    "link": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
-    "pubDate": "2026-02-22T22:15:30.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![A speech bubble that reads “Hey, Plex!”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-Mobile-Galaxy-AI-Perplexity-AI-Agent-Expansion-of-Galaxy-AI_main1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI wish I could talk to my Plex server… | Image: Samsung.\n\nIn addition to summoning [Bixby](https://news.samsung.com/global/samsung-introduces-the-new-bixby-in-one-ui-8-5) or [Gemini](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa), Galaxy S26 users will be able to call on Perplexity by saying \"[hey, Plex](https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility).\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\"\n\nOften, people will use different AI agents for different tasks, depending on where their strengths lie. So Samsung is opening up the ability to integrate different agents into the OS. Hey, Plex isn't just some transparent version of the app baked into a Galaxy phone to quickly get answers to questions. Perplexity will have access to Samsung Notes, Clock, Gallery, Reminder, and Calendar, as well as select thi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)",
-    "contentSnippet": "I wish I could talk to my Plex server… | Image: Samsung.\t\n\nIn addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\"\nOften, people will use different AI agents for different tasks, depending on where their strengths lie. So Samsung is opening up the ability to integrate different agents into the OS. Hey, Plex isn't just some transparent version of the app baked into a Galaxy phone to quickly get answers to questions. Perplexity will have access to Samsung Notes, Clock, Gallery, Reminder, and Calendar, as well as select thi …\nRead the full story at The Verge.",
-    "summary": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths [&#8230;]",
-    "id": "https://www.theverge.com/?p=882921",
-    "isoDate": "2026-02-22T22:15:30.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-Mobile-Galaxy-AI-Perplexity-AI-Agent-Expansion-of-Galaxy-AI_main1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "samsung-is-adding-perplexity-to-galaxy-ai"
+    "title": "(No AI) OpenAI announces Frontier Alliance Partners",
+    "link": "https://openai.com/index/frontier-alliance-partners",
+    "pubDate": "Mon, 23 Feb 2026 05:30:00 GMT",
+    "content": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "contentSnippet": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "guid": "https://openai.com/index/frontier-alliance-partners",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-02-23T05:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-announces-frontier-alliance-partners"
   },
   {
     "title": "(No AI) Our First Proof submissions",
@@ -93,20 +92,6 @@
     "isoDate": "2026-02-20T14:30:00.000Z",
     "source": "OpenAI",
     "slug": "our-first-proof-submissions"
-  },
-  {
-    "title": "(No AI) Advancing independent research on AI alignment",
-    "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
-    "pubDate": "Thu, 19 Feb 2026 10:00:00 GMT",
-    "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-    "contentSnippet": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-    "guid": "https://openai.com/index/advancing-independent-research-ai-alignment",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-02-19T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "advancing-independent-research-on-ai-alignment"
   },
   {
     "title": "(No AI) Gemini 3.1 Pro: A smarter model for your most complex tasks",
