@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "pubDate": "Sun, 22 Feb 2026 17:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+    "contentSnippet": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+    "guid": "https://techcrunch.com/?p=3093283",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Google",
+      "Microsoft",
+      "nvidia",
+      "OpenAI",
+      "Anthropic",
+      "India AI summit"
+    ],
+    "isoDate": "2026-02-22T17:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "all-the-important-news-from-the-ongoing-india-ai-impact-summit"
+  },
+  {
     "creator": "TechCrunch Events",
     "title": "(No AI) 6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
     "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
@@ -28,24 +51,6 @@
     "isoDate": "2026-02-22T15:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Sam Altman would like to remind you that humans use a lot of energy, too",
-    "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-    "pubDate": "Sat, 21 Feb 2026 21:38:01 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "\"It also takes a lot of energy to train a human.\"",
-    "contentSnippet": "\"It also takes a lot of energy to train a human.\"",
-    "guid": "https://techcrunch.com/?p=3095339",
-    "categories": [
-      "AI",
-      "OpenAI",
-      "sam altman"
-    ],
-    "isoDate": "2026-02-21T21:38:01.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sam-altman-would-like-to-remind-you-that-humans-use-a-lot-of-energy-too"
   },
   {
     "title": "(No AI) Samsung is adding Perplexity to Galaxy AI",
