@@ -1,44 +1,62 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
-    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
-    "pubDate": "Mon, 23 Feb 2026 16:55:40 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
-    "contentSnippet": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
-    "guid": "https://techcrunch.com/?p=3095581",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "pubDate": "Mon, 23 Feb 2026 19:57:27 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+    "contentSnippet": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+    "guid": "https://techcrunch.com/?p=3095772",
     "categories": [
       "AI",
-      "Apps",
-      "Startups",
-      "particle"
+      "Government & Policy",
+      "Anthropic",
+      "deepseek",
+      "distillation",
+      "Exclusive",
+      "minimax",
+      "moonshot ai"
     ],
-    "isoDate": "2026-02-23T16:55:40.000Z",
+    "isoDate": "2026-02-23T19:57:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "particle-s-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-don-t-have-to"
+    "slug": "anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
-    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-    "pubDate": "Mon, 23 Feb 2026 16:50:36 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-    "contentSnippet": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-    "guid": "https://techcrunch.com/?p=3095584",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Google’s Cloud AI lead on the three frontiers of model capability",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "pubDate": "Mon, 23 Feb 2026 19:18:42 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+    "contentSnippet": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+    "guid": "https://techcrunch.com/?p=3094627",
     "categories": [
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Spotify"
+      "Exclusive",
+      "Google",
+      "Vertex"
     ],
-    "isoDate": "2026-02-23T16:50:36.000Z",
+    "isoDate": "2026-02-23T19:18:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "spotify-rolls-out-ai-powered-prompted-playlists-to-the-u-k-and-other-markets"
+    "slug": "google-s-cloud-ai-lead-on-the-three-frontiers-of-model-capability"
   },
   {
-    "title": "(No AI) If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it",
+    "title": "(No AI) Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+    "pubDate": "2026-02-23T20:22:55.000Z",
+    "author": "Emma Roth",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In [an announcement on Monday](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks), Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported [earlier by _The Wall Street Journal_](https://www.wsj.com/tech/ai/anthropic-accuses-chinese-companies-of-siphoning-data-from-claude-63a13afc).\n\nThe three companies - DeepSeek, MiniMax, and Moonshot - are accused of [\"distilling\" Claude](https://www.ibm.com/think/topics/knowledge-distillation), or training a smaller AI model based on a more advanced one. Though Anthropic says that distillation is a \"legitimate training method,\" it adds that it can \"also be used for illicit purpose …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation)",
+    "contentSnippet": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.\nThe three companies - DeepSeek, MiniMax, and Moonshot - are accused of \"distilling\" Claude, or training a smaller AI model based on a more advanced one. Though Anthropic says that distillation is a \"legitimate training method,\" it adds that it can \"also be used for illicit purpose …\nRead the full story at The Verge.",
+    "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street [&#8230;]",
+    "id": "https://www.theverge.com/?p=883243",
+    "isoDate": "2026-02-23T20:22:55.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-accuses-deepseek-and-other-chinese-firms-of-using-claude-to-train-their-ai"
+  },
+  {
+    "title": "(No AI) Does Big Tech actually care about fighting AI slop?",
     "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
     "pubDate": "2026-02-23T16:00:00.000Z",
     "author": "Jess Weatherbed",
@@ -49,21 +67,21 @@
     "isoDate": "2026-02-23T16:00:00.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "if-big-tech-cared-about-fighting-ai-slop-it-wouldn-t-be-drowning-us-in-it"
+    "slug": "does-big-tech-actually-care-about-fighting-ai-slop"
   },
   {
-    "title": "(No AI) How many AIs does it take to read a PDF?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
-    "pubDate": "2026-02-23T11:00:00.000Z",
-    "author": "Josh Dzieza",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PDFs-AI-still.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Kristen Radtke / The Verge\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs.\n\nThis was a problem. While the Department of Justice had run optical character recognition over the text, it was not very good, Igel said, rendering the files more or less unsearchable.\n\n\"There was no interface …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure)",
-    "contentSnippet": "Image: Kristen Radtke / The Verge\t\n\nLast November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice would release its own batches of files, more than three million of them - again, all PDFs.\nThis was a problem. While the Department of Justice had run optical character recognition over the text, it was not very good, Igel said, rendering the files more or less unsearchable. \n\"There was no interface  …\nRead the full story at The Verge.",
-    "summary": "Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, \"gross.\" In the coming months, the Department of Justice [&#8230;]",
-    "id": "https://www.theverge.com/?p=882891",
+    "title": "(No AI) Why we no longer evaluate SWE-bench Verified",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "pubDate": "Mon, 23 Feb 2026 11:00:00 GMT",
+    "content": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "contentSnippet": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "guid": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "categories": [
+      "Publication"
+    ],
     "isoDate": "2026-02-23T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PDFs-AI-still.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-many-ais-does-it-take-to-read-a-pdf"
+    "source": "OpenAI",
+    "slug": "why-we-no-longer-evaluate-swe-bench-verified"
   },
   {
     "title": "(No AI) OpenAI announces Frontier Alliance Partners",
@@ -78,20 +96,6 @@
     "isoDate": "2026-02-23T05:30:00.000Z",
     "source": "OpenAI",
     "slug": "openai-announces-frontier-alliance-partners"
-  },
-  {
-    "title": "(No AI) Our First Proof submissions",
-    "link": "https://openai.com/index/first-proof-submissions",
-    "pubDate": "Fri, 20 Feb 2026 14:30:00 GMT",
-    "content": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-    "contentSnippet": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-    "guid": "https://openai.com/index/first-proof-submissions",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-02-20T14:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "our-first-proof-submissions"
   },
   {
     "title": "(No AI) Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -116,6 +120,23 @@
     "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
   },
   {
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+    "pubDate": "Mon, 23 Feb 2026 19:28:13 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+    "contentSnippet": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+    "guid": "699758603887d82b1d67ef47",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-23T19:28:13.000Z",
+    "source": "Wired AI",
+    "slug": "uncanny-valley-ai-researchers-resignations-bots-hiring-humans-evie-magazine-s-party"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) How to Hide Google’s AI Overviews From Your Search Results",
     "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
@@ -132,22 +153,5 @@
     "isoDate": "2026-02-22T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "how-to-hide-google-s-ai-overviews-from-your-search-results"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) AI Safety Meets the War Machine",
-    "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-    "pubDate": "Fri, 20 Feb 2026 17:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
-    "contentSnippet": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
-    "guid": "698e319b992baed990efb280",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-02-20T17:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-safety-meets-the-war-machine"
   }
 ]
