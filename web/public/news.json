@@ -1,47 +1,58 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Music generator ProducerAI joins Google Labs",
-    "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-    "pubDate": "Tue, 24 Feb 2026 16:57:21 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
-    "contentSnippet": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
-    "guid": "https://techcrunch.com/?p=3096117",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google adds a way to create automated workflows to Opal",
+    "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+    "pubDate": "Tue, 24 Feb 2026 19:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google is adding a new feature to Opal to create automated workflows",
+    "contentSnippet": "Google is adding a new feature to Opal to create automated workflows",
+    "guid": "https://techcrunch.com/?p=3096036",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "ai music",
+      "Apps",
       "Google",
-      "google deepmind",
-      "producerai"
+      "gemini",
+      "opal",
+      "vibe coding"
     ],
-    "isoDate": "2026-02-24T16:57:21.000Z",
+    "isoDate": "2026-02-24T19:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "music-generator-producerai-joins-google-labs"
+    "slug": "google-adds-a-way-to-create-automated-workflows-to-opal"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
-    "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
-    "pubDate": "Tue, 24 Feb 2026 15:15:16 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
-    "contentSnippet": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
-    "guid": "https://techcrunch.com/?p=3096083",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+    "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+    "pubDate": "Tue, 24 Feb 2026 17:44:34 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
+    "contentSnippet": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
+    "guid": "https://techcrunch.com/?p=3095557",
     "categories": [
       "AI",
       "Enterprise",
-      "AI chips",
-      "amd",
-      "cpus",
-      "data centers",
-      "GPUS",
-      "Meta"
+      "Brad Lightcap",
+      "India",
+      "OpenAI"
     ],
-    "isoDate": "2026-02-24T15:15:16.000Z",
+    "isoDate": "2026-02-24T17:44:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence"
+    "slug": "openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes"
+  },
+  {
+    "title": "(No AI) Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+    "pubDate": "2026-02-24T18:30:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![An AI-generated image of Tom Cruise and Brad Pitt fighting in a desolated city.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ai-label-8.png?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer [ByteDance's newest video generation model](https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch) - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) looked a lot like the real thing as it fought Brad Pitt, humanoid robots, and zombies. And the characters moved with a complex fluidity almost passing for choreography and amplified by kinetic \"camerawork.\"\n\nGen AI enthusiasts love to proclaim that the traditionally produced entertainment industry is cooked, and some of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke)",
+    "contentSnippet": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) looked a lot like the real thing as it fought Brad Pitt, humanoid robots, and zombies. And the characters moved with a complex fluidity almost passing for choreography and amplified by kinetic \"camerawork.\"\nGen AI enthusiasts love to proclaim that the traditionally produced entertainment industry is cooked, and some of …\nRead the full story at The Verge.",
+    "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) [&#8230;]",
+    "id": "https://www.theverge.com/?p=883615",
+    "isoDate": "2026-02-24T18:30:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ai-label-8.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "seedance-2-0-might-be-gen-ai-video-s-next-big-hope-but-it-s-still-slop"
   },
   {
     "title": "(No AI) Anthropic’s Claude Cowork is plugging AI into more boring enterprise stuff",
@@ -56,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "anthropic-s-claude-cowork-is-plugging-ai-into-more-boring-enterprise-stuff"
-  },
-  {
-    "title": "(No AI) How Claude Code Claude Codes",
-    "link": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
-    "pubDate": "2026-02-24T14:20:35.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nClaude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has [seen a huge number of people](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment), across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found true product-market fit the way Claude Code has. But how did that happen? And are we ever going to get out of the terminal?\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), Anthropic's Bo …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)",
-    "contentSnippet": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found true product-market fit the way Claude Code has. But how did that happen? And are we ever going to get out of the terminal?\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, Anthropic's Bo …\nRead the full story at The Verge.",
-    "summary": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found [&#8230;]",
-    "id": "https://www.theverge.com/?p=883604",
-    "isoDate": "2026-02-24T14:20:35.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-claude-code-claude-codes"
   },
   {
     "title": "(No AI) Why we no longer evaluate SWE-bench Verified",
@@ -143,7 +140,7 @@
   },
   {
     "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+    "title": "(No AI) ‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
     "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
     "pubDate": "Mon, 23 Feb 2026 19:28:13 +0000",
     "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
@@ -156,6 +153,6 @@
     ],
     "isoDate": "2026-02-23T19:28:13.000Z",
     "source": "Wired AI",
-    "slug": "uncanny-valley-ai-researchers-resignations-bots-hiring-humans-evie-magazine-s-party"
+    "slug": "uncanny-valley-ai-researcher-resignations-bots-hiring-humans-and-evie-magazine-s-party"
   }
 ]
