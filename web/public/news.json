@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Canva acquires startups working on animation and marketing",
+    "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+    "pubDate": "Tue, 24 Feb 2026 07:39:27 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+    "contentSnippet": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
+    "guid": "https://techcrunch.com/?p=3096021",
+    "categories": [
+      "AI",
+      "Apps",
+      "Marketing",
+      "animation",
+      "canva",
+      "Affinity"
+    ],
+    "isoDate": "2026-02-24T07:39:27.000Z",
+    "source": "TechCrunch AI",
+    "slug": "canva-acquires-startups-working-on-animation-and-marketing"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) A Meta AI security researcher said an OpenClaw agent ran amok on her inbox ",
     "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
@@ -17,28 +38,6 @@
     "isoDate": "2026-02-24T00:57:14.000Z",
     "source": "TechCrunch AI",
     "slug": "a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic ",
-    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-    "pubDate": "Mon, 23 Feb 2026 21:46:41 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-    "contentSnippet": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-    "guid": "https://techcrunch.com/?p=3095823",
-    "categories": [
-      "AI",
-      "TC",
-      "Venture",
-      "Anthropic",
-      "Founders Fund",
-      "ICONIQ",
-      "OpenAI"
-    ],
-    "isoDate": "2026-02-23T21:46:41.000Z",
-    "source": "TechCrunch AI",
-    "slug": "with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic"
   },
   {
     "title": "(No AI) Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
