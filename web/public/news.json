@@ -128,6 +128,24 @@
     "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
   },
   {
+    "creator": "Dulcie Godfrey",
+    "title": "(No AI) Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+    "link": "https://www.wired.com/story/ailias-hologram-avatars/",
+    "pubDate": "Wed, 25 Feb 2026 12:00:00 +0000",
+    "dc:creator": "Dulcie Godfrey",
+    "content": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+    "contentSnippet": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+    "guid": "698cc0029ddf97f26e5d5c53",
+    "categories": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Products / Lifestyle"
+    ],
+    "isoDate": "2026-02-25T12:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "talk-to-your-own-personal-isaac-newton-with-ailias-s-hologram-avatars"
+  },
+  {
     "creator": "Michael Pollan",
     "title": "(No AI) AI Will Never Be Conscious",
     "link": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
@@ -146,22 +164,5 @@
     "isoDate": "2026-02-24T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-will-never-be-conscious"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) ‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
-    "pubDate": "Mon, 23 Feb 2026 19:28:13 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-    "contentSnippet": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-    "guid": "699758603887d82b1d67ef47",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-23T19:28:13.000Z",
-    "source": "Wired AI",
-    "slug": "uncanny-valley-ai-researcher-resignations-bots-hiring-humans-and-evie-magazine-s-party"
   }
 ]
