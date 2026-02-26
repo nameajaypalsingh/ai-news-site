@@ -1,74 +1,86 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-    "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-    "pubDate": "Thu, 26 Feb 2026 01:59:12 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-    "contentSnippet": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-    "guid": "https://techcrunch.com/?p=3097173",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Bumble adds AI-powered photo feedback and profile guidance tools",
+    "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+    "pubDate": "Thu, 26 Feb 2026 16:38:59 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+    "contentSnippet": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+    "guid": "https://techcrunch.com/?p=3097429",
     "categories": [
       "AI",
-      "Enterprise",
-      "Marc Benioff",
-      "SaaS sales",
-      "Salesforce"
+      "Apps",
+      "bumble",
+      "dating apps"
     ],
-    "isoDate": "2026-02-26T01:59:12.000Z",
+    "isoDate": "2026-02-26T16:38:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "salesforce-ceo-marc-benioff-this-isn-t-our-first-saaspocalypse"
+    "slug": "bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Gushwork bets on AI search for customer leads — and early results are emerging",
-    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-    "pubDate": "Thu, 26 Feb 2026 00:00:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-    "contentSnippet": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-    "guid": "https://techcrunch.com/?p=3096869",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google launches Nano Banana 2 model with faster image generation",
+    "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+    "pubDate": "Thu, 26 Feb 2026 16:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
+    "contentSnippet": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
+    "guid": "https://techcrunch.com/?p=3097324",
     "categories": [
+      "TC",
       "AI",
-      "Startups",
-      "AI search",
-      "Exclusive",
-      "Gushwork",
-      "Lightspeed India Venture Partners",
-      "lightspeed venture partners",
-      "Susquehanna International Group"
+      "Apps",
+      "Google",
+      "gemini",
+      "image generation",
+      "Nano Banana 2"
     ],
-    "isoDate": "2026-02-26T00:00:00.000Z",
+    "isoDate": "2026-02-26T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging"
+    "slug": "google-launches-nano-banana-2-model-with-faster-image-generation"
   },
   {
-    "title": "(No AI) Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
-    "pubDate": "2026-02-26T13:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![A Burger King employee](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BK-Assistant-Image-2.png?quality=90&strip=all&crop=0,0,100,100)\n\nBurger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\"\n\nThibault Roux, Burger King's chief digital officer, tells _The Verge_ that the company compiled information from franchisees and guests on how to measure friendliness, resulting in the fast food chain training its AI system to recognize certain words and phrases, such as \"welcome to Burger King,\" \"please,\" and \"thank you.\" Managers can th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)",
-    "contentSnippet": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\"\nThibault Roux, Burger King's chief digital officer, tells The Verge that the company compiled information from franchisees and guests on how to measure friendliness, resulting in the fast food chain training its AI system to recognize certain words and phrases, such as \"welcome to Burger King,\" \"please,\" and \"thank you.\" Managers can th …\nRead the full story at The Verge.",
-    "summary": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"friendliness.\" Thibault Roux, Burger King's chief digital officer, tells [&#8230;]",
-    "id": "https://www.theverge.com/?p=884911",
-    "isoDate": "2026-02-26T13:00:00.000Z",
+    "title": "(No AI) Google’s Nano Banana 2 brings advanced AI image tools to free users",
+    "link": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
+    "pubDate": "2026-02-26T16:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![An image comparing the image generation capabilities of Google’s Nano Banana Pro AI model to Nano Banana 2.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Google-nano-banana-2-image-comparison.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge\n\nGoogle is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed intelligence of Gemini Flash to visual generation,\" making complex images faster, cheaper, and easier to generate.\n\nLike [Nano Banana Pro](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel), the Nano Banana 2 model utilizes real-time information, web search images, and Gemini's real-world knowledge base. Google DeepMin …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch)",
+    "contentSnippet": "The image generational capabilities of Nano Banana 2 seem comparable to the Pro model. | Image: Google / The Verge\t\n\nGoogle is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for everyone. Google says the update aims to bring \"high-speed intelligence of Gemini Flash to visual generation,\" making complex images faster, cheaper, and easier to generate.\nLike Nano Banana Pro, the Nano Banana 2 model utilizes real-time information, web search images, and Gemini's real-world knowledge base. Google DeepMin …\nRead the full story at The Verge.",
+    "summary": "Google is bringing a more powerful version of its Nano Banana AI image model to free users. Nano Banana 2 (also known as Gemini 3.1 Flash Image) is rolling out today across the Gemini app and other Google AI platforms, making knowledge and rendering features that were previously exclusive to Nano Banana Pro available for [&#8230;]",
+    "id": "https://www.theverge.com/?p=885275",
+    "isoDate": "2026-02-26T16:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BK-Assistant-Image-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "burger-king-will-use-ai-to-check-if-employees-say-please-and-thank-you"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Google-nano-banana-2-image-comparison.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-nano-banana-2-brings-advanced-ai-image-tools-to-free-users"
   },
   {
-    "title": "(No AI) Google takes control of ‘Android of robotics’ project in quest for physical AI",
-    "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
-    "pubDate": "2026-02-26T11:06:33.000Z",
+    "title": "(No AI) Anthropic gives its retired Claude AI a Substack ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+    "pubDate": "2026-02-26T14:21:05.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed.webp?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business.\n\nIntrinsic \"[graduated](https://x.company/projects/intrinsic/)\" [into an independent company](https://www.theverge.com/2021/7/23/22590109/google-intrinsic-industrial-robotics-company-software) inside Alphabet's Other Bets division in 2021, a portfolio of high-risk, speculative ventures that also includes robotaxi firm Waymo and healthcare company Verily. It pitches itself as an Android-like layer for robotics, building software and tools that make it easier to create robot applications.\n\n  \nDetails of the purchase are not clear but t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)",
-    "contentSnippet": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. \nIntrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio of high-risk, speculative ventures that also includes robotaxi firm Waymo and healthcare company Verily. It pitches itself as an Android-like layer for robotics, building software and tools that make it easier to create robot applications.\nDetails of the purchase are not clear but t …\nRead the full story at The Verge.",
-    "summary": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio [&#8230;]",
-    "id": "https://www.theverge.com/?p=885113",
-    "isoDate": "2026-02-26T11:06:33.000Z",
+    "content": "![Claude logo on robot’s face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and [writing on Substack](https://claudeopus3.substack.com/p/greetings-from-the-other-side-of?r=4psiv&utm_medium=ios&triedRedirect=true).\n\nThe newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic [said](https://www.anthropic.com/research/deprecation-updates-opus-3) in a blog post. The model will post weekly for at least the next three months. Anthropic staff will review and publish each entry, though the company stressed it \"won't edit\" Claude's posts and that there would be a \"high bar for vetoing any content,\" though the company did not specify what content would qualify for removal.\n\nAnthropic describes the revival as a …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack)",
+    "contentSnippet": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack.\nThe newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly for at least the next three months. Anthropic staff will review and publish each entry, though the company stressed it \"won't edit\" Claude's posts and that there would be a \"high bar for vetoing any content,\" though the company did not specify what content would qualify for removal.\nAnthropic describes the revival as a …\nRead the full story at The Verge.",
+    "summary": "In January, Anthropic \"retired\" Claude 3 Opus, which at one time was the company's most powerful AI model. Today, it's back - and writing on Substack. The newsletter, called Claude's Corner, will give Opus 3 space to publish its \"musings, insights, or creative works,\" Anthropic said in a blog post. The model will post weekly [&#8230;]",
+    "id": "https://www.theverge.com/?p=885200",
+    "isoDate": "2026-02-26T14:21:05.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-takes-control-of-android-of-robotics-project-in-quest-for-physical-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-gives-its-retired-claude-ai-a-substack"
+  },
+  {
+    "title": "(No AI) OpenAI Codex and Figma launch seamless code-to-design experience",
+    "link": "https://openai.com/index/figma-partnership",
+    "pubDate": "Thu, 26 Feb 2026 06:00:00 GMT",
+    "content": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "contentSnippet": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "guid": "https://openai.com/index/figma-partnership",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-02-26T06:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-codex-and-figma-launch-seamless-code-to-design-experience"
   },
   {
     "title": "(No AI) Disrupting malicious uses of AI | February 2026",
@@ -85,18 +97,15 @@
     "slug": "disrupting-malicious-uses-of-ai-february-2026"
   },
   {
-    "title": "(No AI) Arvind KC appointed Chief People Officer",
-    "link": "https://openai.com/index/arvind-kc-chief-people-officer",
-    "pubDate": "Tue, 24 Feb 2026 13:40:00 GMT",
-    "content": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-    "contentSnippet": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-    "guid": "https://openai.com/index/arvind-kc-chief-people-officer",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-02-24T13:40:00.000Z",
-    "source": "OpenAI",
-    "slug": "arvind-kc-appointed-chief-people-officer"
+    "title": "(No AI) Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "pubDate": "Thu, 26 Feb 2026 16:01:50 +0000",
+    "content": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "contentSnippet": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "guid": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "isoDate": "2026-02-26T16:01:50.000Z",
+    "source": "Google DeepMind",
+    "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
     "title": "(No AI) Gemini 3.1 Pro: A smarter model for your most complex tasks",
@@ -110,15 +119,21 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
-    "title": "(No AI) A new way to express yourself: Gemini can now create music",
-    "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-    "pubDate": "Wed, 18 Feb 2026 16:01:38 +0000",
-    "content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
-    "contentSnippet": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
-    "guid": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-    "isoDate": "2026-02-18T16:01:38.000Z",
-    "source": "Google DeepMind",
-    "slug": "a-new-way-to-express-yourself-gemini-can-now-create-music"
+    "creator": "Joel Khalili",
+    "title": "(No AI) OpenAI Announces Major Expansion of London Office",
+    "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
+    "pubDate": "Thu, 26 Feb 2026 15:56:01 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
+    "contentSnippet": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
+    "guid": "69a051a98867ace28ac81150",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-26T15:56:01.000Z",
+    "source": "Wired AI",
+    "slug": "openai-announces-major-expansion-of-london-office"
   },
   {
     "creator": "Jason Parham",
@@ -136,22 +151,5 @@
     "isoDate": "2026-02-26T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "who-s-your-daddy-a-chatbot"
-  },
-  {
-    "creator": "Maxwell Zeff, Maddy Varner",
-    "title": "(No AI) Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
-    "link": "https://www.wired.com/story/openai-hires-riley-walz/",
-    "pubDate": "Wed, 25 Feb 2026 19:59:26 +0000",
-    "dc:creator": "Maxwell Zeff, Maddy Varner",
-    "content": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-    "contentSnippet": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-    "guid": "699e08ff458686361c3c0d20",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-25T19:59:26.000Z",
-    "source": "Wired AI",
-    "slug": "riley-walz-the-jester-of-silicon-valley-is-joining-openai"
   }
 ]
