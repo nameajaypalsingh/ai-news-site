@@ -1,44 +1,44 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Bumble adds AI-powered photo feedback and profile guidance tools",
-    "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
-    "pubDate": "Thu, 26 Feb 2026 16:38:59 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
-    "contentSnippet": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
-    "guid": "https://techcrunch.com/?p=3097429",
+    "creator": "Sarah Perez",
+    "title": "(No AI) So, we’re getting Prada Meta AI glasses, right?",
+    "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+    "pubDate": "Thu, 26 Feb 2026 20:11:55 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+    "contentSnippet": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+    "guid": "https://techcrunch.com/?p=3097528",
     "categories": [
       "AI",
-      "Apps",
-      "bumble",
-      "dating apps"
+      "Gadgets",
+      "ai glasses",
+      "Fashion",
+      "Meta",
+      "prada",
+      "smartglasses"
     ],
-    "isoDate": "2026-02-26T16:38:59.000Z",
+    "isoDate": "2026-02-26T20:11:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools"
+    "slug": "so-we-re-getting-prada-meta-ai-glasses-right"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google launches Nano Banana 2 model with faster image generation",
-    "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
-    "pubDate": "Thu, 26 Feb 2026 16:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
-    "contentSnippet": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode",
-    "guid": "https://techcrunch.com/?p=3097324",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Sophia Space raises $10M seed to demo novel space computers",
+    "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+    "pubDate": "Thu, 26 Feb 2026 19:55:20 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "The company's modular computer tiles offer a new vision for space data centers.",
+    "contentSnippet": "The company's modular computer tiles offer a new vision for space data centers.",
+    "guid": "https://techcrunch.com/?p=3096833",
     "categories": [
-      "TC",
       "AI",
-      "Apps",
-      "Google",
-      "gemini",
-      "image generation",
-      "Nano Banana 2"
+      "Space",
+      "Exclusive",
+      "orbital computers"
     ],
-    "isoDate": "2026-02-26T16:00:00.000Z",
+    "isoDate": "2026-02-26T19:55:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-launches-nano-banana-2-model-with-faster-image-generation"
+    "slug": "sophia-space-raises-10m-seed-to-demo-novel-space-computers"
   },
   {
     "title": "(No AI) Google’s Nano Banana 2 brings advanced AI image tools to free users",
@@ -69,6 +69,20 @@
     "slug": "anthropic-gives-its-retired-claude-ai-a-substack"
   },
   {
+    "title": "(No AI) Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
+    "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "pubDate": "Thu, 26 Feb 2026 10:00:00 GMT",
+    "content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "contentSnippet": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "guid": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-02-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "pacific-northwest-national-laboratory-and-openai-partner-to-accelerate-federal-permitting"
+  },
+  {
     "title": "(No AI) OpenAI Codex and Figma launch seamless code-to-design experience",
     "link": "https://openai.com/index/figma-partnership",
     "pubDate": "Thu, 26 Feb 2026 06:00:00 GMT",
@@ -81,20 +95,6 @@
     "isoDate": "2026-02-26T06:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-codex-and-figma-launch-seamless-code-to-design-experience"
-  },
-  {
-    "title": "(No AI) Disrupting malicious uses of AI | February 2026",
-    "link": "https://openai.com/index/disrupting-malicious-ai-uses",
-    "pubDate": "Wed, 25 Feb 2026 00:00:00 GMT",
-    "content": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-    "contentSnippet": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-    "guid": "https://openai.com/index/disrupting-malicious-ai-uses",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-02-25T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "disrupting-malicious-uses-of-ai-february-2026"
   },
   {
     "title": "(No AI) Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
@@ -119,37 +119,36 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) OpenAI Announces Major Expansion of London Office",
-    "link": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
-    "pubDate": "Thu, 26 Feb 2026 15:56:01 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
-    "contentSnippet": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK.",
-    "guid": "69a051a98867ace28ac81150",
+    "creator": "Zeyi Yang",
+    "title": "(No AI) How Chinese AI Chatbots Censor Themselves",
+    "link": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+    "pubDate": "Thu, 26 Feb 2026 20:08:08 +0000",
+    "dc:creator": "Zeyi Yang",
+    "content": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
+    "contentSnippet": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
+    "guid": "69a08892157af8f83feddbc8",
+    "categories": [
+      "Business"
+    ],
+    "isoDate": "2026-02-26T20:08:08.000Z",
+    "source": "Wired AI",
+    "slug": "how-chinese-ai-chatbots-censor-themselves"
+  },
+  {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Are You ‘Agentic’ Enough for the AI Era?",
+    "link": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+    "pubDate": "Thu, 26 Feb 2026 19:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+    "contentSnippet": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+    "guid": "699ca89387b4ddbea4d1c6a0",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-02-26T15:56:01.000Z",
+    "isoDate": "2026-02-26T19:00:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-announces-major-expansion-of-london-office"
-  },
-  {
-    "creator": "Jason Parham",
-    "title": "(No AI) Who’s Your Daddy? A Chatbot",
-    "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
-    "pubDate": "Thu, 26 Feb 2026 12:00:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-    "contentSnippet": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-    "guid": "699c9cc51ca956d4896d20f2",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-02-26T12:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "who-s-your-daddy-a-chatbot"
+    "slug": "are-you-agentic-enough-for-the-ai-era"
   }
 ]
