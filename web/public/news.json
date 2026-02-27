@@ -1,103 +1,107 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
-    "link": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
-    "pubDate": "Thu, 26 Feb 2026 23:43:32 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
-    "contentSnippet": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
-    "guid": "https://techcrunch.com/?p=3097682",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+    "pubDate": "Fri, 27 Feb 2026 16:23:58 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+    "contentSnippet": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+    "guid": "https://techcrunch.com/?p=3097820",
     "categories": [
       "AI",
-      "Fintech",
-      "Amazon",
-      "block",
-      "Elon Musk",
-      "jack dorsey",
-      "Layoffs"
-    ],
-    "isoDate": "2026-02-26T23:43:32.000Z",
-    "source": "TechCrunch AI",
-    "slug": "jack-dorsey-just-halved-the-size-of-block-s-employee-base-and-he-says-your-company-is-next"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic CEO stands firm as Pentagon deadline looms",
-    "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
-    "pubDate": "Thu, 26 Feb 2026 23:19:06 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
-    "contentSnippet": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
-    "guid": "https://techcrunch.com/?p=3097667",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "pentagon",
-      "dod",
       "Anthropic",
       "dario amodei",
-      "pete hegseth"
+      "pentagon"
     ],
-    "isoDate": "2026-02-26T23:19:06.000Z",
+    "isoDate": "2026-02-27T16:23:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-ceo-stands-firm-as-pentagon-deadline-looms"
+    "slug": "employees-at-google-and-openai-support-anthropic-s-pentagon-stand-in-open-letter"
   },
   {
-    "title": "(No AI) Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
-    "link": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
-    "pubDate": "2026-02-26T23:22:44.000Z",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Last 24 hours to get TechCrunch Disrupt 2026 tickets at the lowest rates of the year",
+    "link": "https://techcrunch.com/2026/02/27/last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year/",
+    "pubDate": "Fri, 27 Feb 2026 15:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "The lowest rates of the year for TechCrunch Disrupt 2026 end after today. Prices go up at 11:59 p.m. PT. Don't miss connecting with 10,000 founders, investors, and operators, and key takeaways from 250+ industry leaders. Register now to save up to $680, or up to 30% on group passes.",
+    "contentSnippet": "The lowest rates of the year for TechCrunch Disrupt 2026 end after today. Prices go up at 11:59 p.m. PT. Don't miss connecting with 10,000 founders, investors, and operators, and key takeaways from 250+ industry leaders. Register now to save up to $680, or up to 30% on group passes.",
+    "guid": "https://techcrunch.com/?p=3095436",
+    "categories": [
+      "Startups",
+      "Transportation",
+      "Space",
+      "Hardware",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "Media & Entertainment",
+      "AI",
+      "Apps",
+      "Gadgets",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ],
+    "isoDate": "2026-02-27T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "last-24-hours-to-get-techcrunch-disrupt-2026-tickets-at-the-lowest-rates-of-the-year"
+  },
+  {
+    "title": "(No AI) We don’t have to have unsupervised killer robots",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+    "pubDate": "2026-02-27T16:18:26.000Z",
     "author": "Hayden Field",
-    "content": "![Photo illustration of Dario Amodei of Anthropic.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLess than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI.\n\nIt's the [culmination of a dramatic exchange](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all AI labs' current contracts with the military. But Anthropic, so far, has refused to back down from its two current red lines: no mass surveillance of Americans, and no lethal autonomous weapons (or weapons with license to kill targets with no human oversight whatsoever). OpenAI …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei)",
-    "contentSnippet": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. \nIt's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all AI labs' current contracts with the military. But Anthropic, so far, has refused to back down from its two current red lines: no mass surveillance of Americans, and no lethal autonomous weapons (or weapons with license to kill targets with no human oversight whatsoever). OpenAI  …\nRead the full story at The Verge.",
-    "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all [&#8230;]",
-    "id": "https://www.theverge.com/?p=885773",
-    "isoDate": "2026-02-26T23:22:44.000Z",
+    "content": "![A photo showing a flag surrounded by warning symbols](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military [unchecked access](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts wondering what kind of future they're helping to build.\n\nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)",
+    "contentSnippet": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts  wondering what kind of future they're helping to build. \nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\nRead the full story at The Verge.",
+    "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers [&#8230;]",
+    "id": "https://www.theverge.com/?p=885963",
+    "isoDate": "2026-02-27T16:18:26.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-refuses-pentagon-s-new-terms-standing-firm-on-lethal-autonomous-weapons-and-mass-surveillance"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "we-don-t-have-to-have-unsupervised-killer-robots"
   },
   {
-    "title": "(No AI) Microsoft’s Copilot Tasks AI uses its own computer to get things done",
-    "link": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-    "pubDate": "2026-02-26T22:56:09.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Microsoft Copilot logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the [company announced on Thursday](https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/). The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling appointments to generating study plans while you do something else.\n\nAs noted by Microsoft, you can describe what you need to Copilot Tasks using natural language, and assign Copilot Tasks to complete jobs on a recurring, scheduled, or one-time basis. Copilot Tasks will provide a report once its work is complete.\n\nYou can ca …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai)",
-    "contentSnippet": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling appointments to generating study plans while you do something else.\nAs noted by Microsoft, you can describe what you need to Copilot Tasks using natural language, and assign Copilot Tasks to complete jobs on a recurring, scheduled, or one-time basis. Copilot Tasks will provide a report once its work is complete.\nYou can ca …\nRead the full story at The Verge.",
-    "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling [&#8230;]",
-    "id": "https://www.theverge.com/?p=885741",
-    "isoDate": "2026-02-26T22:56:09.000Z",
+    "title": "(No AI) The Galaxy S26 is a photography nightmare",
+    "link": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+    "pubDate": "2026-02-27T15:15:52.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn many ways, Samsung's new phones [are fairly normal upgrades](https://www.theverge.com/tech/884239/samsung-galaxy-s26-plus-price-specs-gemini). The S26 lines come with some useful new things - particularly [the Privacy Display on the S26 Ultra](https://www.theverge.com/tech/884337/samsung-galaxy-s26-ultra-privacy-display-price), which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, on the other hand, are neither of those things. They're something worse. Something scarier.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), Nilay and David discuss the new phones, …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast)",
+    "contentSnippet": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, on the other hand, are neither of those things. They're something worse. Something scarier.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, Nilay and David discuss the new phones,  …\nRead the full story at The Verge.",
+    "summary": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, [&#8230;]",
+    "id": "https://www.theverge.com/?p=885942",
+    "isoDate": "2026-02-27T15:15:52.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-s-copilot-tasks-ai-uses-its-own-computer-to-get-things-done"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-galaxy-s26-is-a-photography-nightmare"
   },
   {
-    "title": "(No AI) Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting ",
-    "link": "https://openai.com/index/pacific-northwest-national-laboratory",
-    "pubDate": "Thu, 26 Feb 2026 10:00:00 GMT",
-    "content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-    "contentSnippet": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-    "guid": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "title": "(No AI) OpenAI and Amazon announce strategic partnership",
+    "link": "https://openai.com/index/amazon-partnership",
+    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "content": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "contentSnippet": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "guid": "https://openai.com/index/amazon-partnership",
     "categories": [
-      "Global Affairs"
+      "Company"
     ],
-    "isoDate": "2026-02-26T10:00:00.000Z",
+    "isoDate": "2026-02-27T05:30:00.000Z",
     "source": "OpenAI",
-    "slug": "pacific-northwest-national-laboratory-and-openai-partner-to-accelerate-federal-permitting"
+    "slug": "openai-and-amazon-announce-strategic-partnership"
   },
   {
-    "title": "(No AI) OpenAI Codex and Figma launch seamless code-to-design experience",
-    "link": "https://openai.com/index/figma-partnership",
-    "pubDate": "Thu, 26 Feb 2026 06:00:00 GMT",
-    "content": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-    "contentSnippet": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-    "guid": "https://openai.com/index/figma-partnership",
+    "title": "(No AI) Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "contentSnippet": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "guid": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "categories": [
-      "Global Affairs"
+      "Company"
     ],
-    "isoDate": "2026-02-26T06:00:00.000Z",
+    "isoDate": "2026-02-27T05:30:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-codex-and-figma-launch-seamless-code-to-design-experience"
+    "slug": "introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
   },
   {
     "title": "(No AI) Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
@@ -122,6 +126,23 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
+    "creator": "Steven Levy",
+    "title": "(No AI) Wall Street Has AI Psychosis",
+    "link": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+    "pubDate": "Fri, 27 Feb 2026 16:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+    "contentSnippet": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+    "guid": "699f780f9c1839834b2d772e",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-02-27T16:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "wall-street-has-ai-psychosis"
+  },
+  {
     "creator": "David Nield",
     "title": "(No AI) Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
     "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
@@ -137,23 +158,5 @@
     "isoDate": "2026-02-27T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "huxe-will-give-you-a-personalized-daily-audio-summary-powered-by-ai"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
-    "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-    "pubDate": "Fri, 27 Feb 2026 00:01:10 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-    "contentSnippet": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-    "guid": "69a0657ba432a15a7a0a261a",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
-    ],
-    "isoDate": "2026-02-27T00:01:10.000Z",
-    "source": "Wired AI",
-    "slug": "hands-on-with-nano-banana-2-the-latest-version-of-google-s-ai-image-generator"
   }
 ]
