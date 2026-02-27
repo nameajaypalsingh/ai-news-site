@@ -122,6 +122,23 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
+    "creator": "David Nield",
+    "title": "(No AI) Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+    "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+    "pubDate": "Fri, 27 Feb 2026 12:00:00 +0000",
+    "dc:creator": "David Nield",
+    "content": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+    "contentSnippet": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+    "guid": "699f41b49af3e6657d57a4a1",
+    "categories": [
+      "Gear",
+      "Gear / How To and Advice"
+    ],
+    "isoDate": "2026-02-27T12:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "huxe-will-give-you-a-personalized-daily-audio-summary-powered-by-ai"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
     "link": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
@@ -138,25 +155,5 @@
     "isoDate": "2026-02-27T00:01:10.000Z",
     "source": "Wired AI",
     "slug": "hands-on-with-nano-banana-2-the-latest-version-of-google-s-ai-image-generator"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) ‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
-    "pubDate": "Thu, 26 Feb 2026 23:20:36 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
-    "contentSnippet": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
-    "guid": "699f3c4403982e630cfa0b29",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Politics",
-      "Politics / Politics News",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-02-26T23:20:36.000Z",
-    "source": "Wired AI",
-    "slug": "uncanny-valley-pentagon-vs-woke-anthropic-agentic-vs-mimetic-and-trump-vs-state-of-the-union"
   }
 ]
