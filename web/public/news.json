@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "pubDate": "Sat, 28 Feb 2026 16:17:36 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "contentSnippet": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+    "guid": "https://techcrunch.com/?p=3098199",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei",
+      "Donald Trump",
+      "OpenAI",
+      "pege hegseth",
+      "sam altman"
+    ],
+    "isoDate": "2026-02-28T16:17:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-s-sam-altman-announces-pentagon-deal-with-technical-safeguards"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) Pentagon moves to designate Anthropic as a supply-chain risk",
     "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
@@ -18,29 +41,6 @@
     "isoDate": "2026-02-27T21:53:14.000Z",
     "source": "TechCrunch AI",
     "slug": "pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-    "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-    "pubDate": "Fri, 27 Feb 2026 19:42:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
-    "contentSnippet": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
-    "guid": "https://techcrunch.com/?p=3097837",
-    "categories": [
-      "AI",
-      "ChatGPT",
-      "Elon Musk",
-      "Grok",
-      "lawsuit",
-      "musk vs altman",
-      "OpenAI",
-      "xAI"
-    ],
-    "isoDate": "2026-02-27T19:42:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok"
   },
   {
     "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
