@@ -45,13 +45,13 @@
   {
     "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
     "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-    "pubDate": "2026-02-27T23:06:02.000Z",
+    "pubDate": "2026-02-28T02:19:16.000Z",
     "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\n\nNearly two hours after President Donald Trump announced on Truth Social that he was [banning Anthropic products from the federal government](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod), Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\".\n\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.\n\nAfter a week of [tense negotiations over the company's acc …](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations)\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)",
-    "contentSnippet": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". \nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.\nAfter a week of tense negotiations over the company's acc …\nRead the full story at The Verge.",
-    "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". The decision could immediately impact numerous major tech companies that [&#8230;]",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\n\nNearly two hours after President Donald Trump announced on Truth Social that he was [banning Anthropic products from the federal government](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod), Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic [says](https://www.anthropic.com/news/statement-comments-secretary-war) it is willing to challenge in court.\n\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security, A …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)",
+    "contentSnippet": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court.\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security, A …\nRead the full story at The Verge.",
+    "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. [&#8230;]",
     "id": "https://www.theverge.com/?p=886632",
-    "isoDate": "2026-02-27T23:06:02.000Z",
+    "isoDate": "2026-02-28T02:19:16.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "defense-secretary-pete-hegseth-designates-anthropic-a-supply-chain-risk"
@@ -121,6 +121,23 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
+    "creator": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
+    "title": "(No AI) Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+    "pubDate": "Sat, 28 Feb 2026 03:30:41 +0000",
+    "dc:creator": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
+    "content": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "contentSnippet": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+    "guid": "69a22ffab6112f3ba234df67",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-28T03:30:41.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-hits-back-after-us-military-labels-it-a-supply-chain-risk"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Trump Moves to Ban Anthropic From the US Government",
     "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
@@ -136,22 +153,5 @@
     "isoDate": "2026-02-27T21:36:31.000Z",
     "source": "Wired AI",
     "slug": "trump-moves-to-ban-anthropic-from-the-us-government"
-  },
-  {
-    "creator": "Kate Knibbs",
-    "title": "(No AI) OpenAI Fires an Employee for Prediction Market Insider Trading",
-    "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "pubDate": "Fri, 27 Feb 2026 19:07:28 +0000",
-    "dc:creator": "Kate Knibbs",
-    "content": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-    "contentSnippet": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-    "guid": "69a0aa6158396a06d6047f5c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-27T19:07:28.000Z",
-    "source": "Wired AI",
-    "slug": "openai-fires-an-employee-for-prediction-market-insider-trading"
   }
 ]
