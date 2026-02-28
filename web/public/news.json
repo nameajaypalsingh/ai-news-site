@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Pentagon moves to designate Anthropic as a supply-chain risk",
+    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "pubDate": "Fri, 27 Feb 2026 21:53:14 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+    "contentSnippet": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+    "guid": "https://techcrunch.com/?p=3098106",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "autonomous weapons",
+      "In Brief",
+      "pentagon"
+    ],
+    "isoDate": "2026-02-27T21:53:14.000Z",
+    "source": "TechCrunch AI",
+    "slug": "pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
     "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
@@ -23,68 +43,32 @@
     "slug": "musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic vs. the Pentagon: What’s actually at stake?",
-    "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-    "pubDate": "Fri, 27 Feb 2026 19:11:04 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
-    "contentSnippet": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
-    "guid": "https://techcrunch.com/?p=3097642",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "Claude",
-      "dario amodei",
-      "dod",
-      "pete hegseth"
-    ],
-    "isoDate": "2026-02-27T19:11:04.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-vs-the-pentagon-what-s-actually-at-stake"
-  },
-  {
-    "title": "(No AI) AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
-    "pubDate": "2026-02-27T17:16:53.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \n\nPentagon CTO Emil Michael is pushing for Anthropic to be [designated a “supply chain risk”](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is [still refusing](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\n\n_Follow along here for the latest updates on the clash between AI companies and the Pentagon…_\n\n*   [We don’t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)\n*   [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei)\n*   [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)\n*   [Inside Anthropic’s existential negotiations with the Pentagon](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations)",
-    "contentSnippet": "WASHINGTON, DC - JANUARY 29: U.S. Secretary of War Pete Hegseth (C) speaks during a meeting of the Cabinet as U.S. President Donald Trump (L) and U.S. Commerce Secretary Howard Lutnick (R) listen in the Cabinet Room of the White House on January 29, 2026 in Washington, DC. President Trump is holding the meeting as the Senate plans to hold a vote on a spending package to avoid another government shutdown, however Democrats are holding out for a deal to consider funding for the Department of Homeland Security.  (Photo by Win McNamee/Getty Images) | Getty Images\t\n\nCan AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons. \nPentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats. Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nWe don’t have to have unsupervised killer robots\n\t\t\t\nAnthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance\n\t\t\t\nPete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\n\t\t\t\nInside Anthropic’s existential negotiations with the Pentagon",
-    "summary": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=886082",
-    "isoDate": "2026-02-27T17:16:53.000Z",
+    "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+    "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+    "pubDate": "2026-02-27T23:06:02.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\n\nNearly two hours after President Donald Trump announced on Truth Social that he was [banning Anthropic products from the federal government](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod), Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\".\n\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.\n\nAfter a week of [tense negotiations over the company's acc …](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations)\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)",
+    "contentSnippet": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". \nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.\nAfter a week of tense negotiations over the company's acc …\nRead the full story at The Verge.",
+    "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". The decision could immediately impact numerous major tech companies that [&#8230;]",
+    "id": "https://www.theverge.com/?p=886632",
+    "isoDate": "2026-02-27T23:06:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "defense-secretary-pete-hegseth-designates-anthropic-a-supply-chain-risk"
   },
   {
-    "title": "(No AI) We don’t have to have unsupervised killer robots",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
-    "pubDate": "2026-02-27T16:18:26.000Z",
+    "title": "(No AI) Trump orders federal agencies to drop Anthropic’s AI",
+    "link": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+    "pubDate": "2026-02-27T21:30:47.000Z",
     "author": "Hayden Field",
-    "content": "![A photo showing a flag surrounded by warning symbols](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military [unchecked access](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts wondering what kind of future they're helping to build.\n\nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)",
-    "contentSnippet": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers across the industry are looking at their own companies' government and military contracts  wondering what kind of future they're helping to build. \nWhile the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing t …\nRead the full story at The Verge.",
-    "summary": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers [&#8230;]",
-    "id": "https://www.theverge.com/?p=885963",
-    "isoDate": "2026-02-27T16:18:26.000Z",
+    "content": "![An image of Trump](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Friday afternoon, Donald Trump [posted on Truth Social](https://truthsocial.com/@realDonaldTrump/posts/116144552969293195), accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's [refusal](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) of an updated agreement with the US military agreeing to \"any lawful use\" of Anthropic's technology, as Defense Secretary Pete Hegseth mandated in a January memo, to the frustration of many tech workers [across the industry](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react).\n\nAs we explained [earlier this week](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations), that agreement would give the US military access to use the company's services for mass domestic surveillance and …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod)",
+    "contentSnippet": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of Anthropic's technology, as Defense Secretary Pete Hegseth mandated in a January memo, to the frustration of many tech workers across the industry.\nAs we explained earlier this week, that agreement would give the US military access to use the company's services for mass domestic surveillance and  …\nRead the full story at The Verge.",
+    "summary": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of [&#8230;]",
+    "id": "https://www.theverge.com/?p=886489",
+    "isoDate": "2026-02-27T21:30:47.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "we-don-t-have-to-have-unsupervised-killer-robots"
-  },
-  {
-    "title": "(No AI) Scaling AI for everyone",
-    "link": "https://openai.com/index/scaling-ai-for-everyone",
-    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "content": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "contentSnippet": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "guid": "https://openai.com/index/scaling-ai-for-everyone",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-02-27T05:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "scaling-ai-for-everyone"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-orders-federal-agencies-to-drop-anthropic-s-ai"
   },
   {
     "title": "(No AI) Joint Statement from OpenAI and Microsoft",
@@ -99,6 +83,20 @@
     "isoDate": "2026-02-27T05:30:00.000Z",
     "source": "OpenAI",
     "slug": "joint-statement-from-openai-and-microsoft"
+  },
+  {
+    "title": "(No AI) Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
+    "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "contentSnippet": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "guid": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-02-27T05:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
   },
   {
     "title": "(No AI) Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
@@ -123,6 +121,23 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) Trump Moves to Ban Anthropic From the US Government",
+    "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+    "pubDate": "Fri, 27 Feb 2026 21:36:31 +0000",
+    "dc:creator": "Will Knight",
+    "content": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+    "contentSnippet": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+    "guid": "69a093144a77d405a1150272",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-02-27T21:36:31.000Z",
+    "source": "Wired AI",
+    "slug": "trump-moves-to-ban-anthropic-from-the-us-government"
+  },
+  {
     "creator": "Kate Knibbs",
     "title": "(No AI) OpenAI Fires an Employee for Prediction Market Insider Trading",
     "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
@@ -138,22 +153,5 @@
     "isoDate": "2026-02-27T19:07:28.000Z",
     "source": "Wired AI",
     "slug": "openai-fires-an-employee-for-prediction-market-insider-trading"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Wall Street Has AI Psychosis",
-    "link": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-    "pubDate": "Fri, 27 Feb 2026 16:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-    "contentSnippet": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-    "guid": "699f780f9c1839834b2d772e",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-02-27T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "wall-street-has-ai-psychosis"
   }
 ]
