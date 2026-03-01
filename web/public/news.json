@@ -1,39 +1,42 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Google looks to tackle longstanding RCS spam in India — but not alone",
+    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+    "pubDate": "Sun, 01 Mar 2026 17:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "contentSnippet": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+    "guid": "https://techcrunch.com/?p=3098313",
+    "categories": [
+      "AI",
+      "Apps",
+      "Google",
+      "Airtel",
+      "Rich Communication Services",
+      "Google Messages",
+      "Google RCS"
+    ],
+    "isoDate": "2026-03-01T17:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone"
+  },
+  {
     "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-    "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-    "pubDate": "Sun, 01 Mar 2026 14:48:58 +0000",
+    "title": "(No AI) OpenAI reveals more details about its agreement with the Pentagon",
+    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+    "pubDate": "Sun, 01 Mar 2026 16:30:10 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-    "contentSnippet": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-    "guid": "https://techcrunch.com/?p=3098239",
+    "content": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+    "contentSnippet": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+    "guid": "https://techcrunch.com/?p=3098314",
     "categories": [
       "AI",
       "Government & Policy"
     ],
-    "isoDate": "2026-03-01T14:48:58.000Z",
+    "isoDate": "2026-03-01T16:30:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-rises-to-no-1-in-the-app-store-following-pentagon-dispute"
-  },
-  {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
-    "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
-    "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
-    "contentSnippet": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
-    "guid": "https://techcrunch.com/?p=3097359",
-    "categories": [
-      "Venture",
-      "AI",
-      "markets",
-      "SaaS"
-    ],
-    "isoDate": "2026-03-01T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "saas-in-saas-out-here-s-what-s-driving-the-saaspocalypse"
+    "slug": "openai-reveals-more-details-about-its-agreement-with-the-pentagon"
   },
   {
     "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
