@@ -1,46 +1,41 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-    "pubDate": "Sat, 28 Feb 2026 16:17:36 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-    "contentSnippet": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-    "guid": "https://techcrunch.com/?p=3098199",
+    "creator": "Connie Loizos",
+    "title": "(No AI) The trap Anthropic built for itself",
+    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+    "pubDate": "Sun, 01 Mar 2026 00:08:58 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+    "contentSnippet": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+    "guid": "https://techcrunch.com/?p=3098273",
     "categories": [
       "AI",
-      "Government & Policy",
       "Anthropic",
-      "dario amodei",
-      "Donald Trump",
+      "Max Tegmark",
       "OpenAI",
-      "pege hegseth",
-      "sam altman"
+      "pentagon",
+      "xAI"
     ],
-    "isoDate": "2026-02-28T16:17:36.000Z",
+    "isoDate": "2026-03-01T00:08:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-sam-altman-announces-pentagon-deal-with-technical-safeguards"
+    "slug": "the-trap-anthropic-built-for-itself"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Pentagon moves to designate Anthropic as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-    "pubDate": "Fri, 27 Feb 2026 21:53:14 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
-    "contentSnippet": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
-    "guid": "https://techcrunch.com/?p=3098106",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+    "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "pubDate": "Sat, 28 Feb 2026 21:05:06 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "contentSnippet": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+    "guid": "https://techcrunch.com/?p=3098239",
     "categories": [
       "AI",
-      "Anthropic",
-      "autonomous weapons",
-      "In Brief",
-      "pentagon"
+      "Government & Policy"
     ],
-    "isoDate": "2026-02-27T21:53:14.000Z",
+    "isoDate": "2026-02-28T21:05:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk"
+    "slug": "anthropic-s-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute"
   },
   {
     "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
@@ -71,6 +66,20 @@
     "slug": "trump-orders-federal-agencies-to-drop-anthropic-s-ai"
   },
   {
+    "title": "(No AI) Our agreement with the Department of War",
+    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "pubDate": "Sat, 28 Feb 2026 12:30:00 GMT",
+    "content": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "contentSnippet": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "guid": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-02-28T12:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "our-agreement-with-the-department-of-war"
+  },
+  {
     "title": "(No AI) Joint Statement from OpenAI and Microsoft",
     "link": "https://openai.com/index/continuing-microsoft-partnership",
     "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
@@ -83,20 +92,6 @@
     "isoDate": "2026-02-27T05:30:00.000Z",
     "source": "OpenAI",
     "slug": "joint-statement-from-openai-and-microsoft"
-  },
-  {
-    "title": "(No AI) Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "link": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-    "contentSnippet": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-    "guid": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-02-27T05:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
   },
   {
     "title": "(No AI) Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
