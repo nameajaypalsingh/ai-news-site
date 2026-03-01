@@ -1,30 +1,9 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The trap Anthropic built for itself",
-    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-    "pubDate": "Sun, 01 Mar 2026 00:08:58 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-    "contentSnippet": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-    "guid": "https://techcrunch.com/?p=3098273",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "Max Tegmark",
-      "OpenAI",
-      "pentagon",
-      "xAI"
-    ],
-    "isoDate": "2026-03-01T00:08:58.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-trap-anthropic-built-for-itself"
-  },
-  {
     "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-    "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-    "pubDate": "Sat, 28 Feb 2026 21:05:06 +0000",
+    "title": "(No AI) Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+    "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+    "pubDate": "Sun, 01 Mar 2026 14:48:58 +0000",
     "dc:creator": "Anthony Ha",
     "content": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
     "contentSnippet": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
@@ -33,9 +12,28 @@
       "AI",
       "Government & Policy"
     ],
-    "isoDate": "2026-02-28T21:05:06.000Z",
+    "isoDate": "2026-03-01T14:48:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute"
+    "slug": "anthropic-s-claude-rises-to-no-1-in-the-app-store-following-pentagon-dispute"
+  },
+  {
+    "creator": "Dominic-Madori Davis",
+    "title": "(No AI) SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+    "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+    "pubDate": "Sun, 01 Mar 2026 14:00:00 +0000",
+    "dc:creator": "Dominic-Madori Davis",
+    "content": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+    "contentSnippet": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+    "guid": "https://techcrunch.com/?p=3097359",
+    "categories": [
+      "Venture",
+      "AI",
+      "markets",
+      "SaaS"
+    ],
+    "isoDate": "2026-03-01T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "saas-in-saas-out-here-s-what-s-driving-the-saaspocalypse"
   },
   {
     "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
