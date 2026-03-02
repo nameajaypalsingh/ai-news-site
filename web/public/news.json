@@ -1,42 +1,56 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Google looks to tackle longstanding RCS spam in India — but not alone",
-    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-    "pubDate": "Sun, 01 Mar 2026 17:30:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-    "contentSnippet": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-    "guid": "https://techcrunch.com/?p=3098313",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "pubDate": "Mon, 02 Mar 2026 15:14:36 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+    "contentSnippet": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+    "guid": "https://techcrunch.com/?p=3096045",
     "categories": [
       "AI",
-      "Apps",
-      "Google",
-      "Airtel",
-      "Rich Communication Services",
-      "Google Messages",
-      "Google RCS"
+      "Fundraising",
+      "Startups",
+      "Y Combinator",
+      "customer support"
     ],
-    "isoDate": "2026-03-01T17:30:00.000Z",
+    "isoDate": "2026-03-02T15:14:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone"
+    "slug": "a-married-founder-duo-s-company-14-ai-is-replacing-customer-support-teams-at-startups"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI reveals more details about its agreement with the Pentagon",
-    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-    "pubDate": "Sun, 01 Mar 2026 16:30:10 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-    "contentSnippet": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-    "guid": "https://techcrunch.com/?p=3098314",
+    "creator": "Ram Iyer",
+    "title": "(No AI) Anthropic’s Claude reports widespread outage",
+    "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "pubDate": "Mon, 02 Mar 2026 13:31:49 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+    "contentSnippet": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+    "guid": "https://techcrunch.com/?p=3098361",
     "categories": [
       "AI",
-      "Government & Policy"
+      "Anthropic",
+      "Claude",
+      "Outage"
     ],
-    "isoDate": "2026-03-01T16:30:10.000Z",
+    "isoDate": "2026-03-02T13:31:49.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-reveals-more-details-about-its-agreement-with-the-pentagon"
+    "slug": "anthropic-s-claude-reports-widespread-outage"
+  },
+  {
+    "title": "(No AI) How OpenAI caved to the Pentagon on AI surveillance",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+    "pubDate": "2026-03-02T14:22:18.000Z",
+    "author": "Hayden Field",
+    "content": "![Missiles flying through a computer screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman [announced](https://x.com/sama/status/2027578580159631610?s=20) that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for [standing firm on two red lines](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) for military use: no mass surveillance of Americans and no lethal autonomous weapons (or AI systems with the power to kill targets [without human oversight](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)). Altman, however, implied that he'd found a unique way to keep those same limits in OpenAI's contract.\n\n\"Two of our most important safety principles are prohibitions on domestic mass surveillan …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth)",
+    "contentSnippet": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of Americans and no lethal autonomous weapons (or AI systems with the power to kill targets without human oversight). Altman, however, implied that he'd found a unique way to keep those same limits in OpenAI's contract.\n\"Two of our most important safety principles are prohibitions on domestic mass surveillan …\nRead the full story at The Verge.",
+    "summary": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of [&#8230;]",
+    "id": "https://www.theverge.com/?p=887309",
+    "isoDate": "2026-03-02T14:22:18.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-openai-caved-to-the-pentagon-on-ai-surveillance"
   },
   {
     "title": "(No AI) A robot arm with puppy dog eyes is just one of Lenovo’s new desktop AI concepts",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lenovo1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "a-robot-arm-with-puppy-dog-eyes-is-just-one-of-lenovo-s-new-desktop-ai-concepts"
-  },
-  {
-    "title": "(No AI) Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-    "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-    "pubDate": "2026-02-28T02:19:16.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\n\nNearly two hours after President Donald Trump announced on Truth Social that he was [banning Anthropic products from the federal government](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod), Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic [says](https://www.anthropic.com/news/statement-comments-secretary-war) it is willing to challenge in court.\n\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security, A …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff)",
-    "contentSnippet": "US President Donald Trump (R) looks on as US Secretary of Defense Pete Hegseth speaks to the press following US military actions in Venezuela | AFP via Getty Images\t\n\nNearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court.\nThe decision could immediately impact numerous major tech companies that use Claude in their line of work for the Pentagon, including Palantir and AWS. It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security, A …\nRead the full story at The Verge.",
-    "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. [&#8230;]",
-    "id": "https://www.theverge.com/?p=886632",
-    "isoDate": "2026-02-28T02:19:16.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "defense-secretary-pete-hegseth-designates-anthropic-a-supply-chain-risk"
   },
   {
     "title": "(No AI) Our agreement with the Department of War",
