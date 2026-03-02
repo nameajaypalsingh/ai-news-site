@@ -43,8 +43,8 @@
     "link": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
     "pubDate": "2026-03-01T23:01:00.000Z",
     "author": "Andrew Liszewski",
-    "content": "![Two images of the Lenovo AI Workmate Concept with its robot arm folded and extended.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lenovo1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\n\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,\" but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn't look as engaging as a human co-worker, but through local AI processing you can interact with the device as a smart assistant via v …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub)",
-    "contentSnippet": "The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\t\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,\" but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn't look as engaging as a human co-worker, but through local AI processing you can interact with the device as a smart assistant via v …\nRead the full story at The Verge.",
+    "content": "![Two images of the Lenovo AI Workmate Concept with its robot arm folded and extended.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lenovo1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\n\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,\" but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn't look as engaging as a human coworker, but through local AI processing you can interact with the device as a smart assistant via vo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub)",
+    "contentSnippet": "The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\t\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,\" but it looks like a tiny robotic arm on a swiveling base with a bulbous screen on the end displaying an expressive pair of eyes. It doesn't look as engaging as a human coworker, but through local AI processing you can interact with the device as a smart assistant via vo …\nRead the full story at The Verge.",
     "summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship. Lenovo describes its AI Workmate Concept as an \"always-on [&#8230;]",
     "id": "https://www.theverge.com/?p=885228",
     "isoDate": "2026-03-01T23:01:00.000Z",
@@ -117,6 +117,23 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) The Data Centers Have Arrived at the Edge of the Arctic Circle",
+    "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+    "pubDate": "Mon, 02 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
+    "contentSnippet": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
+    "guid": "699ce29700598210f006c3b2",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-02T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-data-centers-have-arrived-at-the-edge-of-the-arctic-circle"
+  },
+  {
     "creator": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
     "title": "(No AI) Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
     "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
@@ -132,22 +149,5 @@
     "isoDate": "2026-02-28T03:30:41.000Z",
     "source": "Wired AI",
     "slug": "anthropic-hits-back-after-us-military-labels-it-a-supply-chain-risk"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Trump Moves to Ban Anthropic From the US Government",
-    "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "pubDate": "Fri, 27 Feb 2026 21:36:31 +0000",
-    "dc:creator": "Will Knight",
-    "content": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-    "contentSnippet": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-    "guid": "69a093144a77d405a1150272",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-02-27T21:36:31.000Z",
-    "source": "Wired AI",
-    "slug": "trump-moves-to-ban-anthropic-from-the-us-government"
   }
 ]
