@@ -1,43 +1,60 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Users are ditching ChatGPT for Claude. Here’s how to make the switch",
-    "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-    "pubDate": "Mon, 02 Mar 2026 18:42:11 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-    "contentSnippet": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
-    "guid": "https://techcrunch.com/?p=3098443",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Cursor has reportedly surpassed $2B in annualized revenue",
+    "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+    "pubDate": "Tue, 03 Mar 2026 01:53:59 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+    "contentSnippet": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+    "guid": "https://techcrunch.com/?p=3098742",
     "categories": [
       "AI",
-      "Anthropic",
-      "Claude",
-      "evergreens"
+      "Startups",
+      "ai coding assistant",
+      "cursor",
+      "vibe coding"
     ],
-    "isoDate": "2026-03-02T18:42:11.000Z",
+    "isoDate": "2026-03-03T01:53:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "users-are-ditching-chatgpt-for-claude-here-s-how-to-make-the-switch"
+    "slug": "cursor-has-reportedly-surpassed-2b-in-annualized-revenue"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-    "pubDate": "Mon, 02 Mar 2026 17:18:34 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-    "contentSnippet": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
-    "guid": "https://techcrunch.com/?p=3098455",
+    "creator": "Sarah Perez",
+    "title": "(No AI) ChatGPT uninstalls surged by 295% after DoD deal",
+    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+    "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+    "contentSnippet": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
+    "guid": "https://techcrunch.com/?p=3098711",
     "categories": [
       "AI",
-      "Government & Policy",
+      "Apps",
       "Anthropic",
-      "dod",
-      "OpenAI",
-      "supply chain risk"
+      "ChatGPT",
+      "Claude",
+      "department of defense",
+      "Exclusive",
+      "OpenAI"
     ],
-    "isoDate": "2026-03-02T17:18:34.000Z",
+    "isoDate": "2026-03-03T00:03:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk"
+    "slug": "chatgpt-uninstalls-surged-by-295-after-dod-deal"
+  },
+  {
+    "title": "(No AI) Anthropic upgrades Claude’s memory to attract AI switchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+    "pubDate": "2026-03-02T22:29:46.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Anthropic on a black and orange background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a [new prompt and dedicated tool](https://claude.com/import-memory) for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT or Google's Gemini to quickly copy the data their preferred AI has collected on them and bring it over to Anthropic's chatbot. That way, they don't have to \"start over\" teaching Claude the context and history their previous chatbot already knows.\n\nThe option to import and export memories from Claude has been available since O …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)",
+    "contentSnippet": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT or Google's Gemini to quickly copy the data their preferred AI has collected on them and bring it over to Anthropic's chatbot. That way, they don't have to \"start over\" teaching Claude the context and history their previous chatbot already knows.  \nThe option to import and export memories from Claude has been available since O …\nRead the full story at The Verge.",
+    "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT [&#8230;]",
+    "id": "https://www.theverge.com/?p=887885",
+    "isoDate": "2026-03-02T22:29:46.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-upgrades-claude-s-memory-to-attract-ai-switchers"
   },
   {
     "title": "(No AI) Apple might use Google servers to store data for its upgraded AI Siri",
@@ -52,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697396/STK071_APPLE_M.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "apple-might-use-google-servers-to-store-data-for-its-upgraded-ai-siri"
-  },
-  {
-    "title": "(No AI) AI-generated art can’t be copyrighted after Supreme Court declines to review the rule",
-    "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-    "pubDate": "2026-03-02T17:58:05.000Z",
-    "author": "Emma Roth",
-    "content": "![Photo illustration of the Supreme Court building with pixelated sky.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, [as reported earlier by _Reuters_](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/). The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted.\n\nIn 2019, the US Copyright Office rejected Thaler's request to copyright an image, called _A Recent Entrance to Paradise_, on behalf of an algorithm he created. The Copyright Office [reviewed the decision in 2022](https://www.theverge.com/2022/2/21/22944335/us-copyright-office-reject-ai-generated-art-recent-entrance-to-paradise) and determined that the image doesn't include \"human authorship,\" disqualifying it from copyright protection.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screen_Shot_2022_02_21_at_10.05.17_AM.webp?quality=90&strip=all&crop=0,0,100,100)\n\nAfter Thale …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)",
-    "contentSnippet": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted.\nIn 2019, the US Copyright Office rejected Thaler's request to copyright an image, called A Recent Entrance to Paradise, on behalf of an algorithm he created. The Copyright Office reviewed the decision in 2022 and determined that the image doesn't include \"human authorship,\" disqualifying it from copyright protection. \nAfter Thale …\nRead the full story at The Verge.",
-    "summary": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright [&#8230;]",
-    "id": "https://www.theverge.com/?p=887678",
-    "isoDate": "2026-03-02T17:58:05.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-generated-art-can-t-be-copyrighted-after-supreme-court-declines-to-review-the-rule"
   },
   {
     "title": "(No AI) Our agreement with the Department of War",
@@ -118,37 +121,39 @@
     "slug": "gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) The Data Centers Have Arrived at the Edge of the Arctic Circle",
-    "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
-    "pubDate": "Mon, 02 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-    "contentSnippet": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-    "guid": "699ce29700598210f006c3b2",
+    "creator": "Reece Rogers",
+    "title": "(No AI) What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
+    "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
+    "pubDate": "Tue, 03 Mar 2026 01:06:01 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+    "contentSnippet": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
+    "guid": "69a61081896b60fea8247ba4",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Headphones"
     ],
-    "isoDate": "2026-03-02T10:00:00.000Z",
+    "isoDate": "2026-03-03T01:06:01.000Z",
     "source": "Wired AI",
-    "slug": "the-data-centers-have-arrived-at-the-edge-of-the-arctic-circle"
+    "slug": "what-is-that-mysterious-metallic-device-us-chief-design-officer-joe-gebbia-is-using"
   },
   {
-    "creator": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
-    "title": "(No AI) Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-    "pubDate": "Sat, 28 Feb 2026 03:30:41 +0000",
-    "dc:creator": "Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave",
-    "content": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-    "contentSnippet": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-    "guid": "69a22ffab6112f3ba234df67",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) This AI Agent Is Ready to Serve, Mid-Phone Call",
+    "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+    "pubDate": "Tue, 03 Mar 2026 00:25:44 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
+    "contentSnippet": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
+    "guid": "69a5fee7f5e4bf87e63fb289",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Phones"
     ],
-    "isoDate": "2026-02-28T03:30:41.000Z",
+    "isoDate": "2026-03-03T00:25:44.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-hits-back-after-us-military-labels-it-a-supply-chain-risk"
+    "slug": "this-ai-agent-is-ready-to-serve-mid-phone-call"
   }
 ]
