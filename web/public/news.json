@@ -1,102 +1,99 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Cursor has reportedly surpassed $2B in annualized revenue",
-    "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-    "pubDate": "Tue, 03 Mar 2026 01:53:59 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
-    "contentSnippet": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
-    "guid": "https://techcrunch.com/?p=3098742",
-    "categories": [
-      "AI",
-      "Startups",
-      "ai coding assistant",
-      "cursor",
-      "vibe coding"
-    ],
-    "isoDate": "2026-03-03T01:53:59.000Z",
-    "source": "TechCrunch AI",
-    "slug": "cursor-has-reportedly-surpassed-2b-in-annualized-revenue"
-  },
-  {
     "creator": "Sarah Perez",
-    "title": "(No AI) ChatGPT uninstalls surged by 295% after DoD deal",
-    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-    "pubDate": "Tue, 03 Mar 2026 00:03:37 +0000",
+    "title": "(No AI) ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+    "pubDate": "Tue, 03 Mar 2026 20:20:56 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-    "contentSnippet": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-    "guid": "https://techcrunch.com/?p=3098711",
+    "content": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
+    "contentSnippet": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
+    "guid": "https://techcrunch.com/?p=3099008",
     "categories": [
       "AI",
       "Apps",
-      "Anthropic",
       "ChatGPT",
-      "Claude",
-      "department of defense",
-      "Exclusive",
       "OpenAI"
     ],
-    "isoDate": "2026-03-03T00:03:37.000Z",
+    "isoDate": "2026-03-03T20:20:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "chatgpt-uninstalls-surged-by-295-after-dod-deal"
+    "slug": "chatgpt-s-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down"
   },
   {
-    "title": "(No AI) Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
-    "link": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first",
-    "pubDate": "2026-03-03T14:34:29.000Z",
-    "author": "Dominic Preston",
-    "content": "![Photo of the Xiaomi Leica Leitzphone on a bookshelf, showing the camera](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/leica-leitzphone-xiaomi-17-ultra-07.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nXiaomi’s new Leica Leitzphone has new hardware tricks including continuous zoom and a LOFIC sensor. | Photo: Dominic Preston / The Verge\n\nWhen it launched the [17 and 17 Ultra](https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica) in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it _really_ didn't talk about AI when it showed off the two phones' cameras, including a [special edition 17 Ultra co-created with Leica](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review). According to Angus Ng, the company's director of communications and public relations, that's no mistake.\n\n\"We're still currently focusing on what is the limitation of hardware,\" Ng told me at MWC 2026, when I asked why its photography approach seemed so different to Google and Samsung's recent [Pixel 10A](https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a) and [Galaxy S26](https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast) launches. \"If it really comes to a point where we c …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first)",
-    "contentSnippet": "Xiaomi’s new Leica Leitzphone has new hardware tricks including continuous zoom and a LOFIC sensor. | Photo: Dominic Preston / The Verge\t\n\nWhen it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two phones' cameras, including a special edition 17 Ultra co-created with Leica. According to Angus Ng, the company's director of communications and public relations, that's no mistake.\n\"We're still currently focusing on what is the limitation of hardware,\" Ng told me at MWC 2026, when I asked why its photography approach seemed so different to Google and Samsung's recent Pixel 10A and Galaxy S26 launches. \"If it really comes to a point where we c …\nRead the full story at The Verge.",
-    "summary": "When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two phones' cameras, including a special edition 17 Ultra co-created with Leica. According to Angus Ng, the [&#8230;]",
-    "id": "https://www.theverge.com/?p=888082",
-    "isoDate": "2026-03-03T14:34:29.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/leica-leitzphone-xiaomi-17-ultra-07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first"
-  },
-  {
-    "title": "(No AI) Why is SpaceX going public?",
-    "link": "https://www.theverge.com/tech/887899/spacex-ipo-risks-ai",
-    "pubDate": "2026-03-03T14:30:00.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Stock_musk_space.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI am excited about the SpaceX IPO for all the reasons investors shouldn't be. Maybe it'll be a real marquee moment for Silicon Valley, but I see the potential for a shitshow. After all, more than a decade ago, Musk said that SpaceX going public before going to Mars would be bad for the company.\n\nAre private markets tapped out on cash to fund SpaceX ambitions? [Elon Musk has been very clear about his feelings on publicly traded companies](https://www.theverge.com/2018/8/8/17664296/elon-musk-tesla-public-private-offering-stocks). Specifically: He doesn't like them!\n\n> \"I am hesitant to foist being public on SpaceX, especially given the long term nature of our mission.\"\n\nIn 2013, Musk sent an email to SpaceX, which his biographer Ashlee …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/887899/spacex-ipo-risks-ai)",
-    "contentSnippet": "I am excited about the SpaceX IPO for all the reasons investors shouldn't be. Maybe it'll be a real marquee moment for Silicon Valley, but I see the potential for a shitshow. After all, more than a decade ago, Musk said that SpaceX going public before going to Mars would be bad for the company.\nAre private markets tapped out on cash to fund SpaceX ambitions? Elon Musk has been very clear about his feelings on publicly traded companies. Specifically: He doesn't like them! \n\n\"I am hesitant to foist being public on SpaceX, especially given the long term nature of our mission.\"\n\nIn 2013, Musk sent an email to SpaceX, which his biographer Ashlee …\nRead the full story at The Verge.",
-    "summary": "I am excited about the SpaceX IPO for all the reasons investors shouldn't be. Maybe it'll be a real marquee moment for Silicon Valley, but I see the potential for a shitshow. After all, more than a decade ago, Musk said that SpaceX going public before going to Mars would be bad for the company. [&#8230;]",
-    "id": "https://www.theverge.com/?p=887899",
-    "isoDate": "2026-03-03T14:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Stock_musk_space.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-is-spacex-going-public"
-  },
-  {
-    "title": "(No AI) Our agreement with the Department of War",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "pubDate": "Sat, 28 Feb 2026 12:30:00 GMT",
-    "content": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-    "contentSnippet": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-    "guid": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Claude Code rolls out a voice mode capability",
+    "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+    "pubDate": "Tue, 03 Mar 2026 20:02:10 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
+    "contentSnippet": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
+    "guid": "https://techcrunch.com/?p=3099003",
     "categories": [
-      "Company"
+      "AI",
+      "Anthropic",
+      "voice mode",
+      "coding assistant",
+      "claude code",
+      "AI voice"
     ],
-    "isoDate": "2026-02-28T12:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "our-agreement-with-the-department-of-war"
+    "isoDate": "2026-03-03T20:02:10.000Z",
+    "source": "TechCrunch AI",
+    "slug": "claude-code-rolls-out-a-voice-mode-capability"
   },
   {
-    "title": "(No AI) Joint Statement from OpenAI and Microsoft",
-    "link": "https://openai.com/index/continuing-microsoft-partnership",
-    "pubDate": "Fri, 27 Feb 2026 05:30:00 GMT",
-    "content": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "contentSnippet": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "guid": "https://openai.com/index/continuing-microsoft-partnership",
+    "title": "(No AI) Google’s latest Pixel drop allows Gemini to order groceries for you and more",
+    "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
+    "pubDate": "2026-03-03T19:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![Google Pixel 10 Pro showing back panel on a grid of green rectangles](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [adding several new features](https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/) to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was [first shown off during Samsung's Unpacked](https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber) event last week, is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL.\n\nWith Gemini's new agentic feature, you can ask the assistant to complete work on your behalf inside \"select\" apps, including Uber and Grubhub. It will work in the background while you use your phone, but Google notes that you can supervise or interrupt its work at any time. This feature will also be …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026)",
+    "contentSnippet": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL.\nWith Gemini's new agentic feature, you can ask the assistant to complete work on your behalf inside \"select\" apps, including Uber and Grubhub. It will work in the background while you use your phone, but Google notes that you can supervise or interrupt its work at any time. This feature will also be  …\nRead the full story at The Verge.",
+    "summary": "Google is adding several new features to Pixel phones with its latest March update, including the ability for its Gemini AI assistant to do things for you, like order groceries or book a ride. This feature, which was first shown off during Samsung's Unpacked event last week, is rolling out now to the Pixel 10, [&#8230;]",
+    "id": "https://www.theverge.com/?p=888295",
+    "isoDate": "2026-03-03T19:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-latest-pixel-drop-allows-gemini-to-order-groceries-for-you-and-more"
+  },
+  {
+    "title": "(No AI) How the experts figure out what’s real in the age of deepfakes",
+    "link": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway",
+    "pubDate": "2026-03-03T18:22:12.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Mushroom cloud with digital ASCII effect.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYou can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the days that followed the US and Israel's joint [military strike on Iran on Saturday](https://www.theverge.com/policy/886940/us-israel-attack-iran), floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or [manipulated with AI](https://verafiles.org/articles/fact-check-video-of-burj-khalifa-collapsing-iran-missile-attack-ai-generated), and in some cases, are actually taken from [military-themed video games like _War Thunder_](https://www.houstonchronicle.com/news/politics/article/greg-abbott-iran-video-post-21950767.php).\n\nWith misinformation spreading like wildfire, many people have placed their trust in reputable digital investigators. Organizations like _The New York Times_, [_Indicator_](https://indicator.media/), and [_Bellingcat_](https://www.bellingcat.com/) have extensive verification procedures to avoid publishing synthetic or misleading content. \"Audiences can turn to trusted, in …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway)",
+    "contentSnippet": "You can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War Thunder. \nWith misinformation spreading like wildfire, many people have placed their trust in reputable digital investigators. Organizations like The New York Times, Indicator, and Bellingcat have extensive verification procedures to avoid publishing synthetic or misleading content.  \"Audiences can turn to trusted, in …\nRead the full story at The Verge.",
+    "summary": "In the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War [&#8230;]",
+    "id": "https://www.theverge.com/?p=888303",
+    "isoDate": "2026-03-03T18:22:12.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-the-experts-figure-out-what-s-real-in-the-age-of-deepfakes"
+  },
+  {
+    "title": "(No AI) GPT-5.3 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "pubDate": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "guid": "https://openai.com/index/gpt-5-3-instant-system-card",
     "categories": [
-      "Company"
+      "Publication"
     ],
-    "isoDate": "2026-02-27T05:30:00.000Z",
+    "isoDate": "2026-03-03T10:00:00.000Z",
+    "content": "",
+    "contentSnippet": "",
     "source": "OpenAI",
-    "slug": "joint-statement-from-openai-and-microsoft"
+    "slug": "gpt-5-3-instant-system-card"
+  },
+  {
+    "title": "(No AI) GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "link": "https://openai.com/index/gpt-5-3-instant",
+    "pubDate": "Tue, 03 Mar 2026 10:00:00 GMT",
+    "guid": "https://openai.com/index/gpt-5-3-instant",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-03T10:00:00.000Z",
+    "content": "",
+    "contentSnippet": "",
+    "source": "OpenAI",
+    "slug": "gpt-5-3-instant-smoother-more-useful-everyday-conversations"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
