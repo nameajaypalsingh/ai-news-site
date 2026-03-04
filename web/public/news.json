@@ -1,49 +1,61 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-    "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-    "pubDate": "Wed, 04 Mar 2026 14:58:36 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-    "contentSnippet": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-    "guid": "https://techcrunch.com/?p=3099166",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Google’s Gemini rolls out Canvas in AI Mode to all US users",
+    "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+    "pubDate": "Wed, 04 Mar 2026 18:50:58 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "contentSnippet": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "guid": "https://techcrunch.com/?p=3099254",
     "categories": [
       "AI",
-      "AI chatbot",
-      "ai delusions",
-      "ai psychosis",
+      "Apps",
+      "ai mode",
+      "Canvas",
       "gemini",
       "Google",
-      "jonathan Gavalas"
+      "google gemini",
+      "Google Search"
     ],
-    "isoDate": "2026-03-04T14:58:36.000Z",
+    "isoDate": "2026-03-04T18:50:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion"
+    "slug": "google-s-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) One startup’s pitch to provide more reliable AI answers: crowdsource the chatbots",
-    "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
-    "pubDate": "Wed, 04 Mar 2026 14:00:00 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-    "contentSnippet": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-    "guid": "https://techcrunch.com/?p=3098997",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Decagon completes first tender offer at $4.5B valuation",
+    "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "pubDate": "Wed, 04 Mar 2026 18:32:53 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "contentSnippet": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "guid": "https://techcrunch.com/?p=3099262",
     "categories": [
-      "Enterprise",
       "AI",
-      "Exclusive",
-      "gemini",
-      "OpenAI",
-      "Claude",
-      "Grok",
-      "artificial intelligence",
-      "CollectivIQ"
+      "Startups",
+      "customer support",
+      "Decagon",
+      "liquidity",
+      "Secondary Sale"
     ],
-    "isoDate": "2026-03-04T14:00:00.000Z",
+    "isoDate": "2026-03-04T18:32:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "one-startup-s-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots"
+    "slug": "decagon-completes-first-tender-offer-at-4-5b-valuation"
+  },
+  {
+    "title": "(No AI) Google’s AI-powered workspace is now available to more users in Search",
+    "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+    "pubDate": "2026-03-04T18:57:01.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing Canvas in AI Mode](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [bringing Canvas to everyone in the US](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/) using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat.\n\nThough [Google initially launched Canvas inside its Gemini app](https://www.theverge.com/google/631726/google-gemini-canvas-audio-overview-notebooklm-coding) as a way to create documents and code in real-time, it later tested the feature [in AI Mode](https://www.theverge.com/google-io/670439/google-ai-mode-search-io-2025) - but [only for visualizing travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas). Now, you can use Canvas in AI Mode for tasks related to creative writing and coding, too, giving you the ability to view an AI-generated dashboard laying out infor …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch)",
+    "contentSnippet": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat.\nThough Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode - but only for visualizing travel plans. Now, you can use Canvas in AI Mode for tasks related to creative writing and coding, too, giving you the ability to view an AI-generated dashboard laying out infor …\nRead the full story at The Verge.",
+    "summary": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside [&#8230;]",
+    "id": "https://www.theverge.com/?p=889339",
+    "isoDate": "2026-03-04T18:57:01.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-powered-workspace-is-now-available-to-more-users-in-search"
   },
   {
     "title": "(No AI) Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide",
@@ -60,46 +72,32 @@
     "slug": "google-faces-wrongful-death-lawsuit-after-gemini-allegedly-coached-man-to-die-by-suicide"
   },
   {
-    "title": "(No AI) AI is now part of the culture wars — and real wars",
-    "link": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
-    "pubDate": "2026-03-04T14:15:03.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS Defense Secretary Pete Hegseth takes questions during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowsky/AFP via Getty Images\n\n_Hello and welcome to_ Regulator_, the newsletter for_ Verge _subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a_ [_full-fledged subscription to_ The Verge](https://www.theverge.com/subscribe) _for only $40 a year? You'll get so much more than doomer scenarios. We cover_ [_non-existential fun stuff like Legos_](https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy)_, too._\n\n_Do you work somewhere involving government, technology, and existential threats? Send all tips to_ [_tina.nguyen+tips@theverge.com_](mailto:tina.nguyen+tips@theverge.com)_, or to my Signal account @tina.nguyen19._\n\nThis was, to put it mildly, not a chill weekend.\n\nFor a few hours on Saturday, I thought that the [Anthro …](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations)\n\n[Read the full story at The Verge.](https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic)",
-    "contentSnippet": "US Defense Secretary Pete Hegseth takes questions during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowsky/AFP via Getty Images\t\n\nHello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun stuff like Legos, too. \nDo you work somewhere involving government, technology, and existential threats? Send all tips to tina.nguyen+tips@theverge.com, or to my Signal account @tina.nguyen19. \nThis was, to put it mildly, not a chill weekend.\nFor a few hours on Saturday, I thought that the Anthro …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun [&#8230;]",
-    "id": "https://www.theverge.com/?p=888907",
-    "isoDate": "2026-03-04T14:15:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-is-now-part-of-the-culture-wars-and-real-wars"
+    "title": "(No AI) Extending single-minus amplitudes to gravitons",
+    "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "pubDate": "Wed, 04 Mar 2026 10:00:00 GMT",
+    "content": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "contentSnippet": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+    "guid": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-03-04T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "extending-single-minus-amplitudes-to-gravitons"
   },
   {
-    "title": "(No AI) GPT-5.3 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "pubDate": "Tue, 03 Mar 2026 10:00:00 GMT",
-    "guid": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "(No AI) Understanding AI and learning outcomes",
+    "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "pubDate": "Wed, 04 Mar 2026 00:00:00 GMT",
+    "content": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "contentSnippet": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "guid": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "categories": [
-      "Publication"
+      "Global Affairs"
     ],
-    "isoDate": "2026-03-03T10:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
+    "isoDate": "2026-03-04T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "gpt-5-3-instant-system-card"
-  },
-  {
-    "title": "(No AI) GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "link": "https://openai.com/index/gpt-5-3-instant",
-    "pubDate": "Tue, 03 Mar 2026 10:00:00 GMT",
-    "guid": "https://openai.com/index/gpt-5-3-instant",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-03-03T10:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
-    "source": "OpenAI",
-    "slug": "gpt-5-3-instant-smoother-more-useful-everyday-conversations"
+    "slug": "understanding-ai-and-learning-outcomes"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
