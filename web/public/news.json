@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Tim De Chant",
+    "title": "(No AI) Who needs data centers in space when they can float offshore?",
+    "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+    "pubDate": "Wed, 04 Mar 2026 12:00:00 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+    "contentSnippet": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+    "guid": "https://techcrunch.com/?p=3099080",
+    "categories": [
+      "Climate",
+      "AI",
+      "data centers",
+      "Wind power",
+      "wind turbines",
+      "Aikido",
+      "offshore wind"
+    ],
+    "isoDate": "2026-03-04T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "who-needs-data-centers-in-space-when-they-can-float-offshore"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Why AI startups are selling the same equity at two different prices",
     "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
@@ -20,23 +42,18 @@
     "slug": "why-ai-startups-are-selling-the-same-equity-at-two-different-prices"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Alibaba’s Qwen tech lead steps down after major AI push",
-    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "pubDate": "Tue, 03 Mar 2026 23:16:36 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-    "contentSnippet": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-    "guid": "https://techcrunch.com/?p=3099065",
-    "categories": [
-      "AI",
-      "alibaba",
-      "Junyang Lin",
-      "qwen"
-    ],
-    "isoDate": "2026-03-03T23:16:36.000Z",
-    "source": "TechCrunch AI",
-    "slug": "alibaba-s-qwen-tech-lead-steps-down-after-major-ai-push"
+    "title": "(No AI) Inside the secret meeting that led to the AI political resistance",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
+    "pubDate": "2026-03-04T11:00:00.000Z",
+    "author": "Tina Nguyen",
+    "content": "![From left: Randi Weingarten; Steve Bannon; Ralph Nader.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268379_The_AI_political_resistance_movement_has_arrived_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFrom left: Randi Weingarten, Steve Bannon, and Ralph Nader. | Image: Cath Virginia / The Verge, Getty Images\n\nIn early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next to labor union representatives. Progressive power brokers who'd drafted Bernie Sanders to run for president suddenly found themselves breathing the same air as MAGA talking heads. And the AI thought leaders who'd invited them to New Orleans were hoping that none of them would kill each other.\n\nOn Wednesday, the Future of Li …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli)",
+    "contentSnippet": "From left: Randi Weingarten, Steve Bannon, and Ralph Nader. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room.  Church leaders and conservative academics were sitting next to labor union representatives. Progressive power brokers who'd drafted Bernie Sanders to run for president suddenly found themselves breathing the same air as MAGA talking heads. And the AI thought leaders who'd invited them to New Orleans were hoping that none of them would kill each other.\nOn Wednesday, the Future of Li …\nRead the full story at The Verge.",
+    "summary": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next [&#8230;]",
+    "id": "https://www.theverge.com/?p=888841",
+    "isoDate": "2026-03-04T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268379_The_AI_political_resistance_movement_has_arrived_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "inside-the-secret-meeting-that-led-to-the-ai-political-resistance"
   },
   {
     "title": "(No AI) Google’s latest Pixel drop allows Gemini to order groceries for you and more",
@@ -51,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "google-s-latest-pixel-drop-allows-gemini-to-order-groceries-for-you-and-more"
-  },
-  {
-    "title": "(No AI) How the experts figure out what’s real in the age of deepfakes",
-    "link": "https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway",
-    "pubDate": "2026-03-03T18:22:12.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Mushroom cloud with digital ASCII effect.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYou can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the days that followed the US and Israel's joint [military strike on Iran on Saturday](https://www.theverge.com/policy/886940/us-israel-attack-iran), floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or [manipulated with AI](https://verafiles.org/articles/fact-check-video-of-burj-khalifa-collapsing-iran-missile-attack-ai-generated), and in some cases, are actually taken from [military-themed video games like _War Thunder_](https://www.houstonchronicle.com/news/politics/article/greg-abbott-iran-video-post-21950767.php).\n\nWith misinformation spreading like wildfire, many people have placed their trust in reputable digital investigators. Organizations like _The New York Times_, [_Indicator_](https://indicator.media/), and [_Bellingcat_](https://www.bellingcat.com/) have extensive verification procedures to avoid publishing synthetic or misleading content. \"Audiences can turn to trusted, in …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway)",
-    "contentSnippet": "You can help fight the spread of fake news by following these newsroom tips. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War Thunder. \nWith misinformation spreading like wildfire, many people have placed their trust in reputable digital investigators. Organizations like The New York Times, Indicator, and Bellingcat have extensive verification procedures to avoid publishing synthetic or misleading content.  \"Audiences can turn to trusted, in …\nRead the full story at The Verge.",
-    "summary": "In the days that followed the US and Israel's joint military strike on Iran on Saturday, floods of images and videos that supposedly document the war have appeared online. Some are old or depict unrelated conflicts, are made or manipulated with AI, and in some cases, are actually taken from military-themed video games like War [&#8230;]",
-    "id": "https://www.theverge.com/?p=888303",
-    "isoDate": "2026-03-03T18:22:12.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS515_CYBER_WARFARE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-the-experts-figure-out-what-s-real-in-the-age-of-deepfakes"
   },
   {
     "title": "(No AI) GPT-5.3 Instant System Card",
