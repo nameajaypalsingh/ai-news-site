@@ -1,43 +1,42 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "pubDate": "Tue, 03 Mar 2026 20:20:56 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-    "contentSnippet": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-    "guid": "https://techcrunch.com/?p=3099008",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Why AI startups are selling the same equity at two different prices",
+    "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+    "pubDate": "Wed, 04 Mar 2026 00:31:25 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+    "contentSnippet": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+    "guid": "https://techcrunch.com/?p=3099113",
     "categories": [
       "AI",
-      "Apps",
-      "ChatGPT",
-      "OpenAI"
+      "Startups",
+      "Venture",
+      "down rounds",
+      "valuation"
     ],
-    "isoDate": "2026-03-03T20:20:56.000Z",
+    "isoDate": "2026-03-04T00:31:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "chatgpt-s-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down"
+    "slug": "why-ai-startups-are-selling-the-same-equity-at-two-different-prices"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Claude Code rolls out a voice mode capability",
-    "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-    "pubDate": "Tue, 03 Mar 2026 20:02:10 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-    "contentSnippet": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
-    "guid": "https://techcrunch.com/?p=3099003",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Alibaba’s Qwen tech lead steps down after major AI push",
+    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "pubDate": "Tue, 03 Mar 2026 23:16:36 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
+    "contentSnippet": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
+    "guid": "https://techcrunch.com/?p=3099065",
     "categories": [
       "AI",
-      "Anthropic",
-      "voice mode",
-      "coding assistant",
-      "claude code",
-      "AI voice"
+      "alibaba",
+      "Junyang Lin",
+      "qwen"
     ],
-    "isoDate": "2026-03-03T20:02:10.000Z",
+    "isoDate": "2026-03-03T23:16:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "claude-code-rolls-out-a-voice-mode-capability"
+    "slug": "alibaba-s-qwen-tech-lead-steps-down-after-major-ai-push"
   },
   {
     "title": "(No AI) Google’s latest Pixel drop allows Gemini to order groceries for you and more",
