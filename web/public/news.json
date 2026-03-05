@@ -1,49 +1,67 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) OpenAI launches GPT-5.4 with Pro and Thinking versions",
-    "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
-    "pubDate": "Thu, 05 Mar 2026 18:00:15 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
-    "contentSnippet": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
-    "guid": "https://techcrunch.com/?p=3099598",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) It’s official: The Pentagon has labeled Anthropic a supply chain risk",
+    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+    "pubDate": "Thu, 05 Mar 2026 20:24:25 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "The Department of Defense has officially labeled Anthropic a supply chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+    "contentSnippet": "The Department of Defense has officially labeled Anthropic a supply chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+    "guid": "https://techcrunch.com/?p=3099756",
     "categories": [
       "AI",
-      "ChatGPT",
-      "foundation models",
-      "launch",
-      "OpenAI"
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei",
+      "dod",
+      "supply chain risk"
     ],
-    "isoDate": "2026-03-05T18:00:15.000Z",
+    "isoDate": "2026-03-05T20:24:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-launches-gpt-5-4-with-pro-and-thinking-versions"
+    "slug": "it-s-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Cursor is rolling out a new kind of agentic coding tool",
-    "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
-    "pubDate": "Thu, 05 Mar 2026 17:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
-    "contentSnippet": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
-    "guid": "https://techcrunch.com/?p=3099574",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+    "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+    "pubDate": "Thu, 05 Mar 2026 18:11:36 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+    "contentSnippet": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+    "guid": "https://techcrunch.com/?p=3099622",
     "categories": [
       "AI",
-      "agentic coding",
-      "cursor",
-      "Exclusive"
+      "Startups",
+      "AI agents",
+      "ai video",
+      "Exclusive",
+      "Luma",
+      "luma agents"
     ],
-    "isoDate": "2026-03-05T17:00:00.000Z",
+    "isoDate": "2026-03-05T18:11:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "cursor-is-rolling-out-a-new-kind-of-agentic-coding-tool"
+    "slug": "exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models"
+  },
+  {
+    "title": "(No AI) Netflix is buying Ben Affleck’s AI startup",
+    "link": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+    "pubDate": "2026-03-05T18:27:16.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![Actor Ben Affleck in a suit.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThough [Netflix lost the war for Warner Bros.](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount), it has just bought an AI startup from [the internet's favorite Dunkin' Donuts aficionado](https://www.theverge.com/news/864107/ben-affleck-says-smart-things-about-ai).\n\nToday, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser.\n\nIn [a statement about the acquisition](https://about.netflix.com/en/news/why-interpositive-is-joining-netflix) and his reasons for founding InterPositive in 2022, Affleck said he was inspired to get into the tech space after \"observing the early rise of AI in producti …\n\n[Read the full story at The Verge.](https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai)",
+    "contentSnippet": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado.\nToday, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser.\nIn a statement about the acquisition and his reasons for founding InterPositive in 2022, Affleck said he was inspired to get into the tech space after \"observing the early rise of AI in producti …\nRead the full story at The Verge.",
+    "summary": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers [&#8230;]",
+    "id": "https://www.theverge.com/?p=889973",
+    "isoDate": "2026-03-05T18:27:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "netflix-is-buying-ben-affleck-s-ai-startup"
   },
   {
     "title": "(No AI) OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
     "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
     "pubDate": "2026-03-05T18:00:00.000Z",
     "author": "Emma Roth",
-    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\n\nThe new model is a step toward [the agentic future that AI companies](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do) are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI [introduced ChatGPT Agent](https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research) amid a [flurry of other](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity) [agentic tool …](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents)",
+    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI [is launching GPT-5.4](https://openai.com/index/introducing-gpt-5-4/), the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\n\nThe new model is a step toward [the agentic future that AI companies](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do) are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI [introduced ChatGPT Agent](https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research) amid a [flurry of other](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity) [agentic tool …](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents)",
     "contentSnippet": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\nThe new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI introduced ChatGPT Agent amid a flurry of other agentic tool …\nRead the full story at The Verge.",
     "summary": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new [&#8230;]",
     "id": "https://www.theverge.com/?p=889926",
@@ -53,18 +71,18 @@
     "slug": "openai-s-new-gpt-5-4-model-is-a-big-step-toward-autonomous-agents"
   },
   {
-    "title": "(No AI) Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
-    "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
-    "pubDate": "2026-03-05T16:37:52.000Z",
-    "author": "Emma Roth",
-    "content": "![The Ray-Ban Meta (Gen 2) smart glasses.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets _Svenska Dagbladet_ and _Göteborgs-Posten_. The report, [which was published last week](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything), claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\"\n\nSo far, at least one [proposed class action lawsuit](https://www.documentcloud.org/documents/27772864-meta-smart-glasses-class-action-complaint/) accusing Meta of violating false advertising and privacy laws has emerged in response to _Svenska Dagbladet_'s reporting, citing the company's claim that its smart glasses are designed for privacy:\n\n> By affirmativel …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya)",
-    "contentSnippet": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and Göteborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate moments.\"\nSo far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy laws has emerged in response to Svenska Dagbladet's reporting, citing the company's claim that its smart glasses are designed for privacy:\nBy affirmativel …\n\nRead the full story at The Verge.",
-    "summary": "Meta's AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and G&#246;teborgs-Posten. The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show \"bathroom visits, sex and other intimate [&#8230;]",
-    "id": "https://www.theverge.com/?p=889637",
-    "isoDate": "2026-03-05T16:37:52.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-s-ai-glasses-reportedly-send-sensitive-footage-to-human-reviewers-in-kenya"
+    "title": "(No AI) Introducing GPT-5.4",
+    "link": "https://openai.com/index/introducing-gpt-5-4",
+    "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "contentSnippet": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "guid": "https://openai.com/index/introducing-gpt-5-4",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-gpt-5-4"
   },
   {
     "title": "(No AI) Reasoning models struggle to control their chains of thought, and that’s good",
@@ -79,20 +97,6 @@
     "isoDate": "2026-03-05T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "reasoning-models-struggle-to-control-their-chains-of-thought-and-that-s-good"
-  },
-  {
-    "title": "(No AI) Ensuring AI use in education leads to opportunity",
-    "link": "https://openai.com/index/ai-education-opportunity",
-    "pubDate": "Thu, 05 Mar 2026 09:00:00 GMT",
-    "content": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "contentSnippet": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-    "guid": "https://openai.com/index/ai-education-opportunity",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-03-05T09:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "ensuring-ai-use-in-education-leads-to-opportunity"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
