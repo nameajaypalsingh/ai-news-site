@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+    "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+    "pubDate": "Fri, 06 Mar 2026 13:20:43 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+    "contentSnippet": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+    "guid": "https://techcrunch.com/?p=3099928",
+    "categories": [
+      "AI",
+      "Apps",
+      "AI chatbot",
+      "Brazil",
+      "WhatsApp"
+    ],
+    "isoDate": "2026-03-06T13:20:43.000Z",
+    "source": "TechCrunch AI",
+    "slug": "after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Anthropic to challenge DOD’s supply-chain label in court",
     "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
@@ -19,26 +39,6 @@
     "isoDate": "2026-03-06T01:28:54.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-to-challenge-dod-s-supply-chain-label-in-court"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "pubDate": "Thu, 05 Mar 2026 23:14:04 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-    "contentSnippet": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-    "guid": "https://techcrunch.com/?p=3099874",
-    "categories": [
-      "AI",
-      "Startups",
-      "due diligence",
-      "M&A",
-      "Private Equity"
-    ],
-    "isoDate": "2026-03-05T23:14:04.000Z",
-    "source": "TechCrunch AI",
-    "slug": "diligencesquared-uses-ai-voice-agents-to-make-m-a-research-affordable"
   },
   {
     "title": "(No AI) The Pentagon formally labels Anthropic a supply-chain risk",
@@ -69,32 +69,32 @@
     "slug": "netflix-is-buying-ben-affleck-s-ai-startup"
   },
   {
-    "title": "(No AI) GPT-5.4 Thinking System Card",
-    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "guid": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "title": "(No AI) How Balyasny Asset Management built an AI research engine for investing",
+    "link": "https://openai.com/index/balyasny-asset-management",
+    "pubDate": "Fri, 06 Mar 2026 07:00:00 GMT",
+    "content": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "contentSnippet": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+    "guid": "https://openai.com/index/balyasny-asset-management",
     "categories": [
-      "Publication"
+      "API"
     ],
-    "isoDate": "2026-03-05T10:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
+    "isoDate": "2026-03-06T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "gpt-5-4-thinking-system-card"
+    "slug": "how-balyasny-asset-management-built-an-ai-research-engine-for-investing"
   },
   {
-    "title": "(No AI) Introducing GPT-5.4",
-    "link": "https://openai.com/index/introducing-gpt-5-4",
+    "title": "(No AI) Reasoning models struggle to control their chains of thought, and that’s good",
+    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "contentSnippet": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "guid": "https://openai.com/index/introducing-gpt-5-4",
+    "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "contentSnippet": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "guid": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "categories": [
-      "Product"
+      "Research"
     ],
     "isoDate": "2026-03-05T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-gpt-5-4"
+    "slug": "reasoning-models-struggle-to-control-their-chains-of-thought-and-that-s-good"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
