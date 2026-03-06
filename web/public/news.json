@@ -1,13 +1,13 @@
 [
   {
     "creator": "Rebecca Bellan",
-    "title": "(No AI) It’s official: The Pentagon has labeled Anthropic a supply chain risk",
-    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-    "pubDate": "Thu, 05 Mar 2026 20:24:25 +0000",
+    "title": "(No AI) Anthropic to challenge DOD’s supply chain label in court",
+    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+    "pubDate": "Fri, 06 Mar 2026 01:28:54 +0000",
     "dc:creator": "Rebecca Bellan",
-    "content": "The Department of Defense has officially labeled Anthropic a supply chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
-    "contentSnippet": "The Department of Defense has officially labeled Anthropic a supply chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
-    "guid": "https://techcrunch.com/?p=3099756",
+    "content": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply chain risk. He claims most Anthropic customers are unaffected by the label.",
+    "contentSnippet": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply chain risk. He claims most Anthropic customers are unaffected by the label.",
+    "guid": "https://techcrunch.com/?p=3099910",
     "categories": [
       "AI",
       "Government & Policy",
@@ -16,31 +16,43 @@
       "dod",
       "supply chain risk"
     ],
-    "isoDate": "2026-03-05T20:24:25.000Z",
+    "isoDate": "2026-03-06T01:28:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "it-s-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk"
+    "slug": "anthropic-to-challenge-dod-s-supply-chain-label-in-court"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
-    "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
-    "pubDate": "Thu, 05 Mar 2026 18:11:36 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
-    "contentSnippet": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
-    "guid": "https://techcrunch.com/?p=3099622",
+    "creator": "Marina Temkin",
+    "title": "(No AI) DiligenceSquared uses AI, voice agents to make M&A research affordable",
+    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+    "pubDate": "Thu, 05 Mar 2026 23:14:04 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+    "contentSnippet": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+    "guid": "https://techcrunch.com/?p=3099874",
     "categories": [
       "AI",
       "Startups",
-      "AI agents",
-      "ai video",
-      "Exclusive",
-      "Luma",
-      "luma agents"
+      "due diligence",
+      "M&A",
+      "Private Equity"
     ],
-    "isoDate": "2026-03-05T18:11:36.000Z",
+    "isoDate": "2026-03-05T23:14:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models"
+    "slug": "diligencesquared-uses-ai-voice-agents-to-make-m-a-research-affordable"
+  },
+  {
+    "title": "(No AI) The Pentagon formally labels Anthropic a supply-chain risk",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+    "pubDate": "2026-03-05T23:02:22.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\n\n[View Link](https://docs.google.com/document/d/1TAY6l6BW1G0a9RmpEY2-JSWr0RUaFS2HieJqzJYzt0k/edit?tab=t.0)\n\nAfter weeks of [failed negotiations, public ultimatums, and lawsuit threats](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines), the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\n\nThe decision, [first reported by _The Wall Street Journal_ on Thursday](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523?mod=rss_Technology), citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an America …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)",
+    "contentSnippet": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\t\n\nView Link\nAfter weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\nThe decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an America …\nRead the full story at The Verge.",
+    "summary": "After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will [&#8230;]",
+    "id": "https://www.theverge.com/?p=890347",
+    "isoDate": "2026-03-05T23:02:22.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-pentagon-formally-labels-anthropic-a-supply-chain-risk"
   },
   {
     "title": "(No AI) Netflix is buying Ben Affleck’s AI startup",
@@ -55,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "netflix-is-buying-ben-affleck-s-ai-startup"
-  },
-  {
-    "title": "(No AI) OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
-    "pubDate": "2026-03-05T18:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI [is launching GPT-5.4](https://openai.com/index/introducing-gpt-5-4/), the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\n\nThe new model is a step toward [the agentic future that AI companies](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do) are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI [introduced ChatGPT Agent](https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research) amid a [flurry of other](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity) [agentic tool …](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents)",
-    "contentSnippet": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.\nThe new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI introduced ChatGPT Agent amid a flurry of other agentic tool …\nRead the full story at The Verge.",
-    "summary": "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It's also OpenAI's first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications. The new [&#8230;]",
-    "id": "https://www.theverge.com/?p=889926",
-    "isoDate": "2026-03-05T18:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-new-gpt-5-4-model-is-a-big-step-toward-autonomous-agents"
   },
   {
     "title": "(No AI) Introducing GPT-5.4",
@@ -121,38 +119,37 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
-    "creator": "Miles Klee",
-    "title": "(No AI) Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
-    "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
-    "pubDate": "Wed, 04 Mar 2026 22:56:37 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
-    "contentSnippet": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
-    "guid": "69a71f5b470a52fc8895043f",
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) ‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+    "pubDate": "Thu, 05 Mar 2026 22:17:54 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+    "contentSnippet": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+    "guid": "69a739695269f0572dce5ded",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Politics",
+      "Politics / Politics News"
     ],
-    "isoDate": "2026-03-04T22:56:37.000Z",
+    "isoDate": "2026-03-05T22:17:54.000Z",
     "source": "Wired AI",
-    "slug": "grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive"
+    "slug": "uncanny-valley-iran-war-in-the-ai-era-prediction-market-ethics-and-paramount-beats-netflix"
   },
   {
-    "creator": "Molly Taft",
-    "title": "(No AI) Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
-    "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
-    "pubDate": "Wed, 04 Mar 2026 22:13:27 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
-    "contentSnippet": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
-    "guid": "69a836b8e6bce564b2476064",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+    "pubDate": "Thu, 05 Mar 2026 22:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+    "contentSnippet": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+    "guid": "69a5fc71a62a6c5112117250",
     "categories": [
-      "Science",
-      "Politics",
-      "Politics / Policy"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-04T22:13:27.000Z",
+    "isoDate": "2026-03-05T22:00:00.000Z",
     "source": "Wired AI",
-    "slug": "big-tech-signs-white-house-data-center-pledge-with-good-optics-and-little-substance"
+    "slug": "openai-had-banned-military-use-the-pentagon-tested-its-models-through-microsoft-anyway"
   }
 ]
