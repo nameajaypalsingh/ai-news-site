@@ -69,6 +69,20 @@
     "slug": "netflix-is-buying-ben-affleck-s-ai-startup"
   },
   {
+    "title": "(No AI) GPT-5.4 Thinking System Card",
+    "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
+    "guid": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "categories": [
+      "Publication"
+    ],
+    "isoDate": "2026-03-05T10:00:00.000Z",
+    "content": "",
+    "contentSnippet": "",
+    "source": "OpenAI",
+    "slug": "gpt-5-4-thinking-system-card"
+  },
+  {
     "title": "(No AI) Introducing GPT-5.4",
     "link": "https://openai.com/index/introducing-gpt-5-4",
     "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
@@ -81,20 +95,6 @@
     "isoDate": "2026-03-05T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-gpt-5-4"
-  },
-  {
-    "title": "(No AI) Reasoning models struggle to control their chains of thought, and that’s good",
-    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "contentSnippet": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "guid": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-03-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "reasoning-models-struggle-to-control-their-chains-of-thought-and-that-s-good"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
