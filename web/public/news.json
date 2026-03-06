@@ -1,44 +1,60 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-    "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
-    "pubDate": "Fri, 06 Mar 2026 13:20:43 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
-    "contentSnippet": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
-    "guid": "https://techcrunch.com/?p=3099928",
+    "creator": "Julie Bort, Rebecca Bellan",
+    "title": "(No AI) Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "pubDate": "Fri, 06 Mar 2026 19:50:10 +0000",
+    "dc:creator": "Julie Bort, Rebecca Bellan",
+    "content": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "contentSnippet": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "guid": "https://techcrunch.com/?p=3100091",
     "categories": [
       "AI",
-      "Apps",
-      "AI chatbot",
-      "Brazil",
-      "WhatsApp"
-    ],
-    "isoDate": "2026-03-06T13:20:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic to challenge DOD’s supply-chain label in court",
-    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "pubDate": "Fri, 06 Mar 2026 01:28:54 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-    "contentSnippet": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-    "guid": "https://techcrunch.com/?p=3099910",
-    "categories": [
-      "AI",
+      "Enterprise",
       "Government & Policy",
       "Anthropic",
-      "dario amodei",
       "dod",
       "supply chain risk"
     ],
-    "isoDate": "2026-03-06T01:28:54.000Z",
+    "isoDate": "2026-03-06T19:50:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-to-challenge-dod-s-supply-chain-label-in-court"
+    "slug": "microsoft-google-amazon-say-anthropic-claude-remains-available-to-non-defense-customers"
+  },
+  {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "pubDate": "Fri, 06 Mar 2026 19:00:22 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+    "contentSnippet": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+    "guid": "https://techcrunch.com/?p=3100101",
+    "categories": [
+      "AI",
+      "Security",
+      "Anthropic",
+      "Claude",
+      "Firefox",
+      "In Brief",
+      "Vulnerabilities"
+    ],
+    "isoDate": "2026-03-06T19:00:22.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks"
+  },
+  {
+    "title": "(No AI) The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
+    "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+    "pubDate": "2026-03-06T19:05:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![A bearded man wearing glasses making a face of discomfort at someone off-camera.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,100)\n\nCo-director Daniel Roher. | Image: Focus Features\n\nWe are in the thick of [a massive push](https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai) to [incorporate generative AI](https://www.theverge.com/2024/1/13/24035152/ces-generative-ai-hype-robots) into almost [every aspect of our lives](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai), but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going on in the industry as a whole.\n\nIn [_The AI Doc: Or How I Became an Apocaloptimist_](https://www.theverge.com/entertainment/880120/the-ai-doc-or-how-i-became-an-apocaloptimist-trailer), codirectors Daniel Roher and Charlie Tyrell attempt to make sense of this moment in gen AI's rise to prominence The f …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)",
+    "contentSnippet": "Co-director Daniel Roher. | Image: Focus Features\t\n\nWe are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole that comes across like fantastical ad copy. And the rate at which AI firms release new iterations of their products can make it hard to keep track of what's going on in the industry as a whole.\nIn The AI Doc: Or How I Became an Apocaloptimist, codirectors Daniel Roher and Charlie Tyrell attempt to make sense of this moment in gen AI's rise to prominence The f …\nRead the full story at The Verge.",
+    "summary": "We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole [&#8230;]",
+    "id": "https://www.theverge.com/?p=890806",
+    "isoDate": "2026-03-06T19:05:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-ai-doc-is-an-overwrought-hype-piece-for-doomers-and-accelerationists-alike"
   },
   {
     "title": "(No AI) The Pentagon formally labels Anthropic a supply-chain risk",
@@ -55,46 +71,32 @@
     "slug": "the-pentagon-formally-labels-anthropic-a-supply-chain-risk"
   },
   {
-    "title": "(No AI) Netflix is buying Ben Affleck’s AI startup",
-    "link": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
-    "pubDate": "2026-03-05T18:27:16.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![Actor Ben Affleck in a suit.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThough [Netflix lost the war for Warner Bros.](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount), it has just bought an AI startup from [the internet's favorite Dunkin' Donuts aficionado](https://www.theverge.com/news/864107/ben-affleck-says-smart-things-about-ai).\n\nToday, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser.\n\nIn [a statement about the acquisition](https://about.netflix.com/en/news/why-interpositive-is-joining-netflix) and his reasons for founding InterPositive in 2022, Affleck said he was inspired to get into the tech space after \"observing the early rise of AI in producti …\n\n[Read the full story at The Verge.](https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai)",
-    "contentSnippet": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado.\nToday, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers and researchers move over to Netflix. Affleck is also set to join the streamer as a senior adviser.\nIn a statement about the acquisition and his reasons for founding InterPositive in 2022, Affleck said he was inspired to get into the tech space after \"observing the early rise of AI in producti …\nRead the full story at The Verge.",
-    "summary": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers [&#8230;]",
-    "id": "https://www.theverge.com/?p=889973",
-    "isoDate": "2026-03-05T18:27:16.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "netflix-is-buying-ben-affleck-s-ai-startup"
+    "title": "(No AI) Codex Security: now in research preview ",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "codex-security-now-in-research-preview"
   },
   {
-    "title": "(No AI) How Balyasny Asset Management built an AI research engine for investing",
-    "link": "https://openai.com/index/balyasny-asset-management",
-    "pubDate": "Fri, 06 Mar 2026 07:00:00 GMT",
-    "content": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-    "contentSnippet": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-    "guid": "https://openai.com/index/balyasny-asset-management",
+    "title": "(No AI) How Descript enables multilingual video dubbing at scale",
+    "link": "https://openai.com/index/descript",
+    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "contentSnippet": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "guid": "https://openai.com/index/descript",
     "categories": [
       "API"
     ],
-    "isoDate": "2026-03-06T07:00:00.000Z",
+    "isoDate": "2026-03-06T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-balyasny-asset-management-built-an-ai-research-engine-for-investing"
-  },
-  {
-    "title": "(No AI) Reasoning models struggle to control their chains of thought, and that’s good",
-    "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "pubDate": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "contentSnippet": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "guid": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-03-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "reasoning-models-struggle-to-control-their-chains-of-thought-and-that-s-good"
+    "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
