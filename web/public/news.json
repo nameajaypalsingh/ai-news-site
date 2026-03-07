@@ -43,6 +43,20 @@
     "slug": "anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks"
   },
   {
+    "title": "(No AI) Grammarly is using our identities without permission",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+    "pubDate": "2026-03-06T20:58:24.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGrammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as [_Wired_ reported](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/) on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss.\n\nThe AI-generated feedback included comments that appeared to be from _The Verge_'s editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister and Tom Warren, none of whom gave Grammarly permission to include them in the [\"expert reviews.\"](https://support.grammarly.com/hc/en-us/articles/38552366848781-Grammarly-Expert-Review-user-guide)\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammarly-ai-expert-reviews-david-pierce-comment.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe feature, which [launched in August](https://www.businesswire.com/news/home/20250818186419/en/Grammarly-Launches-Specialized-AI-Agents-and-Writing-Surface-for-Students-and-Professionals), claims to h …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)",
+    "contentSnippet": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. \nThe AI-generated feedback included comments that appeared to be from The Verge's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister and Tom Warren, none of whom gave Grammarly permission to include them in the \"expert reviews.\" \nThe feature, which launched in August, claims to h …\nRead the full story at The Verge.",
+    "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included [&#8230;]",
+    "id": "https://www.theverge.com/?p=890921",
+    "isoDate": "2026-03-06T20:58:24.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "grammarly-is-using-our-identities-without-permission"
+  },
+  {
     "title": "(No AI) The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
     "link": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
     "pubDate": "2026-03-06T19:05:00.000Z",
@@ -55,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-ai-doc-is-an-overwrought-hype-piece-for-doomers-and-accelerationists-alike"
-  },
-  {
-    "title": "(No AI) The Pentagon formally labels Anthropic a supply-chain risk",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-    "pubDate": "2026-03-05T23:02:22.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUS Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\n\nAfter weeks of [failed negotiations, public ultimatums, and lawsuit threats](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines), the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\n\nThe decision, [first reported by _The Wall Street Journal_ on Thursday](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523?mod=rss_Technology), citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an American company …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)",
-    "contentSnippet": "US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via Getty Images\t\n\nAfter weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court.\nThe decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will bar defense contractors from working with the government if they use Claude, Anthropic's AI program, in their products. Though the designation is typically applied to foreign companies with ties to adversarial governments, this is the first time that an American company …\nRead the full story at The Verge.",
-    "summary": "After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk,\" escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first reported by The Wall Street Journal on Thursday, citing one source familiar, will [&#8230;]",
-    "id": "https://www.theverge.com/?p=890347",
-    "isoDate": "2026-03-05T23:02:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263863571.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-pentagon-formally-labels-anthropic-a-supply-chain-risk"
   },
   {
     "title": "(No AI) Codex Security: now in research preview ",
@@ -121,6 +121,24 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
+    "creator": "Boone Ashworth",
+    "title": "(No AI) This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+    "link": "https://www.wired.com/story/deveillance-spectre-i/",
+    "pubDate": "Fri, 06 Mar 2026 23:45:14 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+    "contentSnippet": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+    "guid": "69a86c77c31b51f3f3a9b428",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Audio"
+    ],
+    "isoDate": "2026-03-06T23:45:14.000Z",
+    "source": "Wired AI",
+    "slug": "this-jammer-wants-to-block-always-listening-ai-wearables-it-probably-won-t-work"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) Why Is Alexa+ So Bad?",
     "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
@@ -137,22 +155,5 @@
     "isoDate": "2026-03-06T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "why-is-alexa-so-bad"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Jack Dorsey Is Ready to Explain the Block Layoffs",
-    "link": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
-    "contentSnippet": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
-    "guid": "69a5f96d34217ad65587fbb1",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "jack-dorsey-is-ready-to-explain-the-block-layoffs"
   }
 ]
