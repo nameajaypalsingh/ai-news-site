@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI delays ChatGPT’s ‘adult mode’ again",
+    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+    "pubDate": "Sat, 07 Mar 2026 17:28:41 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+    "contentSnippet": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+    "guid": "https://techcrunch.com/?p=3100288",
+    "categories": [
+      "AI",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "isoDate": "2026-03-07T17:28:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-delays-chatgpt-s-adult-mode-again"
+  },
+  {
     "creator": "Julie Bort, Rebecca Bellan",
     "title": "(No AI) Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
@@ -19,28 +37,6 @@
     "isoDate": "2026-03-06T19:50:10.000Z",
     "source": "TechCrunch AI",
     "slug": "microsoft-google-amazon-say-anthropic-claude-remains-available-to-non-defense-customers"
-  },
-  {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-    "pubDate": "Fri, 06 Mar 2026 19:00:22 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-    "contentSnippet": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-    "guid": "https://techcrunch.com/?p=3100101",
-    "categories": [
-      "AI",
-      "Security",
-      "Anthropic",
-      "Claude",
-      "Firefox",
-      "In Brief",
-      "Vulnerabilities"
-    ],
-    "isoDate": "2026-03-06T19:00:22.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks"
   },
   {
     "title": "(No AI) The OpenClaw superfan meetup serves optimism and lobster",
@@ -71,20 +67,6 @@
     "slug": "grammarly-is-using-our-identities-without-permission"
   },
   {
-    "title": "(No AI) Codex Security: now in research preview ",
-    "link": "https://openai.com/index/codex-security-now-in-research-preview",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "codex-security-now-in-research-preview"
-  },
-  {
     "title": "(No AI) How Descript enables multilingual video dubbing at scale",
     "link": "https://openai.com/index/descript",
     "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
@@ -97,6 +79,20 @@
     "isoDate": "2026-03-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
+  },
+  {
+    "title": "(No AI) Codex Security: now in research preview ",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "codex-security-now-in-research-preview"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
