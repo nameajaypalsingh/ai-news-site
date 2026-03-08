@@ -1,6 +1,27 @@
 [
   {
     "creator": "Connie Loizos",
+    "title": "(No AI) A roadmap for AI, if anyone will listen",
+    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "pubDate": "Sun, 08 Mar 2026 06:05:26 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "contentSnippet": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+    "guid": "https://techcrunch.com/?p=3100311",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "Max Tegmark",
+      "OpenAI",
+      "pentagon",
+      "The Pro-Human Declaration"
+    ],
+    "isoDate": "2026-03-08T06:05:26.000Z",
+    "source": "TechCrunch AI",
+    "slug": "a-roadmap-for-ai-if-anyone-will-listen"
+  },
+  {
+    "creator": "Connie Loizos",
     "title": "(No AI) Google just gave Sundar Pichai a $692M pay package",
     "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
     "pubDate": "Sun, 08 Mar 2026 00:20:10 +0000",
@@ -18,24 +39,6 @@
     "isoDate": "2026-03-08T00:20:10.000Z",
     "source": "TechCrunch AI",
     "slug": "google-just-gave-sundar-pichai-a-692m-pay-package"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Grammarly’s ‘expert review’ is just missing the actual experts",
-    "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-    "pubDate": "Sat, 07 Mar 2026 22:56:31 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-    "contentSnippet": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-    "guid": "https://techcrunch.com/?p=3100300",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "grammarly"
-    ],
-    "isoDate": "2026-03-07T22:56:31.000Z",
-    "source": "TechCrunch AI",
-    "slug": "grammarly-s-expert-review-is-just-missing-the-actual-experts"
   },
   {
     "title": "(No AI) The OpenClaw superfan meetup serves optimism and lobster",
@@ -66,20 +69,6 @@
     "slug": "grammarly-is-using-our-identities-without-permission"
   },
   {
-    "title": "(No AI) How Descript enables multilingual video dubbing at scale",
-    "link": "https://openai.com/index/descript",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "contentSnippet": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "guid": "https://openai.com/index/descript",
-    "categories": [
-      "API"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
-  },
-  {
     "title": "(No AI) Codex Security: now in research preview ",
     "link": "https://openai.com/index/codex-security-now-in-research-preview",
     "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
@@ -92,6 +81,20 @@
     "isoDate": "2026-03-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "codex-security-now-in-research-preview"
+  },
+  {
+    "title": "(No AI) How Descript enables multilingual video dubbing at scale",
+    "link": "https://openai.com/index/descript",
+    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "contentSnippet": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "guid": "https://openai.com/index/descript",
+    "categories": [
+      "API"
+    ],
+    "isoDate": "2026-03-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
