@@ -1,44 +1,41 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) A roadmap for AI, if anyone will listen",
-    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-    "pubDate": "Sun, 08 Mar 2026 06:05:26 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-    "contentSnippet": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-    "guid": "https://techcrunch.com/?p=3100311",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+    "pubDate": "Sun, 08 Mar 2026 20:14:42 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "contentSnippet": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+    "guid": "https://techcrunch.com/?p=3100337",
     "categories": [
       "AI",
+      "Government & Policy",
       "Anthropic",
-      "Max Tegmark",
-      "OpenAI",
-      "pentagon",
-      "The Pro-Human Declaration"
+      "dario amodei",
+      "Emil Michael",
+      "OpenAI"
     ],
-    "isoDate": "2026-03-08T06:05:26.000Z",
+    "isoDate": "2026-03-08T20:14:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "a-roadmap-for-ai-if-anyone-will-listen"
+    "slug": "will-the-pentagon-s-anthropic-controversy-scare-startups-away-from-defense-work"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Google just gave Sundar Pichai a $692M pay package",
-    "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-    "pubDate": "Sun, 08 Mar 2026 00:20:10 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-    "contentSnippet": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-    "guid": "https://techcrunch.com/?p=3100305",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Owner of ICE detention facility sees big opportunity in AI man camps",
+    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "pubDate": "Sun, 08 Mar 2026 16:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "contentSnippet": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "guid": "https://techcrunch.com/?p=3100329",
     "categories": [
       "AI",
-      "TC",
-      "Alphabet",
-      "Google",
-      "Sundar Pichai"
+      "target hospitality"
     ],
-    "isoDate": "2026-03-08T00:20:10.000Z",
+    "isoDate": "2026-03-08T16:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-just-gave-sundar-pichai-a-692m-pay-package"
+    "slug": "owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps"
   },
   {
     "title": "(No AI) The OpenClaw superfan meetup serves optimism and lobster",
