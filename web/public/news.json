@@ -69,20 +69,6 @@
     "slug": "grammarly-is-using-our-identities-without-permission"
   },
   {
-    "title": "(No AI) Codex Security: now in research preview ",
-    "link": "https://openai.com/index/codex-security-now-in-research-preview",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "codex-security-now-in-research-preview"
-  },
-  {
     "title": "(No AI) How Descript enables multilingual video dubbing at scale",
     "link": "https://openai.com/index/descript",
     "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
@@ -95,6 +81,20 @@
     "isoDate": "2026-03-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
+  },
+  {
+    "title": "(No AI) Codex Security: now in research preview ",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-06T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "codex-security-now-in-research-preview"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
