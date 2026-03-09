@@ -1,47 +1,44 @@
 [
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Qualcomm’s partnership with Neura Robotics is just the beginning",
-    "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-    "pubDate": "Mon, 09 Mar 2026 15:58:11 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-    "contentSnippet": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-    "guid": "https://techcrunch.com/?p=3100226",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic launches code review tool to check flood of AI-generated code",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "pubDate": "Mon, 09 Mar 2026 19:41:34 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "contentSnippet": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "guid": "https://techcrunch.com/?p=3100624",
     "categories": [
       "AI",
-      "Robotics",
-      "humanoids",
-      "Neura Robotics",
-      "nvidia",
-      "Qualcomm",
-      "robotics"
+      "Anthropic",
+      "claude code",
+      "code review",
+      "Exclusive",
+      "vibe coding"
     ],
-    "isoDate": "2026-03-09T15:58:11.000Z",
+    "isoDate": "2026-03-09T19:41:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "qualcomm-s-partnership-with-neura-robotics-is-just-the-beginning"
+    "slug": "anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic sues Defense Department over supply chain risk designation",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-    "pubDate": "Mon, 09 Mar 2026 15:39:36 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-    "contentSnippet": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-    "guid": "https://techcrunch.com/?p=3100453",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) OpenAI acquires Promptfoo to secure its AI agents",
+    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "pubDate": "Mon, 09 Mar 2026 17:49:04 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "contentSnippet": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+    "guid": "https://techcrunch.com/?p=3100531",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Anthropic",
-      "dario amodei",
-      "dod",
-      "pete hegseth",
-      "supply chain risk"
+      "Security",
+      "agentic ai",
+      "OpenAI",
+      "security"
     ],
-    "isoDate": "2026-03-09T15:39:36.000Z",
+    "isoDate": "2026-03-09T17:49:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-sues-defense-department-over-supply-chain-risk-designation"
+    "slug": "openai-acquires-promptfoo-to-secure-its-ai-agents"
   },
   {
     "title": "(No AI) Anthropic is suing the Department of Defense",
@@ -62,14 +59,28 @@
     "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
     "pubDate": "2026-03-09T15:24:03.000Z",
     "author": "Jess Weatherbed",
-    "content": "![The option to block Grok from editing images, as seen under the photo upload settings on X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by [_Social Media Today_](https://www.socialmediatoday.com/news/x-formerly-twitter-adds-option-to-restrict-grok-image-variations/814140/) and verified by _The Verge_, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't _actually_ [prevent Grok from editing your photos](https://www.theverge.com/news/859715/x-grok-ai-deepfakes).\n\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing inst …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)",
-    "contentSnippet": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your photos.\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing inst …\nRead the full story at The Verge.",
-    "summary": "X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. [&#8230;]",
+    "content": "![The option to block Grok from editing images, as seen under the photo upload settings on X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by [_Social Media Today_](https://www.socialmediatoday.com/news/x-formerly-twitter-adds-option-to-restrict-grok-image-variations/814140/) and verified by _The Verge_, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't _actually_ [prevent Grok from editing your photos](https://www.theverge.com/news/859715/x-grok-ai-deepfakes).\n\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing ins …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)",
+    "contentSnippet": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your photos.\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing ins …\nRead the full story at The Verge.",
+    "summary": "X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when [&#8230;]",
     "id": "https://www.theverge.com/?p=891352",
     "isoDate": "2026-03-09T15:24:03.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "x-says-you-can-block-grok-from-editing-your-photos"
+  },
+  {
+    "title": "(No AI) OpenAI to acquire Promptfoo",
+    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT",
+    "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "contentSnippet": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+    "guid": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-03-09T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-to-acquire-promptfoo"
   },
   {
     "title": "(No AI) How Descript enables multilingual video dubbing at scale",
@@ -84,20 +95,6 @@
     "isoDate": "2026-03-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
-  },
-  {
-    "title": "(No AI) Codex Security: now in research preview ",
-    "link": "https://openai.com/index/codex-security-now-in-research-preview",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "contentSnippet": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "guid": "https://openai.com/index/codex-security-now-in-research-preview",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "codex-security-now-in-research-preview"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
