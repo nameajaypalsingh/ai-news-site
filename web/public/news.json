@@ -1,69 +1,75 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-    "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "pubDate": "Sun, 08 Mar 2026 20:14:42 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-    "contentSnippet": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-    "guid": "https://techcrunch.com/?p=3100337",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Qualcomm’s partnership with Neura Robotics is just the beginning",
+    "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+    "pubDate": "Mon, 09 Mar 2026 15:58:11 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+    "contentSnippet": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+    "guid": "https://techcrunch.com/?p=3100226",
+    "categories": [
+      "AI",
+      "Robotics",
+      "humanoids",
+      "Neura Robotics",
+      "nvidia",
+      "Qualcomm",
+      "robotics"
+    ],
+    "isoDate": "2026-03-09T15:58:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "qualcomm-s-partnership-with-neura-robotics-is-just-the-beginning"
+  },
+  {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic sues Defense Department over supply chain risk designation",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "pubDate": "Mon, 09 Mar 2026 15:39:36 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+    "contentSnippet": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+    "guid": "https://techcrunch.com/?p=3100453",
     "categories": [
       "AI",
       "Government & Policy",
       "Anthropic",
       "dario amodei",
-      "Emil Michael",
-      "OpenAI"
+      "dod",
+      "pete hegseth",
+      "supply chain risk"
     ],
-    "isoDate": "2026-03-08T20:14:42.000Z",
+    "isoDate": "2026-03-09T15:39:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "will-the-pentagon-s-anthropic-controversy-scare-startups-away-from-defense-work"
+    "slug": "anthropic-sues-defense-department-over-supply-chain-risk-designation"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Owner of ICE detention facility sees big opportunity in AI man camps",
-    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "pubDate": "Sun, 08 Mar 2026 16:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-    "contentSnippet": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-    "guid": "https://techcrunch.com/?p=3100329",
-    "categories": [
-      "AI",
-      "target hospitality"
-    ],
-    "isoDate": "2026-03-08T16:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps"
-  },
-  {
-    "title": "(No AI) The OpenClaw superfan meetup serves optimism and lobster",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-    "pubDate": "2026-03-07T14:00:00.000Z",
+    "title": "(No AI) Anthropic is suing the Department of Defense",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+    "pubDate": "2026-03-09T16:37:42.000Z",
     "author": "Hayden Field",
-    "content": "![A guitarist and a DJ in a blue plush jellyfish hat jam on a small stage.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268393_Clawcon_HField_0007.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe woman at the door wore a plush lobster headdress.\n\nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in November 2025.\n\nOpenClaw (previously known as Clawdbot and Moltbolt) has quickly become popular in the tech industry for being open-source, in contrast …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai)",
-    "contentSnippet": "The woman at the door wore a plush lobster headdress. \nShe sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor information stations, and a demo stage underneath a skylight. Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in November 2025. \nOpenClaw (previously known as Clawdbot and Moltbolt) has quickly become popular in the tech industry for being open-source, in contrast …\nRead the full story at The Verge.",
-    "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor [&#8230;]",
-    "id": "https://www.theverge.com/?p=890517",
-    "isoDate": "2026-03-07T14:00:00.000Z",
+    "content": "![Warplanes being targeted with AI overlays.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has sued the US government over its [designation as a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk), the latest move in a weekslong [battle between it and the Pentagon](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines) over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons.\n\n\"The federal government retaliated against a leading frontier AI developer for adhering to its protected viewpoint on a subject of great public significance - AI safety and the limitations of its own AI models - in violation of the Constitution …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit)",
+    "contentSnippet": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons.\n\"The federal government retaliated against a leading frontier AI developer for adhering to its protected viewpoint on a subject of great public significance - AI safety and the limitations of its own AI models - in violation of the Constitution …\nRead the full story at The Verge.",
+    "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red [&#8230;]",
+    "id": "https://www.theverge.com/?p=891377",
+    "isoDate": "2026-03-09T16:37:42.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268393_Clawcon_HField_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-openclaw-superfan-meetup-serves-optimism-and-lobster"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-is-suing-the-department-of-defense"
   },
   {
-    "title": "(No AI) Grammarly is using our identities without permission",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
-    "pubDate": "2026-03-06T20:58:24.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGrammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as [_Wired_ reported](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/) on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss.\n\nThe AI-generated feedback included comments that appeared to be from _The Verge_'s editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister and Tom Warren, none of whom gave Grammarly permission to include them in the [\"expert reviews.\"](https://support.grammarly.com/hc/en-us/articles/38552366848781-Grammarly-Expert-Review-user-guide)\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammarly-ai-expert-reviews-david-pierce-comment.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe feature, which [launched in August](https://www.businesswire.com/news/home/20250818186419/en/Grammarly-Launches-Specialized-AI-Agents-and-Writing-Surface-for-Students-and-Professionals), claims to h …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)",
-    "contentSnippet": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. \nThe AI-generated feedback included comments that appeared to be from The Verge's editor-in-chief, Nilay Patel, as well as editor-at-large David Pierce and senior editors Sean Hollister and Tom Warren, none of whom gave Grammarly permission to include them in the \"expert reviews.\" \nThe feature, which launched in August, claims to h …\nRead the full story at The Verge.",
-    "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included [&#8230;]",
-    "id": "https://www.theverge.com/?p=890921",
-    "isoDate": "2026-03-06T20:58:24.000Z",
+    "title": "(No AI) X says you can block Grok from editing your photos",
+    "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
+    "pubDate": "2026-03-09T15:24:03.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![The option to block Grok from editing images, as seen under the photo upload settings on X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by [_Social Media Today_](https://www.socialmediatoday.com/news/x-formerly-twitter-adds-option-to-restrict-grok-image-variations/814140/) and verified by _The Verge_, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't _actually_ [prevent Grok from editing your photos](https://www.theverge.com/news/859715/x-grok-ai-deepfakes).\n\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing inst …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)",
+    "contentSnippet": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your photos.\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing inst …\nRead the full story at The Verge.",
+    "summary": "X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS appsays it can \"block modifications by Grok\" when enabled. [&#8230;]",
+    "id": "https://www.theverge.com/?p=891352",
+    "isoDate": "2026-03-09T15:24:03.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "grammarly-is-using-our-identities-without-permission"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "x-says-you-can-block-grok-from-editing-your-photos"
   },
   {
     "title": "(No AI) How Descript enables multilingual video dubbing at scale",
@@ -116,38 +122,38 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
-    "creator": "Arielle Pardes",
-    "title": "(No AI) Can AI Kill the Venture Capitalist?",
-    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
-    "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
-    "dc:creator": "Arielle Pardes",
-    "content": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-    "contentSnippet": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
-    "guid": "69a6275aae94361eb378314b",
+    "creator": "Paresh Dave",
+    "title": "(No AI) Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
+    "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+    "pubDate": "Mon, 09 Mar 2026 15:29:57 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+    "contentSnippet": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+    "guid": "69a743e5c53999af0d9d5e6f",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Artificial Intelligence",
+      "Business / Regulation"
     ],
-    "isoDate": "2026-03-09T09:00:00.000Z",
+    "isoDate": "2026-03-09T15:29:57.000Z",
     "source": "Wired AI",
-    "slug": "can-ai-kill-the-venture-capitalist"
+    "slug": "anthropic-sues-department-of-defense-over-supply-chain-risk-designation"
   },
   {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-    "link": "https://www.wired.com/story/deveillance-spectre-i/",
-    "pubDate": "Fri, 06 Mar 2026 23:45:14 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
-    "contentSnippet": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
-    "guid": "69a86c77c31b51f3f3a9b428",
+    "creator": "Jason Parham",
+    "title": "(No AI) Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
+    "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
+    "pubDate": "Mon, 09 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Jason Parham",
+    "content": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+    "contentSnippet": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
+    "guid": "69a086b2c73cf12f36e60294",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Audio"
+      "Culture",
+      "Culture / Digital Culture"
     ],
-    "isoDate": "2026-03-06T23:45:14.000Z",
+    "isoDate": "2026-03-09T13:00:00.000Z",
     "source": "Wired AI",
-    "slug": "this-jammer-wants-to-block-always-listening-ai-wearables-it-probably-won-t-work"
+    "slug": "feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell"
   }
 ]
