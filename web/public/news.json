@@ -1,26 +1,5 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-    "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-    "pubDate": "Mon, 09 Mar 2026 04:35:06 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "The facial recognition question is where things get more tangled.",
-    "contentSnippet": "The facial recognition question is where things get more tangled.",
-    "guid": "https://techcrunch.com/?p=3100355",
-    "categories": [
-      "AI",
-      "Security",
-      "Familiar Faces",
-      "jamie siminoff",
-      "Ring",
-      "search party"
-    ],
-    "isoDate": "2026-03-09T04:35:06.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ring-s-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help"
-  },
-  {
     "creator": "Anthony Ha",
     "title": "(No AI) Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
     "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
@@ -40,6 +19,23 @@
     "isoDate": "2026-03-08T20:14:42.000Z",
     "source": "TechCrunch AI",
     "slug": "will-the-pentagon-s-anthropic-controversy-scare-startups-away-from-defense-work"
+  },
+  {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Owner of ICE detention facility sees big opportunity in AI man camps",
+    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "pubDate": "Sun, 08 Mar 2026 16:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "contentSnippet": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+    "guid": "https://techcrunch.com/?p=3100329",
+    "categories": [
+      "AI",
+      "target hospitality"
+    ],
+    "isoDate": "2026-03-08T16:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps"
   },
   {
     "title": "(No AI) The OpenClaw superfan meetup serves optimism and lobster",
@@ -120,6 +116,23 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
+    "creator": "Arielle Pardes",
+    "title": "(No AI) Can AI Kill the Venture Capitalist?",
+    "link": "https://www.wired.com/story/ai-kill-venture-capital/",
+    "pubDate": "Mon, 09 Mar 2026 09:00:00 +0000",
+    "dc:creator": "Arielle Pardes",
+    "content": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "contentSnippet": "VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+    "guid": "69a6275aae94361eb378314b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-09T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "can-ai-kill-the-venture-capitalist"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
     "link": "https://www.wired.com/story/deveillance-spectre-i/",
@@ -136,23 +149,5 @@
     "isoDate": "2026-03-06T23:45:14.000Z",
     "source": "Wired AI",
     "slug": "this-jammer-wants-to-block-always-listening-ai-wearables-it-probably-won-t-work"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Why Is Alexa+ So Bad?",
-    "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
-    "pubDate": "Fri, 06 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-    "contentSnippet": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-    "guid": "69a9b16f797af2821319f210",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Home"
-    ],
-    "isoDate": "2026-03-06T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "why-is-alexa-so-bad"
   }
 ]
