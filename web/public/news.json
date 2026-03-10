@@ -1,6 +1,28 @@
 [
   {
     "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "pubDate": "Mon, 09 Mar 2026 21:15:17 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "contentSnippet": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "guid": "https://techcrunch.com/?p=3100705",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dod",
+      "Google",
+      "OpenAI",
+      "supply chain risk"
+    ],
+    "isoDate": "2026-03-09T21:15:17.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-and-google-employees-rush-to-anthropic-s-defense-in-dod-lawsuit"
+  },
+  {
+    "creator": "Rebecca Bellan",
     "title": "(No AI) Anthropic launches code review tool to check flood of AI-generated code",
     "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
     "pubDate": "Mon, 09 Mar 2026 19:41:34 +0000",
@@ -21,52 +43,32 @@
     "slug": "anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) OpenAI acquires Promptfoo to secure its AI agents",
-    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-    "pubDate": "Mon, 09 Mar 2026 17:49:04 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-    "contentSnippet": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-    "guid": "https://techcrunch.com/?p=3100531",
-    "categories": [
-      "AI",
-      "Security",
-      "agentic ai",
-      "OpenAI",
-      "security"
-    ],
-    "isoDate": "2026-03-09T17:49:04.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-acquires-promptfoo-to-secure-its-ai-agents"
+    "title": "(No AI) Apple smart home display rumors now point to a fall launch with iOS 27",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+    "pubDate": "2026-03-09T22:26:50.000Z",
+    "author": "Richard Lawler",
+    "content": "![The Apple Home app icon on a graphic orange background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much o[n X last week](https://x.com/Kosutami_Ito/status/2029686750973747552?), and today, _[Bloomberg](https://www.bloomberg.com/news/articles/2026-03-09/apple-postpones-smart-home-display-launch-as-it-waits-for-new-ai-and-siri)_ reporter Mark Gurman followed up with similar information, saying its [robot arm-equipped cousin](https://www.theverge.com/2024/8/14/24220475/apple-next-big-project-tabletop-robot-ipad) is now planned for launch in 2027.\n\nAccording to Gurman, the J490 smart home display / HomePad is waiting for Apple to finish work on its [chatbot-style AI update for Siri](https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized).\n\nThat was supposed to be ready by now, but it is now predicted to arrive later this year, along with the [iP …](https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)",
+    "contentSnippet": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X last week, and today, Bloomberg reporter Mark Gurman followed up with similar information, saying its robot arm-equipped cousin is now planned for launch in 2027. \nAccording to Gurman, the J490 smart home display / HomePad is waiting for Apple to finish work on its chatbot-style AI update for Siri.\nThat was supposed to be ready by now, but it is now predicted to arrive later this year, along with the iP …\nRead the full story at The Verge.",
+    "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X last week, and today, Bloomberg reporter Mark Gurman followed up with [&#8230;]",
+    "id": "https://www.theverge.com/?p=891723",
+    "isoDate": "2026-03-09T22:26:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-smart-home-display-rumors-now-point-to-a-fall-launch-with-ios-27"
   },
   {
-    "title": "(No AI) Anthropic is suing the Department of Defense",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-    "pubDate": "2026-03-09T16:37:42.000Z",
+    "title": "(No AI) Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+    "pubDate": "2026-03-09T20:45:24.000Z",
     "author": "Hayden Field",
-    "content": "![Warplanes being targeted with AI overlays.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has sued the US government over its [designation as a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk), the latest move in a weekslong [battle between it and the Pentagon](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines) over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons.\n\n\"The federal government retaliated against a leading frontier AI developer for adhering to its protected viewpoint on a subject of great public significance - AI safety and the limitations of its own AI models - in violation of the Constitution …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit)",
-    "contentSnippet": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red lines\" on mass domestic surveillance and fully autonomous weapons.\n\"The federal government retaliated against a leading frontier AI developer for adhering to its protected viewpoint on a subject of great public significance - AI safety and the limitations of its own AI models - in violation of the Constitution …\nRead the full story at The Verge.",
-    "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red [&#8230;]",
-    "id": "https://www.theverge.com/?p=891377",
-    "isoDate": "2026-03-09T16:37:42.000Z",
+    "content": "![Collage of the Pentagon in Washington DC with binary code in the background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Monday, Anthropic [filed its lawsuit](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - [filed an amicus brief in support of Anthropic's lawsuit](https://www.courtlistener.com/docket/72379655/24/1/anthropic-pbc-v-us-department-of-war/), detailing their concerns over the Trump administration's decision and the technology's risks and implications.\n\nThe news follows a dramatic few weeks for Anthropic, in which the Trump administration labeled the company a supply chain risk - a designation typically reserved for foreign companies that the government deems a potential risk to national …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)",
+    "contentSnippet": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's decision and the technology's risks and implications.\nThe news follows a dramatic few weeks for Anthropic, in which the Trump administration labeled the company a supply chain risk - a designation typically reserved for foreign companies that the government deems a potential risk to national  …\nRead the full story at The Verge.",
+    "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's [&#8230;]",
+    "id": "https://www.theverge.com/?p=891514",
+    "isoDate": "2026-03-09T20:45:24.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-is-suing-the-department-of-defense"
-  },
-  {
-    "title": "(No AI) X says you can block Grok from editing your photos",
-    "link": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
-    "pubDate": "2026-03-09T15:24:03.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![The option to block Grok from editing images, as seen under the photo upload settings on X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by [_Social Media Today_](https://www.socialmediatoday.com/news/x-formerly-twitter-adds-option-to-restrict-grok-image-variations/814140/) and verified by _The Verge_, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't _actually_ [prevent Grok from editing your photos](https://www.theverge.com/news/859715/x-grok-ai-deepfakes).\n\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing ins …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle)",
-    "contentSnippet": "Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI\t\n\nX has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when enabled. But it doesn't actually prevent Grok from editing your photos.\nThe small print underneath the feature's name reveals a significant limitation: users can only \"prevent @Grok from modifying this content.\" In our testing, the toggle only blocks the mechanism of tagging the xAI chatbot in replies to an image on X, alongside editing ins …\nRead the full story at The Verge.",
-    "summary": "X has introduced a new feature that makes it slightly harder for other users to manipulate your uploaded images with the Grok chatbot. As reported by Social Media Today and verified by The Verge, a new toggle within the image upload settings on the X iOS app says it can \"block modifications by Grok\" when [&#8230;]",
-    "id": "https://www.theverge.com/?p=891352",
-    "isoDate": "2026-03-09T15:24:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Grok-block-edit-options-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "x-says-you-can-block-grok-from-editing-your-photos"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "employees-across-openai-and-google-support-anthropic-s-lawsuit-against-the-pentagon"
   },
   {
     "title": "(No AI) OpenAI to acquire Promptfoo",
@@ -119,38 +121,37 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
-    "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
-    "pubDate": "Mon, 09 Mar 2026 15:29:57 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
-    "contentSnippet": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
-    "guid": "69a743e5c53999af0d9d5e6f",
+    "creator": "Zoë Schiffer, Lauren Goode",
+    "title": "(No AI) Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+    "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+    "pubDate": "Mon, 09 Mar 2026 23:11:34 +0000",
+    "dc:creator": "Zoë Schiffer, Lauren Goode",
+    "content": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "contentSnippet": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+    "guid": "69aa096639c55d5733bbae8c",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence",
-      "Business / Regulation"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-09T15:29:57.000Z",
+    "isoDate": "2026-03-09T23:11:34.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-sues-department-of-defense-over-supply-chain-risk-designation"
+    "slug": "nvidia-is-planning-to-launch-an-open-source-ai-agent-platform"
   },
   {
-    "creator": "Jason Parham",
-    "title": "(No AI) Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-    "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
-    "pubDate": "Mon, 09 Mar 2026 13:00:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-    "contentSnippet": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-    "guid": "69a086b2c73cf12f36e60294",
+    "creator": "Paresh Dave",
+    "title": "(No AI) Anthropic Claims Pentagon Feud Could Cost It Billions",
+    "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+    "pubDate": "Mon, 09 Mar 2026 20:49:29 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+    "contentSnippet": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+    "guid": "69af17fe0d5d062ffbaeb4d1",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-09T13:00:00.000Z",
+    "isoDate": "2026-03-09T20:49:29.000Z",
     "source": "Wired AI",
-    "slug": "feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell"
+    "slug": "anthropic-claims-pentagon-feud-could-cost-it-billions"
   }
 ]
