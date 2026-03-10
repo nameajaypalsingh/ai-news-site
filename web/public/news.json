@@ -1,56 +1,64 @@
 [
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) AgentMail raises $6M to build an email service for AI agents",
-    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-    "contentSnippet": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-    "guid": "https://techcrunch.com/?p=3100896",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Amazon launches its healthcare AI assistant on its website and app",
+    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "pubDate": "Tue, 10 Mar 2026 20:10:06 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "contentSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "guid": "https://techcrunch.com/?p=3101134",
     "categories": [
       "AI",
-      "Fundraising",
-      "email",
-      "General Catalyst",
-      "AI agents",
-      "openclaw",
-      "AgentMail"
+      "Biotech & Health",
+      "Amazon",
+      "healthcare"
     ],
-    "isoDate": "2026-03-10T16:00:00.000Z",
+    "isoDate": "2026-03-10T20:10:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "agentmail-raises-6m-to-build-an-email-service-for-ai-agents"
+    "slug": "amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Thinking Machines Lab inks massive compute deal with Nvidia",
-    "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-    "pubDate": "Tue, 10 Mar 2026 15:08:39 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-    "contentSnippet": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-    "guid": "https://techcrunch.com/?p=3100951",
+    "creator": "Sarah Perez",
+    "title": "(No AI) AI-powered apps struggle with long-term retention, new report shows",
+    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
+    "pubDate": "Tue, 10 Mar 2026 18:42:33 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+    "contentSnippet": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+    "guid": "https://techcrunch.com/?p=3101035",
     "categories": [
       "AI",
-      "Enterprise",
-      "artificial intelligence",
-      "compute",
-      "In Brief",
-      "Mira Murati",
-      "nvidia",
-      "Thinking Machines Lab"
+      "Apps",
+      "Commerce",
+      "ai apps",
+      "RevenueCat"
     ],
-    "isoDate": "2026-03-10T15:08:39.000Z",
+    "isoDate": "2026-03-10T18:42:33.000Z",
     "source": "TechCrunch AI",
-    "slug": "thinking-machines-lab-inks-massive-compute-deal-with-nvidia"
+    "slug": "ai-powered-apps-struggle-with-long-term-retention-new-report-shows"
+  },
+  {
+    "title": "(No AI) Judge blocks Perplexity’s AI agents from shopping on Amazon",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
+    "pubDate": "2026-03-10T18:11:43.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector collage of the Perplexity logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as [reported earlier by _Bloomberg_](https://www.bloomberg.com/news/articles/2026-03-10/amazon-wins-court-order-blocking-perplexity-s-ai-shopping-bots). In [a ruling on Monday](https://www.documentcloud.org/documents/27822873-amazon-v-perplexity-injunction/), US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail giant.\n\nAmazon sued Perplexity in November, [alleging that it \"repeatedly requested\"](https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block) that the AI startup stop letting its agents buy products for customers. The company [accused Perplexity](https://assets.aboutamazon.com/2d/47/6801224e4607900ef4e61a80a319/2025-10-31-amazon-cease-desist-ltr-to-perplexity.pdf) of \"intruding\" into its marketplace and user accounts with [Comet's agentic shopping feature](https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor), …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order)",
+    "contentSnippet": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail giant. \nAmazon sued Perplexity in November, alleging that it \"repeatedly requested\" that the AI startup stop letting its agents buy products for customers. The company accused Perplexity of \"intruding\" into its marketplace and user accounts with Comet's agentic shopping feature,  …\nRead the full story at The Verge.",
+    "summary": "A federal judge has issued an order blocking Perplexity's web browser-based AI agents from placing Amazon orders on a user's behalf, as reported earlier by Bloomberg. In a ruling on Monday, US District Judge Maxine Chesney writes that Amazon has \"provided strong evidence\" that Perplexity's Comet browser accesses user accounts \"without authorization\" from the retail [&#8230;]",
+    "id": "https://www.theverge.com/?p=892401",
+    "isoDate": "2026-03-10T18:11:43.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "judge-blocks-perplexity-s-ai-agents-from-shopping-on-amazon"
   },
   {
     "title": "(No AI) Grammarly will keep using authors’ identities without permission unless they opt out",
     "link": "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email",
     "pubDate": "2026-03-10T15:54:42.000Z",
     "author": "Sean Hollister",
-    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLast week, my colleagues discovered that [Superhuman's Grammarly had turned me into an AI editor](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews), using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as [_Wired_ initially reported](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/) last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve.\n\nNow, Grammarly has finally addressed the backlash - but not by apologizing, and not by walking the feature back. For now, it will graciously give us the chance to _opt-out_ of something we didn't know it …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)",
-    "contentSnippet": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve. \nNow, Grammarly has finally addressed the backlash - but not by apologizing, and not by walking the feature back. For now, it will graciously give us the chance to opt-out of something we didn't know it  …\nRead the full story at The Verge.",
+    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLast week, my colleagues discovered that [Superhuman's Grammarly had turned me into an AI editor](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews), using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as [_Wired_ initially reported](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/) last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve.\n\nNow, Grammarly has finally addressed the backlash - but not by apologizing, and not by walking the feature back. For now, it will graciously give us the chance to _opt out_ of something we didn't know it …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)",
+    "contentSnippet": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than us. Grammarly's new \"Expert Review\" feature uses our names to give its AI suggestions credibility that they don't deserve. \nNow, Grammarly has finally addressed the backlash - but not by apologizing, and not by walking the feature back. For now, it will graciously give us the chance to opt out of something we didn't know it  …\nRead the full story at The Verge.",
     "summary": "Last week, my colleagues discovered that Superhuman's Grammarly had turned me into an AI editor, using my real name, without ever asking my permission. They did the same to my boss Nilay Patel, my colleagues David Pierce and Tom Warren, and - as Wired initially reported last Wednesday - many authors far more famous than [&#8230;]",
     "id": "https://www.theverge.com/?p=891822",
     "isoDate": "2026-03-10T15:54:42.000Z",
@@ -59,46 +67,32 @@
     "slug": "grammarly-will-keep-using-authors-identities-without-permission-unless-they-opt-out"
   },
   {
-    "title": "(No AI) Meta acquires Moltbook, the Reddit-like network for AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents",
-    "pubDate": "2026-03-10T15:22:17.000Z",
-    "author": "Emma Roth",
-    "content": "![Digital collage of various toy robots.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, [as first reported by _Axios_](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network). In a statement to _The Verge_, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\"\n\nMatt Schlict and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw (formerly Moltbot). The platform went viral earlier this year for a number of posts - including [one that asks questions about AI consciousness](http://moltbook.com/post/6fe6491e-5e9c-4371-961d-f90c4d357d0f) - thoug …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/892178/meta-moltbook-acquisition-ai-agents)",
-    "contentSnippet": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and businesses.\"\nMatt Schlict and Ben Parr launched Moltbook earlier this year, offering a \"social\" network for autonomous agents powered by the open-source AI assistant OpenClaw (formerly Moltbot). The platform went viral earlier this year for a number of posts - including one that asks questions about AI consciousness - thoug …\nRead the full story at The Verge.",
-    "summary": "Meta is acquiring Moltbook, a Reddit-like platform where AI agents can make and comment on posts, as first reported by Axios. In a statement to The Verge, Meta spokesperson Matthew Tye confirmed the Moltbook team will join Meta Superintelligence Labs as the company looks for \"new ways for AI agents to work for people and [&#8230;]",
-    "id": "https://www.theverge.com/?p=892178",
-    "isoDate": "2026-03-10T15:22:17.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-acquires-moltbook-the-reddit-like-network-for-ai-agents"
+    "title": "(No AI) Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "pubDate": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "content": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "contentSnippet": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "guid": "https://openai.com/index/instruction-hierarchy-challenge",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-03-10T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "improving-instruction-hierarchy-in-frontier-llms"
   },
   {
-    "title": "(No AI) OpenAI to acquire Promptfoo",
-    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "contentSnippet": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "guid": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "title": "(No AI) New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "content": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "contentSnippet": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "guid": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
     "categories": [
-      "Company"
+      "Product"
     ],
-    "isoDate": "2026-03-09T10:00:00.000Z",
+    "isoDate": "2026-03-10T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-to-acquire-promptfoo"
-  },
-  {
-    "title": "(No AI) How Descript enables multilingual video dubbing at scale",
-    "link": "https://openai.com/index/descript",
-    "pubDate": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "content": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "contentSnippet": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "guid": "https://openai.com/index/descript",
-    "categories": [
-      "API"
-    ],
-    "isoDate": "2026-03-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-descript-enables-multilingual-video-dubbing-at-scale"
+    "slug": "new-ways-to-learn-math-and-science-in-chatgpt"
   },
   {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
