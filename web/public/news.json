@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Anna Heim",
+    "title": "(No AI) Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+    "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+    "pubDate": "Tue, 10 Mar 2026 05:00:00 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+    "contentSnippet": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+    "guid": "https://techcrunch.com/?p=3100799",
+    "categories": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "Yann LeCun",
+      "world models",
+      "AMI Labs"
+    ],
+    "isoDate": "2026-03-10T05:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "yann-lecun-s-ami-labs-raises-1-03-billion-to-build-world-models"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
     "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
@@ -20,27 +41,6 @@
     "isoDate": "2026-03-09T21:15:17.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-and-google-employees-rush-to-anthropic-s-defense-in-dod-lawsuit"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic launches code review tool to check flood of AI-generated code",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-    "pubDate": "Mon, 09 Mar 2026 19:41:34 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-    "contentSnippet": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-    "guid": "https://techcrunch.com/?p=3100624",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "claude code",
-      "code review",
-      "Exclusive",
-      "vibe coding"
-    ],
-    "isoDate": "2026-03-09T19:41:34.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code"
   },
   {
     "title": "(No AI) Apple smart home display rumors now point to a fall launch with iOS 27",
@@ -121,6 +121,23 @@
     "slug": "nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+    "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "pubDate": "Tue, 10 Mar 2026 05:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, plans to prove it.",
+    "contentSnippet": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, plans to prove it.",
+    "guid": "69ab358f43edae1fce00cc19",
+    "categories": [
+      "Business",
+      "Business / Startups"
+    ],
+    "isoDate": "2026-03-10T05:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "yann-lecun-raises-1-billion-to-build-ai-that-understands-the-physical-world"
+  },
+  {
     "creator": "Zoë Schiffer, Lauren Goode",
     "title": "(No AI) Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
     "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
@@ -136,22 +153,5 @@
     "isoDate": "2026-03-09T23:11:34.000Z",
     "source": "Wired AI",
     "slug": "nvidia-is-planning-to-launch-an-open-source-ai-agent-platform"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Anthropic Claims Pentagon Feud Could Cost It Billions",
-    "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
-    "pubDate": "Mon, 09 Mar 2026 20:49:29 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-    "contentSnippet": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-    "guid": "69af17fe0d5d062ffbaeb4d1",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-09T20:49:29.000Z",
-    "source": "Wired AI",
-    "slug": "anthropic-claims-pentagon-feud-could-cost-it-billions"
   }
 ]
