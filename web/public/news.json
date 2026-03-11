@@ -1,70 +1,76 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google brings Gemini in Chrome to India",
-    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-    "pubDate": "Wed, 11 Mar 2026 02:30:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
-    "contentSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
-    "guid": "https://techcrunch.com/?p=3100928",
+    "creator": "Sarah Perez",
+    "title": "(No AI) WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+    "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "contentSnippet": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "guid": "https://techcrunch.com/?p=3101439",
     "categories": [
       "AI",
       "Apps",
-      "Google",
-      "Google Chrome",
-      "India"
+      "Media & Entertainment",
+      "TC",
+      "personal publishing",
+      "Publishing",
+      "WordPress",
+      "Wordpress.org"
     ],
-    "isoDate": "2026-03-11T02:30:00.000Z",
+    "isoDate": "2026-03-11T16:43:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-brings-gemini-in-chrome-to-india"
+    "slug": "wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Amazon launches its healthcare AI assistant on its website and app",
-    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "pubDate": "Tue, 10 Mar 2026 20:10:06 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-    "contentSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-    "guid": "https://techcrunch.com/?p=3101134",
+    "creator": "Sean O'Kane",
+    "title": "(No AI) Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+    "pubDate": "Wed, 11 Mar 2026 16:12:02 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+    "contentSnippet": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+    "guid": "https://techcrunch.com/?p=3101412",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Amazon",
-      "healthcare"
+      "Fundraising",
+      "Robotics",
+      "Transportation",
+      "mind robotics",
+      "Rivian",
+      "RJ Scaringe"
     ],
-    "isoDate": "2026-03-10T20:10:06.000Z",
+    "isoDate": "2026-03-11T16:12:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app"
+    "slug": "rivian-spin-out-mind-robotics-raises-500m-for-industrial-ai-powered-robots"
   },
   {
-    "title": "(No AI) Anthropic is launching a new think tank amid Pentagon blacklist fight",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-    "pubDate": "2026-03-11T09:45:00.000Z",
-    "author": "Hayden Field",
-    "content": "![An illustration of a brain surrounded by safety barriers](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAmid a [weekslong](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) [conflict](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react) [with](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) the Pentagon, resulting in a [blacklist](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk) and a [lawsuit](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit), Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, such as \"what happens to jobs and economies, whether AI makes us safer or introduces new dangers, how its values might shape ours, and whether we can retain control,\" per the company.\n\nThe news comes with C-suite changes, too. Anthropic cofounder Jack Clark is moving int …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark)",
-    "contentSnippet": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, such as \"what happens to jobs and economies, whether AI makes us safer or introduces new dangers, how its values might shape ours, and whether we can retain control,\" per the company. \nThe news comes with C-suite changes, too. Anthropic cofounder Jack Clark is moving int …\nRead the full story at The Verge.",
-    "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, [&#8230;]",
-    "id": "https://www.theverge.com/?p=892478",
-    "isoDate": "2026-03-11T09:45:00.000Z",
+    "title": "(No AI) OpenAI’s Sora video generator is reportedly coming to ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+    "pubDate": "2026-03-11T16:50:45.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Sora logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by [_The Information_](https://www.theinformation.com/articles/openai-plans-launch-sora-video-ai-chatgpt-strategy-shift). Sora is currently only available on its [website](https://sora.chatgpt.com/explore) or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like [the addition of image generation capabilities](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real) in the chatbot last year.\n\nSora could help attract more users to ChatGPT, but it may also worsen the flood of deepfakes coming from OpenAI's video generator. When the Sora app [initially launched](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends) less than a year ago, users generated realistic-lookin …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)",
+    "contentSnippet": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like the addition of image generation capabilities in the chatbot last year. \nSora could help attract more users to ChatGPT, but it may also worsen the flood of deepfakes coming from OpenAI's video generator. When the Sora app initially launched less than a year ago, users generated realistic-lookin …\nRead the full story at The Verge.",
+    "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much [&#8230;]",
+    "id": "https://www.theverge.com/?p=893189",
+    "isoDate": "2026-03-11T16:50:45.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-is-launching-a-new-think-tank-amid-pentagon-blacklist-fight"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-sora-video-generator-is-reportedly-coming-to-chatgpt"
   },
   {
-    "title": "(No AI) How the spiraling Iran conflict could affect data centers and electricity costs",
-    "link": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
-    "pubDate": "2026-03-10T22:25:06.000Z",
-    "author": "Justine Calma",
-    "content": "![A ship seen in front of a skyline.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868831.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA commercial ship is viewed anchored off the coast of the United Arab Emirates, in the Strait of Hormuz, Dubai, on March 2nd, 2026. Increased maritime traffic led to a buildup of vessels waiting near Dubai, highlighting the strategic importance of the strait, which handles 20 percent of global energy trade. | Photo: Getty Images\n\nSoon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to [talk about the consequences](https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch). While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might be short-lived. At the end of our conversation, Blakemore said plainly: \"Let's have a call again \\[next week\\] … We'll have a much clearer picture of what the conflict is going to look like and what the story really is going to be for energy moving forward.\"\n\n> Energy infrastructure has become a key leverage point in the unfold …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)",
-    "contentSnippet": "A commercial ship is viewed anchored off the coast of the United Arab Emirates, in the Strait of Hormuz, Dubai, on March 2nd, 2026. Increased maritime traffic led to a buildup of vessels waiting near Dubai, highlighting the strategic importance of the strait, which handles 20 percent of global energy trade. | Photo: Getty Images\t\n\nSoon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might be short-lived. At the end of our conversation, Blakemore said plainly: \"Let's have a call again [next week] … We'll have a much clearer picture of what the conflict is going to look like and what the story really is going to be for energy moving forward.\" \n\n Energy infrastructure has become a key leverage point in the unfold …\n\nRead the full story at The Verge.",
-    "summary": "Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might [&#8230;]",
-    "id": "https://www.theverge.com/?p=892661",
-    "isoDate": "2026-03-10T22:25:06.000Z",
+    "title": "(No AI) Canva’s new editing tool adds layers to AI-generated designs",
+    "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
+    "pubDate": "2026-03-11T15:02:02.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![An illustration representing Canva’s Magic Layers tool.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nCanva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The [Magic Layers](https://www.canva.com/en_gb/help/editable-magic-layers/) tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout.\n\n\"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully editable design inside Canva,\" Canva's chief product officer, Cameron Adams, [said in the press release](https://www.businesswire.com/news/home/20260311951174/en/Canva-Introduces-Magic-Layers-Turning-Static-AI-Outputs-Into-Editable-Designs). \"There's no need to start over, or to figure out …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)",
+    "contentSnippet": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout.\n\"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully editable design inside Canva,\" Canva's chief product officer, Cameron Adams, said in the press release. \"There's no need to start over, or to figure out  …\nRead the full story at The Verge.",
+    "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After [&#8230;]",
+    "id": "https://www.theverge.com/?p=893124",
+    "isoDate": "2026-03-11T15:02:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868831.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-the-spiraling-iran-conflict-could-affect-data-centers-and-electricity-costs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "canva-s-new-editing-tool-adds-layers-to-ai-generated-designs"
   },
   {
     "title": "(No AI) Improving instruction hierarchy in frontier LLMs",
@@ -117,37 +123,38 @@
     "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Nick Clegg Doesn’t Want to Talk About Superintelligence",
-    "link": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
-    "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-    "contentSnippet": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
-    "guid": "69a5fa02c0ea4a06106bee25",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+    "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+    "pubDate": "Wed, 11 Mar 2026 14:23:05 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+    "contentSnippet": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+    "guid": "69af1cc761b0f5301ec00df1",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-03-11T12:00:00.000Z",
+    "isoDate": "2026-03-11T14:23:05.000Z",
     "source": "Wired AI",
-    "slug": "nick-clegg-doesn-t-want-to-talk-about-superintelligence"
+    "slug": "meta-is-developing-4-new-chips-to-power-its-ai-and-recommendation-systems"
   },
   {
-    "creator": "Owen Carry",
-    "title": "(No AI) Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
-    "link": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
-    "pubDate": "Wed, 11 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Owen Carry",
-    "content": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-    "contentSnippet": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
-    "guid": "6994a75413c2a7661212557e",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+    "link": "https://www.wired.com/story/looking-glass-musubi/",
+    "pubDate": "Wed, 11 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+    "contentSnippet": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+    "guid": "69b05ea1df61b7741e29a4f0",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Home"
     ],
-    "isoDate": "2026-03-11T11:00:00.000Z",
+    "isoDate": "2026-03-11T13:00:00.000Z",
     "source": "Wired AI",
-    "slug": "teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers"
+    "slug": "this-digital-picture-frame-wants-to-bring-people-closer-to-a-holographic-future"
   }
 ]
