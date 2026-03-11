@@ -1,18 +1,38 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Replit snags $9B valuation 6 months after hitting $3B",
+    "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+    "pubDate": "Wed, 11 Mar 2026 18:52:52 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+    "contentSnippet": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+    "guid": "https://techcrunch.com/?p=3101554",
+    "categories": [
+      "AI",
+      "Startups",
+      "TC",
+      "In Brief",
+      "Replit",
+      "vibe coding"
+    ],
+    "isoDate": "2026-03-11T18:52:52.000Z",
+    "source": "TechCrunch AI",
+    "slug": "replit-snags-9b-valuation-6-months-after-hitting-3b"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
     "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
     "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
-    "contentSnippet": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "content": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "contentSnippet": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
     "guid": "https://techcrunch.com/?p=3101439",
     "categories": [
       "AI",
       "Apps",
       "Media & Entertainment",
-      "TC",
       "personal publishing",
       "Publishing",
       "WordPress",
@@ -23,26 +43,18 @@
     "slug": "wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net"
   },
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-    "pubDate": "Wed, 11 Mar 2026 16:12:02 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-    "contentSnippet": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-    "guid": "https://techcrunch.com/?p=3101412",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Robotics",
-      "Transportation",
-      "mind robotics",
-      "Rivian",
-      "RJ Scaringe"
-    ],
-    "isoDate": "2026-03-11T16:12:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "rivian-spin-out-mind-robotics-raises-500m-for-industrial-ai-powered-robots"
+    "title": "(No AI) Grammarly says it will stop using AI to clone experts without permission",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+    "pubDate": "2026-03-11T18:45:50.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuperhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, [including our editor-in-chief](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) and other _Verge_ staff members.\n\n\"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a statement to _The Verge_. \"Based on the feedback we've received, we clearly missed the mark. We are sorry and will do things differently going forward.\"\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled)",
+    "contentSnippet": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members.\n\"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a statement to The Verge. \"Based on the feedback we've received, we clearly missed the mark. We are sorry and will do things differently going forward.\" \n …\nRead the full story at The Verge.",
+    "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control [&#8230;]",
+    "id": "https://www.theverge.com/?p=893270",
+    "isoDate": "2026-03-11T18:45:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "grammarly-says-it-will-stop-using-ai-to-clone-experts-without-permission"
   },
   {
     "title": "(No AI) OpenAI’s Sora video generator is reportedly coming to ChatGPT",
@@ -59,46 +71,32 @@
     "slug": "openai-s-sora-video-generator-is-reportedly-coming-to-chatgpt"
   },
   {
-    "title": "(No AI) Canva’s new editing tool adds layers to AI-generated designs",
-    "link": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
-    "pubDate": "2026-03-11T15:02:02.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![An illustration representing Canva’s Magic Layers tool.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nCanva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The [Magic Layers](https://www.canva.com/en_gb/help/editable-magic-layers/) tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout.\n\n\"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully editable design inside Canva,\" Canva's chief product officer, Cameron Adams, [said in the press release](https://www.businesswire.com/news/home/20260311951174/en/Canva-Introduces-Magic-Layers-Turning-Static-AI-Outputs-Into-Editable-Designs). \"There's no need to start over, or to figure out …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)",
-    "contentSnippet": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout.\n\"After a breakthrough from our AI research team, we're introducing Magic Layers so anyone can take a flat image and turn it into a fully editable design inside Canva,\" Canva's chief product officer, Cameron Adams, said in the press release. \"There's no need to start over, or to figure out  …\nRead the full story at The Verge.",
-    "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After [&#8230;]",
-    "id": "https://www.theverge.com/?p=893124",
-    "isoDate": "2026-03-11T15:02:02.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NAMR26003_S003_GRP01_PrImageSplit_16x9_V01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "canva-s-new-editing-tool-adds-layers-to-ai-generated-designs"
+    "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "pubDate": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "content": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "contentSnippet": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "guid": "https://openai.com/index/rakuten",
+    "categories": [
+      "API"
+    ],
+    "isoDate": "2026-03-11T13:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "rakuten-fixes-issues-twice-as-fast-with-codex"
   },
   {
-    "title": "(No AI) Improving instruction hierarchy in frontier LLMs",
-    "link": "https://openai.com/index/instruction-hierarchy-challenge",
-    "pubDate": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "content": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "contentSnippet": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "guid": "https://openai.com/index/instruction-hierarchy-challenge",
+    "title": "(No AI) Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "pubDate": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "contentSnippet": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "guid": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
     "categories": [
-      "Research"
+      "Security"
     ],
-    "isoDate": "2026-03-10T11:00:00.000Z",
+    "isoDate": "2026-03-11T11:30:00.000Z",
     "source": "OpenAI",
-    "slug": "improving-instruction-hierarchy-in-frontier-llms"
-  },
-  {
-    "title": "(No AI) New ways to learn math and science in ChatGPT",
-    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT",
-    "content": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "contentSnippet": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "guid": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-03-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "new-ways-to-learn-math-and-science-in-chatgpt"
+    "slug": "designing-ai-agents-to-resist-prompt-injection"
   },
   {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
@@ -123,6 +121,23 @@
     "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+    "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "contentSnippet": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "guid": "69aef91af68fc9e6f3d26fae",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-11T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "nvidia-will-spend-26-billion-to-build-open-weight-ai-models-filings-show"
+  },
+  {
     "creator": "Lauren Goode",
     "title": "(No AI) Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
     "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
@@ -138,23 +153,5 @@
     "isoDate": "2026-03-11T14:23:05.000Z",
     "source": "Wired AI",
     "slug": "meta-is-developing-4-new-chips-to-power-its-ai-and-recommendation-systems"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
-    "link": "https://www.wired.com/story/looking-glass-musubi/",
-    "pubDate": "Wed, 11 Mar 2026 13:00:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
-    "contentSnippet": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
-    "guid": "69b05ea1df61b7741e29a4f0",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Home"
-    ],
-    "isoDate": "2026-03-11T13:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-digital-picture-frame-wants-to-bring-people-closer-to-a-holographic-future"
   }
 ]
