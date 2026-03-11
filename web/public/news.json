@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google brings Gemini in Chrome to India",
+    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+    "pubDate": "Wed, 11 Mar 2026 02:30:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+    "contentSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+    "guid": "https://techcrunch.com/?p=3100928",
+    "categories": [
+      "AI",
+      "Apps",
+      "Google",
+      "Google Chrome",
+      "India"
+    ],
+    "isoDate": "2026-03-11T02:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-brings-gemini-in-chrome-to-india"
+  },
+  {
     "creator": "Aisha Malik",
     "title": "(No AI) Amazon launches its healthcare AI assistant on its website and app",
     "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
@@ -17,26 +37,6 @@
     "isoDate": "2026-03-10T20:10:06.000Z",
     "source": "TechCrunch AI",
     "slug": "amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) AI-powered apps struggle with long-term retention, new report shows",
-    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "pubDate": "Tue, 10 Mar 2026 18:42:33 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-    "contentSnippet": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-    "guid": "https://techcrunch.com/?p=3101035",
-    "categories": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "ai apps",
-      "RevenueCat"
-    ],
-    "isoDate": "2026-03-10T18:42:33.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ai-powered-apps-struggle-with-long-term-retention-new-report-shows"
   },
   {
     "title": "(No AI) How the spiraling Iran conflict could affect data centers and electricity costs",
