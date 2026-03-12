@@ -1,68 +1,69 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "pubDate": "Wed, 11 Mar 2026 23:35:03 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-    "contentSnippet": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-    "guid": "https://techcrunch.com/?p=3101594",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Google is using old news reports and AI to predict flash floods",
+    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "pubDate": "Thu, 12 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+    "contentSnippet": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+    "guid": "https://techcrunch.com/?p=3101750",
+    "categories": [
+      "AI"
+    ],
+    "isoDate": "2026-03-12T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-is-using-old-news-reports-and-ai-to-predict-flash-floods"
+  },
+  {
+    "creator": "Aisha Malik",
+    "title": "(No AI) Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+    "pubDate": "Thu, 12 Mar 2026 12:30:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+    "contentSnippet": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+    "guid": "https://techcrunch.com/?p=3101561",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "tilly norwood"
+      "Apps",
+      "Google",
+      "Google Maps",
+      "gps",
+      "navigation",
+      "gemini"
     ],
-    "isoDate": "2026-03-11T23:35:03.000Z",
+    "isoDate": "2026-03-12T12:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-actor-tilly-norwood-put-out-the-worst-song-i-ve-ever-heard"
+    "slug": "google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-    "contentSnippet": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-    "guid": "https://techcrunch.com/?p=3101742",
-    "categories": [
-      "AI",
-      "Transportation",
-      "Ford",
-      "Ford Pro"
-    ],
-    "isoDate": "2026-03-11T22:51:39.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ford-s-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used"
-  },
-  {
-    "title": "(No AI) One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-    "pubDate": "2026-03-11T22:51:53.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJournalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images\n\nFor months, Grammarly has been using the identities of real people (including us) for its [\"Expert Review\" AI suggestions](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by [_Wired_](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/). The [class-action complaint](https://static1.squarespace.com/static/63ffda7f9dcd742dc8620173/t/69b1ca7b00a832589866da3a/1773259387652/Grammarly+Complaint+%28Angwin+v.+Superhuman+Platform%2C+Inc.%29.pdf) filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the \"experts'\" privacy and publicity rights by breaking laws against using someone's identity for commercial purposes without their consent.\n\nAngwin says she found out her identity was used by [way of Casey Newton](https://www.platformer.news/grammarly-expert-review-reviewed/), who is also one of the experts that _The Verge_ uncovered being used by Gra …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)",
-    "contentSnippet": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images\t\n\nFor months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the \"experts'\" privacy and publicity rights by breaking laws against using someone's identity for commercial purposes without their consent.\nAngwin says she found out her identity was used by way of Casey Newton, who is also one of the experts that The Verge uncovered being used by Gra …\nRead the full story at The Verge.",
-    "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the [&#8230;]",
-    "id": "https://www.theverge.com/?p=893451",
-    "isoDate": "2026-03-11T22:51:53.000Z",
+    "title": "(No AI) You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+    "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+    "pubDate": "2026-03-12T12:30:00.000Z",
+    "author": "Andrew J. Hawkins",
+    "content": "![An image of the Google Maps logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is continuing to [weave](https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions) [Gemini](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions) [into](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search) [the](https://www.theverge.com/tech/870019/gemini-will-be-your-tour-guide-while-using-googles-walking-directions) [firmament](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search) [of its most-used products](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas). Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.\n\nIn the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone without having to wait in line for coffee\" or \"where is the closest public bathroom that isn't completely disgusting\" (parents of kids with tiny bladders, I'm looking at you). But now, thanks to Gemini, all our weird, slightly embarrassing questions can be answered - directions inc …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation)",
+    "contentSnippet": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses.\nIn the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone without having to wait in line for coffee\" or \"where is the closest public bathroom that isn't completely disgusting\" (parents of kids with tiny bladders, I'm looking at you). But now, thanks to Gemini, all our weird, slightly embarrassing questions can be answered - directions inc …\nRead the full story at The Verge.",
+    "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone [&#8230;]",
+    "id": "https://www.theverge.com/?p=893262",
+    "isoDate": "2026-03-12T12:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "one-of-grammarly-s-experts-is-suing-the-company-over-its-identity-stealing-ai-feature"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-now-ask-google-maps-complex-real-world-questions-and-gemini-will-answer"
   },
   {
-    "title": "(No AI) Grammarly says it will stop using AI to clone experts without permission",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-    "pubDate": "2026-03-11T18:45:50.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A screenshot of a draft Verge post in Google Docs with an AI-generated Grammarly comment using Nilay Patel’s name](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuperhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, [including our editor-in-chief](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) and other _Verge_ staff members.\n\n\"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a statement to _The Verge_. \"Based on the feedback we've received, we clearly missed the mark. We are sorry and will do things differently going forward.\"\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled)",
-    "contentSnippet": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members.\n\"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control over how they want to be represented - or not represented at all,\" Ailian Gan, Superhuman's director of product management, said in a statement to The Verge. \"Based on the feedback we've received, we clearly missed the mark. We are sorry and will do things differently going forward.\" \n …\nRead the full story at The Verge.",
-    "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control [&#8230;]",
-    "id": "https://www.theverge.com/?p=893270",
-    "isoDate": "2026-03-11T18:45:50.000Z",
+    "title": "(No AI) Perplexity’s Personal Computer turns your spare Mac into an AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+    "pubDate": "2026-03-12T12:00:34.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/2lFbEKLJQ88PaaoZZTWuGV5rQY.avif?quality=90&strip=all&crop=0,0,100,100)\n\nPerplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\"\n\n[Personal Computer](https://www.perplexity.ai/hub/blog/everything-is-computer) will run 24/7 on a dedicated device on your local network, have full access to your files and apps, and be controllable from anywhere and on any device, Perplexity said. That deeper access makes it a more personalized version of a similar product Perplexity [launched last month](https://www.theverge.com/ai-artificial-intelligence/884778/perplexity-computer-combines-ai-chatbots-and-agents-into-one-system), Perplexity Computer, a cluster of agents it described as a \"general-purpose digital worker.\"\n\nPerplexity pitches the system as more …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent)",
+    "contentSnippet": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\"\nPersonal Computer will run 24/7 on a dedicated device on your local network, have full access to your files and apps, and be controllable from anywhere and on any device, Perplexity said. That deeper access makes it a more personalized version of a similar product Perplexity launched last month, Perplexity Computer, a cluster of agents it described as a \"general-purpose digital worker.\" \nPerplexity pitches the system as more …\nRead the full story at The Verge.",
+    "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have [&#8230;]",
+    "id": "https://www.theverge.com/?p=893536",
+    "isoDate": "2026-03-12T12:00:34.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "grammarly-says-it-will-stop-using-ai-to-clone-experts-without-permission"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/2lFbEKLJQ88PaaoZZTWuGV5rQY.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "perplexity-s-personal-computer-turns-your-spare-mac-into-an-ai-agent"
   },
   {
     "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
@@ -115,6 +116,25 @@
     "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) Google Maps Gets Chatty With a New Gemini-Powered Interface",
+    "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+    "pubDate": "Thu, 12 Mar 2026 12:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+    "contentSnippet": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+    "guid": "69b1cfea1ad844cfc274660f",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps",
+      "Gear / Products / Phones"
+    ],
+    "isoDate": "2026-03-12T12:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "google-maps-gets-chatty-with-a-new-gemini-powered-interface"
+  },
+  {
     "creator": "Miles Klee",
     "title": "(No AI) Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
     "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
@@ -130,22 +150,5 @@
     "isoDate": "2026-03-11T20:45:03.000Z",
     "source": "Wired AI",
     "slug": "grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-    "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-    "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-    "contentSnippet": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-    "guid": "69aef91af68fc9e6f3d26fae",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-11T18:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "nvidia-will-spend-26-billion-to-build-open-weight-ai-models-filings-show"
   }
 ]
