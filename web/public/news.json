@@ -1,46 +1,54 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Replit snags $9B valuation 6 months after hitting $3B",
-    "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-    "pubDate": "Wed, 11 Mar 2026 18:52:52 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-    "contentSnippet": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-    "guid": "https://techcrunch.com/?p=3101554",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "pubDate": "Wed, 11 Mar 2026 23:35:03 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+    "contentSnippet": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+    "guid": "https://techcrunch.com/?p=3101594",
     "categories": [
       "AI",
-      "Startups",
-      "TC",
-      "In Brief",
-      "Replit",
-      "vibe coding"
+      "Media & Entertainment",
+      "tilly norwood"
     ],
-    "isoDate": "2026-03-11T18:52:52.000Z",
+    "isoDate": "2026-03-11T23:35:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "replit-snags-9b-valuation-6-months-after-hitting-3b"
+    "slug": "ai-actor-tilly-norwood-put-out-the-worst-song-i-ve-ever-heard"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-    "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-    "contentSnippet": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-    "guid": "https://techcrunch.com/?p=3101439",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+    "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+    "contentSnippet": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+    "guid": "https://techcrunch.com/?p=3101742",
     "categories": [
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "personal publishing",
-      "Publishing",
-      "WordPress",
-      "Wordpress.org"
+      "Transportation",
+      "Ford",
+      "Ford Pro"
     ],
-    "isoDate": "2026-03-11T16:43:59.000Z",
+    "isoDate": "2026-03-11T22:51:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net"
+    "slug": "ford-s-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used"
+  },
+  {
+    "title": "(No AI) One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+    "pubDate": "2026-03-11T22:51:53.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJournalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images\n\nFor months, Grammarly has been using the identities of real people (including us) for its [\"Expert Review\" AI suggestions](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by [_Wired_](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/). The [class-action complaint](https://static1.squarespace.com/static/63ffda7f9dcd742dc8620173/t/69b1ca7b00a832589866da3a/1773259387652/Grammarly+Complaint+%28Angwin+v.+Superhuman+Platform%2C+Inc.%29.pdf) filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the \"experts'\" privacy and publicity rights by breaking laws against using someone's identity for commercial purposes without their consent.\n\nAngwin says she found out her identity was used by [way of Casey Newton](https://www.platformer.news/grammarly-expert-review-reviewed/), who is also one of the experts that _The Verge_ uncovered being used by Gra …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)",
+    "contentSnippet": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images\t\n\nFor months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the \"experts'\" privacy and publicity rights by breaking laws against using someone's identity for commercial purposes without their consent.\nAngwin says she found out her identity was used by way of Casey Newton, who is also one of the experts that The Verge uncovered being used by Gra …\nRead the full story at The Verge.",
+    "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the [&#8230;]",
+    "id": "https://www.theverge.com/?p=893451",
+    "isoDate": "2026-03-11T22:51:53.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "one-of-grammarly-s-experts-is-suing-the-company-over-its-identity-stealing-ai-feature"
   },
   {
     "title": "(No AI) Grammarly says it will stop using AI to clone experts without permission",
@@ -55,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "grammarly-says-it-will-stop-using-ai-to-clone-experts-without-permission"
-  },
-  {
-    "title": "(No AI) OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-    "pubDate": "2026-03-11T16:50:45.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Sora logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by [_The Information_](https://www.theinformation.com/articles/openai-plans-launch-sora-video-ai-chatgpt-strategy-shift). Sora is currently only available on its [website](https://sora.chatgpt.com/explore) or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like [the addition of image generation capabilities](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real) in the chatbot last year.\n\nSora could help attract more users to ChatGPT, but it may also worsen the flood of deepfakes coming from OpenAI's video generator. When the Sora app [initially launched](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends) less than a year ago, users generated realistic-lookin …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)",
-    "contentSnippet": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much like the addition of image generation capabilities in the chatbot last year. \nSora could help attract more users to ChatGPT, but it may also worsen the flood of deepfakes coming from OpenAI's video generator. When the Sora app initially launched less than a year ago, users generated realistic-lookin …\nRead the full story at The Verge.",
-    "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much [&#8230;]",
-    "id": "https://www.theverge.com/?p=893189",
-    "isoDate": "2026-03-11T16:50:45.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB375_SORA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-sora-video-generator-is-reportedly-coming-to-chatgpt"
   },
   {
     "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
@@ -121,6 +115,23 @@
     "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
+    "creator": "Miles Klee",
+    "title": "(No AI) Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+    "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+    "pubDate": "Wed, 11 Mar 2026 20:45:03 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+    "contentSnippet": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+    "guid": "69b17e6d76ee57182b10205d",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-03-11T20:45:03.000Z",
+    "source": "Wired AI",
+    "slug": "grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
     "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
@@ -136,22 +147,5 @@
     "isoDate": "2026-03-11T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "nvidia-will-spend-26-billion-to-build-open-weight-ai-models-filings-show"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
-    "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
-    "pubDate": "Wed, 11 Mar 2026 14:23:05 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
-    "contentSnippet": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
-    "guid": "69af1cc761b0f5301ec00df1",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-03-11T14:23:05.000Z",
-    "source": "Wired AI",
-    "slug": "meta-is-developing-4-new-chips-to-power-its-ai-and-recommendation-systems"
   }
 ]
