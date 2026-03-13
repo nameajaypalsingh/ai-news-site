@@ -1,45 +1,51 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Truecaller now lets you hang up on scammers — on behalf of your family",
-    "link": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
-    "pubDate": "Fri, 13 Mar 2026 04:30:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 million users, first \\[…\\]",
-    "contentSnippet": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 million users, first […]",
-    "guid": "https://techcrunch.com/?p=3101896",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+    "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+    "pubDate": "Fri, 13 Mar 2026 16:20:23 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an \\[…\\]",
+    "contentSnippet": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3102344",
+    "categories": [
+      "AI",
+      "Startups",
+      "Venture",
+      "doge",
+      "Equity Video",
+      "Google acquisition",
+      "M&A",
+      "Meta",
+      "moltbook",
+      "wiz"
+    ],
+    "isoDate": "2026-03-13T16:20:23.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+    "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
+    "pubDate": "Fri, 13 Mar 2026 14:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+    "contentSnippet": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+    "guid": "https://techcrunch.com/?p=3102169",
     "categories": [
       "AI",
       "Apps",
-      "India",
-      "Scam detection",
-      "Truecaller"
+      "Media & Entertainment",
+      "Generative AI",
+      "mobile games",
+      "peacock",
+      "short form video",
+      "tv"
     ],
-    "isoDate": "2026-03-13T04:30:00.000Z",
+    "isoDate": "2026-03-13T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "truecaller-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family"
-  },
-  {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-    "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-    "pubDate": "Thu, 12 Mar 2026 23:25:39 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "contentSnippet": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "guid": "https://techcrunch.com/?p=3102218",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "GTC",
-      "Jensen Huang",
-      "nvidia",
-      "nvidia gtc",
-      "Nvidia GTC 2026"
-    ],
-    "isoDate": "2026-03-12T23:25:39.000Z",
-    "source": "TechCrunch AI",
-    "slug": "how-to-watch-jensen-huang-s-nvidia-gtc-2026-keynote"
+    "slug": "peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming"
   },
   {
     "title": "(No AI) Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
@@ -121,7 +127,7 @@
   },
   {
     "creator": "Reece Rogers",
-    "title": "(No AI) Google's AI Searches Love to Refer You Back to Google",
+    "title": "(No AI) Google's AI Search Results Love to Refer You Back to Google",
     "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
     "pubDate": "Fri, 13 Mar 2026 12:31:55 +0000",
     "dc:creator": "Reece Rogers",
@@ -135,7 +141,7 @@
     ],
     "isoDate": "2026-03-13T12:31:55.000Z",
     "source": "Wired AI",
-    "slug": "google-s-ai-searches-love-to-refer-you-back-to-google"
+    "slug": "google-s-ai-search-results-love-to-refer-you-back-to-google"
   },
   {
     "creator": "Zeyi Yang",
