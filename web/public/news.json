@@ -1,6 +1,30 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Wiz investor unpacks Google’s $32B acquisition",
+    "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "pubDate": "Sun, 15 Mar 2026 15:30:33 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+    "contentSnippet": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+    "guid": "https://techcrunch.com/?p=3102623",
+    "categories": [
+      "AI",
+      "Security",
+      "Startups",
+      "Venture",
+      "Equity podcast",
+      "Google",
+      "Index Ventures",
+      "Shardul Shah",
+      "wiz"
+    ],
+    "isoDate": "2026-03-15T15:30:33.000Z",
+    "source": "TechCrunch AI",
+    "slug": "wiz-investor-unpacks-google-s-32b-acquisition"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) US Army announces contract with Anduril worth up to $20B",
     "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
     "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000",
@@ -22,22 +46,18 @@
     "slug": "us-army-announces-contract-with-anduril-worth-up-to-20b"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Meta reportedly considering layoffs that could affect 20% of the company",
-    "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-    "pubDate": "Sat, 14 Mar 2026 16:28:42 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-    "contentSnippet": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-    "guid": "https://techcrunch.com/?p=3102596",
-    "categories": [
-      "AI",
-      "Social",
-      "Meta"
-    ],
-    "isoDate": "2026-03-14T16:28:42.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company"
+    "title": "(No AI) AI companies want to harvest improv actors’ skills to train AI on human emotion",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+    "pubDate": "2026-03-15T14:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience.\n\nThe catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents to train an AI model for \"one of the leading AI companies,\" according to the [open role](https://joinhandshake.com/ai/opportunities/improv-actor-ai-trainer) posted by Handshake, a company that provides training data to [OpenAI](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/) and other labs.\n\nHandshake AI is one of a handful of companies of its kind, scrambling to provide more and more niche or specific training data to A …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)",
+    "contentSnippet": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. \nThe catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents to train an AI model for \"one of the leading AI companies,\" according to the open role posted by Handshake, a company that provides training data to OpenAI and other labs. \nHandshake AI is one of a handful of companies of its kind, scrambling to provide more and more niche or specific training data to A …\nRead the full story at The Verge.",
+    "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents [&#8230;]",
+    "id": "https://www.theverge.com/?p=893931",
+    "isoDate": "2026-03-15T14:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-companies-want-to-harvest-improv-actors-skills-to-train-ai-on-human-emotion"
   },
   {
     "title": "(No AI) Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
@@ -52,20 +72,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "microsoft-s-copilot-ai-assistant-is-coming-to-current-gen-xbox-consoles-this-year"
-  },
-  {
-    "title": "(No AI) Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-    "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-    "pubDate": "2026-03-12T17:59:32.000Z",
-    "author": "Emma Roth",
-    "content": "![An image of the Facebook logo surrounded by blue circles](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFacebook Marketplace is [adding a bunch of new AI-powered tools](https://about.fb.com/news/2026/03/facebook-marketplace-new-meta-ai-tools-make-selling-faster-and-easier/) that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.\n\nYou can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still available. Do you have any questions?\"\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/auto-reply-fb.webp?quality=90&strip=all&crop=0,0,100,100)\n\nFacebook Marketplace is trying to speed up the process of listing items, too, as Meta AI can now use the photos …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)",
-    "contentSnippet": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages.\nYou can toggle on the auto-reply option when creating a listing, and Meta AI will draft an editable response to any questions related to availability. In an example shown by Meta, its AI assistant creates an auto-reply saying, \"Yes, it's still available. Do you have any questions?\"\nFacebook Marketplace is trying to speed up the process of listing items, too, as Meta AI can now use the photos …\nRead the full story at The Verge.",
-    "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI [&#8230;]",
-    "id": "https://www.theverge.com/?p=893907",
-    "isoDate": "2026-03-12T17:59:32.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "facebook-marketplace-adds-ai-auto-replies-for-annoying-is-this-still-available-messages"
   },
   {
     "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
