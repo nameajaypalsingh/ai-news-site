@@ -1,46 +1,60 @@
 [
   {
     "creator": "Rebecca Szkutak",
-    "title": "(No AI) How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-    "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-    "pubDate": "Mon, 16 Mar 2026 14:30:55 +0000",
+    "title": "(No AI) Memories.ai is building the visual memory layer for wearables and robotics",
+    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "pubDate": "Mon, 16 Mar 2026 20:30:00 +0000",
     "dc:creator": "Rebecca Szkutak",
-    "content": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "contentSnippet": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-    "guid": "https://techcrunch.com/?p=3102218",
+    "content": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+    "contentSnippet": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+    "guid": "https://techcrunch.com/?p=3102875",
     "categories": [
-      "AI",
       "Enterprise",
-      "GTC",
-      "Jensen Huang",
+      "AI",
       "nvidia",
+      "GTC",
       "nvidia gtc",
-      "Nvidia GTC 2026"
+      "artificial intelligence",
+      "Nvidia GTC 2026",
+      "Memories.ai"
     ],
-    "isoDate": "2026-03-16T14:30:55.000Z",
+    "isoDate": "2026-03-16T20:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-to-watch-jensen-huang-s-nvidia-gtc-2026-keynote-and-what-to-expect"
+    "slug": "memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-    "pubDate": "Mon, 16 Mar 2026 00:30:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-    "contentSnippet": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-    "guid": "https://techcrunch.com/?p=3102387",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "pubDate": "Mon, 16 Mar 2026 19:18:44 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "contentSnippet": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "guid": "https://techcrunch.com/?p=3102852",
     "categories": [
       "AI",
-      "Startups",
-      "Venture",
-      "Accel",
-      "Google",
-      "Google AI Futures Fund"
+      "CSAM",
+      "Grok",
+      "lawsuits",
+      "xAI"
     ],
-    "isoDate": "2026-03-16T00:30:00.000Z",
+    "isoDate": "2026-03-16T19:18:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-accel-india-accelerator-chooses-5-startups-and-none-are-ai-wrappers"
+    "slug": "elon-musk-s-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed"
+  },
+  {
+    "title": "(No AI) Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+    "pubDate": "2026-03-16T17:04:06.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-141320386.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by [_Reuters_](https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/).\n\nAccording to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant portions on demand. The memorized examples are unauthorized copies that \\[OpenAI\\] used to train their models, including GPT-4.\"\n\nThe [lawsuit](https://fingfx.thomsonreuters.com/gfx/legaldocs/klpylzoekvg/BRITTANICA%20OPENAI%20LAWSUIT%20complaint.pdf) goes on …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)",
+    "contentSnippet": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. \nAccording to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much of Britannica's copyrighted content and will output near-verbatim copies of significant portions on demand. The memorized examples are unauthorized copies that [OpenAI] used to train their models, including GPT-4.\" \nThe lawsuit goes on  …\nRead the full story at The Verge.",
+    "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much [&#8230;]",
+    "id": "https://www.theverge.com/?p=895372",
+    "isoDate": "2026-03-16T17:04:06.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-141320386.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "encyclopedia-britannica-is-suing-openai-for-allegedly-memorizing-its-content-with-chatgpt"
   },
   {
     "title": "(No AI) Yahoo CEO Jim Lanzone on reviving the web’s homepage",
@@ -57,18 +71,18 @@
     "slug": "yahoo-ceo-jim-lanzone-on-reviving-the-web-s-homepage"
   },
   {
-    "title": "(No AI) This is not a fly uploaded to a computer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
-    "pubDate": "2026-03-16T12:49:07.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-13-at-17.18.37.png?quality=90&strip=all&crop=0,0,100,100)\n\nLast week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\n\nThe videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to build a full digital emulation of a mouse brain within the next two years - a timeline that is, to put it generously, ambitious. Cofounder Alexander Wissner-Gross [shared](https://x.com/alexwg/status/2030217301929132323?s=20) the original clip publicly, calling it the \"world's first embodiment of a whole-brain emulation that produces multiple behaviors\" and hinting a …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)",
-    "contentSnippet": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about.\nThe videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to build a full digital emulation of a mouse brain within the next two years - a timeline that is, to put it generously, ambitious. Cofounder Alexander Wissner-Gross shared the original clip publicly, calling it the \"world's first embodiment of a whole-brain emulation that produces multiple behaviors\" and hinting a …\nRead the full story at The Verge.",
-    "summary": "Last week, a few posts about a so-called virtual \"embodied fly\" tore through X, boosted by AI hype accounts and excited commenters who didn't seem to understand what it was they were excited about. The videos came from San Francisco-based Eon Systems, which says it's working toward \"digital human intelligence\" and claims it wants to [&#8230;]",
-    "id": "https://www.theverge.com/?p=894587",
-    "isoDate": "2026-03-16T12:49:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-13-at-17.18.37.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "this-is-not-a-fly-uploaded-to-a-computer"
+    "title": "(No AI) Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "pubDate": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "contentSnippet": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "guid": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "why-codex-security-doesn-t-include-a-sast-report"
   },
   {
     "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
@@ -83,20 +97,6 @@
     "isoDate": "2026-03-11T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "rakuten-fixes-issues-twice-as-fast-with-codex"
-  },
-  {
-    "title": "(No AI) Designing AI agents to resist prompt injection",
-    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "pubDate": "Wed, 11 Mar 2026 11:30:00 GMT",
-    "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "contentSnippet": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "guid": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-03-11T11:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "designing-ai-agents-to-resist-prompt-injection"
   },
   {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
