@@ -1,50 +1,43 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "pubDate": "Sun, 15 Mar 2026 18:49:32 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-    "contentSnippet": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-    "guid": "https://techcrunch.com/?p=3102554",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+    "pubDate": "Mon, 16 Mar 2026 00:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+    "contentSnippet": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+    "guid": "https://techcrunch.com/?p=3102387",
     "categories": [
+      "Startups",
+      "Venture",
       "AI",
-      "ai delusions",
-      "ai psychosis",
-      "ChatGPT",
-      "Exclusive",
-      "gemini",
+      "Accel",
       "Google",
-      "OpenAI"
+      "Google AI Futures Fund"
     ],
-    "isoDate": "2026-03-15T18:49:32.000Z",
+    "isoDate": "2026-03-16T00:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks"
+    "slug": "google-accel-india-accelerator-choses-5-startups-and-none-are-ai-wrappers"
   },
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Wiz investor unpacks Google’s $32B acquisition",
-    "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
-    "pubDate": "Sun, 15 Mar 2026 15:30:33 +0000",
+    "title": "(No AI) ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+    "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+    "pubDate": "Sun, 15 Mar 2026 21:01:51 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-    "contentSnippet": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-    "guid": "https://techcrunch.com/?p=3102623",
+    "content": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+    "contentSnippet": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+    "guid": "https://techcrunch.com/?p=3102639",
     "categories": [
       "AI",
-      "Security",
-      "Startups",
-      "Venture",
-      "Equity podcast",
-      "Google",
-      "Index Ventures",
-      "Shardul Shah",
-      "wiz"
+      "Media & Entertainment",
+      "bytedance",
+      "seedance"
     ],
-    "isoDate": "2026-03-15T15:30:33.000Z",
+    "isoDate": "2026-03-15T21:01:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "wiz-investor-unpacks-google-s-32b-acquisition"
+    "slug": "bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator"
   },
   {
     "title": "(No AI) AI companies want to harvest improv actors’ skills to train AI on human emotion",
