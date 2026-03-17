@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "pubDate": "Tue, 17 Mar 2026 04:01:00 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+    "contentSnippet": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+    "guid": "https://techcrunch.com/?p=3102893",
+    "categories": [
+      "AI",
+      "Apps",
+      "Exclusive",
+      "Picsart"
+    ],
+    "isoDate": "2026-03-17T04:01:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace"
+  },
+  {
     "creator": "Rebecca Szkutak",
     "title": "(No AI) Nvidia’s version of OpenClaw could solve its biggest problem: security",
     "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
@@ -21,27 +40,6 @@
     "isoDate": "2026-03-16T22:45:51.000Z",
     "source": "TechCrunch AI",
     "slug": "nvidia-s-version-of-openclaw-could-solve-its-biggest-problem-security"
-  },
-  {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-    "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-    "pubDate": "Mon, 16 Mar 2026 21:41:37 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-    "contentSnippet": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-    "guid": "https://techcrunch.com/?p=3103020",
-    "categories": [
-      "AI",
-      "Hardware",
-      "GTC 2026",
-      "In Brief",
-      "Jensen Huang",
-      "nvidia"
-    ],
-    "isoDate": "2026-03-16T21:41:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "jensen-huang-just-put-nvidia-s-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere"
   },
   {
     "title": "(No AI) DLSS 5 looks like a real-time generative AI filter for video games",
