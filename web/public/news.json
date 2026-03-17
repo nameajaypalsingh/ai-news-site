@@ -1,45 +1,61 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Google’s Personal Intelligence feature is expanding to all US users",
-    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "pubDate": "Tue, 17 Mar 2026 16:00:00 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "contentSnippet": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "guid": "https://techcrunch.com/?p=3103200",
-    "categories": [
-      "AI",
-      "Apps",
-      "Chrome",
-      "Google",
-      "gemini",
-      "personal intelligence"
-    ],
-    "isoDate": "2026-03-17T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-personal-intelligence-feature-is-expanding-to-all-us-users"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI expands government footprint with AWS deal, report says",
-    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "pubDate": "Tue, 17 Mar 2026 15:37:03 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-    "contentSnippet": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-    "guid": "https://techcrunch.com/?p=3103207",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) The Pentagon is developing alternatives to Anthropic, report says",
+    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+    "pubDate": "Tue, 17 Mar 2026 18:20:15 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+    "contentSnippet": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+    "guid": "https://techcrunch.com/?p=3103334",
     "categories": [
       "AI",
       "Government & Policy",
       "Anthropic",
-      "AWS",
-      "defense",
-      "OpenAI"
+      "Elon Musk",
+      "Grok",
+      "In Brief",
+      "OpenAI",
+      "pentagon"
     ],
-    "isoDate": "2026-03-17T15:37:03.000Z",
+    "isoDate": "2026-03-17T18:20:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-expands-government-footprint-with-aws-deal-report-says"
+    "slug": "the-pentagon-is-developing-alternatives-to-anthropic-report-says"
+  },
+  {
+    "creator": "Sarah Perez",
+    "title": "(No AI) BuzzFeed debuts AI slop apps in bid for new revenue",
+    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "pubDate": "Tue, 17 Mar 2026 17:17:15 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+    "contentSnippet": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+    "guid": "https://techcrunch.com/?p=3103244",
+    "categories": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ai apps",
+      "Buzzfeed",
+      "digital"
+    ],
+    "isoDate": "2026-03-17T17:17:15.000Z",
+    "source": "TechCrunch AI",
+    "slug": "buzzfeed-debuts-ai-slop-apps-in-bid-for-new-revenue"
+  },
+  {
+    "title": "(No AI) Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
+    "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+    "pubDate": "2026-03-17T18:00:00.000Z",
+    "author": "Andrew Webster",
+    "content": "![A screenshot of Starfield with DLSS 5 on.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday [Nvidia revealed its latest upscaling tech, called DLSS 5](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics), which [it described](https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/) as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. _Resident Evil Requiem_ protagonist Grace [got a makeover](https://www.youtube.com/watch?v=MhLWH18vXH4) that would make her look at home in [a Tilly Norwood video](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden). The _Hogwarts Legacy_ kids [looked like they'd been wrung through an Instagram filter](https://www.youtube.com/watch?v=t50AdVMuxZE). Even Liverpoo …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)",
+    "contentSnippet": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that would make her look at home in a Tilly Norwood video. The Hogwarts Legacy kids looked like they'd been wrung through an Instagram filter. Even Liverpoo …\nRead the full story at The Verge.",
+    "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to [&#8230;]",
+    "id": "https://www.theverge.com/?p=896213",
+    "isoDate": "2026-03-17T18:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-s-dlss-5-is-like-motion-smoothing-for-video-games-but-worse"
   },
   {
     "title": "(No AI) Now everyone in the US is getting Google’s personalized Gemini AI",
@@ -56,18 +72,18 @@
     "slug": "now-everyone-in-the-us-is-getting-google-s-personalized-gemini-ai"
   },
   {
-    "title": "(No AI) Microsoft appoints a new Copilot boss after AI leadership shake-up",
-    "link": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-    "pubDate": "2026-03-17T15:17:27.000Z",
-    "author": "Tom Warren",
-    "content": "![An illustration of the Microsoft Copilot logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers.\n\nThe changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for consumers. Suleyman first joined Microsoft nearly two years ago, after Microsoft hired a bunch of folks from Inflection AI. Months after Suleyman's hirin …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial)",
-    "contentSnippet": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers.\nThe changes will see Microsoft AI CEO Mustafa Suleyman focus on creating Microsoft's own AI models, instead of working directly on the assistant-like features of Copilot for consumers. Suleyman first joined Microsoft nearly two years ago, after Microsoft hired a bunch of folks from Inflection AI. Months after Suleyman's hirin …\nRead the full story at The Verge.",
-    "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will [&#8230;]",
-    "id": "https://www.theverge.com/?p=895963",
-    "isoDate": "2026-03-17T15:17:27.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-appoints-a-new-copilot-boss-after-ai-leadership-shake-up"
+    "title": "(No AI) Introducing GPT-5.4 mini and nano",
+    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "content": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "contentSnippet": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "guid": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-03-17T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-gpt-5-4-mini-and-nano"
   },
   {
     "title": "(No AI) Why Codex Security Doesn’t Include a SAST Report",
@@ -82,20 +98,6 @@
     "isoDate": "2026-03-16T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "why-codex-security-doesn-t-include-a-sast-report"
-  },
-  {
-    "title": "(No AI) Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "pubDate": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "content": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "contentSnippet": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "guid": "https://openai.com/index/rakuten",
-    "categories": [
-      "API"
-    ],
-    "isoDate": "2026-03-11T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "rakuten-fixes-issues-twice-as-fast-with-codex"
   },
   {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
