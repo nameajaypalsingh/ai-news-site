@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+    "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+    "pubDate": "Tue, 17 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+    "contentSnippet": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+    "guid": "https://techcrunch.com/?p=3103162",
+    "categories": [
+      "AI",
+      "Apps",
+      "canva",
+      "Gamma",
+      "AI presentations",
+      "AI image generation"
+    ],
+    "isoDate": "2026-03-17T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
     "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
@@ -17,29 +38,6 @@
     "isoDate": "2026-03-17T04:01:00.000Z",
     "source": "TechCrunch AI",
     "slug": "picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace"
-  },
-  {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Nvidia’s version of OpenClaw could solve its biggest problem: security",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-    "pubDate": "Mon, 16 Mar 2026 22:45:51 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-    "contentSnippet": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-    "guid": "https://techcrunch.com/?p=3103052",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "AI agents",
-      "NemoClaw",
-      "nvidia",
-      "nvidia gtc",
-      "Nvidia GTC 2026",
-      "openclaw"
-    ],
-    "isoDate": "2026-03-16T22:45:51.000Z",
-    "source": "TechCrunch AI",
-    "slug": "nvidia-s-version-of-openclaw-could-solve-its-biggest-problem-security"
   },
   {
     "title": "(No AI) DLSS 5 looks like a real-time generative AI filter for video games",
@@ -120,38 +118,36 @@
     "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
-    "creator": "Matt Burgess",
-    "title": "(No AI) Models Are Applying to Be the Face of AI Scams",
-    "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-    "pubDate": "Mon, 16 Mar 2026 09:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-    "contentSnippet": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-    "guid": "699dc2b0be4d287382352c0d",
+    "creator": "Paresh Dave",
+    "title": "(No AI) How Invisalign Became the World’s Biggest User of 3D Printers",
+    "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+    "pubDate": "Tue, 17 Mar 2026 11:00:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+    "contentSnippet": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+    "guid": "69a2019a8533c8c776f70541",
     "categories": [
-      "Security",
-      "Security / Security News"
+      "Business",
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-03-16T09:00:00.000Z",
+    "isoDate": "2026-03-17T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "models-are-applying-to-be-the-face-of-ai-scams"
+    "slug": "how-invisalign-became-the-world-s-biggest-user-of-3d-printers"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Google's AI Search Results Love to Refer You Back to Google",
-    "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-    "pubDate": "Fri, 13 Mar 2026 12:31:55 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-    "contentSnippet": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-    "guid": "69b2ea587b5e35f42538760c",
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+    "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+    "pubDate": "Tue, 17 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+    "contentSnippet": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+    "guid": "69b430703c1443d1ac8419bd",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
+      "Security"
     ],
-    "isoDate": "2026-03-13T12:31:55.000Z",
+    "isoDate": "2026-03-17T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "google-s-ai-search-results-love-to-refer-you-back-to-google"
+    "slug": "sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web"
   }
 ]
