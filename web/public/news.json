@@ -1,76 +1,76 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) The Gemini-powered features in Google Workspace that are worth using",
-    "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-    "pubDate": "Wed, 18 Mar 2026 16:43:18 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
-    "contentSnippet": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
-    "guid": "https://techcrunch.com/?p=3103221",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "pubDate": "Wed, 18 Mar 2026 20:30:52 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+    "contentSnippet": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+    "guid": "https://techcrunch.com/?p=3103772",
     "categories": [
       "AI",
       "Apps",
-      "evergreens",
-      "gmail",
-      "Google",
-      "google docs",
-      "google gemini",
-      "Google Workspace"
+      "Hardware",
+      "AI agents",
+      "Carl Pei",
+      "nothing",
+      "smartphones"
     ],
-    "isoDate": "2026-03-18T16:43:18.000Z",
+    "isoDate": "2026-03-18T20:30:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-gemini-powered-features-in-google-workspace-that-are-worth-using"
+    "slug": "nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) The leaderboard “you can’t game,” funded by the companies it ranks",
-    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-    "pubDate": "Wed, 18 Mar 2026 16:30:00 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research \\[…\\]",
-    "contentSnippet": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3103461",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+    "pubDate": "Wed, 18 Mar 2026 20:01:19 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+    "contentSnippet": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+    "guid": "https://techcrunch.com/?p=3102415",
     "categories": [
-      "Startups",
       "AI",
-      "Benchmark",
-      "chatbot arena",
-      "Equity Video",
-      "AI benchmarking",
-      "LMArena"
+      "Enterprise",
+      "artificial intelligence",
+      "networking",
+      "nvidia",
+      "nvidia gtc",
+      "Nvidia GTC 2026",
+      "Nvidia Networking"
     ],
-    "isoDate": "2026-03-18T16:30:00.000Z",
+    "isoDate": "2026-03-18T20:01:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-leaderboard-you-can-t-game-funded-by-the-companies-it-ranks"
+    "slug": "nvidia-is-quietly-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business"
   },
   {
-    "title": "(No AI) DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
-    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-    "pubDate": "2026-03-18T12:30:00.000Z",
-    "author": "Richard Lawler",
-    "content": "![DLSS 5 comparison image of Resident Evil Requiem](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 [memes](https://bsky.app/profile/amanita-design.net/post/3mhawmtv44c2e) to [complaints](https://bsky.app/profile/mikebithell.bsky.social/post/3mh7f6vgrfc2s) about how it’s “yassified” _Resident Evil Requiem_ characters in demos, the first impression has not been a good one, no matter how much Nvidia [insists](https://www.nvidia.com/en-us/geforce/forums/rtx-technology-dlss-dxr/37/583738/dlss-5-faq/) that this pursuit of photorealism is still honoring the original artists’ intent.\n\n_Follow along below for all the latest updates about Nvidia’s DLSS 5 upgrades_.\n\n*   [Nvidia has lost the plot with gamers](https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames)\n*   [Jensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”](https://www.theverge.com/games/896457/jensen-huang-on-the-critical-reaction-to-dlss-5-well-first-of-all-theyre-completely-wrong)\n*   [Nvidia’s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)\n*   [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)\n*   [Nvidia just announced DLSS 5 and Digital Foundry already has a video.](https://www.theverge.com/tech/895421/nvidia-just-announced-dlss-5-and-digital-foundry-already-has-a-video)",
-    "contentSnippet": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent.\nFollow along below for all the latest updates about Nvidia’s DLSS 5 upgrades.\nNvidia has lost the plot with gamers\n\t\t\t\nJensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”\n\t\t\t\nNvidia’s DLSS 5 is like motion smoothing for video games, but worse\n\t\t\t\nDLSS 5 looks like a real-time generative AI filter for video games\n\t\t\t\nNvidia just announced DLSS 5 and Digital Foundry already has a video.",
-    "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=896518",
-    "isoDate": "2026-03-18T12:30:00.000Z",
+    "title": "(No AI) David Sacks’ big Iran warning gets big time ignored",
+    "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+    "pubDate": "2026-03-18T18:44:21.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a_ Verge _subscriber yet, you should sign up_ [_right here_](https://www.theverge.com/subscribe%5D)_, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?_\n\n_Do you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)**_._** _Or, if you're truly tech-pilled …_\n\n[Read the full story at The Verge.](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)",
+    "contentSnippet": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?\nDo you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to tina.nguyen+tips@theverge.com. Or, if you're truly tech-pilled …\nRead the full story at The Verge.",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]",
+    "id": "https://www.theverge.com/896949/ai-is-now-part-of-the-culture-wars-and-real-wars",
+    "isoDate": "2026-03-18T18:44:21.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "dlss-5-has-nvidia-s-ai-graphics-technology-gone-too-far"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "david-sacks-big-iran-warning-gets-big-time-ignored"
   },
   {
-    "title": "(No AI) Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
-    "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-    "pubDate": "2026-03-17T18:00:00.000Z",
-    "author": "Andrew Webster",
-    "content": "![A screenshot of Starfield with DLSS 5 on.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday [Nvidia revealed its latest upscaling tech, called DLSS 5](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics), which [it described](https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/) as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. _Resident Evil Requiem_ protagonist Grace [got a makeover](https://www.youtube.com/watch?v=MhLWH18vXH4) that would make her look at home in [a Tilly Norwood video](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden). The _Hogwarts Legacy_ kids [looked like they'd been wrung through an Instagram filter](https://www.youtube.com/watch?v=t50AdVMuxZE). Even Liverpoo …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)",
-    "contentSnippet": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to notice was that it turned recognizable faces into something resembling AI slop. Resident Evil Requiem protagonist Grace got a makeover that would make her look at home in a Tilly Norwood video. The Hogwarts Legacy kids looked like they'd been wrung through an Instagram filter. Even Liverpoo …\nRead the full story at The Verge.",
-    "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to [&#8230;]",
-    "id": "https://www.theverge.com/?p=896213",
-    "isoDate": "2026-03-17T18:00:00.000Z",
+    "title": "(No AI) ChatGPT did not cure a dog’s cancer",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+    "pubDate": "2026-03-18T18:14:39.000Z",
+    "author": "Robert Hart",
+    "content": "![AI doctor with computer for head.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&strip=all&crop=0,0,100,100)\n\nWhen an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\n\nThe version of the story that made the rounds online, first [reported](https://www.theaustralian.com.au/business%2Ftechnology%2Ftech-boss-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog%2Fnews-story%2F292a21bcbe93efa17810bfcfcdfadbf7?amp&nk=7c7dcd7071a2080ab95fee11bd99e3a3-1773763693) by _The Australian_, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer)",
+    "contentSnippet": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\nThe version of the story that made the rounds online, first reported by The Australian, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire  …\nRead the full story at The Verge.",
+    "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]",
+    "id": "https://www.theverge.com/?p=896878",
+    "isoDate": "2026-03-18T18:14:39.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nvidia-s-dlss-5-is-like-motion-smoothing-for-video-games-but-worse"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-did-not-cure-a-dog-s-cancer"
   },
   {
     "title": "(No AI) Introducing GPT-5.4 mini and nano",
@@ -87,18 +87,18 @@
     "slug": "introducing-gpt-5-4-mini-and-nano"
   },
   {
-    "title": "(No AI) Equipping workers with insights about compensation",
-    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "pubDate": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "content": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "contentSnippet": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "guid": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "title": "(No AI) OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "content": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "contentSnippet": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "guid": "https://openai.com/index/japan-teen-safety-blueprint",
     "categories": [
-      "Global Affairs"
+      "Safety"
     ],
-    "isoDate": "2026-03-17T00:00:00.000Z",
+    "isoDate": "2026-03-17T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "equipping-workers-with-insights-about-compensation"
+    "slug": "openai-japan-announces-japan-teen-safety-blueprint-to-put-teen-safety-first"
   },
   {
     "title": "(No AI) Measuring progress toward AGI: A cognitive framework",
@@ -124,6 +124,23 @@
   },
   {
     "creator": "Paresh Dave",
+    "title": "(No AI) Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+    "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+    "pubDate": "Wed, 18 Mar 2026 18:01:18 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+    "contentSnippet": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+    "guid": "69b9a94a8332a5b66668179d",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-18T18:01:18.000Z",
+    "source": "Wired AI",
+    "slug": "why-walmart-and-openai-are-shaking-up-their-agentic-shopping-deal"
+  },
+  {
+    "creator": "Paresh Dave",
     "title": "(No AI) Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
     "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
     "pubDate": "Wed, 18 Mar 2026 00:51:14 +0000",
@@ -138,22 +155,5 @@
     "isoDate": "2026-03-18T00:51:14.000Z",
     "source": "Wired AI",
     "slug": "justice-department-says-anthropic-can-t-be-trusted-with-warfighting-systems"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) How Invisalign Became the World’s Biggest User of 3D Printers",
-    "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-    "pubDate": "Tue, 17 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-    "contentSnippet": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-    "guid": "69a2019a8533c8c776f70541",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-03-17T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "how-invisalign-became-the-world-s-biggest-user-of-3d-printers"
   }
 ]
