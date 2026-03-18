@@ -98,6 +98,17 @@
     "slug": "equipping-workers-with-insights-about-compensation"
   },
   {
+    "title": "(No AI) Measuring progress toward AGI: A cognitive framework",
+    "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "pubDate": "Tue, 17 Mar 2026 16:03:47 +0000",
+    "content": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+    "contentSnippet": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+    "guid": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "isoDate": "2026-03-17T16:03:47.000Z",
+    "source": "Google DeepMind",
+    "slug": "measuring-progress-toward-agi-a-cognitive-framework"
+  },
+  {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
     "link": "https://deepmind.google/blog/10-years-of-alphago/",
     "pubDate": "Mon, 09 Mar 2026 13:52:36 +0000",
@@ -107,17 +118,6 @@
     "isoDate": "2026-03-09T13:52:36.000Z",
     "source": "Google DeepMind",
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
-  },
-  {
-    "title": "(No AI) Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-    "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "pubDate": "Tue, 03 Mar 2026 16:35:55 +0000",
-    "content": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-    "contentSnippet": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-    "guid": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "isoDate": "2026-03-03T16:35:55.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-3-1-flash-lite-built-for-intelligence-at-scale"
   },
   {
     "creator": "Paresh Dave",
