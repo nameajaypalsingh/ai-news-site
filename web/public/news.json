@@ -1,45 +1,48 @@
 [
   {
-    "creator": "Anna Heim, Rebecca Bellan",
-    "title": "(No AI) Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "pubDate": "Tue, 17 Mar 2026 21:00:00 +0000",
-    "dc:creator": "Anna Heim, Rebecca Bellan",
-    "content": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "contentSnippet": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "guid": "https://techcrunch.com/?p=3103168",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) The Gemini-powered features in Google Workspace that are worth using",
+    "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+    "pubDate": "Wed, 18 Mar 2026 16:43:18 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+    "contentSnippet": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+    "guid": "https://techcrunch.com/?p=3103221",
     "categories": [
       "AI",
-      "Enterprise",
-      "ai models",
-      "Exclusive",
-      "LLMs",
-      "Mistral AI"
+      "Apps",
+      "evergreens",
+      "gmail",
+      "Google",
+      "google docs",
+      "google gemini",
+      "Google Workspace"
     ],
-    "isoDate": "2026-03-17T21:00:00.000Z",
+    "isoDate": "2026-03-18T16:43:18.000Z",
     "source": "TechCrunch AI",
-    "slug": "mistral-bets-on-build-your-own-ai-as-it-takes-on-openai-anthropic-in-the-enterprise"
+    "slug": "the-gemini-powered-features-in-google-workspace-that-are-worth-using"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "pubDate": "Tue, 17 Mar 2026 20:50:04 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "contentSnippet": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "guid": "https://techcrunch.com/?p=3103004",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) The leaderboard “you can’t game,” funded by the companies it ranks",
+    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+    "pubDate": "Wed, 18 Mar 2026 16:30:00 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research \\[…\\]",
+    "contentSnippet": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3103461",
     "categories": [
-      "AI",
       "Startups",
-      "TC",
-      "garry tan",
-      "sxsw 2026",
-      "Y Combinator"
+      "AI",
+      "Benchmark",
+      "chatbot arena",
+      "Equity Video",
+      "AI benchmarking",
+      "LMArena"
     ],
-    "isoDate": "2026-03-17T20:50:04.000Z",
+    "isoDate": "2026-03-18T16:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-garry-tan-s-claude-code-setup-has-gotten-so-much-love-and-hate"
+    "slug": "the-leaderboard-you-can-t-game-funded-by-the-companies-it-ranks"
   },
   {
     "title": "(No AI) DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
