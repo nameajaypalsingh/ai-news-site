@@ -42,6 +42,20 @@
     "slug": "why-garry-tan-s-claude-code-setup-has-gotten-so-much-love-and-hate"
   },
   {
+    "title": "(No AI) DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
+    "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+    "pubDate": "2026-03-18T12:30:00.000Z",
+    "author": "Richard Lawler",
+    "content": "![DLSS 5 comparison image of Resident Evil Requiem](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 [memes](https://bsky.app/profile/amanita-design.net/post/3mhawmtv44c2e) to [complaints](https://bsky.app/profile/mikebithell.bsky.social/post/3mh7f6vgrfc2s) about how it’s “yassified” _Resident Evil Requiem_ characters in demos, the first impression has not been a good one, no matter how much Nvidia [insists](https://www.nvidia.com/en-us/geforce/forums/rtx-technology-dlss-dxr/37/583738/dlss-5-faq/) that this pursuit of photorealism is still honoring the original artists’ intent.\n\n_Follow along below for all the latest updates about Nvidia’s DLSS 5 upgrades_.\n\n*   [Nvidia has lost the plot with gamers](https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames)\n*   [Jensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”](https://www.theverge.com/games/896457/jensen-huang-on-the-critical-reaction-to-dlss-5-well-first-of-all-theyre-completely-wrong)\n*   [Nvidia’s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)\n*   [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)\n*   [Nvidia just announced DLSS 5 and Digital Foundry already has a video.](https://www.theverge.com/tech/895421/nvidia-just-announced-dlss-5-and-digital-foundry-already-has-a-video)",
+    "contentSnippet": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter how much Nvidia insists that this pursuit of photorealism is still honoring the original artists’ intent.\nFollow along below for all the latest updates about Nvidia’s DLSS 5 upgrades.\nNvidia has lost the plot with gamers\n\t\t\t\nJensen Huang, on the critical reaction to DLSS 5: “Well, first of all, they’re completely wrong.”\n\t\t\t\nNvidia’s DLSS 5 is like motion smoothing for video games, but worse\n\t\t\t\nDLSS 5 looks like a real-time generative AI filter for video games\n\t\t\t\nNvidia just announced DLSS 5 and Digital Foundry already has a video.",
+    "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter [&#8230;]",
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=896518",
+    "isoDate": "2026-03-18T12:30:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "dlss-5-has-nvidia-s-ai-graphics-technology-gone-too-far"
+  },
+  {
     "title": "(No AI) Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
     "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
     "pubDate": "2026-03-17T18:00:00.000Z",
@@ -54,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "nvidia-s-dlss-5-is-like-motion-smoothing-for-video-games-but-worse"
-  },
-  {
-    "title": "(No AI) Now everyone in the US is getting Google’s personalized Gemini AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-    "pubDate": "2026-03-17T16:33:41.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle [announced on Tuesday](https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/) that all users in the US will now have access to its [Personal Intelligence](https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos) feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google accounts, not business, enterprise, or education users.\n\nPersonal Intelligence uses data from connected apps, like YouTube, Google Photos, and Gmail, to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence)",
-    "contentSnippet": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use Personal Intelligence through AI Mode in Search, Gemini in Chrome, and the Gemini app. However, the feature is currently only available to users on personal Google accounts, not business, enterprise, or education users. \nPersonal Intelligence uses data from connected apps, like YouTube, Google Photos, and Gmail, to  …\nRead the full story at The Verge.",
-    "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use [&#8230;]",
-    "id": "https://www.theverge.com/?p=896107",
-    "isoDate": "2026-03-17T16:33:41.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-gemini-ai-personal-intelligence-tire-suggestion-demo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "now-everyone-in-the-us-is-getting-google-s-personalized-gemini-ai"
   },
   {
     "title": "(No AI) Introducing GPT-5.4 mini and nano",
