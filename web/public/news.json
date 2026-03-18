@@ -1,47 +1,45 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) The Pentagon is developing alternatives to Anthropic, report says",
-    "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-    "pubDate": "Tue, 17 Mar 2026 18:20:15 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-    "contentSnippet": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-    "guid": "https://techcrunch.com/?p=3103334",
+    "creator": "Anna Heim, Rebecca Bellan",
+    "title": "(No AI) Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "pubDate": "Tue, 17 Mar 2026 21:00:00 +0000",
+    "dc:creator": "Anna Heim, Rebecca Bellan",
+    "content": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "contentSnippet": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "guid": "https://techcrunch.com/?p=3103168",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Anthropic",
-      "Elon Musk",
-      "Grok",
-      "In Brief",
-      "OpenAI",
-      "pentagon"
+      "Enterprise",
+      "ai models",
+      "Exclusive",
+      "LLMs",
+      "Mistral AI"
     ],
-    "isoDate": "2026-03-17T18:20:15.000Z",
+    "isoDate": "2026-03-17T21:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-pentagon-is-developing-alternatives-to-anthropic-report-says"
+    "slug": "mistral-bets-on-build-your-own-ai-as-it-takes-on-openai-anthropic-in-the-enterprise"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) BuzzFeed debuts AI slop apps in bid for new revenue",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "pubDate": "Tue, 17 Mar 2026 17:17:15 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-    "contentSnippet": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-    "guid": "https://techcrunch.com/?p=3103244",
+    "creator": "Julie Bort",
+    "title": "(No AI) Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "pubDate": "Tue, 17 Mar 2026 20:50:04 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "contentSnippet": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "guid": "https://techcrunch.com/?p=3103004",
     "categories": [
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "ai apps",
-      "Buzzfeed",
-      "digital"
+      "Startups",
+      "TC",
+      "garry tan",
+      "sxsw 2026",
+      "Y Combinator"
     ],
-    "isoDate": "2026-03-17T17:17:15.000Z",
+    "isoDate": "2026-03-17T20:50:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "buzzfeed-debuts-ai-slop-apps-in-bid-for-new-revenue"
+    "slug": "why-garry-tan-s-claude-code-setup-has-gotten-so-much-love-and-hate"
   },
   {
     "title": "(No AI) Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
@@ -86,18 +84,18 @@
     "slug": "introducing-gpt-5-4-mini-and-nano"
   },
   {
-    "title": "(No AI) Why Codex Security Doesn’t Include a SAST Report",
-    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "pubDate": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "contentSnippet": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "guid": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "title": "(No AI) Equipping workers with insights about compensation",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "pubDate": "Tue, 17 Mar 2026 00:00:00 GMT",
+    "content": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "contentSnippet": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "guid": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
     "categories": [
-      "Product"
+      "Global Affairs"
     ],
-    "isoDate": "2026-03-16T00:00:00.000Z",
+    "isoDate": "2026-03-17T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "why-codex-security-doesn-t-include-a-sast-report"
+    "slug": "equipping-workers-with-insights-about-compensation"
   },
   {
     "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
@@ -123,6 +121,23 @@
   },
   {
     "creator": "Paresh Dave",
+    "title": "(No AI) Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+    "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+    "pubDate": "Wed, 18 Mar 2026 00:51:14 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "contentSnippet": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "guid": "69b9ab33ff58f8e90ded9eff",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-18T00:51:14.000Z",
+    "source": "Wired AI",
+    "slug": "justice-department-says-anthropic-can-t-be-trusted-with-warfighting-systems"
+  },
+  {
+    "creator": "Paresh Dave",
     "title": "(No AI) How Invisalign Became the World’s Biggest User of 3D Printers",
     "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
     "pubDate": "Tue, 17 Mar 2026 11:00:00 +0000",
@@ -137,21 +152,5 @@
     "isoDate": "2026-03-17T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "how-invisalign-became-the-world-s-biggest-user-of-3d-printers"
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "(No AI) Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-    "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-    "pubDate": "Tue, 17 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-    "contentSnippet": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-    "guid": "69b430703c1443d1ac8419bd",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-03-17T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web"
   }
 ]
