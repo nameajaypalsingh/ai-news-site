@@ -1,48 +1,61 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-    "pubDate": "Thu, 19 Mar 2026 16:14:00 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-    "contentSnippet": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-    "guid": "https://techcrunch.com/?p=3104019",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+    "pubDate": "Thu, 19 Mar 2026 19:09:02 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+    "contentSnippet": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+    "guid": "https://techcrunch.com/?p=3104097",
     "categories": [
       "AI",
-      "Apps",
-      "Commerce",
-      "DoorDash"
+      "ai bots",
+      "cloudflare",
+      "genAI",
+      "Internet",
+      "Matthew Prince",
+      "SXSW",
+      "web"
     ],
-    "isoDate": "2026-03-19T16:14:00.000Z",
+    "isoDate": "2026-03-19T19:09:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai"
+    "slug": "online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) TechCrunch Startup Battlefield 200 nominations are still open",
-    "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
-    "pubDate": "Thu, 19 Mar 2026 15:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
-    "contentSnippet": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
-    "guid": "https://techcrunch.com/?p=3103897",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+    "pubDate": "Thu, 19 Mar 2026 17:24:13 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+    "contentSnippet": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+    "guid": "https://techcrunch.com/?p=3104051",
     "categories": [
-      "Startups",
-      "Space",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
       "AI",
       "Apps",
-      "Fundraising",
-      "Startup Battlefield",
-      "TechCrunch Disrupt 2026"
+      "Social",
+      "Facebook",
+      "Instagram",
+      "Meta"
     ],
-    "isoDate": "2026-03-19T15:00:00.000Z",
+    "isoDate": "2026-03-19T17:24:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "techcrunch-startup-battlefield-200-nominations-are-still-open"
+    "slug": "meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors"
+  },
+  {
+    "title": "(No AI) A rogue AI led to a serious security incident at Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+    "pubDate": "2026-03-19T18:20:05.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by [_The Information_](https://www.theinformation.com/articles/inside-meta-rogue-ai-agent-triggers-security-alert). Meta spokesperson Tracy Clayton said in a statement to _The Verge_ that \"no user data was mishandled\" during the incident.\n\nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)",
+    "contentSnippet": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. \nA Meta engineer was using an internal AI agent, which Clayton described as \"similar in nature to OpenClaw within a secure development environment,\" to analyze a technical question another employee posted on an internal company forum. But the agent also independently publicly replied to the question after analyzin …\nRead the full story at The Verge.",
+    "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A [&#8230;]",
+    "id": "https://www.theverge.com/?p=897528",
+    "isoDate": "2026-03-19T18:20:05.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "a-rogue-ai-led-to-a-serious-security-incident-at-meta"
   },
   {
     "title": "(No AI) Adobe’s AI image generator can now be trained on your own art",
@@ -59,18 +72,18 @@
     "slug": "adobe-s-ai-image-generator-can-now-be-trained-on-your-own-art"
   },
   {
-    "title": "(No AI) Fitbit’s AI health coach will soon be able to read your medical records",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-    "pubDate": "2026-03-19T12:27:23.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWould you share your medical records with a personal trainer? How about a virtual one? Google, which this week [announced](https://blog.google/products-and-platforms/devices/fitbit/fitbit-personal-health-coach-updates-2026/) it is giving [Fitbit's AI health coach](https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in) the ability to read your medical records, is hoping the answer is yes, following rivals like [Amazon](https://www.theverge.com/ai-artificial-intelligence/892532/amazon-is-expanding-access-to-its-health-ai-agent), [OpenAI](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records), and [Microsoft](https://www.theverge.com/tech/893594/microsoft-copilot-health-launch) in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice.\n\nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's [AI-powered health …](https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records)",
-    "contentSnippet": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. \nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's AI-powered health  …\nRead the full story at The Verge.",
-    "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade [&#8230;]",
-    "id": "https://www.theverge.com/?p=897250",
-    "isoDate": "2026-03-19T12:27:23.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "fitbit-s-ai-health-coach-will-soon-be-able-to-read-your-medical-records"
+    "title": "(No AI) How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "pubDate": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "content": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "contentSnippet": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "guid": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-03-19T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-we-monitor-internal-coding-agents-for-misalignment"
   },
   {
     "title": "(No AI) OpenAI to acquire Astral",
@@ -85,20 +98,6 @@
     "isoDate": "2026-03-19T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-to-acquire-astral"
-  },
-  {
-    "title": "(No AI) OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "link": "https://openai.com/index/japan-teen-safety-blueprint",
-    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "content": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "contentSnippet": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "guid": "https://openai.com/index/japan-teen-safety-blueprint",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-03-17T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-japan-announces-japan-teen-safety-blueprint-to-put-teen-safety-first"
   },
   {
     "title": "(No AI) Measuring progress toward AGI: A cognitive framework",
@@ -123,6 +122,23 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+    "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+    "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+    "contentSnippet": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+    "guid": "69bbfe9b32d17161ad16193a",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-19T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "google-shakes-up-its-browser-agent-team-amid-openclaw-craze"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
     "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
@@ -139,24 +155,5 @@
     "isoDate": "2026-03-19T16:06:49.000Z",
     "source": "Wired AI",
     "slug": "chatgpt-s-adult-mode-could-spark-a-new-era-of-intimate-surveillance"
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "(No AI) Signal’s Creator Is Helping Encrypt Meta AI",
-    "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-    "pubDate": "Thu, 19 Mar 2026 14:09:51 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
-    "contentSnippet": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
-    "guid": "69baaa2eb29ba5f706fcfd9a",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-19T14:09:51.000Z",
-    "source": "Wired AI",
-    "slug": "signal-s-creator-is-helping-encrypt-meta-ai"
   }
 ]
