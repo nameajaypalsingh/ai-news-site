@@ -1,48 +1,42 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-    "pubDate": "Wed, 18 Mar 2026 20:30:52 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-    "contentSnippet": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-    "guid": "https://techcrunch.com/?p=3103772",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Meta is having trouble with rogue AI agents",
+    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "pubDate": "Wed, 18 Mar 2026 23:42:46 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+    "contentSnippet": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+    "guid": "https://techcrunch.com/?p=3103862",
     "categories": [
       "AI",
-      "Apps",
-      "Hardware",
-      "AI agents",
-      "Carl Pei",
-      "nothing",
-      "smartphones"
+      "agentic ai",
+      "In Brief",
+      "Meta",
+      "openclaw"
     ],
-    "isoDate": "2026-03-18T20:30:52.000Z",
+    "isoDate": "2026-03-18T23:42:46.000Z",
     "source": "TechCrunch AI",
-    "slug": "nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place"
+    "slug": "meta-is-having-trouble-with-rogue-ai-agents"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-    "pubDate": "Wed, 18 Mar 2026 20:01:19 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-    "contentSnippet": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-    "guid": "https://techcrunch.com/?p=3102415",
+    "creator": "Julie Bort",
+    "title": "(No AI) Sam Altman’s thank-you to coders draws the memes",
+    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "pubDate": "Wed, 18 Mar 2026 23:12:58 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+    "contentSnippet": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+    "guid": "https://techcrunch.com/?p=3103828",
     "categories": [
       "AI",
-      "Enterprise",
-      "artificial intelligence",
-      "networking",
-      "nvidia",
-      "nvidia gtc",
-      "Nvidia GTC 2026",
-      "Nvidia Networking"
+      "TC",
+      "Layoffs",
+      "sam altman"
     ],
-    "isoDate": "2026-03-18T20:01:19.000Z",
+    "isoDate": "2026-03-18T23:12:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-is-quietly-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business"
+    "slug": "sam-altman-s-thank-you-to-coders-draws-the-memes"
   },
   {
     "title": "(No AI) David Sacks’ big Iran warning gets big time ignored",
