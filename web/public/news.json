@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Amazon brings Alexa+ to the UK",
+    "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+    "pubDate": "Thu, 19 Mar 2026 12:27:24 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+    "contentSnippet": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+    "guid": "https://techcrunch.com/?p=3103932",
+    "categories": [
+      "AI",
+      "Apps",
+      "Alexa",
+      "alexa+",
+      "Amazon",
+      "UK"
+    ],
+    "isoDate": "2026-03-19T12:27:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "amazon-brings-alexa-to-the-uk"
+  },
+  {
     "creator": "Anna Heim",
     "title": "(No AI) Multiverse Computing pushes its compressed AI models into the mainstream",
     "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
@@ -19,66 +40,46 @@
     "slug": "multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Meta is having trouble with rogue AI agents",
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "pubDate": "Wed, 18 Mar 2026 23:42:46 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-    "contentSnippet": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-    "guid": "https://techcrunch.com/?p=3103862",
-    "categories": [
-      "AI",
-      "agentic ai",
-      "In Brief",
-      "Meta",
-      "openclaw"
-    ],
-    "isoDate": "2026-03-18T23:42:46.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-is-having-trouble-with-rogue-ai-agents"
-  },
-  {
-    "title": "(No AI) David Sacks’ big Iran warning gets big time ignored",
-    "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
-    "pubDate": "2026-03-18T18:44:21.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a_ Verge _subscriber yet, you should sign up_ [_right here_](https://www.theverge.com/subscribe%5D)_, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?_\n\n_Do you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)**_._** _Or, if you're truly tech-pilled …_\n\n[Read the full story at The Verge.](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)",
-    "contentSnippet": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun?\nDo you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to tina.nguyen+tips@theverge.com. Or, if you're truly tech-pilled …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]",
-    "id": "https://www.theverge.com/896949/ai-is-now-part-of-the-culture-wars-and-real-wars",
-    "isoDate": "2026-03-18T18:44:21.000Z",
+    "title": "(No AI) Adobe’s AI image generator can now be trained on your own art",
+    "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+    "pubDate": "2026-03-19T13:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![An illustrated image representing Adobe’s Custom Firefly AI Model public beta.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\n\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta)",
+    "contentSnippet": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\t\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\nRead the full story at The Verge.",
+    "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims [&#8230;]",
+    "id": "https://www.theverge.com/?p=897243",
+    "isoDate": "2026-03-19T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2203279318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "david-sacks-big-iran-warning-gets-big-time-ignored"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "adobe-s-ai-image-generator-can-now-be-trained-on-your-own-art"
   },
   {
-    "title": "(No AI) ChatGPT did not cure a dog’s cancer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-    "pubDate": "2026-03-18T18:14:39.000Z",
+    "title": "(No AI) Fitbit’s AI health coach will soon be able to read your medical records",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+    "pubDate": "2026-03-19T12:27:23.000Z",
     "author": "Robert Hart",
-    "content": "![AI doctor with computer for head.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&strip=all&crop=0,0,100,100)\n\nWhen an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\n\nThe version of the story that made the rounds online, first [reported](https://www.theaustralian.com.au/business%2Ftechnology%2Ftech-boss-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog%2Fnews-story%2F292a21bcbe93efa17810bfcfcdfadbf7?amp&nk=7c7dcd7071a2080ab95fee11bd99e3a3-1773763693) by _The Australian_, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer)",
-    "contentSnippet": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated.\nThe version of the story that made the rounds online, first reported by The Australian, was relatively straightforward. In 2024, Sydney-based Paul Conyngham learned that his dog Rosie had cancer. Chemotherapy slowed the disease but failed to shrink the tumors. After vets said \"nothing could be done\" for the Staffordshire  …\nRead the full story at The Verge.",
-    "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]",
-    "id": "https://www.theverge.com/?p=896878",
-    "isoDate": "2026-03-18T18:14:39.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWould you share your medical records with a personal trainer? How about a virtual one? Google, which this week [announced](https://blog.google/products-and-platforms/devices/fitbit/fitbit-personal-health-coach-updates-2026/) it is giving [Fitbit's AI health coach](https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in) the ability to read your medical records, is hoping the answer is yes, following rivals like [Amazon](https://www.theverge.com/ai-artificial-intelligence/892532/amazon-is-expanding-access-to-its-health-ai-agent), [OpenAI](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records), and [Microsoft](https://www.theverge.com/tech/893594/microsoft-copilot-health-launch) in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice.\n\nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's [AI-powered health …](https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records)",
+    "contentSnippet": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade their most sensitive data in exchange for more personalized health advice. \nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app. That medical data - such as lab results, medications, and visit history - will, alongside wearable data, help Fitbit's AI-powered health  …\nRead the full story at The Verge.",
+    "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records, is hoping the answer is yes, following rivals like Amazon, OpenAI, and Microsoft in betting that users are willing to trade [&#8230;]",
+    "id": "https://www.theverge.com/?p=897250",
+    "isoDate": "2026-03-19T12:27:23.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS524_AI_HEALTH_A.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chatgpt-did-not-cure-a-dog-s-cancer"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "fitbit-s-ai-health-coach-will-soon-be-able-to-read-your-medical-records"
   },
   {
-    "title": "(No AI) Introducing GPT-5.4 mini and nano",
-    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "content": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-    "contentSnippet": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-    "guid": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "title": "(No AI) OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "pubDate": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "content": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "contentSnippet": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "guid": "https://openai.com/index/openai-to-acquire-astral",
     "categories": [
       "Company"
     ],
-    "isoDate": "2026-03-17T10:00:00.000Z",
+    "isoDate": "2026-03-19T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-gpt-5-4-mini-and-nano"
+    "slug": "openai-to-acquire-astral"
   },
   {
     "title": "(No AI) OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -117,6 +118,24 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Varsha Bansal",
+    "title": "(No AI) The Fight to Hold AI Companies Accountable for Children’s Deaths",
+    "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+    "pubDate": "Thu, 19 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Varsha Bansal",
+    "content": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
+    "contentSnippet": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
+    "guid": "691cbd27c32b98bfa2a4ae32",
+    "categories": [
+      "Business",
+      "Business / Regulation",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-19T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-fight-to-hold-ai-companies-accountable-for-children-s-deaths"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
     "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
@@ -132,22 +151,5 @@
     "isoDate": "2026-03-18T18:01:18.000Z",
     "source": "Wired AI",
     "slug": "why-walmart-and-openai-are-shaking-up-their-agentic-shopping-deal"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-    "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-    "pubDate": "Wed, 18 Mar 2026 00:51:14 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-    "contentSnippet": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-    "guid": "69b9ab33ff58f8e90ded9eff",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-18T00:51:14.000Z",
-    "source": "Wired AI",
-    "slug": "justice-department-says-anthropic-can-t-be-trusted-with-warfighting-systems"
   }
 ]
