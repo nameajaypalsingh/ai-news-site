@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anna Heim",
+    "title": "(No AI) Multiverse Computing pushes its compressed AI models into the mainstream",
+    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+    "pubDate": "Thu, 19 Mar 2026 08:00:00 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+    "contentSnippet": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+    "guid": "https://techcrunch.com/?p=3103843",
+    "categories": [
+      "AI",
+      "ai models",
+      "multiverse computing",
+      "compactifAI"
+    ],
+    "isoDate": "2026-03-19T08:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Meta is having trouble with rogue AI agents",
     "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
@@ -18,25 +37,6 @@
     "isoDate": "2026-03-18T23:42:46.000Z",
     "source": "TechCrunch AI",
     "slug": "meta-is-having-trouble-with-rogue-ai-agents"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Sam Altman’s thank-you to coders draws the memes",
-    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-    "pubDate": "Wed, 18 Mar 2026 23:12:58 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-    "contentSnippet": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-    "guid": "https://techcrunch.com/?p=3103828",
-    "categories": [
-      "AI",
-      "TC",
-      "Layoffs",
-      "sam altman"
-    ],
-    "isoDate": "2026-03-18T23:12:58.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sam-altman-s-thank-you-to-coders-draws-the-memes"
   },
   {
     "title": "(No AI) David Sacks’ big Iran warning gets big time ignored",
