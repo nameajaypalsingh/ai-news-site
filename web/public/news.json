@@ -1,43 +1,48 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Amazon brings Alexa+ to the UK",
-    "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
-    "pubDate": "Thu, 19 Mar 2026 12:27:24 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
-    "contentSnippet": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
-    "guid": "https://techcrunch.com/?p=3103932",
+    "creator": "Aisha Malik",
+    "title": "(No AI) DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "pubDate": "Thu, 19 Mar 2026 16:14:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+    "contentSnippet": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+    "guid": "https://techcrunch.com/?p=3104019",
     "categories": [
       "AI",
       "Apps",
-      "Alexa",
-      "alexa+",
-      "Amazon",
-      "UK"
+      "Commerce",
+      "DoorDash"
     ],
-    "isoDate": "2026-03-19T12:27:24.000Z",
+    "isoDate": "2026-03-19T16:14:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-brings-alexa-to-the-uk"
+    "slug": "doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Multiverse Computing pushes its compressed AI models into the mainstream",
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "pubDate": "Thu, 19 Mar 2026 08:00:00 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-    "contentSnippet": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
-    "guid": "https://techcrunch.com/?p=3103843",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) TechCrunch Startup Battlefield 200 nominations are still open",
+    "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+    "pubDate": "Thu, 19 Mar 2026 15:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+    "contentSnippet": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+    "guid": "https://techcrunch.com/?p=3103897",
     "categories": [
+      "Startups",
+      "Space",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
       "AI",
-      "ai models",
-      "multiverse computing",
-      "compactifAI"
+      "Apps",
+      "Fundraising",
+      "Startup Battlefield",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-03-19T08:00:00.000Z",
+    "isoDate": "2026-03-19T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream"
+    "slug": "techcrunch-startup-battlefield-200-nominations-are-still-open"
   },
   {
     "title": "(No AI) Adobe’s AI image generator can now be trained on your own art",
@@ -118,38 +123,40 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
-    "creator": "Varsha Bansal",
-    "title": "(No AI) The Fight to Hold AI Companies Accountable for Children’s Deaths",
-    "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-    "pubDate": "Thu, 19 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Varsha Bansal",
-    "content": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-    "contentSnippet": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
-    "guid": "691cbd27c32b98bfa2a4ae32",
+    "creator": "Reece Rogers",
+    "title": "(No AI) ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+    "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+    "pubDate": "Thu, 19 Mar 2026 16:06:49 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+    "contentSnippet": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+    "guid": "69bbfd18fd75ae0f6f7d15f8",
     "categories": [
-      "Business",
-      "Business / Regulation",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Lifestyle"
     ],
-    "isoDate": "2026-03-19T10:00:00.000Z",
+    "isoDate": "2026-03-19T16:06:49.000Z",
     "source": "Wired AI",
-    "slug": "the-fight-to-hold-ai-companies-accountable-for-children-s-deaths"
+    "slug": "chatgpt-s-adult-mode-could-spark-a-new-era-of-intimate-surveillance"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-    "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-    "pubDate": "Wed, 18 Mar 2026 18:01:18 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-    "contentSnippet": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-    "guid": "69b9a94a8332a5b66668179d",
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) Signal’s Creator Is Helping Encrypt Meta AI",
+    "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+    "pubDate": "Thu, 19 Mar 2026 14:09:51 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+    "contentSnippet": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+    "guid": "69baaa2eb29ba5f706fcfd9a",
     "categories": [
-      "Business",
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-18T18:01:18.000Z",
+    "isoDate": "2026-03-19T14:09:51.000Z",
     "source": "Wired AI",
-    "slug": "why-walmart-and-openai-are-shaking-up-their-agentic-shopping-deal"
+    "slug": "signal-s-creator-is-helping-encrypt-meta-ai"
   }
 ]
