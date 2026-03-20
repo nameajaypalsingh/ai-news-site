@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "pubDate": "Thu, 19 Mar 2026 22:09:24 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+    "contentSnippet": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+    "guid": "https://techcrunch.com/?p=3104201",
+    "categories": [
+      "AI",
+      "Amazon",
+      "jeff bezos",
+      "project prometheus"
+    ],
+    "isoDate": "2026-03-19T22:09:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
     "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
@@ -23,25 +42,18 @@
     "slug": "online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "pubDate": "Thu, 19 Mar 2026 17:24:13 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-    "contentSnippet": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-    "guid": "https://techcrunch.com/?p=3104051",
-    "categories": [
-      "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "Instagram",
-      "Meta"
-    ],
-    "isoDate": "2026-03-19T17:24:13.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors"
+    "title": "(No AI) OpenAI is planning a desktop ‘superapp’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+    "pubDate": "2026-03-20T00:09:38.000Z",
+    "author": "Jay Peters",
+    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, [_The Wall Street Journal_ reports](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?mod=author_content_page_1_pos_1). The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the _WSJ_ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said.\n\nOpenAI made waves last year with splashy announcements like the [Sora video app](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends) and [buying Jony Ive's AI hardware company](https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple). But it has been facing increased competition from Anthropic as of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp)",
+    "contentSnippet": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ from Fidji Simo, OpenAI's CEO of Applications. Fragmentation \"has been slowing us down and making it harder to hit the quality bar we want,\" Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive's AI hardware company. But it has been facing increased competition from Anthropic as of  …\nRead the full story at The Verge.",
+    "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]",
+    "id": "https://www.theverge.com/?p=897778",
+    "isoDate": "2026-03-20T00:09:38.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-is-planning-a-desktop-superapp"
   },
   {
     "title": "(No AI) A rogue AI led to a serious security incident at Meta",
@@ -56,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "a-rogue-ai-led-to-a-serious-security-incident-at-meta"
-  },
-  {
-    "title": "(No AI) Adobe’s AI image generator can now be trained on your own art",
-    "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-    "pubDate": "2026-03-19T13:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![An illustrated image representing Adobe’s Custom Firefly AI Model public beta.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\n\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta)",
-    "contentSnippet": "Just feed your images into the bot and it’ll try to mimic specific styles and aesthetics. | Image: Adobe\t\n\nAdobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography.\nThe tool aims to streamline workflows for teams and creators that need to produce high volumes of content, providing a reusable foundation that preserves visual consistency across multiple projects, instead of having to start from scratch each time. Adobe says that custom models can help pr …\nRead the full story at The Verge.",
-    "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims [&#8230;]",
-    "id": "https://www.theverge.com/?p=897243",
-    "isoDate": "2026-03-19T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-s-ai-image-generator-can-now-be-trained-on-your-own-art"
   },
   {
     "title": "(No AI) How we monitor internal coding agents for misalignment",
@@ -122,6 +120,23 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Brian Barrett, Zoë Schiffer",
+    "title": "(No AI) ‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+    "pubDate": "Thu, 19 Mar 2026 21:43:56 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer",
+    "content": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+    "contentSnippet": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+    "guid": "69baf1afb2b641906b1ec590",
+    "categories": [
+      "Business",
+      "Business / Computers and Software"
+    ],
+    "isoDate": "2026-03-19T21:43:56.000Z",
+    "source": "Wired AI",
+    "slug": "uncanny-valley-nvidia-s-super-bowl-of-ai-tesla-disappoints-and-meta-s-vr-metaverse-shutdown"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
     "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
@@ -137,23 +152,5 @@
     "isoDate": "2026-03-19T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "google-shakes-up-its-browser-agent-team-amid-openclaw-craze"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
-    "link": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-    "pubDate": "Thu, 19 Mar 2026 16:06:49 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-    "contentSnippet": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-    "guid": "69bbfd18fd75ae0f6f7d15f8",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Lifestyle"
-    ],
-    "isoDate": "2026-03-19T16:06:49.000Z",
-    "source": "Wired AI",
-    "slug": "chatgpt-s-adult-mode-could-spark-a-new-era-of-intimate-surveillance"
   }
 ]
