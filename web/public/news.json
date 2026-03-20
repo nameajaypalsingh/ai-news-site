@@ -1,45 +1,48 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "pubDate": "Thu, 19 Mar 2026 22:09:24 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-    "contentSnippet": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-    "guid": "https://techcrunch.com/?p=3104201",
+    "creator": "Tim De Chant",
+    "title": "(No AI) The best AI investment might be in energy tech",
+    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "pubDate": "Fri, 20 Mar 2026 12:00:00 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+    "contentSnippet": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+    "guid": "https://techcrunch.com/?p=3097938",
     "categories": [
+      "Climate",
+      "Venture",
       "AI",
-      "Amazon",
-      "jeff bezos",
-      "project prometheus"
+      "Batteries",
+      "energy",
+      "energy storage",
+      "Exclusive",
+      "electrical grid"
     ],
-    "isoDate": "2026-03-19T22:09:24.000Z",
+    "isoDate": "2026-03-20T12:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai"
+    "slug": "the-best-ai-investment-might-be-in-energy-tech"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "pubDate": "Thu, 19 Mar 2026 19:09:02 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-    "contentSnippet": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-    "guid": "https://techcrunch.com/?p=3104097",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "pubDate": "Fri, 20 Mar 2026 11:31:38 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+    "contentSnippet": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+    "guid": "https://techcrunch.com/?p=3088174",
     "categories": [
       "AI",
-      "ai bots",
-      "cloudflare",
-      "genAI",
-      "Internet",
-      "Matthew Prince",
-      "SXSW",
-      "web"
+      "Gadgets",
+      "AI notetakers",
+      "evergreen",
+      "evergreens",
+      "meeting notes",
+      "plaud"
     ],
-    "isoDate": "2026-03-19T19:09:02.000Z",
+    "isoDate": "2026-03-20T11:31:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says"
+    "slug": "these-ai-notetaking-devices-can-help-you-record-and-transcribe-your-meetings"
   },
   {
     "title": "(No AI) OpenAI is planning a desktop ‘superapp’",
@@ -120,37 +123,38 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer",
-    "title": "(No AI) ‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
-    "pubDate": "Thu, 19 Mar 2026 21:43:56 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer",
-    "content": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
-    "contentSnippet": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
-    "guid": "69baf1afb2b641906b1ec590",
+    "creator": "Jaclyn Greenberg",
+    "title": "(No AI) I Learned More Than I Thought I Would From Using Food-Tracking Apps",
+    "link": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
+    "pubDate": "Fri, 20 Mar 2026 10:30:00 +0000",
+    "dc:creator": "Jaclyn Greenberg",
+    "content": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
+    "contentSnippet": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
+    "guid": "69b9d25d7f83f721f6c308bf",
     "categories": [
-      "Business",
-      "Business / Computers and Software"
+      "Gear",
+      "Gear / Trends"
     ],
-    "isoDate": "2026-03-19T21:43:56.000Z",
+    "isoDate": "2026-03-20T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "uncanny-valley-nvidia-s-super-bowl-of-ai-tesla-disappoints-and-meta-s-vr-metaverse-shutdown"
+    "slug": "i-learned-more-than-i-thought-i-would-from-using-food-tracking-apps"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-    "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-    "pubDate": "Thu, 19 Mar 2026 18:00:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-    "contentSnippet": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-    "guid": "69bbfe9b32d17161ad16193a",
+    "creator": "Evan Ratliff",
+    "title": "(No AI) My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
+    "link": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
+    "pubDate": "Fri, 20 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Evan Ratliff",
+    "content": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
+    "contentSnippet": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
+    "guid": "69bb15c4e18db3998f1759ab",
     "categories": [
+      "The Big Story",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-19T18:00:00.000Z",
+    "isoDate": "2026-03-20T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "google-shakes-up-its-browser-agent-team-amid-openclaw-craze"
+    "slug": "my-ai-agent-cofounder-conquered-linkedin-then-it-got-banned"
   }
 ]
