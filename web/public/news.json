@@ -1,44 +1,67 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) WordPress.com now lets AI agents write and publish posts, and more",
-    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-    "pubDate": "Fri, 20 Mar 2026 16:43:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-    "contentSnippet": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-    "guid": "https://techcrunch.com/?p=3104367",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "pubDate": "Fri, 20 Mar 2026 20:02:35 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia \\[…\\]",
+    "contentSnippet": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3104584",
     "categories": [
       "AI",
-      "Publishing",
-      "WordPress",
-      "wordpress.com",
-      "AI agents"
+      "Startups",
+      "Equity",
+      "Jensen Huang",
+      "nvidia",
+      "Nvidia GTC 2026",
+      "Roundup",
+      "Travis Kalanick"
     ],
-    "isoDate": "2026-03-20T16:43:09.000Z",
+    "isoDate": "2026-03-20T20:02:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more"
+    "slug": "what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Trump’s AI framework targets state laws, shifts child safety burden to parents",
-    "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-    "pubDate": "Fri, 20 Mar 2026 16:14:04 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-    "contentSnippet": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-    "guid": "https://techcrunch.com/?p=3104374",
+    "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
+    "title": "(No AI) Nvidia has an OpenClaw strategy. Do you? ",
+    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "pubDate": "Fri, 20 Mar 2026 19:48:38 +0000",
+    "dc:creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
+    "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia \\[…\\]",
+    "contentSnippet": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3104544",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Trump",
-      "state aI regulation",
-      "trump national ai framework",
-      "AI preemption"
+      "Startups",
+      "AI chips",
+      "Equity podcast",
+      "Frore",
+      "garry tan",
+      "nvidia",
+      "Nvidia GTC 2026",
+      "Rivian",
+      "Travis Kalanick",
+      "Uber",
+      "xAI"
     ],
-    "isoDate": "2026-03-20T16:14:04.000Z",
+    "isoDate": "2026-03-20T19:48:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "trump-s-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents"
+    "slug": "nvidia-has-an-openclaw-strategy-do-you"
+  },
+  {
+    "title": "(No AI) Trump takes another shot at dismantling state AI regulation",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+    "pubDate": "2026-03-20T18:17:02.000Z",
+    "author": "Hayden Field",
+    "content": "![Digital photo collage of a judge with gavel whose hands has too many fingers.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\"\n\nThe [plan](https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf) advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI infrastructure. It encourages \"youth development and skills training\" to boost familiarity with AI tools, without much further detail. But it suggests …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework)",
+    "contentSnippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" \nThe plan advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI infrastructure. It encourages \"youth development and skills training\" to boost familiarity with AI tools, without much further detail. But it suggests …\nRead the full story at The Verge.",
+    "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises [&#8230;]",
+    "id": "https://www.theverge.com/?p=898055",
+    "isoDate": "2026-03-20T18:17:02.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-takes-another-shot-at-dismantling-state-ai-regulation"
   },
   {
     "title": "(No AI) Google Search is now using AI to replace headlines",
@@ -53,20 +76,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "google-search-is-now-using-ai-to-replace-headlines"
-  },
-  {
-    "title": "(No AI) Amazon is making an Alexa phone",
-    "link": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-    "pubDate": "2026-03-20T13:42:51.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![An illustration of the Amazon logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOver 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to [_Reuters_](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/), the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\"\n\n\"Transformer\" is currently in development in Amazon's ZeroOne group, led by J Allard, who previously worked on the Zune and Xbox at Microsoft. Allard's team has reportedly explored both smartphone and \"dumbphone\" designs, taking inspiration from the $700 [minimalist Light Phone](https://www.theverge.com/reviews/637178/light-phone-iii-review-minimalist-smartphone), which features a black-and-white display and lack …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone)",
-    "contentSnippet": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \n\"Transformer\" is currently in development in Amazon's ZeroOne group, led by J Allard, who previously worked on the Zune and Xbox at Microsoft. Allard's team has reportedly explored both smartphone and \"dumbphone\" designs, taking inspiration from the $700 minimalist Light Phone, which features a black-and-white display and lack …\nRead the full story at The Verge.",
-    "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's [&#8230;]",
-    "id": "https://www.theverge.com/?p=897915",
-    "isoDate": "2026-03-20T13:42:51.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-is-making-an-alexa-phone"
   },
   {
     "title": "(No AI) How we monitor internal coding agents for misalignment",
@@ -119,6 +128,24 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Boone Ashworth, Luke Larsen",
+    "title": "(No AI) Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+    "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+    "pubDate": "Fri, 20 Mar 2026 19:13:19 +0000",
+    "dc:creator": "Boone Ashworth, Luke Larsen",
+    "content": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
+    "contentSnippet": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
+    "guid": "69bce15cbc034b1615b90780",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Gaming"
+    ],
+    "isoDate": "2026-03-20T19:13:19.000Z",
+    "source": "Wired AI",
+    "slug": "gamers-hate-nvidia-s-dlss-5-developers-aren-t-crazy-about-it-either"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) At Palantir’s Developer Conference, AI Is Built to Win Wars",
     "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
@@ -134,22 +161,5 @@
     "isoDate": "2026-03-20T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "at-palantir-s-developer-conference-ai-is-built-to-win-wars"
-  },
-  {
-    "creator": "Jaclyn Greenberg",
-    "title": "(No AI) I Learned More Than I Thought I Would From Using Food-Tracking Apps",
-    "link": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
-    "pubDate": "Fri, 20 Mar 2026 10:30:00 +0000",
-    "dc:creator": "Jaclyn Greenberg",
-    "content": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
-    "contentSnippet": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
-    "guid": "69b9d25d7f83f721f6c308bf",
-    "categories": [
-      "Gear",
-      "Gear / Trends"
-    ],
-    "isoDate": "2026-03-20T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-learned-more-than-i-thought-i-would-from-using-food-tracking-apps"
   }
 ]
