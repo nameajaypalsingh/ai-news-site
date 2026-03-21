@@ -1,53 +1,40 @@
 [
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-    "pubDate": "Fri, 20 Mar 2026 20:02:35 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia \\[…\\]",
-    "contentSnippet": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3104584",
+    "creator": "Connie Loizos",
+    "title": "(No AI) New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "pubDate": "Sat, 21 Mar 2026 01:40:28 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+    "contentSnippet": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+    "guid": "https://techcrunch.com/?p=3104644",
     "categories": [
-      "AI",
-      "Startups",
-      "Equity",
-      "Jensen Huang",
-      "nvidia",
-      "Nvidia GTC 2026",
-      "Roundup",
-      "Travis Kalanick"
+      "AI"
     ],
-    "isoDate": "2026-03-20T20:02:35.000Z",
+    "isoDate": "2026-03-21T01:40:28.000Z",
     "source": "TechCrunch AI",
-    "slug": "what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet"
+    "slug": "new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput"
   },
   {
-    "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-    "title": "(No AI) Nvidia has an OpenClaw strategy. Do you? ",
-    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-    "pubDate": "Fri, 20 Mar 2026 19:48:38 +0000",
-    "dc:creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-    "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia \\[…\\]",
-    "contentSnippet": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3104544",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "pubDate": "Fri, 20 Mar 2026 20:53:09 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "contentSnippet": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "guid": "https://techcrunch.com/?p=3104590",
     "categories": [
       "AI",
-      "Startups",
-      "AI chips",
-      "Equity podcast",
-      "Frore",
-      "garry tan",
-      "nvidia",
-      "Nvidia GTC 2026",
-      "Rivian",
-      "Travis Kalanick",
-      "Uber",
-      "xAI"
+      "TC",
+      "Copilot",
+      "Microsoft",
+      "Windows",
+      "windows 11"
     ],
-    "isoDate": "2026-03-20T19:48:38.000Z",
+    "isoDate": "2026-03-20T20:53:09.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-has-an-openclaw-strategy-do-you"
+    "slug": "microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
   },
   {
     "title": "(No AI) Trump takes another shot at dismantling state AI regulation",
@@ -128,38 +115,38 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
-    "creator": "Boone Ashworth, Luke Larsen",
-    "title": "(No AI) Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
-    "link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-    "pubDate": "Fri, 20 Mar 2026 19:13:19 +0000",
-    "dc:creator": "Boone Ashworth, Luke Larsen",
-    "content": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-    "contentSnippet": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-    "guid": "69bce15cbc034b1615b90780",
+    "creator": "Paresh Dave",
+    "title": "(No AI) Anthropic Denies It Could Sabotage AI Tools During War",
+    "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+    "pubDate": "Sat, 21 Mar 2026 00:03:20 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+    "contentSnippet": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+    "guid": "69bdd2b0c2b333785bb099ea",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-21T00:03:20.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-denies-it-could-sabotage-ai-tools-during-war"
+  },
+  {
+    "creator": "Julian Chokkattu",
+    "title": "(No AI) There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+    "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
+    "pubDate": "Fri, 20 Mar 2026 22:03:09 +0000",
+    "dc:creator": "Julian Chokkattu",
+    "content": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
+    "contentSnippet": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
+    "guid": "69bd4f90fcdccbf431ec9595",
     "categories": [
       "Gear",
       "Gear / Gear News and Events",
-      "Gear / Products / Gaming"
+      "Gear / Products / Phones"
     ],
-    "isoDate": "2026-03-20T19:13:19.000Z",
+    "isoDate": "2026-03-20T22:03:09.000Z",
     "source": "Wired AI",
-    "slug": "gamers-hate-nvidia-s-dlss-5-developers-aren-t-crazy-about-it-either"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) At Palantir’s Developer Conference, AI Is Built to Win Wars",
-    "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
-    "pubDate": "Fri, 20 Mar 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-    "contentSnippet": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-    "guid": "69b83cce85df0f771cd527a4",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-03-20T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "at-palantir-s-developer-conference-ai-is-built-to-win-wars"
+    "slug": "there-aren-t-a-lot-of-reasons-to-get-excited-about-a-new-amazon-smartphone"
   }
 ]
