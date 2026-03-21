@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "pubDate": "Sat, 21 Mar 2026 16:28:00 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+    "contentSnippet": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+    "guid": "https://techcrunch.com/?p=3104563",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "AI chips",
+      "artificial intelligence",
+      "nvidia",
+      "nvidia gtc"
+    ],
+    "isoDate": "2026-03-21T16:28:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-wall-street-wasn-t-won-over-by-nvidia-s-big-conference"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
     "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
@@ -16,25 +37,18 @@
     "slug": "new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Microsoft rolls back some of its Copilot AI bloat on Windows",
-    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-    "pubDate": "Fri, 20 Mar 2026 20:53:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-    "contentSnippet": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-    "guid": "https://techcrunch.com/?p=3104590",
-    "categories": [
-      "AI",
-      "TC",
-      "Copilot",
-      "Microsoft",
-      "Windows",
-      "windows 11"
-    ],
-    "isoDate": "2026-03-20T20:53:09.000Z",
-    "source": "TechCrunch AI",
-    "slug": "microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
+    "title": "(No AI) The gen AI Kool-Aid tastes like eugenics",
+    "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+    "pubDate": "2026-03-21T14:00:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![An AI-generated image of a bunch of white men standing around and looking at a half-full pitcher of Kool-Aid placed on an elevated stage.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&strip=all&crop=0,0,100,100)\n\nLike many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images dripping with racism and sexism.\n\nVeatch was even more unsettled by the way her new AI-enthusiast peers did not seem to care that the machine they ralli …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview)",
+    "contentSnippet": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images dripping with racism and sexism.\nVeatch was even more unsettled by the way her new AI-enthusiast peers did not seem to care that the machine they ralli …\nRead the full story at The Verge.",
+    "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The [&#8230;]",
+    "id": "https://www.theverge.com/?p=897923",
+    "isoDate": "2026-03-21T14:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-gen-ai-kool-aid-tastes-like-eugenics"
   },
   {
     "title": "(No AI) Gemini task automation is slow, clunky, and super impressive",
@@ -49,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "gemini-task-automation-is-slow-clunky-and-super-impressive"
-  },
-  {
-    "title": "(No AI) Trump takes another shot at dismantling state AI regulation",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-    "pubDate": "2026-03-20T18:17:02.000Z",
-    "author": "Hayden Field",
-    "content": "![Digital photo collage of a judge with gavel whose hands has too many fingers.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\"\n\nThe [plan](https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf) advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI infrastructure. It encourages \"youth development and skills training\" to boost familiarity with AI tools, without much further detail. But it suggests …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework)",
-    "contentSnippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" \nThe plan advises Congress to protect minors using AI services with more safeguards and take action to attempt to prevent electricity costs from spiking due to AI infrastructure. It encourages \"youth development and skills training\" to boost familiarity with AI tools, without much further detail. But it suggests …\nRead the full story at The Verge.",
-    "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises [&#8230;]",
-    "id": "https://www.theverge.com/?p=898055",
-    "isoDate": "2026-03-20T18:17:02.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-takes-another-shot-at-dismantling-state-ai-regulation"
   },
   {
     "title": "(No AI) How we monitor internal coding agents for misalignment",
