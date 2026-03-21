@@ -1,40 +1,41 @@
 [
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Why Wall Street wasn’t won over by Nvidia’s big conference",
-    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-    "pubDate": "Sat, 21 Mar 2026 16:28:00 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-    "contentSnippet": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-    "guid": "https://techcrunch.com/?p=3104563",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "pubDate": "Sat, 21 Mar 2026 19:30:27 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+    "contentSnippet": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+    "guid": "https://techcrunch.com/?p=3104688",
     "categories": [
       "AI",
-      "Enterprise",
-      "AI chips",
-      "artificial intelligence",
-      "nvidia",
-      "nvidia gtc"
+      "Media & Entertainment",
+      "Hachette",
+      "shy girl"
     ],
-    "isoDate": "2026-03-21T16:28:00.000Z",
+    "isoDate": "2026-03-21T19:30:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-wall-street-wasn-t-won-over-by-nvidia-s-big-conference"
+    "slug": "publisher-pulls-horror-novel-shy-girl-over-ai-concerns"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-    "pubDate": "Sat, 21 Mar 2026 01:40:28 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-    "contentSnippet": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-    "guid": "https://techcrunch.com/?p=3104644",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "pubDate": "Sat, 21 Mar 2026 17:00:05 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "contentSnippet": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "guid": "https://techcrunch.com/?p=3104674",
     "categories": [
-      "AI"
+      "AI",
+      "Security",
+      "Startups",
+      "Delve"
     ],
-    "isoDate": "2026-03-21T01:40:28.000Z",
+    "isoDate": "2026-03-21T17:00:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput"
+    "slug": "delve-accused-of-misleading-customers-with-fake-compliance"
   },
   {
     "title": "(No AI) The gen AI Kool-Aid tastes like eugenics",
