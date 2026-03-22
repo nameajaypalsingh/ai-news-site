@@ -1,39 +1,58 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-    "pubDate": "Sun, 22 Mar 2026 16:20:00 +0000",
+    "title": "(No AI) Do you want to build a robot snowman?",
+    "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+    "pubDate": "Sun, 22 Mar 2026 19:45:07 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-    "contentSnippet": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-    "guid": "https://techcrunch.com/?p=3104720",
+    "content": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+    "contentSnippet": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+    "guid": "https://techcrunch.com/?p=3104729",
     "categories": [
-      "Hardware",
-      "AI"
+      "AI",
+      "Robotics",
+      "Disney",
+      "GTC",
+      "Jensen Huang",
+      "nvidia"
     ],
-    "isoDate": "2026-03-22T16:20:00.000Z",
+    "isoDate": "2026-03-22T19:45:07.000Z",
     "source": "TechCrunch AI",
-    "slug": "elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla"
+    "slug": "do-you-want-to-build-a-robot-snowman"
   },
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Delve accused of misleading customers with ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "pubDate": "Sun, 22 Mar 2026 14:43:51 +0000",
+    "title": "(No AI) Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+    "pubDate": "Sun, 22 Mar 2026 18:41:09 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-    "contentSnippet": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-    "guid": "https://techcrunch.com/?p=3104674",
+    "content": "Building on top of a Chinese model feels particularly fraught right now.",
+    "contentSnippet": "Building on top of a Chinese model feels particularly fraught right now.",
+    "guid": "https://techcrunch.com/?p=3104724",
     "categories": [
-      "Startups",
-      "Security",
       "AI",
-      "Delve"
+      "Startups",
+      "cursor",
+      "kimi",
+      "moonshot ai"
     ],
-    "isoDate": "2026-03-22T14:43:51.000Z",
+    "isoDate": "2026-03-22T18:41:09.000Z",
     "source": "TechCrunch AI",
-    "slug": "delve-accused-of-misleading-customers-with-fake-compliance"
+    "slug": "cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ai-s-kimi"
+  },
+  {
+    "title": "(No AI) Crimson Desert dev apologizes for use of AI art",
+    "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+    "pubDate": "2026-03-22T17:34:34.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A screenshot from Crimson Desert showing what appears to be an AI-generated painting.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,0,100,100)\n\nThat’s some sloppy looking slop. | Image: Rex\\_Spy / Reddit\n\nReviews of _Crimson Desert_ [have](https://gamerant.com/crimson-desert-review/) [been](https://www.ign.com/articles/crimson-desert-review) [mixed](https://gameinformer.com/review/crimson-desert/open-world-overload), but the bigger issue for the game has been the discovery of what [appeared](https://www.reddit.com/r/PS5/comments/1rz5qfb/crimson_desert_appears_to_use_generative_ai/) to be [AI-generated assets](https://www.ign.com/articles/crimson-desert-players-think-theyve-found-ai-generated-art-in-game) in the [final](https://www.reddit.com/r/CrimsonDesert/comments/1rz2f2l/found_this_ai_painting/?utm_source=embedv2&utm_medium=post_embed&utm_content=post_body&embed_host_url=https%3A%2F%2Fwww.ign.com%2Farticles%2Fcrimson-desert-players-think-theyve-found-ai-generated-art-in-game) release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. In a [statement on X](https://x.com/crimsondesert_/status/2035718975909470706?s=46), the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated content.\n\nThe company apologized for both its inclusion in the final release and for not being more transparent about its use during development. \"We should have clearly disclosed our use of AI,\" it said.\n\nThe …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)",
+    "contentSnippet": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit\t\n\nReviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release.  In a statement on X, the company said it was conducting a \"comprehensive audit\" to identify and replace any AI-generated content. \nThe company apologized for both its inclusion in the final release and for not being more transparent about its use during development. \"We should have clearly disclosed our use of AI,\" it said.\nThe …\nRead the full story at The Verge.",
+    "summary": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. [&#8230;]",
+    "id": "https://www.theverge.com/?p=898771",
+    "isoDate": "2026-03-22T17:34:34.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "crimson-desert-dev-apologizes-for-use-of-ai-art"
   },
   {
     "title": "(No AI) Musk says he’s building Terafab chip plant in Austin, Texas",
@@ -48,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "musk-says-he-s-building-terafab-chip-plant-in-austin-texas"
-  },
-  {
-    "title": "(No AI) AI was everywhere at gaming’s big developer conference — except the games",
-    "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-    "pubDate": "2026-03-22T12:00:00.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making [AI-driven NPCs](https://www.artificial.agency/) and [even entire games from a chat box](https://tesana.ai/). On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In a briefing with Razer, I watched an AI assistant for QA automatically log issues in a shooter game. And there were _many_ talks about AI, including [a standing-room only presentation](https://www.gamefile.news/p/google-deepmind-genie-3-gdc) by Google DeepMind researchers about playable AI-generated spaces.\n\nBut there was one key place where AI was missing: the games themselves. Of the many developers I s …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference)",
-    "contentSnippet": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In a briefing with Razer, I watched an AI assistant for QA automatically log issues in a shooter game. And there were many talks about AI, including a standing-room only presentation by Google DeepMind researchers about playable AI-generated spaces.\nBut there was one key place where AI was missing: the games themselves. Of the many developers I s …\nRead the full story at The Verge.",
-    "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In [&#8230;]",
-    "id": "https://www.theverge.com/?p=897982",
-    "isoDate": "2026-03-22T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-was-everywhere-at-gaming-s-big-developer-conference-except-the-games"
   },
   {
     "title": "(No AI) How we monitor internal coding agents for misalignment",
