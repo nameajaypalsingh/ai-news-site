@@ -1,43 +1,53 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
-    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-    "contentSnippet": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-    "guid": "https://techcrunch.com/?p=3104178",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+    "pubDate": "Sun, 22 Mar 2026 16:20:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+    "contentSnippet": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+    "guid": "https://techcrunch.com/?p=3104720",
     "categories": [
-      "Enterprise",
-      "TC",
       "Hardware",
-      "AI",
-      "Amazon",
-      "AWS",
-      "data center",
-      "trainium"
+      "AI"
     ],
-    "isoDate": "2026-03-22T12:00:00.000Z",
+    "isoDate": "2026-03-22T16:20:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "an-exclusive-tour-of-amazon-s-trainium-lab-the-chip-that-s-won-over-anthropic-openai-even-apple"
+    "slug": "elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Are AI tokens the new signing bonus or just a cost of doing business?",
-    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "pubDate": "Sun, 22 Mar 2026 06:20:43 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-    "contentSnippet": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
-    "guid": "https://techcrunch.com/?p=3104703",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "pubDate": "Sun, 22 Mar 2026 14:43:51 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "contentSnippet": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+    "guid": "https://techcrunch.com/?p=3104674",
     "categories": [
+      "Startups",
+      "Security",
       "AI",
-      "TC"
+      "Delve"
     ],
-    "isoDate": "2026-03-22T06:20:43.000Z",
+    "isoDate": "2026-03-22T14:43:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business"
+    "slug": "delve-accused-of-misleading-customers-with-fake-compliance"
+  },
+  {
+    "title": "(No AI) Musk says he’s building Terafab chip plant in Austin, Texas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+    "pubDate": "2026-03-22T14:06:48.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Elon Musk looking confused over a bunch of question marks.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGrok, how do you make chips? | Image: Laura Normand / The Verge\n\nElon Musk announced plans to build a [Terafab](https://www.theverge.com/transportation/816084/i-think-were-going-to-have-to-build-a-gigantic-chip-fab) plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and [space-based data centers](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit) for Musk's various companies.\n\nMusk has expressed concern, as have other executives, about the chip industry's ability to [keep up with demand](https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops) as the AI industry [has boomed](https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud). But building a chip fabrication plant is complex, requires billions of dollars, many years, and a ton of specialized equipment. And, as [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin) points out, Musk \"has no background in semiconductor production and a history of over-promising on g …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)",
+    "contentSnippet": "Grok, how do you make chips? | Image: Laura Normand / The Verge\t\n\nElon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies.\nMusk has expressed concern, as have other executives, about the chip industry's ability to keep up with demand as the AI industry has boomed. But building a chip fabrication plant is complex, requires billions of dollars, many years, and a ton of specialized equipment. And, as Bloomberg points out, Musk \"has no background in semiconductor production and a history of over-promising on g …\nRead the full story at The Verge.",
+    "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability [&#8230;]",
+    "id": "https://www.theverge.com/?p=898722",
+    "isoDate": "2026-03-22T14:06:48.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "musk-says-he-s-building-terafab-chip-plant-in-austin-texas"
   },
   {
     "title": "(No AI) AI was everywhere at gaming’s big developer conference — except the games",
@@ -52,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-was-everywhere-at-gaming-s-big-developer-conference-except-the-games"
-  },
-  {
-    "title": "(No AI) The gen AI Kool-Aid tastes like eugenics",
-    "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
-    "pubDate": "2026-03-21T14:00:00.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![An AI-generated image of a bunch of white men standing around and looking at a half-full pitcher of Kool-Aid placed on an elevated stage.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&strip=all&crop=0,0,100,100)\n\nLike many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images dripping with racism and sexism.\n\nVeatch was even more unsettled by the way her new AI-enthusiast peers did not seem to care that the machine they ralli …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview)",
-    "contentSnippet": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The hope of connecting with people drew Veatch into the AI space, but once she was there, she was shocked to see how often the technology would generate images dripping with racism and sexism.\nVeatch was even more unsettled by the way her new AI-enthusiast peers did not seem to care that the machine they ralli …\nRead the full story at The Verge.",
-    "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were building online communities to share their new AI creations. The [&#8230;]",
-    "id": "https://www.theverge.com/?p=897923",
-    "isoDate": "2026-03-21T14:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-gen-ai-kool-aid-tastes-like-eugenics"
   },
   {
     "title": "(No AI) How we monitor internal coding agents for misalignment",
