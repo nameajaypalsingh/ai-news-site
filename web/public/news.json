@@ -45,9 +45,9 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
     "pubDate": "2026-03-23T00:01:00.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&strip=all&crop=0,0,100,100)\n\nFirst came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry.\n\nThe contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial and cultural clout.\n\nContestants will compete for a total prize f …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)",
-    "contentSnippet": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. \nThe contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial and cultural clout. \nContestants will compete for a total prize f …\nRead the full story at The Verge.",
-    "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt [&#8230;]",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&strip=all&crop=0,0,100,100)\n\nFirst came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and lucrative industry.\n\nThe contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)",
+    "contentSnippet": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and lucrative industry.\nThe contest, a joint venture between generative AI studio OpenArt and AI-powered creator platform Fanvue, with backing from AI voice company ElevenLabs, opens on Monday and runs for a month. The organizers said it is intended to \"celebrate the creative talent 'behind' AI Influencers\" and recognize their growing commercial …\nRead the full story at The Verge.",
+    "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for legitimacy amid an onslaught of AI slop and grifters and transforms from quirky novelty into a serious and [&#8230;]",
     "id": "https://www.theverge.com/?p=898781",
     "isoDate": "2026-03-23T00:01:00.000Z",
     "source": "The Verge AI",
@@ -119,40 +119,36 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
-    "link": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
-    "pubDate": "Sat, 21 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
-    "contentSnippet": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
-    "guid": "69bd8fdf426abb20ef0bb099",
+    "creator": "Katrina Manson",
+    "title": "(No AI) Meet the Gods of AI Warfare",
+    "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+    "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Katrina Manson",
+    "content": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+    "contentSnippet": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+    "guid": "69a0c75b58396a06d6048432",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
+      "The Big Story"
     ],
-    "isoDate": "2026-03-21T11:00:00.000Z",
+    "isoDate": "2026-03-23T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "i-tried-doordash-s-tasks-app-and-saw-the-bleak-future-of-ai-gig-work"
+    "slug": "meet-the-gods-of-ai-warfare"
   },
   {
-    "creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
-    "title": "(No AI) Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-    "link": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-    "pubDate": "Sat, 21 Mar 2026 10:30:00 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
-    "content": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-    "contentSnippet": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-    "guid": "69bd5d32eccbfc33fa7b89b2",
+    "creator": "Joel Khalili",
+    "title": "(No AI) The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+    "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+    "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+    "contentSnippet": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+    "guid": "69b983dcd7f42fd192ce3930",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-21T10:30:00.000Z",
+    "isoDate": "2026-03-23T09:00:00.000Z",
     "source": "Wired AI",
-    "slug": "cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck"
+    "slug": "the-ai-race-is-pressuring-utilities-to-squeeze-more-from-europe-s-power-grids"
   }
 ]
