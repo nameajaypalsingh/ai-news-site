@@ -1,41 +1,49 @@
 [
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-    "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "pubDate": "Mon, 23 Mar 2026 22:36:39 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-    "contentSnippet": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-    "guid": "https://techcrunch.com/?p=3105120",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Mirage raises $75M to continue building models for its AI video editing app Captions",
+    "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+    "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+    "contentSnippet": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+    "guid": "https://techcrunch.com/?p=3104836",
     "categories": [
       "AI",
-      "Venture",
-      "Air Street Capital",
-      "Europe",
-      "In Brief"
+      "Apps",
+      "Fundraising",
+      "captions",
+      "Exclusive",
+      "General Catalyst",
+      "Mirage",
+      "Video Editing"
     ],
-    "isoDate": "2026-03-23T22:36:39.000Z",
+    "isoDate": "2026-03-24T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund"
+    "slug": "mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-    "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "pubDate": "Mon, 23 Mar 2026 20:15:59 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-    "contentSnippet": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-    "guid": "https://techcrunch.com/?p=3104926",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+    "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+    "pubDate": "Tue, 24 Mar 2026 12:05:00 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
+    "contentSnippet": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
+    "guid": "https://techcrunch.com/?p=3104962",
     "categories": [
+      "TC",
       "AI",
-      "bernie sanders",
-      "Claude"
+      "Robotics",
+      "robotics",
+      "google deepmind",
+      "artificial intelligence",
+      "robotics partnership",
+      "Agile Robots"
     ],
-    "isoDate": "2026-03-23T20:15:59.000Z",
+    "isoDate": "2026-03-24T12:05:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great"
+    "slug": "agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind"
   },
   {
     "title": "(No AI) Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
@@ -116,36 +124,37 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
-    "creator": "Katrina Manson",
-    "title": "(No AI) Meet the Gods of AI Warfare",
-    "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
-    "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Katrina Manson",
-    "content": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
-    "contentSnippet": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
-    "guid": "69a0c75b58396a06d6048432",
+    "creator": "Katie Drummond",
+    "title": "(No AI) Chris Hayes Has Some Advice for Keeping Up With the News",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
+    "pubDate": "Tue, 24 Mar 2026 10:30:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+    "contentSnippet": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+    "guid": "69bc3c22df76d8d9b81a2a37",
     "categories": [
-      "The Big Story"
+      "Politics",
+      "Business"
     ],
-    "isoDate": "2026-03-23T10:00:00.000Z",
+    "isoDate": "2026-03-24T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "meet-the-gods-of-ai-warfare"
+    "slug": "chris-hayes-has-some-advice-for-keeping-up-with-the-news"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
-    "link": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
-    "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
-    "contentSnippet": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
-    "guid": "69b983dcd7f42fd192ce3930",
+    "creator": "Andrew Guthrie Ferguson",
+    "title": "(No AI) Your Body Is Betraying Your Right to Privacy",
+    "link": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+    "pubDate": "Tue, 24 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Andrew Guthrie Ferguson",
+    "content": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+    "contentSnippet": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+    "guid": "69b1c240c0efa4d50c96a15c",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "The Big Story",
+      "Security"
     ],
-    "isoDate": "2026-03-23T09:00:00.000Z",
+    "isoDate": "2026-03-24T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "the-ai-race-is-pressuring-utilities-to-squeeze-more-from-europe-s-power-grids"
+    "slug": "your-body-is-betraying-your-right-to-privacy"
   }
 ]
