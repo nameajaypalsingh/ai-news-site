@@ -1,12 +1,31 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Meet the former Apple designer building a new AI interface at Hark",
+    "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+    "pubDate": "Tue, 24 Mar 2026 16:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+    "contentSnippet": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+    "guid": "https://techcrunch.com/?p=3105050",
+    "categories": [
+      "AI",
+      "Exclusive",
+      "figure",
+      "hark"
+    ],
+    "isoDate": "2026-03-24T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meet-the-former-apple-designer-building-a-new-ai-interface-at-hark"
+  },
+  {
     "creator": "Ivan Mehta",
-    "title": "(No AI) Mirage raises $75M to continue building models for its AI video editing app Captions",
+    "title": "(No AI) Mirage raises $75M to continue building models for its AI video-editing app Captions",
     "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
     "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
     "dc:creator": "Ivan Mehta",
-    "content": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-    "contentSnippet": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+    "content": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+    "contentSnippet": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
     "guid": "https://techcrunch.com/?p=3104836",
     "categories": [
       "AI",
@@ -23,27 +42,18 @@
     "slug": "mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-    "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-    "pubDate": "Tue, 24 Mar 2026 12:05:00 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-    "contentSnippet": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-    "guid": "https://techcrunch.com/?p=3104962",
-    "categories": [
-      "TC",
-      "AI",
-      "Robotics",
-      "robotics",
-      "google deepmind",
-      "artificial intelligence",
-      "robotics partnership",
-      "Agile Robots"
-    ],
-    "isoDate": "2026-03-24T12:05:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind"
+    "title": "(No AI) Anthropic’s Claude Code and Cowork can control your computer",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+    "pubDate": "2026-03-24T13:32:23.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A screenshot of the warning message that appears in Claude before allowing the AI chatbot to control your computer.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nClaude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic\n\nAnthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to [Anthropic's announcement](https://claude.com/blog/dispatch-and-computer-use).\n\nThese new capabilities are available as a research preview for Claude Pro and Max subscribers, and computer usage is limited to macOS \"for now,\" according to Anthropic. The feature [builds on autonomous capabilities](https://www.theverge.com/2024/10/22/24276822/anthopic-claude-3-5-sonnet-computer-use-ai) that were introduced on Claude's 3.5 Sonnet AI model in 2024, but now brings those to [the chatbot's C …](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer)",
+    "contentSnippet": "Claude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic\t\n\nAnthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement.\nThese new capabilities are available as a research preview for Claude Pro and Max subscribers, and computer usage is limited to macOS \"for now,\" according to Anthropic. The feature builds on autonomous capabilities that were introduced on Claude's 3.5 Sonnet AI model in 2024, but now brings those to the chatbot's C …\nRead the full story at The Verge.",
+    "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. [&#8230;]",
+    "id": "https://www.theverge.com/?p=899430",
+    "isoDate": "2026-03-24T13:32:23.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-claude-code-and-cowork-can-control-your-computer"
   },
   {
     "title": "(No AI) Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
@@ -60,46 +70,32 @@
     "slug": "google-s-new-pixel-10-ads-made-me-go-wait-what-are-they-trying-to-sell"
   },
   {
-    "title": "(No AI) Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-    "pubDate": "2026-03-23T19:42:33.000Z",
-    "author": "Hayden Field",
-    "content": "![Digital photo collage of Nvidia CEO Jensen Huang.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn a Monday [episode](https://lexfridman.com/jensen-huang/) of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\"\n\nAGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes AI that's equal to or surpasses human intelligence. In recent months, tech leaders have tried to distance themselves from the term and [create their own terminology](https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence) that they view as less over-hyped, more useful, and more clearly defined (although the new phrases they've come up with essentially mean the same thing as AG …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi)",
-    "contentSnippet": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\"\nAGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes AI that's equal to or surpasses human intelligence. In recent months, tech leaders have tried to distance themselves from the term and create their own terminology that they view as less over-hyped, more useful, and more clearly defined (although the new phrases they've come up with essentially mean the same thing as AG …\nRead the full story at The Verge.",
-    "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes [&#8230;]",
-    "id": "https://www.theverge.com/?p=899086",
-    "isoDate": "2026-03-23T19:42:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nvidia-ceo-jensen-huang-says-i-think-we-ve-achieved-agi"
+    "title": "(No AI) Powering product discovery in ChatGPT",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "content": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "contentSnippet": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "guid": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-03-24T09:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "powering-product-discovery-in-chatgpt"
   },
   {
-    "title": "(No AI) Creating with Sora Safely",
-    "link": "https://openai.com/index/creating-with-sora-safely",
-    "pubDate": "Mon, 23 Mar 2026 00:00:00 GMT",
-    "content": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-    "contentSnippet": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-    "guid": "https://openai.com/index/creating-with-sora-safely",
+    "title": "(No AI) Update on the OpenAI Foundation",
+    "link": "https://openai.com/index/update-on-the-openai-foundation",
+    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "contentSnippet": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "guid": "https://openai.com/index/update-on-the-openai-foundation",
     "categories": [
-      "Safety"
+      "Company"
     ],
-    "isoDate": "2026-03-23T00:00:00.000Z",
+    "isoDate": "2026-03-24T09:00:00.000Z",
     "source": "OpenAI",
-    "slug": "creating-with-sora-safely"
-  },
-  {
-    "title": "(No AI) How we monitor internal coding agents for misalignment",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "pubDate": "Thu, 19 Mar 2026 10:00:00 GMT",
-    "content": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "contentSnippet": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "guid": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-03-19T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-we-monitor-internal-coding-agents-for-misalignment"
+    "slug": "update-on-the-openai-foundation"
   },
   {
     "title": "(No AI) Measuring progress toward AGI: A cognitive framework",
