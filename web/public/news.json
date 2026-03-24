@@ -1,45 +1,61 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Meet the former Apple designer building a new AI interface at Hark",
-    "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
-    "pubDate": "Tue, 24 Mar 2026 16:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-    "contentSnippet": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-    "guid": "https://techcrunch.com/?p=3105050",
+    "creator": "Julie Bort",
+    "title": "(No AI) Databricks bought two startups to underpin its new AI security product",
+    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "pubDate": "Tue, 24 Mar 2026 20:40:56 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+    "contentSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+    "guid": "https://techcrunch.com/?p=3105584",
     "categories": [
       "AI",
-      "Exclusive",
-      "figure",
-      "hark"
+      "Enterprise",
+      "Startups",
+      "acqui-hire",
+      "acquistions",
+      "Databricks"
     ],
-    "isoDate": "2026-03-24T16:00:00.000Z",
+    "isoDate": "2026-03-24T20:40:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "meet-the-former-apple-designer-building-a-new-ai-interface-at-hark"
+    "slug": "databricks-bought-two-startups-to-underpin-its-new-ai-security-product"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Mirage raises $75M to continue building models for its AI video-editing app Captions",
-    "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-    "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-    "contentSnippet": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-    "guid": "https://techcrunch.com/?p=3104836",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Arm is releasing the first in-house chip in its 35-year history",
+    "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+    "pubDate": "Tue, 24 Mar 2026 19:48:54 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+    "contentSnippet": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+    "guid": "https://techcrunch.com/?p=3105603",
     "categories": [
       "AI",
-      "Apps",
-      "Fundraising",
-      "captions",
-      "Exclusive",
-      "General Catalyst",
-      "Mirage",
-      "Video Editing"
+      "Enterprise",
+      "Hardware",
+      "Apple",
+      "ARM",
+      "ARM Holdings",
+      "cpus",
+      "Softbank"
     ],
-    "isoDate": "2026-03-24T13:00:00.000Z",
+    "isoDate": "2026-03-24T19:48:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions"
+    "slug": "arm-is-releasing-the-first-in-house-chip-in-its-35-year-history"
+  },
+  {
+    "title": "(No AI) ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+    "pubDate": "2026-03-24T17:13:00.000Z",
+    "author": "Emma Roth",
+    "content": "![Photo collage of a computer with the ChatGPT logo on the screen.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with [Gap Inc to allow its Gemini AI assistant](https://www.gapinc.com/en-us/articles/2026/03/gap-inc-elevates-online-shopping-with-ai-powered-f) to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI [launched an updated shopping interface in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt/).\n\nWith Google's new partnership, you may see products from one of Gap's brands if you're asking Gemini for shopping suggestions, along with an option to purchase the item without leaving the chatbot. Similar to Walmart and Target, which also let u …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features)",
+    "contentSnippet": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI launched an updated shopping interface in ChatGPT.\nWith Google's new partnership, you may see products from one of Gap's brands if you're asking Gemini for shopping suggestions, along with an option to purchase the item without leaving the chatbot. Similar to Walmart and Target, which also let u …\nRead the full story at The Verge.",
+    "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana [&#8230;]",
+    "id": "https://www.theverge.com/?p=899677",
+    "isoDate": "2026-03-24T17:13:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-and-gemini-are-fighting-to-be-the-ai-bot-that-sells-you-stuff"
   },
   {
     "title": "(No AI) Anthropic’s Claude Code and Cowork can control your computer",
@@ -56,32 +72,18 @@
     "slug": "anthropic-s-claude-code-and-cowork-can-control-your-computer"
   },
   {
-    "title": "(No AI) Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
-    "link": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
-    "pubDate": "2026-03-23T19:49:11.000Z",
-    "author": "Sean Hollister",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/chrome_Apdz9O6Gdb.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEver watch a TV ad and wonder, \"How did _this_ get approved?\" Today, Google has not one but two new ad spots for its six-month-old [Pixel 10 phones](https://www.theverge.com/reviews/772813/google-pixel-10-review), and… let's just say they may not come across as intended.\n\nFirst, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental company lies to you about the view from your hotel room, _you should lie to all your friends and family, too!_\n\nTake a watch below:\n\nThe [YouTube description](https://www.youtube.com/watch?v=reNuCsQwqUE) makes Google's intent fairly clear: \"So even if that breathtaking view you were promised turns out to be miles away, now you can zoom your way to a photo that makes it look like you were right there. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom)",
-    "contentSnippet": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended.\nFirst, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental company lies to you about the view from your hotel room, you should lie to all your friends and family, too! \nTake a watch below:\n\nThe YouTube description makes Google's intent fairly clear: \"So even if that breathtaking view you were promised turns out to be miles away, now you can zoom your way to a photo that makes it look like you were right there. …\nRead the full story at The Verge.",
-    "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended. First, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental [&#8230;]",
-    "id": "https://www.theverge.com/?p=898992",
-    "isoDate": "2026-03-23T19:49:11.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/chrome_Apdz9O6Gdb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-new-pixel-10-ads-made-me-go-wait-what-are-they-trying-to-sell"
-  },
-  {
-    "title": "(No AI) Powering product discovery in ChatGPT",
-    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "content": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-    "contentSnippet": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-    "guid": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "title": "(No AI) Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "pubDate": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "content": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "contentSnippet": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "guid": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
     "categories": [
-      "Product"
+      "Safety"
     ],
-    "isoDate": "2026-03-24T09:00:00.000Z",
+    "isoDate": "2026-03-24T11:00:00.000Z",
     "source": "OpenAI",
-    "slug": "powering-product-discovery-in-chatgpt"
+    "slug": "helping-developers-build-safer-ai-experiences-for-teens"
   },
   {
     "title": "(No AI) Update on the OpenAI Foundation",
@@ -120,6 +122,23 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) Arm Is Now Making Its Own Chips",
+    "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+    "pubDate": "Tue, 24 Mar 2026 17:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+    "contentSnippet": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+    "guid": "69c1d09f26e816f1e502518e",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-24T17:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "arm-is-now-making-its-own-chips"
+  },
+  {
     "creator": "Katie Drummond",
     "title": "(No AI) Chris Hayes Has Some Advice for Keeping Up With the News",
     "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
@@ -135,22 +154,5 @@
     "isoDate": "2026-03-24T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "chris-hayes-has-some-advice-for-keeping-up-with-the-news"
-  },
-  {
-    "creator": "Andrew Guthrie Ferguson",
-    "title": "(No AI) Your Body Is Betraying Your Right to Privacy",
-    "link": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
-    "pubDate": "Tue, 24 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Andrew Guthrie Ferguson",
-    "content": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
-    "contentSnippet": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
-    "guid": "69b1c240c0efa4d50c96a15c",
-    "categories": [
-      "The Big Story",
-      "Security"
-    ],
-    "isoDate": "2026-03-24T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "your-body-is-betraying-your-right-to-privacy"
   }
 ]
