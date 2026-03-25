@@ -1,75 +1,70 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google launches Lyria 3 Pro music generation model",
-    "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-    "pubDate": "Wed, 25 Mar 2026 16:37:43 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-    "contentSnippet": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-    "guid": "https://techcrunch.com/?p=3105993",
-    "categories": [
-      "AI",
-      "Apps",
-      "ai music",
-      "gemini",
-      "Google",
-      "Lyria",
-      "music generation"
-    ],
-    "isoDate": "2026-03-25T16:37:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-launches-lyria-3-pro-music-generation-model"
-  },
-  {
     "creator": "Sarah Perez",
-    "title": "(No AI) Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-    "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-    "pubDate": "Wed, 25 Mar 2026 16:10:00 +0000",
+    "title": "(No AI) Google unveils TurboQuant, a lossless AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "pubDate": "Wed, 25 Mar 2026 20:38:45 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-    "contentSnippet": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-    "guid": "https://techcrunch.com/?p=3105950",
+    "content": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+    "contentSnippet": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+    "guid": "https://techcrunch.com/?p=3106221",
     "categories": [
       "AI",
-      "Apps",
-      "Social",
-      "bots",
-      "dead internet theory",
-      "Reddit",
-      "spam"
+      "Google",
+      "pied piper",
+      "turboquant"
     ],
-    "isoDate": "2026-03-25T16:10:00.000Z",
+    "isoDate": "2026-03-25T20:38:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "reddit-takes-on-the-bots-with-new-human-verification-requirements-for-fishy-behavior"
+    "slug": "google-unveils-turboquant-a-lossless-ai-memory-compression-algorithm-and-yes-the-internet-is-calling-it-pied-piper"
   },
   {
-    "title": "(No AI) Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human",
-    "link": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
-    "pubDate": "2026-03-25T16:10:00.000Z",
-    "author": "Emma Roth",
-    "content": "![An image showing the Reddit logo on a red and white background](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nReddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In [a post on Wednesday](https://www.reddit.com/user/spez/comments/1s3ezrc/humans_welcome_bots_must_wear_name_tags/), Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" to verify that they're human using methods like fingerprint scanning or submitting their ID.\n\nWith this update, developers can register automated accounts with Reddit, which will then receive an \"\\[APP\\]\" label. However, Reddit also notes that it will be on the lookout for unlabeled accounts with suspicious behavior. \"If somethi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown)",
-    "contentSnippet": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" to verify that they're human using methods like fingerprint scanning or submitting their ID.\nWith this update, developers can register automated accounts with Reddit, which will then receive an \"[APP]\" label. However, Reddit also notes that it will be on the lookout for unlabeled accounts with suspicious behavior. \"If somethi …\nRead the full story at The Verge.",
-    "summary": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=900363",
-    "isoDate": "2026-03-25T16:10:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "reddit-accounts-with-fishy-bot-like-behavior-will-soon-need-to-prove-they-re-human"
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Melania Trump wants a robot to homeschool your child",
+    "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "pubDate": "Wed, 25 Mar 2026 18:55:41 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+    "contentSnippet": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+    "guid": "https://techcrunch.com/?p=3106069",
+    "categories": [
+      "AI",
+      "Robotics",
+      "figure ai",
+      "melania trump",
+      "robots"
+    ],
+    "isoDate": "2026-03-25T18:55:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "melania-trump-wants-a-robot-to-homeschool-your-child"
   },
   {
-    "title": "(No AI) Google Lyria 3 Pro makes longer AI songs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
-    "pubDate": "2026-03-25T16:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![An illustration of the Google logo on a red, green, and blue background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSix times the slop. | Image: The Verge\n\nGoogle is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for specific elements like intros, choruses, and bridges for greater control over arrangements.\n\nLyria 3 Pro works much like other popular music generation tools, such as Suno and Udio. Describe a mood, style, or instrumentation, and it spits out a track. It can also generate lyrics based on your prompt, or even a reference photo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music)",
-    "contentSnippet": "Six times the slop. | Image: The Verge\t\n\nGoogle is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for specific elements like intros, choruses, and bridges for greater control over arrangements.\nLyria 3 Pro works much like other popular music generation tools, such as Suno and Udio. Describe a mood, style, or instrumentation, and it spits out a track. It can also generate lyrics based on your prompt, or even a reference photo …\nRead the full story at The Verge.",
-    "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for [&#8230;]",
-    "id": "https://www.theverge.com/?p=900425",
-    "isoDate": "2026-03-25T16:00:00.000Z",
+    "title": "(No AI) Disney’s big bets on the metaverse and AI slop aren’t going so well",
+    "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+    "pubDate": "2026-03-25T20:02:48.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![Darth Vader in his classic black suit with cape and helmet. Vader is holding his right lightsaber and slashing it towards the viewer.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLess than a week into his tenure as [Disney's newly-appointed CEO](https://www.theverge.com/news/872972/disney-ceo-bob-iger-replacement-josh-damaro), Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. [OpenAI is shutting down its Sora image-generation program](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) just months after [Disney announced](https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images) a $1 billion dollar collaboration to [bake the tech into Disney Plus](https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership). And Fortnite maker Epic is [laying off 1,000 employees](https://www.theverge.com/games/899529/epic-games-layoffs-fortnite) at a time when we've heard basically nothing about [the game studio's $1.5 billion investment deal](https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse) with Disney to [build a metaverse](https://www.theverge.com/2024/10/4/24261555/epic-disney-fortnite-unreal-fest).\n\nDisney could still integrate generative AI into its streaming service, and we might end up seeing some version of the co …\n\n[Read the full story at The Verge.](https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse)",
+    "contentSnippet": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. And Fortnite maker Epic is laying off 1,000 employees at a time when we've heard basically nothing about the game studio's $1.5 billion investment deal with Disney to build a metaverse.\nDisney could still integrate generative AI into its streaming service, and we might end up seeing some version of the co …\nRead the full story at The Verge.",
+    "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. [&#8230;]",
+    "id": "https://www.theverge.com/?p=900837",
+    "isoDate": "2026-03-25T20:02:48.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-lyria-3-pro-makes-longer-ai-songs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "disney-s-big-bets-on-the-metaverse-and-ai-slop-aren-t-going-so-well"
+  },
+  {
+    "title": "(No AI) Can you monitor a situation without monitors? The Polymarket sports bar tried",
+    "link": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+    "pubDate": "2026-03-25T18:19:32.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAttendees wait in line outside the Situation Room by Polymarket pop-up bar in Washington, DC, US, on Friday, March 20, 2026. | Graeme Slona/Bloomberg via Getty Images.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber,_ [_sign up here_](https://www.theverge.com/subscribe) _so you can get that pure, uncut_ Regulator _every Wednesday, straight from the source (aka me)._\n\n  \n  \nI was taking Friday off in Maine when two major pieces of tech news dropped: first, the White House released its framework for a comprehensive national AI bill with the intent of passing it through Congress. ([**Hayden Field**, our AI reporter, has a thorough analysis of it here](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework).) Second (and clearly more important), Polymarket opened th …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)",
+    "contentSnippet": "Attendees wait in line outside the Situation Room by Polymarket pop-up bar in Washington, DC, US, on Friday, March 20, 2026. | Graeme Slona/Bloomberg via Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me).  \n\nI was taking Friday off in Maine when two major pieces of tech news dropped: first, the White House released its framework for a comprehensive national AI bill with the intent of passing it through Congress. (Hayden Field, our AI reporter, has a thorough analysis of it here.) Second (and clearly more important), Polymarket opened th …\nRead the full story at The Verge.",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking [&#8230;]",
+    "id": "https://www.theverge.com/?p=900536",
+    "isoDate": "2026-03-25T18:19:32.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "can-you-monitor-a-situation-without-monitors-the-polymarket-sports-bar-tried"
   },
   {
     "title": "(No AI) Inside our approach to the Model Spec",
@@ -122,36 +117,37 @@
     "slug": "measuring-progress-toward-agi-a-cognitive-framework"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI Enters Its Focus Era by Killing Sora",
-    "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-    "pubDate": "Wed, 25 Mar 2026 14:57:45 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-    "contentSnippet": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-    "guid": "69c312fb2a4fd03c4ad6341f",
+    "creator": "Kat Tenbarge",
+    "title": "(No AI) There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+    "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "pubDate": "Wed, 25 Mar 2026 18:49:40 +0000",
+    "dc:creator": "Kat Tenbarge",
+    "content": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "contentSnippet": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "guid": "69c1c4c2694e58d20c22c6b1",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-03-25T18:49:40.000Z",
+    "source": "Wired AI",
+    "slug": "there-s-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos"
+  },
+  {
+    "creator": "Will Knight",
+    "title": "(No AI) OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "pubDate": "Wed, 25 Mar 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "contentSnippet": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "guid": "69c17dc65d0490dd36a35fee",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-25T14:57:45.000Z",
+    "isoDate": "2026-03-25T18:00:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-enters-its-focus-era-by-killing-sora"
-  },
-  {
-    "creator": "Molly Taft",
-    "title": "(No AI) New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-    "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-    "pubDate": "Wed, 25 Mar 2026 13:28:50 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-    "contentSnippet": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-    "guid": "69c2dc89ff7423eb20617d9d",
-    "categories": [
-      "Politics"
-    ],
-    "isoDate": "2026-03-25T13:28:50.000Z",
-    "source": "Wired AI",
-    "slug": "new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction"
+    "slug": "openclaw-agents-can-be-guilt-tripped-into-self-sabotage"
   }
 ]
