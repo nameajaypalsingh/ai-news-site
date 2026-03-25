@@ -1,39 +1,58 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-    "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-    "pubDate": "Wed, 25 Mar 2026 00:47:20 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-    "contentSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-    "guid": "https://techcrunch.com/?p=3105854",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+    "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+    "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Sift is building the data infrastructure for advanced manufacturing.",
+    "contentSnippet": "Sift is building the data infrastructure for advanced manufacturing.",
+    "guid": "https://techcrunch.com/?p=3105775",
     "categories": [
+      "Space",
       "AI",
-      "Venture",
-      "Kleiner Perkins"
+      "Exclusive"
     ],
-    "isoDate": "2026-03-25T00:47:20.000Z",
+    "isoDate": "2026-03-25T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai"
+    "slug": "with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-    "pubDate": "Tue, 24 Mar 2026 23:57:55 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-    "contentSnippet": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-    "guid": "https://techcrunch.com/?p=3105737",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
+    "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+    "pubDate": "Wed, 25 Mar 2026 11:00:00 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+    "contentSnippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+    "guid": "https://techcrunch.com/?p=3105379",
     "categories": [
+      "TC",
+      "Startups",
       "AI",
-      "OpenAI",
-      "sora"
+      "Robotics",
+      "robotics",
+      "Lucid Bots",
+      "artificial intelligence",
+      "robotics startup"
     ],
-    "isoDate": "2026-03-24T23:57:55.000Z",
+    "isoDate": "2026-03-25T11:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-sora-was-the-creepiest-app-on-your-phone-now-it-s-shutting-down"
+    "slug": "lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones"
+  },
+  {
+    "title": "(No AI) Anthropic’s Claude Code gets ‘safer’ auto mode",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+    "pubDate": "2026-03-25T11:39:46.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has [launched](https://claude.com/blog/auto-mode) an \"auto mode\" for [Claude Code](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code), a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy.\n\nClaude Code is [capable of acting independently](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer) on users' behalf, a useful but risky feature as it can also do things users don't want, like deleting files, sending out sensitive data, and executing malicious code or [hidden instructions](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack). Auto mode is designed to prevent this, flagging and blocking potentially risky actions before they run and offering the agent a chan …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode)",
+    "contentSnippet": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders  a safer alternative between constant handholding or giving the model dangerous levels of autonomy. \nClaude Code is capable of acting independently on users' behalf, a useful but risky feature as it can also do things users don't want, like deleting files, sending out sensitive data, and executing malicious code or hidden instructions. Auto mode is designed to prevent this, flagging and blocking potentially risky actions before they run and offering the agent a chan …\nRead the full story at The Verge.",
+    "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful [&#8230;]",
+    "id": "https://www.theverge.com/?p=900201",
+    "isoDate": "2026-03-25T11:39:46.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-claude-code-gets-safer-auto-mode"
   },
   {
     "title": "(No AI) OpenAI just gave up on Sora and its billion-dollar Disney deal",
@@ -48,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-just-gave-up-on-sora-and-its-billion-dollar-disney-deal"
-  },
-  {
-    "title": "(No AI) Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-    "pubDate": "2026-03-24T20:43:14.000Z",
-    "author": "Richard Lawler",
-    "content": "![Stylized image showing the edge of a CPU](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter decades of only licensing its chip designs for others to use, UK-based Arm [revealed the first chip](https://newsroom.arm.com/news/arm-agi-cpu-launch) it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has [reportedly struggled](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504) to launch its own AI chips.\n\nMeta [says it's both the lead partner and co-developer](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/), and plans to work on \"multiple generations\" of the data center CPUs, for use along with hardware from other vendors like [Nvidia](https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips) and [AMD](https://www.theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips). Arm cus …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)",
-    "contentSnippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips.\nMeta says it's both the lead partner and co-developer, and plans to work on \"multiple generations\" of the data center CPUs, for use along with hardware from other vendors like Nvidia and AMD. Arm cus …\nRead the full story at The Verge.",
-    "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]",
-    "id": "https://www.theverge.com/?p=899823",
-    "isoDate": "2026-03-24T20:43:14.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "arm-s-first-cpu-ever-will-plug-into-meta-s-ai-data-centers-later-this-year"
   },
   {
     "title": "(No AI) Helping developers build safer AI experiences for teens",
@@ -114,6 +119,22 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+    "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
+    "pubDate": "Wed, 25 Mar 2026 10:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+    "contentSnippet": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+    "guid": "69bb03aac28f59d9e9a29419",
+    "categories": [
+      "The Big Story"
+    ],
+    "isoDate": "2026-03-25T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "arm-s-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
     "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
@@ -128,22 +149,5 @@
     "isoDate": "2026-03-24T22:13:17.000Z",
     "source": "Wired AI",
     "slug": "pentagon-s-attempt-to-cripple-anthropic-is-troubling-judge-says"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Arm Is Now Making Its Own Chips",
-    "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-    "pubDate": "Tue, 24 Mar 2026 17:00:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-    "contentSnippet": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-    "guid": "69c1d09f26e816f1e502518e",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-03-24T17:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "arm-is-now-making-its-own-chips"
   }
 ]
