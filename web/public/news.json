@@ -1,100 +1,114 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
-    "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
-    "pubDate": "Wed, 25 Mar 2026 13:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Sift is building the data infrastructure for advanced manufacturing.",
-    "contentSnippet": "Sift is building the data infrastructure for advanced manufacturing.",
-    "guid": "https://techcrunch.com/?p=3105775",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google launches Lyria 3 Pro music generation model",
+    "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+    "pubDate": "Wed, 25 Mar 2026 16:37:43 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+    "contentSnippet": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+    "guid": "https://techcrunch.com/?p=3105993",
     "categories": [
-      "Space",
       "AI",
-      "Exclusive"
+      "Apps",
+      "ai music",
+      "gemini",
+      "Google",
+      "Lyria",
+      "music generation"
     ],
-    "isoDate": "2026-03-25T13:00:00.000Z",
+    "isoDate": "2026-03-25T16:37:43.000Z",
     "source": "TechCrunch AI",
-    "slug": "with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor"
+    "slug": "google-launches-lyria-3-pro-music-generation-model"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
-    "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-    "pubDate": "Wed, 25 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-    "contentSnippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-    "guid": "https://techcrunch.com/?p=3105379",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
+    "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+    "pubDate": "Wed, 25 Mar 2026 16:10:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+    "contentSnippet": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+    "guid": "https://techcrunch.com/?p=3105950",
     "categories": [
-      "TC",
-      "Startups",
       "AI",
-      "Robotics",
-      "robotics",
-      "Lucid Bots",
-      "artificial intelligence",
-      "robotics startup"
+      "Apps",
+      "Social",
+      "bots",
+      "dead internet theory",
+      "Reddit",
+      "spam"
     ],
-    "isoDate": "2026-03-25T11:00:00.000Z",
+    "isoDate": "2026-03-25T16:10:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones"
+    "slug": "reddit-takes-on-the-bots-with-new-human-verification-requirements-for-fishy-behavior"
   },
   {
-    "title": "(No AI) Anthropic’s Claude Code gets ‘safer’ auto mode",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-    "pubDate": "2026-03-25T11:39:46.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has [launched](https://claude.com/blog/auto-mode) an \"auto mode\" for [Claude Code](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code), a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy.\n\nClaude Code is [capable of acting independently](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer) on users' behalf, a useful but risky feature as it can also do things users don't want, like deleting files, sending out sensitive data, and executing malicious code or [hidden instructions](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack). Auto mode is designed to prevent this, flagging and blocking potentially risky actions before they run and offering the agent a chan …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode)",
-    "contentSnippet": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders  a safer alternative between constant handholding or giving the model dangerous levels of autonomy. \nClaude Code is capable of acting independently on users' behalf, a useful but risky feature as it can also do things users don't want, like deleting files, sending out sensitive data, and executing malicious code or hidden instructions. Auto mode is designed to prevent this, flagging and blocking potentially risky actions before they run and offering the agent a chan …\nRead the full story at The Verge.",
-    "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful [&#8230;]",
-    "id": "https://www.theverge.com/?p=900201",
-    "isoDate": "2026-03-25T11:39:46.000Z",
+    "title": "(No AI) Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human",
+    "link": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
+    "pubDate": "2026-03-25T16:10:00.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing the Reddit logo on a red and white background](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nReddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In [a post on Wednesday](https://www.reddit.com/user/spez/comments/1s3ezrc/humans_welcome_bots_must_wear_name_tags/), Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" to verify that they're human using methods like fingerprint scanning or submitting their ID.\n\nWith this update, developers can register automated accounts with Reddit, which will then receive an \"\\[APP\\]\" label. However, Reddit also notes that it will be on the lookout for unlabeled accounts with suspicious behavior. \"If somethi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown)",
+    "contentSnippet": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" to verify that they're human using methods like fingerprint scanning or submitting their ID.\nWith this update, developers can register automated accounts with Reddit, which will then receive an \"[APP]\" label. However, Reddit also notes that it will be on the lookout for unlabeled accounts with suspicious behavior. \"If somethi …\nRead the full story at The Verge.",
+    "summary": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the company will introduce a labeling system for accounts registered as bots, and ask users with \"automated\" or \"fishy behavior\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=900363",
+    "isoDate": "2026-03-25T16:10:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-claude-code-gets-safer-auto-mode"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "reddit-accounts-with-fishy-bot-like-behavior-will-soon-need-to-prove-they-re-human"
   },
   {
-    "title": "(No AI) OpenAI just gave up on Sora and its billion-dollar Disney deal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-    "pubDate": "2026-03-24T21:08:10.000Z",
-    "author": "Richard Lawler",
-    "content": "![Frame from a video generated by Sora 2 showing a cowboy riding a horse on top of another horse](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nA frame from a Sora 2-generated video. | Image: OpenAI\n\nOn Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched [at the end of 2024](https://www.theverge.com/2024/12/9/24317092/openai-sora-text-to-video-ai-launch), and centered in a massive licensing deal with Disney only a few months ago. _[The Wall Street Journal](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)_ reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into ChatGPT as had previously been [rumored](https://www.theinformation.com/articles/openai-plans-launch-sora-video-ai-chatgpt-strategy-shift?rc=v4bmzs).\n\nAccording to _[The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)_, as a result, the deal Disney announced in December, [saying it would invest $1 billion in OpenAI](https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images), license its characters for use w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt)",
-    "contentSnippet": "A frame from a Sora 2-generated video. | Image: OpenAI\t\n\nOn Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into ChatGPT as had previously been rumored.\nAccording to The Hollywood Reporter, as a result, the deal Disney announced in December, saying it would invest $1 billion in OpenAI, license its characters for use w …\nRead the full story at The Verge.",
-    "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]",
-    "id": "https://www.theverge.com/?p=899850",
-    "isoDate": "2026-03-24T21:08:10.000Z",
+    "title": "(No AI) Google Lyria 3 Pro makes longer AI songs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
+    "pubDate": "2026-03-25T16:00:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![An illustration of the Google logo on a red, green, and blue background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSix times the slop. | Image: The Verge\n\nGoogle is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for specific elements like intros, choruses, and bridges for greater control over arrangements.\n\nLyria 3 Pro works much like other popular music generation tools, such as Suno and Udio. Describe a mood, style, or instrumentation, and it spits out a track. It can also generate lyrics based on your prompt, or even a reference photo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music)",
+    "contentSnippet": "Six times the slop. | Image: The Verge\t\n\nGoogle is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for specific elements like intros, choruses, and bridges for greater control over arrangements.\nLyria 3 Pro works much like other popular music generation tools, such as Suno and Udio. Describe a mood, style, or instrumentation, and it spits out a track. It can also generate lyrics based on your prompt, or even a reference photo …\nRead the full story at The Verge.",
+    "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for [&#8230;]",
+    "id": "https://www.theverge.com/?p=900425",
+    "isoDate": "2026-03-25T16:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-just-gave-up-on-sora-and-its-billion-dollar-disney-deal"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-lyria-3-pro-makes-longer-ai-songs"
   },
   {
-    "title": "(No AI) Helping developers build safer AI experiences for teens",
-    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "pubDate": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "content": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "contentSnippet": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "guid": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "title": "(No AI) Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "pubDate": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "contentSnippet": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "guid": "https://openai.com/index/our-approach-to-the-model-spec",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-03-25T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "inside-our-approach-to-the-model-spec"
+  },
+  {
+    "title": "(No AI) Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "pubDate": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "contentSnippet": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "guid": "https://openai.com/index/safety-bug-bounty",
     "categories": [
       "Safety"
     ],
-    "isoDate": "2026-03-24T11:00:00.000Z",
+    "isoDate": "2026-03-25T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "helping-developers-build-safer-ai-experiences-for-teens"
+    "slug": "introducing-the-openai-safety-bug-bounty-program"
   },
   {
-    "title": "(No AI) Update on the OpenAI Foundation",
-    "link": "https://openai.com/index/update-on-the-openai-foundation",
-    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "contentSnippet": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "guid": "https://openai.com/index/update-on-the-openai-foundation",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-03-24T09:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "update-on-the-openai-foundation"
+    "title": "(No AI) Lyria 3 Pro: Create longer tracks in more",
+    "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "pubDate": "Wed, 25 Mar 2026 16:01:39 +0000",
+    "content": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+    "contentSnippet": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+    "guid": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "isoDate": "2026-03-25T16:01:39.000Z",
+    "source": "Google DeepMind",
+    "slug": "lyria-3-pro-create-longer-tracks-in-more"
   },
   {
     "title": "(No AI) Measuring progress toward AGI: A cognitive framework",
@@ -108,46 +122,36 @@
     "slug": "measuring-progress-toward-agi-a-cognitive-framework"
   },
   {
-    "title": "(No AI) From games to biology and beyond: 10 years of AlphaGo’s impact",
-    "link": "https://deepmind.google/blog/10-years-of-alphago/",
-    "pubDate": "Mon, 09 Mar 2026 13:52:36 +0000",
-    "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
-    "contentSnippet": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
-    "guid": "https://deepmind.google/blog/10-years-of-alphago/",
-    "isoDate": "2026-03-09T13:52:36.000Z",
-    "source": "Google DeepMind",
-    "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
-    "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
-    "pubDate": "Wed, 25 Mar 2026 10:00:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
-    "contentSnippet": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
-    "guid": "69bb03aac28f59d9e9a29419",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Enters Its Focus Era by Killing Sora",
+    "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+    "pubDate": "Wed, 25 Mar 2026 14:57:45 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+    "contentSnippet": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+    "guid": "69c312fb2a4fd03c4ad6341f",
     "categories": [
-      "The Big Story"
-    ],
-    "isoDate": "2026-03-25T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "arm-s-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-    "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-    "pubDate": "Tue, 24 Mar 2026 22:13:17 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-    "contentSnippet": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-    "guid": "69c3093aa0256027504fdd2c",
-    "categories": [
+      "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-03-24T22:13:17.000Z",
+    "isoDate": "2026-03-25T14:57:45.000Z",
     "source": "Wired AI",
-    "slug": "pentagon-s-attempt-to-cripple-anthropic-is-troubling-judge-says"
+    "slug": "openai-enters-its-focus-era-by-killing-sora"
+  },
+  {
+    "creator": "Molly Taft",
+    "title": "(No AI) New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+    "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
+    "pubDate": "Wed, 25 Mar 2026 13:28:50 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+    "contentSnippet": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+    "guid": "69c2dc89ff7423eb20617d9d",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-03-25T13:28:50.000Z",
+    "source": "Wired AI",
+    "slug": "new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction"
   }
 ]
