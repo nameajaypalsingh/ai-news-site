@@ -1,75 +1,67 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Databricks bought two startups to underpin its new AI security product",
-    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-    "pubDate": "Tue, 24 Mar 2026 20:40:56 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-    "contentSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
-    "guid": "https://techcrunch.com/?p=3105584",
+    "creator": "Marina Temkin",
+    "title": "(No AI) With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+    "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+    "pubDate": "Wed, 25 Mar 2026 00:47:20 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+    "contentSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+    "guid": "https://techcrunch.com/?p=3105854",
     "categories": [
       "AI",
-      "Enterprise",
-      "Startups",
-      "acqui-hire",
-      "acquistions",
-      "Databricks"
+      "Venture",
+      "Kleiner Perkins"
     ],
-    "isoDate": "2026-03-24T20:40:56.000Z",
+    "isoDate": "2026-03-25T00:47:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "databricks-bought-two-startups-to-underpin-its-new-ai-security-product"
+    "slug": "with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Arm is releasing the first in-house chip in its 35-year history",
-    "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-    "pubDate": "Tue, 24 Mar 2026 19:48:54 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
-    "contentSnippet": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
-    "guid": "https://techcrunch.com/?p=3105603",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+    "pubDate": "Tue, 24 Mar 2026 23:57:55 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+    "contentSnippet": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+    "guid": "https://techcrunch.com/?p=3105737",
     "categories": [
       "AI",
-      "Enterprise",
-      "Hardware",
-      "Apple",
-      "ARM",
-      "ARM Holdings",
-      "cpus",
-      "Softbank"
+      "OpenAI",
+      "sora"
     ],
-    "isoDate": "2026-03-24T19:48:54.000Z",
+    "isoDate": "2026-03-24T23:57:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "arm-is-releasing-the-first-in-house-chip-in-its-35-year-history"
+    "slug": "openai-s-sora-was-the-creepiest-app-on-your-phone-now-it-s-shutting-down"
   },
   {
-    "title": "(No AI) ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-    "pubDate": "2026-03-24T17:13:00.000Z",
-    "author": "Emma Roth",
-    "content": "![Photo collage of a computer with the ChatGPT logo on the screen.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with [Gap Inc to allow its Gemini AI assistant](https://www.gapinc.com/en-us/articles/2026/03/gap-inc-elevates-online-shopping-with-ai-powered-f) to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI [launched an updated shopping interface in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt/).\n\nWith Google's new partnership, you may see products from one of Gap's brands if you're asking Gemini for shopping suggestions, along with an option to purchase the item without leaving the chatbot. Similar to Walmart and Target, which also let u …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features)",
-    "contentSnippet": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana Republic, and Athleta, while OpenAI launched an updated shopping interface in ChatGPT.\nWith Google's new partnership, you may see products from one of Gap's brands if you're asking Gemini for shopping suggestions, along with an option to purchase the item without leaving the chatbot. Similar to Walmart and Target, which also let u …\nRead the full story at The Verge.",
-    "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana [&#8230;]",
-    "id": "https://www.theverge.com/?p=899677",
-    "isoDate": "2026-03-24T17:13:00.000Z",
+    "title": "(No AI) OpenAI just gave up on Sora and its billion-dollar Disney deal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+    "pubDate": "2026-03-24T21:08:10.000Z",
+    "author": "Richard Lawler",
+    "content": "![Frame from a video generated by Sora 2 showing a cowboy riding a horse on top of another horse](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nA frame from a Sora 2-generated video. | Image: OpenAI\n\nOn Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. _[The Wall Street Journal](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)_ reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into ChatGPT as had previously been [rumored](https://www.theinformation.com/articles/openai-plans-launch-sora-video-ai-chatgpt-strategy-shift?rc=v4bmzs).\n\nAccording to _[The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/)_, as a result, the deal Disney announced in December, [saying it would invest $1 billion in OpenAI](https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images), license its characters for use …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt)",
+    "contentSnippet": "A frame from a Sora 2-generated video. | Image: OpenAI\t\n\nOn Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both the TikTok-like Sora app and API access for developers would be discontinued, with no plans to roll the feature into ChatGPT as had previously been rumored. \nAccording to The Hollywood Reporter, as a result, the deal Disney announced in December, saying it would invest $1 billion in OpenAI, license its characters for use  …\nRead the full story at The Verge.",
+    "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]",
+    "id": "https://www.theverge.com/?p=899850",
+    "isoDate": "2026-03-24T21:08:10.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362057/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chatgpt-and-gemini-are-fighting-to-be-the-ai-bot-that-sells-you-stuff"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-just-gave-up-on-sora-and-its-billion-dollar-disney-deal"
   },
   {
-    "title": "(No AI) Anthropic’s Claude Code and Cowork can control your computer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-    "pubDate": "2026-03-24T13:32:23.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A screenshot of the warning message that appears in Claude before allowing the AI chatbot to control your computer.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nClaude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic\n\nAnthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to [Anthropic's announcement](https://claude.com/blog/dispatch-and-computer-use).\n\nThese new capabilities are available as a research preview for Claude Pro and Max subscribers, and computer usage is limited to macOS \"for now,\" according to Anthropic. The feature [builds on autonomous capabilities](https://www.theverge.com/2024/10/22/24276822/anthopic-claude-3-5-sonnet-computer-use-ai) that were introduced on Claude's 3.5 Sonnet AI model in 2024, but now brings those to [the chatbot's C …](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer)",
-    "contentSnippet": "Claude will ask you for permission to autonomously perform taks on your computer. | Image by Anthropic\t\n\nAnthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement.\nThese new capabilities are available as a research preview for Claude Pro and Max subscribers, and computer usage is limited to macOS \"for now,\" according to Anthropic. The feature builds on autonomous capabilities that were introduced on Claude's 3.5 Sonnet AI model in 2024, but now brings those to the chatbot's C …\nRead the full story at The Verge.",
-    "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. [&#8230;]",
-    "id": "https://www.theverge.com/?p=899430",
-    "isoDate": "2026-03-24T13:32:23.000Z",
+    "title": "(No AI) Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+    "pubDate": "2026-03-24T20:43:14.000Z",
+    "author": "Richard Lawler",
+    "content": "![Stylized image showing the edge of a CPU](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter decades of only licensing its chip designs for others to use, UK-based Arm [revealed the first chip](https://newsroom.arm.com/news/arm-agi-cpu-launch) it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has [reportedly struggled](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504) to launch its own AI chips.\n\nMeta [says it's both the lead partner and co-developer](https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/), and plans to work on \"multiple generations\" of the data center CPUs, for use along with hardware from other vendors like [Nvidia](https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips) and [AMD](https://www.theverge.com/tech/883593/amd-forges-100-billion-deal-with-meta-for-ai-chips). Arm cus …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)",
+    "contentSnippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more and more tasks to run at once. The first company in line to use it is Meta, which has reportedly struggled to launch its own AI chips.\nMeta says it's both the lead partner and co-developer, and plans to work on \"multiple generations\" of the data center CPUs, for use along with hardware from other vendors like Nvidia and AMD. Arm cus …\nRead the full story at The Verge.",
+    "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]",
+    "id": "https://www.theverge.com/?p=899823",
+    "isoDate": "2026-03-24T20:43:14.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anthropic-Claude-Code-Cowork-computer-control.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-claude-code-and-cowork-can-control-your-computer"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "arm-s-first-cpu-ever-will-plug-into-meta-s-ai-data-centers-later-this-year"
   },
   {
     "title": "(No AI) Helping developers build safer AI experiences for teens",
@@ -122,6 +114,22 @@
     "slug": "from-games-to-biology-and-beyond-10-years-of-alphago-s-impact"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+    "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+    "pubDate": "Tue, 24 Mar 2026 22:13:17 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+    "contentSnippet": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+    "guid": "69c3093aa0256027504fdd2c",
+    "categories": [
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-24T22:13:17.000Z",
+    "source": "Wired AI",
+    "slug": "pentagon-s-attempt-to-cripple-anthropic-is-troubling-judge-says"
+  },
+  {
     "creator": "Lauren Goode",
     "title": "(No AI) Arm Is Now Making Its Own Chips",
     "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
@@ -137,22 +145,5 @@
     "isoDate": "2026-03-24T17:00:00.000Z",
     "source": "Wired AI",
     "slug": "arm-is-now-making-its-own-chips"
-  },
-  {
-    "creator": "Katie Drummond",
-    "title": "(No AI) Chris Hayes Has Some Advice for Keeping Up With the News",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
-    "pubDate": "Tue, 24 Mar 2026 10:30:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
-    "contentSnippet": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
-    "guid": "69bc3c22df76d8d9b81a2a37",
-    "categories": [
-      "Politics",
-      "Business"
-    ],
-    "isoDate": "2026-03-24T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "chris-hayes-has-some-advice-for-keeping-up-with-the-news"
   }
 ]
