@@ -1,44 +1,58 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-    "pubDate": "Thu, 26 Mar 2026 15:25:13 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
-    "contentSnippet": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
-    "guid": "https://techcrunch.com/?p=3106467",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "pubDate": "Thu, 26 Mar 2026 18:34:02 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+    "contentSnippet": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+    "guid": "https://techcrunch.com/?p=3106537",
     "categories": [
       "AI",
-      "Apps",
-      "bytedance",
-      "capcut",
-      "seedance 2.0"
+      "sam altman",
+      "OpenAI",
+      "ChatGPT"
     ],
-    "isoDate": "2026-03-26T15:25:13.000Z",
+    "isoDate": "2026-03-26T18:34:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "bytedance-s-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut"
+    "slug": "openai-abandons-yet-another-side-quest-chatgpt-s-erotic-mode"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-    "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-    "pubDate": "Thu, 26 Mar 2026 13:41:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-    "contentSnippet": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-    "guid": "https://techcrunch.com/?p=3106434",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Data centers get ready — the Senate wants to see your power bills",
+    "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "pubDate": "Thu, 26 Mar 2026 18:23:31 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+    "contentSnippet": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+    "guid": "https://techcrunch.com/?p=3106568",
     "categories": [
       "AI",
-      "Security",
-      "Startups",
-      "Conntour",
-      "General Catalyst",
-      "Y Combinator"
+      "Climate",
+      "Government & Policy",
+      "data centers",
+      "electrical grid",
+      "elizabeth warren",
+      "Josh Hawley"
     ],
-    "isoDate": "2026-03-26T13:41:00.000Z",
+    "isoDate": "2026-03-26T18:23:31.000Z",
     "source": "TechCrunch AI",
-    "slug": "conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems"
+    "slug": "data-centers-get-ready-the-senate-wants-to-see-your-power-bills"
+  },
+  {
+    "title": "(No AI) Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+    "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+    "pubDate": "2026-03-26T18:47:51.000Z",
+    "author": "Emma Roth",
+    "content": "![Google Search Live ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as [dozens of languages](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DAndroid#:~:text=in%20Search.-,AI%20Mode%20availability,-AI%20Mode%20is), according to [an announcement on Thursday](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/).\n\nSearch Live rolled out [broadly in the US last September](https://www.theverge.com/news/784685/google-search-live-ai-voice-search-launch), allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio response, along with links to information it finds on the web.\n\nVideo: Google\n\nGoogle says it's powering the global expansion of Search Live with its new […](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)",
+    "contentSnippet": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.\nSearch Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio response, along with links to information it finds on the web.\n\nVideo: Google\n\nGoogle says it's powering the global expansion of Search Live with its new  …\nRead the full story at The Verge.",
+    "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last [&#8230;]",
+    "id": "https://www.theverge.com/?p=901816",
+    "isoDate": "2026-03-26T18:47:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-live-ai-search-assistant-can-handle-conversations-in-dozens-more-languages"
   },
   {
     "title": "(No AI) Meta gets ready to launch two new Ray-Ban AI glasses",
@@ -53,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses"
-  },
-  {
-    "title": "(No AI) Wikipedia bans AI-generated articles",
-    "link": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-    "pubDate": "2026-03-26T15:02:52.000Z",
-    "author": "Emma Roth",
-    "content": "![Wikipedia logo on a black background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to [Wikipedia's guidelines late last week](https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models), cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban.\n\nThe change applies to the English version of Wikipedia and will still allow editors to use AI in certain scenarios. That includes using large language models to \"suggest basic copyedits\" to their writing, but only if it \"does not introduce content of its own.\" Editors can also use AI to translate articles from another language's Wikipedia into English. However, they sti …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban)",
-    "contentSnippet": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban.\nThe change applies to the English version of Wikipedia and will still allow editors to use AI in certain scenarios. That includes using large language models to \"suggest basic copyedits\" to their writing, but only if it \"does not introduce content of its own.\" Editors can also use AI to translate articles from another language's Wikipedia into English. However, they sti …\nRead the full story at The Verge.",
-    "summary": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the reason for the ban. The change applies to the English version of Wikipedia and will [&#8230;]",
-    "id": "https://www.theverge.com/?p=901461",
-    "isoDate": "2026-03-26T15:02:52.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "wikipedia-bans-ai-generated-articles"
   },
   {
     "title": "(No AI) Inside our approach to the Model Spec",
@@ -119,6 +119,23 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+    "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+    "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
+    "contentSnippet": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
+    "guid": "69c16d1b4feccf956a497528",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-26T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "meet-the-tech-reporters-using-ai-to-help-write-and-edit-their-stories"
+  },
+  {
     "creator": "Molly Taft",
     "title": "(No AI) Senators Demand to Know How Much Energy Data Centers Use",
     "link": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
@@ -133,22 +150,5 @@
     "isoDate": "2026-03-26T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "senators-demand-to-know-how-much-energy-data-centers-use"
-  },
-  {
-    "creator": "Jason Parham",
-    "title": "(No AI) ‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
-    "link": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
-    "pubDate": "Thu, 26 Mar 2026 10:30:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
-    "contentSnippet": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
-    "guid": "69c189bc181307c45c3c7ec7",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-03-26T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "she-s-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young"
   }
 ]
