@@ -1,42 +1,58 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Google unveils TurboQuant, a lossless AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
-    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
-    "pubDate": "Wed, 25 Mar 2026 20:38:45 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
-    "contentSnippet": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
-    "guid": "https://techcrunch.com/?p=3106221",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Mercor competitor Deccan AI raises $25M, sources experts from India",
+    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+    "pubDate": "Thu, 26 Mar 2026 00:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+    "contentSnippet": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+    "guid": "https://techcrunch.com/?p=3106190",
     "categories": [
+      "Startups",
       "AI",
-      "Google",
-      "pied piper",
-      "turboquant"
+      "Susquehanna International Group",
+      "A91 Partners",
+      "Prosus Ventures",
+      "Deccan AI"
     ],
-    "isoDate": "2026-03-25T20:38:45.000Z",
+    "isoDate": "2026-03-26T00:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-unveils-turboquant-a-lossless-ai-memory-compression-algorithm-and-yes-the-internet-is-calling-it-pied-piper"
+    "slug": "mercor-competitor-deccan-ai-raises-25m-sources-experts-from-india"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Melania Trump wants a robot to homeschool your child",
-    "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
-    "pubDate": "Wed, 25 Mar 2026 18:55:41 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
-    "contentSnippet": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
-    "guid": "https://techcrunch.com/?p=3106069",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "pubDate": "Wed, 25 Mar 2026 21:44:13 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+    "contentSnippet": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+    "guid": "https://techcrunch.com/?p=3106279",
     "categories": [
       "AI",
-      "Robotics",
-      "figure ai",
-      "melania trump",
-      "robots"
+      "AI unemployment",
+      "Anthropic",
+      "axios ai dummit",
+      "Exclusive"
     ],
-    "isoDate": "2026-03-25T18:55:41.000Z",
+    "isoDate": "2026-03-25T21:44:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "melania-trump-wants-a-robot-to-homeschool-your-child"
+    "slug": "the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead"
+  },
+  {
+    "title": "(No AI) Meta is laying off hundreds of employees as it pours money into AI",
+    "link": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+    "pubDate": "2026-03-25T21:10:32.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is laying off hundreds of employees across its company, according to reports from [_The New York Times_](https://www.nytimes.com/2026/03/25/technology/meta-lays-off-700-employees-while-rewarding-top-executives.html), [NBC News](https://www.nbcnews.com/tech/social-media/meta-layoffs-hundreds-employees-five-divisions-vr-ai-who-rcna265127), and [_The Information_](https://www.theinformation.com/articles/meta-platforms-lay-hundreds). The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets.\n\n\"Teams across Meta regularly restructure or implement changes to ensure they're in the best position to achieve their goals,\" Meta spokesperson Tracy Clayton says in an emailed statement to _The Verge_. \"Where possible, we are finding other opportunities for employees whose positions may be impacted.\"\n\nClayton declined …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees)",
+    "contentSnippet": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets.\n\"Teams across Meta regularly restructure or implement changes to ensure they're in the best position to achieve their goals,\" Meta spokesperson Tracy Clayton says in an emailed statement to The Verge. \"Where possible, we are finding other opportunities for employees whose positions may be impacted.\"\nClayton declined  …\nRead the full story at The Verge.",
+    "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta [&#8230;]",
+    "id": "https://www.theverge.com/?p=900946",
+    "isoDate": "2026-03-25T21:10:32.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-is-laying-off-hundreds-of-employees-as-it-pours-money-into-ai"
   },
   {
     "title": "(No AI) Disney’s big bets on the metaverse and AI slop aren’t going so well",
@@ -51,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "disney-s-big-bets-on-the-metaverse-and-ai-slop-aren-t-going-so-well"
-  },
-  {
-    "title": "(No AI) Can you monitor a situation without monitors? The Polymarket sports bar tried",
-    "link": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
-    "pubDate": "2026-03-25T18:19:32.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAttendees wait in line outside the Situation Room by Polymarket pop-up bar in Washington, DC, US, on Friday, March 20, 2026. | Graeme Slona/Bloomberg via Getty Images.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber,_ [_sign up here_](https://www.theverge.com/subscribe) _so you can get that pure, uncut_ Regulator _every Wednesday, straight from the source (aka me)._\n\n  \n  \nI was taking Friday off in Maine when two major pieces of tech news dropped: first, the White House released its framework for a comprehensive national AI bill with the intent of passing it through Congress. ([**Hayden Field**, our AI reporter, has a thorough analysis of it here](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework).) Second (and clearly more important), Polymarket opened th …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)",
-    "contentSnippet": "Attendees wait in line outside the Situation Room by Polymarket pop-up bar in Washington, DC, US, on Friday, March 20, 2026. | Graeme Slona/Bloomberg via Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me).  \n\nI was taking Friday off in Maine when two major pieces of tech news dropped: first, the White House released its framework for a comprehensive national AI bill with the intent of passing it through Congress. (Hayden Field, our AI reporter, has a thorough analysis of it here.) Second (and clearly more important), Polymarket opened th …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking [&#8230;]",
-    "id": "https://www.theverge.com/?p=900536",
-    "isoDate": "2026-03-25T18:19:32.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "can-you-monitor-a-situation-without-monitors-the-polymarket-sports-bar-tried"
   },
   {
     "title": "(No AI) Inside our approach to the Model Spec",
