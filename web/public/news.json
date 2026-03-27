@@ -118,37 +118,38 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Anthropic Supply-Chain-Risk Designation Halted by Judge",
-    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-    "pubDate": "Thu, 26 Mar 2026 23:33:05 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-    "contentSnippet": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-    "guid": "69c56883f8dc7d17ee9704a9",
+    "creator": "Miles Klee",
+    "title": "(No AI) A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+    "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+    "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+    "contentSnippet": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+    "guid": "69c16d11d63eaddaae6c9557",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Culture",
+      "Culture / Movies"
     ],
-    "isoDate": "2026-03-26T23:33:05.000Z",
+    "isoDate": "2026-03-27T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-supply-chain-risk-designation-halted-by-judge"
+    "slug": "a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-    "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
-    "pubDate": "Thu, 26 Mar 2026 18:00:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-    "contentSnippet": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-    "guid": "69c16d1b4feccf956a497528",
+    "creator": "Reece Rogers",
+    "title": "(No AI) I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+    "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+    "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+    "contentSnippet": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+    "guid": "69c40d0935fd13aa40807d68",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps"
     ],
-    "isoDate": "2026-03-26T18:00:00.000Z",
+    "isoDate": "2026-03-27T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "meet-the-tech-reporters-using-ai-to-help-write-and-edit-their-stories"
+    "slug": "i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often"
   }
 ]
