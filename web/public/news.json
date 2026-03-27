@@ -1,43 +1,57 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic wins injunction against Trump administration over Defense Department saga",
-    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "pubDate": "Fri, 27 Mar 2026 01:18:38 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "contentSnippet": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "guid": "https://techcrunch.com/?p=3106880",
+    "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+    "title": "(No AI) VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "pubDate": "Fri, 27 Mar 2026 15:40:19 +0000",
+    "dc:creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+    "content": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere \\[…\\]",
+    "contentSnippet": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3106990",
     "categories": [
       "AI",
-      "TC",
-      "Anthropic",
-      "defense",
-      "pete hegseth",
-      "Trump"
+      "Fundraising",
+      "Startups",
+      "brinc",
+      "drones",
+      "Equity podcast",
+      "Kleiner Perkins",
+      "Lucid Bots",
+      "Meta",
+      "meta lawsuit",
+      "OpenAI",
+      "sora",
+      "zipline"
     ],
-    "isoDate": "2026-03-27T01:18:38.000Z",
+    "isoDate": "2026-03-27T15:40:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-wins-injunction-against-trump-administration-over-defense-department-saga"
+    "slug": "vcs-are-betting-billions-on-ai-s-next-wave-so-why-is-openai-killing-sora"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "pubDate": "Thu, 26 Mar 2026 23:47:56 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-    "contentSnippet": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-    "guid": "https://techcrunch.com/?p=3106767",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) OpenAI shuts down Sora while Meta gets shut out in court",
+    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "pubDate": "Fri, 27 Mar 2026 13:30:00 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere \\[…\\]",
+    "contentSnippet": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3107013",
     "categories": [
       "AI",
-      "artificial intelligence",
-      "gemini",
-      "Google"
+      "Social",
+      "Startups",
+      "app shutdown",
+      "drones",
+      "Kleiner Perkins",
+      "Meta",
+      "meta lawsuit",
+      "OpenAI",
+      "Roundup",
+      "sora"
     ],
-    "isoDate": "2026-03-26T23:47:56.000Z",
+    "isoDate": "2026-03-27T13:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini"
+    "slug": "openai-shuts-down-sora-while-meta-gets-shut-out-in-court"
   },
   {
     "title": "(No AI) Judge sides with Anthropic to temporarily block the Pentagon’s ban",
@@ -118,8 +132,25 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Steven Levy",
+    "title": "(No AI) Apple Still Plans to Sell iPhones When It Turns 100",
+    "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+    "pubDate": "Fri, 27 Mar 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+    "contentSnippet": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+    "guid": "69c57811b787b8cd7122aff9",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-03-27T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "apple-still-plans-to-sell-iphones-when-it-turns-100"
+  },
+  {
     "creator": "Miles Klee",
-    "title": "(No AI) A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+    "title": "(No AI) The Latest AI Documentary Asks: Just How Scared Should We Be?",
     "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
     "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000",
     "dc:creator": "Miles Klee",
@@ -132,24 +163,6 @@
     ],
     "isoDate": "2026-03-27T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-    "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-    "contentSnippet": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-    "guid": "69c40d0935fd13aa40807d68",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
-    ],
-    "isoDate": "2026-03-27T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often"
+    "slug": "the-latest-ai-documentary-asks-just-how-scared-should-we-be"
   }
 ]
