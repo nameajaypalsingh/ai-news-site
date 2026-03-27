@@ -1,72 +1,71 @@
 [
   {
     "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "pubDate": "Thu, 26 Mar 2026 18:34:02 +0000",
+    "title": "(No AI) Anthropic wins injunction against Trump administration over Defense Department saga",
+    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+    "pubDate": "Fri, 27 Mar 2026 01:18:38 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-    "contentSnippet": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-    "guid": "https://techcrunch.com/?p=3106537",
+    "content": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+    "contentSnippet": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+    "guid": "https://techcrunch.com/?p=3106880",
     "categories": [
       "AI",
-      "sam altman",
-      "OpenAI",
-      "ChatGPT"
+      "TC",
+      "Anthropic",
+      "defense",
+      "pete hegseth",
+      "Trump"
     ],
-    "isoDate": "2026-03-26T18:34:02.000Z",
+    "isoDate": "2026-03-27T01:18:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-abandons-yet-another-side-quest-chatgpt-s-erotic-mode"
+    "slug": "anthropic-wins-injunction-against-trump-administration-over-defense-department-saga"
   },
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Data centers get ready — the Senate wants to see your power bills",
-    "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-    "pubDate": "Thu, 26 Mar 2026 18:23:31 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-    "contentSnippet": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-    "guid": "https://techcrunch.com/?p=3106568",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "pubDate": "Thu, 26 Mar 2026 23:47:56 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+    "contentSnippet": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+    "guid": "https://techcrunch.com/?p=3106767",
     "categories": [
       "AI",
-      "Climate",
-      "Government & Policy",
-      "data centers",
-      "electrical grid",
-      "elizabeth warren",
-      "Josh Hawley"
+      "artificial intelligence",
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-03-26T18:23:31.000Z",
+    "isoDate": "2026-03-26T23:47:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "data-centers-get-ready-the-senate-wants-to-see-your-power-bills"
+    "slug": "you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini"
   },
   {
-    "title": "(No AI) Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
-    "link": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-    "pubDate": "2026-03-26T18:47:51.000Z",
-    "author": "Emma Roth",
-    "content": "![Google Search Live ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as [dozens of languages](https://support.google.com/websearch/answer/16011537?hl=en&co=GENIE.Platform%3DAndroid#:~:text=in%20Search.-,AI%20Mode%20availability,-AI%20Mode%20is), according to [an announcement on Thursday](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/).\n\nSearch Live rolled out [broadly in the US last September](https://www.theverge.com/news/784685/google-search-live-ai-voice-search-launch), allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio response, along with links to information it finds on the web.\n\nVideo: Google\n\nGoogle says it's powering the global expansion of Search Live with its new […](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)",
-    "contentSnippet": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday.\nSearch Live rolled out broadly in the US last September, allowing you to point your phone's camera at something and ask about it aloud, such as how to install a shelving unit. The AI assistant will then offer an audio response, along with links to information it finds on the web.\n\nVideo: Google\n\nGoogle says it's powering the global expansion of Search Live with its new  …\nRead the full story at The Verge.",
-    "summary": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territories, as well as dozens of languages, according to an announcement on Thursday. Search Live rolled out broadly in the US last [&#8230;]",
-    "id": "https://www.theverge.com/?p=901816",
-    "isoDate": "2026-03-26T18:47:51.000Z",
+    "title": "(No AI) Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+    "pubDate": "2026-03-27T00:33:44.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out.\n\n\"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the [order](https://www.courtlistener.com/docket/72379655/134/anthropic-pbc-v-us-department-of-war/), which will go into effect in seven days. \"Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendme …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction)",
+    "contentSnippet": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \n\"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go into effect in seven days. \"Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendme …\nRead the full story at The Verge.",
+    "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner [&#8230;]",
+    "id": "https://www.theverge.com/?p=902149",
+    "isoDate": "2026-03-27T00:33:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Search-Live-Blog-Header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-live-ai-search-assistant-can-handle-conversations-in-dozens-more-languages"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "judge-sides-with-anthropic-to-temporarily-block-the-pentagon-s-ban"
   },
   {
-    "title": "(No AI) Meta gets ready to launch two new Ray-Ban AI glasses",
-    "link": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-    "pubDate": "2026-03-26T16:30:00.000Z",
-    "author": "Janko Roettgers",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSecond-generation Ray-Ban Meta glasses. | Photo by Amelia Holowaty Krales / The Verge\n\n_This is_ [Lowpass _by Janko Roettgers_](https://www.lowpass.cc/)_, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for_ The Verge _subscribers once a week._\n\nMeta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of [FCC filings](https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=73Kc2o4BtndCmqXn1%2FffLA%3D%3D&fcc_id=2AYOA-4010) for two new Meta Ray-Ban models that were published by the agency earlier this month.\n\nThe filings describe the tested devices as production units, suggesting that Meta may launch them soon. When the company unveiled its second-generation Ray-Bans in late 2023, it did so a little over a month after the …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses)",
-    "contentSnippet": "Second-generation Ray-Ban Meta glasses. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThis is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\nMeta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for two new Meta Ray-Ban models that were published by the agency earlier this month.\nThe filings describe the tested devices as production units, suggesting that Meta may launch them soon. When the company unveiled its second-generation Ray-Bans in late 2023, it did so a little over a month after the  …\nRead the full story at The Verge.",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware partner EssilorLuxottica are getting ready to launch the next generation of their Ray-Ban AI glasses. That's according to a series of FCC filings for [&#8230;]",
-    "id": "https://www.theverge.com/?p=901314",
-    "isoDate": "2026-03-26T16:30:00.000Z",
+    "title": "(No AI) David Sacks is no longer the White House AI and Crypto Czar",
+    "link": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+    "pubDate": "2026-03-26T23:40:22.000Z",
+    "author": "Tina Nguyen",
+    "content": "![Digital photo illustration of David Sacks with crypto coins.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDavid Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto.\n\nSacks' official status as an SGE allowed him to work simultaneously in the private sector and for the government, but for no more than 130 days, raising questions about why he was still in the job more than a year after his appointment. But [in an interview with Bloomberg Television](https://www.youtube.com/watch?v=Mw2GufJ9RvE&t=239s) discussing the Whit …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)",
+    "contentSnippet": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto.\nSacks' official status as an SGE allowed him to work simultaneously in the private sector and for the government, but for no more than 130 days, raising questions about why he was still in the job more than a year after his appointment. But in an interview with Bloomberg Television discussing the Whit …\nRead the full story at The Verge.",
+    "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' [&#8230;]",
+    "id": "https://www.theverge.com/?p=902140",
+    "isoDate": "2026-03-26T23:40:22.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "david-sacks-is-no-longer-the-white-house-ai-and-crypto-czar"
   },
   {
     "title": "(No AI) Inside our approach to the Model Spec",
@@ -119,6 +118,23 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Anthropic Supply-Chain-Risk Designation Halted by Judge",
+    "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+    "pubDate": "Thu, 26 Mar 2026 23:33:05 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+    "contentSnippet": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+    "guid": "69c56883f8dc7d17ee9704a9",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-03-26T23:33:05.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-supply-chain-risk-designation-halted-by-judge"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
     "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
@@ -134,21 +150,5 @@
     "isoDate": "2026-03-26T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "meet-the-tech-reporters-using-ai-to-help-write-and-edit-their-stories"
-  },
-  {
-    "creator": "Molly Taft",
-    "title": "(No AI) Senators Demand to Know How Much Energy Data Centers Use",
-    "link": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
-    "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-    "contentSnippet": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-    "guid": "69c412954ff31d9d83686f71",
-    "categories": [
-      "Science"
-    ],
-    "isoDate": "2026-03-26T12:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "senators-demand-to-know-how-much-energy-data-centers-use"
   }
 ]
