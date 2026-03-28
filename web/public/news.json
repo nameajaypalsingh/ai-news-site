@@ -39,7 +39,21 @@
     "slug": "anthropic-s-claude-popularity-with-paying-consumers-is-skyrocketing"
   },
   {
-    "title": "(No AI) TikTok’s policy for AI ads isn’t working",
+    "title": "(No AI) Suno leans into customization with v5.5",
+    "link": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+    "pubDate": "2026-03-28T18:33:10.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Suno V5.5 logo in big bold font, daring you to talk smack.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&strip=all&crop=0,0,100,100)\n\nSlop yourself. | Image: Suno\n\nSuno just released one of its biggest updates yet with [v5.5](https://suno.com/blog/v5-5) of its AI music model. Where previous updates focused mostly on [improving fidelity](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright) and creating [more natural vocals](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review), v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models.\n\nIn the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks with backing music, or just sing directly into the mic on their phone or laptop. The cleaner and higher quality the recording, the less data is required. And to prevent someone fro …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model)",
+    "contentSnippet": "Slop yourself. | Image: Suno\t\n\nSuno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models.\nIn the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks with backing music, or just sing directly into the mic on their phone or laptop. The cleaner and higher quality the recording, the less data is required. And to prevent someone fro …\nRead the full story at The Verge.",
+    "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
+    "id": "https://www.theverge.com/?p=903056",
+    "isoDate": "2026-03-28T18:33:10.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "suno-leans-into-customization-with-v5-5"
+  },
+  {
+    "title": "(No AI) Why can’t TikTok identify AI generated ads when I can?",
     "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
     "pubDate": "2026-03-28T14:00:00.000Z",
     "author": "Jess Weatherbed",
@@ -50,21 +64,7 @@
     "isoDate": "2026-03-28T14:00:00.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "tiktok-s-policy-for-ai-ads-isn-t-working"
-  },
-  {
-    "title": "(No AI) Why OpenAI killed Sora",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-    "pubDate": "2026-03-28T12:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![Stylized image of OpenAI CEO Sam Altman, seated](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Tuesday morning, everything was business as usual at OpenAI. By the end of the day, [the company had announced](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; [it would wind down](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) a $1 billion Disney deal; it would shuffle the role of a high-level executive; and it would raise an additional $10 billion from investors, adding up to more than $120 billion total for its latest funding round.\n\nOpenAI is now in a frenzy to turn a profit, or at least lose less money. Since its launch, Sora seems to have taken up a massive amount of compute without the financial return to justify it. Indus …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)",
-    "contentSnippet": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and it would raise an additional $10 billion from investors, adding up to more than $120 billion total for its latest funding round. \nOpenAI is now in a frenzy to turn a profit, or at least lose less money. Since its launch, Sora seems to have taken up a massive amount of compute without the financial return to justify it. Indus …\nRead the full story at The Verge.",
-    "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and [&#8230;]",
-    "id": "https://www.theverge.com/?p=902368",
-    "isoDate": "2026-03-28T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-openai-killed-sora"
+    "slug": "why-can-t-tiktok-identify-ai-generated-ads-when-i-can"
   },
   {
     "title": "(No AI) STADLER reshapes knowledge work at a 230-year-old company",
