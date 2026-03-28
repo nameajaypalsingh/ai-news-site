@@ -1,47 +1,56 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-    "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-    "contentSnippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-    "guid": "https://techcrunch.com/?p=3107152",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Elon Musk’s last co-founder reportedly leaves xAI",
+    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "pubDate": "Sat, 28 Mar 2026 16:11:16 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "contentSnippet": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "guid": "https://techcrunch.com/?p=3107357",
     "categories": [
       "AI",
-      "Venture",
-      "Goldman Sachs",
-      "IPO",
-      "jp morgan",
-      "OpenAI",
-      "SoftBank Group International",
-      "In Brief"
+      "Startups",
+      "Elon Musk",
+      "manuel kroiss",
+      "ross nordeen",
+      "SpaceX",
+      "xAI"
     ],
-    "isoDate": "2026-03-27T21:44:45.000Z",
+    "isoDate": "2026-03-28T16:11:16.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-softbank-s-new-40b-loan-points-to-a-2026-openai-ipo"
+    "slug": "elon-musk-s-last-co-founder-reportedly-leaves-xai"
   },
   {
-    "creator": "Kate Park",
-    "title": "(No AI) Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-    "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-    "pubDate": "Fri, 27 Mar 2026 19:11:28 +0000",
-    "dc:creator": "Kate Park",
-    "content": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-    "contentSnippet": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-    "guid": "https://techcrunch.com/?p=3106944",
+    "creator": "Julie Bort",
+    "title": "(No AI) Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "pubDate": "Sat, 28 Mar 2026 14:15:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "contentSnippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "guid": "https://techcrunch.com/?p=3106809",
     "categories": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "IPOs",
-      "memory",
-      "SK Hynix"
+      "TC",
+      "AI"
     ],
-    "isoDate": "2026-03-27T19:11:28.000Z",
+    "isoDate": "2026-03-28T14:15:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo"
+    "slug": "anthropic-s-claude-popularity-with-paying-consumers-is-skyrocketing"
+  },
+  {
+    "title": "(No AI) TikTok’s policy for AI ads isn’t working",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+    "pubDate": "2026-03-28T14:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A screenshot taken from a Samsung video promoting AI editing tools.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSamsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung\n\nI've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, I didn't see any examples with the AI disclosure required by TikTok's advertising policies, however, so I had no way of knowing for sure.\n\nWhat irks me is that _someone_ knows for sure if the content is AI-generated. They're just not telling the rest of us. And if companies that [claim to support AI-labelling …](https://www.theverge.com/tech/885727/samsung-execs-unpacked-ai-deepfake-photos-vs-reality-c2pa)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)",
+    "contentSnippet": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung\t\n\nI've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, I didn't see any examples with the AI disclosure required by TikTok's advertising policies, however, so I had no way of knowing for sure.\nWhat irks me is that someone knows for sure if the content is AI-generated. They're just not telling the rest of us. And if companies that claim to support AI-labelling …\nRead the full story at The Verge.",
+    "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, [&#8230;]",
+    "id": "https://www.theverge.com/?p=900400",
+    "isoDate": "2026-03-28T14:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "tiktok-s-policy-for-ai-ads-isn-t-working"
   },
   {
     "title": "(No AI) Why OpenAI killed Sora",
@@ -56,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "why-openai-killed-sora"
-  },
-  {
-    "title": "(No AI) The latest in data centers, AI, and energy ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "pubDate": "2026-03-27T18:35:53.000Z",
-    "author": "Verge Staff",
-    "content": "![Server racks on a dark brown background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_DATA_CENTER.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMassive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. \n\nFrom audacious plans to [launch data centers into space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers) to the latest [legal battles](https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles) over pollution, _The Verge_ has the biggest news and reporting surrounding data centers.\n\n*   [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)\n*   [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)\n*   [Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) \n*   [Trump claims tech companies will sign deals next week to pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)\n*   [Anthropic says it’ll try to keep its data centers from raising electricity costs](https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge)\n*   [How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project](https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice)\n*   [Microsoft wants to rewire data centers to save space](https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor)\n*   [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)\n*   [Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says](https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo)\n*   [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge)\n*   [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)\n*   [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)\n*   [OpenAI says its data centers will pay for their own energy and limit water usage](https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills)\n*   [Microsoft scrambles to quell fury around its new AI data centers](https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates)\n*   [Communities are rising up against data centers — and winning](https://www.theverge.com/science/841169/ai-data-center-opposition)\n*   [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers)\n*   [AI’s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)\n*   [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)\n*   [The scramble to launch data centers into space is heating up](https://www.theverge.com/news/841887/data-center-space-solar-power-aetherflux-lunch)\n*   [Data center construction moratorium is gaining steam](https://www.theverge.com/news/840883/data-center-moratorium-letter-congress)\n*   [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage)\n*   [Google is turning on the gas for its data centers](https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture)\n*   [Tech companies ‘be on alert,’ NAACP says with new guiding principles for data centers](https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles)",
-    "contentSnippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. \nFrom audacious plans to launch data centers into space to the latest legal battles over pollution, The Verge has the biggest news and reporting surrounding data centers.\n\n\n\t\t\t\t\t\nSenators are pushing to find out how much electricity data centers actually use\n\t\t\t\nHow the spiraling Iran conflict could affect data centers and electricity costs\n\t\t\t\nSeven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers \n\t\t\t\nTrump claims tech companies will sign deals next week to pay for their own power supply\n\t\t\t\nAnthropic says it’ll try to keep its data centers from raising electricity costs\n\t\t\t\nHow an ‘icepocalypse’ raises more questions about Meta’s biggest data center project\n\t\t\t\nMicrosoft wants to rewire data centers to save space\n\t\t\t\nNew York is considering two bills to rein in the AI industry\n\t\t\t\nElon Musk is merging SpaceX and xAI to build data centers in space — or so he says\n\t\t\t\nIt’s a new heyday for gas thanks to data centers\n\t\t\t\nMeta is spending millions to convince people that data centers are cool and you like them\n\t\t\t\nThe winter storm tested power grids straining to accommodate AI data centers\n\t\t\t\nOpenAI says its data centers will pay for their own energy and limit water usage\n\t\t\t\nMicrosoft scrambles to quell fury around its new AI data centers\n\t\t\t\nCommunities are rising up against data centers — and winning\n\t\t\t\nBillionaires want data centers everywhere, including space\n\t\t\t\nAI’s water and electricity use soars in 2025\n\t\t\t\nRacks of AI chips are too damn heavy\n\t\t\t\nThe scramble to launch data centers into space is heating up\n\t\t\t\nData center construction moratorium is gaining steam\n\t\t\t\nData centers in Oregon might be helping to drive an increase in cancer and miscarriages\n\t\t\t\nGoogle is turning on the gas for its data centers\n\t\t\t\nTech companies ‘be on alert,’ NAACP says with new guiding principles for data centers",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=902546",
-    "isoDate": "2026-03-27T18:35:53.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_DATA_CENTER.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-latest-in-data-centers-ai-and-energy"
   },
   {
     "title": "(No AI) STADLER reshapes knowledge work at a 230-year-old company",
