@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+    "contentSnippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+    "guid": "https://techcrunch.com/?p=3107152",
+    "categories": [
+      "AI",
+      "Venture",
+      "Goldman Sachs",
+      "IPO",
+      "jp morgan",
+      "OpenAI",
+      "SoftBank Group International",
+      "In Brief"
+    ],
+    "isoDate": "2026-03-27T21:44:45.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-softbank-s-new-40b-loan-points-to-a-2026-openai-ipo"
+  },
+  {
     "creator": "Kate Park",
     "title": "(No AI) Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
     "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
@@ -19,34 +42,6 @@
     "isoDate": "2026-03-27T19:11:28.000Z",
     "source": "TechCrunch AI",
     "slug": "memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo"
-  },
-  {
-    "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "title": "(No AI) VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "pubDate": "Fri, 27 Mar 2026 15:40:19 +0000",
-    "dc:creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "content": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere \\[…\\]",
-    "contentSnippet": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3106990",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "brinc",
-      "drones",
-      "Equity podcast",
-      "Kleiner Perkins",
-      "Lucid Bots",
-      "Meta",
-      "meta lawsuit",
-      "OpenAI",
-      "sora",
-      "zipline"
-    ],
-    "isoDate": "2026-03-27T15:40:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "vcs-are-betting-billions-on-ai-s-next-wave-so-why-is-openai-killing-sora"
   },
   {
     "title": "(No AI) The latest in data centers, AI, and energy ",
@@ -77,6 +72,20 @@
     "slug": "judge-sides-with-anthropic-to-temporarily-block-the-pentagon-s-ban"
   },
   {
+    "title": "(No AI) STADLER reshapes knowledge work at a 230-year-old company",
+    "link": "https://openai.com/index/stadler",
+    "pubDate": "Fri, 27 Mar 2026 22:00:00 GMT",
+    "content": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "contentSnippet": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+    "guid": "https://openai.com/index/stadler",
+    "categories": [
+      "B2B Story"
+    ],
+    "isoDate": "2026-03-27T22:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "stadler-reshapes-knowledge-work-at-a-230-year-old-company"
+  },
+  {
     "title": "(No AI) Inside our approach to the Model Spec",
     "link": "https://openai.com/index/our-approach-to-the-model-spec",
     "pubDate": "Wed, 25 Mar 2026 10:00:00 GMT",
@@ -89,20 +98,6 @@
     "isoDate": "2026-03-25T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "inside-our-approach-to-the-model-spec"
-  },
-  {
-    "title": "(No AI) Introducing the OpenAI Safety Bug Bounty program",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "pubDate": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "contentSnippet": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "guid": "https://openai.com/index/safety-bug-bounty",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-03-25T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-the-openai-safety-bug-bounty-program"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -127,6 +122,22 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Will Knight, Zeyi Yang",
+    "title": "(No AI) AI Research Is Getting Harder to Separate From Geopolitics",
+    "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "pubDate": "Fri, 27 Mar 2026 21:46:39 +0000",
+    "dc:creator": "Will Knight, Zeyi Yang",
+    "content": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "contentSnippet": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "guid": "69c6a3ac94502e7091a2c21a",
+    "categories": [
+      "Business"
+    ],
+    "isoDate": "2026-03-27T21:46:39.000Z",
+    "source": "Wired AI",
+    "slug": "ai-research-is-getting-harder-to-separate-from-geopolitics"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) Apple Still Plans to Sell iPhones When It Turns 100",
     "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
@@ -142,22 +153,5 @@
     "isoDate": "2026-03-27T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "apple-still-plans-to-sell-iphones-when-it-turns-100"
-  },
-  {
-    "creator": "Miles Klee",
-    "title": "(No AI) The Latest AI Documentary Asks: Just How Scared Should We Be?",
-    "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
-    "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-    "contentSnippet": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-    "guid": "69c16d11d63eaddaae6c9557",
-    "categories": [
-      "Culture",
-      "Culture / Movies"
-    ],
-    "isoDate": "2026-03-27T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-latest-ai-documentary-asks-just-how-scared-should-we-be"
   }
 ]
