@@ -1,42 +1,42 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Elon Musk’s last co-founder reportedly leaves xAI",
-    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-    "pubDate": "Sat, 28 Mar 2026 16:11:16 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "All but two of Musk's 11 xAI co-founders departed before this week.",
-    "contentSnippet": "All but two of Musk's 11 xAI co-founders departed before this week.",
-    "guid": "https://techcrunch.com/?p=3107357",
-    "categories": [
-      "AI",
-      "Startups",
-      "Elon Musk",
-      "manuel kroiss",
-      "ross nordeen",
-      "SpaceX",
-      "xAI"
-    ],
-    "isoDate": "2026-03-28T16:11:16.000Z",
-    "source": "TechCrunch AI",
-    "slug": "elon-musk-s-last-co-founder-reportedly-leaves-xai"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Anthropic’s Claude popularity with paying consumers is skyrocketing",
-    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "pubDate": "Sat, 28 Mar 2026 14:15:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-    "contentSnippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-    "guid": "https://techcrunch.com/?p=3106809",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Bluesky leans into AI with Attie, an app for building custom feeds",
+    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "pubDate": "Sat, 28 Mar 2026 23:00:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "contentSnippet": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "guid": "https://techcrunch.com/?p=3107020",
     "categories": [
       "TC",
-      "AI"
+      "AI",
+      "Apps",
+      "Social",
+      "social media",
+      "Bluesky",
+      "ai apps"
     ],
-    "isoDate": "2026-03-28T14:15:00.000Z",
+    "isoDate": "2026-03-28T23:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-popularity-with-paying-consumers-is-skyrocketing"
+    "slug": "bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds"
+  },
+  {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "pubDate": "Sat, 28 Mar 2026 20:45:54 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "contentSnippet": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "guid": "https://techcrunch.com/?p=3107363",
+    "categories": [
+      "AI",
+      "stanford"
+    ],
+    "isoDate": "2026-03-28T20:45:54.000Z",
+    "source": "TechCrunch AI",
+    "slug": "stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice"
   },
   {
     "title": "(No AI) Suno leans into customization with v5.5",
