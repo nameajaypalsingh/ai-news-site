@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Sora’s shutdown could be a reality check moment for AI video",
+    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "pubDate": "Sun, 29 Mar 2026 16:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "contentSnippet": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "guid": "https://techcrunch.com/?p=3107375",
+    "categories": [
+      "AI",
+      "Media & Entertainment",
+      "Equity podcast",
+      "OpenAI"
+    ],
+    "isoDate": "2026-03-29T16:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sora-s-shutdown-could-be-a-reality-check-moment-for-ai-video"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Bluesky leans into AI with Attie, an app for building custom feeds",
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
@@ -20,23 +39,6 @@
     "isoDate": "2026-03-28T23:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "pubDate": "Sat, 28 Mar 2026 20:45:54 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-    "contentSnippet": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-    "guid": "https://techcrunch.com/?p=3107363",
-    "categories": [
-      "AI",
-      "stanford"
-    ],
-    "isoDate": "2026-03-28T20:45:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice"
   },
   {
     "title": "(No AI) Suno leans into customization with v5.5",
