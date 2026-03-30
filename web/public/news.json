@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) As more Americans adopt AI tools, fewer say they can trust the results",
+    "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "pubDate": "Mon, 30 Mar 2026 20:24:53 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+    "contentSnippet": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+    "guid": "https://techcrunch.com/?p=3107654",
+    "categories": [
+      "AI",
+      "AI trust",
+      "quinnipiac university"
+    ],
+    "isoDate": "2026-03-30T20:24:53.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-more-americans-adopt-ai-tools-fewer-say-they-can-trust-the-results"
+  },
+  {
     "creator": "Ram Iyer",
     "title": "(No AI) Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
     "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
@@ -19,28 +37,6 @@
     "isoDate": "2026-03-30T14:30:00.000Z",
     "source": "TechCrunch AI",
     "slug": "mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicine-s-data-availability-problem"
-  },
-  {
-    "creator": "Kate Park",
-    "title": "(No AI) ScaleOps raises $130M to improve computing efficiency amid AI demand",
-    "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "pubDate": "Mon, 30 Mar 2026 13:52:02 +0000",
-    "dc:creator": "Kate Park",
-    "content": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-    "contentSnippet": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-    "guid": "https://techcrunch.com/?p=3107417",
-    "categories": [
-      "AI",
-      "Startups",
-      "GPU",
-      "GPU optimization",
-      "Insight Partners",
-      "Kubernetes",
-      "ScaleOps"
-    ],
-    "isoDate": "2026-03-30T13:52:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "scaleops-raises-130m-to-improve-computing-efficiency-amid-ai-demand"
   },
   {
     "title": "(No AI) Okta’s CEO is betting big on AI agent identity",
