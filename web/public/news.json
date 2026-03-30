@@ -1,41 +1,41 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Why OpenAI really shut down Sora",
-    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "pubDate": "Mon, 30 Mar 2026 03:09:38 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-    "contentSnippet": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-    "guid": "https://techcrunch.com/?p=3107404",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "pubDate": "Mon, 30 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+    "contentSnippet": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+    "guid": "https://techcrunch.com/?p=3107196",
     "categories": [
+      "Hardware",
       "AI",
-      "TC",
-      "OpenAI",
-      "sora"
+      "chips",
+      "Rebellions"
     ],
-    "isoDate": "2026-03-30T03:09:38.000Z",
+    "isoDate": "2026-03-30T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-openai-really-shut-down-sora"
+    "slug": "ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Sora’s shutdown could be a reality check moment for AI video",
-    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "pubDate": "Sun, 29 Mar 2026 16:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "contentSnippet": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "guid": "https://techcrunch.com/?p=3107375",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Mistral AI raises $830M in debt to set up a data center near Paris",
+    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+    "pubDate": "Mon, 30 Mar 2026 12:49:51 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Mistral aims to start operating the data center by the second quarter of 2026.",
+    "contentSnippet": "Mistral aims to start operating the data center by the second quarter of 2026.",
+    "guid": "https://techcrunch.com/?p=3107422",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Equity podcast",
-      "OpenAI"
+      "data centers",
+      "Mistral AI",
+      "nvidia"
     ],
-    "isoDate": "2026-03-29T16:30:00.000Z",
+    "isoDate": "2026-03-30T12:49:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "sora-s-shutdown-could-be-a-reality-check-moment-for-ai-video"
+    "slug": "mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris"
   },
   {
     "title": "(No AI) All the latest in AI ‘music’",
@@ -116,6 +116,23 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Caroline Haskins",
+    "title": "(No AI) The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
+    "link": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
+    "pubDate": "Mon, 30 Mar 2026 09:30:00 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
+    "contentSnippet": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
+    "guid": "6995eb316d98d90f48952b8a",
+    "categories": [
+      "Business",
+      "Business / Computers and Software"
+    ],
+    "isoDate": "2026-03-30T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-irs-wants-smarter-audits-palantir-could-help-decide-who-gets-flagged"
+  },
+  {
     "creator": "Will Knight, Zeyi Yang",
     "title": "(No AI) AI Research Is Getting Harder to Separate From Geopolitics",
     "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
@@ -130,22 +147,5 @@
     "isoDate": "2026-03-27T21:46:39.000Z",
     "source": "Wired AI",
     "slug": "ai-research-is-getting-harder-to-separate-from-geopolitics"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Apple Still Plans to Sell iPhones When It Turns 100",
-    "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-    "pubDate": "Fri, 27 Mar 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-    "contentSnippet": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-    "guid": "69c57811b787b8cd7122aff9",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-03-27T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "apple-still-plans-to-sell-iphones-when-it-turns-100"
   }
 ]
