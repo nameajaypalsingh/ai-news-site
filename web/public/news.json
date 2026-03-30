@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Why OpenAI really shut down Sora",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "pubDate": "Mon, 30 Mar 2026 03:09:38 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+    "contentSnippet": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+    "guid": "https://techcrunch.com/?p=3107404",
+    "categories": [
+      "AI",
+      "TC",
+      "OpenAI",
+      "sora"
+    ],
+    "isoDate": "2026-03-30T03:09:38.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-openai-really-shut-down-sora"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Sora’s shutdown could be a reality check moment for AI video",
     "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
@@ -17,28 +36,6 @@
     "isoDate": "2026-03-29T16:30:00.000Z",
     "source": "TechCrunch AI",
     "slug": "sora-s-shutdown-could-be-a-reality-check-moment-for-ai-video"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Bluesky leans into AI with Attie, an app for building custom feeds",
-    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "pubDate": "Sat, 28 Mar 2026 23:00:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-    "contentSnippet": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-    "guid": "https://techcrunch.com/?p=3107020",
-    "categories": [
-      "TC",
-      "AI",
-      "Apps",
-      "Social",
-      "social media",
-      "Bluesky",
-      "ai apps"
-    ],
-    "isoDate": "2026-03-28T23:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds"
   },
   {
     "title": "(No AI) All the latest in AI ‘music’",
@@ -69,6 +66,20 @@
     "slug": "bluesky-s-new-app-is-an-ai-for-customizing-your-feed"
   },
   {
+    "title": "(No AI) Helping disaster response teams turn AI into action across Asia",
+    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "pubDate": "Sun, 29 Mar 2026 22:15:00 GMT",
+    "content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "contentSnippet": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+    "guid": "https://openai.com/index/helping-disaster-response-teams-asia",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-03-29T22:15:00.000Z",
+    "source": "OpenAI",
+    "slug": "helping-disaster-response-teams-turn-ai-into-action-across-asia"
+  },
+  {
     "title": "(No AI) STADLER reshapes knowledge work at a 230-year-old company",
     "link": "https://openai.com/index/stadler",
     "pubDate": "Fri, 27 Mar 2026 22:00:00 GMT",
@@ -81,20 +92,6 @@
     "isoDate": "2026-03-27T22:00:00.000Z",
     "source": "OpenAI",
     "slug": "stadler-reshapes-knowledge-work-at-a-230-year-old-company"
-  },
-  {
-    "title": "(No AI) Inside our approach to the Model Spec",
-    "link": "https://openai.com/index/our-approach-to-the-model-spec",
-    "pubDate": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "content": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "contentSnippet": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "guid": "https://openai.com/index/our-approach-to-the-model-spec",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-03-25T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "inside-our-approach-to-the-model-spec"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
