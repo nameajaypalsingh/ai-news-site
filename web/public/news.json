@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) With its new app store, Ring bets on AI to go beyond home security",
+    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "pubDate": "Tue, 31 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+    "contentSnippet": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+    "guid": "https://techcrunch.com/?p=3106543",
+    "categories": [
+      "Hardware",
+      "AI",
+      "Apps",
+      "Amazon",
+      "Ring",
+      "Exclusive",
+      "app store",
+      "ring camera"
+    ],
+    "isoDate": "2026-03-31T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "with-its-new-app-store-ring-bets-on-ai-to-go-beyond-home-security"
+  },
+  {
     "creator": "Graham Starr",
     "title": "(No AI) 15% of Americans say they’d be willing to work for an AI boss, according to new poll",
     "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -19,25 +42,18 @@
     "slug": "15-of-americans-say-they-d-be-willing-to-work-for-an-ai-boss-according-to-new-poll"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "pubDate": "Mon, 30 Mar 2026 23:08:12 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "contentSnippet": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "guid": "https://techcrunch.com/?p=3107773",
-    "categories": [
-      "TC",
-      "Startups",
-      "Security",
-      "AI",
-      "Delve",
-      "security compliance"
-    ],
-    "isoDate": "2026-03-30T23:08:12.000Z",
-    "source": "TechCrunch AI",
-    "slug": "popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve"
+    "title": "(No AI) You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+    "pubDate": "2026-03-31T13:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Food-Ordering_Echo-Show_Customization.png?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.\n\nThat means changing your order, modifying an item, or adding a drink mid-conversation is as simple as saying so, without having to wait for Alexa to finish talking. Amazon said Alexa will only step in when you need help or have questions.\n\n\"For years, voice assistants have operated on a call-and-response model: you ask, it answers,\" Amazon said in a press release …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats)",
+    "contentSnippet": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. \nThat means changing your order, modifying an item, or adding a drink mid-conversation is as simple as saying so, without having to wait for Alexa to finish talking. Amazon said Alexa will only step in when you need help or have questions. \n\"For years, voice assistants have operated on a call-and-response model: you ask, it answers,\" Amazon said in a press release …\nRead the full story at The Verge.",
+    "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. That means changing your order, [&#8230;]",
+    "id": "https://www.theverge.com/?p=903938",
+    "isoDate": "2026-03-31T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Food-Ordering_Echo-Show_Customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-order-grubhub-and-uber-eats-conversationally-with-alexa-plus"
   },
   {
     "title": "(No AI) Okta’s CEO is betting big on AI agent identity",
@@ -52,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "okta-s-ceo-is-betting-big-on-ai-agent-identity"
-  },
-  {
-    "title": "(No AI) All the latest in AI ‘music’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-    "pubDate": "2026-03-30T01:32:14.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Messy AI generated hands playing a piano, overlayed with pixel art music notes.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPeople don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge\n\nAI has touched every part of the music industry, from [sample sourcing](https://www.theverge.com/entertainment/902537/ai-music-dont-ask-dont-tell) and [demo recording](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai), to serving up [digital liner notes](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes) and [building playlists](https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music). There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly _is_ “[really active](https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation)“? Whether it’s a new model or a new lawsuit, we’re covering it all to make sure you don’t miss any major developments.\n\n_So follow along as we dig into the latest in AI “music.”_\n\n*   [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model)\n*   [The music industry has embraced a “don’t ask, don’t tell” policy about AI.](https://www.theverge.com/entertainment/902537/ai-music-dont-ask-dont-tell)\n*   [North Carolina man pleads guilty to AI music streaming fraud.](https://www.theverge.com/ai-artificial-intelligence/898850/north-carolina-man-pleads-guilty-to-ai-music-streaming-fraud)\n*   [Apple Music adds optional labels for AI songs and visuals](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch)\n*   [Qobuz is automatically detecting and labeling AI music now, too.](https://www.theverge.com/entertainment/885486/qobuz-detecting-tagging-ai-music)\n*   [This Chainsmokers-approved AI music producer is joining Google](https://www.theverge.com/tech/883307/google-producerai-deal-music)\n*   [Google’s AI music maker is coming to the Gemini app](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta)\n*   [Deezer opens its AI music detection tool to other platforms](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available)\n*   [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release)\n*   [Bandcamp becomes the first major music platform to ban AI content](https://www.theverge.com/news/861794/bandcamp-ban-ai-music)\n*   [Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)\n*   [Musicians are getting really tired of this AI clone ‘bullshit’](https://www.theverge.com/report/844454/musicians-tired-of-ai-clones)\n*   [Get ready for an AI country music explosion](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai)\n*   [97 percent of people struggle to identify AI music, but it’s not as bad as it seems](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify)\n*   [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)\n*   [The music industry is all in on AI](https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner)\n*   [No, typing an AI prompt is not ‘really active’ music creation](https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation)\n*   [Suno valued at $2.45 billion in latest funding round as lawsuits loom.](https://www.theverge.com/news/824108/suno-valued-at-2-45-billion-in-latest-funding-round-as-lawsuits-loom)\n*   [The human behind AI music artist Xania Monet, revealed.](https://www.theverge.com/ai-artificial-intelligence/814659/the-human-behind-ai-music-artist-xania-monet-revealed)\n*   [Suno’s upgraded AI music generator is technically impressive, but still soulless](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review)\n*   [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright)\n*   [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)\n*   [Can the music industry make AI the next Napster?](https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa)\n*   [AI music company Suno acquired a browser-based audio editing tool called WavTool.](https://www.theverge.com/news/693705/ai-music-company-suno-acquired-a-browser-based-audio-editing-tool-called-wavtool)\n*   [The music industry is building the tech to hunt down AI songs](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing)\n*   [Sabotaging AI music with sick beats.](https://www.theverge.com/news/648120/sabotaging-ai-music-with-sick-beats)\n*   [YouTube’s new AI tool generates free background music for videos](https://www.theverge.com/news/647422/youtube-ai-music-assistant-generator-background)\n*   [Splice CEO Kakul Srivastava on where to draw hard lines around AI in music](https://www.theverge.com/decoder-podcast-with-nilay-patel/632036/splice-ceo-kakul-srivastava-on-why-ai-will-never-replace-human-creativity)\n*   [Making human music in an AI world](https://www.theverge.com/2024/11/17/24297892/ai-music-ge-wang-vergecast)\n*   [AI music startups say copyright violation is just rock and roll](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)\n*   [The music industry’s AI fight](https://www.theverge.com/2024/6/28/24188062/music-industry-ai-riaa-udio-suno-motorola-razr-google-pixel-vergecast)\n*   [Listen to the AI songs music labels say violate their copyright.](https://www.theverge.com/2024/6/24/24185181/listen-to-the-ai-songs-music-labels-say-violate-their-copyright)\n*   [Warner Music Group’s CEO says we might see AI prompt-generated music really soon.](https://www.theverge.com/2023/9/26/23891828/warner-music-groups-ceo-says-we-might-see-ai-prompt-generated-music-really-soon)\n*   [AI-generated music isn’t just a copyright hazard.](https://www.theverge.com/2023/5/9/23716548/ai-generated-music-isnt-just-a-copyright-hazard)\n*   [How AI is solving one of music’s most expensive problems](https://www.theverge.com/2019/1/30/18201163/ai-mastering-engineers-algorithm-replace-human-music-production)",
-    "contentSnippet": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge\t\n\nAI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly is “really active“? Whether it’s a new model or a new lawsuit, we’re covering it all to make sure you don’t miss any major developments. \nSo follow along as we dig into the latest in AI “music.”\n\n\n\t\t\t\t\t\nSuno leans into customization with v5.5\n\t\t\t\nThe music industry has embraced a “don’t ask, don’t tell” policy about AI.\n\t\t\t\nNorth Carolina man pleads guilty to AI music streaming fraud.\n\t\t\t\nApple Music adds optional labels for AI songs and visuals\n\t\t\t\nQobuz is automatically detecting and labeling AI music now, too.\n\t\t\t\nThis Chainsmokers-approved AI music producer is joining Google\n\t\t\t\nGoogle’s AI music maker is coming to the Gemini app\n\t\t\t\nDeezer opens its AI music detection tool to other platforms\n\t\t\t\nElevenLabs made an AI album to plug its music generator\n\t\t\t\nBandcamp becomes the first major music platform to ban AI content\n\t\t\t\nUniversal Music signs a new AI deal with Nvidia\n\t\t\t\nMusicians are getting really tired of this AI clone ‘bullshit’\n\t\t\t\nGet ready for an AI country music explosion\n\t\t\t\n97 percent of people struggle to identify AI music, but it’s not as bad as it seems\n\t\t\t\nWarner Music Group partners with Suno to offer AI likenesses of its artists\n\t\t\t\nThe music industry is all in on AI\n\t\t\t\nNo, typing an AI prompt is not ‘really active’ music creation\n\t\t\t\nSuno valued at $2.45 billion in latest funding round as lawsuits loom.\n\t\t\t\nThe human behind AI music artist Xania Monet, revealed.\n\t\t\t\nSuno’s upgraded AI music generator is technically impressive, but still soulless\n\t\t\t\nWhat happens when an AI-generated artist gets a record deal? A copyright mess\n\t\t\t\nRecord labels claim AI generator Suno illegally ripped their songs from YouTube\n\t\t\t\nCan the music industry make AI the next Napster?\n\t\t\t\nAI music company Suno acquired a browser-based audio editing tool called WavTool.\n\t\t\t\nThe music industry is building the tech to hunt down AI songs\n\t\t\t\nSabotaging AI music with sick beats.\n\t\t\t\nYouTube’s new AI tool generates free background music for videos\n\t\t\t\nSplice CEO Kakul Srivastava on where to draw hard lines around AI in music\n\t\t\t\nMaking human music in an AI world\n\t\t\t\nAI music startups say copyright violation is just rock and roll\n\t\t\t\nThe music industry’s AI fight\n\t\t\t\nListen to the AI songs music labels say violate their copyright.\n\t\t\t\nWarner Music Group’s CEO says we might see AI prompt-generated music really soon.\n\t\t\t\nAI-generated music isn’t just a copyright hazard.\n\t\t\t\nHow AI is solving one of music’s most expensive problems",
-    "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=903196",
-    "isoDate": "2026-03-30T01:32:14.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "all-the-latest-in-ai-music"
   },
   {
     "title": "(No AI) Helping disaster response teams turn AI into action across Asia",
@@ -118,6 +120,24 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Boone Ashworth",
+    "title": "(No AI) AI Has Flooded All the Weather Apps",
+    "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+    "pubDate": "Tue, 31 Mar 2026 13:00:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+    "contentSnippet": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+    "guid": "69bc6850b2a7b7deee0cf867",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps"
+    ],
+    "isoDate": "2026-03-31T13:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-has-flooded-all-the-weather-apps"
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "(No AI) The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
     "link": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
@@ -133,21 +153,5 @@
     "isoDate": "2026-03-30T09:30:00.000Z",
     "source": "Wired AI",
     "slug": "the-irs-wants-smarter-audits-palantir-could-help-decide-who-gets-flagged"
-  },
-  {
-    "creator": "Will Knight, Zeyi Yang",
-    "title": "(No AI) AI Research Is Getting Harder to Separate From Geopolitics",
-    "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-    "pubDate": "Fri, 27 Mar 2026 21:46:39 +0000",
-    "dc:creator": "Will Knight, Zeyi Yang",
-    "content": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-    "contentSnippet": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-    "guid": "69c6a3ac94502e7091a2c21a",
-    "categories": [
-      "Business"
-    ],
-    "isoDate": "2026-03-27T21:46:39.000Z",
-    "source": "Wired AI",
-    "slug": "ai-research-is-getting-harder-to-separate-from-geopolitics"
   }
 ]
