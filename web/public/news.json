@@ -1,42 +1,43 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) As more Americans adopt AI tools, fewer say they can trust the results",
-    "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "pubDate": "Mon, 30 Mar 2026 20:24:53 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-    "contentSnippet": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-    "guid": "https://techcrunch.com/?p=3107654",
+    "creator": "Graham Starr",
+    "title": "(No AI) 15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "pubDate": "Mon, 30 Mar 2026 23:41:48 +0000",
+    "dc:creator": "Graham Starr",
+    "content": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+    "contentSnippet": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+    "guid": "https://techcrunch.com/?p=3107695",
     "categories": [
       "AI",
-      "AI trust",
-      "quinnipiac university"
+      "future of work",
+      "Jobs",
+      "polls"
     ],
-    "isoDate": "2026-03-30T20:24:53.000Z",
+    "isoDate": "2026-03-30T23:41:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-more-americans-adopt-ai-tools-fewer-say-they-can-trust-the-results"
+    "slug": "15-of-americans-say-they-d-be-willing-to-work-for-an-ai-boss-according-to-new-poll"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-    "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "pubDate": "Mon, 30 Mar 2026 14:30:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-    "contentSnippet": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-    "guid": "https://techcrunch.com/?p=3105222",
+    "creator": "Julie Bort",
+    "title": "(No AI) Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+    "pubDate": "Mon, 30 Mar 2026 23:08:12 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+    "contentSnippet": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+    "guid": "https://techcrunch.com/?p=3107773",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Decibel VC",
-      "digital twins",
-      "Mantis Biotech",
-      "sportstech"
+      "Security",
+      "Startups",
+      "TC",
+      "Delve",
+      "security compliance"
     ],
-    "isoDate": "2026-03-30T14:30:00.000Z",
+    "isoDate": "2026-03-30T23:08:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicine-s-data-availability-problem"
+    "slug": "popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve"
   },
   {
     "title": "(No AI) Okta’s CEO is betting big on AI agent identity",
