@@ -1,48 +1,58 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-    "pubDate": "Tue, 31 Mar 2026 15:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-    "contentSnippet": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-    "guid": "https://techcrunch.com/?p=3107632",
+    "creator": "Julie Bort",
+    "title": "(No AI) Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "pubDate": "Tue, 31 Mar 2026 20:01:07 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "contentSnippet": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "guid": "https://techcrunch.com/?p=3108096",
     "categories": [
       "AI",
-      "Robotics",
       "Startups",
-      "Exclusive",
-      "nomadic",
-      "physical ai",
-      "TQ Ventures"
+      "a16z crypto",
+      "Chris Dixon",
+      "shutting down"
     ],
-    "isoDate": "2026-03-31T15:00:00.000Z",
+    "isoDate": "2026-03-31T20:01:07.000Z",
     "source": "TechCrunch AI",
-    "slug": "nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-autonomous-vehicles"
+    "slug": "yupp-shuts-down-after-raising-33m-from-a16z-crypto-s-chris-dixon"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-    "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-    "pubDate": "Tue, 31 Mar 2026 14:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-    "contentSnippet": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-    "guid": "https://techcrunch.com/?p=3107677",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+    "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+    "pubDate": "Tue, 31 Mar 2026 17:41:35 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+    "contentSnippet": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+    "guid": "https://techcrunch.com/?p=3107971",
     "categories": [
       "AI",
-      "Startups",
-      "Venture",
-      "AI video generation",
-      "Exclusive",
-      "Generative AI",
-      "runway",
-      "world models"
+      "Alexa",
+      "Amazon",
+      "food delivery",
+      "grubhub",
+      "Uber Eats"
     ],
-    "isoDate": "2026-03-31T14:00:00.000Z",
+    "isoDate": "2026-03-31T17:41:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups"
+    "slug": "alexa-gets-new-food-ordering-experiences-with-uber-eats-and-grubhub"
+  },
+  {
+    "title": "(No AI) The Galaxy S26’s photo app can sloppify your memories",
+    "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+    "pubDate": "2026-03-31T18:15:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label-17.png?quality=90&strip=all&crop=0,0,100,100)\n\nLove to see the BACKSST BOYS at the Sphere.\n\nThe Google Pixel 9 walked so that the Samsung Galaxy S26 could run.\n\nGoogle introduced AI editing tools to Photos slowly. It started with [changes to the background](https://www.theverge.com/2023/5/10/23716165/google-photos-ai-magic-editor-transform-pixel-io) - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically any change. There were some guardrails, but in many cases [it was easy to prompt your way around them](https://www.theverge.com/2024/8/21/24224084/google-pixel-9-reimagine-ai-photos) into creating a potentially harmful image of something that never happened - helicopter crashes, smoking bombs on street corners, that kind of thing.\n\nThat's the world Samsung's updated Photo Assist steps into. At Unpacked in Febru …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop)",
+    "contentSnippet": "Love to see the BACKSST BOYS at the Sphere.\t\n\nThe Google Pixel 9 walked so that the Samsung Galaxy S26 could run.\nGoogle introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically any change. There were some guardrails, but in many cases it was easy to prompt your way around them into creating a potentially harmful image of something that never happened - helicopter crashes, smoking bombs on street corners, that kind of thing. \nThat's the world Samsung's updated Photo Assist steps into. At Unpacked in Febru …\nRead the full story at The Verge.",
+    "summary": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove crowds of tourists. Things got weird once the company added natural language requests and let you ask for basically [&#8230;]",
+    "id": "https://www.theverge.com/?p=904176",
+    "isoDate": "2026-03-31T18:15:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ai-label-17.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-galaxy-s26-s-photo-app-can-sloppify-your-memories"
   },
   {
     "title": "(No AI) Art schools are being torn apart by AI",
@@ -59,18 +69,18 @@
     "slug": "art-schools-are-being-torn-apart-by-ai"
   },
   {
-    "title": "(No AI) You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
-    "pubDate": "2026-03-31T13:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Food-Ordering_Echo-Show_Customization.png?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant.\n\nThat means changing your order, modifying an item, or adding a drink mid-conversation is as simple as saying so, without having to wait for Alexa to finish talking. Amazon said Alexa will only step in when you need help or have questions.\n\n\"For years, voice assistants have operated on a call-and-response model: you ask, it answers,\" Amazon said in a press release …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats)",
-    "contentSnippet": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. \nThat means changing your order, modifying an item, or adding a drink mid-conversation is as simple as saying so, without having to wait for Alexa to finish talking. Amazon said Alexa will only step in when you need help or have questions. \n\"For years, voice assistants have operated on a call-and-response model: you ask, it answers,\" Amazon said in a press release …\nRead the full story at The Verge.",
-    "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. That means changing your order, [&#8230;]",
-    "id": "https://www.theverge.com/?p=903938",
+    "title": "(No AI) Accelerating the next phase of AI",
+    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "pubDate": "Tue, 31 Mar 2026 13:00:00 GMT",
+    "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+    "contentSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+    "guid": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "categories": [
+      "Company"
+    ],
     "isoDate": "2026-03-31T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Food-Ordering_Echo-Show_Customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "you-can-order-grubhub-and-uber-eats-conversationally-with-alexa-plus"
+    "source": "OpenAI",
+    "slug": "accelerating-the-next-phase-of-ai"
   },
   {
     "title": "(No AI) Helping disaster response teams turn AI into action across Asia",
@@ -85,20 +95,6 @@
     "isoDate": "2026-03-29T22:15:00.000Z",
     "source": "OpenAI",
     "slug": "helping-disaster-response-teams-turn-ai-into-action-across-asia"
-  },
-  {
-    "title": "(No AI) STADLER reshapes knowledge work at a 230-year-old company",
-    "link": "https://openai.com/index/stadler",
-    "pubDate": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "content": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "contentSnippet": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "guid": "https://openai.com/index/stadler",
-    "categories": [
-      "B2B Story"
-    ],
-    "isoDate": "2026-03-27T22:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "stadler-reshapes-knowledge-work-at-a-230-year-old-company"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
