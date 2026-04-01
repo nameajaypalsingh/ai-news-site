@@ -38,32 +38,32 @@
     "slug": "anthropic-is-having-a-month"
   },
   {
-    "title": "(No AI) Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-    "pubDate": "2026-03-31T22:24:19.000Z",
-    "author": "Emma Roth",
-    "content": "![The Claude logo on a beige background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter Anthropic released Claude Code's [2.1.88 update](https://x.com/ClaudeCodeLog/status/2038773096379748786?s=20), users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one [person on X](https://x.com/Fried_rice/status/2038894956459290963?s=20) calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as [reported earlier by _Ars Technica_](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) and [_VentureBeat_](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know).\n\nUsers [who have dug into](https://x.com/vineetwts/status/2038911973975601275?s=20) the code claim to have uncovered upcoming features, Anthropic's [instructions for the AI bot](https://x.com/vedolos/status/2038977464840630611?s=20), and insight into its [\"memory\" architecture](https://x.com/himanshustwts/status/2038924027411222533). Some things spotted by users inclu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)",
-    "contentSnippet": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat.\nUsers who have dug into the code claim to have uncovered upcoming features, Anthropic's instructions for the AI bot, and insight into its \"memory\" architecture. Some things spotted by users inclu …\nRead the full story at The Verge.",
-    "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
-    "id": "https://www.theverge.com/?p=904776",
-    "isoDate": "2026-03-31T22:24:19.000Z",
+    "title": "(No AI) AI can push your Stream Deck buttons for you",
+    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+    "pubDate": "2026-04-01T12:38:58.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The [Stream Deck 7.4 software update](https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/) released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)",
+    "contentSnippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\nRead the full story at The Verge.",
+    "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
+    "id": "https://www.theverge.com/?p=905021",
+    "isoDate": "2026-04-01T12:38:58.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-code-leak-exposes-a-tamagotchi-style-pet-and-an-always-on-agent"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-can-push-your-stream-deck-buttons-for-you"
   },
   {
-    "title": "(No AI) You can now use ChatGPT with Apple’s CarPlay",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-    "pubDate": "2026-03-31T21:03:18.000Z",
-    "author": "Jay Peters",
-    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, [_9to5Mac_ reports](https://9to5mac.com/2026/03/31/chatgpt-app-launches-for-carplay-on-ios-26-4/). Apple's [recently launched](https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update) iOS 26.4 update added [support for](https://www.macrumors.com/2026/02/18/ios-26-4-carplay-support/) \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform.\n\nWhen using ChatGPT through CarPlay, the app doesn't show text conversations, according to _9to5Mac_ - instead, you can only have conversations with the app using your voice. (Apple's [developer guidelines](https://developer.apple.com/download/files/CarPlay-Developer-Guide.pdf) ask that apps don't show text or imagery as responses.) The CarPlay app isn't completely devoid of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt)",
-    "contentSnippet": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform.\nWhen using ChatGPT through CarPlay, the app doesn't show text conversations, according to 9to5Mac - instead, you can only have conversations with the app using your voice. (Apple's developer guidelines ask that apps don't show text or imagery as responses.) The CarPlay app isn't completely devoid of  …\nRead the full story at The Verge.",
-    "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]",
-    "id": "https://www.theverge.com/?p=904676",
-    "isoDate": "2026-03-31T21:03:18.000Z",
+    "title": "(No AI) Baidu’s robotaxis froze in traffic, creating chaos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+    "pubDate": "2026-04-01T10:39:52.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, [reportedly](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic.\n\nPolice in Wuhan [confirmed](https://www.wsj.com/business/autos/baidus-apollo-go-robotaxis-stall-in-chinas-wuhan-a9b143ad?gaa_at=eafs&gaa_n=AWEtsqdXqKfhF249d_igjLuqLB_jaDXOeS-bCd2J2YpiqfM32h2GexPQC-gvHS-S1T0%3D&gaa_ts=69cce8c4&gaa_sig=zzFxk7kh7UvuBHX6zaCAuT1WfVKyb9b5r3tHHTtsXl_SGmComAeS5mCdWQrqstZCDQFPhWznjBJxrto19n1C5A%3D%3D) receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary investigations suggest an unspecified \"system failure\" is responsible for the outage.\n\n> NEW: Dozens of robotaxis by Baidu stopped on the road in Wuhan, causing crashes on highways and trapping passengers in the cars-some for mo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china)",
+    "contentSnippet": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\t\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. \nPolice in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary investigations suggest an unspecified \"system failure\" is responsible for the outage. \n\n\nNEW: Dozens of robotaxis by Baidu stopped on the road in Wuhan, causing crashes on highways and trapping passengers in the cars-some for mo …\n\n\nRead the full story at The Verge.",
+    "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
+    "id": "https://www.theverge.com/?p=905012",
+    "isoDate": "2026-04-01T10:39:52.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462047/STK155_OPEN_AI_CVirginia_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "you-can-now-use-chatgpt-with-apple-s-carplay"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "baidu-s-robotaxis-froze-in-traffic-creating-chaos"
   },
   {
     "title": "(No AI) Gradient Labs gives every bank customer an AI account manager",
@@ -116,38 +116,37 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) AI Has Flooded All the Weather Apps",
-    "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
-    "pubDate": "Tue, 31 Mar 2026 13:00:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-    "contentSnippet": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-    "guid": "69bc6850b2a7b7deee0cf867",
+    "creator": "John Semley",
+    "title": "(No AI) Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
+    "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
+    "pubDate": "Wed, 01 Apr 2026 10:30:00 +0000",
+    "dc:creator": "John Semley",
+    "content": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+    "contentSnippet": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+    "guid": "69ca92557d0b4055c5a595ad",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
+      "Culture",
+      "Culture / Movies"
     ],
-    "isoDate": "2026-03-31T13:00:00.000Z",
+    "isoDate": "2026-04-01T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "ai-has-flooded-all-the-weather-apps"
+    "slug": "watching-a-7-5-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brain-rot"
   },
   {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
-    "link": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
-    "pubDate": "Mon, 30 Mar 2026 09:30:00 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
-    "contentSnippet": "Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.",
-    "guid": "6995eb316d98d90f48952b8a",
+    "creator": "Reece Rogers",
+    "title": "(No AI) I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+    "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+    "pubDate": "Wed, 01 Apr 2026 09:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+    "contentSnippet": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
+    "guid": "69cbf4414423e18d6fcac9b6",
     "categories": [
-      "Business",
-      "Business / Computers and Software"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-03-30T09:30:00.000Z",
+    "isoDate": "2026-04-01T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "the-irs-wants-smarter-audits-palantir-could-help-decide-who-gets-flagged"
+    "slug": "i-asked-chatgpt-what-wired-s-reviewers-recommend-its-answers-were-all-wrong"
   }
 ]
