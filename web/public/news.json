@@ -1,41 +1,44 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "pubDate": "Wed, 01 Apr 2026 01:42:59 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "contentSnippet": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "guid": "https://techcrunch.com/?p=3108357",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "pubDate": "Wed, 01 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "contentSnippet": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "guid": "https://techcrunch.com/?p=3108199",
     "categories": [
-      "Startups",
-      "Security",
+      "Hardware",
+      "Venture",
       "AI",
-      "Lapsus$",
-      "Mercor",
-      "LiteLLM"
+      "Exclusive"
     ],
-    "isoDate": "2026-04-01T01:42:59.000Z",
+    "isoDate": "2026-04-01T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project"
+    "slug": "cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Anthropic is having a month",
-    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "pubDate": "Tue, 31 Mar 2026 23:58:26 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "A human really borks things at Anthropic for the second time this week.",
-    "contentSnippet": "A human really borks things at Anthropic for the second time this week.",
-    "guid": "https://techcrunch.com/?p=3108324",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "pubDate": "Wed, 01 Apr 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+    "contentSnippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+    "guid": "https://techcrunch.com/?p=3108326",
     "categories": [
+      "Startups",
+      "Venture",
       "AI",
-      "Anthropic"
+      "Fundraising",
+      "StrictlyVC",
+      "Replit",
+      "TDK Ventures"
     ],
-    "isoDate": "2026-03-31T23:58:26.000Z",
+    "isoDate": "2026-04-01T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-is-having-a-month"
+    "slug": "less-than-a-month-strictlyvc-san-francisco-brings-leaders-from-tdk-ventures-replit-and-more-together"
   },
   {
     "title": "(No AI) AI can push your Stream Deck buttons for you",
@@ -117,12 +120,12 @@
   },
   {
     "creator": "John Semley",
-    "title": "(No AI) Watching a 7.5-Hour Movie in Theaters Made Me More Hopeful About Our Collective Brain Rot",
+    "title": "(No AI) I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
     "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
     "pubDate": "Wed, 01 Apr 2026 10:30:00 +0000",
     "dc:creator": "John Semley",
-    "content": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
-    "contentSnippet": "Sátántango is considered a holy rite for hardcore cinephiles. It also helped me confront my dwindling attention span.",
+    "content": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
+    "contentSnippet": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
     "guid": "69ca92557d0b4055c5a595ad",
     "categories": [
       "Culture",
@@ -130,11 +133,11 @@
     ],
     "isoDate": "2026-04-01T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "watching-a-7-5-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brain-rot"
+    "slug": "i-watched-a-7-5-hour-movie-in-theaters-to-confront-my-dwindling-attention-span"
   },
   {
     "creator": "Reece Rogers",
-    "title": "(No AI) I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+    "title": "(No AI) I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
     "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
     "pubDate": "Wed, 01 Apr 2026 09:30:00 +0000",
     "dc:creator": "Reece Rogers",
