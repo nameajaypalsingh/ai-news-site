@@ -1,58 +1,44 @@
 [
   {
+    "creator": "Tim De Chant",
+    "title": "(No AI) Meta’s natural gas binge could power South Dakota",
+    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "pubDate": "Wed, 01 Apr 2026 18:35:36 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "contentSnippet": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "guid": "https://techcrunch.com/?p=3108480",
+    "categories": [
+      "AI",
+      "Climate",
+      "data centers",
+      "Exclusive",
+      "Facebook",
+      "Meta",
+      "natural gas"
+    ],
+    "isoDate": "2026-04-01T18:35:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-s-natural-gas-binge-could-power-south-dakota"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
     "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
     "pubDate": "Wed, 01 Apr 2026 16:00:00 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "contentSnippet": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "content": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "contentSnippet": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
     "guid": "https://techcrunch.com/?p=3108199",
     "categories": [
+      "AI",
       "Hardware",
       "Venture",
-      "AI",
       "Exclusive"
     ],
     "isoDate": "2026-04-01T16:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try"
-  },
-  {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-    "pubDate": "Wed, 01 Apr 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-    "contentSnippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-    "guid": "https://techcrunch.com/?p=3108326",
-    "categories": [
-      "Startups",
-      "Venture",
-      "AI",
-      "Fundraising",
-      "StrictlyVC",
-      "Replit",
-      "TDK Ventures"
-    ],
-    "isoDate": "2026-04-01T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "less-than-a-month-strictlyvc-san-francisco-brings-leaders-from-tdk-ventures-replit-and-more-together"
-  },
-  {
-    "title": "(No AI) AI can push your Stream Deck buttons for you",
-    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-    "pubDate": "2026-04-01T12:38:58.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The [Stream Deck 7.4 software update](https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/) released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)",
-    "contentSnippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\nRead the full story at The Verge.",
-    "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
-    "id": "https://www.theverge.com/?p=905021",
-    "isoDate": "2026-04-01T12:38:58.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-can-push-your-stream-deck-buttons-for-you"
   },
   {
     "title": "(No AI) Baidu’s robotaxis froze in traffic, creating chaos",
@@ -67,6 +53,20 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "baidu-s-robotaxis-froze-in-traffic-creating-chaos"
+  },
+  {
+    "title": "(No AI) Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+    "pubDate": "2026-03-31T22:24:19.000Z",
+    "author": "Emma Roth",
+    "content": "![The Claude logo on a beige background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter Anthropic released Claude Code's [2.1.88 update](https://x.com/ClaudeCodeLog/status/2038773096379748786?s=20), users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one [person on X](https://x.com/Fried_rice/status/2038894956459290963?s=20) calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as [reported earlier by _Ars Technica_](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) and [_VentureBeat_](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know).\n\nUsers [who have dug into](https://x.com/vineetwts/status/2038911973975601275?s=20) the code claim to have uncovered upcoming features, Anthropic's [instructions for the AI bot](https://x.com/vedolos/status/2038977464840630611?s=20), and insight into its [\"memory\" architecture](https://x.com/himanshustwts/status/2038924027411222533). Some things spotted by users inclu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)",
+    "contentSnippet": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat.\nUsers who have dug into the code claim to have uncovered upcoming features, Anthropic's instructions for the AI bot, and insight into its \"memory\" architecture. Some things spotted by users inclu …\nRead the full story at The Verge.",
+    "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
+    "id": "https://www.theverge.com/?p=904776",
+    "isoDate": "2026-03-31T22:24:19.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "claude-code-leak-exposes-a-tamagotchi-style-pet-and-an-always-on-agent"
   },
   {
     "title": "(No AI) Gradient Labs gives every bank customer an AI account manager",
@@ -119,37 +119,37 @@
     "slug": "protecting-people-from-harmful-manipulation"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+    "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+    "pubDate": "Wed, 01 Apr 2026 18:30:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+    "contentSnippet": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+    "guid": "69cace2ff0aaacebdd5fc435",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-01T18:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-models-lie-cheat-and-steal-to-protect-other-models-from-being-deleted"
+  },
+  {
     "creator": "John Semley",
-    "title": "(No AI) I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
-    "link": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
-    "pubDate": "Wed, 01 Apr 2026 10:30:00 +0000",
+    "title": "(No AI) ‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+    "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+    "pubDate": "Wed, 01 Apr 2026 18:13:34 +0000",
     "dc:creator": "John Semley",
-    "content": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
-    "contentSnippet": "Sátántango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
-    "guid": "69ca92557d0b4055c5a595ad",
+    "content": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+    "contentSnippet": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+    "guid": "69c56fbff61c26b660c6fbd8",
     "categories": [
       "Culture",
       "Culture / Movies"
     ],
-    "isoDate": "2026-04-01T10:30:00.000Z",
+    "isoDate": "2026-04-01T18:13:34.000Z",
     "source": "Wired AI",
-    "slug": "i-watched-a-7-5-hour-movie-in-theaters-to-confront-my-dwindling-attention-span"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) I Asked ChatGPT What WIRED’s Reviewers Recommend. Its Answers Were All Wrong",
-    "link": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
-    "pubDate": "Wed, 01 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-    "contentSnippet": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-    "guid": "69cbf4414423e18d6fcac9b6",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-04-01T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-asked-chatgpt-what-wired-s-reviewers-recommend-its-answers-were-all-wrong"
+    "slug": "thank-you-for-generating-with-us-hollywood-s-ai-acolytes-stay-on-the-hype-train"
   }
 ]
