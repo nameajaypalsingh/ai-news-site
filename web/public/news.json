@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "pubDate": "Thu, 02 Apr 2026 19:21:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "contentSnippet": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "guid": "https://techcrunch.com/?p=3108907",
+    "categories": [
+      "AI",
+      "Media & Entertainment",
+      "Chris Lehane",
+      "OpenAI",
+      "sam altman",
+      "tbpn"
+    ],
+    "isoDate": "2026-04-02T19:21:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show"
+  },
+  {
     "creator": "Rebecca Szkutak",
     "title": "(No AI) Microsoft takes on AI rivals with three new foundational models",
     "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
@@ -21,80 +42,60 @@
     "slug": "microsoft-takes-on-ai-rivals-with-three-new-foundational-models"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google now lets you direct avatars through prompts in its Vids app",
-    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-    "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-    "contentSnippet": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-    "guid": "https://techcrunch.com/?p=3108782",
-    "categories": [
-      "AI",
-      "Apps",
-      "Google",
-      "Google Vids",
-      "Video Editing"
-    ],
-    "isoDate": "2026-04-02T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app"
-  },
-  {
-    "title": "(No AI) It’s not easy to get depression-detecting AI through the FDA",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-    "pubDate": "2026-04-02T15:33:23.000Z",
-    "author": "Robert Hart",
-    "content": "![A vintage computer on a background of 1s and 0s with a brain on the screen representing AI](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio.\n\nMental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the lab tests or scans common in physical medicine. Instead of focusing on what someone is saying, Kintsugi's software analyzes how it is being said. Th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down)",
-    "contentSnippet": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio. \nMental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the lab tests or scans common in physical medicine. Instead of focusing on what someone is saying, Kintsugi's software analyzes how it is being said. Th …\nRead the full story at The Verge.",
-    "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
-    "id": "https://www.theverge.com/?p=905864",
-    "isoDate": "2026-04-02T15:33:23.000Z",
+    "title": "(No AI) Elon Musk is about to be a very busy boy!",
+    "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+    "pubDate": "2026-04-02T18:15:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Elon Musk smiling with big green arrow and Space X rockets.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTo be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all [mark our calendars for June 7th](https://en.wikipedia.org/wiki/6-7_meme) as an IPO date just in case.\n\nBased on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do their job instead of just glance at the first page of the filing, say, \"Seems fine!\" and then go out for a smoke break.) Of course, [this process could …](https://www.reuters.com/business/finance/filing-first-trade-inside-us-ipo-process-2026-04-01/)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla)",
+    "contentSnippet": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case.\nBased on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do their job instead of just glance at the first page of the filing, say, \"Seems fine!\" and then go out for a smoke break.) Of course, this process could  …\nRead the full story at The Verge.",
+    "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]",
+    "id": "https://www.theverge.com/?p=906027",
+    "isoDate": "2026-04-02T18:15:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-is-about-to-be-a-very-busy-boy"
   },
   {
-    "title": "(No AI) Microsoft’s new ‘superintelligence’ game plan is all about business",
-    "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-    "pubDate": "2026-04-02T14:00:00.000Z",
+    "title": "(No AI) OpenAI just bought TBPN",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+    "pubDate": "2026-04-02T17:40:07.000Z",
     "author": "Hayden Field",
-    "content": "![A photo showing Mustafa Suleyman during the World Economic Forum 2024](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells _The Verge_, he'd been preparing for the transition for as many as nine months - and though renegotiating Microsoft's contract with OpenAI is the thing that officially \"unlocked \\[Microsoft's\\] ability to pursue superintelligence,\" he'd been planning even before the ink was dry.\n\n\"This has been a long-held plan,\" he …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model)",
-    "contentSnippet": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, he'd been preparing for the transition for as many as nine months - and though renegotiating Microsoft's contract with OpenAI is the thing that officially \"unlocked [Microsoft's] ability to pursue superintelligence,\" he'd been planning even before the ink was dry. \n\"This has been a long-held plan,\" he  …\nRead the full story at The Verge.",
-    "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
-    "id": "https://www.theverge.com/?p=905791",
-    "isoDate": "2026-04-02T14:00:00.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has purchased [TBPN](https://www.tbpn.com/), an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors.\n\nTBPN's livestream is primarily available on [X](https://x.com/tbpn) and [YouTube](https://www.youtube.com/@TBPNLive), but many users watch it on X. OpenAI's purchase comes as a lawsuit between Altman and Elon Musk, who was a co-founder of OpenAI before splitting from the project and now owns X, is headed to trial later this mont …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)",
+    "contentSnippet": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors. \nTBPN's livestream is primarily available on X and YouTube, but many users watch it on X. OpenAI's purchase comes as a lawsuit between Altman and Elon Musk, who was a co-founder of OpenAI before splitting from the project and now owns X, is headed to trial later this mont …\nRead the full story at The Verge.",
+    "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]",
+    "id": "https://www.theverge.com/?p=906022",
+    "isoDate": "2026-04-02T17:40:07.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-s-new-superintelligence-game-plan-is-all-about-business"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-just-bought-tbpn"
   },
   {
-    "title": "(No AI) Gradient Labs gives every bank customer an AI account manager",
-    "link": "https://openai.com/index/gradient-labs",
-    "pubDate": "Wed, 01 Apr 2026 02:00:00 GMT",
-    "content": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-    "contentSnippet": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-    "guid": "https://openai.com/index/gradient-labs",
-    "categories": [
-      "B2B Story"
-    ],
-    "isoDate": "2026-04-01T02:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "gradient-labs-gives-every-bank-customer-an-ai-account-manager"
-  },
-  {
-    "title": "(No AI) Accelerating the next phase of AI",
-    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "pubDate": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-    "contentSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-    "guid": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "title": "(No AI) OpenAI acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn",
+    "pubDate": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "content": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "contentSnippet": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "guid": "https://openai.com/index/openai-acquires-tbpn",
     "categories": [
       "Company"
     ],
-    "isoDate": "2026-03-31T13:00:00.000Z",
+    "isoDate": "2026-04-02T10:30:00.000Z",
     "source": "OpenAI",
-    "slug": "accelerating-the-next-phase-of-ai"
+    "slug": "openai-acquires-tbpn"
+  },
+  {
+    "title": "(No AI) Codex now offers more flexible pricing for teams",
+    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "content": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "contentSnippet": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "guid": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-04-02T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "codex-now-offers-more-flexible-pricing-for-teams"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
@@ -119,37 +120,37 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) Anthropic Says That Claude Contains Its Own Kind of Emotions",
-    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
-    "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-    "contentSnippet": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-    "guid": "69cd63e155a470c0d5985203",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "pubDate": "Thu, 02 Apr 2026 19:29:48 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+    "contentSnippet": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+    "guid": "69cead03e3efe763828bbea4",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-02T16:00:00.000Z",
+    "isoDate": "2026-04-02T19:29:48.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-says-that-claude-contains-its-own-kind-of-emotions"
+    "slug": "openai-acquires-tech-talk-show-tbpn-and-buys-itself-some-positive-news"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-    "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-    "pubDate": "Wed, 01 Apr 2026 18:30:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-    "contentSnippet": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-    "guid": "69cace2ff0aaacebdd5fc435",
+    "creator": "Molly Taft",
+    "title": "(No AI) A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+    "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+    "pubDate": "Thu, 02 Apr 2026 18:27:29 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
+    "contentSnippet": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
+    "guid": "69cc083c6cab226b3ec29afe",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Science",
+      "Science / Environment"
     ],
-    "isoDate": "2026-04-01T18:30:00.000Z",
+    "isoDate": "2026-04-02T18:27:29.000Z",
     "source": "Wired AI",
-    "slug": "ai-models-lie-cheat-and-steal-to-protect-other-models-from-being-deleted"
+    "slug": "a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant"
   }
 ]
