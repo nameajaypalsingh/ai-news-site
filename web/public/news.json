@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "pubDate": "Wed, 01 Apr 2026 22:12:13 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "contentSnippet": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "guid": "https://techcrunch.com/?p=3108632",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "GitHub",
+      "In Brief"
+    ],
+    "isoDate": "2026-04-01T22:12:13.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident"
+  },
+  {
     "creator": "Tim De Chant",
     "title": "(No AI) Meta’s natural gas binge could power South Dakota",
     "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
@@ -22,23 +41,18 @@
     "slug": "meta-s-natural-gas-binge-could-power-south-dakota"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "pubDate": "Wed, 01 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "contentSnippet": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-    "guid": "https://techcrunch.com/?p=3108199",
-    "categories": [
-      "AI",
-      "Hardware",
-      "Venture",
-      "Exclusive"
-    ],
-    "isoDate": "2026-04-01T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try"
+    "title": "(No AI) AI can push your Stream Deck buttons for you",
+    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+    "pubDate": "2026-04-01T12:38:58.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The [Stream Deck 7.4 software update](https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/) released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)",
+    "contentSnippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\nRead the full story at The Verge.",
+    "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
+    "id": "https://www.theverge.com/?p=905021",
+    "isoDate": "2026-04-01T12:38:58.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-can-push-your-stream-deck-buttons-for-you"
   },
   {
     "title": "(No AI) Baidu’s robotaxis froze in traffic, creating chaos",
@@ -53,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "baidu-s-robotaxis-froze-in-traffic-creating-chaos"
-  },
-  {
-    "title": "(No AI) Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-    "pubDate": "2026-03-31T22:24:19.000Z",
-    "author": "Emma Roth",
-    "content": "![The Claude logo on a beige background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter Anthropic released Claude Code's [2.1.88 update](https://x.com/ClaudeCodeLog/status/2038773096379748786?s=20), users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one [person on X](https://x.com/Fried_rice/status/2038894956459290963?s=20) calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as [reported earlier by _Ars Technica_](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) and [_VentureBeat_](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know).\n\nUsers [who have dug into](https://x.com/vineetwts/status/2038911973975601275?s=20) the code claim to have uncovered upcoming features, Anthropic's [instructions for the AI bot](https://x.com/vedolos/status/2038977464840630611?s=20), and insight into its [\"memory\" architecture](https://x.com/himanshustwts/status/2038924027411222533). Some things spotted by users inclu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)",
-    "contentSnippet": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a look into the inner workings of the AI-powered coding tool, as reported earlier by Ars Technica and VentureBeat.\nUsers who have dug into the code claim to have uncovered upcoming features, Anthropic's instructions for the AI bot, and insight into its \"memory\" architecture. Some things spotted by users inclu …\nRead the full story at The Verge.",
-    "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
-    "id": "https://www.theverge.com/?p=904776",
-    "isoDate": "2026-03-31T22:24:19.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-code-leak-exposes-a-tamagotchi-style-pet-and-an-always-on-agent"
   },
   {
     "title": "(No AI) Gradient Labs gives every bank customer an AI account manager",
