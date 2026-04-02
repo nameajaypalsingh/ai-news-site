@@ -1,72 +1,72 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "pubDate": "Wed, 01 Apr 2026 22:12:13 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-    "contentSnippet": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-    "guid": "https://techcrunch.com/?p=3108632",
+    "creator": "Rebecca Szkutak",
+    "title": "(No AI) Microsoft takes on AI rivals with three new foundational models",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "pubDate": "Thu, 02 Apr 2026 16:48:16 +0000",
+    "dc:creator": "Rebecca Szkutak",
+    "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "contentSnippet": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "guid": "https://techcrunch.com/?p=3108825",
     "categories": [
       "AI",
-      "GitHub",
-      "Anthropic",
-      "In Brief"
+      "Enterprise",
+      "artificial intelligence",
+      "Microsoft",
+      "Mustafa Suleyman",
+      "OpenAI"
     ],
-    "isoDate": "2026-04-01T22:12:13.000Z",
+    "isoDate": "2026-04-02T16:48:16.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident"
+    "slug": "microsoft-takes-on-ai-rivals-with-three-new-foundational-models"
   },
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Meta’s natural gas binge could power South Dakota",
-    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-    "pubDate": "Wed, 01 Apr 2026 18:35:36 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-    "contentSnippet": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-    "guid": "https://techcrunch.com/?p=3108480",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google now lets you direct avatars through prompts in its Vids app",
+    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "contentSnippet": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "guid": "https://techcrunch.com/?p=3108782",
     "categories": [
       "AI",
-      "Climate",
-      "data centers",
-      "Exclusive",
-      "Facebook",
-      "Meta",
-      "natural gas"
+      "Apps",
+      "Google",
+      "Google Vids",
+      "Video Editing"
     ],
-    "isoDate": "2026-04-01T18:35:36.000Z",
+    "isoDate": "2026-04-02T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-s-natural-gas-binge-could-power-south-dakota"
+    "slug": "google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app"
   },
   {
-    "title": "(No AI) AI can push your Stream Deck buttons for you",
-    "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-    "pubDate": "2026-04-01T12:38:58.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The [Stream Deck 7.4 software update](https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/) released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)",
-    "contentSnippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream Deck actions on your behalf.\n\"You still set up actions in Stream Deck app the same way you always have. MCP adds a new way to trigger them,\" Elgato said in its announcement. \"Once everything is connected, you can type or speak requests and your AI tool will trigger the matching Stream Deck act …\nRead the full story at The Verge.",
-    "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
-    "id": "https://www.theverge.com/?p=905021",
-    "isoDate": "2026-04-01T12:38:58.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-can-push-your-stream-deck-buttons-for-you"
-  },
-  {
-    "title": "(No AI) Baidu’s robotaxis froze in traffic, creating chaos",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-    "pubDate": "2026-04-01T10:39:52.000Z",
+    "title": "(No AI) It’s not easy to get depression-detecting AI through the FDA",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+    "pubDate": "2026-04-02T15:33:23.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, [reportedly](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic.\n\nPolice in Wuhan [confirmed](https://www.wsj.com/business/autos/baidus-apollo-go-robotaxis-stall-in-chinas-wuhan-a9b143ad?gaa_at=eafs&gaa_n=AWEtsqdXqKfhF249d_igjLuqLB_jaDXOeS-bCd2J2YpiqfM32h2GexPQC-gvHS-S1T0%3D&gaa_ts=69cce8c4&gaa_sig=zzFxk7kh7UvuBHX6zaCAuT1WfVKyb9b5r3tHHTtsXl_SGmComAeS5mCdWQrqstZCDQFPhWznjBJxrto19n1C5A%3D%3D) receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary investigations suggest an unspecified \"system failure\" is responsible for the outage.\n\n> NEW: Dozens of robotaxis by Baidu stopped on the road in Wuhan, causing crashes on highways and trapping passengers in the cars-some for mo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china)",
-    "contentSnippet": "A Baidu Apollo robotaxi in Wuhan, China. | Image: Bloomberg via Getty Images\t\n\nNumerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. \nPolice in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. Police said no injuries have been reported and that preliminary investigations suggest an unspecified \"system failure\" is responsible for the outage. \n\n\nNEW: Dozens of robotaxis by Baidu stopped on the road in Wuhan, causing crashes on highways and trapping passengers in the cars-some for mo …\n\n\nRead the full story at The Verge.",
-    "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopping in the middle of streets and being unable to move. [&#8230;]",
-    "id": "https://www.theverge.com/?p=905012",
-    "isoDate": "2026-04-01T10:39:52.000Z",
+    "content": "![A vintage computer on a background of 1s and 0s with a brain on the screen representing AI](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio.\n\nMental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the lab tests or scans common in physical medicine. Instead of focusing on what someone is saying, Kintsugi's software analyzes how it is being said. Th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down)",
+    "contentSnippet": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life beyond healthcare, like detecting deepfake audio. \nMental health assessments still largely rely on patient questionnaires and clinical interviews, rather than the lab tests or scans common in physical medicine. Instead of focusing on what someone is saying, Kintsugi's software analyzes how it is being said. Th …\nRead the full story at The Verge.",
+    "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
+    "id": "https://www.theverge.com/?p=905864",
+    "isoDate": "2026-04-02T15:33:23.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "baidu-s-robotaxis-froze-in-traffic-creating-chaos"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda"
+  },
+  {
+    "title": "(No AI) Microsoft’s new ‘superintelligence’ game plan is all about business",
+    "link": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+    "pubDate": "2026-04-02T14:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![A photo showing Mustafa Suleyman during the World Economic Forum 2024](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells _The Verge_, he'd been preparing for the transition for as many as nine months - and though renegotiating Microsoft's contract with OpenAI is the thing that officially \"unlocked \\[Microsoft's\\] ability to pursue superintelligence,\" he'd been planning even before the ink was dry.\n\n\"This has been a long-held plan,\" he …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model)",
+    "contentSnippet": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, he'd been preparing for the transition for as many as nine months - and though renegotiating Microsoft's contract with OpenAI is the thing that officially \"unlocked [Microsoft's] ability to pursue superintelligence,\" he'd been planning even before the ink was dry. \n\"This has been a long-held plan,\" he  …\nRead the full story at The Verge.",
+    "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
+    "id": "https://www.theverge.com/?p=905791",
+    "isoDate": "2026-04-02T14:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-new-superintelligence-game-plan-is-all-about-business"
   },
   {
     "title": "(No AI) Gradient Labs gives every bank customer an AI account manager",
@@ -97,6 +97,17 @@
     "slug": "accelerating-the-next-phase-of-ai"
   },
   {
+    "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
+    "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "pubDate": "Thu, 02 Apr 2026 16:00:49 +0000",
+    "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "contentSnippet": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "guid": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "isoDate": "2026-04-02T16:00:49.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemma-4-byte-for-byte-the-most-capable-open-models"
+  },
+  {
     "title": "(No AI) Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
     "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
     "pubDate": "Thu, 26 Mar 2026 15:23:35 +0000",
@@ -108,15 +119,21 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
-    "title": "(No AI) Protecting people from harmful manipulation",
-    "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "pubDate": "Wed, 25 Mar 2026 16:46:20 +0000",
-    "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-    "contentSnippet": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-    "guid": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "isoDate": "2026-03-25T16:46:20.000Z",
-    "source": "Google DeepMind",
-    "slug": "protecting-people-from-harmful-manipulation"
+    "creator": "Will Knight",
+    "title": "(No AI) Anthropic Says That Claude Contains Its Own Kind of Emotions",
+    "link": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+    "pubDate": "Thu, 02 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+    "contentSnippet": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+    "guid": "69cd63e155a470c0d5985203",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-02T16:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-says-that-claude-contains-its-own-kind-of-emotions"
   },
   {
     "creator": "Will Knight",
@@ -134,22 +151,5 @@
     "isoDate": "2026-04-01T18:30:00.000Z",
     "source": "Wired AI",
     "slug": "ai-models-lie-cheat-and-steal-to-protect-other-models-from-being-deleted"
-  },
-  {
-    "creator": "John Semley",
-    "title": "(No AI) ‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
-    "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
-    "pubDate": "Wed, 01 Apr 2026 18:13:34 +0000",
-    "dc:creator": "John Semley",
-    "content": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-    "contentSnippet": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
-    "guid": "69c56fbff61c26b660c6fbd8",
-    "categories": [
-      "Culture",
-      "Culture / Movies"
-    ],
-    "isoDate": "2026-04-01T18:13:34.000Z",
-    "source": "Wired AI",
-    "slug": "thank-you-for-generating-with-us-hollywood-s-ai-acolytes-stay-on-the-hype-train"
   }
 ]
