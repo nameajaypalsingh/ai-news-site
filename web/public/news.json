@@ -1,48 +1,58 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) The Facebook insider building content moderation for the AI era",
-    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-    "pubDate": "Fri, 03 Apr 2026 14:00:15 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-    "contentSnippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-    "guid": "https://techcrunch.com/?p=3109093",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "pubDate": "Fri, 03 Apr 2026 20:35:34 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "contentSnippet": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "guid": "https://techcrunch.com/?p=3109304",
     "categories": [
       "AI",
-      "Fundraising",
-      "Startups",
-      "ai safety",
-      "Amplify Partners",
-      "content moderation",
-      "Exclusive",
-      "moonbounce",
-      "StepStone Group"
+      "OpenAI",
+      "Fidji Simo",
+      "Brad Lightcap"
     ],
-    "isoDate": "2026-04-03T14:00:15.000Z",
+    "isoDate": "2026-04-03T20:35:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-facebook-insider-building-content-moderation-for-the-ai-era"
+    "slug": "openai-executive-shuffle-includes-new-role-for-coo-brad-lightcap-to-lead-special-projects"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "pubDate": "Thu, 02 Apr 2026 19:21:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "contentSnippet": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "guid": "https://techcrunch.com/?p=3108907",
+    "creator": "Dominic-Madori Davis",
+    "title": "(No AI) Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "pubDate": "Fri, 03 Apr 2026 20:28:40 +0000",
+    "dc:creator": "Dominic-Madori Davis",
+    "content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "contentSnippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "guid": "https://techcrunch.com/?p=3109242",
     "categories": [
-      "Media & Entertainment",
       "AI",
-      "Chris Lehane",
-      "OpenAI",
-      "sam altman",
-      "tbpn"
+      "Biotech & Health",
+      "Privacy",
+      "Startups",
+      "Venture",
+      "Claude",
+      "M&A"
     ],
-    "isoDate": "2026-04-02T19:21:00.000Z",
+    "isoDate": "2026-04-03T20:28:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show"
+    "slug": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports"
+  },
+  {
+    "title": "(No AI) OpenAI’s AGI boss is taking a leave of absence",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+    "pubDate": "2026-04-03T20:22:59.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by _The Verge_.\n\nFidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will take charge.\n\nOpenAI's CMO, Kate Rouch, has also decided to step down in order to focus on her health, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)",
+    "contentSnippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. \nFidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will take charge. \nOpenAI's CMO, Kate Rouch, has also decided to step down in order to focus on her health,  …\nRead the full story at The Verge.",
+    "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+    "id": "https://www.theverge.com/?p=906965",
+    "isoDate": "2026-04-03T20:22:59.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-agi-boss-is-taking-a-leave-of-absence"
   },
   {
     "title": "(No AI) Apple’s best product ever",
@@ -57,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0402_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "apple-s-best-product-ever"
-  },
-  {
-    "title": "(No AI) Chatbots are now prescribing psychiatric drugs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-    "pubDate": "2026-04-03T11:43:21.000Z",
-    "author": "Robert Hart",
-    "content": "![An illustration of a robot psychiatrist on an orang background](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS524_AI_HEALTH_E.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUtah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated [this kind](https://commerce.utah.gov/ai/agreements/doctronic/) of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and unlikely to expand mental health care to those who need it.\n\nThe one-year pilot, [announced last week](https://commerce.utah.gov/ai/agreements/ai-legion-health/), will allow Legion Health's AI chatbot to renew certain prescriptions for psychiatric medications, in some cases. The San Francisco startup promises Utah-based patients \"fast, simple refills\" through a $19-a-month subscription. The prog …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)",
-    "contentSnippet": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and unlikely to expand mental health care to those who need it.\nThe one-year pilot, announced last week, will allow Legion Health's AI chatbot to renew certain prescriptions for psychiatric medications, in some cases. The San Francisco startup promises Utah-based patients \"fast, simple refills\" through a $19-a-month subscription. The prog …\nRead the full story at The Verge.",
-    "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque, risky, and [&#8230;]",
-    "id": "https://www.theverge.com/?p=906525",
-    "isoDate": "2026-04-03T11:43:21.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS524_AI_HEALTH_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chatbots-are-now-prescribing-psychiatric-drugs"
   },
   {
     "title": "(No AI) OpenAI acquires TBPN",
@@ -123,6 +119,22 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Zoë Schiffer",
+    "title": "(No AI) OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+    "link": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+    "pubDate": "Fri, 03 Apr 2026 19:38:35 +0000",
+    "dc:creator": "Zoë Schiffer",
+    "content": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+    "contentSnippet": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+    "guid": "69d0128194560d965a42fcd4",
+    "categories": [
+      "Business"
+    ],
+    "isoDate": "2026-04-03T19:38:35.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-fidji-simo-is-taking-medical-leave-amid-an-executive-shake-up"
+  },
+  {
     "creator": "Matthew Korfhage",
     "title": "(No AI) The 3 Best Portable Jump Starters in 2026: Get Charged Up",
     "link": "https://www.wired.com/story/best-portable-jump-starters/",
@@ -139,22 +151,5 @@
     "isoDate": "2026-04-03T10:39:00.000Z",
     "source": "Wired AI",
     "slug": "the-3-best-portable-jump-starters-in-2026-get-charged-up"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
-    "title": "(No AI) ‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-    "pubDate": "Thu, 02 Apr 2026 21:04:22 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
-    "content": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-    "contentSnippet": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-    "guid": "69cac87ef016b774280490af",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-04-02T21:04:22.000Z",
-    "source": "Wired AI",
-    "slug": "uncanny-valley-iran-s-threats-on-us-tech-trump-s-plans-for-midterms-and-polymarket-s-pop-up-flop"
   }
 ]
