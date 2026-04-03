@@ -42,6 +42,20 @@
     "slug": "microsoft-takes-on-ai-rivals-with-three-new-foundational-models"
   },
   {
+    "title": "(No AI) PSA: Anyone with a link can view your Granola notes by default",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+    "pubDate": "2026-04-02T21:56:16.000Z",
+    "author": "Emma Roth",
+    "content": "![Granola’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.png?quality=90&strip=all&crop=0,0,100,100)\n\nIf you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though [Granola says](https://www.granola.ai/security) your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.\n\nGranola [describes itself](https://www.granola.ai/) as an \"AI notepad for people in back-to-back meetings.\" It integrates with your calendar to capture audio from your meetings, and then uses AI to generate a bulleted list of what you've heard, which it calls a \"note.\" You can edit the AI-generated notes, invite other collaborators to view them, and use Granola's AI assistant to ask questions about y …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)",
+    "contentSnippet": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.\nGranola describes itself as an \"AI notepad for people in back-to-back meetings.\" It integrates with your calendar to capture audio from your meetings, and then uses AI to generate a bulleted list of what you've heard, which it calls a \"note.\" You can edit the AI-generated notes, invite other collaborators to view them, and use Granola's AI assistant to ask questions about y …\nRead the full story at The Verge.",
+    "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people [&#8230;]",
+    "id": "https://www.theverge.com/?p=906253",
+    "isoDate": "2026-04-02T21:56:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "psa-anyone-with-a-link-can-view-your-granola-notes-by-default"
+  },
+  {
     "title": "(No AI) Elon Musk is about to be a very busy boy!",
     "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
     "pubDate": "2026-04-02T18:15:00.000Z",
@@ -54,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "elon-musk-is-about-to-be-a-very-busy-boy"
-  },
-  {
-    "title": "(No AI) OpenAI just bought TBPN",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "pubDate": "2026-04-02T17:40:07.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has purchased [TBPN](https://www.tbpn.com/), an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors.\n\nTBPN's livestream is primarily available on [X](https://x.com/tbpn) and [YouTube](https://www.youtube.com/@TBPNLive), but many users watch it on X. OpenAI's purchase comes as a lawsuit between Altman and Elon Musk, who was a co-founder of OpenAI before splitting from the project and now owns X, is headed to trial later this mont …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)",
-    "contentSnippet": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and Fox Business as its competitors. \nTBPN's livestream is primarily available on X and YouTube, but many users watch it on X. OpenAI's purchase comes as a lawsuit between Altman and Elon Musk, who was a co-founder of OpenAI before splitting from the project and now owns X, is headed to trial later this mont …\nRead the full story at The Verge.",
-    "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and [&#8230;]",
-    "id": "https://www.theverge.com/?p=906022",
-    "isoDate": "2026-04-02T17:40:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-just-bought-tbpn"
   },
   {
     "title": "(No AI) OpenAI acquires TBPN",
@@ -120,6 +120,23 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
+    "title": "(No AI) ‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
+    "pubDate": "Thu, 02 Apr 2026 21:04:22 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
+    "content": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
+    "contentSnippet": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
+    "guid": "69cac87ef016b774280490af",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-04-02T21:04:22.000Z",
+    "source": "Wired AI",
+    "slug": "uncanny-valley-iran-s-threats-on-us-tech-trump-s-plans-for-midterms-and-polymarket-s-pop-up-flop"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
     "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
@@ -135,22 +152,5 @@
     "isoDate": "2026-04-02T19:29:48.000Z",
     "source": "Wired AI",
     "slug": "openai-acquires-tech-talk-show-tbpn-and-buys-itself-some-positive-news"
-  },
-  {
-    "creator": "Molly Taft",
-    "title": "(No AI) A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-    "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-    "pubDate": "Thu, 02 Apr 2026 18:27:29 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
-    "contentSnippet": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
-    "guid": "69cc083c6cab226b3ec29afe",
-    "categories": [
-      "Science",
-      "Science / Environment"
-    ],
-    "isoDate": "2026-04-02T18:27:29.000Z",
-    "source": "Wired AI",
-    "slug": "a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant"
   }
 ]
