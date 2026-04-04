@@ -1,7 +1,7 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic says Claude Code subscribers will need to pay extra for OpenClaw support",
+    "title": "(No AI) Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "pubDate": "Sat, 04 Apr 2026 16:32:22 +0000",
     "dc:creator": "Anthony Ha",
@@ -18,7 +18,7 @@
     ],
     "isoDate": "2026-04-04T16:32:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support"
+    "slug": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage"
   },
   {
     "creator": "Connie Loizos",
@@ -42,6 +42,20 @@
     "slug": "anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party"
   },
   {
+    "title": "(No AI) A folk musician became a target for AI fakes and a copyright troll",
+    "link": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "pubDate": "2026-04-04T17:52:10.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Musician Murphy Campbell in a black and white photo that appears to be taken on an old-school large format film camera.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/0040566978_25.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMurphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that [did not belong there](https://www.instagram.com/murphydoesnotmatter/reel/DTvZayRiZ4q/). They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\n\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming platforms under her name. I ran one of the songs, \"Four Marys\", through two different AI detectors, and it seemed to support her suspicions with both saying it was probably AI-generated.\n\nCampbell was shocked, \"I was kind of under the impression that we had a little b …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)",
+    "contentSnippet": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming platforms under her name. I ran one of the songs, \"Four Marys\", through two different AI detectors, and it seemed to support her suspicions with both saying it was probably AI-generated.\nCampbell was shocked, \"I was kind of under the impression that we had a little b …\nRead the full story at The Verge.",
+    "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created [&#8230;]",
+    "id": "https://www.theverge.com/?p=907111",
+    "isoDate": "2026-04-04T17:52:10.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/0040566978_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "a-folk-musician-became-a-target-for-ai-fakes-and-a-copyright-troll"
+  },
+  {
     "title": "(No AI) Really, you made this without AI? Prove it",
     "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
     "pubDate": "2026-04-04T13:00:00.000Z",
@@ -54,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "really-you-made-this-without-ai-prove-it"
-  },
-  {
-    "title": "(No AI) Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-    "pubDate": "2026-04-03T23:52:49.000Z",
-    "author": "Jay Peters",
-    "content": "![The OpenClaw logo on a dark blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUsing OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription.\n\nWith OpenClaw creator Peter Steinberger now [employed by OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai), Anthropic may also be encouraging subscribers to use [more of its own tools, like Claude Cowork, instead](https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer). Steinber …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)",
-    "contentSnippet": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription. \nWith OpenClaw creator Peter Steinberger now employed by OpenAI, Anthropic may also be encouraging subscribers to use more of its own tools, like Claude Cowork, instead. Steinber …\nRead the full story at The Verge.",
-    "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users [&#8230;]",
-    "id": "https://www.theverge.com/?p=907074",
-    "isoDate": "2026-04-03T23:52:49.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-essentially-bans-openclaw-from-claude-by-making-subscribers-pay-extra"
   },
   {
     "title": "(No AI) OpenAI acquires TBPN",
