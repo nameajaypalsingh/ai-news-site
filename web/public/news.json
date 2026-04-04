@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic says Claude Code subscribers will need to pay extra for OpenClaw support",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "pubDate": "Sat, 04 Apr 2026 16:32:22 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "contentSnippet": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "guid": "https://techcrunch.com/?p=3109429",
+    "categories": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "claude code",
+      "openclaw",
+      "Peter Steinberger"
+    ],
+    "isoDate": "2026-04-04T16:32:22.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
@@ -11,33 +32,28 @@
     "categories": [
       "AI",
       "TC",
-      "Anthropic",
+      "SpaceX",
       "Exclusive",
       "OpenAI",
-      "SpaceX"
+      "Anthropic"
     ],
     "isoDate": "2026-04-04T01:31:00.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "pubDate": "Fri, 03 Apr 2026 20:35:34 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-    "contentSnippet": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-    "guid": "https://techcrunch.com/?p=3109304",
-    "categories": [
-      "AI",
-      "Brad Lightcap",
-      "Fidji Simo",
-      "OpenAI"
-    ],
-    "isoDate": "2026-04-03T20:35:34.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-executive-shuffle-includes-new-role-for-coo-brad-lightcap-to-lead-special-projects"
+    "title": "(No AI) Really, you made this without AI? Prove it",
+    "link": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "pubDate": "2026-04-04T13:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A crowd of robots surrounding someone with a robot captcha for a head.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n\"This looks like AI.\"\n\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms [refuse to label even obvious AI content](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube).\n\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as hell aren't motivated to label their work, but the creators at risk of being displaced most definitely are.\n\nFortunately, I'm not alone in my thinki …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content)",
+    "contentSnippet": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content.\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as hell aren't motivated to label their work, but the creators at risk of being displaced most definitely are.\nFortunately, I'm not alone in my thinki …\nRead the full story at The Verge.",
+    "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one [&#8230;]",
+    "id": "https://www.theverge.com/?p=906453",
+    "isoDate": "2026-04-04T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "really-you-made-this-without-ai-prove-it"
   },
   {
     "title": "(No AI) Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
@@ -52,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "anthropic-essentially-bans-openclaw-from-claude-by-making-subscribers-pay-extra"
-  },
-  {
-    "title": "(No AI) OpenAI’s AGI boss is taking a leave of absence",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-    "pubDate": "2026-04-03T20:22:59.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by _The Verge_.\n\nFidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will take charge.\n\nOpenAI's CMO, Kate Rouch, has also decided to step down in order to focus on her health, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)",
-    "contentSnippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. \nFidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to a neuroimmune condition. While she's out, OpenAI president Greg Brockman will be in charge of product, including leading OpenAI's super app efforts. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will take charge. \nOpenAI's CMO, Kate Rouch, has also decided to step down in order to focus on her health,  …\nRead the full story at The Verge.",
-    "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
-    "id": "https://www.theverge.com/?p=906965",
-    "isoDate": "2026-04-03T20:22:59.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1239231852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-agi-boss-is-taking-a-leave-of-absence"
   },
   {
     "title": "(No AI) OpenAI acquires TBPN",
