@@ -115,6 +115,23 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+    "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+    "pubDate": "Mon, 06 Apr 2026 09:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+    "contentSnippet": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+    "guid": "69ce941e71c299c71df96032",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-06T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-ridiculously-nerdy-intel-bet-that-could-rake-in-billions"
+  },
+  {
     "creator": "Andy Greenberg, Dell Cameron, Maddy Varner, Andrew Couts",
     "title": "(No AI) Hackers Are Posting the Claude Code Leak With Bonus Malware",
     "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
@@ -133,26 +150,5 @@
     "isoDate": "2026-04-04T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "hackers-are-posting-the-claude-code-leak-with-bonus-malware"
-  },
-  {
-    "creator": "Maxwell Zeff, Zoë Schiffer, Lily Hay Newman",
-    "title": "(No AI) Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-    "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-    "pubDate": "Fri, 03 Apr 2026 21:28:14 +0000",
-    "dc:creator": "Maxwell Zeff, Zoë Schiffer, Lily Hay Newman",
-    "content": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-    "contentSnippet": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-    "guid": "69cd4760b07b1f7a1d596ed2",
-    "categories": [
-      "Business",
-      "Security",
-      "Business / Artificial Intelligence",
-      "Business / Startups",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-04-03T21:28:14.000Z",
-    "source": "Wired AI",
-    "slug": "meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk"
   }
 ]
