@@ -1,74 +1,72 @@
 [
   {
     "creator": "Julie Bort",
-    "title": "(No AI) Uber is the latest to be won over by Amazon’s AI chips",
-    "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-    "pubDate": "Tue, 07 Apr 2026 16:46:59 +0000",
+    "title": "(No AI) Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "pubDate": "Tue, 07 Apr 2026 18:46:55 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-    "contentSnippet": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
-    "guid": "https://techcrunch.com/?p=3110079",
+    "content": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+    "contentSnippet": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+    "guid": "https://techcrunch.com/?p=3110209",
     "categories": [
       "AI",
-      "Enterprise",
-      "TC",
-      "Amazon",
-      "AWS",
-      "Uber"
+      "Startups",
+      "data centers",
+      "In Brief",
+      "nvidia"
     ],
-    "isoDate": "2026-04-07T16:46:59.000Z",
+    "isoDate": "2026-04-07T18:46:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "uber-is-the-latest-to-be-won-over-by-amazon-s-ai-chips"
+    "slug": "firmus-the-southgate-ai-data-center-builder-backed-by-nvidia-hits-5-5b-valuation"
   },
   {
-    "creator": "Rebecca Szkutak",
-    "title": "(No AI) Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-    "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-    "pubDate": "Tue, 07 Apr 2026 16:05:56 +0000",
-    "dc:creator": "Rebecca Szkutak",
-    "content": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-    "contentSnippet": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
-    "guid": "https://techcrunch.com/?p=3110066",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Intel signs on to Elon Musk’s Terafab chips project",
+    "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "pubDate": "Tue, 07 Apr 2026 18:10:01 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
+    "contentSnippet": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
+    "guid": "https://techcrunch.com/?p=3110172",
     "categories": [
       "AI",
-      "Enterprise",
-      "Anthropic",
-      "Broadcom",
-      "Claude",
-      "compute",
-      "Google"
+      "Hardware",
+      "Elon Musk",
+      "In Brief",
+      "Intel",
+      "semiconductors"
     ],
-    "isoDate": "2026-04-07T16:05:56.000Z",
+    "isoDate": "2026-04-07T18:10:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand"
+    "slug": "intel-signs-on-to-elon-musk-s-terafab-chips-project"
   },
   {
-    "title": "(No AI) Suno and major music labels reportedly clash over AI music sharing",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-    "pubDate": "2026-04-07T16:21:22.000Z",
-    "author": "Emma Roth",
-    "content": "![A smiling computer surrounded by music notes.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to [a report from the _Financial Times_](https://www.ft.com/content/b066a226-4871-4669-97a8-f9617cdbf48b?syn-25a6b1a6=1), which says both sides can't agree on whether users should be able to share the AI-generated songs they create.\n\n\"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the _Financial Times_ reports. Suno, which lets users create AI-generated music with a text prompt, [became the subject of a massive copyright lawsuit](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) from U …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement)",
-    "contentSnippet": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create.\n\"Universal wants AI-generated tracks to stay inside apps such as Suno and not spread freely across the internet. Suno, however, wants users to be able to share and distribute those songs more widely,\" the Financial Times reports. Suno, which lets users create AI-generated music with a text prompt, became the subject of a massive copyright lawsuit from U …\nRead the full story at The Verge.",
-    "summary": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both sides can't agree on whether users should be able to share the AI-generated songs they create. \"Universal wants AI-generated tracks to stay inside apps such [&#8230;]",
-    "id": "https://www.theverge.com/?p=908119",
-    "isoDate": "2026-04-07T16:21:22.000Z",
+    "title": "(No AI) Spotify’s Prompted Playlists can help you find new podcasts to listen to",
+    "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+    "pubDate": "2026-04-07T20:13:23.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![An image showing the Spotify logo surrounded by microphones](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Tuesday, Spotify expanded its Prompted Playlists feature [to include podcasts](https://newsroom.spotify.com/2026-04-07/prompted-playlist-for-podcasts-launch/), an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally [launched as a beta feature](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists) in December, but previously only worked for music. You can use the feature to effectively generate customized Discover Weekly playlists using text prompts to \"steer the algorithm\" toward specific genres or themes.\n\nTuesday's update allows you to do the same thing with playlists of podcast episodes. The feature is still in beta, though, and is currently only available in English for Premium users in the U.S., Canada …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts)",
+    "contentSnippet": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover Weekly playlists using text prompts to \"steer the algorithm\" toward specific genres or themes.  \nTuesday's update allows you to do the same thing with playlists of podcast episodes. The feature is still in beta, though, and is currently only available in English for Premium users in the U.S., Canada …\nRead the full story at The Verge.",
+    "summary": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originally launched as a beta feature in December, but previously only worked for music. You can use the feature to effectively generate customized Discover [&#8230;]",
+    "id": "https://www.theverge.com/?p=908339",
+    "isoDate": "2026-04-07T20:13:23.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "suno-and-major-music-labels-reportedly-clash-over-ai-music-sharing"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_Illo_STK130_K_Radtke_Spotify_Podcast_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "spotify-s-prompted-playlists-can-help-you-find-new-podcasts-to-listen-to"
   },
   {
-    "title": "(No AI) Intel will help build Elon Musk’s Terafab AI chip factory",
-    "link": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
-    "pubDate": "2026-04-07T15:43:17.000Z",
-    "author": "Andrew J. Hawkins",
-    "content": "![Vector illustration of the Intel logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n[Elon Musk's Terafab AI chip project](http://v) in Austin, Texas, is gaining a crucial new partner: Intel.\n\nOn Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX ([newly merged with xAI](https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo)) and Tesla. Musk needs AI chips to power his plans to build a \"robot army\" that includes self-driving cars and humanoid robots, as well as for the data centers he plans on launching into space. SpaceX plans on making its [initial public offering](https://www.theverge.com/science/904991/spacex-announces-ipo-but-its-keeping-the-numbers-secret-for-now) later this year.\n\n\"Terafab will close the gap between today's chip production and the future's demand - a future …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla)",
-    "contentSnippet": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel.\nOn Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX (newly merged with xAI) and Tesla. Musk needs AI chips to power his plans to build a \"robot army\" that includes self-driving cars and humanoid robots, as well as for the data centers he plans on launching into space. SpaceX plans on making its initial public offering later this year. \n\"Terafab will close the gap between today's chip production and the future's demand - a future …\nRead the full story at The Verge.",
-    "summary": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling facility, which would supply AI chips to Musk's two companies, SpaceX (newly merged with xAI) and Tesla. Musk needs AI chips to [&#8230;]",
-    "id": "https://www.theverge.com/?p=907976",
-    "isoDate": "2026-04-07T15:43:17.000Z",
+    "title": "(No AI) A new Anthropic model found security problems ‘in every major operating system and web browser’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+    "pubDate": "2026-04-07T18:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![Photo collage showing mouse cursors circling like sharks in a tablet screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.\n\nAnthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly release due to security concerns. Newton Cheng, the cyber lead for Anthropic's frontier red team, told _The Verge_ that the model will ideally give cyber …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)",
+    "contentSnippet": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.\nAnthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly release due to security concerns. Newton Cheng, the cyber lead for Anthropic's frontier red team, told The Verge that the model will ideally give cyber  …\nRead the full story at The Verge.",
+    "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is [&#8230;]",
+    "id": "https://www.theverge.com/?p=908114",
+    "isoDate": "2026-04-07T18:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "intel-will-help-build-elon-musk-s-terafab-ai-chip-factory"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "a-new-anthropic-model-found-security-problems-in-every-major-operating-system-and-web-browser"
   },
   {
     "title": "(No AI) Announcing the OpenAI Safety Fellowship",
@@ -121,6 +119,26 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+    "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+    "pubDate": "Tue, 07 Apr 2026 18:49:50 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+    "contentSnippet": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+    "guid": "69d4131ee23953bcdf5ddb9a",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-04-07T18:49:50.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-teams-up-with-its-rivals-to-keep-ai-from-hacking-everything"
+  },
+  {
     "creator": "Lauren Goode",
     "title": "(No AI) The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
     "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
@@ -136,25 +154,5 @@
     "isoDate": "2026-04-06T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-ridiculously-nerdy-intel-bet-that-could-rake-in-billions"
-  },
-  {
-    "creator": "Andy Greenberg, Dell Cameron, Maddy Varner, Andrew Couts",
-    "title": "(No AI) Hackers Are Posting the Claude Code Leak With Bonus Malware",
-    "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-    "pubDate": "Sat, 04 Apr 2026 10:30:00 +0000",
-    "dc:creator": "Andy Greenberg, Dell Cameron, Maddy Varner, Andrew Couts",
-    "content": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-    "contentSnippet": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-    "guid": "69d00b4d930f0c6762bef1b6",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-04-04T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "hackers-are-posting-the-claude-code-leak-with-bonus-malware"
   }
 ]
