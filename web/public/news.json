@@ -11,8 +11,8 @@
     "categories": [
       "AI",
       "Apps",
-      "Dictation",
       "Google",
+      "Dictation",
       "voice AI",
       "Wispr flow"
     ],
@@ -42,6 +42,20 @@
     "slug": "i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee"
   },
   {
+    "title": "(No AI) Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+    "link": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+    "pubDate": "2026-04-08T11:53:28.000Z",
+    "author": "Mia Sato",
+    "content": "![Pixelated pencil writing on paper](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK149_AI_Writing.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUnionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.\n\nThe roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union says key issues are still in contention, including protections around the use of AI, \"just cause\" provisions around disciplining or firing an employee, layoff protections, and wages.\n\n\"We've been working to resolve this quietly for over two years,\" says Katie Campbell, a ProPublica Guild member. \"This is …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs)",
+    "contentSnippet": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line.\nThe roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union says key issues are still in contention, including protections around the use of AI, \"just cause\" provisions around disciplining or firing an employee, layoff protections, and wages.\n\"We've been working to resolve this quietly for over two years,\" says Katie Campbell, a ProPublica Guild member. \"This is  …\nRead the full story at The Verge.",
+    "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agreement after unionizing in 2023. The union [&#8230;]",
+    "id": "https://www.theverge.com/?p=908401",
+    "isoDate": "2026-04-08T11:53:28.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK149_AI_Writing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "unionized-propublica-staff-are-on-strike-over-ai-layoffs-and-wages"
+  },
+  {
     "title": "(No AI) Spotify’s Prompted Playlists can help you find new podcasts to listen to",
     "link": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
     "pubDate": "2026-04-07T20:13:23.000Z",
@@ -56,18 +70,18 @@
     "slug": "spotify-s-prompted-playlists-can-help-you-find-new-podcasts-to-listen-to"
   },
   {
-    "title": "(No AI) A new Anthropic model found security problems ‘in every major operating system and web browser’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-    "pubDate": "2026-04-07T18:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo collage showing mouse cursors circling like sharks in a tablet screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.\n\nAnthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly release due to security concerns. Newton Cheng, the cyber lead for Anthropic's frontier red team, told _The Verge_ that the model will ideally give cyber …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)",
-    "contentSnippet": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention.\nAnthropic is offering its launch partners access to Claude Mythos Preview, a new general-purpose model that it's not currently planning to publicly release due to security concerns. Newton Cheng, the cyber lead for Anthropic's frontier red team, told The Verge that the model will ideally give cyber  …\nRead the full story at The Verge.",
-    "summary": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is [&#8230;]",
-    "id": "https://www.theverge.com/?p=908114",
-    "isoDate": "2026-04-07T18:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "a-new-anthropic-model-found-security-problems-in-every-major-operating-system-and-web-browser"
+    "title": "(No AI) Introducing the Child Safety Blueprint",
+    "link": "https://openai.com/index/introducing-child-safety-blueprint",
+    "pubDate": "Wed, 08 Apr 2026 05:00:00 GMT",
+    "content": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "contentSnippet": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "guid": "https://openai.com/index/introducing-child-safety-blueprint",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-04-08T05:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-the-child-safety-blueprint"
   },
   {
     "title": "(No AI) Announcing the OpenAI Safety Fellowship",
@@ -82,20 +96,6 @@
     "isoDate": "2026-04-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "announcing-the-openai-safety-fellowship"
-  },
-  {
-    "title": "(No AI) Industrial policy for the Intelligence Age",
-    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "pubDate": "Mon, 06 Apr 2026 02:30:00 GMT",
-    "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-    "contentSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-    "guid": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-04-06T02:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "industrial-policy-for-the-intelligence-age"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
