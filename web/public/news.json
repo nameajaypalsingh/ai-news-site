@@ -1,44 +1,59 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-    "pubDate": "Wed, 08 Apr 2026 16:01:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-    "contentSnippet": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-    "guid": "https://techcrunch.com/?p=3110416",
+    "creator": "Julie Bort",
+    "title": "(No AI) AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "pubDate": "Wed, 08 Apr 2026 20:09:14 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
+    "contentSnippet": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
+    "guid": "https://techcrunch.com/?p=3110560",
     "categories": [
       "AI",
-      "Apps",
+      "Enterprise",
       "TC",
-      "AI agents",
-      "Astropad",
-      "remote desktop",
-      "remoteaccesssoftware"
+      "Anthropic",
+      "AWS",
+      "Matt Garman",
+      "OpenAI"
     ],
-    "isoDate": "2026-04-08T16:01:09.000Z",
+    "isoDate": "2026-04-08T20:09:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "astropad-s-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support"
+    "slug": "aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict"
   },
   {
     "creator": "Lauren Forristal",
-    "title": "(No AI) OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "pubDate": "Wed, 08 Apr 2026 15:23:44 +0000",
+    "title": "(No AI) Tubi is the first streamer to launch a native app within ChatGPT",
+    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "pubDate": "Wed, 08 Apr 2026 18:23:06 +0000",
     "dc:creator": "Lauren Forristal",
-    "content": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-    "contentSnippet": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-    "guid": "https://techcrunch.com/?p=3110429",
+    "content": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "contentSnippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "guid": "https://techcrunch.com/?p=3110562",
     "categories": [
       "AI",
+      "Media & Entertainment",
       "ChatGPT",
-      "online child safety",
-      "OpenAI"
+      "streaming service",
+      "tubi"
     ],
-    "isoDate": "2026-04-08T15:23:44.000Z",
+    "isoDate": "2026-04-08T18:23:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation"
+    "slug": "tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt"
+  },
+  {
+    "title": "(No AI) OpenAI made economic proposals — here’s what DC thinks of them",
+    "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+    "pubDate": "2026-04-08T20:14:00.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100)\n\n[_Happy ceasefire day_](https://www.yahoo.com/news/world/article/trump-agrees-to-two-week-ceasefire-deal-with-iran-after-threatening-to-wipe-out-its-whole-civilization-how-we-got-here-and-what-could-happen-next-193210369.html) _and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet,_ [_you can do so here_](https://www.theverge.com/subscribe)_, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart World War III._\n\n  \n_I'm back after being waylaid last week by the deadly combo of a moderate cold and the beginning of pollen season. (Twenty-one percent of the District's acreage is taken up by public green space, and DC is consistently ranked_ [_the best city park system in America_](https://www.tpl.org/media-room/trust-for-public-land-names-washington-dc-best-big-city-park-system-washington-defends-parkscore-title-as-irvine-soars-to-runner-up-finish)_. Unfortunately, I am allergic to every tree and gr …_\n\n[Read the full story at The Verge.](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them)",
+    "contentSnippet": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart World War III.\nI'm back after being waylaid last week by the deadly combo of a moderate cold and the beginning of pollen season. (Twenty-one percent of the District's acreage is taken up by public green space, and DC is consistently ranked the best city park system in America. Unfortunately, I am allergic to every tree and gr …\nRead the full story at The Verge.",
+    "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats toward Iran and kickstart [&#8230;]",
+    "id": "https://www.theverge.com/908880/can-you-monitor-a-situation-without-monitors-the-polymarket-sports-bar-tried",
+    "isoDate": "2026-04-08T20:14:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-made-economic-proposals-here-s-what-dc-thinks-of-them"
   },
   {
     "title": "(No AI) Meta is reentering the AI race with a new model called Muse Spark",
@@ -53,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark"
-  },
-  {
-    "title": "(No AI) The vibes are off at OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-    "pubDate": "2026-04-08T13:47:38.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status akin to \"Kleenex\" for tissues. But in recent months, a slew of executive reshufflings, discontinued projects, and other news has raised questions about how stable the company really is - and how long it may be able to stay on top.\n\nOpenAI's current batch of public controversies started early in the year. At the end of Febru …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai)",
-    "contentSnippet": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status akin to \"Kleenex\" for tissues. But in recent months, a slew of executive reshufflings, discontinued projects, and other news has raised questions about how stable the company really is - and how long it may be able to stay on top. \nOpenAI's current batch of public controversies started early in the year. At the end of Febru …\nRead the full story at The Verge.",
-    "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led it to name-brand status [&#8230;]",
-    "id": "https://www.theverge.com/?p=908513",
-    "isoDate": "2026-04-08T13:47:38.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-vibes-are-off-at-openai"
   },
   {
     "title": "(No AI) Introducing the Child Safety Blueprint",
@@ -119,40 +120,37 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-    "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-    "pubDate": "Wed, 08 Apr 2026 17:00:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-    "contentSnippet": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-    "guid": "69d43bac139f7422aa5fed4d",
+    "creator": "Will Knight",
+    "title": "(No AI) Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+    "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+    "pubDate": "Wed, 08 Apr 2026 18:51:09 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+    "contentSnippet": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+    "guid": "69d68d6e383b6979c9a47bea",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-08T17:00:00.000Z",
+    "isoDate": "2026-04-08T18:51:09.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-s-new-product-aims-to-handle-the-hard-part-of-building-ai-agents"
+    "slug": "meta-s-new-ai-model-gives-mark-zuckerberg-a-seat-at-the-big-kid-s-table"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-    "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-    "pubDate": "Tue, 07 Apr 2026 18:49:50 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
-    "contentSnippet": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
-    "guid": "69d4131ee23953bcdf5ddb9a",
+    "creator": "Will Knight",
+    "title": "(No AI) The US Army Is Building Its Own Chatbot for Combat",
+    "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+    "pubDate": "Wed, 08 Apr 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "contentSnippet": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "guid": "69d4368dc4071a92611c33b8",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-07T18:49:50.000Z",
+    "isoDate": "2026-04-08T18:00:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-teams-up-with-its-rivals-to-keep-ai-from-hacking-everything"
+    "slug": "the-us-army-is-building-its-own-chatbot-for-combat"
   }
 ]
