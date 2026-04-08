@@ -1,6 +1,27 @@
 [
   {
     "creator": "Julie Bort",
+    "title": "(No AI) I can’t help rooting for tiny open source AI model maker Arcee",
+    "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+    "pubDate": "Tue, 07 Apr 2026 21:35:02 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+    "contentSnippet": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+    "guid": "https://techcrunch.com/?p=3110230",
+    "categories": [
+      "AI",
+      "Startups",
+      "TC",
+      "Arcee AI",
+      "chinese ai",
+      "open source ai"
+    ],
+    "isoDate": "2026-04-07T21:35:02.000Z",
+    "source": "TechCrunch AI",
+    "slug": "i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee"
+  },
+  {
+    "creator": "Julie Bort",
     "title": "(No AI) Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
     "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
     "pubDate": "Tue, 07 Apr 2026 18:46:55 +0000",
@@ -18,27 +39,6 @@
     "isoDate": "2026-04-07T18:46:55.000Z",
     "source": "TechCrunch AI",
     "slug": "firmus-the-southgate-ai-data-center-builder-backed-by-nvidia-hits-5-5b-valuation"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Intel signs on to Elon Musk’s Terafab chips project",
-    "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-    "pubDate": "Tue, 07 Apr 2026 18:10:01 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
-    "contentSnippet": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
-    "guid": "https://techcrunch.com/?p=3110172",
-    "categories": [
-      "AI",
-      "Hardware",
-      "Elon Musk",
-      "In Brief",
-      "Intel",
-      "semiconductors"
-    ],
-    "isoDate": "2026-04-07T18:10:01.000Z",
-    "source": "TechCrunch AI",
-    "slug": "intel-signs-on-to-elon-musk-s-terafab-chips-project"
   },
   {
     "title": "(No AI) Spotify’s Prompted Playlists can help you find new podcasts to listen to",
