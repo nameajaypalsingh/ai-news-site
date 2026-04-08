@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google quietly launched an AI dictation app that works offline",
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "pubDate": "Wed, 08 Apr 2026 05:40:19 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+    "contentSnippet": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+    "guid": "https://techcrunch.com/?p=3109710",
+    "categories": [
+      "AI",
+      "Apps",
+      "Dictation",
+      "Google",
+      "voice AI",
+      "Wispr flow"
+    ],
+    "isoDate": "2026-04-08T05:40:19.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-quietly-launched-an-ai-dictation-app-that-works-offline"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) I can’t help rooting for tiny open source AI model maker Arcee",
     "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
@@ -19,26 +40,6 @@
     "isoDate": "2026-04-07T21:35:02.000Z",
     "source": "TechCrunch AI",
     "slug": "i-can-t-help-rooting-for-tiny-open-source-ai-model-maker-arcee"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
-    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-    "pubDate": "Tue, 07 Apr 2026 18:46:55 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
-    "contentSnippet": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
-    "guid": "https://techcrunch.com/?p=3110209",
-    "categories": [
-      "AI",
-      "Startups",
-      "data centers",
-      "In Brief",
-      "nvidia"
-    ],
-    "isoDate": "2026-04-07T18:46:55.000Z",
-    "source": "TechCrunch AI",
-    "slug": "firmus-the-southgate-ai-data-center-builder-backed-by-nvidia-hits-5-5b-valuation"
   },
   {
     "title": "(No AI) Spotify’s Prompted Playlists can help you find new podcasts to listen to",
