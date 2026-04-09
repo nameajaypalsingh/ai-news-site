@@ -1,55 +1,57 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-    "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-    "pubDate": "Thu, 09 Apr 2026 14:27:57 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-    "contentSnippet": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
-    "guid": "https://techcrunch.com/?p=3110724",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "pubDate": "Thu, 09 Apr 2026 20:11:55 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "contentSnippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "guid": "https://techcrunch.com/?p=3110924",
     "categories": [
       "AI",
-      "Enterprise",
-      "Amazon",
-      "Andy Jassy",
-      "AWS",
-      "CAPEX",
-      "OpenAI"
+      "ChatGPT",
+      "OpenAI",
+      "sam altman"
     ],
-    "isoDate": "2026-04-09T14:27:57.000Z",
+    "isoDate": "2026-04-09T20:11:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter"
+    "slug": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-involved-chatgpt"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-    "pubDate": "Thu, 09 Apr 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
-    "contentSnippet": "Ticket discounts of up to $500 will end tomorrow, April 10, at 11:59 p.m. PT. After that, prices for TechCrunch Disrupt 2026 go up again. Miss this, and you’ll be paying more for the same access to one of the most anticipated tech events of the year. Register now to lock in these savings.",
-    "guid": "https://techcrunch.com/?p=3110805",
+    "creator": "Julie Bort",
+    "title": "(No AI) After data breach, $10B valued startup Mercor is having a month",
+    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "pubDate": "Thu, 09 Apr 2026 19:33:54 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "contentSnippet": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+    "guid": "https://techcrunch.com/?p=3110877",
     "categories": [
       "AI",
-      "Apps",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Hardware",
-      "Media & Entertainment",
-      "Robotics",
-      "Space",
       "Startups",
-      "Transportation",
-      "Venture",
-      "TechCrunch Disrupt 2026"
+      "TC",
+      "Delve",
+      "LiteLLM",
+      "Mercor"
     ],
-    "isoDate": "2026-04-09T14:00:00.000Z",
+    "isoDate": "2026-04-09T19:33:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket"
+    "slug": "after-data-breach-10b-valued-startup-mercor-is-having-a-month"
+  },
+  {
+    "title": "(No AI) Google’s Gemini AI can answer your questions with 3D models and simulations",
+    "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+    "pubDate": "2026-04-09T17:57:58.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. [With the new feature](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/), you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time.\n\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along with a slider to adjust the speed of the Moon's orbit, there's also a toggle to hide the line representing its orbital path and a button to pause the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)",
+    "contentSnippet": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time.\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along with a slider to adjust the speed of the Moon's orbit, there's also a toggle to hide the line representing its orbital path and a button to pause the  …\nRead the full story at The Verge.",
+    "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time. When trying out the feature for [&#8230;]",
+    "id": "https://www.theverge.com/?p=909391",
+    "isoDate": "2026-04-09T17:57:58.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations"
   },
   {
     "title": "(No AI) The AI industry’s race for profits is now existential",
@@ -64,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-ai-industry-s-race-for-profits-is-now-existential"
-  },
-  {
-    "title": "(No AI) Google makes it easy to deepfake yourself",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-    "pubDate": "2026-04-09T10:53:49.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/acastro_STK092_03.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYouTube Shorts is [rolling out](https://support.google.com/youtube/answer/16985237#zippy=%2Cwill-videos-generated-using-an-avatar-contain-ai-disclosures%2Chow-do-i-submit-feedback-about-avatars-on-youtube%2Chow-is-my-data-collected-used%2Climit-or-remove-remixes-of-videos-using-your-avatar%2Cretake-or-delete-your-avatar-from-the-youtube-create-app%2Cretake-or-delete-your-avatar-from-the-youtube-app) a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, [hinted at earlier this year](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026), reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to [contain AI slop](https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing), deepfake scams, and impersonations.\n\nYouTube says the new tool will let users create a digital version of themselves, called an avatar, that can be inserted into existing Shorts videos or used to generate entirely new ones. The company said avatars will \"look and sound like you,\" framing them as a safer and more secure way to use AI to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar)",
-    "contentSnippet": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. \nYouTube says the new tool will let users create a digital version of themselves, called an avatar, that can be inserted into existing Shorts videos or used to generate entirely new ones. The company said avatars will \"look and sound like you,\" framing them as a safer and more secure way to use AI to  …\nRead the full story at The Verge.",
-    "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will [&#8230;]",
-    "id": "https://www.theverge.com/?p=909104",
-    "isoDate": "2026-04-09T10:53:49.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-makes-it-easy-to-deepfake-yourself"
   },
   {
     "title": "(No AI) OpenAI Full Fan Mode Contest: Terms & Conditions",
@@ -127,6 +115,23 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+    "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+    "pubDate": "Thu, 09 Apr 2026 18:00:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+    "contentSnippet": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+    "guid": "69d41eff336de7d22b3a3b6d",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-09T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-70-person-ai-image-startup-taking-on-silicon-valley-s-giants"
+  },
+  {
     "creator": "David Gilbert",
     "title": "(No AI) The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
     "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
@@ -141,22 +146,5 @@
     "isoDate": "2026-04-09T13:25:21.000Z",
     "source": "Wired AI",
     "slug": "the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
-    "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
-    "pubDate": "Thu, 09 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
-    "contentSnippet": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
-    "guid": "69d577be09d358586818c994",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-04-09T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-ai-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle"
   }
 ]
