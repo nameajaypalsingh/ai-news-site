@@ -1,45 +1,61 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Poke makes using AI agents as easy as sending a text",
+    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "pubDate": "Wed, 08 Apr 2026 21:05:13 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+    "contentSnippet": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+    "guid": "https://techcrunch.com/?p=3110530",
+    "categories": [
+      "AI",
+      "Startups",
+      "AI agents",
+      "ai automation",
+      "consumer AI",
+      "Exclusive",
+      "Poke"
+    ],
+    "isoDate": "2026-04-08T21:05:13.000Z",
+    "source": "TechCrunch AI",
+    "slug": "poke-makes-using-ai-agents-as-easy-as-sending-a-text"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
     "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
     "pubDate": "Wed, 08 Apr 2026 20:09:14 +0000",
     "dc:creator": "Julie Bort",
-    "content": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
-    "contentSnippet": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
+    "content": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+    "contentSnippet": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
     "guid": "https://techcrunch.com/?p=3110560",
     "categories": [
       "AI",
       "Enterprise",
       "TC",
-      "Anthropic",
       "AWS",
-      "Matt Garman",
-      "OpenAI"
+      "OpenAI",
+      "Anthropic",
+      "Matt Garman"
     ],
     "isoDate": "2026-04-08T20:09:14.000Z",
     "source": "TechCrunch AI",
     "slug": "aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Tubi is the first streamer to launch a native app within ChatGPT",
-    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-    "pubDate": "Wed, 08 Apr 2026 18:23:06 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-    "contentSnippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-    "guid": "https://techcrunch.com/?p=3110562",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "ChatGPT",
-      "streaming service",
-      "tubi"
-    ],
-    "isoDate": "2026-04-08T18:23:06.000Z",
-    "source": "TechCrunch AI",
-    "slug": "tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt"
+    "title": "(No AI) Gemini gets notebooks to help you organize projects",
+    "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+    "pubDate": "2026-04-09T00:06:12.000Z",
+    "author": "Jay Peters",
+    "content": "![Illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, [the company announced on Wednesday](https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/). You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with it.\n\nNotebooks sound a lot like ChatGPT's Projects feature, which launched [in 2024](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats) and similarly [lets users](https://help.openai.com/en/articles/10169521-projects-in-chatgpt) store things about a certain topic in one spot. Google says to \"think of notebooks as personal knowledge bases shared across Google products, starting in Gemini.\" Gemini's Notebooks also sync with …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm)",
+    "contentSnippet": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with it. \nNotebooks sound a lot like ChatGPT's Projects feature, which launched in 2024 and similarly lets users store things about a certain topic in one spot. Google says to \"think of notebooks as personal knowledge bases shared across Google products, starting in Gemini.\" Gemini's Notebooks also sync with  …\nRead the full story at The Verge.",
+    "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can then use as context while you're talking with [&#8230;]",
+    "id": "https://www.theverge.com/?p=909031",
+    "isoDate": "2026-04-09T00:06:12.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "gemini-gets-notebooks-to-help-you-organize-projects"
   },
   {
     "title": "(No AI) OpenAI made economic proposals — here’s what DC thinks of them",
@@ -56,18 +72,18 @@
     "slug": "openai-made-economic-proposals-here-s-what-dc-thinks-of-them"
   },
   {
-    "title": "(No AI) Meta is reentering the AI race with a new model called Muse Spark",
-    "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-    "pubDate": "2026-04-08T16:12:54.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta Superintelligence Labs is launching its first model since Mark Zuckerberg [spent billions overhauling](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang) the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, and Meta's smart glasses, as well as roll out in other countries.\n\nLike Google Gemini, which easily integrates into Google's product suite, Meta touts Muse Spark as \"purpose-built for Meta's products.\" The model, the first in a new series, will also be available to some of Meta's partners in private …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout)",
-    "contentSnippet": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, and Meta's smart glasses, as well as roll out in other countries.  \nLike Google Gemini, which easily integrates into Google's product suite, Meta touts Muse Spark as \"purpose-built for Meta's products.\" The model, the first in a new series, will also be available to some of Meta's partners in private …\nRead the full story at The Verge.",
-    "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appear in WhatsApp, Instagram, Facebook, Messenger, [&#8230;]",
-    "id": "https://www.theverge.com/?p=908769",
-    "isoDate": "2026-04-08T16:12:54.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0312.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark"
+    "title": "(No AI) The next phase of enterprise AI",
+    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "pubDate": "Wed, 08 Apr 2026 14:00:00 GMT",
+    "content": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "contentSnippet": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+    "guid": "https://openai.com/index/next-phase-of-enterprise-ai",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-04-08T14:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-next-phase-of-enterprise-ai"
   },
   {
     "title": "(No AI) Introducing the Child Safety Blueprint",
@@ -82,20 +98,6 @@
     "isoDate": "2026-04-08T05:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-the-child-safety-blueprint"
-  },
-  {
-    "title": "(No AI) Announcing the OpenAI Safety Fellowship",
-    "link": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "pubDate": "Mon, 06 Apr 2026 10:00:00 GMT",
-    "content": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-    "contentSnippet": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-    "guid": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-04-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "announcing-the-openai-safety-fellowship"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
@@ -120,6 +122,23 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+    "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+    "pubDate": "Wed, 08 Apr 2026 22:27:26 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+    "contentSnippet": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+    "guid": "69ce9a3e2b790324f16d580c",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-08T22:27:26.000Z",
+    "source": "Wired AI",
+    "slug": "conflicting-rulings-leave-anthropic-in-supply-chain-risk-limbo"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
     "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
@@ -135,22 +154,5 @@
     "isoDate": "2026-04-08T18:51:09.000Z",
     "source": "Wired AI",
     "slug": "meta-s-new-ai-model-gives-mark-zuckerberg-a-seat-at-the-big-kid-s-table"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) The US Army Is Building Its Own Chatbot for Combat",
-    "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
-    "pubDate": "Wed, 08 Apr 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
-    "contentSnippet": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
-    "guid": "69d4368dc4071a92611c33b8",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-08T18:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-us-army-is-building-its-own-chatbot-for-combat"
   }
 ]
