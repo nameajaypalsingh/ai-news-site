@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) ChatGPT finally offers $100/month Pro plan",
+    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "contentSnippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "guid": "https://techcrunch.com/?p=3111133",
+    "categories": [
+      "AI",
+      "OpenAI",
+      "ChatGPT"
+    ],
+    "isoDate": "2026-04-09T21:29:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "chatgpt-finally-offers-100-month-pro-plan"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
@@ -19,53 +37,46 @@
     "slug": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-involved-chatgpt"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) After data breach, $10B valued startup Mercor is having a month",
-    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-    "pubDate": "Thu, 09 Apr 2026 19:33:54 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-    "contentSnippet": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-    "guid": "https://techcrunch.com/?p=3110877",
-    "categories": [
-      "AI",
-      "Startups",
-      "TC",
-      "Delve",
-      "LiteLLM",
-      "Mercor"
-    ],
-    "isoDate": "2026-04-09T19:33:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "after-data-breach-10b-valued-startup-mercor-is-having-a-month"
+    "title": "(No AI) ChatGPT has a new $100 per month Pro subscription",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+    "pubDate": "2026-04-09T22:57:15.000Z",
+    "author": "Jay Peters",
+    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" [OpenAI says](https://x.com/OpenAI/status/2042295688323875316).\n\nThe company is introducing the new tier as it tries to win over users from Anthropic and its [popular Claude Code tool](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment). ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same price. It also offers a middle ground between the $20 per month Plus tier and the $200 version of the Pro tier.\n\n(Yes, there are now two tiers of \" …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)",
+    "contentSnippet": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says.\nThe company is introducing the new tier as it tries to win over users from Anthropic and its popular Claude Code tool. ChatGPT's $100 per month option will directly compete with Anthropic's \"Max\" tier for Claude, which costs the same price. It also offers a middle ground between the $20 per month Plus tier and the $200 version of the Pro tier.\n(Yes, there are now two tiers of \" …\nRead the full story at The Verge.",
+    "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+    "id": "https://www.theverge.com/?p=909599",
+    "isoDate": "2026-04-09T22:57:15.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-has-a-new-100-per-month-pro-subscription"
   },
   {
-    "title": "(No AI) Google’s Gemini AI can answer your questions with 3D models and simulations",
-    "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-    "pubDate": "2026-04-09T17:57:58.000Z",
+    "title": "(No AI) Florida launches investigation into OpenAI",
+    "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+    "pubDate": "2026-04-09T22:17:06.000Z",
     "author": "Emma Roth",
-    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. [With the new feature](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/), you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time.\n\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along with a slider to adjust the speed of the Moon's orbit, there's also a toggle to hide the line representing its orbital path and a button to pause the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)",
-    "contentSnippet": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time.\nWhen trying out the feature for myself, I asked Gemini to make a simulation of the Moon orbiting the Earth, and it created a 3D model with a few different ways to interact with it. Along with a slider to adjust the speed of the Moon's orbit, there's also a toggle to hide the line representing its orbital path and a button to pause the  …\nRead the full story at The Verge.",
-    "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in real-time. When trying out the feature for [&#8230;]",
-    "id": "https://www.theverge.com/?p=909391",
-    "isoDate": "2026-04-09T17:57:58.000Z",
+    "content": "![Vector illustration of the Open AI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFlorida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, [as reported earlier by _Reuters_](https://www.reuters.com/business/florida-ag-probe-openai-chatgpt-2026-04-09/). In [a statement on Thursday](https://x.com/AGJamesUthmeier/status/2042258048115265541?s=20), Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\"\n\nUthmeier also says that OpenAI's ChatGPT has been \"linked to criminal behavior\" related to child sexual abuse material and the \"encouragement\" of self-harm. He adds that ChatGPT may have been used to \"assist\" the person suspected of carrying out a shooting at Florida State University in April 2025. Thi …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/909557/openai-florida-investigation)",
+    "contentSnippet": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\"\nUthmeier also says that OpenAI's ChatGPT has been \"linked to criminal behavior\" related to child sexual abuse material and the \"encouragement\" of self-harm. He adds that ChatGPT may have been used to \"assist\" the person suspected of carrying out a shooting at Florida State University in April 2025. Thi …\nRead the full story at The Verge.",
+    "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\" Uthmeier also says [&#8230;]",
+    "id": "https://www.theverge.com/?p=909557",
+    "isoDate": "2026-04-09T22:17:06.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "florida-launches-investigation-into-openai"
   },
   {
-    "title": "(No AI) The AI industry’s race for profits is now existential",
-    "link": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-    "pubDate": "2026-04-09T14:00:00.000Z",
-    "author": "Nilay Patel",
-    "content": "![A photo illustration of OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei superimposed over a cliff.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nToday on _Decoder_, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it.\n\nMy guest today is Hayden Field, who’s our senior AI reporter here at _The Verge_. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies in particular tell us a whole lot about the AI industry in 2026. \n\nYou’ve certainly heard a version of the monetization cliff story before. The biggest AI firms are built off the back of hundreds of billions in capital investment, and they’re linked to even greater amounts of forward-looking investment in data center build-out, chips, and other infrastructure spend. At some point, the profits have to materialize, or the bubble pops. Maybe AGI arrives, maybe the economy crashes, who knows. \n\nYou’ve heard me ask some version of this question to scores of CEOs here on this show, and a majority of them have hinted toward the bubble popping — they think some companies will fail in spectacular fashion, some will succeed, and the opportunities, especially the money, are simply too big to ignore. We’re doing this, whether we want to or not — the market depends on it. \n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don’t forget you get exclusive access to ad-free _Decoder_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nSo these last few weeks have felt like a very important inflection point, as both Anthropic and OpenAI have started to react to the reality of needing to go public — needing to make money, \n\nThe catalyst for this change is AI agents, and products like Claude Code and Cowork, as well as the open-source OpenClaw and OpenAI’s Codex, have radically changed how these companies are thinking about their resources. And this is starting to affect how they behave — the products they support or suddenly kill, the restrictions they impose on customers, and the money they’re willing to burn toward their next big milestone. \n\nThat’s because agents are valuable to customers right now, but agents also use far more compute. So the way people are using agents is burning tokens at a rate way faster than these companies anticipated, and that’s causing them to make hard decisions. \n\nWe saw this most evidently last month when OpenAI abruptly [killed its video-generation app Sora](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt), ditching a $1 billion Disney licensing deal in the process. Why? It costs too much to run, and OpenAI needs the compute for Codex. We saw it again just last week, when Anthropic decided it would no longer let Claude users burn through compute resources using the OpenClaw agent framework through a standard subscription plan, instead forcing those users [onto pay-as-you-go plans](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban), which cost substantially more. \n\nAs you’ll hear Hayden explain here, these are glimmers of a make-or-break moment for the AI industry, as both Anthropic and OpenAI barrel toward two of the biggest IPOs in history. And the pressure on these companies to make money has never been this intense. \n\nThe projections these companies have made, which just this week were [leaked to the _Wall Street Journal_](https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9?), tell a story of mind-boggling growth, to the tune of hundreds of billions in revenue and profitability by the end of the decade. But the most important questions now are can the AI companies pull this off, and what compromises will they make to reach that goal and avoid crashing and burning? \n\nOkay: _Verge_ senior policy reporter Hayden Field on the AI monetization cliff and the race to profitability. Here we go.\n\n_If you’d like to read more about what we discussed in this episode, check out these links:_\n\n*   The vibes are off at OpenAI | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai)\n*   Anthropic essentially bans OpenClaw from Claude | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban)\n*   Why OpenAI killed Sora | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)\n*   OpenAI just bought TBPN | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)\n*   National poll shows voters like AI less than ICE | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/891724/nbc-news-march-2026-poll-ai-ice)\n*   The spiraling cost of making AI | [_WSJ_](https://www.wsj.com/tech/ai/the-spiraling-cost-of-making-ai-0679bcea?mod=WTRN_pos1)\n*   OpenAI’s Fidji Simo taking leave amid exec shake-up | [_Wired_](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/)\n*   OpenAI raises another $122B at $850B valuation | [_The Verge_](https://www.theverge.com/ai-artificial-intelligence/904727/openai-chatgpt-investment)\n\n_Questions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!_",
-    "contentSnippet": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it.\nMy guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies in particular tell us a whole lot about the AI industry in 2026. \nYou’ve certainly heard a version of the monetization cliff story before. The biggest AI firms are built off the back of hundreds of billions in capital investment, and they’re linked to even greater amounts of forward-looking investment in data center build-out, chips, and other infrastructure spend. At some point, the profits have to materialize, or the bubble pops. Maybe AGI arrives, maybe the economy crashes, who knows. \nYou’ve heard me ask some version of this question to scores of CEOs here on this show, and a majority of them have hinted toward the bubble popping — they think some companies will fail in spectacular fashion, some will succeed, and the opportunities, especially the money, are simply too big to ignore. We’re doing this, whether we want to or not — the market depends on it. \n\n\n\nVerge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. \nSo these last few weeks have felt like a very important inflection point, as both Anthropic and OpenAI have started to react to the reality of needing to go public — needing to make money, \nThe catalyst for this change is AI agents, and products like Claude Code and Cowork, as well as the open-source OpenClaw and OpenAI’s Codex, have radically changed how these companies are thinking about their resources. And this is starting to affect how they behave — the products they support or suddenly kill, the restrictions they impose on customers, and the money they’re willing to burn toward their next big milestone. \nThat’s because agents are valuable to customers right now, but agents also use far more compute. So the way people are using agents is burning tokens at a rate way faster than these companies anticipated, and that’s causing them to make hard decisions. \nWe saw this most evidently last month when OpenAI abruptly killed its video-generation app Sora, ditching a $1 billion Disney licensing deal in the process. Why? It costs too much to run, and OpenAI needs the compute for Codex. We saw it again just last week, when Anthropic decided it would no longer let Claude users burn through compute resources using the OpenClaw agent framework through a standard subscription plan, instead forcing those users onto pay-as-you-go plans, which cost substantially more. \nAs you’ll hear Hayden explain here, these are glimmers of a make-or-break moment for the AI industry, as both Anthropic and OpenAI barrel toward two of the biggest IPOs in history. And the pressure on these companies to make money has never been this intense. \nThe projections these companies have made, which just this week were leaked to the Wall Street Journal, tell a story of mind-boggling growth, to the tune of hundreds of billions in revenue and profitability by the end of the decade. But the most important questions now are can the AI companies pull this off, and what compromises will they make to reach that goal and avoid crashing and burning? \nOkay: Verge senior policy reporter Hayden Field on the AI monetization cliff and the race to profitability. Here we go.\n\n\nIf you’d like to read more about what we discussed in this episode, check out these links:\nThe vibes are off at OpenAI | The Verge\nAnthropic essentially bans OpenClaw from Claude | The Verge\nWhy OpenAI killed Sora | The Verge\nOpenAI just bought TBPN | The Verge\nNational poll shows voters like AI less than ICE | The Verge\nThe spiraling cost of making AI | WSJ\nOpenAI’s Fidji Simo taking leave amid exec shake-up | Wired\nOpenAI raises another $122B at $850B valuation | The Verge\nQuestions or comments about this episode? Hit us up at decoder@theverge.com. We really do read every email!",
-    "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic [&#8230;]",
-    "id": "https://www.theverge.com/?p=909042",
-    "isoDate": "2026-04-09T14:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD_0409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-ai-industry-s-race-for-profits-is-now-existential"
+    "title": "(No AI) CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "link": "https://openai.com/index/cyberagent",
+    "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "content": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "contentSnippet": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "guid": "https://openai.com/index/cyberagent",
+    "categories": [
+      "B2B Story"
+    ],
+    "isoDate": "2026-04-09T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
   },
   {
     "title": "(No AI) OpenAI Full Fan Mode Contest: Terms & Conditions",
@@ -77,20 +88,6 @@
     "isoDate": "2026-04-09T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-full-fan-mode-contest-terms-conditions"
-  },
-  {
-    "title": "(No AI) The next phase of enterprise AI",
-    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "pubDate": "Wed, 08 Apr 2026 14:00:00 GMT",
-    "content": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-    "contentSnippet": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-    "guid": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-04-08T14:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "the-next-phase-of-enterprise-ai"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
@@ -116,6 +113,23 @@
   },
   {
     "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+    "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "pubDate": "Fri, 10 Apr 2026 00:19:53 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+    "contentSnippet": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+    "guid": "69d81d7f9011397f817a1952",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-10T00:19:53.000Z",
+    "source": "Wired AI",
+    "slug": "openai-backs-bill-that-would-limit-liability-for-ai-enabled-mass-deaths-or-financial-disasters"
+  },
+  {
+    "creator": "Maxwell Zeff",
     "title": "(No AI) The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
     "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
     "pubDate": "Thu, 09 Apr 2026 18:00:00 +0000",
@@ -130,21 +144,5 @@
     "isoDate": "2026-04-09T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-70-person-ai-image-startup-taking-on-silicon-valley-s-giants"
-  },
-  {
-    "creator": "David Gilbert",
-    "title": "(No AI) The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
-    "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
-    "pubDate": "Thu, 09 Apr 2026 13:25:21 +0000",
-    "dc:creator": "David Gilbert",
-    "content": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
-    "contentSnippet": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
-    "guid": "69d67433539e5361b486f1c4",
-    "categories": [
-      "Politics"
-    ],
-    "isoDate": "2026-04-09T13:25:21.000Z",
-    "source": "Wired AI",
-    "slug": "the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons"
   }
 ]
