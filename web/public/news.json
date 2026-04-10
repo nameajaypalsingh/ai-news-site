@@ -1,40 +1,45 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) ChatGPT finally offers $100/month Pro plan",
-    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-    "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-    "contentSnippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-    "guid": "https://techcrunch.com/?p=3111133",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "contentSnippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "guid": "https://techcrunch.com/?p=3111370",
     "categories": [
       "AI",
+      "Exclusive",
       "OpenAI",
-      "ChatGPT"
+      "ChatGPT",
+      "gpt-4o",
+      "openai lawsuit",
+      "ai psychosis",
+      "jay edelson"
     ],
-    "isoDate": "2026-04-09T21:29:11.000Z",
+    "isoDate": "2026-04-10T16:41:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "chatgpt-finally-offers-100-month-pro-plan"
+    "slug": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ignored-her-warnings"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "pubDate": "Thu, 09 Apr 2026 20:11:55 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-    "contentSnippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-    "guid": "https://techcrunch.com/?p=3110924",
+    "creator": "Cindy Zackney",
+    "title": "(No AI) TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "pubDate": "Fri, 10 Apr 2026 16:38:43 +0000",
+    "dc:creator": "Cindy Zackney",
+    "content": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+    "contentSnippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+    "guid": "https://techcrunch.com/?p=3109679",
     "categories": [
       "AI",
-      "ChatGPT",
-      "OpenAI",
-      "sam altman"
+      "Media & Entertainment",
+      "Robotics",
+      "Startups"
     ],
-    "isoDate": "2026-04-09T20:11:55.000Z",
+    "isoDate": "2026-04-10T16:38:43.000Z",
     "source": "TechCrunch AI",
-    "slug": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-involved-chatgpt"
+    "slug": "techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it"
   },
   {
     "title": "(No AI) Fear and loathing at OpenAI",
@@ -112,38 +117,37 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
-    "creator": "Jason Parham",
-    "title": "(No AI) AI Podcasters Really Want to Tell You How to Keep a Man Happy",
-    "link": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
-    "pubDate": "Fri, 10 Apr 2026 10:30:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
-    "contentSnippet": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
-    "guid": "69d3f626a8ba3cb06c951a28",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
+    "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+    "pubDate": "Fri, 10 Apr 2026 16:32:19 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
+    "contentSnippet": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
+    "guid": "69d9221262d263b30905c887",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-10T10:30:00.000Z",
+    "isoDate": "2026-04-10T16:32:19.000Z",
     "source": "Wired AI",
-    "slug": "ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy"
+    "slug": "suspect-arrested-for-allegedly-throwing-molotov-cocktail-at-sam-altman-s-home"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
-    "link": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
-    "pubDate": "Fri, 10 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
-    "contentSnippet": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
-    "guid": "69d7d4a7060c066b34193b7f",
+    "creator": "Steven Levy",
+    "title": "(No AI) This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+    "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+    "pubDate": "Fri, 10 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+    "contentSnippet": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+    "guid": "69d43614b950aad6c1d414d6",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Health and Fitness"
+      "Business",
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-04-10T09:30:00.000Z",
+    "isoDate": "2026-04-10T16:00:00.000Z",
     "source": "Wired AI",
-    "slug": "meta-s-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice"
+    "slug": "this-startup-wants-you-to-pay-up-to-talk-with-ai-versions-of-human-experts"
   }
 ]
