@@ -1,98 +1,102 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "pubDate": "Fri, 10 Apr 2026 20:27:52 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "contentSnippet": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+    "guid": "https://techcrunch.com/?p=3111432",
+    "categories": [
+      "TC",
+      "AI",
+      "Anthropic",
+      "openclaw",
+      "Peter Steinberger"
+    ],
+    "isoDate": "2026-04-10T20:27:52.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-temporarily-banned-openclaw-s-creator-from-accessing-claude"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "pubDate": "Fri, 10 Apr 2026 16:41:34 +0000",
     "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-    "contentSnippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+    "contentSnippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
     "guid": "https://techcrunch.com/?p=3111370",
     "categories": [
       "AI",
-      "Exclusive",
-      "OpenAI",
-      "ChatGPT",
-      "gpt-4o",
-      "openai lawsuit",
       "ai psychosis",
-      "jay edelson"
+      "ChatGPT",
+      "Exclusive",
+      "gpt-4o",
+      "jay edelson",
+      "OpenAI",
+      "openai lawsuit"
     ],
     "isoDate": "2026-04-10T16:41:34.000Z",
     "source": "TechCrunch AI",
     "slug": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ignored-her-warnings"
   },
   {
-    "creator": "Cindy Zackney",
-    "title": "(No AI) TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "pubDate": "Fri, 10 Apr 2026 16:38:43 +0000",
-    "dc:creator": "Cindy Zackney",
-    "content": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
-    "contentSnippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
-    "guid": "https://techcrunch.com/?p=3109679",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "Robotics",
-      "Startups"
-    ],
-    "isoDate": "2026-04-10T16:38:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it"
-  },
-  {
-    "title": "(No AI) Fear and loathing at OpenAI",
-    "link": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-    "pubDate": "2026-04-10T12:23:18.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, [_The New Yorker_ published a deep look at Altman](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted), his time at OpenAI, and the questions about whether he's the right person to be in charge of a technology as important and transformative as artificial intelligence.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast)",
-    "contentSnippet": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions about whether he's the right person to be in charge of a technology as important and transformative as artificial intelligence.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, David  …\nRead the full story at The Verge.",
-    "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
-    "id": "https://www.theverge.com/?p=909621",
-    "isoDate": "2026-04-10T12:23:18.000Z",
+    "title": "(No AI) 20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+    "pubDate": "2026-04-10T20:16:57.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSan Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, [_The San Francisco Standard_](https://sfstandard.com/2026/04/10/sam-altman-russian-hill-molotov-cocktail/) reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's Mission Bay offices, where he was arrested around 9AM ET.\n\nOpenAI spokesperson Jamie Radice confirmed the incident in a statement to _The Verge_, saying, \"Thankfully, no one was hurt. We deeply appreciate how quickly SFPD responded and the support from the city in helping keep …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail)",
+    "contentSnippet": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's Mission Bay offices, where he was arrested around 9AM ET. \nOpenAI spokesperson Jamie Radice confirmed the incident in a statement to The Verge, saying, \"Thankfully, no one was hurt. We deeply appreciate how quickly SFPD responded and the support from the city in helping keep …\nRead the full story at The Verge.",
+    "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
+    "id": "https://www.theverge.com/?p=910393",
+    "isoDate": "2026-04-10T20:16:57.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "fear-and-loathing-at-openai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "20-year-old-man-arrested-for-allegedly-throwing-a-molotov-cocktail-at-sam-altman-s-house"
   },
   {
-    "title": "(No AI) Gen Z’s love-hate relationship with AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
-    "pubDate": "2026-04-10T11:23:28.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK414_AI_CVIRGINIA_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGen Z is increasingly disillusioned with AI - just not enough to stop using it.\n\nA new Gallup [report released this week](https://www.gallup.com/analytics/651674/gen-z-research.aspx), based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. Enthusiasm is falling and resentment is growing, even as many young people feel they still need to use the technology.\n\nGallup's poll, conducted in February and March this year, found Gen Z's feelings on AI have cooled significantly since last year. Only 18 percent said they were hopeful about the technology and 22 percent said they wer …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup)",
-    "contentSnippet": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. \nA new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. Enthusiasm is falling and resentment is growing, even as many young people feel they still need to use the technology. \nGallup's poll, conducted in February and March this year, found Gen Z's feelings on AI have cooled significantly since last year. Only 18 percent said they were hopeful about the technology and 22 percent said they wer …\nRead the full story at The Verge.",
-    "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
-    "id": "https://www.theverge.com/?p=909687",
-    "isoDate": "2026-04-10T11:23:28.000Z",
+    "title": "(No AI) The Iranian Lego AI video creators credit their virality to ‘heart’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "pubDate": "2026-04-10T17:30:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![An AI-generated image depicting a Lego Moses standing in front of a pyramid into which Donald Trump’s face is etched. The pyramid is being bombarded by missiles.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nDonald Trump has spun the [recent rescue of a downed airman](https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/) whose fighter jet was [destroyed behind Iranian borders](https://www.pbs.org/newshour/world/ap-report-u-s-launches-rescue-operation-after-iranian-state-tv-claims-fighter-jet-went-down) as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for [losing multiple planes and helicopters](https://www.theguardian.com/artanddesign/2026/apr/07/destroyed-aircraft-helicopter-plane-us-mission-iran-picture-essay), and spending \"$100 million just to save one guy.\"\n\nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)",
+    "contentSnippet": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and helicopters, and spending \"$100 million just to save one guy.\" \nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea  …\nRead the full story at The Verge.",
+    "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
+    "id": "https://www.theverge.com/?p=909948",
+    "isoDate": "2026-04-10T17:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK414_AI_CVIRGINIA_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "gen-z-s-love-hate-relationship-with-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-iranian-lego-ai-video-creators-credit-their-virality-to-heart"
   },
   {
-    "title": "(No AI) OpenAI Full Fan Mode Contest: Terms & Conditions",
-    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-    "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "content": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
-    "contentSnippet": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
-    "guid": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-    "isoDate": "2026-04-09T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-full-fan-mode-contest-terms-conditions"
-  },
-  {
-    "title": "(No AI) CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "link": "https://openai.com/index/cyberagent",
-    "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "content": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-    "contentSnippet": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-    "guid": "https://openai.com/index/cyberagent",
+    "title": "(No AI) Using projects in ChatGPT",
+    "link": "https://openai.com/academy/projects",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "contentSnippet": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "guid": "https://openai.com/academy/projects",
     "categories": [
-      "B2B Story"
+      "OpenAI Academy"
     ],
-    "isoDate": "2026-04-09T00:00:00.000Z",
+    "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "cyberagent-moves-faster-with-chatgpt-enterprise-and-codex"
+    "slug": "using-projects-in-chatgpt"
+  },
+  {
+    "title": "(No AI) Prompting fundamentals",
+    "link": "https://openai.com/academy/prompting",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "content": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "contentSnippet": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "guid": "https://openai.com/academy/prompting",
+    "categories": [
+      "OpenAI Academy"
+    ],
+    "isoDate": "2026-04-10T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "prompting-fundamentals"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
@@ -117,13 +121,33 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "pubDate": "Fri, 10 Apr 2026 18:08:37 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "contentSnippet": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "guid": "69d7d8b2591ef67c6abd904a",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-04-10T18:08:37.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-s-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think"
+  },
+  {
     "creator": "Maxwell Zeff",
-    "title": "(No AI) Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
+    "title": "(No AI) Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
     "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
     "pubDate": "Fri, 10 Apr 2026 16:32:19 +0000",
     "dc:creator": "Maxwell Zeff",
-    "content": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
-    "contentSnippet": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
+    "content": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+    "contentSnippet": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
     "guid": "69d9221262d263b30905c887",
     "categories": [
       "Business",
@@ -132,22 +156,5 @@
     "isoDate": "2026-04-10T16:32:19.000Z",
     "source": "Wired AI",
     "slug": "suspect-arrested-for-allegedly-throwing-molotov-cocktail-at-sam-altman-s-home"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
-    "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
-    "pubDate": "Fri, 10 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
-    "contentSnippet": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
-    "guid": "69d43614b950aad6c1d414d6",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-04-10T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-startup-wants-you-to-pay-up-to-talk-with-ai-versions-of-human-experts"
   }
 ]
