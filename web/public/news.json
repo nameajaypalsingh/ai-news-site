@@ -121,14 +121,14 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-    "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-    "pubDate": "Fri, 10 Apr 2026 18:08:37 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-    "contentSnippet": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-    "guid": "69d7d8b2591ef67c6abd904a",
+    "creator": "Matt Burgess, Maddy Varner, Lily Hay Newman, Dell Cameron",
+    "title": "(No AI) Your Push Notifications Aren’t Safe From the FBI",
+    "link": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+    "pubDate": "Sat, 11 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Matt Burgess, Maddy Varner, Lily Hay Newman, Dell Cameron",
+    "content": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+    "contentSnippet": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+    "guid": "69d93f27642e9910cead59dd",
     "categories": [
       "Security",
       "Security / Cyberattacks and Hacks",
@@ -136,25 +136,26 @@
       "Security / Privacy",
       "Security / Security News"
     ],
-    "isoDate": "2026-04-10T18:08:37.000Z",
+    "isoDate": "2026-04-11T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-s-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think"
+    "slug": "your-push-notifications-aren-t-safe-from-the-fbi"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
-    "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-    "pubDate": "Fri, 10 Apr 2026 16:32:19 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
-    "contentSnippet": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
-    "guid": "69d9221262d263b30905c887",
+    "creator": "Gia Chaudry",
+    "title": "(No AI) How the Internet Broke Everyone’s Bullshit Detectors",
+    "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+    "pubDate": "Sat, 11 Apr 2026 09:30:00 +0000",
+    "dc:creator": "Gia Chaudry",
+    "content": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+    "contentSnippet": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+    "guid": "69d8f8b7d65b3dba71484374",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Security",
+      "Security / Security Advice",
+      "Politics / Disinformation"
     ],
-    "isoDate": "2026-04-10T16:32:19.000Z",
+    "isoDate": "2026-04-11T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "suspect-arrested-for-allegedly-throwing-molotov-cocktail-at-sam-altman-s-home"
+    "slug": "how-the-internet-broke-everyone-s-bullshit-detectors"
   }
 ]
