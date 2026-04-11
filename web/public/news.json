@@ -9,9 +9,9 @@
     "contentSnippet": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
     "guid": "https://techcrunch.com/?p=3111432",
     "categories": [
-      "TC",
       "AI",
       "Anthropic",
+      "Claude",
       "openclaw",
       "Peter Steinberger"
     ],
@@ -61,42 +61,42 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
     "pubDate": "2026-04-10T17:30:00.000Z",
     "author": "Charles Pulliam-Moore",
-    "content": "![An AI-generated image depicting a Lego Moses standing in front of a pyramid into which Donald Trump’s face is etched. The pyramid is being bombarded by missiles.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nDonald Trump has spun the [recent rescue of a downed airman](https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/) whose fighter jet was [destroyed behind Iranian borders](https://www.pbs.org/newshour/world/ap-report-u-s-launches-rescue-operation-after-iranian-state-tv-claims-fighter-jet-went-down) as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for [losing multiple planes and helicopters](https://www.theguardian.com/artanddesign/2026/apr/07/destroyed-aircraft-helicopter-plane-us-mission-iran-picture-essay), and spending \"$100 million just to save one guy.\"\n\nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)",
+    "content": "![An AI-generated image depicting a Lego Moses standing in front of a pyramid into which Donald Trump’s face is etched. The pyramid is being bombarded by missiles.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/LEGO_IRAN.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDonald Trump has spun the [recent rescue of a downed airman](https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/) whose fighter jet was [destroyed behind Iranian borders](https://www.pbs.org/newshour/world/ap-report-u-s-launches-rescue-operation-after-iranian-state-tv-claims-fighter-jet-went-down) as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for [losing multiple planes and helicopters](https://www.theguardian.com/artanddesign/2026/apr/07/destroyed-aircraft-helicopter-plane-us-mission-iran-picture-essay), and spending \"$100 million just to save one guy.\"\n\nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)",
     "contentSnippet": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media's music video take on how things played out, the US military is a joke for losing multiple planes and helicopters, and spending \"$100 million just to save one guy.\" \nThe video's shots of Lego jets exploding into $100 bills and golden coins reinforce the idea  …\nRead the full story at The Verge.",
     "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
     "id": "https://www.theverge.com/?p=909948",
     "isoDate": "2026-04-10T17:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-10-at-12.40.05PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/LEGO_IRAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-iranian-lego-ai-video-creators-credit-their-virality-to-heart"
   },
   {
-    "title": "(No AI) Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
+    "title": "(No AI) Using custom GPTs",
+    "link": "https://openai.com/academy/custom-gpts",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "contentSnippet": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "guid": "https://openai.com/academy/projects",
+    "content": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "contentSnippet": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "guid": "https://openai.com/academy/custom-gpts",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "using-projects-in-chatgpt"
+    "slug": "using-custom-gpts"
   },
   {
-    "title": "(No AI) Prompting fundamentals",
-    "link": "https://openai.com/academy/prompting",
+    "title": "(No AI) ChatGPT for customer success teams",
+    "link": "https://openai.com/academy/customer-success",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "contentSnippet": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "guid": "https://openai.com/academy/prompting",
+    "content": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "contentSnippet": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "guid": "https://openai.com/academy/customer-success",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "prompting-fundamentals"
+    "slug": "chatgpt-for-customer-success-teams"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
