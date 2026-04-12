@@ -1,41 +1,43 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "contentSnippet": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "guid": "https://techcrunch.com/?p=3111667",
+    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+    "title": "(No AI) From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "pubDate": "Sun, 12 Apr 2026 15:07:08 +0000",
+    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "guid": "https://techcrunch.com/?p=2973217",
     "categories": [
       "AI",
-      "OpenAI",
-      "sam altman"
+      "artificial intelligence",
+      "evergreens",
+      "Glossary"
     ],
-    "isoDate": "2026-04-11T17:18:22.000Z",
+    "isoDate": "2026-04-12T15:07:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home"
+    "slug": "from-llms-to-hallucinations-here-s-a-simple-guide-to-common-ai-terms"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "pubDate": "Fri, 10 Apr 2026 20:27:52 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-    "contentSnippet": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-    "guid": "https://techcrunch.com/?p=3111432",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) At the HumanX conference, everyone was talking about Claude",
+    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "contentSnippet": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "guid": "https://techcrunch.com/?p=3111422",
     "categories": [
       "AI",
       "Anthropic",
-      "Claude",
-      "openclaw",
-      "Peter Steinberger"
+      "ChatGPT",
+      "claude code",
+      "OpenAI",
+      "sam altman"
     ],
-    "isoDate": "2026-04-10T20:27:52.000Z",
+    "isoDate": "2026-04-12T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-temporarily-banned-openclaw-s-creator-from-accessing-claude"
+    "slug": "at-the-humanx-conference-everyone-was-talking-about-claude"
   },
   {
     "title": "(No AI) The AI code wars are heating up",
