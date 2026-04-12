@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Apple reportedly testing four designs for upcoming smart glasses",
+    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+    "contentSnippet": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+    "guid": "https://techcrunch.com/?p=3111709",
+    "categories": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Apple",
+      "SMART Glasses"
+    ],
+    "isoDate": "2026-04-12T19:58:42.000Z",
+    "source": "TechCrunch AI",
+    "slug": "apple-reportedly-testing-four-designs-for-upcoming-smart-glasses"
+  },
+  {
     "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
     "title": "(No AI) From LLMs to hallucinations, here’s a simple guide to common AI terms",
     "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -17,27 +37,6 @@
     "isoDate": "2026-04-12T15:07:08.000Z",
     "source": "TechCrunch AI",
     "slug": "from-llms-to-hallucinations-here-s-a-simple-guide-to-common-ai-terms"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) At the HumanX conference, everyone was talking about Claude",
-    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-    "contentSnippet": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-    "guid": "https://techcrunch.com/?p=3111422",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "claude code",
-      "OpenAI",
-      "sam altman"
-    ],
-    "isoDate": "2026-04-12T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "at-the-humanx-conference-everyone-was-talking-about-claude"
   },
   {
     "title": "(No AI) The AI code wars are heating up",
