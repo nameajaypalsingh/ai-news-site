@@ -66,32 +66,32 @@
     "slug": "my-baby-deer-plushie-told-me-that-mitski-s-dad-was-a-cia-operative"
   },
   {
-    "title": "(No AI) Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
+    "title": "(No AI) Using projects in ChatGPT",
+    "link": "https://openai.com/academy/projects",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "guid": "https://openai.com/academy/getting-started",
+    "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "contentSnippet": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "guid": "https://openai.com/academy/projects",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "getting-started-with-chatgpt"
+    "slug": "using-projects-in-chatgpt"
   },
   {
-    "title": "(No AI) Brainstorming with ChatGPT",
-    "link": "https://openai.com/academy/brainstorming",
+    "title": "(No AI) ChatGPT for marketing teams",
+    "link": "https://openai.com/academy/marketing",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "contentSnippet": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "guid": "https://openai.com/academy/brainstorming",
+    "content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "contentSnippet": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "guid": "https://openai.com/academy/marketing",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "brainstorming-with-chatgpt"
+    "slug": "chatgpt-for-marketing-teams"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
