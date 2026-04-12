@@ -66,32 +66,32 @@
     "slug": "my-baby-deer-plushie-told-me-that-mitski-s-dad-was-a-cia-operative"
   },
   {
-    "title": "(No AI) Healthcare",
-    "link": "https://openai.com/academy/healthcare",
+    "title": "(No AI) Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "contentSnippet": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "guid": "https://openai.com/academy/healthcare",
+    "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "guid": "https://openai.com/academy/getting-started",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "healthcare"
+    "slug": "getting-started-with-chatgpt"
   },
   {
-    "title": "(No AI) Using skills",
-    "link": "https://openai.com/academy/skills",
+    "title": "(No AI) Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "contentSnippet": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "guid": "https://openai.com/academy/skills",
+    "content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "contentSnippet": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "guid": "https://openai.com/academy/brainstorming",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "using-skills"
+    "slug": "brainstorming-with-chatgpt"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
