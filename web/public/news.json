@@ -1,44 +1,57 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-    "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
-    "contentSnippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
-    "guid": "https://techcrunch.com/?p=3111750",
+    "creator": "Julie Bort",
+    "title": "(No AI) Microsoft is working on yet another OpenClaw-like agent",
+    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "pubDate": "Mon, 13 Apr 2026 19:05:19 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+    "contentSnippet": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+    "guid": "https://techcrunch.com/?p=3111806",
     "categories": [
       "AI",
-      "Startups",
-      "Venture",
-      "agents",
-      "hosting",
-      "IPO",
-      "Vercel"
+      "Enterprise",
+      "ai agent",
+      "Copilot",
+      "Microsoft",
+      "openclaw"
     ],
-    "isoDate": "2026-04-13T15:22:29.000Z",
+    "isoDate": "2026-04-13T19:05:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge"
+    "slug": "microsoft-is-working-on-yet-another-openclaw-like-agent"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) The largest orbital compute cluster is open for business",
-    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-    "pubDate": "Mon, 13 Apr 2026 07:01:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-    "contentSnippet": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-    "guid": "https://techcrunch.com/?p=3111482",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "pubDate": "Mon, 13 Apr 2026 18:55:37 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "contentSnippet": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "guid": "https://techcrunch.com/?p=3111798",
     "categories": [
       "AI",
-      "Space",
-      "Kepler Communications",
-      "Satellites"
+      "public sentiment",
+      "sam altman",
+      "stanford ai report"
     ],
-    "isoDate": "2026-04-13T07:01:00.000Z",
+    "isoDate": "2026-04-13T18:55:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-largest-orbital-compute-cluster-is-open-for-business"
+    "slug": "stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else"
+  },
+  {
+    "title": "(No AI) AI influencers are ‘everywhere’ at Coachella",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+    "pubDate": "2026-04-13T19:53:46.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&strip=all&crop=0,0,100,100)\n\nCoachella kicked off on Friday, and as usual, it's _the_ place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.\n\nOnly some of these content creators aren't really there. They don't even exist at all outside of our screens. They're generated using AI tools.\n\nFaking Coachella attendance is nothing new - even [real influencers](https://consequence.net/2019/04/instagram-influencer-fake-coachella/) have been doing so in recent years - but generative AI has now progressed to the point where it's become …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)",
+    "contentSnippet": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities.\nOnly some of these content creators aren't really there. They don't even exist at all outside of our screens. They're generated using AI tools.\nFaking Coachella attendance is nothing new - even real influencers have been doing so in recent years - but generative AI has now progressed to the point where it's become …\nRead the full story at The Verge.",
+    "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly staged photographs with celebrities. Only some of [&#8230;]",
+    "id": "https://www.theverge.com/?p=911267",
+    "isoDate": "2026-04-13T19:53:46.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-influencers-are-everywhere-at-coachella"
   },
   {
     "title": "(No AI) Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
@@ -53,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthropic"
-  },
-  {
-    "title": "(No AI) Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
-    "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-    "pubDate": "2026-04-13T15:41:09.000Z",
-    "author": "Emma Roth",
-    "content": "![The OpenClaw logo on a red background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to [a report from _The Information_](https://www.theinformation.com/articles/microsoft-plots-new-copilot-features-inspired-openclaw). The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users.\n\nOmar Shahine, Microsoft's corporate vice president, confirmed to _The Information_ that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\" OpenClaw is an open-source platform that allows users to create AI-powered agents that run locally on a user's device. The platform [rose in popularity](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai) earlier this year, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses)",
-    "contentSnippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users.\nOmar Shahine, Microsoft's corporate vice president, confirmed to The Information that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\"  OpenClaw is an open-source platform that allows users to create AI-powered agents that run locally on a user's device. The platform rose in popularity earlier this year, …\nRead the full story at The Verge.",
-    "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
-    "id": "https://www.theverge.com/?p=911080",
-    "isoDate": "2026-04-13T15:41:09.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-is-testing-openclaw-like-ai-bots-for-365-copilot"
   },
   {
     "title": "(No AI) Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
