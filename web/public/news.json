@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) The largest orbital compute cluster is open for business",
+    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "pubDate": "Mon, 13 Apr 2026 07:01:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+    "contentSnippet": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+    "guid": "https://techcrunch.com/?p=3111482",
+    "categories": [
+      "Space",
+      "AI"
+    ],
+    "isoDate": "2026-04-13T07:01:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-largest-orbital-compute-cluster-is-open-for-business"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Trump officials may be encouraging banks to test Anthropic’s Mythos model",
     "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
@@ -11,33 +28,27 @@
     "categories": [
       "AI",
       "Government & Policy",
-      "Anthropic",
       "jerome powell",
-      "Scott Bessent"
+      "Scott Bessent",
+      "Anthropic"
     ],
     "isoDate": "2026-04-12T21:14:38.000Z",
     "source": "TechCrunch AI",
     "slug": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Apple reportedly testing four designs for upcoming smart glasses",
-    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "pubDate": "Sun, 12 Apr 2026 19:58:42 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-    "contentSnippet": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-    "guid": "https://techcrunch.com/?p=3111709",
-    "categories": [
-      "AI",
-      "Gadgets",
-      "Hardware",
-      "Apple",
-      "SMART Glasses"
-    ],
-    "isoDate": "2026-04-12T19:58:42.000Z",
-    "source": "TechCrunch AI",
-    "slug": "apple-reportedly-testing-four-designs-for-upcoming-smart-glasses"
+    "title": "(No AI) Sam Altman reportedly targeted in second attack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+    "pubDate": "2026-04-13T09:25:57.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, [_The San Francisco Standard_](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) reports. The suspects were arrested and charged with negligent discharge, according to a [police report](https://www.sanfranciscopolice.org/news/sfpd-arrests-suspects-involved-shooting-26-044) on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home.\n\nThis follows [an earlier attack on Friday](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail), in which a 20-year-old man was arrested for allegedly throwing a Molotov cocktail at the same property. The investigations for both incidents are still ongoing.\n\nAccording to San Francisco Police, offers w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)",
+    "contentSnippet": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home.\nThis follows an earlier attack on Friday, in which a 20-year-old man was arrested for allegedly throwing a Molotov cocktail at the same property. The investigations for both incidents are still ongoing.\nAccording to San Francisco Police, offers w …\nRead the full story at The Verge.",
+    "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle [&#8230;]",
+    "id": "https://www.theverge.com/?p=910890",
+    "isoDate": "2026-04-13T09:25:57.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sam-altman-reportedly-targeted-in-second-attack"
   },
   {
     "title": "(No AI) The AI code wars are heating up",
@@ -54,46 +65,32 @@
     "slug": "the-ai-code-wars-are-heating-up"
   },
   {
-    "title": "(No AI) Your article about AI doesn’t need AI art",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-    "pubDate": "2026-04-11T15:00:00.000Z",
-    "author": "Cath Virginia",
-    "content": "![Collage of David Szauder’s New Yorker Sam Altman illustration edited to look like its melting.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe illustration for [_The New Yorker_'s profile of OpenAI CEO Sam Altman](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted) is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\n\nSzauder is a mixed-media artist who has been working with collage, video, and generative art processes that predate commercial AI tools for over a decade, and was recently …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai)",
-    "contentSnippet": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\nSzauder is a mixed-media artist who has been working with collage, video, and generative art processes that predate commercial AI tools for over a decade, and was recently …\nRead the full story at The Verge.",
-    "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
-    "id": "https://www.theverge.com/?p=910460",
-    "isoDate": "2026-04-11T15:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "your-article-about-ai-doesn-t-need-ai-art"
-  },
-  {
-    "title": "(No AI) Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
+    "title": "(No AI) Research with ChatGPT",
+    "link": "https://openai.com/academy/search-and-deep-research",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "contentSnippet": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "guid": "https://openai.com/academy/projects",
+    "content": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "contentSnippet": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "guid": "https://openai.com/academy/search-and-deep-research",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "using-projects-in-chatgpt"
+    "slug": "research-with-chatgpt"
   },
   {
-    "title": "(No AI) ChatGPT for marketing teams",
-    "link": "https://openai.com/academy/marketing",
+    "title": "(No AI) ChatGPT for finance teams",
+    "link": "https://openai.com/academy/finance",
     "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "content": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "contentSnippet": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "guid": "https://openai.com/academy/marketing",
+    "content": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "contentSnippet": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "guid": "https://openai.com/academy/finance",
     "categories": [
       "OpenAI Academy"
     ],
     "isoDate": "2026-04-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "chatgpt-for-marketing-teams"
+    "slug": "chatgpt-for-finance-teams"
   },
   {
     "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
