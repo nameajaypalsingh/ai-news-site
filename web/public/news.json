@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "pubDate": "Mon, 13 Apr 2026 15:22:29 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+    "contentSnippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference.",
+    "guid": "https://techcrunch.com/?p=3111750",
+    "categories": [
+      "AI",
+      "Startups",
+      "Venture",
+      "agents",
+      "hosting",
+      "IPO",
+      "Vercel"
+    ],
+    "isoDate": "2026-04-13T15:22:29.000Z",
+    "source": "TechCrunch AI",
+    "slug": "vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) The largest orbital compute cluster is open for business",
     "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
@@ -9,60 +31,42 @@
     "contentSnippet": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
     "guid": "https://techcrunch.com/?p=3111482",
     "categories": [
+      "AI",
       "Space",
-      "AI"
+      "Kepler Communications",
+      "Satellites"
     ],
     "isoDate": "2026-04-13T07:01:00.000Z",
     "source": "TechCrunch AI",
     "slug": "the-largest-orbital-compute-cluster-is-open-for-business"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "pubDate": "Sun, 12 Apr 2026 21:14:38 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-    "contentSnippet": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-    "guid": "https://techcrunch.com/?p=3111711",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "jerome powell",
-      "Scott Bessent",
-      "Anthropic"
-    ],
-    "isoDate": "2026-04-12T21:14:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model"
+    "title": "(No AI) Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "pubDate": "2026-04-13T16:21:08.000Z",
+    "author": "Hayden Field",
+    "content": "![An illustration showing a computer with the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business.\n\nThe memo, which was viewed by _The Verge_, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is topping the charts on any given day or week. Dresser, who [recently](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence) took over much of former COO Brad Lightcap's duties as he transitions to a new role focused on special projects, also emphasizes the importance of focusing on enterprise clients. It …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)",
+    "contentSnippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. \nThe memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is topping the charts on any given day or week. Dresser, who recently took over much of former COO Brad Lightcap's duties as he transitions to a new role focused on special projects, also emphasizes the importance of focusing on enterprise clients. It …\nRead the full story at The Verge.",
+    "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
+    "id": "https://www.theverge.com/?p=911118",
+    "isoDate": "2026-04-13T16:21:08.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthropic"
   },
   {
-    "title": "(No AI) Sam Altman reportedly targeted in second attack",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-    "pubDate": "2026-04-13T09:25:57.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, [_The San Francisco Standard_](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) reports. The suspects were arrested and charged with negligent discharge, according to a [police report](https://www.sanfranciscopolice.org/news/sfpd-arrests-suspects-involved-shooting-26-044) on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home.\n\nThis follows [an earlier attack on Friday](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail), in which a 20-year-old man was arrested for allegedly throwing a Molotov cocktail at the same property. The investigations for both incidents are still ongoing.\n\nAccording to San Francisco Police, offers w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)",
-    "contentSnippet": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle passenger firing a weapon at Altman's home.\nThis follows an earlier attack on Friday, in which a 20-year-old man was arrested for allegedly throwing a Molotov cocktail at the same property. The investigations for both incidents are still ongoing.\nAccording to San Francisco Police, offers w …\nRead the full story at The Verge.",
-    "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle [&#8230;]",
-    "id": "https://www.theverge.com/?p=910890",
-    "isoDate": "2026-04-13T09:25:57.000Z",
+    "title": "(No AI) Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+    "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+    "pubDate": "2026-04-13T15:41:09.000Z",
+    "author": "Emma Roth",
+    "content": "![The OpenClaw logo on a red background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to [a report from _The Information_](https://www.theinformation.com/articles/microsoft-plots-new-copilot-features-inspired-openclaw). The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users.\n\nOmar Shahine, Microsoft's corporate vice president, confirmed to _The Information_ that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\" OpenClaw is an open-source platform that allows users to create AI-powered agents that run locally on a user's device. The platform [rose in popularity](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai) earlier this year, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses)",
+    "contentSnippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users.\nOmar Shahine, Microsoft's corporate vice president, confirmed to The Information that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\"  OpenClaw is an open-source platform that allows users to create AI-powered agents that run locally on a user's device. The platform rose in popularity earlier this year, …\nRead the full story at The Verge.",
+    "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
+    "id": "https://www.theverge.com/?p=911080",
+    "isoDate": "2026-04-13T15:41:09.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sam-altman-reportedly-targeted-in-second-attack"
-  },
-  {
-    "title": "(No AI) The AI code wars are heating up",
-    "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-    "pubDate": "2026-04-12T12:00:00.000Z",
-    "author": "David Pierce",
-    "content": "![An animation of laptops racing with live code being generated on their screens](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.gif?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [The Stepback](https://www.theverge.com/the-stepback-newsletter)_,_ _a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, [follow David Pierce](https://www.theverge.com/authors/david-pierce)._ The Stepback _arrives in our subscribers' inboxes at 8AM ET. Opt in for_ The Stepback [_here_](https://www.theverge.com/newsletters)_._\n\n## How it started\n\nWriting code was a killer app for AI even before anyone was really talking about AI. In the spring of 2021, 18 months before the world knew the word \"ChatGPT,\" Microsoft debuted the very first product of a partnership with a nonprofit called OpenAI: [a tool called GitHub Copilot](https://www.theverge.com/2021/6/29/22555777/github-openai-ai-tool-autocomplete-code) that watched developers as they wrote code and tried to autocomplete snippets and lines for them …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic)",
-    "contentSnippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWriting code was a killer app for AI even before anyone was really talking about AI. In the spring of 2021, 18 months before the world knew the word \"ChatGPT,\" Microsoft debuted the very first product of a partnership with a nonprofit called OpenAI: a tool called GitHub Copilot that watched developers as they wrote code and tried to autocomplete snippets and lines for them …\nRead the full story at The Verge.",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
-    "id": "https://www.theverge.com/?p=910019",
-    "isoDate": "2026-04-12T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-ai-code-wars-are-heating-up"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-is-testing-openclaw-like-ai-bots-for-365-copilot"
   },
   {
     "title": "(No AI) Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -115,6 +119,26 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Dell Cameron",
+    "title": "(No AI) Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+    "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+    "pubDate": "Mon, 13 Apr 2026 16:01:30 +0000",
+    "dc:creator": "Dell Cameron",
+    "content": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+    "contentSnippet": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+    "guid": "69d90304b2861e1c6bbfc714",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Business / Artificial Intelligence",
+      "Business / Social Media"
+    ],
+    "isoDate": "2026-04-13T16:01:30.000Z",
+    "source": "Wired AI",
+    "slug": "meta-is-warned-that-facial-recognition-glasses-will-arm-sexual-predators"
+  },
+  {
     "creator": "Kate Knibbs",
     "title": "(No AI) The Internet's Most Powerful Archiving Tool Is in Peril",
     "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
@@ -130,22 +154,5 @@
     "isoDate": "2026-04-13T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-internet-s-most-powerful-archiving-tool-is-in-peril"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) AI Agents Are Coming for Your Dating Life",
-    "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
-    "pubDate": "Mon, 13 Apr 2026 10:00:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-    "contentSnippet": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-    "guid": "69caefb9a096b304782ee423",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-13T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-agents-are-coming-for-your-dating-life"
   }
 ]
