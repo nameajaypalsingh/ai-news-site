@@ -1,6 +1,27 @@
 [
   {
     "creator": "Julie Bort",
+    "title": "(No AI) OpenAI has bought AI personal finance startup Hiro",
+    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "pubDate": "Tue, 14 Apr 2026 00:23:33 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+    "contentSnippet": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+    "guid": "https://techcrunch.com/?p=3112057",
+    "categories": [
+      "AI",
+      "Fintech",
+      "Startups",
+      "TC",
+      "acquisition",
+      "OpenAI"
+    ],
+    "isoDate": "2026-04-14T00:23:33.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-has-bought-ai-personal-finance-startup-hiro"
+  },
+  {
+    "creator": "Julie Bort",
     "title": "(No AI) Microsoft is working on yet another OpenClaw-like agent",
     "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
     "pubDate": "Mon, 13 Apr 2026 19:05:19 +0000",
@@ -21,23 +42,18 @@
     "slug": "microsoft-is-working-on-yet-another-openclaw-like-agent"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Stanford report highlights growing disconnect between AI insiders and everyone else",
-    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "pubDate": "Mon, 13 Apr 2026 18:55:37 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-    "contentSnippet": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-    "guid": "https://techcrunch.com/?p=3111798",
-    "categories": [
-      "AI",
-      "public sentiment",
-      "sam altman",
-      "stanford ai report"
-    ],
-    "isoDate": "2026-04-13T18:55:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else"
+    "title": "(No AI) Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+    "pubDate": "2026-04-14T00:02:38.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDaniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\n\nHis charges include \"attempted damage and destruction of property by means of explosives and possession of an unregistered firearm,\" [according to the Departmen …](https://www.justice.gov/opa/pr/texas-man-faces-multiple-federal-charges-related-attack-ai-company-and-its-ceo)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)",
+    "contentSnippet": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\nHis charges include \"attempted damage and destruction of property by means of explosives and possession of an unregistered firearm,\" according to the Departmen …\nRead the full story at The Verge.",
+    "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted [&#8230;]",
+    "id": "https://www.theverge.com/?p=911423",
+    "isoDate": "2026-04-14T00:02:38.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/screenshot_2026-04-13_161515_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "daniel-moreno-gama-is-facing-federal-charges-for-attacking-sam-altman-s-home-and-openai-s-hq"
   },
   {
     "title": "(No AI) AI influencers are ‘everywhere’ at Coachella",
@@ -52,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ai-label-10.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-influencers-are-everywhere-at-coachella"
-  },
-  {
-    "title": "(No AI) Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-    "pubDate": "2026-04-13T16:21:08.000Z",
-    "author": "Hayden Field",
-    "content": "![An illustration showing a computer with the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business.\n\nThe memo, which was viewed by _The Verge_, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is topping the charts on any given day or week. Dresser, who [recently](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence) took over much of former COO Brad Lightcap's duties as he transitions to a new role focused on special projects, also emphasizes the importance of focusing on enterprise clients. It …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)",
-    "contentSnippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. \nThe memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is topping the charts on any given day or week. Dresser, who recently took over much of former COO Brad Lightcap's duties as he transitions to a new role focused on special projects, also emphasizes the importance of focusing on enterprise clients. It …\nRead the full story at The Verge.",
-    "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
-    "id": "https://www.theverge.com/?p=911118",
-    "isoDate": "2026-04-13T16:21:08.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthropic"
   },
   {
     "title": "(No AI) Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -118,6 +120,23 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Marco Trabucchi",
+    "title": "(No AI) You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+    "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+    "pubDate": "Mon, 13 Apr 2026 23:37:38 +0000",
+    "dc:creator": "Marco Trabucchi",
+    "content": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+    "contentSnippet": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+    "guid": "69dd62dfffeed07de38ddeda",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-04-13T23:37:38.000Z",
+    "source": "Wired AI",
+    "slug": "you-can-soon-buy-a-4-370-humanoid-robot-on-aliexpress"
+  },
+  {
     "creator": "Dell Cameron",
     "title": "(No AI) Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
     "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
@@ -136,22 +155,5 @@
     "isoDate": "2026-04-13T16:01:30.000Z",
     "source": "Wired AI",
     "slug": "meta-is-warned-that-facial-recognition-glasses-will-arm-sexual-predators"
-  },
-  {
-    "creator": "Kate Knibbs",
-    "title": "(No AI) The Internet's Most Powerful Archiving Tool Is in Peril",
-    "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
-    "pubDate": "Mon, 13 Apr 2026 11:00:00 +0000",
-    "dc:creator": "Kate Knibbs",
-    "content": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
-    "contentSnippet": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
-    "guid": "69d56d2d948761f395b69631",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-13T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-internet-s-most-powerful-archiving-tool-is-in-peril"
   }
 ]
