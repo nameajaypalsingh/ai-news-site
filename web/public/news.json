@@ -120,6 +120,22 @@
     "slug": "gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable"
   },
   {
+    "creator": "Katie Drummond",
+    "title": "(No AI) Silicon Valley Is Spending Millions to Stop One of Its Own",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+    "pubDate": "Tue, 14 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+    "contentSnippet": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+    "guid": "69d90690c74cc8e55e0803dc",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-04-14T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "silicon-valley-is-spending-millions-to-stop-one-of-its-own"
+  },
+  {
     "creator": "Marco Trabucchi",
     "title": "(No AI) You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
     "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
@@ -135,25 +151,5 @@
     "isoDate": "2026-04-13T23:37:38.000Z",
     "source": "Wired AI",
     "slug": "you-can-soon-buy-a-4-370-humanoid-robot-on-aliexpress"
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "(No AI) Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-    "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-    "pubDate": "Mon, 13 Apr 2026 16:01:30 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
-    "contentSnippet": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
-    "guid": "69d90304b2861e1c6bbfc714",
-    "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "Business / Social Media"
-    ],
-    "isoDate": "2026-04-13T16:01:30.000Z",
-    "source": "Wired AI",
-    "slug": "meta-is-warned-that-facial-recognition-glasses-will-arm-sexual-predators"
   }
 ]
