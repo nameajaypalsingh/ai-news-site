@@ -1,69 +1,84 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) After sale of its shoe business, Allbirds pivots to AI",
-    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-    "pubDate": "Wed, 15 Apr 2026 14:24:31 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-    "contentSnippet": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-    "guid": "https://techcrunch.com/?p=3112589",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "pubDate": "Wed, 15 Apr 2026 19:28:36 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "contentSnippet": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "guid": "https://techcrunch.com/?p=3112660",
     "categories": [
       "AI",
-      "allbirds",
-      "WTF"
+      "agentic ai",
+      "agents",
+      "OpenAI"
     ],
-    "isoDate": "2026-04-15T14:24:31.000Z",
+    "isoDate": "2026-04-15T19:28:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "after-sale-of-its-shoe-business-allbirds-pivots-to-ai"
+    "slug": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-    "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-    "pubDate": "Wed, 15 Apr 2026 13:06:54 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-    "contentSnippet": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-    "guid": "https://techcrunch.com/?p=3112394",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+    "pubDate": "Wed, 15 Apr 2026 18:55:12 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+    "contentSnippet": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+    "guid": "https://techcrunch.com/?p=3112847",
     "categories": [
       "AI",
-      "ai strategy",
-      "ai tokens",
-      "Reid Hoffman",
-      "tokenmaxxing"
+      "Startups",
+      "Exclusive",
+      "marketing-technology",
+      "Hightouch"
     ],
-    "isoDate": "2026-04-15T13:06:54.000Z",
+    "isoDate": "2026-04-15T18:55:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "reid-hoffman-weighs-in-on-the-tokenmaxxing-debate"
+    "slug": "hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai"
   },
   {
-    "title": "(No AI) Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-    "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-    "pubDate": "2026-04-15T16:13:30.000Z",
-    "author": "Richard Lawler",
-    "content": "![Picture of an Allbirds store in the SoHo neighborhood of New York](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAllbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently [announced](https://ir.allbirds.com/news-releases/news-release-details/allbirds-signs-definitive-asset-purchase-agreement-american) it would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the _[Financial Times](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf)_ points out, and now CEO Joe Vernachio has [announced a plan](https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility) to raise $50 million from an unnamed investor, which will turn NewBird AI into \"a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider.\"\n\n> NewBird AI expects …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)",
-    "contentSnippet": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the Financial Times points out, and now CEO Joe Vernachio has announced a plan to raise $50 million from an unnamed investor, which will turn NewBird AI into \"a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider.\"\nNewBird AI expects …\n\nRead the full story at The Verge.",
-    "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
-    "id": "https://www.theverge.com/?p=912484",
-    "isoDate": "2026-04-15T16:13:30.000Z",
+    "title": "(No AI) Trump’s posting even more AI-generated Trump-Jesus fan art",
+    "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+    "pubDate": "2026-04-15T19:50:31.000Z",
+    "author": "Tina Nguyen",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe version posted by @realdonaldtrump/Truth Social.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild,_ [_annual subscriptions are currently 50 percent off_](https://www.theverge.com/subscribe?ueid=85a1cbf7a0f599911ec2e2505156906a&bxid=67bcc5c1d6a525e79807a1fc&utm_source=Sailthru&utm_medium=email&utm_campaign=Marketing:%20Spring%20Sale%202026&utm_term=Verge%20Marketing%20Current%20%28minus%20Active%20Subs%29)_. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!_  \n_(I will also accept confidential tips at_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)_.)_\n\n## You can't spell \"antichrist\" without \"AI\"\n\nOf all the things that would have fractured the religious right's alliance with **Donald Tr …**\n\n[Read the full story at The Verge.](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)",
+    "contentSnippet": "The version posted by @realdonaldtrump/Truth Social.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!\n(I will also accept confidential tips at tina.nguyen+tips@theverge.com.)\nYou can't spell \"antichrist\" without \"AI\"\nOf all the things that would have fractured the religious right's alliance with Donald Tr …\nRead the full story at The Verge.",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
+    "id": "https://www.theverge.com/912627/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+    "isoDate": "2026-04-15T19:50:31.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "allbirds-announced-a-switch-from-shoes-to-ai-and-its-stock-jumped-600-percent"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-s-posting-even-more-ai-generated-trump-jesus-fan-art"
   },
   {
-    "title": "(No AI) Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-    "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-    "pubDate": "2026-04-15T13:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A screenshot of the Firefly AI Assistant editing a headshot.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Adobe-Firefly-Innovations-Visual-Asset.png?quality=90&strip=all&crop=0,0,100,100)\n\nYou don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\n\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface.\n\nAdobe says this marks a \"fundamental shift in how creative work is done\" by removing skill barriers and laborious tasks, while still giving creatives full control over their work. It'll be \"available soon\" on the Firefly AI studio platform according to Adobe, though no specific launch date was provided in the announcement.\n\nThe unifi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing)",
-    "contentSnippet": "You don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. \nAdobe says this marks a \"fundamental shift in how creative work is done\" by removing skill barriers and laborious tasks, while still giving creatives full control over their work. It'll be \"available soon\" on the Firefly AI studio platform according to Adobe, though no specific launch date was provided in the announcement.\nThe unifi …\nRead the full story at The Verge.",
-    "summary": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. Adobe says this marks a \"fundamental [&#8230;]",
-    "id": "https://www.theverge.com/?p=912287",
-    "isoDate": "2026-04-15T13:00:00.000Z",
+    "title": "(No AI) Google launches a Gemini AI app on Mac",
+    "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+    "pubDate": "2026-04-15T18:10:15.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [launching a new Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/) on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the **Option + Space** shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\n\nBefore sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help answer your question.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_04_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100)\n\nIt looks a bit like Apple's [upgraded version of Spotlight](https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts), which you can now use to perform actions on your device, as well …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/912638/google-gemini-mac-app)",
+    "contentSnippet": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\nBefore sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help answer your question.\nIt looks a bit like Apple's upgraded version of Spotlight, which you can now use to perform actions on your device, as well  …\nRead the full story at The Verge.",
+    "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
+    "id": "https://www.theverge.com/?p=912638",
+    "isoDate": "2026-04-15T18:10:15.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Adobe-Firefly-Innovations-Visual-Asset.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-embraces-conversational-ai-editing-marking-a-fundamental-shift-in-creative-work"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-launches-a-gemini-ai-app-on-mac"
+  },
+  {
+    "title": "(No AI) The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "contentSnippet": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "guid": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-04-15T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-next-evolution-of-the-agents-sdk"
   },
   {
     "title": "(No AI) Trusted access for the next era of cyber defense",
@@ -78,20 +93,6 @@
     "isoDate": "2026-04-14T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "trusted-access-for-the-next-era-of-cyber-defense"
-  },
-  {
-    "title": "(No AI) Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
-    "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-    "contentSnippet": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-    "guid": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-04-13T06:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "enterprises-power-agentic-workflows-in-cloudflare-agent-cloud-with-openai"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -116,6 +117,23 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) AI Could Democratize One of Tech's Most Valuable Resources",
+    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+    "pubDate": "Wed, 15 Apr 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+    "contentSnippet": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
+    "guid": "69dd36a7c9b6deafe3260d34",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-15T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-could-democratize-one-of-tech-s-most-valuable-resources"
+  },
+  {
     "creator": "Brian Barrett",
     "title": "(No AI) Allbirds Is Pivoting to AI Compute. Sure, Why Not",
     "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
@@ -131,22 +149,5 @@
     "isoDate": "2026-04-15T14:58:08.000Z",
     "source": "Wired AI",
     "slug": "allbirds-is-pivoting-to-ai-compute-sure-why-not"
-  },
-  {
-    "creator": "Kate Knibbs",
-    "title": "(No AI) AI Slop Is Making the Internet Fake-Happy",
-    "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
-    "pubDate": "Wed, 15 Apr 2026 11:00:00 +0000",
-    "dc:creator": "Kate Knibbs",
-    "content": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-    "contentSnippet": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-    "guid": "69de21061596247bd1255e06",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-15T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-slop-is-making-the-internet-fake-happy"
   }
 ]
