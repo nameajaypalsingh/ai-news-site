@@ -1,6 +1,24 @@
 [
   {
     "creator": "Sarah Perez",
+    "title": "(No AI) After sale of its shoe business, Allbirds pivots to AI",
+    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "pubDate": "Wed, 15 Apr 2026 14:24:31 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+    "contentSnippet": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+    "guid": "https://techcrunch.com/?p=3112589",
+    "categories": [
+      "AI",
+      "allbirds",
+      "WTF"
+    ],
+    "isoDate": "2026-04-15T14:24:31.000Z",
+    "source": "TechCrunch AI",
+    "slug": "after-sale-of-its-shoe-business-allbirds-pivots-to-ai"
+  },
+  {
+    "creator": "Sarah Perez",
     "title": "(No AI) Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
     "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
     "pubDate": "Wed, 15 Apr 2026 13:06:54 +0000",
@@ -20,25 +38,18 @@
     "slug": "reid-hoffman-weighs-in-on-the-tokenmaxxing-debate"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-    "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "pubDate": "Wed, 15 Apr 2026 13:01:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator and its other apps to do tasks for you.",
-    "contentSnippet": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
-    "guid": "https://techcrunch.com/?p=3112536",
-    "categories": [
-      "AI",
-      "Apps",
-      "Adobe",
-      "Adobe Firefly",
-      "AI assistant",
-      "Creative Cloud"
-    ],
-    "isoDate": "2026-04-15T13:01:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "adobe-s-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks"
+    "title": "(No AI) Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+    "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+    "pubDate": "2026-04-15T16:13:30.000Z",
+    "author": "Richard Lawler",
+    "content": "![Picture of an Allbirds store in the SoHo neighborhood of New York](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAllbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently [announced](https://ir.allbirds.com/news-releases/news-release-details/allbirds-signs-definitive-asset-purchase-agreement-american) it would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the _[Financial Times](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf)_ points out, and now CEO Joe Vernachio has [announced a plan](https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility) to raise $50 million from an unnamed investor, which will turn NewBird AI into \"a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider.\"\n\n> NewBird AI expects …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)",
+    "contentSnippet": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the Financial Times points out, and now CEO Joe Vernachio has announced a plan to raise $50 million from an unnamed investor, which will turn NewBird AI into \"a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider.\"\nNewBird AI expects …\n\nRead the full story at The Verge.",
+    "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
+    "id": "https://www.theverge.com/?p=912484",
+    "isoDate": "2026-04-15T16:13:30.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1253153052.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "allbirds-announced-a-switch-from-shoes-to-ai-and-its-stock-jumped-600-percent"
   },
   {
     "title": "(No AI) Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
@@ -53,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Adobe-Firefly-Innovations-Visual-Asset.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "adobe-embraces-conversational-ai-editing-marking-a-fundamental-shift-in-creative-work"
-  },
-  {
-    "title": "(No AI) Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost. ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
-    "pubDate": "2026-04-15T10:55:22.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_G.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, [according](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677) to _NBC News_. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the [undressing crisis unfolded in full public view](https://www.theverge.com/news/859715/x-grok-ai-deepfakes) and [criticism over Apple's cowardice](https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters) mounted.\n\nIn a letter [obtained](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677) by _NBC News_, Apple told US senators it \"contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal\" and demanded that the developers \"create a plan to improve content moderation.\" …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes)",
-    "contentSnippet": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted.\nIn a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal\" and demanded that the developers \"create a plan to improve content moderation.\" …\nRead the full story at The Verge.",
-    "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing [&#8230;]",
-    "id": "https://www.theverge.com/?p=912297",
-    "isoDate": "2026-04-15T10:55:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "grok-s-sexual-deepfakes-almost-got-it-banned-from-apple-s-app-store-almost"
   },
   {
     "title": "(No AI) Trusted access for the next era of cyber defense",
@@ -97,6 +94,17 @@
     "slug": "enterprises-power-agentic-workflows-in-cloudflare-agent-cloud-with-openai"
   },
   {
+    "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+    "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "pubDate": "Wed, 15 Apr 2026 16:03:19 +0000",
+    "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "contentSnippet": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+    "guid": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "isoDate": "2026-04-15T16:03:19.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech"
+  },
+  {
     "title": "(No AI) Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
     "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
     "pubDate": "Mon, 13 Apr 2026 15:52:13 +0000",
@@ -108,15 +116,21 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "title": "(No AI) Gemma 4: Byte for byte, the most capable open models",
-    "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "pubDate": "Thu, 02 Apr 2026 16:00:49 +0000",
-    "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-    "contentSnippet": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-    "guid": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "isoDate": "2026-04-02T16:00:49.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemma-4-byte-for-byte-the-most-capable-open-models"
+    "creator": "Brian Barrett",
+    "title": "(No AI) Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+    "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+    "pubDate": "Wed, 15 Apr 2026 14:58:08 +0000",
+    "dc:creator": "Brian Barrett",
+    "content": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+    "contentSnippet": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+    "guid": "69df94da6aa484f47437e250",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-15T14:58:08.000Z",
+    "source": "Wired AI",
+    "slug": "allbirds-is-pivoting-to-ai-compute-sure-why-not"
   },
   {
     "creator": "Kate Knibbs",
@@ -134,23 +148,5 @@
     "isoDate": "2026-04-15T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-slop-is-making-the-internet-fake-happy"
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "(No AI) The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-    "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
-    "pubDate": "Wed, 15 Apr 2026 10:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-    "contentSnippet": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-    "guid": "69d7c19ee4b2be3c02afd803",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-15T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-deepfake-nudes-crisis-in-schools-is-much-worse-than-you-thought"
   }
 ]
