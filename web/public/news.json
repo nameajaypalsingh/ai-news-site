@@ -1,66 +1,64 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Google now lets you explore the web side-by-side with AI Mode",
-    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-    "pubDate": "Thu, 16 Apr 2026 17:00:00 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode.",
-    "contentSnippet": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode.",
-    "guid": "https://techcrunch.com/?p=3113130",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "pubDate": "Thu, 16 Apr 2026 20:26:44 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "contentSnippet": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "guid": "https://techcrunch.com/?p=3113359",
     "categories": [
       "AI",
-      "Apps",
-      "Google",
-      "ai mode"
+      "Robotics",
+      "Exclusive"
     ],
-    "isoDate": "2026-04-16T17:00:00.000Z",
+    "isoDate": "2026-04-16T20:26:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-now-lets-you-explore-the-web-side-by-side-with-ai-mode"
+    "slug": "physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-    "pubDate": "Thu, 16 Apr 2026 16:15:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI is a part of it.",
-    "contentSnippet": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI is a part of it.",
-    "guid": "https://techcrunch.com/?p=3113071",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "pubDate": "Thu, 16 Apr 2026 19:18:41 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "contentSnippet": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "guid": "https://techcrunch.com/?p=3113143",
     "categories": [
       "AI",
       "Enterprise",
-      "Fundraising",
-      "data observability",
-      "Datadog",
-      "Dynatrace",
-      "Grafana Labs",
-      "InsightFinder"
+      "agents",
+      "Anthropic",
+      "claude code",
+      "codex",
+      "OpenAI"
     ],
-    "isoDate": "2026-04-16T16:15:00.000Z",
+    "isoDate": "2026-04-16T19:18:41.000Z",
     "source": "TechCrunch AI",
-    "slug": "insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong"
+    "slug": "openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop"
   },
   {
-    "title": "(No AI) OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
+    "title": "(No AI) OpenAI’s big Codex update is a direct shot at Claude Code",
     "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
     "pubDate": "2026-04-16T17:00:00.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486)\n\nCodex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\n\nOpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences.\n\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says \"this is helpful for testing and iterating on frontend changes, testing apps, or working in apps that don't expose an API.\"\n\nThe feature will start rolling out to Codex desktop app users signe …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)",
-    "contentSnippet": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. \nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says \"this is helpful for testing and iterating on frontend changes, testing apps, or working in apps that don't expose an API.\" \nThe feature will start rolling out to Codex desktop app users signe …\nRead the full story at The Verge.",
-    "summary": "OpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the [&#8230;]",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486)\n\nCodex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\n\nOpenAI is beefing up its agentic coding and development system, Codex, with [a suite of updates](https://openai.com/index/codex-for-almost-everything/) that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the [stellar successes of Claude Code](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment) and OpenAI [aggressively shifting resources](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic) to catch up.\n\nCodex will now be able to operate desktop apps on your computer, OpenAI [says in a blog post announcing the update](https://openai.com/index/codex-for-almost-everything/). It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says, \"this is he …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)",
+    "contentSnippet": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says, \"this is he …\nRead the full story at The Verge.",
+    "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up. [&#8230;]",
     "id": "https://www.theverge.com/?p=913034",
     "isoDate": "2026-04-16T17:00:00.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&#038;strip=all&#038;crop=0,5.8356559824806,100,89.31166633486",
-    "slug": "openai-s-big-codex-update-is-a-direct-shot-at-anthropic-s-claude-code"
+    "slug": "openai-s-big-codex-update-is-a-direct-shot-at-claude-code"
   },
   {
     "title": "(No AI) Google’s AI Mode update lets you open links without leaving the page",
     "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
     "pubDate": "2026-04-16T17:00:00.000Z",
     "author": "Emma Roth",
-    "content": "![A screenshot of AI Mode with a tab open alongside it](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-ai-mode-side-by-side.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\n\nLaunched last year, [AI Mode is the chatbot-like search feature](https://www.theverge.com/news/624064/google-ai-mode-overviews-search) that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to [generate images of outfits and decor](https://www.theverge.com/news/712924/google-shopping-ai-mode-fake-clothes) based on your descriptions, [visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas), and find [restaurant res …](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)",
+    "content": "![A screenshot of AI Mode with a tab open alongside it](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-ai-mode-side-by-side.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [upgrading AI Mode in Chrome](https://blog.google/products-and-platforms/products/search/ai-mode-chrome/) with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\n\nLaunched last year, [AI Mode is the chatbot-like search feature](https://www.theverge.com/news/624064/google-ai-mode-overviews-search) that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to [generate images of outfits and decor](https://www.theverge.com/news/712924/google-shopping-ai-mode-fake-clothes) based on your descriptions, [visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas), and find [restaurant res …](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)",
     "contentSnippet": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to generate images of outfits and decor based on your descriptions, visualize your travel plans, and find restaurant res …\nRead the full story at The Verge.",
     "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. [&#8230;]",
     "id": "https://www.theverge.com/?p=913109",
@@ -84,18 +82,18 @@
     "slug": "codex-for-almost-everything"
   },
   {
-    "title": "(No AI) Accelerating the cyber defense ecosystem that protects us all",
-    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-    "contentSnippet": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-    "guid": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "title": "(No AI) Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "contentSnippet": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "guid": "https://openai.com/index/introducing-gpt-rosalind",
     "categories": [
-      "Security"
+      "Research"
     ],
-    "isoDate": "2026-04-16T00:00:00.000Z",
+    "isoDate": "2026-04-16T01:00:00.000Z",
     "source": "OpenAI",
-    "slug": "accelerating-the-cyber-defense-ecosystem-that-protects-us-all"
+    "slug": "introducing-gpt-rosalind-for-life-sciences-research"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -120,38 +118,37 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-    "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-    "pubDate": "Thu, 16 Apr 2026 17:00:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-    "contentSnippet": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-    "guid": "69e0d49fc53b9f52123c890b",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Online Services"
-    ],
-    "isoDate": "2026-04-16T17:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "google-s-ai-mode-update-tries-to-kill-tab-hopping-in-chrome"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Anthropic Plots Major London Expansion",
-    "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-    "pubDate": "Thu, 16 Apr 2026 13:49:35 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
-    "contentSnippet": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
-    "guid": "69e0d20326f2f8cd58ff14ca",
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) The Battle for OpenAI’s Soul",
+    "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+    "pubDate": "Thu, 16 Apr 2026 18:00:00 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+    "contentSnippet": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+    "guid": "69d91dd01b40b4d3d9944c21",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-16T13:49:35.000Z",
+    "isoDate": "2026-04-16T18:00:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-plots-major-london-expansion"
+    "slug": "the-battle-for-openai-s-soul"
+  },
+  {
+    "creator": "Joel Khalili",
+    "title": "(No AI) The UK Launches Its $675 Million Sovereign AI Fund",
+    "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+    "pubDate": "Thu, 16 Apr 2026 17:30:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+    "contentSnippet": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+    "guid": "69dd42bc7160306d8e06d724",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-16T17:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-uk-launches-its-675-million-sovereign-ai-fund"
   }
 ]
