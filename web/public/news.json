@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) DeepL, known for text translation, now wants to translate your voice",
+    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+    "pubDate": "Thu, 16 Apr 2026 08:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
+    "contentSnippet": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
+    "guid": "https://techcrunch.com/?p=3112571",
+    "categories": [
+      "AI",
+      "DeepL",
+      "voice AI",
+      "AI translation"
+    ],
+    "isoDate": "2026-04-16T08:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "deepl-known-for-text-translation-now-wants-to-translate-your-voice"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
     "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
@@ -17,26 +36,6 @@
     "isoDate": "2026-04-15T19:28:36.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-    "pubDate": "Wed, 15 Apr 2026 18:55:12 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-    "contentSnippet": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-    "guid": "https://techcrunch.com/?p=3112847",
-    "categories": [
-      "AI",
-      "Startups",
-      "Exclusive",
-      "marketing-technology",
-      "Hightouch"
-    ],
-    "isoDate": "2026-04-15T18:55:12.000Z",
-    "source": "TechCrunch AI",
-    "slug": "hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai"
   },
   {
     "title": "(No AI) Trump’s posting even more AI-generated Trump-Jesus fan art",
