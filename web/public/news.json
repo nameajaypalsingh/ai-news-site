@@ -1,71 +1,87 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Canva’s AI assistant can now call various tools to make designs for you",
-    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-    "pubDate": "Thu, 16 Apr 2026 13:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-    "contentSnippet": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-    "guid": "https://techcrunch.com/?p=3113062",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Google now lets you explore the web side-by-side with AI Mode",
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "pubDate": "Thu, 16 Apr 2026 17:00:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode.",
+    "contentSnippet": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode.",
+    "guid": "https://techcrunch.com/?p=3113130",
     "categories": [
       "AI",
       "Apps",
-      "Adobe",
-      "canva",
-      "AI assistant",
-      "Design Ai"
+      "Google",
+      "ai mode"
     ],
-    "isoDate": "2026-04-16T13:00:00.000Z",
+    "isoDate": "2026-04-16T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "canva-s-ai-assistant-can-now-call-various-tools-to-make-designs-for-you"
+    "slug": "google-now-lets-you-explore-the-web-side-by-side-with-ai-mode"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) This simulation startup wants to be the Cursor for physical AI",
-    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-    "pubDate": "Thu, 16 Apr 2026 12:30:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-    "contentSnippet": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
-    "guid": "https://techcrunch.com/?p=3112969",
+    "creator": "Ram Iyer",
+    "title": "(No AI) InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "pubDate": "Thu, 16 Apr 2026 16:15:00 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI is a part of it.",
+    "contentSnippet": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI is a part of it.",
+    "guid": "https://techcrunch.com/?p=3113071",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive",
-      "Antioch"
+      "Enterprise",
+      "Fundraising",
+      "data observability",
+      "Datadog",
+      "Dynatrace",
+      "Grafana Labs",
+      "InsightFinder"
     ],
-    "isoDate": "2026-04-16T12:30:00.000Z",
+    "isoDate": "2026-04-16T16:15:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "this-simulation-startup-wants-to-be-the-cursor-for-physical-ai"
+    "slug": "insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong"
   },
   {
-    "title": "(No AI) Canva’s AI 2.0 update goes all in on prompt-powered design tools",
-    "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
-    "pubDate": "2026-04-16T13:07:09.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![An illustration showing Canva’s AI 2.0 update for prompt-based editing.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-AI-2.0.png?quality=90&strip=all&crop=0,0,100,100)\n\nCanva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\n\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability)",
-    "contentSnippet": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\nRead the full story at The Verge.",
-    "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
-    "id": "https://www.theverge.com/?p=913068",
-    "isoDate": "2026-04-16T13:07:09.000Z",
+    "title": "(No AI) OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486)\n\nCodex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\n\nOpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences.\n\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says \"this is helpful for testing and iterating on frontend changes, testing apps, or working in apps that don't expose an API.\"\n\nThe feature will start rolling out to Codex desktop app users signe …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos)",
+    "contentSnippet": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. \nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says \"this is helpful for testing and iterating on frontend changes, testing apps, or working in apps that don't expose an API.\" \nThe feature will start rolling out to Codex desktop app users signe …\nRead the full story at The Verge.",
+    "summary": "OpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. Codex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the [&#8230;]",
+    "id": "https://www.theverge.com/?p=913034",
+    "isoDate": "2026-04-16T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-AI-2.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "canva-s-ai-2-0-update-goes-all-in-on-prompt-powered-design-tools"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&#038;strip=all&#038;crop=0,5.8356559824806,100,89.31166633486",
+    "slug": "openai-s-big-codex-update-is-a-direct-shot-at-anthropic-s-claude-code"
   },
   {
-    "title": "(No AI) Trump’s posting even more AI-generated Trump-Jesus fan art",
-    "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-    "pubDate": "2026-04-15T19:50:31.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe version posted by @realdonaldtrump/Truth Social.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild,_ [_annual subscriptions are currently 50 percent off_](https://www.theverge.com/subscribe)_. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!_  \n_(I will also accept confidential tips at_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)_.)_\n\n## You can't spell \"antichrist\" without \"AI\"\n\nOf all the things that would have fractured the religious right's alliance with **Donald Tr …**\n\n[Read the full story at The Verge.](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)",
-    "contentSnippet": "The version posted by @realdonaldtrump/Truth Social.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!\n(I will also accept confidential tips at tina.nguyen+tips@theverge.com.)\nYou can't spell \"antichrist\" without \"AI\"\nOf all the things that would have fractured the religious right's alliance with Donald Tr …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
-    "id": "https://www.theverge.com/912627/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-    "isoDate": "2026-04-15T19:50:31.000Z",
+    "title": "(No AI) Google’s AI Mode update lets you open links without leaving the page",
+    "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "pubDate": "2026-04-16T17:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A screenshot of AI Mode with a tab open alongside it](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-ai-mode-side-by-side.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\n\nLaunched last year, [AI Mode is the chatbot-like search feature](https://www.theverge.com/news/624064/google-ai-mode-overviews-search) that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to [generate images of outfits and decor](https://www.theverge.com/news/712924/google-shopping-ai-mode-fake-clothes) based on your descriptions, [visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas), and find [restaurant res …](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources)",
+    "contentSnippet": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to generate images of outfits and decor based on your descriptions, visualize your travel plans, and find restaurant res …\nRead the full story at The Verge.",
+    "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page. [&#8230;]",
+    "id": "https://www.theverge.com/?p=913109",
+    "isoDate": "2026-04-16T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-s-posting-even-more-ai-generated-trump-jesus-fan-art"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-ai-mode-side-by-side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-mode-update-lets-you-open-links-without-leaving-the-page"
+  },
+  {
+    "title": "(No AI) Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
+    "content": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "contentSnippet": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "guid": "https://openai.com/index/codex-for-almost-everything",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-04-16T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "codex-for-almost-everything"
   },
   {
     "title": "(No AI) Accelerating the cyber defense ecosystem that protects us all",
@@ -80,20 +96,6 @@
     "isoDate": "2026-04-16T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "accelerating-the-cyber-defense-ecosystem-that-protects-us-all"
-  },
-  {
-    "title": "(No AI) The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "content": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "contentSnippet": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "guid": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-04-15T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "the-next-evolution-of-the-agents-sdk"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -118,37 +120,38 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Emily Mullin",
-    "title": "(No AI) This Beanie Is Designed to Read Your Thoughts",
-    "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
-    "pubDate": "Thu, 16 Apr 2026 11:00:00 +0000",
-    "dc:creator": "Emily Mullin",
-    "content": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
-    "contentSnippet": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
-    "guid": "69de5a8b4103e67248d68a34",
+    "creator": "Reece Rogers",
+    "title": "(No AI) Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+    "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+    "pubDate": "Thu, 16 Apr 2026 17:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
+    "contentSnippet": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
+    "guid": "69e0d49fc53b9f52123c890b",
     "categories": [
-      "Science",
-      "Science / Biotech"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Online Services"
     ],
-    "isoDate": "2026-04-16T11:00:00.000Z",
+    "isoDate": "2026-04-16T17:00:00.000Z",
     "source": "Wired AI",
-    "slug": "this-beanie-is-designed-to-read-your-thoughts"
+    "slug": "google-s-ai-mode-update-tries-to-kill-tab-hopping-in-chrome"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) AI Could Democratize One of Tech's Most Valuable Resources",
-    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-    "pubDate": "Wed, 15 Apr 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-    "contentSnippet": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-    "guid": "69dd36a7c9b6deafe3260d34",
+    "creator": "Joel Khalili",
+    "title": "(No AI) Anthropic Plots Major London Expansion",
+    "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+    "pubDate": "Thu, 16 Apr 2026 13:49:35 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
+    "contentSnippet": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
+    "guid": "69e0d20326f2f8cd58ff14ca",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-15T18:00:00.000Z",
+    "isoDate": "2026-04-16T13:49:35.000Z",
     "source": "Wired AI",
-    "slug": "ai-could-democratize-one-of-tech-s-most-valuable-resources"
+    "slug": "anthropic-plots-major-london-expansion"
   }
 ]
