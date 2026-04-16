@@ -1,48 +1,64 @@
 [
   {
     "creator": "Ivan Mehta",
-    "title": "(No AI) DeepL, known for text translation, now wants to translate your voice",
-    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-    "pubDate": "Thu, 16 Apr 2026 08:00:00 +0000",
+    "title": "(No AI) Canva’s AI assistant can now call various tools to make designs for you",
+    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "pubDate": "Thu, 16 Apr 2026 13:00:00 +0000",
     "dc:creator": "Ivan Mehta",
-    "content": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-    "contentSnippet": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-    "guid": "https://techcrunch.com/?p=3112571",
+    "content": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "contentSnippet": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+    "guid": "https://techcrunch.com/?p=3113062",
     "categories": [
       "AI",
-      "DeepL",
-      "voice AI",
-      "AI translation"
+      "Apps",
+      "Adobe",
+      "canva",
+      "AI assistant",
+      "Design Ai"
     ],
-    "isoDate": "2026-04-16T08:00:00.000Z",
+    "isoDate": "2026-04-16T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "deepl-known-for-text-translation-now-wants-to-translate-your-voice"
+    "slug": "canva-s-ai-assistant-can-now-call-various-tools-to-make-designs-for-you"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "pubDate": "Wed, 15 Apr 2026 19:28:36 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-    "contentSnippet": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-    "guid": "https://techcrunch.com/?p=3112660",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) This simulation startup wants to be the Cursor for physical AI",
+    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "pubDate": "Thu, 16 Apr 2026 12:30:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "contentSnippet": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+    "guid": "https://techcrunch.com/?p=3112969",
     "categories": [
       "AI",
-      "agentic ai",
-      "agents",
-      "OpenAI"
+      "Robotics",
+      "Exclusive",
+      "Antioch"
     ],
-    "isoDate": "2026-04-15T19:28:36.000Z",
+    "isoDate": "2026-04-16T12:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents"
+    "slug": "this-simulation-startup-wants-to-be-the-cursor-for-physical-ai"
+  },
+  {
+    "title": "(No AI) Canva’s AI 2.0 update goes all in on prompt-powered design tools",
+    "link": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+    "pubDate": "2026-04-16T13:07:09.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![An illustration showing Canva’s AI 2.0 update for prompt-based editing.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-AI-2.0.png?quality=90&strip=all&crop=0,0,100,100)\n\nCanva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\n\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability)",
+    "contentSnippet": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to Canva's AI assistant in their own words.\nThe update includes a new orchestration layer for Canva's AI models that lets creatives and marketers access the platform's entire suite of tools from a single, unified conversational interface. That means users can ask the chatbot to perform actions like \"c …\nRead the full story at The Verge.",
+    "summary": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&#8230;]",
+    "id": "https://www.theverge.com/?p=913068",
+    "isoDate": "2026-04-16T13:07:09.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-AI-2.0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "canva-s-ai-2-0-update-goes-all-in-on-prompt-powered-design-tools"
   },
   {
     "title": "(No AI) Trump’s posting even more AI-generated Trump-Jesus fan art",
     "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
     "pubDate": "2026-04-15T19:50:31.000Z",
     "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe version posted by @realdonaldtrump/Truth Social.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild,_ [_annual subscriptions are currently 50 percent off_](https://www.theverge.com/subscribe?ueid=85a1cbf7a0f599911ec2e2505156906a&bxid=67bcc5c1d6a525e79807a1fc&utm_source=Sailthru&utm_medium=email&utm_campaign=Marketing:%20Spring%20Sale%202026&utm_term=Verge%20Marketing%20Current%20%28minus%20Active%20Subs%29)_. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!_  \n_(I will also accept confidential tips at_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)_.)_\n\n## You can't spell \"antichrist\" without \"AI\"\n\nOf all the things that would have fractured the religious right's alliance with **Donald Tr …**\n\n[Read the full story at The Verge.](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe version posted by @realdonaldtrump/Truth Social.\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild,_ [_annual subscriptions are currently 50 percent off_](https://www.theverge.com/subscribe)_. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!_  \n_(I will also accept confidential tips at_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)_.)_\n\n## You can't spell \"antichrist\" without \"AI\"\n\nOf all the things that would have fractured the religious right's alliance with **Donald Tr …**\n\n[Read the full story at The Verge.](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme)",
     "contentSnippet": "The version posted by @realdonaldtrump/Truth Social.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for access to an entire newsroom full of reporting about technology and how it's eating society alive - not just in politics!\n(I will also accept confidential tips at tina.nguyen+tips@theverge.com.)\nYou can't spell \"antichrist\" without \"AI\"\nOf all the things that would have fractured the religious right's alliance with Donald Tr …\nRead the full story at The Verge.",
     "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
     "id": "https://www.theverge.com/912627/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
@@ -52,18 +68,18 @@
     "slug": "trump-s-posting-even-more-ai-generated-trump-jesus-fan-art"
   },
   {
-    "title": "(No AI) Google launches a Gemini AI app on Mac",
-    "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-    "pubDate": "2026-04-15T18:10:15.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [launching a new Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/) on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the **Option + Space** shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\n\nBefore sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help answer your question.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_04_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100)\n\nIt looks a bit like Apple's [upgraded version of Spotlight](https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts), which you can now use to perform actions on your device, as well …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/912638/google-gemini-mac-app)",
-    "contentSnippet": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\nBefore sharing your window, you'll need to give Gemini permission to access your system's information before sharing your window. From there, the AI assistant will pull information from what you're looking at to help answer your question.\nIt looks a bit like Apple's upgraded version of Spotlight, which you can now use to perform actions on your device, as well  …\nRead the full story at The Verge.",
-    "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
-    "id": "https://www.theverge.com/?p=912638",
-    "isoDate": "2026-04-15T18:10:15.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-launches-a-gemini-ai-app-on-mac"
+    "title": "(No AI) Accelerating the cyber defense ecosystem that protects us all",
+    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+    "content": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "contentSnippet": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "guid": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-04-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "accelerating-the-cyber-defense-ecosystem-that-protects-us-all"
   },
   {
     "title": "(No AI) The next evolution of the Agents SDK",
@@ -78,20 +94,6 @@
     "isoDate": "2026-04-15T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "the-next-evolution-of-the-agents-sdk"
-  },
-  {
-    "title": "(No AI) Trusted access for the next era of cyber defense",
-    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "content": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "contentSnippet": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "guid": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-04-14T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "trusted-access-for-the-next-era-of-cyber-defense"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -116,6 +118,23 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
+    "creator": "Emily Mullin",
+    "title": "(No AI) This Beanie Is Designed to Read Your Thoughts",
+    "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
+    "pubDate": "Thu, 16 Apr 2026 11:00:00 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
+    "contentSnippet": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
+    "guid": "69de5a8b4103e67248d68a34",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-04-16T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "this-beanie-is-designed-to-read-your-thoughts"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) AI Could Democratize One of Tech's Most Valuable Resources",
     "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
@@ -131,22 +150,5 @@
     "isoDate": "2026-04-15T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-could-democratize-one-of-tech-s-most-valuable-resources"
-  },
-  {
-    "creator": "Brian Barrett",
-    "title": "(No AI) Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-    "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
-    "pubDate": "Wed, 15 Apr 2026 14:58:08 +0000",
-    "dc:creator": "Brian Barrett",
-    "content": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
-    "contentSnippet": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
-    "guid": "69df94da6aa484f47437e250",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-15T14:58:08.000Z",
-    "source": "Wired AI",
-    "slug": "allbirds-is-pivoting-to-ai-compute-sure-why-not"
   }
 ]
