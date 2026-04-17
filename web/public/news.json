@@ -1,43 +1,48 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-    "pubDate": "Thu, 16 Apr 2026 20:26:44 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-    "contentSnippet": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-    "guid": "https://techcrunch.com/?p=3113359",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Factory hits $1.5B valuation to build AI coding for enterprises",
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "pubDate": "Thu, 16 Apr 2026 22:55:30 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "contentSnippet": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "guid": "https://techcrunch.com/?p=3113506",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive"
+      "Startups",
+      "AI coding tools",
+      "In Brief",
+      "Khosla Ventures",
+      "Sequioa"
     ],
-    "isoDate": "2026-04-16T20:26:44.000Z",
+    "isoDate": "2026-04-16T22:55:30.000Z",
     "source": "TechCrunch AI",
-    "slug": "physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught"
+    "slug": "factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "pubDate": "Thu, 16 Apr 2026 19:18:41 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-    "contentSnippet": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-    "guid": "https://techcrunch.com/?p=3113143",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "pubDate": "Thu, 16 Apr 2026 21:58:08 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "contentSnippet": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "guid": "https://techcrunch.com/?p=3113490",
     "categories": [
       "AI",
-      "Enterprise",
-      "agents",
-      "Anthropic",
-      "claude code",
-      "codex",
-      "OpenAI"
+      "Media & Entertainment",
+      "Startups",
+      "AI video generation",
+      "film",
+      "Hollywood",
+      "innovative dreams",
+      "Luma",
+      "wonder project"
     ],
-    "isoDate": "2026-04-16T19:18:41.000Z",
+    "isoDate": "2026-04-16T21:58:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop"
+    "slug": "luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project"
   },
   {
     "title": "(No AI) OpenAI’s big Codex update is a direct shot at Claude Code",
