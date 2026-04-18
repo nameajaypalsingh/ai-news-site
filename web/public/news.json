@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "pubDate": "Fri, 17 Apr 2026 22:34:02 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "contentSnippet": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "guid": "https://techcrunch.com/?p=3113492",
+    "categories": [
+      "AI",
+      "DocuSign",
+      "sam altman",
+      "Tinder",
+      "World",
+      "Worldcoin",
+      "zoom"
+    ],
+    "isoDate": "2026-04-17T22:34:02.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sam-altman-s-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
@@ -21,26 +43,18 @@
     "slug": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-    "pubDate": "Fri, 17 Apr 2026 19:17:26 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Returning backers a16z and Thrive are expected to lead the round.",
-    "contentSnippet": "Returning backers a16z and Thrive are expected to lead the round.",
-    "guid": "https://techcrunch.com/?p=3113763",
-    "categories": [
-      "AI",
-      "Startups",
-      "ai coding",
-      "Andreessen Horowitz",
-      "cursor",
-      "Exclusive",
-      "Thrive"
-    ],
-    "isoDate": "2026-04-17T19:17:26.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges"
+    "title": "(No AI) OpenAI’s former Sora boss is leaving",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "pubDate": "2026-04-17T21:13:25.000Z",
+    "author": "Jay Peters",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nLast month, [OpenAI gave up on its Sora video generation tool](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt), and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of [many recent changes](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai) as the company moves to focus more on coding and enterprise use.\n\nAs part of a note Peebles posted on X, [he said](https://x.com/billpeeb/status/2045225014807670949?s=20):\n\n> I am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)",
+    "contentSnippet": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
+    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
+    "id": "https://www.theverge.com/?p=914463",
+    "isoDate": "2026-04-17T21:13:25.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-former-sora-boss-is-leaving"
   },
   {
     "title": "(No AI) Should you stare into Sam Altman’s orb before your next date?",
@@ -55,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "should-you-stare-into-sam-altman-s-orb-before-your-next-date"
-  },
-  {
-    "title": "(No AI) Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "pubDate": "2026-04-17T20:14:21.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo illustration of Dario Amodei of Anthropic.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Trump administration has spent nearly two months fighting with AI company Anthropic. It's [dubbed the company](https://truthsocial.com/@realDonaldTrump/posts/116144552969293195) a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's [buzzy new cybersecurity-focused model](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity): Claude Mythos Preview.\n\nAnthropic's relationship with the Pentagon [soured quickly](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)",
-    "contentSnippet": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\nRead the full story at The Verge.",
-    "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. [&#8230;]",
-    "id": "https://www.theverge.com/?p=914229",
-    "isoDate": "2026-04-17T20:14:21.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-graces"
   },
   {
     "title": "(No AI) Codex for (almost) everything",
