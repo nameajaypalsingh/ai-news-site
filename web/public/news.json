@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) The App Store is booming again, and AI may be why",
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "contentSnippet": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+    "guid": "https://techcrunch.com/?p=3113812",
+    "categories": [
+      "AI",
+      "Apps",
+      "Apple",
+      "Google",
+      "developers",
+      "Mobile",
+      "app store",
+      "ai coding"
+    ],
+    "isoDate": "2026-04-18T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-app-store-is-booming-again-and-ai-may-be-why"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
     "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
@@ -20,27 +43,6 @@
     "isoDate": "2026-04-17T22:34:02.000Z",
     "source": "TechCrunch AI",
     "slug": "sam-altman-s-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "pubDate": "Fri, 17 Apr 2026 20:38:17 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-    "contentSnippet": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-    "guid": "https://techcrunch.com/?p=3113889",
-    "categories": [
-      "AI",
-      "bill peebles",
-      "Kevin Weil",
-      "OpenAI",
-      "OpenAI For Science",
-      "sora"
-    ],
-    "isoDate": "2026-04-17T20:38:17.000Z",
-    "source": "TechCrunch AI",
-    "slug": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests"
   },
   {
     "title": "(No AI) OpenAI’s former Sora boss is leaving",
@@ -121,38 +123,40 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI Executive Kevin Weil Is Leaving the Company",
-    "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "pubDate": "Fri, 17 Apr 2026 19:56:42 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-    "contentSnippet": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-    "guid": "69e28af72e2d64bf927d8e75",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "contentSnippet": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "guid": "69e2546a7ea9068b109b1cfc",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-04-17T19:56:42.000Z",
+    "isoDate": "2026-04-18T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-executive-kevin-weil-is-leaving-the-company"
+    "slug": "schematik-is-cursor-for-hardware-anthropic-wants-in"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
-    "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-    "pubDate": "Fri, 17 Apr 2026 17:14:51 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Honestly, what’s hotter than a real person?",
-    "contentSnippet": "Honestly, what’s hotter than a real person?",
-    "guid": "69e23b7359df191308f96cba",
+    "creator": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
+    "title": "(No AI) It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
+    "content": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+    "contentSnippet": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+    "guid": "69e26d517cc0742ca47575ff",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Blockchain and Cryptocurrency"
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
     ],
-    "isoDate": "2026-04-17T17:14:51.000Z",
+    "isoDate": "2026-04-18T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "gazing-into-sam-altman-s-orb-now-proves-you-re-human-on-tinder"
+    "slug": "it-takes-2-minutes-to-hack-the-eu-s-new-age-verification-app"
   }
 ]
