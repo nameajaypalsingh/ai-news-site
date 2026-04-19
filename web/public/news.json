@@ -117,23 +117,6 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "contentSnippet": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "guid": "69e2546a7ea9068b109b1cfc",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-04-18T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "schematik-is-cursor-for-hardware-anthropic-wants-in"
-  },
-  {
     "creator": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
     "title": "(No AI) It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
     "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
@@ -152,5 +135,22 @@
     "isoDate": "2026-04-18T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "it-takes-2-minutes-to-hack-the-eu-s-new-age-verification-app"
+  },
+  {
+    "creator": "Boone Ashworth",
+    "title": "(No AI) Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "contentSnippet": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+    "guid": "69e2546a7ea9068b109b1cfc",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-04-18T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "schematik-is-cursor-for-hardware-anthropic-wants-in"
   }
 ]
