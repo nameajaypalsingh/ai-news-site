@@ -1,6 +1,26 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Tesla brings its robotaxi service to Dallas and Houston",
+    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "pubDate": "Sat, 18 Apr 2026 21:37:15 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now \\[…\\]",
+    "contentSnippet": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
+    "guid": "https://techcrunch.com/?p=3113986",
+    "categories": [
+      "AI",
+      "Transportation",
+      "Houston",
+      "robotaxi",
+      "Tesla"
+    ],
+    "isoDate": "2026-04-18T21:37:15.000Z",
+    "source": "TechCrunch AI",
+    "slug": "tesla-brings-its-robotaxi-service-to-dallas-and-houston"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) AI chip startup Cerebras files for IPO",
     "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "pubDate": "Sat, 18 Apr 2026 19:19:11 +0000",
@@ -19,24 +39,18 @@
     "slug": "ai-chip-startup-cerebras-files-for-ipo"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic’s relationship with the Trump administration seems to be thawing",
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "contentSnippet": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "guid": "https://techcrunch.com/?p=3113969",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "dario amodei",
-      "susie wiles"
-    ],
-    "isoDate": "2026-04-18T14:56:48.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-relationship-with-the-trump-administration-seems-to-be-thawing"
+    "title": "(No AI) The RAM shortage could last years",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "pubDate": "2026-04-18T21:08:45.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Circuitboard with error message.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to [_Nikkei Asia_](https://asia.nikkei.com/business/tech/semiconductors/memory-shortage-set-to-run-until-2027-as-chipmakers-focus-on-ai), even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until [2030](https://www.reuters.com/world/asia-pacific/south-koreas-sk-group-chairman-expects-chip-wafer-shortage-last-until-2030-eyes-2026-03-16/).\n\nThe world's largest memory makers - Samsung, SK Hynix, and [Micron](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings) - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\n\n_Nikkei_ says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to [_Counte …_](https://counterpointresearch.com/en/insights/the-global-memory-shortage-will-cost-us-all)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)",
+    "contentSnippet": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\nNikkei says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to Counte …\nRead the full story at The Verge.",
+    "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
+    "id": "https://www.theverge.com/?p=914672",
+    "isoDate": "2026-04-18T21:08:45.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-ram-shortage-could-last-years"
   },
   {
     "title": "(No AI) OpenAI’s former Sora boss is leaving",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-s-former-sora-boss-is-leaving"
-  },
-  {
-    "title": "(No AI) Should you stare into Sam Altman’s orb before your next date?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-    "pubDate": "2026-04-17T20:42:47.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A screenshot of World ID verification on Tinder](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTinder users who prove they're a real person by [visiting an identity-verifying orb](https://world.org/blog/announcements/online-dating-gaming-event-tickets-proof-of-human-everyday-life) will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using [its facial scanning orbs](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token) through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\"\n\nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. [According to World](https://world.org/orb), the orb \"takes pictures of your face and eyes, then encrypts and sto …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb)",
-    "contentSnippet": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
-    "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
-    "id": "https://www.theverge.com/?p=914385",
-    "isoDate": "2026-04-17T20:42:47.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/world-id-tinder-verify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "should-you-stare-into-sam-altman-s-orb-before-your-next-date"
   },
   {
     "title": "(No AI) Codex for (almost) everything",
