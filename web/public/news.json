@@ -1,49 +1,59 @@
 [
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) TechCrunch Mobility: Uber enters its assetmaxxing era",
-    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "pubDate": "Sun, 19 Apr 2026 16:01:00 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "contentSnippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "guid": "https://techcrunch.com/?p=3113818",
+    "creator": "Connie Loizos",
+    "title": "(No AI) The 12-month window",
+    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "pubDate": "Sun, 19 Apr 2026 19:30:00 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "contentSnippet": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "guid": "https://techcrunch.com/?p=3114032",
     "categories": [
-      "Transportation",
       "AI",
-      "jeff bezos",
-      "slate",
-      "Tesla",
-      "Uber",
-      "eclipse",
-      "Loop",
-      "Waymo",
-      "Rivian",
-      "techcrunch mobility"
+      "Startups",
+      "Venture",
+      "Elad Gil",
+      "No Priors",
+      "Sarah Guo"
     ],
-    "isoDate": "2026-04-19T16:01:00.000Z",
+    "isoDate": "2026-04-19T19:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "techcrunch-mobility-uber-enters-its-assetmaxxing-era"
+    "slug": "the-12-month-window"
   },
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Tesla brings its robotaxi service to Dallas and Houston",
-    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "pubDate": "Sat, 18 Apr 2026 21:37:15 +0000",
+    "title": "(No AI) Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+    "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "pubDate": "Sun, 19 Apr 2026 16:30:00 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-    "contentSnippet": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
-    "guid": "https://techcrunch.com/?p=3113986",
+    "content": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+    "contentSnippet": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+    "guid": "https://techcrunch.com/?p=3114010",
     "categories": [
       "AI",
-      "Transportation",
-      "Houston",
-      "robotaxi",
-      "Tesla"
+      "Government & Policy",
+      "Security",
+      "Alexander Karp",
+      "Eliot Higgins",
+      "Palantir"
     ],
-    "isoDate": "2026-04-18T21:37:15.000Z",
+    "isoDate": "2026-04-19T16:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "tesla-brings-its-robotaxi-service-to-dallas-and-houston"
+    "slug": "palantir-posts-mini-manifesto-denouncing-inclusivity-and-regressive-cultures"
+  },
+  {
+    "title": "(No AI) Cloud development platform Vercel was hacked",
+    "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+    "pubDate": "2026-04-19T19:54:52.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Vercel homepage with the tagline “build and deploy on the AI cloud”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nVercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of [ShinyHunters](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/amp/), which was behind the recent hack of [Rockstar Games](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact), posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third-party was involved.\n\n> We've identified a security incident that inv …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/914723/vercel-hacked)",
+    "contentSnippet": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third-party was involved.\n\n\nWe've identified a security incident that inv …\n\n\nRead the full story at The Verge.",
+    "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+    "id": "https://www.theverge.com/?p=914723",
+    "isoDate": "2026-04-19T19:54:52.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "cloud-development-platform-vercel-was-hacked"
   },
   {
     "title": "(No AI) The RAM shortage could last years",
@@ -58,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-ram-shortage-could-last-years"
-  },
-  {
-    "title": "(No AI) OpenAI’s former Sora boss is leaving",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "pubDate": "2026-04-17T21:13:25.000Z",
-    "author": "Jay Peters",
-    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nLast month, [OpenAI gave up on its Sora video generation tool](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt), and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of [many recent changes](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai) as the company moves to focus more on coding and enterprise use.\n\nAs part of a note Peebles posted on X, [he said](https://x.com/billpeeb/status/2045225014807670949?s=20):\n\n> I am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing)",
-    "contentSnippet": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
-    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
-    "id": "https://www.theverge.com/?p=914463",
-    "isoDate": "2026-04-17T21:13:25.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-former-sora-boss-is-leaving"
   },
   {
     "title": "(No AI) Codex for (almost) everything",
