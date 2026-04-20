@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) It’s not just one thing — it’s another thing",
+    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+    "contentSnippet": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+    "guid": "https://techcrunch.com/?p=3114155",
+    "categories": [
+      "AI",
+      "Social",
+      "Generative AI",
+      "social media"
+    ],
+    "isoDate": "2026-04-20T19:37:07.000Z",
+    "source": "TechCrunch AI",
+    "slug": "it-s-not-just-one-thing-it-s-another-thing"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
     "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
@@ -11,62 +30,44 @@
     "categories": [
       "AI",
       "Government & Policy",
-      "Anthropic",
       "cybersecurity",
+      "NSA",
       "dod",
-      "Mythos",
-      "NSA"
+      "Anthropic",
+      "In Brief",
+      "Mythos"
     ],
     "isoDate": "2026-04-20T16:06:21.000Z",
     "source": "TechCrunch AI",
     "slug": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-    "pubDate": "Mon, 20 Apr 2026 15:30:19 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-    "contentSnippet": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-    "guid": "https://techcrunch.com/?p=3114124",
-    "categories": [
-      "AI",
-      "Climate",
-      "fermi",
-      "nuclear"
-    ],
-    "isoDate": "2026-04-20T15:30:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ceo-and-cfo-suddenly-depart-ai-nuclear-power-upstart-fermi"
+    "title": "(No AI) Silicon Valley has forgotten what normal people want",
+    "link": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+    "pubDate": "2026-04-20T20:30:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![A brain is shown, melting in the sun](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images\n\nOne of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns out, is structured into language! You could put one word into ChatGPT and it might understand what you wanted, or make up a word and see if it understood what you meant! These amazing new tools have revealed that the English corpus contains so _much_ about its speakers!\n\nHe concluded that LLMs are a discovery on par with writing.\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)",
+    "contentSnippet": "The long-term risks of the All-In Podcast, illustrated. | Image: Cath Virginia / The Verge, Turbosquid, Getty Images\t\n\nOne of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns out, is structured into language! You could put one word into ChatGPT and it might understand what you wanted, or make up a word and see if it understood what you meant! These amazing new tools have revealed that the English corpus contains so much about its speakers!\nHe concluded that LLMs are a discovery on par with writing. \n …\nRead the full story at The Verge.",
+    "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Knowledge, it turns [&#8230;]",
+    "id": "https://www.theverge.com/?p=915176",
+    "isoDate": "2026-04-20T20:30:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "silicon-valley-has-forgotten-what-normal-people-want"
   },
   {
     "title": "(No AI) Fortnite developers can make AI characters now — just don’t try to date them",
     "link": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
     "pubDate": "2026-04-20T16:58:39.000Z",
     "author": "Jay Peters",
-    "content": "![An image of Fortnite characters.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/fortnite-anti-cheat-update.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFollowing last year's [AI-powered Darth Vader in _Fortnite_](https://www.theverge.com/news/668349/fortnite-star-wars-james-earl-jones-vader-ai-voice) that swore in a recreation of James Earl Jones' voice, Epic Games is now letting _Fortnite_ creators experiment with [a new \"conversations\" tool](https://www.fortnite.com/news/bring-npcs-to-life-with-ai-powered-conversations) to create AI-powered characters that players can talk and interact with.\n\n\"Instead of authoring dialogue trees for characters in your islands, conversations transforms an NPC into an AI-powered character capable of unscripted dialogue and interactions with players, like a quest giver or narrator,\" Epic says. \"You define who the character is with simple prompts-how they think, what they know, and how they behave-and then select a voice that matche …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)",
-    "contentSnippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a recreation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with.\n\"Instead of authoring dialogue trees for characters in your islands, conversations transforms an NPC into an AI-powered character capable of unscripted dialogue and interactions with players, like a quest giver or narrator,\" Epic says. \"You define who the character is with simple prompts-how they think, what they know, and how they behave-and then select a voice that matche …\nRead the full story at The Verge.",
-    "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a recreation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an [&#8230;]",
+    "content": "![An image of Fortnite characters.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/fortnite-anti-cheat-update.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFollowing last year's [AI-powered Darth Vader in _Fortnite_](https://www.theverge.com/news/668349/fortnite-star-wars-james-earl-jones-vader-ai-voice) that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting _Fortnite_ creators experiment with [a new \"conversations\" tool](https://www.fortnite.com/news/bring-npcs-to-life-with-ai-powered-conversations) to create AI-powered characters that players can talk and interact with.\n\n\"Instead of authoring dialogue trees for characters in your islands, conversations transforms an NPC into an AI-powered character capable of unscripted dialogue and interactions with players, like a quest giver or narrator,\" Epic says. \"You define who the character is with simple prompts-how they think, what they know, and how they behave-and then select a voice that match …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)",
+    "contentSnippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with.\n\"Instead of authoring dialogue trees for characters in your islands, conversations transforms an NPC into an AI-powered character capable of unscripted dialogue and interactions with players, like a quest giver or narrator,\" Epic says. \"You define who the character is with simple prompts-how they think, what they know, and how they behave-and then select a voice that match …\nRead the full story at The Verge.",
+    "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an [&#8230;]",
     "id": "https://www.theverge.com/?p=914963",
     "isoDate": "2026-04-20T16:58:39.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/fortnite-anti-cheat-update.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "fortnite-developers-can-make-ai-characters-now-just-don-t-try-to-date-them"
-  },
-  {
-    "title": "(No AI) Cloud development platform Vercel was hacked",
-    "link": "https://www.theverge.com/tech/914723/vercel-hacked",
-    "pubDate": "2026-04-19T19:54:52.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Vercel homepage with the tagline “build and deploy on the AI cloud”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nVercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of [ShinyHunters](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/amp/), which was behind the recent hack of [Rockstar Games](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact), posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third party was involved.\n\n> We've identified a security incident that inv …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/914723/vercel-hacked)",
-    "contentSnippet": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third party was involved.\n\n\nWe've identified a security incident that inv …\n\n\nRead the full story at The Verge.",
-    "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
-    "id": "https://www.theverge.com/?p=914723",
-    "isoDate": "2026-04-19T19:54:52.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "cloud-development-platform-vercel-was-hacked"
   },
   {
     "title": "(No AI) OpenAI helps Hyatt advance AI among colleagues ",
