@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI’s existential questions",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "pubDate": "Sun, 19 Apr 2026 21:24:06 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+    "contentSnippet": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+    "guid": "https://techcrunch.com/?p=3114050",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "Equity podcast",
+      "OpenAI"
+    ],
+    "isoDate": "2026-04-19T21:24:06.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-s-existential-questions"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) The 12-month window",
     "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
@@ -19,27 +38,6 @@
     "isoDate": "2026-04-19T19:30:00.000Z",
     "source": "TechCrunch AI",
     "slug": "the-12-month-window"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-    "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-    "pubDate": "Sun, 19 Apr 2026 16:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-    "contentSnippet": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-    "guid": "https://techcrunch.com/?p=3114010",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Security",
-      "Alexander Karp",
-      "Eliot Higgins",
-      "Palantir"
-    ],
-    "isoDate": "2026-04-19T16:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "palantir-posts-mini-manifesto-denouncing-inclusivity-and-regressive-cultures"
   },
   {
     "title": "(No AI) Cloud development platform Vercel was hacked",
