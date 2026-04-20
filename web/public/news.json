@@ -68,6 +68,20 @@
     "slug": "the-ram-shortage-could-last-years"
   },
   {
+    "title": "(No AI) OpenAI helps Hyatt advance AI among colleagues ",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "content": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "contentSnippet": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "guid": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-04-20T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-helps-hyatt-advance-ai-among-colleagues"
+  },
+  {
     "title": "(No AI) Codex for (almost) everything",
     "link": "https://openai.com/index/codex-for-almost-everything",
     "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
@@ -80,20 +94,6 @@
     "isoDate": "2026-04-16T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "codex-for-almost-everything"
-  },
-  {
-    "title": "(No AI) Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
-    "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-    "contentSnippet": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-    "guid": "https://openai.com/index/introducing-gpt-rosalind",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-04-16T01:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-gpt-rosalind-for-life-sciences-research"
   },
   {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
@@ -118,40 +118,37 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
-    "title": "(No AI) It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
-    "dc:creator": "Dell Cameron, Maddy Varner, Andy Greenberg, Andrew Couts",
-    "content": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "contentSnippet": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "guid": "69e26d517cc0742ca47575ff",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-04-18T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "it-takes-2-minutes-to-hack-the-eu-s-new-age-verification-app"
-  },
-  {
     "creator": "Boone Ashworth",
-    "title": "(No AI) Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000",
+    "title": "(No AI) Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+    "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+    "pubDate": "Mon, 20 Apr 2026 13:00:00 +0000",
     "dc:creator": "Boone Ashworth",
-    "content": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "contentSnippet": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
-    "guid": "69e2546a7ea9068b109b1cfc",
+    "content": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+    "contentSnippet": "The pasta-sauce company has partnered with the nonprofit StoryCorps on a device designed to record family conversations around the table and save them for all time.",
+    "guid": "69e14a971c5a71c2a139517c",
     "categories": [
       "Gear",
       "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-04-18T10:30:00.000Z",
+    "isoDate": "2026-04-20T13:00:00.000Z",
     "source": "Wired AI",
-    "slug": "schematik-is-cursor-for-hardware-anthropic-wants-in"
+    "slug": "prego-has-a-dinner-conversation-recording-device-capisce"
+  },
+  {
+    "creator": "Miles Klee",
+    "title": "(No AI) Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+    "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+    "pubDate": "Mon, 20 Apr 2026 11:00:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+    "contentSnippet": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+    "guid": "69dea123470247830bd6cf49",
+    "categories": [
+      "Culture",
+      "Culture / Culture News"
+    ],
+    "isoDate": "2026-04-20T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "tech-ceos-think-ai-will-let-them-be-everywhere-at-once"
   }
 ]
