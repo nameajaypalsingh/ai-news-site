@@ -1,72 +1,69 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "pubDate": "Tue, 21 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-    "contentSnippet": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-    "guid": "https://techcrunch.com/?p=3114469",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "pubDate": "Tue, 21 Apr 2026 20:23:24 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "contentSnippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "guid": "https://techcrunch.com/?p=3114736",
     "categories": [
+      "TC",
+      "Hardware",
+      "AI"
+    ],
+    "isoDate": "2026-04-21T20:23:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "apple-s-john-ternus-will-run-one-of-the-world-s-most-powerful-companies-the-job-is-a-minefield"
+  },
+  {
+    "creator": "Marina Temkin",
+    "title": "(No AI) AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "pubDate": "Tue, 21 Apr 2026 19:11:29 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "contentSnippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "guid": "https://techcrunch.com/?p=3114819",
+    "categories": [
+      "AI",
       "Startups",
-      "AI",
-      "Gaming",
-      "RPG",
-      "Generative AI",
-      "ai gaming"
+      "AI agents",
+      "AI Lab",
+      "researchers"
     ],
-    "isoDate": "2026-04-21T16:00:00.000Z",
+    "isoDate": "2026-04-21T19:11:29.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-dungeon-maker-latitude-unveils-voyage-a-platform-for-creating-ai-powered-rpgs"
+    "slug": "ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-    "pubDate": "Tue, 21 Apr 2026 15:24:29 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-    "contentSnippet": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-    "guid": "https://techcrunch.com/?p=3112090",
-    "categories": [
-      "AI",
-      "Apps",
-      "Social",
-      "Bond",
-      "social media"
-    ],
-    "isoDate": "2026-04-21T15:24:29.000Z",
-    "source": "TechCrunch AI",
-    "slug": "bond-a-new-social-media-platform-wants-to-use-ai-to-help-you-kick-your-doomscrolling-habit"
-  },
-  {
-    "title": "(No AI) Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
-    "pubDate": "2026-04-21T16:19:40.000Z",
-    "author": "David Pierce",
-    "content": "![A screenshot showing the Starbucks ChatGPT experience.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Starbucks-App-in-ChatGPT.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYou just cannot convince me this is how people order coffee. | Image: Starbucks\n\nVenti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate to say the words aloud; in the app, it's four taps and I'm ready to go.\n\nMy first time ordering Starbucks through its new ChatGPT integration, [which launched last week](https://about.starbucks.com/press/2026/a-new-way-to-inspire-your-starbucks-order/), was comparatively a complete mess. Getting started is easy enough, if not exactly obvious: Just open ChatGPT and type \"@Starbucks\" plus your order. You can probably guess what happens next, right …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)",
-    "contentSnippet": "You just cannot convince me this is how people order coffee. | Image: Starbucks\t\n\nVenti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate to say the words aloud; in the app, it's four taps and I'm ready to go.\nMy first time ordering Starbucks through its new ChatGPT integration, which launched last week, was comparatively a complete mess. Getting started is easy enough, if not exactly obvious: Just open ChatGPT and type \"@Starbucks\" plus your order. You can probably guess what happens next, right …\nRead the full story at The Verge.",
-    "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate [&#8230;]",
-    "id": "https://www.theverge.com/?p=915821",
-    "isoDate": "2026-04-21T16:19:40.000Z",
+    "title": "(No AI) AI backlash is coming for elections",
+    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "pubDate": "2026-04-21T19:00:05.000Z",
+    "author": "Lauren Feiner",
+    "content": "![Graphic photo illustration of a voting sign that reads “Vote here”.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAsk Americans how they feel about AI and [most say](https://www.ipsos.com/en-us/what-americans-agree-about-ai) they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning [violence](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home).\n\nBut look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say.\n\n[More than 60 percent](https://www.ipsos.com/en-us/what-americans-agree-about-ai) of both Republicans and Democrats polled by Ipsos earlier this year agree that the government should regulate AI for economic stability and public safety, and that the technology's development should slow down. Still, \"when you just ask folks, 'w …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs)",
+    "contentSnippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence.\nBut look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say.\nMore than 60 percent of both Republicans and Democrats polled by Ipsos earlier this year agree that the government should regulate AI for economic stability and public safety, and that the technology's development should slow down. Still, \"when you just ask folks, 'w …\nRead the full story at The Verge.",
+    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+    "id": "https://www.theverge.com/?p=916210",
+    "isoDate": "2026-04-21T19:00:05.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Starbucks-App-in-ChatGPT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ordering-with-the-starbucks-chatgpt-app-was-a-true-coffee-nightmare"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-backlash-is-coming-for-elections"
   },
   {
-    "title": "(No AI) John Ternus’ first big problem is AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
-    "pubDate": "2026-04-21T13:37:55.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo collage of John](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLess than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once.\n\nTernus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in about 30 years to come from the hardware sector. According to Apple, he's led hardware engineering work for every model of iPad, as well as the most rec …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri)",
-    "contentSnippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. \nTernus, currently Apple's SVP of hardware engineering, will take over as CEO on September 1st, after Cook's decade and a half in the role. Ternus is a 25-year veteran of the company and the first Apple CEO in about 30 years to come from the hardware sector. According to Apple, he's led hardware engineering work for every model of iPad, as well as the most rec …\nRead the full story at The Verge.",
-    "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware [&#8230;]",
-    "id": "https://www.theverge.com/?p=915662",
-    "isoDate": "2026-04-21T13:37:55.000Z",
+    "title": "(No AI) OpenAI’s updated image generator can now pull information from the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "pubDate": "2026-04-21T19:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![An image generated by ChatGPT Images 2](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100)\n\nAn image generated by ChatGPT Images 2.0. | Image: OpenAI\n\nOpenAI is [rolling out the latest version](https://x.com/OpenAI/status/2046670977145372771?s=20) of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text.\n\nIt's powered by OpenAI's new GPT Image 2 model, with new thinking capabilities available to ChatGPT Plus, Pro, Business, and Enterprise subscribers. When a thinking model is selected, the chatbot's image generator can pull information from the w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)",
+    "contentSnippet": "An image generated by ChatGPT Images 2.0. | Image: OpenAI\t\n\nOpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text.\nIt's powered by OpenAI's new GPT Image 2 model, with new thinking capabilities available to ChatGPT Plus, Pro, Business, and Enterprise subscribers. When a thinking model is selected, the chatbot's image generator can pull information from the w …\nRead the full story at The Verge.",
+    "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve [&#8230;]",
+    "id": "https://www.theverge.com/?p=916166",
+    "isoDate": "2026-04-21T19:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "john-ternus-first-big-problem-is-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-updated-image-generator-can-now-pull-information-from-the-web"
   },
   {
     "title": "(No AI) Scaling Codex to enterprises worldwide",
@@ -119,37 +116,39 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
-    "creator": "Ej Dickson ",
-    "title": "(No AI) This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men",
-    "link": "https://www.wired.com/story/ai-generated-maga-girls/",
-    "pubDate": "Tue, 21 Apr 2026 11:00:00 +0000",
-    "dc:creator": "Ej Dickson ",
-    "content": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
-    "contentSnippet": "A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.",
-    "guid": "69d411e769e358e539eff9b2",
+    "creator": "Reece Rogers",
+    "title": "(No AI) OpenAI Beefs Up ChatGPT’s Image Generation Model",
+    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "contentSnippet": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "guid": "69e7a4288d70372b131da795",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-04-21T11:00:00.000Z",
+    "isoDate": "2026-04-21T19:00:00.000Z",
     "source": "Wired AI",
-    "slug": "this-scammer-used-an-ai-generated-maga-girl-to-grift-super-dumb-men"
+    "slug": "openai-beefs-up-chatgpt-s-image-generation-model"
   },
   {
-    "creator": "Javier Carbajal",
-    "title": "(No AI) A Humanoid Robot Set a Half-Marathon Record in China",
-    "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-    "pubDate": "Mon, 20 Apr 2026 22:33:27 +0000",
-    "dc:creator": "Javier Carbajal",
-    "content": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-    "contentSnippet": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-    "guid": "69e6770812f0195156ae43dd",
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+    "pubDate": "Tue, 21 Apr 2026 18:30:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+    "contentSnippet": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+    "guid": "69e694ad12f0195156ae45c3",
     "categories": [
-      "Business",
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-20T22:33:27.000Z",
+    "isoDate": "2026-04-21T18:30:00.000Z",
     "source": "Wired AI",
-    "slug": "a-humanoid-robot-set-a-half-marathon-record-in-china"
+    "slug": "mozilla-used-anthropic-s-mythos-to-find-and-fix-271-bugs-in-firefox"
   }
 ]
