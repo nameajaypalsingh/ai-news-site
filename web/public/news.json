@@ -1,45 +1,45 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) It’s not just one thing — it’s another thing",
-    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-    "pubDate": "Mon, 20 Apr 2026 19:37:07 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-    "contentSnippet": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
-    "guid": "https://techcrunch.com/?p=3114155",
+    "creator": "Julie Bort",
+    "title": "(No AI) Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "pubDate": "Mon, 20 Apr 2026 23:10:27 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "contentSnippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "guid": "https://techcrunch.com/?p=3114441",
     "categories": [
       "AI",
-      "Social",
-      "Generative AI",
-      "social media"
+      "Amazon",
+      "Anthropic",
+      "AWS",
+      "data center",
+      "In Brief"
     ],
-    "isoDate": "2026-04-20T19:37:07.000Z",
+    "isoDate": "2026-04-20T23:10:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "it-s-not-just-one-thing-it-s-another-thing"
+    "slug": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "pubDate": "Mon, 20 Apr 2026 16:06:21 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-    "contentSnippet": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-    "guid": "https://techcrunch.com/?p=3114150",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google rolls out Gemini in Chrome in 7 new countries",
+    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "pubDate": "Mon, 20 Apr 2026 22:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+    "contentSnippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+    "guid": "https://techcrunch.com/?p=3114079",
     "categories": [
       "AI",
-      "Government & Policy",
-      "cybersecurity",
-      "NSA",
-      "dod",
-      "Anthropic",
-      "In Brief",
-      "Mythos"
+      "Apps",
+      "Chrome",
+      "gemini",
+      "Google",
+      "In Brief"
     ],
-    "isoDate": "2026-04-20T16:06:21.000Z",
+    "isoDate": "2026-04-20T22:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud"
+    "slug": "google-rolls-out-gemini-in-chrome-in-7-new-countries"
   },
   {
     "title": "(No AI) Silicon Valley has forgotten what normal people want",
@@ -120,6 +120,23 @@
     "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
   },
   {
+    "creator": "Javier Carbajal",
+    "title": "(No AI) A Humanoid Robot Set a Half-Marathon Record in China",
+    "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "pubDate": "Mon, 20 Apr 2026 22:33:27 +0000",
+    "dc:creator": "Javier Carbajal",
+    "content": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+    "contentSnippet": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+    "guid": "69e6770812f0195156ae43dd",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-20T22:33:27.000Z",
+    "source": "Wired AI",
+    "slug": "a-humanoid-robot-set-a-half-marathon-record-in-china"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) Prego Has a Dinner-Conversation-Recording Device, Capisce?",
     "link": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
@@ -135,22 +152,5 @@
     "isoDate": "2026-04-20T13:00:00.000Z",
     "source": "Wired AI",
     "slug": "prego-has-a-dinner-conversation-recording-device-capisce"
-  },
-  {
-    "creator": "Miles Klee",
-    "title": "(No AI) Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-    "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
-    "pubDate": "Mon, 20 Apr 2026 11:00:00 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-    "contentSnippet": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-    "guid": "69dea123470247830bd6cf49",
-    "categories": [
-      "Culture",
-      "Culture / Culture News"
-    ],
-    "isoDate": "2026-04-20T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "tech-ceos-think-ai-will-let-them-be-everywhere-at-once"
   }
 ]
