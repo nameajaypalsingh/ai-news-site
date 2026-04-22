@@ -1,73 +1,73 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "pubDate": "Wed, 22 Apr 2026 19:51:51 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "contentSnippet": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "guid": "https://techcrunch.com/?p=3115422",
+    "categories": [
+      "AI",
+      "Startups",
+      "cursor",
+      "Mergers and Acquisitions",
+      "SpaceX"
+    ],
+    "isoDate": "2026-04-22T19:51:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer"
+  },
+  {
     "creator": "Julie Bort",
-    "title": "(No AI) Google makes an interesting choice with its new agent building tool for enterprises",
-    "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-    "pubDate": "Wed, 22 Apr 2026 16:58:27 +0000",
+    "title": "(No AI) Google Cloud launches two new AI chips to compete with Nvidia",
+    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "pubDate": "Wed, 22 Apr 2026 18:39:27 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
-    "contentSnippet": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
-    "guid": "https://techcrunch.com/?p=3115286",
+    "content": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "contentSnippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "guid": "https://techcrunch.com/?p=3115340",
     "categories": [
       "AI",
       "Enterprise",
-      "TC",
-      "AI agents",
+      "AI chips",
       "Google",
-      "Google Cloud Next"
+      "google cloud",
+      "Google Cloud Next",
+      "nvidia"
     ],
-    "isoDate": "2026-04-22T16:58:27.000Z",
+    "isoDate": "2026-04-22T18:39:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises"
+    "slug": "google-cloud-launches-two-new-ai-chips-to-compete-with-nvidia"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) AI Overviews are coming to your Gmail at work",
-    "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-    "pubDate": "Wed, 22 Apr 2026 16:46:10 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-    "contentSnippet": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-    "guid": "https://techcrunch.com/?p=3115288",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "ai overviews",
-      "gemini",
-      "gmail",
-      "Google",
-      "Google Cloud Next"
-    ],
-    "isoDate": "2026-04-22T16:46:10.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ai-overviews-are-coming-to-your-gmail-at-work"
-  },
-  {
-    "title": "(No AI) Anthropic’s Mythos rollout has missed America’s cyberscurity agency",
-    "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-    "pubDate": "2026-04-22T16:57:36.000Z",
+    "title": "(No AI) AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+    "pubDate": "2026-04-22T20:29:05.000Z",
     "author": "Lauren Feiner",
-    "content": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.\n\nOn Tuesday, [_Axios_ reported](https://www.axios.com/2026/04/21/cisa-anthropic-mythos-ai-security) that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like [Commerce Department](https://www.politico.com/news/2026/04/14/anthropic-mythos-federal-agency-testing-00872439) and [National Security Agency (NSA)](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon) are reportedly using the model, and President Donald Trump's administration has been negotiating broader access, [_Axios_ wrote](https://www.axios.com/2026/04/16/white-house-anthropic-ai-mythos-government-national-security) last w …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out)",
-    "contentSnippet": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. \nOn Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like Commerce Department and National Security Agency (NSA) are reportedly using the model, and President Donald Trump's administration has been negotiating broader access, Axios wrote last w …\nRead the full story at The Verge.",
-    "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool [&#8230;]",
-    "id": "https://www.theverge.com/?p=916758",
-    "isoDate": "2026-04-22T16:57:36.000Z",
+    "content": "![Sen. Elizabeth Warren (D-MA)](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n\"I know a bubble when I see one.\"\n\nThat's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a tinderbox and Congress should step in.\n\nThough the AI industry has grown rapidly, Warren said the pace isn't keeping up with their spending, requiring the …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren)",
+    "contentSnippet": "\"I know a bubble when I see one.\"\nThat's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to that crisis in the AI industry. While she believes the technology has \"enormous potential,\" she warned that AI companies' massive spending and borrowing practices are creating a tinderbox and Congress should step in.\nThough the AI industry has grown rapidly, Warren said the pace isn't keeping up with their spending, requiring the …\nRead the full story at The Verge.",
+    "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to [&#8230;]",
+    "id": "https://www.theverge.com/?p=917026",
+    "isoDate": "2026-04-22T20:29:05.000Z",
     "source": "The Verge AI",
-    "slug": "anthropic-s-mythos-rollout-has-missed-america-s-cyberscurity-agency"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-failure-could-trigger-the-next-financial-crisis-warns-elizabeth-warren"
   },
   {
-    "title": "(No AI) Google Meet will take AI notes for in-person meetings too",
-    "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-    "pubDate": "2026-04-22T16:38:19.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Google Meet logo on a light grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of [in-person meetings](https://workspace.google.com/blog/product-announcements/10-more-announcements-workspace-at-next-2026) now, as well as meetings on Zoom and Microsoft Teams, as first reported by [_9to5Google_](https://9to5google.com/2026/04/22/google-workspace-next-2026/).\n\nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's [support page for the feature](https://support.google.com/meet/answer/17020724?hl=en-IE&ref_topic=14073938) notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The feature also works for impromptu meetings - Google says you \"don't need to be in a meeting room\" or in a previously-scheduled meeting to use it.\n\n![A GIF of two people using Gemini to take notes for an in-person meeting](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/InPerson_TNFM_BlogPost_10MB.gif?quality=90&strip=all&crop=0,0,100,100 \"A GIF of two people using Gemini to take notes for an in-person meeting\")\n\nUs …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)",
-    "contentSnippet": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. \nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The feature also works for impromptu meetings - Google says you \"don't need to be in a meeting room\" or in a previously-scheduled meeting to use it. \nUs …\nRead the full story at The Verge.",
-    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]",
-    "id": "https://www.theverge.com/?p=916779",
-    "isoDate": "2026-04-22T16:38:19.000Z",
+    "title": "(No AI) OpenAI now lets teams make custom bots that can do work on their own",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "pubDate": "2026-04-22T20:09:02.000Z",
+    "author": "Jay Peters",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In [its blog post](https://openai.com/index/introducing-workspace-agents-in-chatgpt/), OpenAI gives examples of agents like one that [finds product feedback on the web](https://www.youtube.com/watch?v=bk2H8WfHZZk) and sends a report in Slack and a sales agent that [can draft follow-up emails](https://www.youtube.com/watch?v=HJlME6S-LJc) in Gmail.\n\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that [touts itself](https://openclaw.ai/) as the \"AI that actually does things\" - [went viral](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent). OpenClaw founder Peter Steinberger [now works for OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai). OpenA …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)",
+    "contentSnippet": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail.\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that touts itself as the \"AI that actually does things\" - went viral. OpenClaw founder Peter Steinberger now works for OpenAI. OpenA …\nRead the full story at The Verge.",
+    "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can [&#8230;]",
+    "id": "https://www.theverge.com/?p=917065",
+    "isoDate": "2026-04-22T20:09:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-meet-will-take-ai-notes-for-in-person-meetings-too"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own"
   },
   {
     "title": "(No AI) Speeding up agentic workflows with WebSockets in the Responses API",
@@ -84,18 +84,18 @@
     "slug": "speeding-up-agentic-workflows-with-websockets-in-the-responses-api"
   },
   {
-    "title": "(No AI) Introducing OpenAI Privacy Filter",
-    "link": "https://openai.com/index/introducing-openai-privacy-filter",
-    "pubDate": "Wed, 22 Apr 2026 00:00:00 GMT",
-    "content": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-    "contentSnippet": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-    "guid": "https://openai.com/index/introducing-openai-privacy-filter",
+    "title": "(No AI) Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "content": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "contentSnippet": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "guid": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
     "categories": [
-      "Research"
+      "Product"
     ],
-    "isoDate": "2026-04-22T00:00:00.000Z",
+    "isoDate": "2026-04-22T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-openai-privacy-filter"
+    "slug": "introducing-workspace-agents-in-chatgpt"
   },
   {
     "title": "(No AI) Partnering with industry leaders to accelerate AI transformation",
@@ -120,6 +120,23 @@
     "slug": "gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) 5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "pubDate": "Wed, 22 Apr 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "contentSnippet": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "guid": "69e658a3d29b04dda3ee9ff9",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-22T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "5-ai-models-tried-to-scam-me-some-of-them-were-scary-good"
+  },
+  {
     "creator": "Andy Greenberg, Matt Burgess",
     "title": "(No AI) AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
     "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
@@ -137,22 +154,5 @@
     "isoDate": "2026-04-22T16:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions"
-  },
-  {
-    "creator": "Zoë Schiffer, Paresh Dave, Maxwell Zeff",
-    "title": "(No AI) Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-    "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
-    "dc:creator": "Zoë Schiffer, Paresh Dave, Maxwell Zeff",
-    "content": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-    "contentSnippet": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-    "guid": "69e24e8704c989eedf38a877",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-04-22T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "join-our-livestream-musk-v-altman-and-the-future-of-openai"
   }
 ]
