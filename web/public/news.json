@@ -1,50 +1,55 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Meta will record employees’ keystrokes and use it to train its AI models",
-    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "pubDate": "Tue, 21 Apr 2026 23:45:21 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-    "contentSnippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-    "guid": "https://techcrunch.com/?p=3114951",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+    "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "pubDate": "Wed, 22 Apr 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "contentSnippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "guid": "https://techcrunch.com/?p=3114773",
     "categories": [
+      "Biotech & Health",
       "AI",
-      "AI training",
-      "In Brief",
-      "Meta"
+      "Exclusive",
+      "10x Science"
     ],
-    "isoDate": "2026-04-21T23:45:21.000Z",
+    "isoDate": "2026-04-22T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models"
+    "slug": "ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "pubDate": "Tue, 21 Apr 2026 23:26:45 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-    "contentSnippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-    "guid": "https://techcrunch.com/?p=3114961",
+    "creator": "Julie Bort",
+    "title": "(No AI) The most interesting startups showcased at Google Cloud Next 2026",
+    "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "pubDate": "Wed, 22 Apr 2026 12:00:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "contentSnippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "guid": "https://techcrunch.com/?p=3114228",
     "categories": [
+      "TC",
+      "Startups",
       "AI",
-      "Anthropic",
-      "cybersecurity",
-      "Mythos"
+      "Exclusive",
+      "google cloud",
+      "interact",
+      "Notion",
+      "Google Cloud Next",
+      "Lovable"
     ],
-    "isoDate": "2026-04-21T23:26:45.000Z",
+    "isoDate": "2026-04-22T12:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cyber-tool-mythos-report-claims"
+    "slug": "the-most-interesting-startups-showcased-at-google-cloud-next-2026"
   },
   {
     "title": "(No AI) Anthropic’s most dangerous AI model just fell into the wrong hands",
     "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
     "pubDate": "2026-04-22T09:18:40.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Vector illustration of the Anthropic logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\n\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)",
-    "contentSnippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\nRead the full story at The Verge.",
-    "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
+    "content": "![Vector illustration of the Anthropic logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\n\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)",
+    "contentSnippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\nRead the full story at The Verge.",
+    "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
     "id": "https://www.theverge.com/?p=916501",
     "isoDate": "2026-04-22T09:18:40.000Z",
     "source": "The Verge AI",
@@ -94,6 +99,17 @@
     "slug": "openai-helps-hyatt-advance-ai-among-colleagues"
   },
   {
+    "title": "(No AI) Partnering with industry leaders to accelerate AI transformation",
+    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
+    "content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+    "contentSnippet": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+    "guid": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "isoDate": "2026-04-21T14:54:15.000Z",
+    "source": "Google DeepMind",
+    "slug": "partnering-with-industry-leaders-to-accelerate-ai-transformation"
+  },
+  {
     "title": "(No AI) Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
     "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
     "pubDate": "Wed, 15 Apr 2026 16:03:19 +0000",
@@ -105,50 +121,35 @@
     "slug": "gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech"
   },
   {
-    "title": "(No AI) Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "pubDate": "Mon, 13 Apr 2026 15:52:13 +0000",
-    "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-    "contentSnippet": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
-    "guid": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "isoDate": "2026-04-13T15:52:13.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-robotics-er-1-6-powering-real-world-robotics-tasks-through-enhanced-embodied-reasoning"
+    "title": "(No AI) Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "content": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+    "contentSnippet": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+    "guid": "69e24e8704c989eedf38a877",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-04-22T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "join-our-livestream-musk-v-altman-and-the-future-of-openai"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) OpenAI Beefs Up ChatGPT’s Image Generation Model",
-    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-    "pubDate": "Tue, 21 Apr 2026 19:00:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-    "contentSnippet": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-    "guid": "69e7a4288d70372b131da795",
+    "creator": "Miles Klee",
+    "title": "(No AI) The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+    "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+    "pubDate": "Wed, 22 Apr 2026 09:30:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+    "contentSnippet": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+    "guid": "69e6bef4908d18c066eccba9",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
+      "Culture",
+      "Culture / Digital Culture"
     ],
-    "isoDate": "2026-04-21T19:00:00.000Z",
+    "isoDate": "2026-04-22T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-beefs-up-chatgpt-s-image-generation-model"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-    "pubDate": "Tue, 21 Apr 2026 18:30:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-    "contentSnippet": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-    "guid": "69e694ad12f0195156ae45c3",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-21T18:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "mozilla-used-anthropic-s-mythos-to-find-and-fix-271-bugs-in-firefox"
+    "slug": "the-pope-s-warnings-about-ai-were-ai-generated-a-detection-tool-claims"
   }
 ]
