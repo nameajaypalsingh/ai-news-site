@@ -1,41 +1,54 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-    "pubDate": "Tue, 21 Apr 2026 20:23:24 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-    "contentSnippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-    "guid": "https://techcrunch.com/?p=3114736",
-    "categories": [
-      "TC",
-      "Hardware",
-      "AI"
-    ],
-    "isoDate": "2026-04-21T20:23:24.000Z",
-    "source": "TechCrunch AI",
-    "slug": "apple-s-john-ternus-will-run-one-of-the-world-s-most-powerful-companies-the-job-is-a-minefield"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "pubDate": "Tue, 21 Apr 2026 19:11:29 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-    "contentSnippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-    "guid": "https://techcrunch.com/?p=3114819",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta will record employees’ keystrokes and use it to train its AI models",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "pubDate": "Tue, 21 Apr 2026 23:45:21 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "contentSnippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "guid": "https://techcrunch.com/?p=3114951",
     "categories": [
       "AI",
-      "Startups",
-      "AI agents",
-      "AI Lab",
-      "researchers"
+      "Meta",
+      "Slack"
     ],
-    "isoDate": "2026-04-21T19:11:29.000Z",
+    "isoDate": "2026-04-21T23:45:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans"
+    "slug": "meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "pubDate": "Tue, 21 Apr 2026 23:26:45 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "contentSnippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "guid": "https://techcrunch.com/?p=3114961",
+    "categories": [
+      "AI",
+      "cybersecurity",
+      "Anthropic",
+      "Mythos"
+    ],
+    "isoDate": "2026-04-21T23:26:45.000Z",
+    "source": "TechCrunch AI",
+    "slug": "unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cyber-tool-mythos-report-claims"
+  },
+  {
+    "title": "(No AI) SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "pubDate": "2026-04-21T22:45:37.000Z",
+    "author": "Richard Lawler",
+    "content": "![Photo of rocket launch with SpaceX logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith an [IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch), SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by _[The Information](https://www.theinformation.com/articles/google-creates-strike-team-improve-coding-models)_ this week said Sergey Brin has directed Google's \"strike team\" to [help its agentic AI tools catch up](https://www.theverge.com/tech/914996/sergey-brin-said-google-needs-to-catch-up-to-anthropic-on-ai-coding-agents), while Sam Altman reportedly declared [a \"code red\"](https://www.theverge.com/news/836212/openai-code-red-chatgpt) at OpenAI last year before shutting down Sora to focus on the ChatGPT superapp and its own [Codex](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos) too …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)",
+    "contentSnippet": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up, while Sam Altman reportedly declared a \"code red\" at OpenAI last year before shutting down Sora to focus on the ChatGPT superapp and its own Codex too …\nRead the full story at The Verge.",
+    "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#8230;]",
+    "id": "https://www.theverge.com/?p=916427",
+    "isoDate": "2026-04-21T22:45:37.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion"
   },
   {
     "title": "(No AI) AI backlash is coming for elections",
@@ -50,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-backlash-is-coming-for-elections"
-  },
-  {
-    "title": "(No AI) OpenAI’s updated image generator can now pull information from the web",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-    "pubDate": "2026-04-21T19:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![An image generated by ChatGPT Images 2](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100)\n\nAn image generated by ChatGPT Images 2.0. | Image: OpenAI\n\nOpenAI is [rolling out the latest version](https://x.com/OpenAI/status/2046670977145372771?s=20) of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text.\n\nIt's powered by OpenAI's new GPT Image 2 model, with new thinking capabilities available to ChatGPT Plus, Pro, Business, and Enterprise subscribers. When a thinking model is selected, the chatbot's image generator can pull information from the w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2)",
-    "contentSnippet": "An image generated by ChatGPT Images 2.0. | Image: OpenAI\t\n\nOpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve details of your choosing, and generate text.\nIt's powered by OpenAI's new GPT Image 2 model, with new thinking capabilities available to ChatGPT Plus, Pro, Business, and Enterprise subscribers. When a thinking model is selected, the chatbot's image generator can pull information from the w …\nRead the full story at The Verge.",
-    "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve [&#8230;]",
-    "id": "https://www.theverge.com/?p=916166",
-    "isoDate": "2026-04-21T19:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-updated-image-generator-can-now-pull-information-from-the-web"
   },
   {
     "title": "(No AI) Scaling Codex to enterprises worldwide",
