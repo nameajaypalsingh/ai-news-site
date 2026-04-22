@@ -38,6 +38,20 @@
     "slug": "unauthorized-group-has-gained-access-to-anthropic-s-exclusive-cyber-tool-mythos-report-claims"
   },
   {
+    "title": "(No AI) Anthropic’s most dangerous AI model just fell into the wrong hands",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+    "pubDate": "2026-04-22T09:18:40.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Vector illustration of the Anthropic logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\n\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)",
+    "contentSnippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\nRead the full story at The Verge.",
+    "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorised users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
+    "id": "https://www.theverge.com/?p=916501",
+    "isoDate": "2026-04-22T09:18:40.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands"
+  },
+  {
     "title": "(No AI) SpaceX cuts a deal to maybe buy Cursor for $60 billion",
     "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
     "pubDate": "2026-04-21T22:45:37.000Z",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion"
-  },
-  {
-    "title": "(No AI) AI backlash is coming for elections",
-    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-    "pubDate": "2026-04-21T19:00:05.000Z",
-    "author": "Lauren Feiner",
-    "content": "![Graphic photo illustration of a voting sign that reads “Vote here”.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAsk Americans how they feel about AI and [most say](https://www.ipsos.com/en-us/what-americans-agree-about-ai) they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning [violence](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home).\n\nBut look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say.\n\n[More than 60 percent](https://www.ipsos.com/en-us/what-americans-agree-about-ai) of both Republicans and Democrats polled by Ipsos earlier this year agree that the government should regulate AI for economic stability and public safety, and that the technology's development should slow down. Still, \"when you just ask folks, 'w …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs)",
-    "contentSnippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence.\nBut look at the issues that most campaigns are focused on, and AI is far less prevalent, experts say.\nMore than 60 percent of both Republicans and Democrats polled by Ipsos earlier this year agree that the government should regulate AI for economic stability and public safety, and that the technology's development should slow down. Still, \"when you just ask folks, 'w …\nRead the full story at The Verge.",
-    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
-    "id": "https://www.theverge.com/?p=916210",
-    "isoDate": "2026-04-21T19:00:05.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-backlash-is-coming-for-elections"
   },
   {
     "title": "(No AI) Scaling Codex to enterprises worldwide",
