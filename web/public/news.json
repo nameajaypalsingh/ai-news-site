@@ -1,102 +1,101 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-    "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-    "pubDate": "Wed, 22 Apr 2026 13:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-    "contentSnippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-    "guid": "https://techcrunch.com/?p=3114773",
-    "categories": [
-      "Biotech & Health",
-      "AI",
-      "Exclusive",
-      "10x Science"
-    ],
-    "isoDate": "2026-04-22T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter"
-  },
-  {
     "creator": "Julie Bort",
-    "title": "(No AI) The most interesting startups showcased at Google Cloud Next 2026",
-    "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-    "pubDate": "Wed, 22 Apr 2026 12:00:00 +0000",
+    "title": "(No AI) Google makes an interesting choice with its new agent building tool for enterprises",
+    "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "pubDate": "Wed, 22 Apr 2026 16:58:27 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "contentSnippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "guid": "https://techcrunch.com/?p=3114228",
+    "content": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+    "contentSnippet": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+    "guid": "https://techcrunch.com/?p=3115286",
     "categories": [
-      "TC",
-      "Startups",
       "AI",
-      "Exclusive",
-      "google cloud",
-      "interact",
-      "Notion",
-      "Google Cloud Next",
-      "Lovable"
+      "Enterprise",
+      "TC",
+      "AI agents",
+      "Google",
+      "Google Cloud Next"
     ],
-    "isoDate": "2026-04-22T12:00:00.000Z",
+    "isoDate": "2026-04-22T16:58:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-most-interesting-startups-showcased-at-google-cloud-next-2026"
+    "slug": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises"
   },
   {
-    "title": "(No AI) Anthropic’s most dangerous AI model just fell into the wrong hands",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
-    "pubDate": "2026-04-22T09:18:40.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Vector illustration of the Anthropic logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\n\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)",
-    "contentSnippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum got into Mythos via a mix of tactics, utilizing the contractor's access and \"commonly used internet sleuthing tools.\"\nThe Claude Mythos Preview is a new general-purpose model that's capable of identifying and exploiting vulnerabilities \"in every major operating system and every major web browser …\nRead the full story at The Verge.",
-    "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the publication that members of a private online forum [&#8230;]",
-    "id": "https://www.theverge.com/?p=916501",
-    "isoDate": "2026-04-22T09:18:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands"
-  },
-  {
-    "title": "(No AI) SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-    "pubDate": "2026-04-21T22:45:37.000Z",
-    "author": "Richard Lawler",
-    "content": "![Photo of rocket launch with SpaceX logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith an [IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch), SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by _[The Information](https://www.theinformation.com/articles/google-creates-strike-team-improve-coding-models)_ this week said Sergey Brin has directed Google's \"strike team\" to [help its agentic AI tools catch up](https://www.theverge.com/tech/914996/sergey-brin-said-google-needs-to-catch-up-to-anthropic-on-ai-coding-agents), while Sam Altman reportedly declared [a \"code red\"](https://www.theverge.com/news/836212/openai-code-red-chatgpt) at OpenAI last year before shutting down Sora to focus on the ChatGPT superapp and its own [Codex](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos) too …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)",
-    "contentSnippet": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market leader Anthropic, as well as the other competitors. A report by The Information this week said Sergey Brin has directed Google's \"strike team\" to help its agentic AI tools catch up, while Sam Altman reportedly declared a \"code red\" at OpenAI last year before shutting down Sora to focus on the ChatGPT superapp and its own Codex too …\nRead the full story at The Verge.",
-    "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#8230;]",
-    "id": "https://www.theverge.com/?p=916427",
-    "isoDate": "2026-04-21T22:45:37.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion"
-  },
-  {
-    "title": "(No AI) Scaling Codex to enterprises worldwide",
-    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "pubDate": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "content": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-    "contentSnippet": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-    "guid": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "creator": "Sarah Perez",
+    "title": "(No AI) AI Overviews are coming to your Gmail at work",
+    "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "pubDate": "Wed, 22 Apr 2026 16:46:10 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "contentSnippet": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "guid": "https://techcrunch.com/?p=3115288",
     "categories": [
-      "Company"
+      "AI",
+      "Enterprise",
+      "ai overviews",
+      "gemini",
+      "gmail",
+      "Google",
+      "Google Cloud Next"
     ],
-    "isoDate": "2026-04-21T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "scaling-codex-to-enterprises-worldwide"
+    "isoDate": "2026-04-22T16:46:10.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-overviews-are-coming-to-your-gmail-at-work"
   },
   {
-    "title": "(No AI) OpenAI helps Hyatt advance AI among colleagues ",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
-    "content": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-    "contentSnippet": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-    "guid": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "title": "(No AI) Anthropic’s Mythos rollout has missed America’s cyberscurity agency",
+    "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+    "pubDate": "2026-04-22T16:57:36.000Z",
+    "author": "Lauren Feiner",
+    "content": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator.\n\nOn Tuesday, [_Axios_ reported](https://www.axios.com/2026/04/21/cisa-anthropic-mythos-ai-security) that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like [Commerce Department](https://www.politico.com/news/2026/04/14/anthropic-mythos-federal-agency-testing-00872439) and [National Security Agency (NSA)](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon) are reportedly using the model, and President Donald Trump's administration has been negotiating broader access, [_Axios_ wrote](https://www.axios.com/2026/04/16/white-house-anthropic-ai-mythos-government-national-security) last w …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out)",
+    "contentSnippet": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. \nOn Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool for finding and patching security vulnerabilities. Meanwhile, other agencies like Commerce Department and National Security Agency (NSA) are reportedly using the model, and President Donald Trump's administration has been negotiating broader access, Axios wrote last w …\nRead the full story at The Verge.",
+    "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool [&#8230;]",
+    "id": "https://www.theverge.com/?p=916758",
+    "isoDate": "2026-04-22T16:57:36.000Z",
+    "source": "The Verge AI",
+    "slug": "anthropic-s-mythos-rollout-has-missed-america-s-cyberscurity-agency"
+  },
+  {
+    "title": "(No AI) Google Meet will take AI notes for in-person meetings too",
+    "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "pubDate": "2026-04-22T16:38:19.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Google Meet logo on a light grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of [in-person meetings](https://workspace.google.com/blog/product-announcements/10-more-announcements-workspace-at-next-2026) now, as well as meetings on Zoom and Microsoft Teams, as first reported by [_9to5Google_](https://9to5google.com/2026/04/22/google-workspace-next-2026/).\n\nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's [support page for the feature](https://support.google.com/meet/answer/17020724?hl=en-IE&ref_topic=14073938) notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The feature also works for impromptu meetings - Google says you \"don't need to be in a meeting room\" or in a previously-scheduled meeting to use it.\n\n![A GIF of two people using Gemini to take notes for an in-person meeting](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/InPerson_TNFM_BlogPost_10MB.gif?quality=90&strip=all&crop=0,0,100,100 \"A GIF of two people using Gemini to take notes for an in-person meeting\")\n\nUs …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)",
+    "contentSnippet": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. \nSupport for in-person meetings was previously limited to alpha users and only available on Android. Google's support page for the feature notes that, \"If a user who is not in person wants to join the meeting, you can transition the meeting to a normal video call.\" The feature also works for impromptu meetings - Google says you \"don't need to be in a meeting room\" or in a previously-scheduled meeting to use it. \nUs …\nRead the full story at The Verge.",
+    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page [&#8230;]",
+    "id": "https://www.theverge.com/?p=916779",
+    "isoDate": "2026-04-22T16:38:19.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-meet-will-take-ai-notes-for-in-person-meetings-too"
+  },
+  {
+    "title": "(No AI) Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "guid": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "categories": [
-      "Global Affairs"
+      "Engineering"
     ],
-    "isoDate": "2026-04-20T00:00:00.000Z",
+    "isoDate": "2026-04-22T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-helps-hyatt-advance-ai-among-colleagues"
+    "slug": "speeding-up-agentic-workflows-with-websockets-in-the-responses-api"
+  },
+  {
+    "title": "(No AI) Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "pubDate": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "content": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "contentSnippet": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "guid": "https://openai.com/index/introducing-openai-privacy-filter",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-04-22T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-openai-privacy-filter"
   },
   {
     "title": "(No AI) Partnering with industry leaders to accelerate AI transformation",
@@ -121,9 +120,30 @@
     "slug": "gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech"
   },
   {
+    "creator": "Andy Greenberg, Matt Burgess",
+    "title": "(No AI) AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "pubDate": "Wed, 22 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Andy Greenberg, Matt Burgess",
+    "content": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "contentSnippet": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "guid": "69e644fa804f3c300853babd",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-22T16:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions"
+  },
+  {
+    "creator": "Zoë Schiffer, Paresh Dave, Maxwell Zeff",
     "title": "(No AI) Join Our Livestream: Musk v. Altman and the Future of OpenAI",
     "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
     "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "dc:creator": "Zoë Schiffer, Paresh Dave, Maxwell Zeff",
     "content": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
     "contentSnippet": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
     "guid": "69e24e8704c989eedf38a877",
@@ -134,22 +154,5 @@
     "isoDate": "2026-04-22T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "join-our-livestream-musk-v-altman-and-the-future-of-openai"
-  },
-  {
-    "creator": "Miles Klee",
-    "title": "(No AI) The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
-    "link": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
-    "pubDate": "Wed, 22 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
-    "contentSnippet": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
-    "guid": "69e6bef4908d18c066eccba9",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-04-22T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-pope-s-warnings-about-ai-were-ai-generated-a-detection-tool-claims"
   }
 ]
