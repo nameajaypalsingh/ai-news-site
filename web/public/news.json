@@ -1,5 +1,29 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India’s app market is booming — but global platforms are capturing most of the gains",
+    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "pubDate": "Thu, 23 Apr 2026 04:38:45 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+    "contentSnippet": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+    "guid": "https://techcrunch.com/?p=3115545",
+    "categories": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ChatGPT",
+      "Facebook",
+      "FreeReels",
+      "google one",
+      "Instagram",
+      "JioHotstar"
+    ],
+    "isoDate": "2026-04-23T04:38:45.000Z",
+    "source": "TechCrunch AI",
+    "slug": "india-s-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains"
+  },
+  {
     "creator": "Kirsten Korosec",
     "title": "(No AI) Tesla just increased its spending plan to $25B — here’s where the money is going",
     "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
@@ -17,26 +41,6 @@
     "isoDate": "2026-04-22T23:56:52.000Z",
     "source": "TechCrunch AI",
     "slug": "tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-money-is-going"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Google updates Workspace to make AI your new office intern",
-    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-    "pubDate": "Wed, 22 Apr 2026 22:44:26 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-    "contentSnippet": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-    "guid": "https://techcrunch.com/?p=3115439",
-    "categories": [
-      "AI",
-      "gemini",
-      "Google",
-      "Google Cloud Next",
-      "Workspace Intelligence"
-    ],
-    "isoDate": "2026-04-22T22:44:26.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-updates-workspace-to-make-ai-your-new-office-intern"
   },
   {
     "title": "(No AI) AI failure could trigger the next financial crisis, warns Elizabeth Warren",
@@ -81,18 +85,18 @@
     "slug": "making-chatgpt-better-for-clinicians"
   },
   {
-    "title": "(No AI) Introducing workspace agents in ChatGPT",
-    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "title": "(No AI) Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "content": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "contentSnippet": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "guid": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "guid": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "categories": [
-      "Product"
+      "Engineering"
     ],
     "isoDate": "2026-04-22T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-workspace-agents-in-chatgpt"
+    "slug": "speeding-up-agentic-workflows-with-websockets-in-the-responses-api"
   },
   {
     "title": "(No AI) Partnering with industry leaders to accelerate AI transformation",
