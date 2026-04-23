@@ -1,45 +1,42 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-    "pubDate": "Wed, 22 Apr 2026 19:51:51 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-    "contentSnippet": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-    "guid": "https://techcrunch.com/?p=3115422",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "pubDate": "Wed, 22 Apr 2026 23:56:52 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+    "contentSnippet": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+    "guid": "https://techcrunch.com/?p=3115599",
     "categories": [
       "AI",
-      "Startups",
-      "cursor",
-      "Mergers and Acquisitions",
-      "SpaceX"
+      "Transportation",
+      "Elon Musk",
+      "Tesla"
     ],
-    "isoDate": "2026-04-22T19:51:51.000Z",
+    "isoDate": "2026-04-22T23:56:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer"
+    "slug": "tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-money-is-going"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Google Cloud launches two new AI chips to compete with Nvidia",
-    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-    "pubDate": "Wed, 22 Apr 2026 18:39:27 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-    "contentSnippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-    "guid": "https://techcrunch.com/?p=3115340",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Google updates Workspace to make AI your new office intern",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "pubDate": "Wed, 22 Apr 2026 22:44:26 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "contentSnippet": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "guid": "https://techcrunch.com/?p=3115439",
     "categories": [
       "AI",
-      "Enterprise",
-      "AI chips",
+      "gemini",
       "Google",
-      "google cloud",
       "Google Cloud Next",
-      "nvidia"
+      "Workspace Intelligence"
     ],
-    "isoDate": "2026-04-22T18:39:27.000Z",
+    "isoDate": "2026-04-22T22:44:26.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-cloud-launches-two-new-ai-chips-to-compete-with-nvidia"
+    "slug": "google-updates-workspace-to-make-ai-your-new-office-intern"
   },
   {
     "title": "(No AI) AI failure could trigger the next financial crisis, warns Elizabeth Warren",
@@ -70,18 +67,18 @@
     "slug": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own"
   },
   {
-    "title": "(No AI) Speeding up agentic workflows with WebSockets in the Responses API",
-    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-    "contentSnippet": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-    "guid": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "title": "(No AI) Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "pubDate": "Wed, 22 Apr 2026 15:00:00 GMT",
+    "content": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "contentSnippet": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "guid": "https://openai.com/index/making-chatgpt-better-for-clinicians",
     "categories": [
-      "Engineering"
+      "Product"
     ],
-    "isoDate": "2026-04-22T10:00:00.000Z",
+    "isoDate": "2026-04-22T15:00:00.000Z",
     "source": "OpenAI",
-    "slug": "speeding-up-agentic-workflows-with-websockets-in-the-responses-api"
+    "slug": "making-chatgpt-better-for-clinicians"
   },
   {
     "title": "(No AI) Introducing workspace agents in ChatGPT",
@@ -120,6 +117,23 @@
     "slug": "gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech"
   },
   {
+    "creator": "Maxwell Zeff, Lauren Goode",
+    "title": "(No AI) Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+    "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+    "pubDate": "Wed, 22 Apr 2026 22:11:15 +0000",
+    "dc:creator": "Maxwell Zeff, Lauren Goode",
+    "content": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+    "contentSnippet": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+    "guid": "69e919e3057636244d70c22c",
+    "categories": [
+      "Business",
+      "Business / Blockchain and Cryptocurrency"
+    ],
+    "isoDate": "2026-04-22T22:11:15.000Z",
+    "source": "Wired AI",
+    "slug": "sam-altman-s-orb-company-promoted-a-bruno-mars-partnership-that-doesn-t-exist"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) 5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
     "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
@@ -135,24 +149,5 @@
     "isoDate": "2026-04-22T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "5-ai-models-tried-to-scam-me-some-of-them-were-scary-good"
-  },
-  {
-    "creator": "Andy Greenberg, Matt Burgess",
-    "title": "(No AI) AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-    "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-    "pubDate": "Wed, 22 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Andy Greenberg, Matt Burgess",
-    "content": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-    "contentSnippet": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-    "guid": "69e644fa804f3c300853babd",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-22T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions"
   }
 ]
