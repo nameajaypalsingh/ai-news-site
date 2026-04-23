@@ -1,46 +1,58 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) India’s app market is booming — but global platforms are capturing most of the gains",
-    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "pubDate": "Thu, 23 Apr 2026 04:38:45 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-    "contentSnippet": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-    "guid": "https://techcrunch.com/?p=3115545",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) AI galaxy hunters are adding to the global GPU crunch",
+    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "pubDate": "Thu, 23 Apr 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+    "contentSnippet": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+    "guid": "https://techcrunch.com/?p=3115585",
     "categories": [
+      "Space",
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "ChatGPT",
-      "Facebook",
-      "FreeReels",
-      "google one",
-      "Instagram",
-      "JioHotstar"
+      "NASA",
+      "GPUS",
+      "Exclusive"
     ],
-    "isoDate": "2026-04-23T04:38:45.000Z",
+    "isoDate": "2026-04-23T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-s-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains"
+    "slug": "ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Tesla just increased its spending plan to $25B — here’s where the money is going",
-    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-    "pubDate": "Wed, 22 Apr 2026 23:56:52 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-    "contentSnippet": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-    "guid": "https://techcrunch.com/?p=3115599",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+    "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+    "pubDate": "Thu, 23 Apr 2026 12:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+    "contentSnippet": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+    "guid": "https://techcrunch.com/?p=3115539",
     "categories": [
+      "Enterprise",
+      "Startups",
       "AI",
-      "Transportation",
-      "Elon Musk",
-      "Tesla"
+      "Social",
+      "creator economy",
+      "beehiiv"
     ],
-    "isoDate": "2026-04-22T23:56:52.000Z",
+    "isoDate": "2026-04-23T12:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "tesla-just-increased-its-spending-plan-to-25b-here-s-where-the-money-is-going"
+    "slug": "beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls"
+  },
+  {
+    "title": "(No AI) Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+    "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+    "pubDate": "2026-04-23T11:34:18.000Z",
+    "author": "Tom Warren",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously [described by Microsoft](https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models) as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses.\n\n\"When we first shipped Copilot, foundation models were not powerful enough to use Copilot to command the applications,\" [admits Sumit Chauhan](https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/), corporate vice president of Microsoft's Office Product Group. \"This meant Copilot was a passive partner in documents: it could answer questions but missed the mark when it was asked to take action on the canvas direc …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint)",
+    "contentSnippet": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses.\n\"When we first shipped Copilot, foundation models were not powerful enough to use Copilot to command the applications,\" admits Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \"This meant Copilot was a passive partner in documents: it could answer questions but missed the mark when it was asked to take action on the canvas direc …\nRead the full story at The Verge.",
+    "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we first shipped Copilot, foundation models [&#8230;]",
+    "id": "https://www.theverge.com/?p=917328",
+    "isoDate": "2026-04-23T11:34:18.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-launches-vibe-working-in-word-excel-and-powerpoint"
   },
   {
     "title": "(No AI) AI failure could trigger the next financial crisis, warns Elizabeth Warren",
@@ -55,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25563184/2160975539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-failure-could-trigger-the-next-financial-crisis-warns-elizabeth-warren"
-  },
-  {
-    "title": "(No AI) OpenAI now lets teams make custom bots that can do work on their own",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-    "pubDate": "2026-04-22T20:09:02.000Z",
-    "author": "Jay Peters",
-    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In [its blog post](https://openai.com/index/introducing-workspace-agents-in-chatgpt/), OpenAI gives examples of agents like one that [finds product feedback on the web](https://www.youtube.com/watch?v=bk2H8WfHZZk) and sends a report in Slack and a sales agent that [can draft follow-up emails](https://www.youtube.com/watch?v=HJlME6S-LJc) in Gmail.\n\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that [touts itself](https://openclaw.ai/) as the \"AI that actually does things\" - [went viral](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent). OpenClaw founder Peter Steinberger [now works for OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai). OpenA …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)",
-    "contentSnippet": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can draft follow-up emails in Gmail.\nThese new agents follow increasing interest in agents across the AI landscape, especially after OpenClaw - the AI agent formerly known as Clawdbot and Moltbot that touts itself as the \"AI that actually does things\" - went viral. OpenClaw founder Peter Steinberger now works for OpenAI. OpenA …\nRead the full story at The Verge.",
-    "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can [&#8230;]",
-    "id": "https://www.theverge.com/?p=917065",
-    "isoDate": "2026-04-22T20:09:02.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own"
   },
   {
     "title": "(No AI) Making ChatGPT better for clinicians",
