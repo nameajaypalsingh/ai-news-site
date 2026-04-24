@@ -1,47 +1,62 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Marked-up Mac minis flood eBay amid shortages driven by AI",
-    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    "pubDate": "Fri, 24 Apr 2026 16:42:19 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-    "contentSnippet": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-    "guid": "https://techcrunch.com/?p=3116142",
+    "creator": "Marina Temkin",
+    "title": "(No AI) ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "pubDate": "Fri, 24 Apr 2026 19:49:35 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "contentSnippet": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "guid": "https://techcrunch.com/?p=3116246",
     "categories": [
       "AI",
-      "Hardware",
-      "Apple",
-      "local AI",
-      "mac mini",
-      "Mac Studio",
-      "openclaw"
+      "TC",
+      "Venture",
+      "comfyui",
+      "Craft Ventures",
+      "Creators",
+      "Video"
     ],
-    "isoDate": "2026-04-24T16:42:19.000Z",
+    "isoDate": "2026-04-24T19:49:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "marked-up-mac-minis-flood-ebay-amid-shortages-driven-by-ai"
+    "slug": "comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-    "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-    "pubDate": "Fri, 24 Apr 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
-    "contentSnippet": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
-    "guid": "https://techcrunch.com/?p=3116078",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Google to invest up to $40B in Anthropic in cash and compute",
+    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "pubDate": "Fri, 24 Apr 2026 18:00:03 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "contentSnippet": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "guid": "https://techcrunch.com/?p=3116207",
     "categories": [
-      "Startups",
-      "Venture",
       "AI",
-      "Fundraising",
-      "Uber",
-      "StrictlyVC",
-      "StrictlyVC San Francisco"
+      "Enterprise",
+      "Anthropic",
+      "anthropic investment",
+      "chips",
+      "compute",
+      "Google",
+      "google cloud"
     ],
-    "isoDate": "2026-04-24T14:00:00.000Z",
+    "isoDate": "2026-04-24T18:00:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event"
+    "slug": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute"
+  },
+  {
+    "title": "(No AI) How Project Maven taught the military to love AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+    "pubDate": "2026-04-24T17:00:00.000Z",
+    "author": "Joshua Dzieza",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268484_How_the_US_embraced_AI_warfare_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\n\nIn her new book, [_Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare_](https://wwnorton.com/books/project-maven), journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experiment in applying computer vision to drone footage. The project spurred employee [protests at Google](https://www.theverge.com/2018/4/4/17199818/google-pentagon-project-maven-pull-out-letter-ceo-sundar-pichai), the military's initial contractor, prompting the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)",
+    "contentSnippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\nIn her new book, Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experiment in applying computer vision to drone footage. The project spurred employee protests at Google, the military's initial contractor, prompting the …\nRead the full story at The Verge.",
+    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
+    "id": "https://www.theverge.com/?p=917996",
+    "isoDate": "2026-04-24T17:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268484_How_the_US_embraced_AI_warfare_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-project-maven-taught-the-military-to-love-ai"
   },
   {
     "title": "(No AI) AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
@@ -56,20 +71,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0424_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "airpods-touch-bars-and-the-rest-of-tim-cook-s-legacy"
-  },
-  {
-    "title": "(No AI) Musk vs. Altman is here, and it’s going to get messy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-    "pubDate": "2026-04-24T12:00:00.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Elon Musk is jumping in front of a courthouse while Sam Altman looks puzzled](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMight as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. _Theoretically_, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess.\n\nOver the past couple of years, Musk's legal theories for punishing OpenAI have run the gamut from breach of contract to unfair business practices to false advertising. Now, he and Altman will be getting called to the stand at a particularly delicate time …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)",
-    "contentSnippet": "Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge\t\n\nElon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. But that's not really what we're all doing here. This is about mess. \nOver the past couple of years, Musk's legal theories for punishing OpenAI have run the gamut from breach of contract to unfair business practices to false advertising. Now, he and Altman will be getting called to the stand at a particularly delicate time …\nRead the full story at The Verge.",
-    "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. [&#8230;]",
-    "id": "https://www.theverge.com/?p=917755",
-    "isoDate": "2026-04-24T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "musk-vs-altman-is-here-and-it-s-going-to-get-messy"
   },
   {
     "title": "(No AI) Introducing GPT-5.5",
@@ -122,6 +123,22 @@
     "slug": "partnering-with-industry-leaders-to-accelerate-ai-transformation"
   },
   {
+    "creator": "Emily Mullin",
+    "title": "(No AI) AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "pubDate": "Fri, 24 Apr 2026 17:17:36 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+    "contentSnippet": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+    "guid": "69ea1e41ace51dfd0585df9d",
+    "categories": [
+      "Science"
+    ],
+    "isoDate": "2026-04-24T17:17:36.000Z",
+    "source": "Wired AI",
+    "slug": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) Apple's Next CEO Needs to Launch a Killer AI Product",
     "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
@@ -137,22 +154,5 @@
     "isoDate": "2026-04-24T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "apple-s-next-ceo-needs-to-launch-a-killer-ai-product"
-  },
-  {
-    "creator": "Ej Dickson ",
-    "title": "(No AI) These AI Thirst Trap Creators Say They’re Misunderstood",
-    "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-    "pubDate": "Fri, 24 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Ej Dickson ",
-    "content": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-    "contentSnippet": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-    "guid": "69e7d5a603053d72fbaea8ae",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-04-24T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "these-ai-thirst-trap-creators-say-they-re-misunderstood"
   }
 ]
