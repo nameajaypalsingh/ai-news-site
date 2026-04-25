@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Meta’s loss is Thinking Machines’ gain",
+    "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "contentSnippet": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "guid": "https://techcrunch.com/?p=3116243",
+    "categories": [
+      "AI",
+      "TC"
+    ],
+    "isoDate": "2026-04-24T20:52:07.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-s-loss-is-thinking-machines-gain"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
     "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
@@ -20,29 +37,6 @@
     "isoDate": "2026-04-24T19:49:35.000Z",
     "source": "TechCrunch AI",
     "slug": "comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Google to invest up to $40B in Anthropic in cash and compute",
-    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "pubDate": "Fri, 24 Apr 2026 18:00:03 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "contentSnippet": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "guid": "https://techcrunch.com/?p=3116207",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Anthropic",
-      "anthropic investment",
-      "chips",
-      "compute",
-      "Google",
-      "google cloud"
-    ],
-    "isoDate": "2026-04-24T18:00:03.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
