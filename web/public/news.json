@@ -117,36 +117,39 @@
     "slug": "partnering-with-industry-leaders-to-accelerate-ai-transformation"
   },
   {
-    "creator": "Emily Mullin",
-    "title": "(No AI) AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-    "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-    "pubDate": "Fri, 24 Apr 2026 17:17:36 +0000",
-    "dc:creator": "Emily Mullin",
-    "content": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-    "contentSnippet": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
-    "guid": "69ea1e41ace51dfd0585df9d",
+    "creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
+    "title": "(No AI) Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+    "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+    "pubDate": "Sat, 25 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
+    "content": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+    "contentSnippet": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+    "guid": "69eb9d8dc24af9e77dc968b2",
     "categories": [
-      "Science"
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News"
     ],
-    "isoDate": "2026-04-24T17:17:36.000Z",
+    "isoDate": "2026-04-25T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials"
+    "slug": "discord-sleuths-gained-unauthorized-access-to-anthropic-s-mythos"
   },
   {
-    "creator": "Steven Levy",
-    "title": "(No AI) Apple's Next CEO Needs to Launch a Killer AI Product",
-    "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
-    "pubDate": "Fri, 24 Apr 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus.",
-    "contentSnippet": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus.",
-    "guid": "69ea4267b1388ba57c0a7a33",
+    "creator": "Marta Musso",
+    "title": "(No AI) Ace the Ping-Pong Robot Can Whup Your Ass",
+    "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+    "pubDate": "Sat, 25 Apr 2026 09:30:00 +0000",
+    "dc:creator": "Marta Musso",
+    "content": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+    "contentSnippet": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+    "guid": "69ea3dfcbcc07abadbf52b3f",
     "categories": [
-      "Business",
-      "Business / Tech Culture"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-04-24T15:00:00.000Z",
+    "isoDate": "2026-04-25T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "apple-s-next-ceo-needs-to-launch-a-killer-ai-product"
+    "slug": "ace-the-ping-pong-robot-can-whup-your-ass"
   }
 ]
