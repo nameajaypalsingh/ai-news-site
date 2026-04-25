@@ -1,47 +1,43 @@
 [
   {
-    "creator": "Cindy Zackney",
-    "title": "(No AI) Why Tokyo is the most important tech destination of 2026",
-    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "pubDate": "Sat, 25 Apr 2026 15:03:00 +0000",
-    "dc:creator": "Cindy Zackney",
-    "content": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "contentSnippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "guid": "https://techcrunch.com/?p=3115295",
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI CEO apologizes to Tumbler Ridge community",
+    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "contentSnippet": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "guid": "https://techcrunch.com/?p=3116460",
     "categories": [
-      "Startups",
-      "Media & Entertainment",
       "AI",
-      "Robotics",
-      "Startup Battlefield 200",
-      "SusHi Tech Tokyo"
+      "Government & Policy",
+      "Jesse Van Rootselaar",
+      "OpenAI",
+      "sam altman",
+      "tumbler ridge"
     ],
-    "isoDate": "2026-04-25T15:03:00.000Z",
+    "isoDate": "2026-04-25T17:17:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-tokyo-is-the-most-important-tech-destination-of-2026"
+    "slug": "openai-ceo-apologizes-to-tumbler-ridge-community"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-    "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-    "pubDate": "Sat, 25 Apr 2026 15:00:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-    "contentSnippet": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-    "guid": "https://techcrunch.com/?p=3116183",
+    "creator": "Anna Heim",
+    "title": "(No AI) Why Cohere is merging with Aleph Alpha",
+    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "contentSnippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "guid": "https://techcrunch.com/?p=3116411",
     "categories": [
-      "Hardware",
       "AI",
-      "Gadgets",
-      "Robotics",
-      "Apple",
-      "John Ternus",
-      "evergreens",
-      "CEO succession"
+      "Cohere",
+      "digital sovereignty",
+      "Aleph Alpha"
     ],
-    "isoDate": "2026-04-25T15:00:00.000Z",
+    "isoDate": "2026-04-25T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-under-ternus-what-comes-next-for-the-tech-giant-s-hardware-strategy"
+    "slug": "why-cohere-is-merging-with-aleph-alpha"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
