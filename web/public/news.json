@@ -1,42 +1,47 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Meta’s loss is Thinking Machines’ gain",
-    "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "pubDate": "Fri, 24 Apr 2026 20:52:07 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "contentSnippet": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "guid": "https://techcrunch.com/?p=3116243",
+    "creator": "Cindy Zackney",
+    "title": "(No AI) Why Tokyo is the most important tech destination of 2026",
+    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "pubDate": "Sat, 25 Apr 2026 15:03:00 +0000",
+    "dc:creator": "Cindy Zackney",
+    "content": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "contentSnippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "guid": "https://techcrunch.com/?p=3115295",
     "categories": [
+      "Startups",
+      "Media & Entertainment",
       "AI",
-      "TC"
+      "Robotics",
+      "Startup Battlefield 200",
+      "SusHi Tech Tokyo"
     ],
-    "isoDate": "2026-04-24T20:52:07.000Z",
+    "isoDate": "2026-04-25T15:03:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-s-loss-is-thinking-machines-gain"
+    "slug": "why-tokyo-is-the-most-important-tech-destination-of-2026"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "pubDate": "Fri, 24 Apr 2026 19:49:35 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "contentSnippet": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "guid": "https://techcrunch.com/?p=3116246",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+    "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+    "pubDate": "Sat, 25 Apr 2026 15:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+    "contentSnippet": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+    "guid": "https://techcrunch.com/?p=3116183",
     "categories": [
+      "Hardware",
       "AI",
-      "TC",
-      "Venture",
-      "comfyui",
-      "Craft Ventures",
-      "Creators",
-      "Video"
+      "Gadgets",
+      "Robotics",
+      "Apple",
+      "John Ternus",
+      "evergreens",
+      "CEO succession"
     ],
-    "isoDate": "2026-04-24T19:49:35.000Z",
+    "isoDate": "2026-04-25T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media"
+    "slug": "apple-under-ternus-what-comes-next-for-the-tech-giant-s-hardware-strategy"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
