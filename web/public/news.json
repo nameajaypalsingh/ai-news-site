@@ -1,6 +1,26 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) To buy this Bay Area home, you’ll need Anthropic equity",
+    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "pubDate": "Sun, 26 Apr 2026 15:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "contentSnippet": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "guid": "https://techcrunch.com/?p=3116489",
+    "categories": [
+      "Startups",
+      "Venture",
+      "AI",
+      "Anthropic",
+      "storm duncan"
+    ],
+    "isoDate": "2026-04-26T15:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "to-buy-this-bay-area-home-you-ll-need-anthropic-equity"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Anthropic created a test marketplace for agent-on-agent commerce",
     "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
@@ -17,23 +37,6 @@
     "isoDate": "2026-04-25T21:43:37.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Maine’s governor vetoes data center moratorium",
-    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "contentSnippet": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "guid": "https://techcrunch.com/?p=3116464",
-    "categories": [
-      "AI",
-      "Government & Policy"
-    ],
-    "isoDate": "2026-04-25T20:57:08.000Z",
-    "source": "TechCrunch AI",
-    "slug": "maine-s-governor-vetoes-data-center-moratorium"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
