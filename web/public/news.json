@@ -1,43 +1,39 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI CEO apologizes to Tumbler Ridge community",
-    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000",
+    "title": "(No AI) Anthropic created a test marketplace for agent-on-agent commerce",
+    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "contentSnippet": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "guid": "https://techcrunch.com/?p=3116460",
+    "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "contentSnippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "guid": "https://techcrunch.com/?p=3116468",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Jesse Van Rootselaar",
-      "OpenAI",
-      "sam altman",
-      "tumbler ridge"
+      "Commerce",
+      "Anthropic",
+      "project deal"
     ],
-    "isoDate": "2026-04-25T17:17:56.000Z",
+    "isoDate": "2026-04-25T21:43:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-ceo-apologizes-to-tumbler-ridge-community"
+    "slug": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Why Cohere is merging with Aleph Alpha",
-    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "contentSnippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "guid": "https://techcrunch.com/?p=3116411",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Maine’s governor vetoes data center moratorium",
+    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+    "contentSnippet": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+    "guid": "https://techcrunch.com/?p=3116464",
     "categories": [
       "AI",
-      "Cohere",
-      "digital sovereignty",
-      "Aleph Alpha"
+      "Government & Policy"
     ],
-    "isoDate": "2026-04-25T16:00:00.000Z",
+    "isoDate": "2026-04-25T20:57:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-cohere-is-merging-with-aleph-alpha"
+    "slug": "maine-s-governor-vetoes-data-center-moratorium"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
