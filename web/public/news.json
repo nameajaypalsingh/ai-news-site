@@ -1,73 +1,72 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "pubDate": "Mon, 27 Apr 2026 16:13:02 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "contentSnippet": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "guid": "https://techcrunch.com/?p=3116570",
+    "creator": "Julie Bort",
+    "title": "(No AI) OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "pubDate": "Mon, 27 Apr 2026 17:40:38 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+    "contentSnippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+    "guid": "https://techcrunch.com/?p=3116576",
     "categories": [
       "AI",
-      "Apps",
-      "Startups",
-      "ai apps",
-      "signull labs",
-      "Skye"
+      "Enterprise",
+      "Amazon",
+      "Microsoft",
+      "OpenAI"
     ],
-    "isoDate": "2026-04-27T16:13:02.000Z",
+    "isoDate": "2026-04-27T17:40:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "investors-back-skye-s-ai-home-screen-app-for-iphone-ahead-of-launch"
+    "slug": "openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal"
   },
   {
-    "creator": "Kate Park",
-    "title": "(No AI) China blocks Meta’s $2B Manus deal after months-long probe",
-    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-    "pubDate": "Mon, 27 Apr 2026 13:16:55 +0000",
-    "dc:creator": "Kate Park",
-    "content": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "contentSnippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "guid": "https://techcrunch.com/?p=3116540",
+    "creator": "Anna Heim",
+    "title": "(No AI) DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "pubDate": "Mon, 27 Apr 2026 17:24:21 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "contentSnippet": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "guid": "https://techcrunch.com/?p=3116624",
     "categories": [
       "AI",
-      "TC",
-      "China",
-      "manus",
-      "Mergers and Acquisitions",
-      "Meta"
+      "DeepMind",
+      "ineffable intelligence",
+      "lightspeed",
+      "reinforcement learning",
+      "Sequoia Capital"
     ],
-    "isoDate": "2026-04-27T13:16:55.000Z",
+    "isoDate": "2026-04-27T17:24:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "china-blocks-meta-s-2b-manus-deal-after-months-long-probe"
+    "slug": "deepmind-s-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data"
   },
   {
-    "title": "(No AI) Microsoft and OpenAI’s famed AGI agreement is dead",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-    "pubDate": "2026-04-27T16:15:47.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\n\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenAI pursue its goals of courting enterprise custom …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract)",
-    "contentSnippet": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenAI pursue its goals of courting enterprise custom …\nRead the full story at The Verge.",
-    "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and&#8239;OpenAI&#8239;products&#8239;will ship first [&#8230;]",
-    "id": "https://www.theverge.com/?p=918981",
-    "isoDate": "2026-04-27T16:15:47.000Z",
+    "title": "(No AI) Canonical lays out a plan for AI in Ubuntu Linux",
+    "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+    "pubDate": "2026-04-27T20:47:45.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A vintage computer on a background of 1s and 0s with a brain on the screen representing AI](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOne of the most popular Linux distributions is about to get an influx of AI features. As reported by [_Phoronix_](https://www.phoronix.com/news/Ubuntu-AI-Features-2026), Jon Seager, VP of engineering at Ubuntu developer Canonical, [shared a blog post](https://discourse.ubuntu.com/t/the-future-of-ai-in-ubuntu/81130) on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those who want them.\"\n\nThese features will range from accessibility tools like improved speech-to-text and text-to-speech to agentic AI features for tasks …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)",
+    "contentSnippet": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those who want them.\" \nThese features will range from accessibility tools like improved speech-to-text and text-to-speech to agentic AI features for tasks …\nRead the full story at The Verge.",
+    "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI [&#8230;]",
+    "id": "https://www.theverge.com/?p=919411",
+    "isoDate": "2026-04-27T20:47:45.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-and-openai-s-famed-agi-agreement-is-dead"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "canonical-lays-out-a-plan-for-ai-in-ubuntu-linux"
   },
   {
-    "title": "(No AI) Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "pubDate": "2026-04-27T15:50:29.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his [2024 lawsuit](https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission) that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\n\nMusk was a cofounder of OpenAI and claims that Altman and co-founder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, [OpenAI says](https://x.com/OpenAINewsroom/status/2048776645142872368?s=20) that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\n\nIn his lawsuit, [Musk is asking for the removal of Altman and Brockman](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip), and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\n\n_Here’s all the latest on the trial between Musk and Altman:_\n\n*   [Elon Musk drops fraud claims against OpenAI and Sam Altman before trial.](https://www.theverge.com/ai-artificial-intelligence/918909/elon-musk-drops-fraud-claims-against-openai-and-sam-altman-before-trial)\n*   [Elon Musk is about to be a very busy boy!](https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla)\n*   [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)\n*   [Elon Musk’s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)\n*   [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)\n*   [Elon Musk is suing OpenAI and Sam Altman again](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)",
-    "contentSnippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\nMusk was a cofounder of OpenAI and claims that Altman and co-founder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nHere’s all the latest on the trial between Musk and Altman:\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
-    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=917225",
-    "isoDate": "2026-04-27T15:50:29.000Z",
+    "title": "(No AI) Google employees ask Sundar Pichai to say no to classified military AI use",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+    "pubDate": "2026-04-27T18:17:12.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Sundar Pichai standing among seated attendees at the inauguration](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the [_The Washington Post_](https://www.washingtonpost.com/technology/2026/04/27/google-employees-letter-ai-pentagon/). Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents.\n\nAccording to the _Post_, the letter says that \"The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.\" Anthropic is currently in a legal battle with the Pentagon over being …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)",
+    "contentSnippet": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\t\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. \nAccording to the Post, the letter says that \"The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.\"  Anthropic is currently in a legal battle with the Pentagon over being …\nRead the full story at The Verge.",
+    "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
+    "id": "https://www.theverge.com/?p=919326",
+    "isoDate": "2026-04-27T18:17:12.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-employees-ask-sundar-pichai-to-say-no-to-classified-military-ai-use"
   },
   {
     "title": "(No AI) The next phase of the Microsoft OpenAI partnership",
@@ -84,18 +83,18 @@
     "slug": "the-next-phase-of-the-microsoft-openai-partnership"
   },
   {
-    "title": "(No AI) Choco automates food distribution with AI agents",
-    "link": "https://openai.com/index/choco",
+    "title": "(No AI) An open-source spec for orchestration: Symphony",
+    "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
     "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-    "contentSnippet": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-    "guid": "https://openai.com/index/choco",
+    "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "contentSnippet": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "guid": "https://openai.com/index/open-source-codex-orchestration-symphony",
     "categories": [
-      "B2B Story"
+      "Engineering"
     ],
     "isoDate": "2026-04-27T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "choco-automates-food-distribution-with-ai-agents"
+    "slug": "an-open-source-spec-for-orchestration-symphony"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
@@ -120,6 +119,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+    "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+    "pubDate": "Mon, 27 Apr 2026 20:08:51 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+    "contentSnippet": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+    "guid": "69efb83a99344a765a91f679",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-27T20:08:51.000Z",
+    "source": "Wired AI",
+    "slug": "elon-musk-boosts-new-yorker-s-sam-altman-expos-on-x-as-trial-begins"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
     "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
@@ -135,24 +151,5 @@
     "isoDate": "2026-04-27T14:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-man-behind-alphago-thinks-ai-is-taking-the-wrong-path"
-  },
-  {
-    "creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
-    "title": "(No AI) Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-    "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-    "pubDate": "Sat, 25 Apr 2026 10:30:00 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
-    "content": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-    "contentSnippet": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-    "guid": "69eb9d8dc24af9e77dc968b2",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-04-25T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "discord-sleuths-gained-unauthorized-access-to-anthropic-s-mythos"
   }
 ]
