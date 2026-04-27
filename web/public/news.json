@@ -1,7 +1,28 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "pubDate": "Mon, 27 Apr 2026 16:13:02 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "contentSnippet": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "guid": "https://techcrunch.com/?p=3116570",
+    "categories": [
+      "AI",
+      "Apps",
+      "Startups",
+      "ai apps",
+      "signull labs",
+      "Skye"
+    ],
+    "isoDate": "2026-04-27T16:13:02.000Z",
+    "source": "TechCrunch AI",
+    "slug": "investors-back-skye-s-ai-home-screen-app-for-iphone-ahead-of-launch"
+  },
+  {
     "creator": "Kate Park",
-    "title": "(No AI) China vetoes Meta’s $2B Manus deal after months-long probe",
+    "title": "(No AI) China blocks Meta’s $2B Manus deal after months-long probe",
     "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "pubDate": "Mon, 27 Apr 2026 13:16:55 +0000",
     "dc:creator": "Kate Park",
@@ -13,60 +34,40 @@
       "TC",
       "China",
       "manus",
+      "Mergers and Acquisitions",
       "Meta"
     ],
     "isoDate": "2026-04-27T13:16:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "china-vetoes-meta-s-2b-manus-deal-after-months-long-probe"
+    "slug": "china-blocks-meta-s-2b-manus-deal-after-months-long-probe"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) OpenAI could be making a phone with AI agents replacing apps",
-    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "pubDate": "Mon, 27 Apr 2026 13:08:59 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "The phone could go in mass production in 2028, an analyst says.",
-    "contentSnippet": "The phone could go in mass production in 2028, an analyst says.",
-    "guid": "https://techcrunch.com/?p=3116536",
-    "categories": [
-      "AI",
-      "Hardware",
-      "MediaTek",
-      "OpenAI",
-      "Qualcomm",
-      "smartphone"
-    ],
-    "isoDate": "2026-04-27T13:08:59.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-could-be-making-a-phone-with-ai-agents-replacing-apps"
-  },
-  {
-    "title": "(No AI) The AI-designed car is taking shape",
-    "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-    "pubDate": "2026-04-27T11:00:00.000Z",
-    "author": "Tim Stevens",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch.\n\nThose sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more.\n\nThat means many new cars hitting dealerships this summer were first sketched in 2020 or 2021, initiatives kicked off when alternative fuel incentives were widesprea …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept)",
-    "contentSnippet": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more. \nThat means many new cars hitting dealerships this summer were first sketched in 2020 or 2021, initiatives kicked off when alternative fuel incentives were widesprea …\nRead the full story at The Verge.",
-    "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
-    "id": "https://www.theverge.com/?p=918411",
-    "isoDate": "2026-04-27T11:00:00.000Z",
+    "title": "(No AI) Microsoft and OpenAI’s famed AGI agreement is dead",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+    "pubDate": "2026-04-27T16:15:47.000Z",
+    "author": "Hayden Field",
+    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\n\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenAI pursue its goals of courting enterprise custom …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract)",
+    "contentSnippet": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenAI pursue its goals of courting enterprise custom …\nRead the full story at The Verge.",
+    "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and&#8239;OpenAI&#8239;products&#8239;will ship first [&#8230;]",
+    "id": "https://www.theverge.com/?p=918981",
+    "isoDate": "2026-04-27T16:15:47.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-ai-designed-car-is-taking-shape"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-and-openai-s-famed-agi-agreement-is-dead"
   },
   {
-    "title": "(No AI) How Project Maven taught the military to love AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-    "pubDate": "2026-04-24T17:00:00.000Z",
-    "author": "Joshua Dzieza",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268484_How_the_US_embraced_AI_warfare_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\n\nIn her new book, [_Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare_](https://wwnorton.com/books/project-maven), journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experiment in applying computer vision to drone footage. The project spurred employee [protests at Google](https://www.theverge.com/2018/4/4/17199818/google-pentagon-project-maven-pull-out-letter-ceo-sundar-pichai), the military's initial contractor, prompting the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)",
-    "contentSnippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart System.\nIn her new book, Project Maven: A Marine Colonel, His Team, and the Dawn of AI Warfare, journalist Katrina Manson investigates the development of Maven from its inception in 2017 as an experiment in applying computer vision to drone footage. The project spurred employee protests at Google, the military's initial contractor, prompting the …\nRead the full story at The Verge.",
-    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
-    "id": "https://www.theverge.com/?p=917996",
-    "isoDate": "2026-04-24T17:00:00.000Z",
+    "title": "(No AI) Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "pubDate": "2026-04-27T15:50:29.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his [2024 lawsuit](https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission) that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\n\nMusk was a cofounder of OpenAI and claims that Altman and co-founder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, [OpenAI says](https://x.com/OpenAINewsroom/status/2048776645142872368?s=20) that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\n\nIn his lawsuit, [Musk is asking for the removal of Altman and Brockman](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip), and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\n\n_Here’s all the latest on the trial between Musk and Altman:_\n\n*   [Elon Musk drops fraud claims against OpenAI and Sam Altman before trial.](https://www.theverge.com/ai-artificial-intelligence/918909/elon-musk-drops-fraud-claims-against-openai-and-sam-altman-before-trial)\n*   [Elon Musk is about to be a very busy boy!](https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla)\n*   [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)\n*   [Elon Musk’s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)\n*   [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)\n*   [Elon Musk is suing OpenAI and Sam Altman again](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)",
+    "contentSnippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead.\nMusk was a cofounder of OpenAI and claims that Altman and co-founder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nHere’s all the latest on the trial between Musk and Altman:\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
+    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity [&#8230;]",
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=917225",
+    "isoDate": "2026-04-27T15:50:29.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268484_How_the_US_embraced_AI_warfare_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-project-maven-taught-the-military-to-love-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai"
   },
   {
     "title": "(No AI) The next phase of the Microsoft OpenAI partnership",
@@ -83,18 +84,18 @@
     "slug": "the-next-phase-of-the-microsoft-openai-partnership"
   },
   {
-    "title": "(No AI) Our principles",
-    "link": "https://openai.com/index/our-principles",
-    "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
-    "content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-    "contentSnippet": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
-    "guid": "https://openai.com/index/our-principles",
+    "title": "(No AI) Choco automates food distribution with AI agents",
+    "link": "https://openai.com/index/choco",
+    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "content": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "contentSnippet": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "guid": "https://openai.com/index/choco",
     "categories": [
-      "Company"
+      "B2B Story"
     ],
-    "isoDate": "2026-04-26T16:00:00.000Z",
+    "isoDate": "2026-04-27T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "our-principles"
+    "slug": "choco-automates-food-distribution-with-ai-agents"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
@@ -119,6 +120,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+    "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "pubDate": "Mon, 27 Apr 2026 14:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+    "contentSnippet": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+    "guid": "69eb83e36481c47bff8e3c89",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-27T14:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-man-behind-alphago-thinks-ai-is-taking-the-wrong-path"
+  },
+  {
     "creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
     "title": "(No AI) Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
     "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
@@ -136,22 +154,5 @@
     "isoDate": "2026-04-25T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "discord-sleuths-gained-unauthorized-access-to-anthropic-s-mythos"
-  },
-  {
-    "creator": "Marta Musso",
-    "title": "(No AI) Ace the Ping-Pong Robot Can Whup Your Ass",
-    "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-    "pubDate": "Sat, 25 Apr 2026 09:30:00 +0000",
-    "dc:creator": "Marta Musso",
-    "content": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-    "contentSnippet": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
-    "guid": "69ea3dfcbcc07abadbf52b3f",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-04-25T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "ace-the-ping-pong-robot-can-whup-your-ass"
   }
 ]
