@@ -1,40 +1,58 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Meta inks deal for solar power at night, beamed from space",
-    "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-    "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-    "contentSnippet": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-    "guid": "https://techcrunch.com/?p=3116522",
+    "creator": "Kate Park",
+    "title": "(No AI) China vetoes Meta’s $2B Manus deal after months-long probe",
+    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "pubDate": "Mon, 27 Apr 2026 13:16:55 +0000",
+    "dc:creator": "Kate Park",
+    "content": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "contentSnippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "guid": "https://techcrunch.com/?p=3116540",
     "categories": [
-      "Space",
-      "AI"
+      "AI",
+      "TC",
+      "China",
+      "manus",
+      "Meta"
     ],
-    "isoDate": "2026-04-27T10:00:00.000Z",
+    "isoDate": "2026-04-27T13:16:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-inks-deal-for-solar-power-at-night-beamed-from-space"
+    "slug": "china-vetoes-meta-s-2b-manus-deal-after-months-long-probe"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) To buy this Bay Area home, you’ll need Anthropic equity",
-    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-    "pubDate": "Sun, 26 Apr 2026 15:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-    "contentSnippet": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-    "guid": "https://techcrunch.com/?p=3116489",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI could be making a phone with AI agents replacing apps",
+    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "pubDate": "Mon, 27 Apr 2026 13:08:59 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "The phone could go in mass production in 2028, an analyst says.",
+    "contentSnippet": "The phone could go in mass production in 2028, an analyst says.",
+    "guid": "https://techcrunch.com/?p=3116536",
     "categories": [
-      "Startups",
-      "Venture",
       "AI",
-      "Anthropic",
-      "storm duncan"
+      "Hardware",
+      "MediaTek",
+      "OpenAI",
+      "Qualcomm",
+      "smartphone"
     ],
-    "isoDate": "2026-04-26T15:30:00.000Z",
+    "isoDate": "2026-04-27T13:08:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "to-buy-this-bay-area-home-you-ll-need-anthropic-equity"
+    "slug": "openai-could-be-making-a-phone-with-ai-agents-replacing-apps"
+  },
+  {
+    "title": "(No AI) The AI-designed car is taking shape",
+    "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+    "pubDate": "2026-04-27T11:00:00.000Z",
+    "author": "Tim Stevens",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch.\n\nThose sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more.\n\nThat means many new cars hitting dealerships this summer were first sketched in 2020 or 2021, initiatives kicked off when alternative fuel incentives were widesprea …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept)",
+    "contentSnippet": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. \nThose sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into clay to better visualize lines and profiles. That's just the beginning of a design and development process that often takes a half-decade or more. \nThat means many new cars hitting dealerships this summer were first sketched in 2020 or 2021, initiatives kicked off when alternative fuel incentives were widesprea …\nRead the full story at The Verge.",
+    "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
+    "id": "https://www.theverge.com/?p=918411",
+    "isoDate": "2026-04-27T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/side.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-ai-designed-car-is-taking-shape"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
@@ -51,18 +69,18 @@
     "slug": "how-project-maven-taught-the-military-to-love-ai"
   },
   {
-    "title": "(No AI) AirPods, Touch Bars, and the rest of Tim Cook’s legacy",
-    "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-    "pubDate": "2026-04-24T14:43:07.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0424_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWe knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to [some important changes](https://www.theverge.com/tech/916585/tim-cook-apple-new-era) at the most influential company in tech.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David and Nilay are joined by _[Daring Fireball](https://daringfireball.net/)_'s John Gruber to talk about their reactions to the news, the ([mostly](https://www.theverge.com/tech/916228/tim-cook-i-am-healthy-my-energy-is-high-and-i-plan-to-be-in-this-new-role-for-a-long-time) …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition)",
-    "contentSnippet": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most influential company in tech.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, David and Nilay are joined by Daring Fireball's John Gruber to talk about their reactions to the news, the (mostly …\nRead the full story at The Verge.",
-    "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most [&#8230;]",
-    "id": "https://www.theverge.com/?p=917965",
-    "isoDate": "2026-04-24T14:43:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0424_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "airpods-touch-bars-and-the-rest-of-tim-cook-s-legacy"
+    "title": "(No AI) The next phase of the Microsoft OpenAI partnership",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
+    "content": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "contentSnippet": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "guid": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-04-27T06:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-next-phase-of-the-microsoft-openai-partnership"
   },
   {
     "title": "(No AI) Our principles",
@@ -77,20 +95,6 @@
     "isoDate": "2026-04-26T16:00:00.000Z",
     "source": "OpenAI",
     "slug": "our-principles"
-  },
-  {
-    "title": "(No AI) Introducing GPT-5.5",
-    "link": "https://openai.com/index/introducing-gpt-5-5",
-    "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "contentSnippet": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "guid": "https://openai.com/index/introducing-gpt-5-5",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-04-23T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-gpt-5-5"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
