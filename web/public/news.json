@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Meta inks deal for solar power at night, beamed from space",
+    "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+    "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+    "contentSnippet": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+    "guid": "https://techcrunch.com/?p=3116522",
+    "categories": [
+      "Space",
+      "AI"
+    ],
+    "isoDate": "2026-04-27T10:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-inks-deal-for-solar-power-at-night-beamed-from-space"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) To buy this Bay Area home, you’ll need Anthropic equity",
     "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
@@ -18,25 +35,6 @@
     "isoDate": "2026-04-26T15:30:00.000Z",
     "source": "TechCrunch AI",
     "slug": "to-buy-this-bay-area-home-you-ll-need-anthropic-equity"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic created a test marketplace for agent-on-agent commerce",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "contentSnippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "guid": "https://techcrunch.com/?p=3116468",
-    "categories": [
-      "AI",
-      "Commerce",
-      "Anthropic",
-      "project deal"
-    ],
-    "isoDate": "2026-04-25T21:43:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce"
   },
   {
     "title": "(No AI) How Project Maven taught the military to love AI",
@@ -81,18 +79,29 @@
     "slug": "our-principles"
   },
   {
-    "title": "(No AI) GPT-5.5 System Card",
-    "link": "https://openai.com/index/gpt-5-5-system-card",
+    "title": "(No AI) Introducing GPT-5.5",
+    "link": "https://openai.com/index/introducing-gpt-5-5",
     "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "guid": "https://openai.com/index/gpt-5-5-system-card",
+    "content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "contentSnippet": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "guid": "https://openai.com/index/introducing-gpt-5-5",
     "categories": [
-      "Safety"
+      "Product"
     ],
     "isoDate": "2026-04-23T11:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
     "source": "OpenAI",
-    "slug": "gpt-5-5-system-card"
+    "slug": "introducing-gpt-5-5"
+  },
+  {
+    "title": "(No AI) Announcing our partnership with the Republic of Korea",
+    "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
+    "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "contentSnippet": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "guid": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "isoDate": "2026-04-27T07:00:06.000Z",
+    "source": "Google DeepMind",
+    "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
     "title": "(No AI) Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
@@ -104,17 +113,6 @@
     "isoDate": "2026-04-22T10:20:03.000Z",
     "source": "Google DeepMind",
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
-  },
-  {
-    "title": "(No AI) Partnering with industry leaders to accelerate AI transformation",
-    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
-    "content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-    "contentSnippet": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-    "guid": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "isoDate": "2026-04-21T14:54:15.000Z",
-    "source": "Google DeepMind",
-    "slug": "partnering-with-industry-leaders-to-accelerate-ai-transformation"
   },
   {
     "creator": "Matt Burgess, Lily Hay Newman, Andy Greenberg",
