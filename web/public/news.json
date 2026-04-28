@@ -41,6 +41,20 @@
     "slug": "deepmind-s-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data"
   },
   {
+    "title": "(No AI) Google is testing AI chatbot search for YouTube",
+    "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+    "pubDate": "2026-04-28T00:01:54.000Z",
+    "author": "Jay Peters",
+    "content": "![A screenshot of the “Ask YouTube” search experience.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is trying out an AI Mode-like search experience for YouTube. The company is [now testing](https://www.youtube.com/new) \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\n\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows prompts to ask like \"funny baby elephant playing clips,\" \"summary of the rules of volleyball,\" and \"short history of the Apollo 11 moon landing.\" If …\n\n[Read the full story at The Verge.](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search)",
+    "contentSnippet": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows prompts to ask like \"funny baby elephant playing clips,\" \"summary of the rules of volleyball,\" and \"short history of the Apollo 11 moon landing.\" If  …\nRead the full story at The Verge.",
+    "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube [&#8230;]",
+    "id": "https://www.theverge.com/?p=919441",
+    "isoDate": "2026-04-28T00:01:54.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-is-testing-ai-chatbot-search-for-youtube"
+  },
+  {
     "title": "(No AI) Canonical lays out a plan for AI in Ubuntu Linux",
     "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
     "pubDate": "2026-04-27T20:47:45.000Z",
@@ -55,18 +69,18 @@
     "slug": "canonical-lays-out-a-plan-for-ai-in-ubuntu-linux"
   },
   {
-    "title": "(No AI) Google employees ask Sundar Pichai to say no to classified military AI use",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-    "pubDate": "2026-04-27T18:17:12.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Sundar Pichai standing among seated attendees at the inauguration](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the [_The Washington Post_](https://www.washingtonpost.com/technology/2026/04/27/google-employees-letter-ai-pentagon/). Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents.\n\nAccording to the _Post_, the letter says that \"The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.\" Anthropic is currently in a legal battle with the Pentagon over being …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)",
-    "contentSnippet": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images\t\n\nOver 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. \nAccording to the Post, the letter says that \"The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.\"  Anthropic is currently in a legal battle with the Pentagon over being …\nRead the full story at The Verge.",
-    "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
-    "id": "https://www.theverge.com/?p=919326",
-    "isoDate": "2026-04-27T18:17:12.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2194442232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-employees-ask-sundar-pichai-to-say-no-to-classified-military-ai-use"
+    "title": "(No AI) OpenAI available at FedRAMP Moderate",
+    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
+    "content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "contentSnippet": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "guid": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-04-27T14:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-available-at-fedramp-moderate"
   },
   {
     "title": "(No AI) The next phase of the Microsoft OpenAI partnership",
@@ -81,20 +95,6 @@
     "isoDate": "2026-04-27T06:00:00.000Z",
     "source": "OpenAI",
     "slug": "the-next-phase-of-the-microsoft-openai-partnership"
-  },
-  {
-    "title": "(No AI) An open-source spec for orchestration: Symphony",
-    "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "content": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-    "contentSnippet": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-    "guid": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "categories": [
-      "Engineering"
-    ],
-    "isoDate": "2026-04-27T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "an-open-source-spec-for-orchestration-symphony"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
@@ -120,6 +120,23 @@
   },
   {
     "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) Some Musk v. Altman Jurors Don't Like Elon Musk",
+    "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+    "pubDate": "Tue, 28 Apr 2026 00:39:30 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+    "contentSnippet": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+    "guid": "69efc4030938ed4c97342f7c",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-28T00:39:30.000Z",
+    "source": "Wired AI",
+    "slug": "some-musk-v-altman-jurors-don-t-like-elon-musk"
+  },
+  {
+    "creator": "Maxwell Zeff, Paresh Dave",
     "title": "(No AI) Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
     "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
     "pubDate": "Mon, 27 Apr 2026 20:08:51 +0000",
@@ -134,22 +151,5 @@
     "isoDate": "2026-04-27T20:08:51.000Z",
     "source": "Wired AI",
     "slug": "elon-musk-boosts-new-yorker-s-sam-altman-expos-on-x-as-trial-begins"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "pubDate": "Mon, 27 Apr 2026 14:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-    "contentSnippet": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
-    "guid": "69eb83e36481c47bff8e3c89",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-27T14:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-man-behind-alphago-thinks-ai-is-taking-the-wrong-path"
   }
 ]
