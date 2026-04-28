@@ -1,72 +1,73 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Lovable launches its vibe-coding app on iOS and Android",
-    "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-    "pubDate": "Tue, 28 Apr 2026 16:09:30 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The app allows developers to vibe code web apps and websites on the go.",
-    "contentSnippet": "The app allows developers to vibe code web apps and websites on the go.",
-    "guid": "https://techcrunch.com/?p=3116991",
+    "creator": "Julie Bort",
+    "title": "(No AI) Amazon is already offering new OpenAI products on AWS",
+    "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "pubDate": "Tue, 28 Apr 2026 19:48:02 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "contentSnippet": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "guid": "https://techcrunch.com/?p=3117152",
+    "categories": [
+      "AI",
+      "TC",
+      "Amazon",
+      "AWS",
+      "In Brief",
+      "OpenAI"
+    ],
+    "isoDate": "2026-04-28T19:48:02.000Z",
+    "source": "TechCrunch AI",
+    "slug": "amazon-is-already-offering-new-openai-products-on-aws"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Amazon launches an AI-powered audio Q&A experience on product pages",
+    "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "pubDate": "Tue, 28 Apr 2026 18:49:54 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "contentSnippet": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "guid": "https://techcrunch.com/?p=3117138",
     "categories": [
       "AI",
       "Apps",
-      "Lovable",
-      "vibe coding"
+      "Commerce",
+      "Amazon",
+      "eCommerce",
+      "Rufus"
     ],
-    "isoDate": "2026-04-28T16:09:30.000Z",
+    "isoDate": "2026-04-28T18:49:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "lovable-launches-its-vibe-coding-app-on-ios-and-android"
+    "slug": "amazon-launches-an-ai-powered-audio-q-a-experience-on-product-pages"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) YouTube is testing an AI-powered search feature that shows guided answers",
-    "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-    "pubDate": "Tue, 28 Apr 2026 13:54:06 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-    "contentSnippet": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-    "guid": "https://techcrunch.com/?p=3116933",
-    "categories": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Google",
-      "Search",
-      "Video",
-      "YouTube"
-    ],
-    "isoDate": "2026-04-28T13:54:06.000Z",
-    "source": "TechCrunch AI",
-    "slug": "youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers"
-  },
-  {
-    "title": "(No AI) Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "pubDate": "2026-04-28T17:45:16.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In [2024, Musk filed a lawsuit](https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission) accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. Today, Elon Musk has arrived at the courthouse as the opening arguments began for both sides.\n\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, [OpenAI says](https://x.com/OpenAINewsroom/status/2048776645142872368?s=20) that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\n\nIn his lawsuit, [Musk is asking for the removal of Altman and Brockman](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip), and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\n\n_Here’s all the latest on the trial between Musk and Altman:_\n\n*   [“Musk was furious that OpenAI succeeded.”](https://www.theverge.com/ai-artificial-intelligence/919730/musk-was-furious-that-openai-succeeded)\n*   [OpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”](https://www.theverge.com/ai-artificial-intelligence/919724/openai-mr-musks-lawsuit-is-a-pageant-of-hypocrisy)\n*   [Sam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.](https://www.theverge.com/ai-artificial-intelligence/919669/sam-altmans-related-party-conflicted-transactions-are-how-he-made-money-on-openai-molo-says)\n*   [Technical difficulties.](https://www.theverge.com/ai-artificial-intelligence/919654/technical-difficulties)\n*   [OpenAI is like a museum store that has looted the Picassos and pocketed the profits.](https://www.theverge.com/ai-artificial-intelligence/919649/openai-is-like-a-museum-store-that-has-looted-the-picassos-and-pocketed-the-profits)\n*   [AGI might be out of fashion in the AI world, but it will be at the center of this trial](https://www.theverge.com/ai-artificial-intelligence/919630/agi-might-be-out-of-fashion-in-the-ai-world-but-it-will-be-at-the-center-of-this-trial)\n*   [“The defendants in this case stole a charity.”](https://www.theverge.com/ai-artificial-intelligence/919626/the-defendants-in-this-case-stole-a-charity)\n*   [Musk and Altman go to court](https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast)\n*   [Good morning from the Musk v Altman line outside the courtroom.](https://www.theverge.com/ai-artificial-intelligence/919559/good-morning-from-the-musk-v-altman-line-outside-the-courtroom)\n*   [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)\n*   [We have a jury.](https://www.theverge.com/ai-artificial-intelligence/919424/we-have-a-jury)\n*   [Elon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.](https://www.theverge.com/ai-artificial-intelligence/919413/elon-musks-lawyer-tried-to-get-some-jurors-thrown-out-for-disliking-musk)\n*   [Apparently things are exciting outside.](https://www.theverge.com/ai-artificial-intelligence/919388/apparently-things-are-exciting-outside)\n*   [We have gone through the first 20 potential jurors.](https://www.theverge.com/ai-artificial-intelligence/919339/we-have-gone-through-the-first-20-potential-jurors)\n*   [Voir dire has begun.](https://www.theverge.com/ai-artificial-intelligence/919251/voir-dire-has-begun)\n*   [The Elon Musk vs. OpenAI trial starts today.](https://www.theverge.com/ai-artificial-intelligence/919149/trial-starts-today)\n*   [Elon Musk drops fraud claims against OpenAI and Sam Altman before trial.](https://www.theverge.com/ai-artificial-intelligence/918909/elon-musk-drops-fraud-claims-against-openai-and-sam-altman-before-trial)\n*   [Musk vs. Altman is here, and it’s going to get messy](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)\n*   [Elon Musk is about to be a very busy boy!](https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla)\n*   [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)\n*   [Elon Musk’s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)\n*   [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)\n*   [Elon Musk is suing OpenAI and Sam Altman again](https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived)",
-    "contentSnippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with jury selection on April 27th. Today, Elon Musk has arrived at the courthouse as the opening arguments began for both sides.\nMusk was a cofounder of OpenAI and claims that Altman and cofounder Greg Brockman tricked him into giving the company money, only to turn their backs on their original goal. However, OpenAI says that “This lawsuit has always been a baseless and jealous bid to derail a competitor” in a bid to boost Musk’s own SpaceX / xAI / X companies that have launched Grok as a competitor to ChatGPT.\nIn his lawsuit, Musk is asking for the removal of Altman and Brockman, and for OpenAI to stop operating as a public benefit corporation. Musk has also demanded that OpenAI’s nonprofit receive up to $150 billion in damages he’s asking for if he wins the case.\nHere’s all the latest on the trial between Musk and Altman:\n“Musk was furious that OpenAI succeeded.”\n\t\t\t\nOpenAI: Musk’s lawsuit is a “pageant of hypocrisy.”\n\t\t\t\nSam Altman’s “related party conflicted transactions” are how he made money on OpenAI, Molo says.\n\t\t\t\nTechnical difficulties.\n\t\t\t\nOpenAI is like a museum store that has looted the Picassos and pocketed the profits.\n\t\t\t\nAGI might be out of fashion in the AI world, but it will be at the center of this trial\n\t\t\t\n“The defendants in this case stole a charity.”\n\t\t\t\nMusk and Altman go to court\n\t\t\t\nGood morning from the Musk v Altman line outside the courtroom.\n\t\t\t\nJury selection in Musk v. Altman: ‘People don’t like him’\n\t\t\t\nWe have a jury.\n\t\t\t\nElon Musk’s lawyer tried to get some jurors thrown out for disliking Musk.\n\t\t\t\nApparently things are exciting outside.\n\t\t\t\nWe have gone through the first 20 potential jurors.\n\t\t\t\nVoir dire has begun.\n\t\t\t\nThe Elon Musk vs. OpenAI trial starts today.\n\t\t\t\nElon Musk drops fraud claims against OpenAI and Sam Altman before trial.\n\t\t\t\nMusk vs. Altman is here, and it’s going to get messy\n\t\t\t\nElon Musk is about to be a very busy boy!\n\t\t\t\n‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI\n\t\t\t\nElon Musk’s xAI is suing OpenAI and Apple\n\t\t\t\nInside Elon Musk’s messy breakup with OpenAI\n\t\t\t\nElon Musk is suing OpenAI and Sam Altman again",
-    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=917225",
-    "isoDate": "2026-04-28T17:45:16.000Z",
+    "title": "(No AI) Elon Musk tells the jury that all he wants to do is save humanity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+    "pubDate": "2026-04-28T20:46:54.000Z",
+    "author": "Kevin Nguyen",
+    "content": "![Elon Musk in front of a background of geometric shapes.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn the stand, Elon Musk is positioning himself as a savior.\n\n[In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit), Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.\n\nWhy is Musk giving the jury so much of his origin story? Though he may be, depending on the day, the world's wealthiest individual, Musk suggested …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity)",
+    "contentSnippet": "On the stand, Elon Musk is positioning himself as a savior.\nIn the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.\nWhy is Musk giving the jury so much of his origin story? Though he may be, depending on the day, the world's wealthiest individual, Musk suggested  …\nRead the full story at The Verge.",
+    "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
+    "id": "https://www.theverge.com/?p=920048",
+    "isoDate": "2026-04-28T20:46:54.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "live-updates-from-elon-musk-and-sam-altman-s-court-battle-over-the-future-of-openai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-tells-the-jury-that-all-he-wants-to-do-is-save-humanity"
   },
   {
-    "title": "(No AI) Claude can now plug directly into Photoshop, Blender, and Ableton",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-    "pubDate": "2026-04-28T16:49:08.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Examples of Anthropic’s Claude connector for the Blender 3D modelling software.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nClaude’s new Blender connector lets you debug scenes, build new tools, and batch-apply object changes directly from the chatbot interface. | Image: Anthropic\n\nAnthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more.\n\nThis marks the company's latest efforts to break into the creative industry following its launch of [Claude Design](https://www.theverge.com/ai-artificial-intelligence/913963/anthropic-launched-a-new-design-product) earlier this month. The new connectors - which [enable Claude to access apps](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors), retrieve data, and take actions within connected services - are \"designed to make it easier to use Claude for creative work,\" according to Anthropic, and can be used for specific functions in each app.\n\nThe Adobe for creativity connector can draw fr …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender)",
-    "contentSnippet": "Claude’s new Blender connector lets you debug scenes, build new tools, and batch-apply object changes directly from the chatbot interface. | Image: Anthropic\t\n\nAnthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. \nThis marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month. The new connectors - which enable Claude to access apps, retrieve data, and take actions within connected services - are \"designed to make it easier to use Claude for creative work,\" according to Anthropic, and can be used for specific functions in each app. \nThe Adobe for creativity connector can draw fr …\nRead the full story at The Verge.",
-    "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its launch of Claude Design earlier this month. The new connectors [&#8230;]",
-    "id": "https://www.theverge.com/?p=919648",
-    "isoDate": "2026-04-28T16:49:08.000Z",
+    "title": "(No AI) Taylor Swift is stepping up the legal war on AI copycats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+    "pubDate": "2026-04-28T20:30:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of Taylor Swift](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTaylor Swift has been [at the center](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn) of [AI imitation controversies](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake) for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot.\n\nIn trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: [Hey, it's Taylor Swift](https://tsdr.uspto.gov/documentviewer?caseId=sn99784980&docId=APP20260424122018&linkId=1#docIndex=0&page=1) and [Hey, it's Taylor](https://tsdr.uspto.gov/documentviewer?caseId=sn99784979&docId=APP20260424122010&linkId=1#docIndex=0&page=1). The trademark applications, filed by TAS Rights Management on behalf of Swift, include audio clips of Swift saying the two phrases as part of a promotion for her latest album. \"Hey …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats)",
+    "contentSnippet": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot.\nIn trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: Hey, it's Taylor Swift and Hey, it's Taylor. The trademark applications, filed by TAS Rights Management on behalf of Swift, include audio clips of Swift saying the two phrases as part of a promotion for her latest album. \"Hey …\nRead the full story at The Verge.",
+    "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last [&#8230;]",
+    "id": "https://www.theverge.com/?p=919827",
+    "isoDate": "2026-04-28T20:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Claude-creative-connectors-Blender-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-can-now-plug-directly-into-photoshop-blender-and-ableton"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "taylor-swift-is-stepping-up-the-legal-war-on-ai-copycats"
   },
   {
     "title": "(No AI) OpenAI models, Codex, and Managed Agents come to AWS",
@@ -119,6 +120,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) ‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+    "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+    "pubDate": "Tue, 28 Apr 2026 18:36:47 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+    "contentSnippet": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+    "guid": "69f0e18a5340a3ec02e9911f",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-28T18:36:47.000Z",
+    "source": "Wired AI",
+    "slug": "it-s-undignified-hundreds-of-workers-training-meta-s-ai-could-be-laid-off"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "(No AI) The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
     "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
@@ -136,22 +154,5 @@
     "isoDate": "2026-04-28T13:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not",
-    "link": "https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/",
-    "pubDate": "Tue, 28 Apr 2026 08:30:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
-    "contentSnippet": "WIRED spoke with Bloomberg’s chief technology officer about the big, chatbot-style changes coming to the iconic platform for traders.",
-    "guid": "69e6619787b133ef85891068",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-28T08:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not"
   }
 ]
