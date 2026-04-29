@@ -1,84 +1,82 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
-    "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "pubDate": "Wed, 29 Apr 2026 09:45:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
-    "contentSnippet": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of  fleets of autonomous vehicles.",
-    "guid": "https://techcrunch.com/?p=3117209",
+    "creator": "Kate Park",
+    "title": "(No AI) Firestorm Labs raises $82M to take drone factories into the field",
+    "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "pubDate": "Wed, 29 Apr 2026 13:10:57 +0000",
+    "dc:creator": "Kate Park",
+    "content": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "contentSnippet": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "guid": "https://techcrunch.com/?p=3117341",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive"
+      "Startups",
+      "defense technology",
+      "Firestorm Labs"
     ],
-    "isoDate": "2026-04-29T09:45:00.000Z",
+    "isoDate": "2026-04-29T13:10:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "coby-adcock-s-scout-ai-raises-100-million-to-train-its-models-for-war-we-visited-its-bootcamp"
+    "slug": "firestorm-labs-raises-82m-to-take-drone-factories-into-the-field"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) At his OpenAI trial, Musk relitigates an old friendship",
-    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "pubDate": "Wed, 29 Apr 2026 00:40:16 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-    "contentSnippet": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-    "guid": "https://techcrunch.com/?p=3117278",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Meet Shapes, the app bringing humans and AI into the same group chats",
+    "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "pubDate": "Wed, 29 Apr 2026 13:00:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Think Discord chats, but with AI characters in addition to humans.",
+    "contentSnippet": "Think Discord chats, but with AI characters in addition to humans.",
+    "guid": "https://techcrunch.com/?p=3117104",
     "categories": [
       "AI",
-      "Elon Musk",
-      "Google",
-      "In Brief",
-      "Larry Page",
-      "OpenAI"
+      "Apps",
+      "Social"
     ],
-    "isoDate": "2026-04-29T00:40:16.000Z",
+    "isoDate": "2026-04-29T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "at-his-openai-trial-musk-relitigates-an-old-friendship"
+    "slug": "meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats"
   },
   {
-    "title": "(No AI) GitHub rushed to fix a critical vulnerability in less than six hours",
-    "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
-    "pubDate": "2026-04-29T10:04:25.000Z",
-    "author": "Tom Warren",
-    "content": "![An illustration of the GitHub logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. [Wiz Research used](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\n\n\"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" [explains Alexis Walesa](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/), GitHub chief information security officer. \"This was a critical issue that required immediate action.\"\n\nGitHub's engineering team developed a fix and deployed it ju …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix)",
-    "contentSnippet": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\n\"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" explains Alexis Walesa, GitHub chief information security officer. \"This was a critical issue that required immediate action.\"\nGitHub's engineering team developed a fix and deployed it ju …\nRead the full story at The Verge.",
-    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within [&#8230;]",
-    "id": "https://www.theverge.com/?p=920295",
-    "isoDate": "2026-04-29T10:04:25.000Z",
+    "title": "(No AI) Larry’s risky business",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "pubDate": "2026-04-29T13:57:16.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![An image of Larry Ellison with a basket of eggs balanced on his head in a basket with the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOracular spectacular? | Image: Cath Virginia / The Verge\n\nIf you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle.\n\nThat's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It's not quite a neocloud, though it has entered the same bare-metal business [as CoreWeave](https://www.theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai). It is a software-as-a-service company that has made an audacious bet on a very specific future version of AI as Oracle's traditional business has gracefully declined. It is significantly older than any of its AI competitors, save Microsoft, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout)",
+    "contentSnippet": "Oracular spectacular? | Image: Cath Virginia / The Verge\t\n\nIf you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle.\nThat's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, obviously. It's not quite a neocloud, though it has entered the same bare-metal business as CoreWeave. It is a software-as-a-service company that has made an audacious bet on a very specific future version of AI as Oracle's traditional business has gracefully declined. It is significantly older than any of its AI competitors, save Microsoft,  …\nRead the full story at The Verge.",
+    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, [&#8230;]",
+    "id": "https://www.theverge.com/?p=920378",
+    "isoDate": "2026-04-29T13:57:16.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "github-rushed-to-fix-a-critical-vulnerability-in-less-than-six-hours"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/68456_ORACLE_BELLWEATHER7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "larry-s-risky-business"
   },
   {
-    "title": "(No AI) General Motors is adding Gemini to four million cars",
-    "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
-    "pubDate": "2026-04-29T09:14:38.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Google Gemini, seen on the infotainments system of an unspecified Chevrolet model.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors\n\nGeneral Motors is planning to bring Google's Gemini AI assistant to around [four million vehicles across the US](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0428-Google-Gemini.html). Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement.\n\nGM says this update represents \"one of the largest deployments of Gemini in the industry,\" and that \"customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.\"\n\nThe assistant …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update)",
-    "contentSnippet": "Gemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors\t\n\nGeneral Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement.\nGM says this update represents \"one of the largest deployments of Gemini in the industry,\" and that \"customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.\" \nThe assistant  …\nRead the full story at The Verge.",
-    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=920285",
-    "isoDate": "2026-04-29T09:14:38.000Z",
+    "title": "(No AI) Taylor Swift deepfakes are pushing scams on TikTok",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+    "pubDate": "2026-04-29T13:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nScammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks.\n\nThe ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users can earn money by watching TikTok content and giving feedback. TikTok's official branding appears in some of the ads, though users are redirected to third-party services that ask for personal information.\n\nIn one ad, a realistic AI avatar of Swift urges users to s …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks)",
+    "contentSnippet": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. \nThe ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users can earn money by watching TikTok content and giving feedback. TikTok's official branding appears in some of the ads, though users are redirected to third-party services that ask for personal information.\nIn one ad, a realistic AI avatar of Swift urges users to s …\nRead the full story at The Verge.",
+    "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate real footage with AI, the company said. Many promote rewards programs claiming users [&#8230;]",
+    "id": "https://www.theverge.com/?p=920351",
+    "isoDate": "2026-04-29T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "general-motors-is-adding-gemini-to-four-million-cars"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2267995710.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "taylor-swift-deepfakes-are-pushing-scams-on-tiktok"
   },
   {
-    "title": "(No AI) OpenAI models, Codex, and Managed Agents come to AWS",
-    "link": "https://openai.com/index/openai-on-aws",
-    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "contentSnippet": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "guid": "https://openai.com/index/openai-on-aws",
+    "title": "(No AI) Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "content": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "contentSnippet": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "guid": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
     "categories": [
-      "Product"
+      "Global Affairs"
     ],
-    "isoDate": "2026-04-28T00:00:00.000Z",
+    "isoDate": "2026-04-29T04:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-models-codex-and-managed-agents-come-to-aws"
+    "slug": "cybersecurity-in-the-intelligence-age"
   },
   {
     "title": "(No AI) Our commitment to community safety",
@@ -118,12 +116,12 @@
   },
   {
     "creator": "Will Knight",
-    "title": "(No AI) When Robots Have Their ChatGPT Moment, Remember These Pincers",
+    "title": "(No AI) I've Covered Robots for Years. This One Is Different",
     "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
     "pubDate": "Wed, 29 Apr 2026 10:00:00 +0000",
     "dc:creator": "Will Knight",
-    "content": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
-    "contentSnippet": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
+    "content": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+    "contentSnippet": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
     "guid": "69cafcc56dd94342bce0ed8e",
     "categories": [
       "The Big Story",
@@ -132,7 +130,7 @@
     ],
     "isoDate": "2026-04-29T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "when-robots-have-their-chatgpt-moment-remember-these-pincers"
+    "slug": "i-ve-covered-robots-for-years-this-one-is-different"
   },
   {
     "creator": "Emily Mullin",
