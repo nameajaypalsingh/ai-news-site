@@ -70,20 +70,6 @@
     "slug": "elon-musk-tells-the-jury-that-all-he-wants-to-do-is-save-humanity"
   },
   {
-    "title": "(No AI) Our commitment to community safety",
-    "link": "https://openai.com/index/our-commitment-to-community-safety",
-    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "contentSnippet": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "guid": "https://openai.com/index/our-commitment-to-community-safety",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-04-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "our-commitment-to-community-safety"
-  },
-  {
     "title": "(No AI) OpenAI models, Codex, and Managed Agents come to AWS",
     "link": "https://openai.com/index/openai-on-aws",
     "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
@@ -96,6 +82,20 @@
     "isoDate": "2026-04-28T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-models-codex-and-managed-agents-come-to-aws"
+  },
+  {
+    "title": "(No AI) Our commitment to community safety",
+    "link": "https://openai.com/index/our-commitment-to-community-safety",
+    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "contentSnippet": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "guid": "https://openai.com/index/our-commitment-to-community-safety",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-04-28T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "our-commitment-to-community-safety"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
