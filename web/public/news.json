@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) At his OpenAI trial, Musk relitigates an old friendship",
+    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "pubDate": "Wed, 29 Apr 2026 00:40:16 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "contentSnippet": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "guid": "https://techcrunch.com/?p=3117278",
+    "categories": [
+      "AI",
+      "Elon Musk",
+      "Google",
+      "In Brief",
+      "Larry Page",
+      "OpenAI"
+    ],
+    "isoDate": "2026-04-29T00:40:16.000Z",
+    "source": "TechCrunch AI",
+    "slug": "at-his-openai-trial-musk-relitigates-an-old-friendship"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Amazon is already offering new OpenAI products on AWS",
     "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
@@ -21,25 +42,18 @@
     "slug": "amazon-is-already-offering-new-openai-products-on-aws"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Amazon launches an AI-powered audio Q&A experience on product pages",
-    "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "pubDate": "Tue, 28 Apr 2026 18:49:54 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "contentSnippet": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "guid": "https://techcrunch.com/?p=3117138",
-    "categories": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "Amazon",
-      "eCommerce",
-      "Rufus"
-    ],
-    "isoDate": "2026-04-28T18:49:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amazon-launches-an-ai-powered-audio-q-a-experience-on-product-pages"
+    "title": "(No AI) Elon Musk appeared more petty than prepared",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+    "pubDate": "2026-04-28T23:17:12.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Elon Musk in front of a background of justice scales.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nToday the first witness was sworn in in _Musk v. Altman:_ Elon Musk. I was surprised by how flat he seemed.\n\nThis is not the first time I've seen Musk in court. During his defamation suit, [he turned on the charm](https://www.theverge.com/2019/12/4/20994895/elon-musk-testimony-vernon-unsworth-tweet-negligence-la-courthouse) and the jury responded by [finding him not guilty.](https://www.theverge.com/2019/12/6/20998821/elon-musk-wins-loses-twitter-defamation-trial-testimony-caver-vernon-unsworth-cave-rescue) Today he looked adrift and unprepared. The only times he showed real animation were when he was [bragging about how much he'd done for OpenAI](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity).\n\nThe direct examination is a way of telling a story through questions; it's important to make the narrative clear. For a suit that accuses Sam Altman of straying from OpenAI's mission, Musk spent a weird amount of time talking about himself, recou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one)",
+    "contentSnippet": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed.\nThis is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and unprepared. The only times he showed real animation were when he was bragging about how much he'd done for OpenAI.\nThe direct examination is a way of telling a story through questions; it's important to make the narrative clear. For a suit that accuses Sam Altman of straying from OpenAI's mission, Musk spent a weird amount of time talking about himself, recou …\nRead the full story at The Verge.",
+    "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]",
+    "id": "https://www.theverge.com/?p=920191",
+    "isoDate": "2026-04-28T23:17:12.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-appeared-more-petty-than-prepared"
   },
   {
     "title": "(No AI) Elon Musk tells the jury that all he wants to do is save humanity",
@@ -56,18 +70,18 @@
     "slug": "elon-musk-tells-the-jury-that-all-he-wants-to-do-is-save-humanity"
   },
   {
-    "title": "(No AI) Taylor Swift is stepping up the legal war on AI copycats",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-    "pubDate": "2026-04-28T20:30:00.000Z",
-    "author": "Emma Roth",
-    "content": "![A photo of Taylor Swift](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTaylor Swift has been [at the center](https://www.theverge.com/2024/1/30/24056385/congress-defiance-act-proposed-ban-nonconsensual-ai-porn) of [AI imitation controversies](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake) for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot.\n\nIn trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: [Hey, it's Taylor Swift](https://tsdr.uspto.gov/documentviewer?caseId=sn99784980&docId=APP20260424122018&linkId=1#docIndex=0&page=1) and [Hey, it's Taylor](https://tsdr.uspto.gov/documentviewer?caseId=sn99784979&docId=APP20260424122010&linkId=1#docIndex=0&page=1). The trademark applications, filed by TAS Rights Management on behalf of Swift, include audio clips of Swift saying the two phrases as part of a promotion for her latest album. \"Hey …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats)",
-    "contentSnippet": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot.\nIn trademark applications filed last week, Swift's team asked for protection for two phrases spoken by the singer: Hey, it's Taylor Swift and Hey, it's Taylor. The trademark applications, filed by TAS Rights Management on behalf of Swift, include audio clips of Swift saying the two phrases as part of a promotion for her latest album. \"Hey …\nRead the full story at The Verge.",
-    "summary": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a long shot. In trademark applications filed last [&#8230;]",
-    "id": "https://www.theverge.com/?p=919827",
-    "isoDate": "2026-04-28T20:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268536362.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "taylor-swift-is-stepping-up-the-legal-war-on-ai-copycats"
+    "title": "(No AI) Our commitment to community safety",
+    "link": "https://openai.com/index/our-commitment-to-community-safety",
+    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "contentSnippet": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "guid": "https://openai.com/index/our-commitment-to-community-safety",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-04-28T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "our-commitment-to-community-safety"
   },
   {
     "title": "(No AI) OpenAI models, Codex, and Managed Agents come to AWS",
@@ -82,20 +96,6 @@
     "isoDate": "2026-04-28T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-models-codex-and-managed-agents-come-to-aws"
-  },
-  {
-    "title": "(No AI) OpenAI available at FedRAMP Moderate",
-    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
-    "content": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-    "contentSnippet": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
-    "guid": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-04-27T14:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-available-at-fedramp-moderate"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
@@ -120,39 +120,37 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) ‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
-    "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
-    "pubDate": "Tue, 28 Apr 2026 18:36:47 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
-    "contentSnippet": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
-    "guid": "69f0e18a5340a3ec02e9911f",
+    "creator": "Will Knight",
+    "title": "(No AI) OpenAI Really Wants Codex to Shut Up About Goblins",
+    "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+    "pubDate": "Tue, 28 Apr 2026 23:45:05 +0000",
+    "dc:creator": "Will Knight",
+    "content": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
+    "contentSnippet": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
+    "guid": "69f13a7a0daeba3a9dfca11b",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-28T18:36:47.000Z",
+    "isoDate": "2026-04-28T23:45:05.000Z",
     "source": "Wired AI",
-    "slug": "it-s-undignified-hundreds-of-workers-training-meta-s-ai-could-be-laid-off"
+    "slug": "openai-really-wants-codex-to-shut-up-about-goblins"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-    "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-    "pubDate": "Tue, 28 Apr 2026 13:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-    "contentSnippet": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-    "guid": "69ef5ad6cbaa77bdcc0d5088",
+    "creator": "Paresh Dave, Maxwell Zeff",
+    "title": "(No AI) Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+    "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+    "pubDate": "Tue, 28 Apr 2026 21:35:17 +0000",
+    "dc:creator": "Paresh Dave, Maxwell Zeff",
+    "content": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+    "contentSnippet": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+    "guid": "69f0dbce6df6d549e4a099d4",
     "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-28T13:00:00.000Z",
+    "isoDate": "2026-04-28T21:35:17.000Z",
     "source": "Wired AI",
-    "slug": "the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards"
+    "slug": "elon-musk-testifies-that-he-started-openai-to-prevent-a-terminator-outcome"
   }
 ]
