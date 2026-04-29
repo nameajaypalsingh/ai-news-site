@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+    "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "pubDate": "Wed, 29 Apr 2026 09:45:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+    "contentSnippet": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of  fleets of autonomous vehicles.",
+    "guid": "https://techcrunch.com/?p=3117209",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Exclusive"
+    ],
+    "isoDate": "2026-04-29T09:45:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "coby-adcock-s-scout-ai-raises-100-million-to-train-its-models-for-war-we-visited-its-bootcamp"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) At his OpenAI trial, Musk relitigates an old friendship",
     "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
@@ -21,53 +39,32 @@
     "slug": "at-his-openai-trial-musk-relitigates-an-old-friendship"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Amazon is already offering new OpenAI products on AWS",
-    "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "pubDate": "Tue, 28 Apr 2026 19:48:02 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-    "contentSnippet": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-    "guid": "https://techcrunch.com/?p=3117152",
-    "categories": [
-      "AI",
-      "TC",
-      "Amazon",
-      "AWS",
-      "In Brief",
-      "OpenAI"
-    ],
-    "isoDate": "2026-04-28T19:48:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amazon-is-already-offering-new-openai-products-on-aws"
+    "title": "(No AI) GitHub rushed to fix a critical vulnerability in less than six hours",
+    "link": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+    "pubDate": "2026-04-29T10:04:25.000Z",
+    "author": "Tom Warren",
+    "content": "![An illustration of the GitHub logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. [Wiz Research used](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\n\n\"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" [explains Alexis Walesa](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/), GitHub chief information security officer. \"This was a critical issue that required immediate action.\"\n\nGitHub's engineering team developed a fix and deployed it ju …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix)",
+    "contentSnippet": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\n\"Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,\" explains Alexis Walesa, GitHub chief information security officer. \"This was a critical issue that required immediate action.\"\nGitHub's engineering team developed a fix and deployed it ju …\nRead the full story at The Verge.",
+    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our security team immediately began validating the bug bounty report. Within [&#8230;]",
+    "id": "https://www.theverge.com/?p=920295",
+    "isoDate": "2026-04-29T10:04:25.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "github-rushed-to-fix-a-critical-vulnerability-in-less-than-six-hours"
   },
   {
-    "title": "(No AI) Elon Musk appeared more petty than prepared",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-    "pubDate": "2026-04-28T23:17:12.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Elon Musk in front of a background of justice scales.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nToday the first witness was sworn in in _Musk v. Altman:_ Elon Musk. I was surprised by how flat he seemed.\n\nThis is not the first time I've seen Musk in court. During his defamation suit, [he turned on the charm](https://www.theverge.com/2019/12/4/20994895/elon-musk-testimony-vernon-unsworth-tweet-negligence-la-courthouse) and the jury responded by [finding him not guilty.](https://www.theverge.com/2019/12/6/20998821/elon-musk-wins-loses-twitter-defamation-trial-testimony-caver-vernon-unsworth-cave-rescue) Today he looked adrift and unprepared. The only times he showed real animation were when he was [bragging about how much he'd done for OpenAI](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity).\n\nThe direct examination is a way of telling a story through questions; it's important to make the narrative clear. For a suit that accuses Sam Altman of straying from OpenAI's mission, Musk spent a weird amount of time talking about himself, recou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one)",
-    "contentSnippet": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed.\nThis is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and unprepared. The only times he showed real animation were when he was bragging about how much he'd done for OpenAI.\nThe direct examination is a way of telling a story through questions; it's important to make the narrative clear. For a suit that accuses Sam Altman of straying from OpenAI's mission, Musk spent a weird amount of time talking about himself, recou …\nRead the full story at The Verge.",
-    "summary": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and [&#8230;]",
-    "id": "https://www.theverge.com/?p=920191",
-    "isoDate": "2026-04-28T23:17:12.000Z",
+    "title": "(No AI) General Motors is adding Gemini to four million cars",
+    "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+    "pubDate": "2026-04-29T09:14:38.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Google Gemini, seen on the infotainments system of an unspecified Chevrolet model.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors\n\nGeneral Motors is planning to bring Google's Gemini AI assistant to around [four million vehicles across the US](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0428-Google-Gemini.html). Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement.\n\nGM says this update represents \"one of the largest deployments of Gemini in the industry,\" and that \"customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.\"\n\nThe assistant …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update)",
+    "contentSnippet": "Gemini is coming to Cadillac, Chevrolet, Buick, and GMC vehicles. | Image: General Motors\t\n\nGeneral Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" according to GM's announcement.\nGM says this update represents \"one of the largest deployments of Gemini in the industry,\" and that \"customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.\" \nThe assistant  …\nRead the full story at The Verge.",
+    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM's infotainment system \"over several months,\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=920285",
+    "isoDate": "2026-04-29T09:14:38.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-appeared-more-petty-than-prepared"
-  },
-  {
-    "title": "(No AI) Elon Musk tells the jury that all he wants to do is save humanity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-    "pubDate": "2026-04-28T20:46:54.000Z",
-    "author": "Kevin Nguyen",
-    "content": "![Elon Musk in front of a background of geometric shapes.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn the stand, Elon Musk is positioning himself as a savior.\n\n[In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit), Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.\n\nWhy is Musk giving the jury so much of his origin story? Though he may be, depending on the day, the world's wealthiest individual, Musk suggested …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity)",
-    "contentSnippet": "On the stand, Elon Musk is positioning himself as a savior.\nIn the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' checks and a bag of clothes and books,\" then spent an unusually long time talking about his past, from Zip2 to PayPal to the current, more familiar slate of companies he now runs.\nWhy is Musk giving the jury so much of his origin story? Though he may be, depending on the day, the world's wealthiest individual, Musk suggested  …\nRead the full story at The Verge.",
-    "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' [&#8230;]",
-    "id": "https://www.theverge.com/?p=920048",
-    "isoDate": "2026-04-28T20:46:54.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-tells-the-jury-that-all-he-wants-to-do-is-save-humanity"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-AI-in-a-Chevrolet.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "general-motors-is-adding-gemini-to-four-million-cars"
   },
   {
     "title": "(No AI) OpenAI models, Codex, and Managed Agents come to AWS",
@@ -121,36 +118,36 @@
   },
   {
     "creator": "Will Knight",
-    "title": "(No AI) OpenAI Really Wants Codex to Shut Up About Goblins",
-    "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-    "pubDate": "Tue, 28 Apr 2026 23:45:05 +0000",
+    "title": "(No AI) When Robots Have Their ChatGPT Moment, Remember These Pincers",
+    "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "pubDate": "Wed, 29 Apr 2026 10:00:00 +0000",
     "dc:creator": "Will Knight",
-    "content": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
-    "contentSnippet": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
-    "guid": "69f13a7a0daeba3a9dfca11b",
+    "content": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
+    "contentSnippet": "From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?",
+    "guid": "69cafcc56dd94342bce0ed8e",
     "categories": [
+      "The Big Story",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-28T23:45:05.000Z",
+    "isoDate": "2026-04-29T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-really-wants-codex-to-shut-up-about-goblins"
+    "slug": "when-robots-have-their-chatgpt-moment-remember-these-pincers"
   },
   {
-    "creator": "Paresh Dave, Maxwell Zeff",
-    "title": "(No AI) Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-    "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-    "pubDate": "Tue, 28 Apr 2026 21:35:17 +0000",
-    "dc:creator": "Paresh Dave, Maxwell Zeff",
-    "content": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-    "contentSnippet": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-    "guid": "69f0dbce6df6d549e4a099d4",
+    "creator": "Emily Mullin",
+    "title": "(No AI) How AI Could Help Combat Antibiotic Resistance",
+    "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+    "pubDate": "Wed, 29 Apr 2026 09:00:00 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+    "contentSnippet": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+    "guid": "69ea1d45ace51dfd0585df99",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Science"
     ],
-    "isoDate": "2026-04-28T21:35:17.000Z",
+    "isoDate": "2026-04-29T09:00:00.000Z",
     "source": "Wired AI",
-    "slug": "elon-musk-testifies-that-he-started-openai-to-prevent-a-terminator-outcome"
+    "slug": "how-ai-could-help-combat-antibiotic-resistance"
   }
 ]
