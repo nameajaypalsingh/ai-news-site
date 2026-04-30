@@ -115,6 +115,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "David Cox",
+    "title": "(No AI) Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+    "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+    "pubDate": "Thu, 30 Apr 2026 09:00:00 +0000",
+    "dc:creator": "David Cox",
+    "content": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+    "contentSnippet": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+    "guid": "69ebaa217a8a128d0ac8f2e7",
+    "categories": [
+      "Science",
+      "Science / Health"
+    ],
+    "isoDate": "2026-04-30T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "reid-hoffman-thinks-doctors-should-ask-ai-for-a-second-opinion"
+  },
+  {
     "creator": "Maxwell Zeff, Paresh Dave",
     "title": "(No AI) How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
     "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
@@ -130,22 +147,5 @@
     "isoDate": "2026-04-29T23:41:51.000Z",
     "source": "Wired AI",
     "slug": "how-elon-musk-squeezed-openai-they-are-gonna-want-to-kill-me"
-  },
-  {
-    "creator": "Aarian Marshall",
-    "title": "(No AI) Emergency First Responders Say Waymos Are Getting Worse",
-    "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
-    "pubDate": "Wed, 29 Apr 2026 20:45:37 +0000",
-    "dc:creator": "Aarian Marshall",
-    "content": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
-    "contentSnippet": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
-    "guid": "69f1f1e0b031343a84036da1",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-04-29T20:45:37.000Z",
-    "source": "Wired AI",
-    "slug": "emergency-first-responders-say-waymos-are-getting-worse"
   }
 ]
