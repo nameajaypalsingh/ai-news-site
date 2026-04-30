@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Meta says its business AI now facilitates 10 million conversations a week",
+    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "pubDate": "Thu, 30 Apr 2026 12:08:45 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "contentSnippet": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "guid": "https://techcrunch.com/?p=3117862",
+    "categories": [
+      "AI",
+      "Apps",
+      "Facebook",
+      "Instagram",
+      "Mark Zuckerberg",
+      "Meta",
+      "Threads",
+      "WhatsApp"
+    ],
+    "isoDate": "2026-04-30T12:08:45.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
     "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
@@ -18,51 +41,32 @@
     "slug": "softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Amazon’s cloud business is surging — and so is its capital spending",
-    "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-    "pubDate": "Thu, 30 Apr 2026 00:14:23 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-    "contentSnippet": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-    "guid": "https://techcrunch.com/?p=3117647",
-    "categories": [
-      "AI",
-      "Amazon",
-      "Andy Jassy",
-      "AWS"
-    ],
-    "isoDate": "2026-04-30T00:14:23.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amazon-s-cloud-business-is-surging-and-so-is-its-capital-spending"
+    "title": "(No AI) OpenAI talks about not talking about goblins",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+    "pubDate": "2026-04-30T13:42:29.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is opening up about its goblin problem. After [a report from _Wired_](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/) revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" [the AI startup published an explanation](https://openai.com/index/where-the-goblins-came-from/) on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training.\n\nAs outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures [starting with its GPT-5.1 model](https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets) - specifically when using the \"Nerdy\" personality option. OpenAI says the problem continued to worsen with subsequent model re …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins)",
+    "contentSnippet": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as a result of their training.\nAs outlined in the blog post, OpenAI began noticing metaphors referencing goblins and other creatures starting with its GPT-5.1 model - specifically when using the \"Nerdy\" personality option. OpenAI says the problem continued to worsen with subsequent model re …\nRead the full story at The Verge.",
+    "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references to the creatures a \"strange habit\" its models developed as [&#8230;]",
+    "id": "https://www.theverge.com/?p=921181",
+    "isoDate": "2026-04-30T13:42:29.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-talks-about-not-talking-about-goblins"
   },
   {
-    "title": "(No AI) Elon Musk’s worst enemy in court is Elon Musk",
-    "link": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-    "pubDate": "2026-04-30T00:01:24.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Elon Musk in front of a background of court gavels.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_H.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images\n\nAbout five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\"\n\nMusk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" things he'd testified to in the morning, and scolded defense lawyer William Savitt. I watched a few jury members glance at each other. During one testy exchange, one woman wa …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)",
-    "contentSnippet": "Just a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images\t\n\nAbout five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\"\nMusk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" things he'd testified to in the morning, and scolded defense lawyer William Savitt. I watched a few jury members glance at each other. During one testy exchange, one woman wa …\nRead the full story at The Verge.",
-    "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was [&#8230;]",
-    "id": "https://www.theverge.com/?p=921022",
-    "isoDate": "2026-04-30T00:01:24.000Z",
+    "title": "(No AI) Verified by Spotify badge lets you know this artist isn’t AI",
+    "link": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+    "pubDate": "2026-04-30T13:08:23.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Illustration showing off Verified by Spotify badge on Ravyn Lenae’s profile.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/S4A_Verified_Header_Ravyn.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSpotify is launching a new verification program to combat spam, [fakes](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure), and [AI](https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones). Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the concept of artist authenticity is complex and quickly evolving.\"\n\nNot just anyone can be verified, however. Spotify says that there must be \"consist …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/921048/verified-by-spotify-badge)",
+    "contentSnippet": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas or profiles that primarily upload AI-generated music are not eligible for the verification program. It did leave the door open to the possibility in the future, though, saying, \"the concept of artist authenticity is complex and quickly evolving.\"\nNot just anyone can be verified, however. Spotify says that there must be \"consist …\nRead the full story at The Verge.",
+    "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify says that AI personas [&#8230;]",
+    "id": "https://www.theverge.com/?p=921048",
+    "isoDate": "2026-04-30T13:08:23.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-s-worst-enemy-in-court-is-elon-musk"
-  },
-  {
-    "title": "(No AI) Google Search queries hit an ‘all time high’ last quarter",
-    "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-    "pubDate": "2026-04-29T20:28:11.000Z",
-    "author": "Jay Peters",
-    "content": "![An image of Sundar Pichai in front of a Google logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published [as part of Alphabet's earnings on Wednesday](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q1/2026q1-alphabet-earnings-release.pdf).\n\n\"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth.\" He also notes that Q1 was \"our strongest quarter ever for our consumer AI plans, driven by the Gemini App\" and that the company now has more than 350 million paid subscriptions, with \"YouTube and Google One being the key drivers.\"\n\nAlphabet also anno …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai)",
-    "contentSnippet": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday.\n\"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences driving usage, queries at an all time high, and 19% revenue growth.\" He also notes that Q1 was \"our strongest quarter ever for our consumer AI plans, driven by the Gemini App\" and that the company now has more than 350 million paid subscriptions, with \"YouTube and Google One being the key drivers.\"\nAlphabet also anno …\nRead the full story at The Verge.",
-    "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong quarter with AI experiences [&#8230;]",
-    "id": "https://www.theverge.com/?p=920815",
-    "isoDate": "2026-04-29T20:28:11.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-search-queries-hit-an-all-time-high-last-quarter"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/S4A_Verified_Header_Ravyn.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "verified-by-spotify-badge-lets-you-know-this-artist-isn-t-ai"
   },
   {
     "title": "(No AI) Where the goblins came from",
@@ -115,6 +119,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "Ej Dickson ",
+    "title": "(No AI) These Men Allegedly Profit Off Teaching People How to Make AI Porn",
+    "link": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+    "pubDate": "Thu, 30 Apr 2026 10:30:00 +0000",
+    "dc:creator": "Ej Dickson ",
+    "content": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
+    "contentSnippet": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women’s photos to make AI porn influencers, then offered online courses showing others how to do it.",
+    "guid": "69d4101c428586112bdcd3cb",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-04-30T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "these-men-allegedly-profit-off-teaching-people-how-to-make-ai-porn"
+  },
+  {
     "creator": "David Cox",
     "title": "(No AI) Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
     "link": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
@@ -130,22 +151,5 @@
     "isoDate": "2026-04-30T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "reid-hoffman-thinks-doctors-should-ask-ai-for-a-second-opinion"
-  },
-  {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
-    "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
-    "pubDate": "Wed, 29 Apr 2026 23:41:51 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-    "contentSnippet": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-    "guid": "69f23c0a17e0528daa0ebb00",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-04-29T23:41:51.000Z",
-    "source": "Wired AI",
-    "slug": "how-elon-musk-squeezed-openai-they-are-gonna-want-to-kill-me"
   }
 ]
