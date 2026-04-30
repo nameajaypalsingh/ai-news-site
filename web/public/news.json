@@ -1,51 +1,55 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-    "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-    "pubDate": "Wed, 29 Apr 2026 20:59:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-    "contentSnippet": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-    "guid": "https://techcrunch.com/?p=3117616",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Amazon’s cloud business is surging — and so is its capital spending",
+    "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "pubDate": "Thu, 30 Apr 2026 00:14:23 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "contentSnippet": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "guid": "https://techcrunch.com/?p=3117647",
     "categories": [
       "AI",
-      "Apps",
-      "Media & Entertainment",
-      "TC",
-      "earnings",
-      "Google",
-      "YouTube"
+      "Amazon",
+      "Andy Jassy",
+      "AWS"
     ],
-    "isoDate": "2026-04-29T20:59:00.000Z",
+    "isoDate": "2026-04-30T00:14:23.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one"
+    "slug": "amazon-s-cloud-business-is-surging-and-so-is-its-capital-spending"
   },
   {
-    "creator": "Theresa Loconsolo, Rebecca Bellan",
-    "title": "(No AI) Is AI video just a prequel? Runway’s CEO thinks world models are next",
-    "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-    "pubDate": "Wed, 29 Apr 2026 18:59:44 +0000",
-    "dc:creator": "Theresa Loconsolo, Rebecca Bellan",
-    "content": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond \\[…\\]",
-    "contentSnippet": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3117569",
+    "creator": "Marina Temkin, Jagmeet Singh",
+    "title": "(No AI) Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "pubDate": "Thu, 30 Apr 2026 00:07:15 +0000",
+    "dc:creator": "Marina Temkin, Jagmeet Singh",
+    "content": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "contentSnippet": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "guid": "https://techcrunch.com/?p=3117638",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "ai generated video",
-      "ai video",
-      "ceo",
-      "cofounder",
-      "cristobal valenzuela",
-      "Equity podcast",
-      "runway",
-      "VLM",
-      "world models"
+      "Venture",
+      "Anthropic",
+      "Fundraise"
     ],
-    "isoDate": "2026-04-29T18:59:44.000Z",
+    "isoDate": "2026-04-30T00:07:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "is-ai-video-just-a-prequel-runway-s-ceo-thinks-world-models-are-next"
+    "slug": "sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b"
+  },
+  {
+    "title": "(No AI) Elon Musk’s worst enemy in court is Elon Musk",
+    "link": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+    "pubDate": "2026-04-30T00:01:24.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Elon Musk in front of a background of court gavels.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_H.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images\n\nAbout five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\"\n\nMusk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" things he'd testified to in the morning, and scolded defense lawyer William Savitt. I watched a few jury members glance at each other. During one testy exchange, one woman wa …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)",
+    "contentSnippet": "Just a simple country CEO who was being tricked by that sophisticated lawyer | Image: Cath Virginia / The Verge, Getty Images\t\n\nAbout five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\"\nMusk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was immediately obliterated by an absolutely miserable cross-examination. For hours, Musk refused to answer yes or no questions with yes or no, occasionally \"forgot\" things he'd testified to in the morning, and scolded defense lawyer William Savitt. I watched a few jury members glance at each other. During one testy exchange, one woman wa …\nRead the full story at The Verge.",
+    "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that memory was [&#8230;]",
+    "id": "https://www.theverge.com/?p=921022",
+    "isoDate": "2026-04-30T00:01:24.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-s-worst-enemy-in-court-is-elon-musk"
   },
   {
     "title": "(No AI) Google Search queries hit an ‘all time high’ last quarter",
@@ -62,18 +66,18 @@
     "slug": "google-search-queries-hit-an-all-time-high-last-quarter"
   },
   {
-    "title": "(No AI) All the evidence unveiled so far in Musk v. Altman",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-    "pubDate": "2026-04-29T18:03:05.000Z",
-    "author": "Hayden Field",
-    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe _Musk v. Altman_ trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)",
-    "contentSnippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
-    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
-    "id": "https://www.theverge.com/?p=920775",
-    "isoDate": "2026-04-29T18:03:05.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "all-the-evidence-unveiled-so-far-in-musk-v-altman"
+    "title": "(No AI) Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "pubDate": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "content": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "contentSnippet": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "guid": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-04-29T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "building-the-compute-infrastructure-for-the-intelligence-age"
   },
   {
     "title": "(No AI) Cybersecurity in the Intelligence Age",
@@ -88,20 +92,6 @@
     "isoDate": "2026-04-29T04:00:00.000Z",
     "source": "OpenAI",
     "slug": "cybersecurity-in-the-intelligence-age"
-  },
-  {
-    "title": "(No AI) Our commitment to community safety",
-    "link": "https://openai.com/index/our-commitment-to-community-safety",
-    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "content": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "contentSnippet": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "guid": "https://openai.com/index/our-commitment-to-community-safety",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-04-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "our-commitment-to-community-safety"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
@@ -126,6 +116,23 @@
     "slug": "decoupled-diloco-a-new-frontier-for-resilient-distributed-ai-training"
   },
   {
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+    "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+    "pubDate": "Wed, 29 Apr 2026 23:41:51 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+    "contentSnippet": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+    "guid": "69f23c0a17e0528daa0ebb00",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-04-29T23:41:51.000Z",
+    "source": "Wired AI",
+    "slug": "how-elon-musk-squeezed-openai-they-are-gonna-want-to-kill-me"
+  },
+  {
     "creator": "Aarian Marshall",
     "title": "(No AI) Emergency First Responders Say Waymos Are Getting Worse",
     "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
@@ -141,22 +148,5 @@
     "isoDate": "2026-04-29T20:45:37.000Z",
     "source": "Wired AI",
     "slug": "emergency-first-responders-say-waymos-are-getting-worse"
-  },
-  {
-    "creator": "Miles Klee",
-    "title": "(No AI) Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
-    "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
-    "pubDate": "Wed, 29 Apr 2026 20:36:53 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
-    "contentSnippet": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
-    "guid": "69f21a7eb67812f9b4991c42",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-04-29T20:36:53.000Z",
-    "source": "Wired AI",
-    "slug": "taylor-swift-wants-to-trademark-her-likeness-these-tiktok-deepfake-ads-show-why"
   }
 ]
