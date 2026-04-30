@@ -1,6 +1,24 @@
 [
   {
     "creator": "Lucas Ropek",
+    "title": "(No AI) SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "pubDate": "Thu, 30 Apr 2026 03:58:22 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "contentSnippet": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "guid": "https://techcrunch.com/?p=3117844",
+    "categories": [
+      "AI",
+      "robots",
+      "Softbank"
+    ],
+    "isoDate": "2026-04-30T03:58:22.000Z",
+    "source": "TechCrunch AI",
+    "slug": "softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo"
+  },
+  {
+    "creator": "Lucas Ropek",
     "title": "(No AI) Amazon’s cloud business is surging — and so is its capital spending",
     "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
     "pubDate": "Thu, 30 Apr 2026 00:14:23 +0000",
@@ -17,25 +35,6 @@
     "isoDate": "2026-04-30T00:14:23.000Z",
     "source": "TechCrunch AI",
     "slug": "amazon-s-cloud-business-is-surging-and-so-is-its-capital-spending"
-  },
-  {
-    "creator": "Marina Temkin, Jagmeet Singh",
-    "title": "(No AI) Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-    "pubDate": "Thu, 30 Apr 2026 00:07:15 +0000",
-    "dc:creator": "Marina Temkin, Jagmeet Singh",
-    "content": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-    "contentSnippet": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
-    "guid": "https://techcrunch.com/?p=3117638",
-    "categories": [
-      "AI",
-      "Venture",
-      "Anthropic",
-      "Fundraise"
-    ],
-    "isoDate": "2026-04-30T00:07:15.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b"
   },
   {
     "title": "(No AI) Elon Musk’s worst enemy in court is Elon Musk",
@@ -66,6 +65,20 @@
     "slug": "google-search-queries-hit-an-all-time-high-last-quarter"
   },
   {
+    "title": "(No AI) Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "pubDate": "Wed, 29 Apr 2026 20:00:00 GMT",
+    "content": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "contentSnippet": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "guid": "https://openai.com/index/where-the-goblins-came-from",
+    "categories": [
+      "Publication"
+    ],
+    "isoDate": "2026-04-29T20:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "where-the-goblins-came-from"
+  },
+  {
     "title": "(No AI) Building the compute infrastructure for the Intelligence Age",
     "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
     "pubDate": "Wed, 29 Apr 2026 15:00:00 GMT",
@@ -78,20 +91,6 @@
     "isoDate": "2026-04-29T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "building-the-compute-infrastructure-for-the-intelligence-age"
-  },
-  {
-    "title": "(No AI) Cybersecurity in the Intelligence Age",
-    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
-    "content": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-    "contentSnippet": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-    "guid": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-04-29T04:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "cybersecurity-in-the-intelligence-age"
   },
   {
     "title": "(No AI) Announcing our partnership with the Republic of Korea",
