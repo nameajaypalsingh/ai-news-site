@@ -1,47 +1,58 @@
 [
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "pubDate": "Thu, 30 Apr 2026 20:14:47 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
-    "contentSnippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
-    "guid": "https://techcrunch.com/?p=3118182",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "pubDate": "Fri, 01 May 2026 02:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "contentSnippet": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "guid": "https://techcrunch.com/?p=3118178",
     "categories": [
       "AI",
-      "Startups",
-      "jude law",
-      "legal tech",
-      "legora",
-      "nventures"
+      "Apps",
+      "OpenAI",
+      "ChatGPT",
+      "ChatGPT Images 2.0",
+      "ChatGPT Images"
     ],
-    "isoDate": "2026-04-30T20:14:47.000Z",
+    "isoDate": "2026-05-01T02:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "legal-ai-startup-legora-hits-5-6b-valuation-and-its-battle-with-harvey-just-got-hotter"
+    "slug": "chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "pubDate": "Thu, 30 Apr 2026 19:27:41 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-    "contentSnippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-    "guid": "https://techcrunch.com/?p=3118095",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "pubDate": "Thu, 30 Apr 2026 23:07:56 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "contentSnippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "guid": "https://techcrunch.com/?p=3118328",
     "categories": [
       "AI",
-      "Security",
-      "TC",
+      "Venture",
       "Anthropic",
-      "cyber",
-      "In Brief",
-      "Mythos",
-      "OpenAI"
+      "Exclusive",
+      "megarounds"
     ],
-    "isoDate": "2026-04-30T19:27:41.000Z",
+    "isoDate": "2026-04-30T23:07:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too"
+    "slug": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks"
+  },
+  {
+    "title": "(No AI) The craziest part of Musk v. Altman happened while the jury was out of the room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+    "pubDate": "2026-04-30T22:59:51.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOkay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\n\nJared \"[James Brickhouse](https://www.theverge.com/2019/12/5/20996680/elon-musk-testimony-vernon-unsworth-tweet-humiliated-dirtied-defamation)\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the _very_ end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\n\nThe lawyer conducting his direct examination …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)",
+    "contentSnippet": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\nJared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination  …\nRead the full story at The Verge.",
+    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
+    "id": "https://www.theverge.com/?p=921713",
+    "isoDate": "2026-04-30T22:59:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-craziest-part-of-musk-v-altman-happened-while-the-jury-was-out-of-the-room"
   },
   {
     "title": "(No AI) All the evidence unveiled so far in Musk v. Altman",
@@ -56,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "all-the-evidence-unveiled-so-far-in-musk-v-altman"
-  },
-  {
-    "title": "(No AI) Elon Musk confirms xAI used OpenAI’s models to train Grok",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-    "pubDate": "2026-04-30T18:16:57.000Z",
-    "author": "Hayden Field",
-    "content": "![Elon Musk in front of a background of justice scales.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own.\n\nThe matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI labs to try to get their models to mimic the performance of a larger competitor's model.\n\nAsked on the stand whether he knew what model distillation …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation)",
-    "contentSnippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. \nThe matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI labs to try to get their models to mimic the performance of a larger competitor's model. \nAsked on the stand whether he knew what model distillation …\nRead the full story at The Verge.",
-    "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller [&#8230;]",
-    "id": "https://www.theverge.com/?p=921546",
-    "isoDate": "2026-04-30T18:16:57.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-confirms-xai-used-openai-s-models-to-train-grok"
   },
   {
     "title": "(No AI) Introducing Advanced Account Security",
@@ -122,37 +119,37 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-    "pubDate": "Thu, 30 Apr 2026 18:54:54 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-    "contentSnippet": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
-    "guid": "69ef85e487c24c30ec9667da",
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
+    "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+    "pubDate": "Fri, 01 May 2026 00:51:18 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+    "contentSnippet": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
+    "guid": "69f3b1896a60d4b23b618124",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-04-30T18:54:54.000Z",
+    "isoDate": "2026-05-01T00:51:18.000Z",
     "source": "Wired AI",
-    "slug": "musk-v-altman-kicks-off-doj-guts-voting-rights-unit-and-is-the-ai-job-apocalypse-overhyped"
+    "slug": "how-shivon-zilis-operated-as-elon-musk-s-openai-insider"
   },
   {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-    "link": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-    "pubDate": "Thu, 30 Apr 2026 17:41:14 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-    "contentSnippet": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-    "guid": "69f3820c17e0528daa0ec802",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Good Luck Getting a Mac Mini for the Next ‘Several Months’",
+    "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
+    "pubDate": "Thu, 30 Apr 2026 23:00:51 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+    "contentSnippet": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
+    "guid": "69f3cd3c4434440beb7ce47d",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-04-30T17:41:14.000Z",
+    "isoDate": "2026-04-30T23:00:51.000Z",
     "source": "Wired AI",
-    "slug": "elon-musk-seemingly-admits-xai-has-used-openai-s-models-to-train-its-own"
+    "slug": "good-luck-getting-a-mac-mini-for-the-next-several-months"
   }
 ]
