@@ -1,5 +1,29 @@
 [
   {
+    "creator": "Ram Iyer",
+    "title": "(No AI) Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "pubDate": "Fri, 01 May 2026 16:02:36 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "contentSnippet": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "guid": "https://techcrunch.com/?p=3118436",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "AWS",
+      "Defense Department",
+      "Google",
+      "Microsoft",
+      "nvidia",
+      "OpenAI",
+      "SpaceX"
+    ],
+    "isoDate": "2026-05-01T16:02:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
@@ -11,62 +35,42 @@
     "categories": [
       "AI",
       "Apps",
-      "OpenAI",
       "ChatGPT",
+      "ChatGPT Images",
       "ChatGPT Images 2.0",
-      "ChatGPT Images"
+      "OpenAI"
     ],
     "isoDate": "2026-05-01T02:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "pubDate": "Thu, 30 Apr 2026 23:07:56 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "contentSnippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-    "guid": "https://techcrunch.com/?p=3118328",
-    "categories": [
-      "AI",
-      "Venture",
-      "Anthropic",
-      "Exclusive",
-      "megarounds"
-    ],
-    "isoDate": "2026-04-30T23:07:56.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks"
+    "title": "(No AI) Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "pubDate": "2026-05-01T14:09:56.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of Pete Hegseth](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an [announcement on Friday](https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/). At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - after declaring it a supply-chain risk.\n\nThis builds upon deals with [OpenAI](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) and [xAI](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok), which have already reached agreements with the Pentagon for the \"lawful\" use of their AI systems. A report from _The Information_ [suggests Google has struck a similar agreement](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal). As noted [by _The Wall Street Journal_](https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78?mod=rss_Technology), Mi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia)",
+    "contentSnippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - after declaring it a supply-chain risk.\nThis builds upon deals with OpenAI and xAI, which have already reached agreements with the Pentagon for the \"lawful\" use of their AI systems. A report from The Information suggests Google has struck a similar agreement. As noted by The Wall Street Journal, Mi …\nRead the full story at The Verge.",
+    "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - [&#8230;]",
+    "id": "https://www.theverge.com/?p=922113",
+    "isoDate": "2026-05-01T14:09:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but-not-anthropic"
   },
   {
-    "title": "(No AI) Microsoft wants lawyers to trust its new AI agent in Word documents",
-    "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-    "pubDate": "2026-05-01T11:18:54.000Z",
-    "author": "Tom Warren",
-    "content": "![Vector illustration of the Microsoft logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.\n\n\"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" [explains Sumit Chauhan](https://techcommunity.microsoft.com/blog/microsoft365copilotblog/word-legal-agent-in-frontier/4516218), corporate vice president of Microsoft's Office Product Group.\n\nThe Legal Agent can work with existing documents that have tracked changes, and analyz …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)",
-    "contentSnippet": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts.\n\"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing clearly defined, repeatable tasks like reviewing contracts clause by clause against a playbook,\" explains Sumit Chauhan, corporate vice president of Microsoft's Office Product Group. \nThe Legal Agent can work with existing documents that have tracked changes, and analyz …\nRead the full story at The Verge.",
-    "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing [&#8230;]",
-    "id": "https://www.theverge.com/?p=921944",
-    "isoDate": "2026-05-01T11:18:54.000Z",
+    "title": "(No AI) Elon Musk had a bad week in court",
+    "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+    "pubDate": "2026-05-01T13:33:15.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0,0,100,100)\n\nElon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was [the actual driving force](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity) behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nInstead, Musk spent much of the week [arguing with lawyers](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one) (including his own!), changing his story, an …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast)",
+    "contentSnippet": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nInstead, Musk spent much of the week arguing with lawyers (including his own!), changing his story, an …\nRead the full story at The Verge.",
+    "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd [&#8230;]",
+    "id": "https://www.theverge.com/?p=922009",
+    "isoDate": "2026-05-01T13:33:15.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832913/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-wants-lawyers-to-trust-its-new-ai-agent-in-word-documents"
-  },
-  {
-    "title": "(No AI) The craziest part of Musk v. Altman happened while the jury was out of the room",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-    "pubDate": "2026-04-30T22:59:51.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOkay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\n\nJared \"[James Brickhouse](https://www.theverge.com/2019/12/5/20996680/elon-musk-testimony-vernon-unsworth-tweet-humiliated-dirtied-defamation)\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the _very_ end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\n\nThe lawyer conducting his direct examination …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)",
-    "contentSnippet": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big.\nJared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination  …\nRead the full story at The Verge.",
-    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was [&#8230;]",
-    "id": "https://www.theverge.com/?p=921713",
-    "isoDate": "2026-04-30T22:59:51.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-craziest-part-of-musk-v-altman-happened-while-the-jury-was-out-of-the-room"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-had-a-bad-week-in-court"
   },
   {
     "title": "(No AI) Introducing Advanced Account Security",
