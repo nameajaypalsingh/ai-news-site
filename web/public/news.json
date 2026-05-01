@@ -1,5 +1,35 @@
 [
   {
+    "creator": "Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
+    "title": "(No AI) Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "pubDate": "Fri, 01 May 2026 17:44:29 +0000",
+    "dc:creator": "Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
+    "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the \\[…\\]",
+    "contentSnippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3118455",
+    "categories": [
+      "AI",
+      "Startups",
+      "Amazon earnings",
+      "BMW i Ventures",
+      "defense tech",
+      "earnings",
+      "Elon Musk",
+      "Equity podcast",
+      "google earnings",
+      "lawsuit",
+      "microsoft earnings",
+      "musk v altman",
+      "musk v openai",
+      "sam altman",
+      "Scout AI"
+    ],
+    "isoDate": "2026-05-01T17:44:29.000Z",
+    "source": "TechCrunch AI",
+    "slug": "did-you-know-you-can-t-steal-a-charity-don-t-worry-elon-musk-will-remind-you"
+  },
+  {
     "creator": "Ram Iyer",
     "title": "(No AI) Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
@@ -24,25 +54,18 @@
     "slug": "pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "pubDate": "Fri, 01 May 2026 02:00:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-    "contentSnippet": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-    "guid": "https://techcrunch.com/?p=3118178",
-    "categories": [
-      "AI",
-      "Apps",
-      "ChatGPT",
-      "ChatGPT Images",
-      "ChatGPT Images 2.0",
-      "OpenAI"
-    ],
-    "isoDate": "2026-05-01T02:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet"
+    "title": "(No AI) All the evidence revealed so far in Musk v. Altman",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "pubDate": "2026-05-01T19:14:51.000Z",
+    "author": "Hayden Field",
+    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe _Musk v. Altman_ trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)",
+    "contentSnippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: Nvidia CEO Jensen Huang gave OpenAI an in-demand supercomputer, Musk largely drafted OpenAI's mission and heavily influenced its early structure, OpenAI CEO Sam Altman appeared to want to lean heavily on Y Combinator for early support for OpenAI, OpenAI president Greg Brockman and Ilya Sutskever worried about Musk's level of con …\nRead the full story at The Verge.",
+    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: [&#8230;]",
+    "id": "https://www.theverge.com/?p=920775",
+    "isoDate": "2026-05-01T19:14:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "all-the-evidence-revealed-so-far-in-musk-v-altman"
   },
   {
     "title": "(No AI) Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
@@ -57,20 +80,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but-not-anthropic"
-  },
-  {
-    "title": "(No AI) Elon Musk had a bad week in court",
-    "link": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-    "pubDate": "2026-05-01T13:33:15.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0,0,100,100)\n\nElon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was [the actual driving force](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity) behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nInstead, Musk spent much of the week [arguing with lawyers](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one) (including his own!), changing his story, an …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast)",
-    "contentSnippet": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd think he'd have done better when it was his time to take the stand.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nInstead, Musk spent much of the week arguing with lawyers (including his own!), changing his story, an …\nRead the full story at The Verge.",
-    "summary": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but he's fighting it anyway. So you'd [&#8230;]",
-    "id": "https://www.theverge.com/?p=922009",
-    "isoDate": "2026-05-01T13:33:15.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-had-a-bad-week-in-court"
   },
   {
     "title": "(No AI) Introducing Advanced Account Security",
@@ -123,6 +132,22 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Taylor Lorenz",
+    "title": "(No AI) A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "pubDate": "Fri, 01 May 2026 20:25:28 +0000",
+    "dc:creator": "Taylor Lorenz",
+    "content": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "contentSnippet": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+    "guid": "69efd07746809921753a0fa4",
+    "categories": [
+      "Business"
+    ],
+    "isoDate": "2026-05-01T20:25:28.000Z",
+    "source": "Wired AI",
+    "slug": "a-dark-money-campaign-is-paying-influencers-to-frame-chinese-ai-as-a-threat"
+  },
+  {
     "creator": "Maxwell Zeff, Paresh Dave",
     "title": "(No AI) How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
     "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
@@ -138,22 +163,5 @@
     "isoDate": "2026-05-01T00:51:18.000Z",
     "source": "Wired AI",
     "slug": "how-shivon-zilis-operated-as-elon-musk-s-openai-insider"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Good Luck Getting a Mac Mini for the Next ‘Several Months’",
-    "link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/",
-    "pubDate": "Thu, 30 Apr 2026 23:00:51 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-    "contentSnippet": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
-    "guid": "69f3cd3c4434440beb7ce47d",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-04-30T23:00:51.000Z",
-    "source": "Wired AI",
-    "slug": "good-luck-getting-a-mac-mini-for-the-next-several-months"
   }
 ]
