@@ -120,6 +120,26 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Lily Hay Newman, Andy Greenberg, Andrew Couts",
+    "title": "(No AI) Disneyland Now Uses Face Recognition on Visitors",
+    "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+    "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Andy Greenberg, Andrew Couts",
+    "content": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+    "contentSnippet": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+    "guid": "69f4e545acee534df6ede0bc",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-05-02T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "disneyland-now-uses-face-recognition-on-visitors"
+  },
+  {
     "creator": "Taylor Lorenz",
     "title": "(No AI) A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
     "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
@@ -134,22 +154,5 @@
     "isoDate": "2026-05-01T20:25:28.000Z",
     "source": "Wired AI",
     "slug": "a-dark-money-campaign-is-paying-influencers-to-frame-chinese-ai-as-a-threat"
-  },
-  {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-    "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-    "pubDate": "Fri, 01 May 2026 00:51:18 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-    "contentSnippet": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-    "guid": "69f3b1896a60d4b23b618124",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-01T00:51:18.000Z",
-    "source": "Wired AI",
-    "slug": "how-shivon-zilis-operated-as-elon-musk-s-openai-insider"
   }
 ]
