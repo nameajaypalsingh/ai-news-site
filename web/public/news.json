@@ -118,6 +118,24 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Todd Feathers",
+    "title": "(No AI) He Couldn’t Land a Job Interview. Was AI to Blame?",
+    "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
+    "pubDate": "Tue, 05 May 2026 10:00:00 +0000",
+    "dc:creator": "Todd Feathers",
+    "content": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+    "contentSnippet": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
+    "guid": "69a8dd65851f00c22df34988",
+    "categories": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-05T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "he-couldn-t-land-a-job-interview-was-ai-to-blame"
+  },
+  {
     "creator": "Maxwell Zeff, Paresh Dave",
     "title": "(No AI) Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
     "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
@@ -133,25 +151,5 @@
     "isoDate": "2026-05-04T23:19:52.000Z",
     "source": "Wired AI",
     "slug": "greg-brockman-defends-30b-openai-stake-blood-sweat-and-tears"
-  },
-  {
-    "creator": "Lily Hay Newman, Andy Greenberg, Andrew Couts",
-    "title": "(No AI) Disneyland Now Uses Face Recognition on Visitors",
-    "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
-    "dc:creator": "Lily Hay Newman, Andy Greenberg, Andrew Couts",
-    "content": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-    "contentSnippet": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-    "guid": "69f4e545acee534df6ede0bc",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-05-02T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "disneyland-now-uses-face-recognition-on-visitors"
   }
 ]
