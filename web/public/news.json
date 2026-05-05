@@ -1,71 +1,84 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "pubDate": "Tue, 05 May 2026 03:31:54 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "contentSnippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "guid": "https://techcrunch.com/?p=3119100",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "pubDate": "Tue, 05 May 2026 17:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+    "contentSnippet": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+    "guid": "https://techcrunch.com/?p=3119248",
     "categories": [
       "AI",
-      "chips",
-      "Jensen Huang",
-      "nvidia"
-    ],
-    "isoDate": "2026-05-05T03:31:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "pubDate": "Mon, 04 May 2026 21:53:21 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "contentSnippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "guid": "https://techcrunch.com/?p=3118909",
-    "categories": [
-      "AI",
-      "Startups",
-      "TC",
-      "cerebras systems",
-      "IPO",
+      "ChatGPT",
       "OpenAI"
     ],
-    "isoDate": "2026-05-04T21:53:21.000Z",
+    "isoDate": "2026-05-05T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo"
+    "slug": "openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt"
   },
   {
-    "title": "(No AI) OpenAI’s president does ‘all the things,’ except answer a question",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-    "pubDate": "2026-05-04T23:49:33.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Graphic photo collage of Sam Altman and Elon Musk.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images\n\nThe strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.\n\nBrockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say it that way,\" and \"That sounds like something I wrote. Can I see it in context?\" When Musk's attorney, Steven Molo, read some of the evidence aloud, Brockman would pedantically correct him if he skipped a word, even if that word was \"a\" or \"the.\" Wh …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)",
-    "contentSnippet": "When the bromance sours, we all end up in court. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThe strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second.\nBrockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club energy. There was a lot of \"I wouldn't characterize it that way,\" \"I wouldn't say it that way,\" and \"That sounds like something I wrote. Can I see it in context?\" When Musk's attorney, Steven Molo, read some of the evidence aloud, Brockman would pedantically correct him if he skipped a word, even if that word was \"a\" or \"the.\" Wh …\nRead the full story at The Verge.",
-    "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club [&#8230;]",
-    "id": "https://www.theverge.com/?p=923684",
-    "isoDate": "2026-05-04T23:49:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-president-does-all-the-things-except-answer-a-question"
+    "creator": "Sarah Perez",
+    "title": "(No AI) PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "pubDate": "Tue, 05 May 2026 15:49:55 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
+    "contentSnippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
+    "guid": "https://techcrunch.com/?p=3119211",
+    "categories": [
+      "AI",
+      "Commerce",
+      "Fintech",
+      "PayPal",
+      "turnaround",
+      "Venmo"
+    ],
+    "isoDate": "2026-05-05T15:49:55.000Z",
+    "source": "TechCrunch AI",
+    "slug": "paypal-says-it-s-becoming-a-technology-company-again-that-means-ai"
   },
   {
-    "title": "(No AI) The creator of Roomba is back with a furry robot companion",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "pubDate": "2026-05-04T16:51:38.000Z",
-    "author": "Jennifer Pattison Tuohy",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic\n\nColin Angle, the maker of the Roomba and the man who helped put [50 million household robots](https://www.businessinsider.com/roomba-irobot-bankruptcy-warning-rise-fall-2025-11) into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner.\n\nThe first robot from Angle's new company, [Familiar Machines & Magic](https://www.prnewswire.com/news-releases/roomba-pioneer-colin-angle-unveils-new-venture-familiar-machines--magic-introducing-a-new-platform-for-consumer-physical-ai-302761495.html), is a dog-sized robotic pet that resembles a cross between a bear, a barn owl, and a golden retriever. It has an expressive face, with movable eyebrows, ears, and eyes, and the company calls it a \"Familiar,\" a name meant to evoke folklore around the idea of a supernatural companion. Based on a demo video I saw ahead of its appearance at the [WSJ Future of Everything](https://futureofeverything.wsj.com/) conference this w …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)",
-    "contentSnippet": "The first “Familiar” from Colin Angle’s new startup, Familiar Machines & Magic, is a robot that is designed to live in your home and interact autonomously with family members. | Image: Familiar Machines and Magic\t\n\nColin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner.\nThe first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that resembles a cross between a bear, a barn owl, and a golden retriever. It has an expressive face, with movable eyebrows, ears, and eyes, and the company calls it a \"Familiar,\" a name meant to evoke folklore around the idea of a supernatural companion. Based on a demo video I saw ahead of its appearance at the WSJ Future of Everything conference this w …\nRead the full story at The Verge.",
-    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that resembles [&#8230;]",
-    "id": "https://www.theverge.com/?p=922947",
-    "isoDate": "2026-05-04T16:51:38.000Z",
+    "title": "(No AI) OpenAI claims ChatGPT’s new default model hallucinates way less",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+    "pubDate": "2026-05-05T17:00:00.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have [been an ongoing problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong) for AI models, but [OpenAI says](https://openai.com/index/gpt-5-5-instant/) its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\"\n\nThe company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced inaccurate claims by 37.3% on especially challenging conversations users had flagged for factual errors.\"\n\nOpenAI also claims that GPT-5.5 Instant is …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)",
+    "contentSnippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\"\nThe company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced inaccurate claims by 37.3% on especially challenging conversations users had flagged for factual errors.\"\nOpenAI also claims that GPT-5.5 Instant is  …\nRead the full story at The Verge.",
+    "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its [&#8230;]",
+    "id": "https://www.theverge.com/?p=924225",
+    "isoDate": "2026-05-05T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-creator-of-roomba-is-back-with-a-furry-robot-companion"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-claims-chatgpt-s-new-default-model-hallucinates-way-less"
+  },
+  {
+    "title": "(No AI) Meta sued by major book publishers over copyright infringement",
+    "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+    "pubDate": "2026-05-05T16:52:38.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546027/STK043_META_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as [reported earlier by _The New York Times_](https://www.nytimes.com/2026/05/05/books/publishers-turow-meta-zuckerberg-lawsuit-copyright.html?partner=slack&smid=sl-share). In [their suit](https://www.documentcloud.org/documents/28094627-publishers-v-meta/), Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission.\n\nThe lawsuit accuses Meta of knowingly ripping copyrighted work from \"notorious pirate sites,\" such as LibGen, Anna's Archive, Sci-Hub, Sci-Mag, and others, and then feeding that material in …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright)",
+    "contentSnippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission.\nThe lawsuit accuses Meta of knowingly ripping copyrighted work from \"notorious pirate sites,\" such as LibGen, Anna's Archive, Sci-Hub, Sci-Mag, and others, and then feeding that material in …\nRead the full story at The Verge.",
+    "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, [&#8230;]",
+    "id": "https://www.theverge.com/?p=924230",
+    "isoDate": "2026-05-05T16:52:38.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546027/STK043_META_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-sued-by-major-book-publishers-over-copyright-infringement"
+  },
+  {
+    "title": "(No AI) GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+    "content": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "contentSnippet": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "guid": "https://openai.com/index/gpt-5-5-instant",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "gpt-5-5-instant-smarter-clearer-and-more-personalized"
   },
   {
     "title": "(No AI) OpenAI and PwC collaborate to reimagine the office of the CFO",
@@ -80,20 +93,6 @@
     "isoDate": "2026-05-04T21:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo"
-  },
-  {
-    "title": "(No AI) How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
-    "content": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-    "contentSnippet": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-    "guid": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "categories": [
-      "Engineering"
-    ],
-    "isoDate": "2026-05-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-openai-delivers-low-latency-voice-ai-at-scale"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
@@ -118,6 +117,23 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+    "pubDate": "Tue, 05 May 2026 11:59:20 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+    "contentSnippet": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
+    "guid": "69f9b3ca89893d4d2fd1f9ae",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-05-05T11:59:20.000Z",
+    "source": "Wired AI",
+    "slug": "google-deepmind-workers-vote-to-unionize-over-military-ai-deals"
+  },
+  {
     "creator": "Todd Feathers",
     "title": "(No AI) He Couldn’t Land a Job Interview. Was AI to Blame?",
     "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
@@ -134,22 +150,5 @@
     "isoDate": "2026-05-05T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "he-couldn-t-land-a-job-interview-was-ai-to-blame"
-  },
-  {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-    "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-    "pubDate": "Mon, 04 May 2026 23:19:52 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-    "contentSnippet": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-    "guid": "69f8d886695a64015ab422d6",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-04T23:19:52.000Z",
-    "source": "Wired AI",
-    "slug": "greg-brockman-defends-30b-openai-stake-blood-sweat-and-tears"
   }
 ]
