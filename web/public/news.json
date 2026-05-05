@@ -1,70 +1,88 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-    "pubDate": "Tue, 05 May 2026 17:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
-    "contentSnippet": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
-    "guid": "https://techcrunch.com/?p=3119248",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "pubDate": "Tue, 05 May 2026 20:56:41 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "contentSnippet": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "guid": "https://techcrunch.com/?p=3119357",
     "categories": [
       "AI",
-      "ChatGPT",
-      "OpenAI"
+      "Apps",
+      "TC",
+      "Apple",
+      "artificial intelligence",
+      "Google",
+      "iOS 27"
     ],
-    "isoDate": "2026-05-05T17:00:00.000Z",
+    "isoDate": "2026-05-05T20:56:41.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt"
+    "slug": "apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) PayPal says it’s ‘becoming a technology company again.’ That means AI.",
-    "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-    "pubDate": "Tue, 05 May 2026 15:49:55 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
-    "contentSnippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack.",
-    "guid": "https://techcrunch.com/?p=3119211",
+    "creator": "Connie Loizos",
+    "title": "(No AI) ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+    "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "pubDate": "Tue, 05 May 2026 20:06:40 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+    "contentSnippet": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+    "guid": "https://techcrunch.com/?p=3119346",
     "categories": [
       "AI",
-      "Commerce",
-      "Fintech",
-      "PayPal",
-      "turnaround",
-      "Venmo"
+      "ASML",
+      "Christophe Fouquet",
+      "Jensen Huang",
+      "nvidia",
+      "TSMC"
     ],
-    "isoDate": "2026-05-05T15:49:55.000Z",
+    "isoDate": "2026-05-05T20:06:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "paypal-says-it-s-becoming-a-technology-company-again-that-means-ai"
+    "slug": "asml-ceo-christophe-fouquet-on-his-company-s-monopoly-no-one-is-coming-for-us"
   },
   {
-    "title": "(No AI) OpenAI claims ChatGPT’s new default model hallucinates way less",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-    "pubDate": "2026-05-05T17:00:00.000Z",
+    "title": "(No AI) Microsoft gives up on Xbox Copilot AI",
+    "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "pubDate": "2026-05-05T19:54:37.000Z",
     "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have [been an ongoing problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong) for AI models, but [OpenAI says](https://openai.com/index/gpt-5-5-instant/) its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\"\n\nThe company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced inaccurate claims by 37.3% on especially challenging conversations users had flagged for factual errors.\"\n\nOpenAI also claims that GPT-5.5 Instant is …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)",
-    "contentSnippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\"\nThe company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its Instant model for GPT-5.3 \"on high-stakes prompts covering areas like medicine, law, and finance.\" GPT-5.5 Instant also \"reduced inaccurate claims by 37.3% on especially challenging conversations users had flagged for factual errors.\"\nOpenAI also claims that GPT-5.5 Instant is  …\nRead the full story at The Verge.",
-    "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\" GPT-5.5 Instant produced \"52.5% fewer hallucinated claims\" than its [&#8230;]",
-    "id": "https://www.theverge.com/?p=924225",
-    "isoDate": "2026-05-05T17:00:00.000Z",
+    "content": "![Promo image showing Xbox Copilot AI on mobile screens around a TV](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nXbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows [Sharma's reorganization](https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes) of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox side of the company.\n\n[Sharma, on X](https://x.com/asha_shar/status/2051746410660593933?s=46):\n\n> Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.\n> \n> Today, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get th …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)",
+    "contentSnippet": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox side of the company.\nSharma, on X:\nXbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.\nToday, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get th …\n\nRead the full story at The Verge.",
+    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox [&#8230;]",
+    "id": "https://www.theverge.com/?p=924551",
+    "isoDate": "2026-05-05T19:54:37.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-claims-chatgpt-s-new-default-model-hallucinates-way-less"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-gives-up-on-xbox-copilot-ai"
   },
   {
-    "title": "(No AI) Meta sued by major book publishers over copyright infringement",
-    "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-    "pubDate": "2026-05-05T16:52:38.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546027/STK043_META_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as [reported earlier by _The New York Times_](https://www.nytimes.com/2026/05/05/books/publishers-turow-meta-zuckerberg-lawsuit-copyright.html?partner=slack&smid=sl-share). In [their suit](https://www.documentcloud.org/documents/28094627-publishers-v-meta/), Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission.\n\nThe lawsuit accuses Meta of knowingly ripping copyrighted work from \"notorious pirate sites,\" such as LibGen, Anna's Archive, Sci-Hub, Sci-Mag, and others, and then feeding that material in …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright)",
-    "contentSnippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, and author Scott Turow allege that Meta \"repeatedly copied\" their books and journal articles without permission.\nThe lawsuit accuses Meta of knowingly ripping copyrighted work from \"notorious pirate sites,\" such as LibGen, Anna's Archive, Sci-Hub, Sci-Mag, and others, and then feeding that material in …\nRead the full story at The Verge.",
-    "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmillan, McGraw-Hill, Elsevier, Hachette, Cengage, [&#8230;]",
-    "id": "https://www.theverge.com/?p=924230",
-    "isoDate": "2026-05-05T16:52:38.000Z",
+    "title": "(No AI) Apple could let you pick a favorite AI model in iOS 27",
+    "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+    "pubDate": "2026-05-05T19:45:30.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A hands-on photo of Apple’s iPhone 16E.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-05-05/ios-27-features-apple-plans-to-let-users-swap-models-across-apple-intelligence)'s Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to [running Siri](https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27), compatible third-party AI models, called \"Extensions,\" will also now be able to run other Apple Intelligence features like Writing Tools and Image Playground.\n\nAccording to Gurman, Apple will also allow users to choose different Siri voices for different AI models - Siri responses from one of Apple's …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27)",
+    "contentSnippet": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running Siri, compatible third-party AI models, called \"Extensions,\" will also now be able to run other Apple Intelligence features like Writing Tools and Image Playground. \nAccording to Gurman, Apple will also allow users to choose different Siri voices for different AI models - Siri responses from one of Apple's  …\nRead the full story at The Verge.",
+    "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running [&#8230;]",
+    "id": "https://www.theverge.com/?p=924515",
+    "isoDate": "2026-05-05T19:45:30.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546027/STK043_META_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-sued-by-major-book-publishers-over-copyright-infringement"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-could-let-you-pick-a-favorite-ai-model-in-ios-27"
+  },
+  {
+    "title": "(No AI) GPT-5.5 Instant System Card",
+    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+    "guid": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-05-05T10:00:00.000Z",
+    "content": "",
+    "contentSnippet": "",
+    "source": "OpenAI",
+    "slug": "gpt-5-5-instant-system-card"
   },
   {
     "title": "(No AI) GPT-5.5 Instant: smarter, clearer, and more personalized",
@@ -79,20 +97,6 @@
     "isoDate": "2026-05-05T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "gpt-5-5-instant-smarter-clearer-and-more-personalized"
-  },
-  {
-    "title": "(No AI) OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "pubDate": "Mon, 04 May 2026 21:00:00 GMT",
-    "content": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-    "contentSnippet": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-    "guid": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-05-04T21:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
