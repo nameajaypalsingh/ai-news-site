@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "pubDate": "Tue, 05 May 2026 03:31:54 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "contentSnippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "guid": "https://techcrunch.com/?p=3119100",
+    "categories": [
+      "AI",
+      "chips",
+      "Jensen Huang",
+      "nvidia"
+    ],
+    "isoDate": "2026-05-05T03:31:54.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
     "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
@@ -19,28 +38,6 @@
     "isoDate": "2026-05-04T21:53:21.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-s-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Image AI models now drive app growth, beating chatbot upgrades",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "pubDate": "Mon, 04 May 2026 19:12:49 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "contentSnippet": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "guid": "https://techcrunch.com/?p=3118889",
-    "categories": [
-      "AI",
-      "Apps",
-      "ai apps",
-      "ChatGPT",
-      "gemini",
-      "image models",
-      "meta ai"
-    ],
-    "isoDate": "2026-05-04T19:12:49.000Z",
-    "source": "TechCrunch AI",
-    "slug": "image-ai-models-now-drive-app-growth-beating-chatbot-upgrades"
   },
   {
     "title": "(No AI) OpenAI’s president does ‘all the things,’ except answer a question",
@@ -71,6 +68,20 @@
     "slug": "the-creator-of-roomba-is-back-with-a-furry-robot-companion"
   },
   {
+    "title": "(No AI) OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "pubDate": "Mon, 04 May 2026 21:00:00 GMT",
+    "content": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "contentSnippet": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "guid": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-05-04T21:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo"
+  },
+  {
     "title": "(No AI) How OpenAI delivers low-latency voice AI at scale",
     "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
     "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
@@ -83,20 +94,6 @@
     "isoDate": "2026-05-04T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-openai-delivers-low-latency-voice-ai-at-scale"
-  },
-  {
-    "title": "(No AI) Introducing Advanced Account Security",
-    "link": "https://openai.com/index/advanced-account-security",
-    "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "content": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-    "contentSnippet": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-    "guid": "https://openai.com/index/advanced-account-security",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-04-30T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-advanced-account-security"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
