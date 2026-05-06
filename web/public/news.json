@@ -1,78 +1,95 @@
 [
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "pubDate": "Wed, 06 May 2026 06:47:12 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
-    "contentSnippet": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
-    "guid": "https://techcrunch.com/?p=3119437",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "pubDate": "Wed, 06 May 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "contentSnippet": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "guid": "https://techcrunch.com/?p=3119400",
     "categories": [
-      "AI",
-      "Enterprise",
-      "finland",
-      "peter sarlin",
-      "quantum computing",
-      "qutwo"
-    ],
-    "isoDate": "2026-05-06T06:47:12.000Z",
-    "source": "TechCrunch AI",
-    "slug": "peter-sarlin-s-qutwo-reaches-380m-valuation-in-angel-round"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Marc Lore says that AI will soon enable anyone open a restaurant",
-    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "pubDate": "Wed, 06 May 2026 06:34:32 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-    "contentSnippet": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-    "guid": "https://techcrunch.com/?p=3119385",
-    "categories": [
-      "AI",
-      "Commerce",
-      "Startups",
       "TC",
-      "Cooking",
-      "food",
-      "grubhub",
-      "Marc Lore",
-      "resaturants",
-      "robotics",
-      "wonder"
+      "Startups",
+      "Transportation",
+      "Privacy",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "Media & Entertainment",
+      "AI",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-06T06:34:32.000Z",
+    "isoDate": "2026-05-06T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant"
+    "slug": "3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026"
   },
   {
-    "title": "(No AI) Chrome’s AI features may be hogging 4GB of your computer storage",
-    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "pubDate": "2026-05-06T10:13:09.000Z",
+    "creator": "Kate Park",
+    "title": "(No AI) AI boom pushes Samsung to $1T",
+    "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "pubDate": "Wed, 06 May 2026 13:54:09 +0000",
+    "dc:creator": "Kate Park",
+    "content": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "contentSnippet": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "guid": "https://techcrunch.com/?p=3119623",
+    "categories": [
+      "Enterprise",
+      "AI",
+      "south korea",
+      "Samsung Electronics",
+      "artificialintelligence"
+    ],
+    "isoDate": "2026-05-06T13:54:09.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-boom-pushes-samsung-to-1t"
+  },
+  {
+    "title": "(No AI) Google’s AI search summaries will now quote Reddit",
+    "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+    "pubDate": "2026-05-06T13:00:30.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Illustration of the Chrome logo on a bright and dark red background.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\n\nThe weights.bin file in question is connected to [Google's Gemini Nano AI model](https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply), which powers Chrome AI tools like scam detection, writing assistance, autofill, and suggestion features. As the Gemini Nano model is designed to run lo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)",
-    "contentSnippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\nThe weights.bin file in question is connected to Google's Gemini Nano AI model, which powers Chrome AI tools like scam detection, writing assistance, autofill, and suggestion features. As the Gemini Nano model is designed to run lo …\nRead the full story at The Verge.",
-    "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin [&#8230;]",
-    "id": "https://www.theverge.com/?p=924933",
-    "isoDate": "2026-05-06T10:13:09.000Z",
+    "content": "![A screenshot of first-hand source links being added to Google’s AI Search results.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Google-AI-Search-updates-Reddit-linking.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWant real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge\n\nGoogle is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics.\n\nGoogle says this update aims to address that \"people are increasingly seeking out advice from others\" when searching for information online. This will be relatable for anyone who's added \"Reddit\" to the end of Google Search terms to find experiences from real humans instead of SEO-optimized …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)",
+    "contentSnippet": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge\t\n\nGoogle is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics.\nGoogle says this update aims to address that \"people are increasingly seeking out advice from others\" when searching for information online. This will be relatable for anyone who's added \"Reddit\" to the end of Google Search terms to find experiences from real humans instead of SEO-optimized  …\nRead the full story at The Verge.",
+    "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. [&#8230;]",
+    "id": "https://www.theverge.com/?p=924993",
+    "isoDate": "2026-05-06T13:00:30.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chrome-s-ai-features-may-be-hogging-4gb-of-your-computer-storage"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Google-AI-Search-updates-Reddit-linking.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-search-summaries-will-now-quote-reddit"
   },
   {
-    "title": "(No AI) Google Home’s Gemini AI can handle more complicated requests",
-    "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-    "pubDate": "2026-05-05T21:46:04.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![An image of a Google Nest Hub.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has [updated Gemini for Home to Gemini 3.1](https://support.google.com/googlenest/answer/15962877?visit_id=639136091111453336-67974039&p=app_release_notes&rd=1#zippy=%2Cmay), which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to \"move around\" upcoming events.\n\nLast month, Google also updated Gemini for Home with [improvements for understanding natural language](https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting) and identifying devices correctly. The upgrades follow reports of bugs in Google's new smart home assistant, like [confusing differe …](https://www.theverge.com/news/811363/gemini-for-home-is-seeing-fictional-wildlife-and-fake-people)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)",
-    "contentSnippet": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to \"move around\" upcoming events. \nLast month, Google also updated Gemini for Home with improvements for understanding natural language and identifying devices correctly. The upgrades follow reports of bugs in Google's new smart home assistant, like confusing differe …\nRead the full story at The Verge.",
-    "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better [&#8230;]",
-    "id": "https://www.theverge.com/?p=924755",
-    "isoDate": "2026-05-05T21:46:04.000Z",
+    "title": "(No AI) Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+    "link": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+    "pubDate": "2026-05-06T11:45:41.000Z",
+    "author": "Tom Warren",
+    "content": "![Vector illustration of the Microsoft logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft's LinkedIn chief, Ryan Roslansky, took on an [expanded role](https://www.theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg) at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft.\n\nThe changes, which come a week after Roslansky named a [new CEO of LinkedIn](https://www.linkedin.com/posts/ryanroslansky_last-year-when-satya-nadella-asked-me-to-share-7452746333465255937-S11s/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAmZBMB4ZPLFVeakJlucqgeZbv9Gl1WRKU), are part of a broader reshuffle triggered by Rajesh Jha, executive vice president of Microsoft's experiences and devices group, [retiring from Microsoft](https://www.theverge.com/news/893755/microsoft-rajesh-jha-retirement-head-of-experiences-and-devices-shakeup) after more than 35 years. Jha was responsible for the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle)",
+    "contentSnippet": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work Experiences Group at Microsoft.\nThe changes, which come a week after Roslansky named a new CEO of LinkedIn, are part of a broader reshuffle triggered by Rajesh Jha, executive vice president of Microsoft's experiences and devices group, retiring from Microsoft after more than 35 years. Jha was responsible for the  …\nRead the full story at The Verge.",
+    "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansky, who will now lead a new Work [&#8230;]",
+    "id": "https://www.theverge.com/?p=924931",
+    "isoDate": "2026-05-06T11:45:41.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-home-s-gemini-ai-can-handle-more-complicated-requests"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-office-and-linkedin-chief-now-runs-teams-in-latest-reshuffle"
+  },
+  {
+    "title": "(No AI) Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "link": "https://openai.com/index/mrc-supercomputer-networking",
+    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+    "content": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "contentSnippet": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "guid": "https://openai.com/index/mrc-supercomputer-networking",
+    "categories": [
+      "Engineering"
+    ],
+    "isoDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "unlocking-large-scale-ai-training-networks-with-mrc-multipath-reliable-connection"
   },
   {
     "title": "(No AI) GPT-5.5 Instant: smarter, clearer, and more personalized",
@@ -87,20 +104,6 @@
     "isoDate": "2026-05-05T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "gpt-5-5-instant-smarter-clearer-and-more-personalized"
-  },
-  {
-    "title": "(No AI) GPT-5.5 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-    "guid": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-05-05T10:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
-    "source": "OpenAI",
-    "slug": "gpt-5-5-instant-system-card"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
@@ -125,6 +128,23 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Jeremy White",
+    "title": "(No AI) Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+    "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "pubDate": "Wed, 06 May 2026 10:41:37 +0000",
+    "dc:creator": "Jeremy White",
+    "content": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+    "contentSnippet": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
+    "guid": "69fb00d1d8ca6130148f3249",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-05-06T10:41:37.000Z",
+    "source": "Wired AI",
+    "slug": "apple-will-pay-250-million-to-settle-lawsuit-over-siri-s-ai-features"
+  },
+  {
     "creator": "Alana Hope Levinson ",
     "title": "(No AI) Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
     "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
@@ -140,22 +160,5 @@
     "isoDate": "2026-05-06T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "hasan-piker-self-described-ayatollah-of-woke-wants-ai-to-die"
-  },
-  {
-    "creator": "Paresh Dave, Maxwell Zeff",
-    "title": "(No AI) ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-    "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-    "pubDate": "Tue, 05 May 2026 23:24:58 +0000",
-    "dc:creator": "Paresh Dave, Maxwell Zeff",
-    "content": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-    "contentSnippet": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-    "guid": "69fa6849473a4d48b2c5400d",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-05T23:24:58.000Z",
-    "source": "Wired AI",
-    "slug": "i-actually-thought-he-was-going-to-hit-me-openai-s-greg-brockman-says-of-elon-musk"
   }
 ]
