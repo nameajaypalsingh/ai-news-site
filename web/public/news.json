@@ -1,46 +1,64 @@
 [
   {
     "creator": "Anna Heim",
-    "title": "(No AI) SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "pubDate": "Tue, 05 May 2026 23:50:10 +0000",
+    "title": "(No AI) Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "pubDate": "Wed, 06 May 2026 06:47:12 +0000",
     "dc:creator": "Anna Heim",
-    "content": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "contentSnippet": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "guid": "https://techcrunch.com/?p=3119050",
+    "content": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
+    "contentSnippet": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
+    "guid": "https://techcrunch.com/?p=3119437",
     "categories": [
       "AI",
       "Enterprise",
-      "agentic ai",
-      "Mergers and Acquisitions",
-      "prior labs",
-      "sap",
-      "tabular data"
+      "finland",
+      "peter sarlin",
+      "quantum computing",
+      "qutwo"
     ],
-    "isoDate": "2026-05-05T23:50:10.000Z",
+    "isoDate": "2026-05-06T06:47:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw"
+    "slug": "peter-sarlin-s-qutwo-reaches-380m-valuation-in-angel-round"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "pubDate": "Tue, 05 May 2026 22:57:41 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-    "contentSnippet": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
-    "guid": "https://techcrunch.com/?p=3119445",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Marc Lore says that AI will soon enable anyone open a restaurant",
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "pubDate": "Wed, 06 May 2026 06:34:32 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+    "contentSnippet": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+    "guid": "https://techcrunch.com/?p=3119385",
     "categories": [
       "AI",
-      "Hardware",
+      "Commerce",
       "Startups",
-      "Greylock Partners",
-      "neo",
-      "science"
+      "TC",
+      "Cooking",
+      "food",
+      "grubhub",
+      "Marc Lore",
+      "resaturants",
+      "robotics",
+      "wonder"
     ],
-    "isoDate": "2026-05-05T22:57:41.000Z",
+    "isoDate": "2026-05-06T06:34:32.000Z",
     "source": "TechCrunch AI",
-    "slug": "altara-secures-7m-to-bridge-the-data-gap-that-s-slowing-down-physical-sciences"
+    "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant"
+  },
+  {
+    "title": "(No AI) Chrome’s AI features may be hogging 4GB of your computer storage",
+    "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "pubDate": "2026-05-06T10:13:09.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Illustration of the Chrome logo on a bright and dark red background.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\n\nThe weights.bin file in question is connected to [Google's Gemini Nano AI model](https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply), which powers Chrome AI tools like scam detection, writing assistance, autofill, and suggestion features. As the Gemini Nano model is designed to run lo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)",
+    "contentSnippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin file inside their browser directory when certain AI features are enabled.\nThe weights.bin file in question is connected to Google's Gemini Nano AI model, which powers Chrome AI tools like scam detection, writing assistance, autofill, and suggestion features. As the Gemini Nano model is designed to run lo …\nRead the full story at The Verge.",
+    "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering that Chrome is installing a 4GB weights.bin [&#8230;]",
+    "id": "https://www.theverge.com/?p=924933",
+    "isoDate": "2026-05-06T10:13:09.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chrome-s-ai-features-may-be-hogging-4gb-of-your-computer-storage"
   },
   {
     "title": "(No AI) Google Home’s Gemini AI can handle more complicated requests",
@@ -57,18 +75,18 @@
     "slug": "google-home-s-gemini-ai-can-handle-more-complicated-requests"
   },
   {
-    "title": "(No AI) Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-    "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-    "pubDate": "2026-05-05T21:18:23.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Apple logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The [proposed settlement would](https://www.documentcloud.org/documents/28094811-apple-siri-settlement/) apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025.\n\nPeople who submit qualifying claims can receive $25 for each eligible device, \"which may decrease or increase up to $95 per device, depending on claim volume and other factors,\" according [to Clarkson Law Firm](https://clarksonlawfirm.com/lp/apple-intelligence-false-advertising/), the legal team behind the class action lawsuit.\n\nThe settlement will [resolve a 2025 lawsuit](https://www.axios.com/2025/03/20/apple-suit-false-advertising-ai-intelligence), alleging …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)",
-    "contentSnippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025.\nPeople who submit qualifying claims can receive $25 for each eligible device, \"which may decrease or increase up to $95 per device, depending on claim volume and other factors,\" according to Clarkson Law Firm, the legal team behind the class action lawsuit. \nThe settlement will resolve a 2025 lawsuit, alleging  …\nRead the full story at The Verge.",
-    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and [&#8230;]",
-    "id": "https://www.theverge.com/?p=924706",
-    "isoDate": "2026-05-05T21:18:23.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri"
+    "title": "(No AI) GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
+    "content": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "contentSnippet": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "guid": "https://openai.com/index/gpt-5-5-instant",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-05-05T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "gpt-5-5-instant-smarter-clearer-and-more-personalized"
   },
   {
     "title": "(No AI) GPT-5.5 Instant System Card",
@@ -83,20 +101,6 @@
     "contentSnippet": "",
     "source": "OpenAI",
     "slug": "gpt-5-5-instant-system-card"
-  },
-  {
-    "title": "(No AI) GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "link": "https://openai.com/index/gpt-5-5-instant",
-    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-    "content": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-    "contentSnippet": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-    "guid": "https://openai.com/index/gpt-5-5-instant",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-05-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "gpt-5-5-instant-smarter-clearer-and-more-personalized"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
@@ -121,6 +125,23 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
+    "creator": "Alana Hope Levinson ",
+    "title": "(No AI) Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
+    "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
+    "pubDate": "Wed, 06 May 2026 10:00:00 +0000",
+    "dc:creator": "Alana Hope Levinson ",
+    "content": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+    "contentSnippet": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
+    "guid": "69fa1c978e34af6f68878e38",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-05-06T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "hasan-piker-self-described-ayatollah-of-woke-wants-ai-to-die"
+  },
+  {
     "creator": "Paresh Dave, Maxwell Zeff",
     "title": "(No AI) ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
     "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
@@ -136,22 +157,5 @@
     "isoDate": "2026-05-05T23:24:58.000Z",
     "source": "Wired AI",
     "slug": "i-actually-thought-he-was-going-to-hit-me-openai-s-greg-brockman-says-of-elon-musk"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-    "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-    "pubDate": "Tue, 05 May 2026 11:59:20 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-    "contentSnippet": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-    "guid": "69f9b3ca89893d4d2fd1f9ae",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-05-05T11:59:20.000Z",
-    "source": "Wired AI",
-    "slug": "google-deepmind-workers-vote-to-unionize-over-military-ai-deals"
   }
 ]
