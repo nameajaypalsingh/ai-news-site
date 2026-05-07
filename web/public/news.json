@@ -1,49 +1,53 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Five architects of the AI economy explain where the wheels are coming off",
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "pubDate": "Thu, 07 May 2026 05:25:10 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-    "contentSnippet": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-    "guid": "https://techcrunch.com/?p=3120025",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "pubDate": "Thu, 07 May 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+    "contentSnippet": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+    "guid": "https://techcrunch.com/?p=3119959",
     "categories": [
+      "Startups",
+      "Transportation",
+      "Security",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
       "AI",
-      "TC",
-      "applied intuition",
-      "ASML",
-      "Christophe Fouquet",
-      "Dimitry Shevelenko",
-      "Eve Bodnia",
-      "Francis deSouza",
-      "google cloud",
-      "Logical Intelligence",
-      "Milken Institute",
-      "Qasar Younis"
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-07T05:25:10.000Z",
+    "isoDate": "2026-05-07T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off"
+    "slug": "2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "pubDate": "Wed, 06 May 2026 21:57:56 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "contentSnippet": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "guid": "https://techcrunch.com/?p=3119906",
+    "creator": "Kate Park",
+    "title": "(No AI) China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+    "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "pubDate": "Thu, 07 May 2026 13:44:25 +0000",
+    "dc:creator": "Kate Park",
+    "content": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "contentSnippet": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "guid": "https://techcrunch.com/?p=3120059",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Barry Diller",
-      "sam altman"
+      "Startups",
+      "China",
+      "kimi",
+      "large language models",
+      "moonshot ai"
     ],
-    "isoDate": "2026-05-06T21:57:56.000Z",
+    "isoDate": "2026-05-07T13:44:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says"
+    "slug": "china-s-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets"
   },
   {
     "title": "(No AI) Musk’s biggest loyalist became his biggest liability",
@@ -74,6 +78,20 @@
     "slug": "google-shuts-down-project-mariner"
   },
   {
+    "title": "(No AI) Parloa builds service agents customers want to talk to",
+    "link": "https://openai.com/index/parloa",
+    "pubDate": "Thu, 07 May 2026 11:00:00 GMT",
+    "content": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "contentSnippet": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "guid": "https://openai.com/index/parloa",
+    "categories": [
+      "B2B Story"
+    ],
+    "isoDate": "2026-05-07T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "parloa-builds-service-agents-customers-want-to-talk-to"
+  },
+  {
     "title": "(No AI) Introducing ChatGPT Futures: Class of 2026",
     "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
     "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
@@ -86,20 +104,6 @@
     "isoDate": "2026-05-06T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-chatgpt-futures-class-of-2026"
-  },
-  {
-    "title": "(No AI) How frontier enterprises are building an AI advantage",
-    "link": "https://openai.com/index/introducing-b2b-signals",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "content": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "contentSnippet": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "guid": "https://openai.com/index/introducing-b2b-signals",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-05-06T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-frontier-enterprises-are-building-an-ai-advantage"
   },
   {
     "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
@@ -124,37 +128,40 @@
     "slug": "announcing-our-partnership-with-the-republic-of-korea"
   },
   {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-    "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-    "pubDate": "Wed, 06 May 2026 23:23:45 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-    "contentSnippet": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-    "guid": "69fba89e9dd31499b3f46fd3",
+    "creator": "Andy Greenberg",
+    "title": "(No AI) Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+    "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+    "pubDate": "Thu, 07 May 2026 11:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "contentSnippet": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+    "guid": "69fa1675f05cb6c82bdb7f98",
     "categories": [
-      "Business",
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-06T23:23:45.000Z",
+    "isoDate": "2026-05-07T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "elon-musk-s-last-ditch-effort-to-control-openai-recruit-sam-altman-to-tesla"
+    "slug": "thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web"
   },
   {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-    "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-    "pubDate": "Wed, 06 May 2026 18:28:52 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-    "contentSnippet": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-    "guid": "69fb74e4f906ccf607352674",
+    "creator": "Kate Knibbs",
+    "title": "(No AI) This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "link": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "pubDate": "Thu, 07 May 2026 11:00:00 +0000",
+    "dc:creator": "Kate Knibbs",
+    "content": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "contentSnippet": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "guid": "69f8d6cdb14df72a38edaf00",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Culture",
+      "Culture / Music"
     ],
-    "isoDate": "2026-05-06T18:28:52.000Z",
+    "isoDate": "2026-05-07T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-gets-in-bed-with-spacex-as-the-ai-race-turns-weird"
+    "slug": "this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes"
   }
 ]
