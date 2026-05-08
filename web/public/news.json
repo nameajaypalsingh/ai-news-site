@@ -1,56 +1,60 @@
 [
   {
-    "creator": "Kirsten Korosec, Anthony Ha, Sean O'Kane, Theresa Loconsolo",
-    "title": "(No AI) The “people’s airline” and the enterprise AI gold rush",
-    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "pubDate": "Fri, 08 May 2026 15:46:17 +0000",
-    "dc:creator": "Kirsten Korosec, Anthony Ha, Sean O'Kane, Theresa Loconsolo",
-    "content": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony \\[…\\]",
-    "contentSnippet": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target.  On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3120755",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Intel’s comeback story is even wilder than it seems",
+    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+    "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+    "contentSnippet": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+    "guid": "https://techcrunch.com/?p=3120919",
     "categories": [
       "AI",
-      "Startups",
-      "Anthropic",
-      "crypto",
-      "Enterprise AI",
-      "Equity podcast",
-      "OpenAI",
-      "prior labs",
-      "Roundup",
-      "sap",
-      "xAI"
+      "Enterprise",
+      "Hardware",
+      "TC",
+      "Apple",
+      "Elon Musk",
+      "Intel",
+      "Lip-bu Tan"
     ],
-    "isoDate": "2026-05-08T15:46:17.000Z",
+    "isoDate": "2026-05-08T20:02:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-people-s-airline-and-the-enterprise-ai-gold-rush"
+    "slug": "intel-s-comeback-story-is-even-wilder-than-it-seems"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-    "pubDate": "Fri, 08 May 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-    "contentSnippet": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-    "guid": "https://techcrunch.com/?p=3120611",
+    "creator": "Julie Bort",
+    "title": "(No AI) Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "contentSnippet": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "guid": "https://techcrunch.com/?p=3120740",
     "categories": [
-      "Startups",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
       "AI",
-      "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
+      "Enterprise",
+      "TC",
+      "cloudflare",
+      "Layoffs"
     ],
-    "isoDate": "2026-05-08T14:00:00.000Z",
+    "isoDate": "2026-05-08T18:33:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026"
+    "slug": "cloudflare-says-ai-made-1-100-jobs-obsolete-even-as-revenue-hit-a-record-high"
+  },
+  {
+    "title": "(No AI) All the latest updates on AI data centers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "pubDate": "2026-05-08T18:45:08.000Z",
+    "author": "Verge Staff",
+    "content": "![Photo collage of a server room with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMassive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. \n\nFrom audacious plans to [launch data centers into space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers) to the latest [legal battles](https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles) over pollution, _The Verge_ has the biggest news and reporting surrounding data centers.\n\n*   [43 percent of Americans blame data centers as a major reason for rising power bills.](https://www.theverge.com/ai-artificial-intelligence/925426/43-percent-of-americans-blame-data-centers-as-a-major-reason-for-rising-power-bills)\n*   [A 40,000-acre data center project was just approved in Utah, despite outcry from the community.](https://www.theverge.com/ai-artificial-intelligence/924745/a-40000-acre-data-center-project-was-just-approved-in-utah-despite-outcry-from-the-community)\n*   [A political battleground is forming around data centers.](https://www.theverge.com/ai-artificial-intelligence/918905/a-political-battleground-is-forming-around-data-centers)\n*   [Are AI data centers coming to your area?](https://www.theverge.com/ai-artificial-intelligence/912993/are-data-centers-coming-to-your-area)\n*   [Data centers will soon have to complete “mandatory” energy usage surveys.](https://www.theverge.com/ai-artificial-intelligence/912793/data-centers-will-soon-have-to-complete-mandatory-energy-usage-surveys)\n*   [“A data center should not be a potential death sentence for a community’s health.”](https://www.theverge.com/ai-artificial-intelligence/912337/a-data-center-should-not-be-a-potential-death-sentence-for-a-communitys-health)\n*   [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)\n*   [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)\n*   [Arm’s first CPU ever will plug into Meta’s AI data centers later this year](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)\n*   [Lake Tahoe has to look for a new power source as data center demand soars.](https://www.theverge.com/science/899533/data-center-power-lake-tahoe-utility)\n*   [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)\n*   [Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) \n*   [Trump claims tech companies will sign deals next week to pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)\n*   [Anthropic says it’ll try to keep its data centers from raising electricity costs](https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge)\n*   [How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project](https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice)\n*   [Microsoft wants to rewire data centers to save space](https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor)\n*   [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)\n*   [Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says](https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo)\n*   [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge)\n*   [Microsoft gets approval to build 15 data centers in Mount Pleasant, Wisconsin.](https://www.theverge.com/news/869047/microsoft-gets-approval-to-build-15-data-centers-in-mount-pleasant-wisconsin)\n*   [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)\n*   [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)\n*   [Microsoft wants to build 15 data centers in Mount Pleasant, Wisconsin.](https://www.theverge.com/news/865387/microsoft-wants-to-build-15-data-centers-in-mount-pleasant-wisconsin)\n*   [OpenAI says its data centers will pay for their own energy and limit water usage](https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills)\n*   [ICE hits Meta data center project.](https://www.theverge.com/news/863280/ice-hits-meta-data-center-project)\n*   [Amazon is buying copper harvested by bacteria for its data centers](https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers)\n*   [Microsoft scrambles to quell fury around its new AI data centers](https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates)\n*   [Data center projects are dropping like flies.](https://www.theverge.com/news/861005/data-center-projects-canceled-ai-energy-water-opposition)\n*   [That’s a lot of money for just one data center job.](https://www.theverge.com/news/858018/thats-a-lot-of-money-for-just-one-data-center-job)\n*   [Alphabet is acquiring a data center company.](https://www.theverge.com/news/849455/googles-parent-company-is-acquiring-a-data-center-company)\n*   [Communities are rising up against data centers — and winning](https://www.theverge.com/science/841169/ai-data-center-opposition)\n*   [Democratic lawmakers are investigating data centers’ impact on electricity costs](https://www.theverge.com/news/846696/electricity-cost-ai-data-center-democrat-investigation) \n*   [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers)\n*   [AI’s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)\n*   [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)\n*   [The scramble to launch data centers into space is heating up](https://www.theverge.com/news/841887/data-center-space-solar-power-aetherflux-lunch)\n*   [Data center construction moratorium is gaining steam](https://www.theverge.com/news/840883/data-center-moratorium-letter-congress)\n*   [Satya Nadella acknowledged that data centers are “putting a lot of pressure” on power grids.](https://www.theverge.com/science/835480/satya-nadella-microsoft-ai-data-center-energy)\n*   [The largest power grid system in the US is considering rolling blackouts because of energy-hungry data centers.](https://www.theverge.com/science/835214/blackout-data-center-electricity-demand)\n*   [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage)\n*   [Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)\n*   [Data centers are already influencing the global forecast for clean energy.](https://www.theverge.com/news/819390/data-centers-energy-forecast-iea)\n*   [Anthropic will invest $50 billion in building AI data centers in the US](https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment)\n*   [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites)\n*   [Google is turning on the gas for its data centers](https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture)\n*   [Why data centers are building their own power plants](https://www.theverge.com/news/802178/data-center-ai-electricity-power-plants)\n*   [Electricity costs are up to 267 percent higher than they used to be in communities near data centers.](https://www.theverge.com/news/790688/electricity-bills-rise-data-centers)\n*   [Microsoft says this new cooling method could enable more powerful chips and efficient data centers](https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency)\n*   [OpenAI, Oracle, and SoftBank announced five new AI data centers as part of Stargate.](https://www.theverge.com/ai-artificial-intelligence/784251/openai-oracle-and-softbank-announced-five-new-ai-data-centers-as-part-of-stargate)\n*   [Microsoft is turning Foxconn’s empty buildings into the ‘world’s most powerful’ AI data center](https://www.theverge.com/news/781052/microsoft-foxconn-fairwater-worlds-most-powerful-ai-data-center)\n*   [Nvidia invests $5 billion into Intel to jointly develop PC and data center chips](https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center)\n*   [Tech companies ‘be on alert,’ NAACP says with new guiding principles for data centers](https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles)\n*   [Meta faces Democratic probe into plans to power a giant data center with gas](https://www.theverge.com/news/668934/meta-ai-data-center-gas-energy-climate-sustainability)\n*   [Amazon is investing billions more into its Mississippi data centers.](https://www.theverge.com/news/604677/amazon-is-investing-billions-more-into-its-mississippi-datacenter)\n*   [Mark Zuckerberg wants you to know he has a big AI data center, too](https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment)\n*   [Bill Gates’ nuclear energy startup inks new data center deal](https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai)\n*   [OpenAI and SoftBank are starting a $500 billion AI data center company](https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project)\n*   [CBS News reports OpenAI, Oracle, and Softbank will announce a “Stargate” AI data center project.](https://www.theverge.com/2025/1/21/24348801/cbs-news-reports-openai-oracle-and-softbank-will-announce-a-stargate-ai-data-center-project-in-texas)\n*   [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)\n*   [Go read this report on Arizona data centers and those without power in the state.](https://www.theverge.com/2024/12/23/24328172/go-read-this-report-on-arizona-data-centers-and-those-without-power-in-the-state)\n*   [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)\n*   [Meta is putting a $10 billion AI data center in Louisiana.](https://www.theverge.com/2024/12/4/24313357/meta-is-putting-a-10-billion-ai-data-center-in-louisiana)\n*   [xAI competitors are flying spy planes over the ‘Colossus’ data center.](https://www.theverge.com/2024/11/13/24295688/xai-competitors-are-flying-spy-planes-over-the-colossus-data-center)\n*   [New AI data centers could raise Americans’ electricity bills.](https://www.theverge.com/2024/11/4/24288159/new-ai-data-centers-could-raise-americans-electricity-bills)\n*   [Some Memphis residents are pissed about xAI’s new data center.](https://www.theverge.com/2024/9/11/24242221/some-memphis-residents-are-pissed-about-xais-new-data-center)\n*   [Can Meta clean up its data centers with geothermal energy?](https://www.theverge.com/2024/8/29/24231301/meta-facebook-geothermal-energy-sage-data-center-partnership)\n*   [xAI faces accusations its data center is polluting the air.](https://www.theverge.com/2024/8/28/24230395/xai-faces-accusations-its-data-center-is-polluting-the-air)\n*   [This climate tech startup wants to capture carbon and help data centers cool down](https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google)\n*   [Google plans to reuse heat after expanding a data center for AI](https://www.theverge.com/2024/5/20/24160788/google-ai-data-center-expansion-heat-recovery)\n*   [AI and crypto mining are driving up data centers’ energy use](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea)\n*   [Google’s new geothermal energy project is up and running](https://www.theverge.com/2023/11/28/23972940/google-data-center-geothermal-energy)\n*   [The environmental impact of the AI revolution is starting to come into focus](https://www.theverge.com/2023/10/10/23911059/ai-climate-impact-google-openai-chatgpt-energy)\n*   [How data centers at public pools can keep swimmers warm](https://www.theverge.com/23641207/data-center-pools-united-kingdom-energy-cost-saving)\n*   [Can hydrogen fuel cells power Microsoft data centers?](https://www.theverge.com/2022/7/28/23281394/microsoft-data-centers-hydrogen-fuel-cells)",
+    "contentSnippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. \nFrom audacious plans to launch data centers into space to the latest legal battles over pollution, The Verge has the biggest news and reporting surrounding data centers.\n\n\n\t\t\t\t\t\n43 percent of Americans blame data centers as a major reason for rising power bills.\n\t\t\t\nA 40,000-acre data center project was just approved in Utah, despite outcry from the community.\n\t\t\t\nA political battleground is forming around data centers.\n\t\t\t\nAre AI data centers coming to your area?\n\t\t\t\nData centers will soon have to complete “mandatory” energy usage surveys.\n\t\t\t\n“A data center should not be a potential death sentence for a community’s health.”\n\t\t\t\nIran threatens OpenAI’s Stargate data center in Abu Dhabi\n\t\t\t\nSenators are pushing to find out how much electricity data centers actually use\n\t\t\t\nArm’s first CPU ever will plug into Meta’s AI data centers later this year\n\t\t\t\nLake Tahoe has to look for a new power source as data center demand soars.\n\t\t\t\nHow the spiraling Iran conflict could affect data centers and electricity costs\n\t\t\t\nSeven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers \n\t\t\t\nTrump claims tech companies will sign deals next week to pay for their own power supply\n\t\t\t\nAnthropic says it’ll try to keep its data centers from raising electricity costs\n\t\t\t\nHow an ‘icepocalypse’ raises more questions about Meta’s biggest data center project\n\t\t\t\nMicrosoft wants to rewire data centers to save space\n\t\t\t\nNew York is considering two bills to rein in the AI industry\n\t\t\t\nElon Musk is merging SpaceX and xAI to build data centers in space — or so he says\n\t\t\t\nIt’s a new heyday for gas thanks to data centers\n\t\t\t\nMicrosoft gets approval to build 15 data centers in Mount Pleasant, Wisconsin.\n\t\t\t\nMeta is spending millions to convince people that data centers are cool and you like them\n\t\t\t\nThe winter storm tested power grids straining to accommodate AI data centers\n\t\t\t\nMicrosoft wants to build 15 data centers in Mount Pleasant, Wisconsin.\n\t\t\t\nOpenAI says its data centers will pay for their own energy and limit water usage\n\t\t\t\nICE hits Meta data center project.\n\t\t\t\nAmazon is buying copper harvested by bacteria for its data centers\n\t\t\t\nMicrosoft scrambles to quell fury around its new AI data centers\n\t\t\t\nData center projects are dropping like flies.\n\t\t\t\nThat’s a lot of money for just one data center job.\n\t\t\t\nAlphabet is acquiring a data center company.\n\t\t\t\nCommunities are rising up against data centers — and winning\n\t\t\t\nDemocratic lawmakers are investigating data centers’ impact on electricity costs \n\t\t\t\nBillionaires want data centers everywhere, including space\n\t\t\t\nAI’s water and electricity use soars in 2025\n\t\t\t\nRacks of AI chips are too damn heavy\n\t\t\t\nThe scramble to launch data centers into space is heating up\n\t\t\t\nData center construction moratorium is gaining steam\n\t\t\t\nSatya Nadella acknowledged that data centers are “putting a lot of pressure” on power grids.\n\t\t\t\nThe largest power grid system in the US is considering rolling blackouts because of energy-hungry data centers.\n\t\t\t\nData centers in Oregon might be helping to drive an increase in cancer and miscarriages\n\t\t\t\nNvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months\n\t\t\t\nData centers are already influencing the global forecast for clean energy.\n\t\t\t\nAnthropic will invest $50 billion in building AI data centers in the US\n\t\t\t\nGoogle has a ‘moonshot’ plan for AI data centers in space\n\t\t\t\nGoogle is turning on the gas for its data centers\n\t\t\t\nWhy data centers are building their own power plants\n\t\t\t\nElectricity costs are up to 267 percent higher than they used to be in communities near data centers.\n\t\t\t\nMicrosoft says this new cooling method could enable more powerful chips and efficient data centers\n\t\t\t\nOpenAI, Oracle, and SoftBank announced five new AI data centers as part of Stargate.\n\t\t\t\nMicrosoft is turning Foxconn’s empty buildings into the ‘world’s most powerful’ AI data center\n\t\t\t\nNvidia invests $5 billion into Intel to jointly develop PC and data center chips\n\t\t\t\nTech companies ‘be on alert,’ NAACP says with new guiding principles for data centers\n\t\t\t\nMeta faces Democratic probe into plans to power a giant data center with gas\n\t\t\t\nAmazon is investing billions more into its Mississippi data centers.\n\t\t\t\nMark Zuckerberg wants you to know he has a big AI data center, too\n\t\t\t\nBill Gates’ nuclear energy startup inks new data center deal\n\t\t\t\nOpenAI and SoftBank are starting a $500 billion AI data center company\n\t\t\t\nCBS News reports OpenAI, Oracle, and Softbank will announce a “Stargate” AI data center project.\n\t\t\t\nJoe Biden signs executive order to speed AI data center construction\n\t\t\t\nGo read this report on Arizona data centers and those without power in the state.\n\t\t\t\nGoogle’s future data centers will be built next to solar and wind farms\n\t\t\t\nMeta is putting a $10 billion AI data center in Louisiana.\n\t\t\t\nxAI competitors are flying spy planes over the ‘Colossus’ data center.\n\t\t\t\nNew AI data centers could raise Americans’ electricity bills.\n\t\t\t\nSome Memphis residents are pissed about xAI’s new data center.\n\t\t\t\nCan Meta clean up its data centers with geothermal energy?\n\t\t\t\nxAI faces accusations its data center is polluting the air.\n\t\t\t\nThis climate tech startup wants to capture carbon and help data centers cool down\n\t\t\t\nGoogle plans to reuse heat after expanding a data center for AI\n\t\t\t\nAI and crypto mining are driving up data centers’ energy use\n\t\t\t\nGoogle’s new geothermal energy project is up and running\n\t\t\t\nThe environmental impact of the AI revolution is starting to come into focus\n\t\t\t\nHow data centers at public pools can keep swimmers warm\n\t\t\t\nCan hydrogen fuel cells power Microsoft data centers?",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]",
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=902546",
+    "isoDate": "2026-05-08T18:45:08.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "all-the-latest-updates-on-ai-data-centers"
   },
   {
     "title": "(No AI) PlayStation sees AI as a ‘powerful tool’ to help make games",
@@ -67,18 +71,18 @@
     "slug": "playstation-sees-ai-as-a-powerful-tool-to-help-make-games"
   },
   {
-    "title": "(No AI) Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-    "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-    "pubDate": "2026-05-08T15:25:02.000Z",
-    "author": "Tom Warren",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images\n\nWhen OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing _Musk v. Altman_ trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears the AI startup could \"storm off to Amazon\" and \"shit-talk\" Microsoft.\n\nJust days after OpenAI showed a [bot beating a _Dota 2_ professional](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk) in the summer of 2017, Altman responded to Nadella's congratulations email with a proposal for a much bigger partnership with OpenAI to fund its next phase of AI resear …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)",
-    "contentSnippet": "OpenAI CEO Sam Altman and Microsoft CTO Kevin Scott. | Image: Getty Images\t\n\nWhen OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears the AI startup could \"storm off to Amazon\" and \"shit-talk\" Microsoft.\nJust days after OpenAI showed a bot beating a Dota 2 professional in the summer of 2017, Altman responded to Nadella's congratulations email with a proposal for a much bigger partnership with OpenAI to fund its next phase of AI resear …\nRead the full story at The Verge.",
-    "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top executives about investing in OpenAI and fears [&#8230;]",
-    "id": "https://www.theverge.com/?p=926771",
-    "isoDate": "2026-05-08T15:25:02.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azure"
+    "title": "(No AI) Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
+    "content": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "contentSnippet": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "guid": "https://openai.com/index/running-codex-safely",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-05-08T12:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "running-codex-safely-at-openai"
   },
   {
     "title": "(No AI) Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
@@ -93,20 +97,6 @@
     "isoDate": "2026-05-07T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber"
-  },
-  {
-    "title": "(No AI) Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "pubDate": "Thu, 07 May 2026 11:00:00 GMT",
-    "content": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "contentSnippet": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "guid": "https://openai.com/index/parloa",
-    "categories": [
-      "B2B Story"
-    ],
-    "isoDate": "2026-05-07T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "parloa-builds-service-agents-customers-want-to-talk-to"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -131,22 +121,6 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Makena Kelly",
-    "title": "(No AI) There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "pubDate": "Fri, 08 May 2026 15:00:00 +0000",
-    "dc:creator": "Makena Kelly",
-    "content": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "contentSnippet": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "guid": "69fa41b42b14cb75633b7d13",
-    "categories": [
-      "Politics"
-    ],
-    "isoDate": "2026-05-08T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai"
-  },
-  {
     "creator": "Steven Levy",
     "title": "(No AI) Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
     "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
@@ -162,5 +136,21 @@
     "isoDate": "2026-05-08T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "nick-bostrom-has-a-plan-for-humanity-s-big-retirement"
+  },
+  {
+    "creator": "Makena Kelly",
+    "title": "(No AI) There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "pubDate": "Fri, 08 May 2026 15:00:00 +0000",
+    "dc:creator": "Makena Kelly",
+    "content": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "contentSnippet": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "guid": "69fa41b42b14cb75633b7d13",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-05-08T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai"
   }
 ]
