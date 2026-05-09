@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
+    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "contentSnippet": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "guid": "https://techcrunch.com/?p=3120983",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Exclusive",
+      "Layoffs",
+      "oracle",
+      "severence"
+    ],
+    "isoDate": "2026-05-08T22:59:05.000Z",
+    "source": "TechCrunch AI",
+    "slug": "laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) Intel’s comeback story is even wilder than it seems",
     "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
@@ -15,32 +37,13 @@
       "TC",
       "Apple",
       "Elon Musk",
+      "In Brief",
       "Intel",
       "Lip-bu Tan"
     ],
     "isoDate": "2026-05-08T20:02:52.000Z",
     "source": "TechCrunch AI",
     "slug": "intel-s-comeback-story-is-even-wilder-than-it-seems"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "pubDate": "Fri, 08 May 2026 18:33:21 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "contentSnippet": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "guid": "https://techcrunch.com/?p=3120740",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "cloudflare",
-      "Layoffs"
-    ],
-    "isoDate": "2026-05-08T18:33:21.000Z",
-    "source": "TechCrunch AI",
-    "slug": "cloudflare-says-ai-made-1-100-jobs-obsolete-even-as-revenue-hit-a-record-high"
   },
   {
     "title": "(No AI) All the latest updates on AI data centers",
