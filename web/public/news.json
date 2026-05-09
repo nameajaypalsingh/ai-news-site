@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Nvidia has already committed $40B to equity AI deals this year",
+    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "contentSnippet": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "guid": "https://techcrunch.com/?p=3121025",
+    "categories": [
+      "AI",
+      "Startups",
+      "Venture",
+      "OpenAI"
+    ],
+    "isoDate": "2026-05-09T14:43:30.000Z",
+    "source": "TechCrunch AI",
+    "slug": "nvidia-has-already-committed-40b-to-equity-ai-deals-this-year"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
     "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
@@ -20,30 +39,6 @@
     "isoDate": "2026-05-08T22:59:05.000Z",
     "source": "TechCrunch AI",
     "slug": "laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no"
-  },
-  {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Intel’s comeback story is even wilder than it seems",
-    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "pubDate": "Fri, 08 May 2026 20:02:52 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-    "contentSnippet": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-    "guid": "https://techcrunch.com/?p=3120919",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "TC",
-      "Apple",
-      "Elon Musk",
-      "In Brief",
-      "Intel",
-      "Lip-bu Tan"
-    ],
-    "isoDate": "2026-05-08T20:02:52.000Z",
-    "source": "TechCrunch AI",
-    "slug": "intel-s-comeback-story-is-even-wilder-than-it-seems"
   },
   {
     "title": "(No AI) All the latest updates on AI data centers",
@@ -144,20 +139,19 @@
     "slug": "hackable-robot-lawn-mower-unlocks-a-new-nightmare"
   },
   {
-    "creator": "Steven Levy",
-    "title": "(No AI) Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "creator": "Makena Kelly",
+    "title": "(No AI) There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
     "pubDate": "Fri, 08 May 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "contentSnippet": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "guid": "69fb88738bf756131f7c45e4",
+    "dc:creator": "Makena Kelly",
+    "content": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "contentSnippet": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+    "guid": "69fa41b42b14cb75633b7d13",
     "categories": [
-      "Business",
-      "Business / Tech Culture"
+      "Politics"
     ],
     "isoDate": "2026-05-08T15:00:00.000Z",
     "source": "Wired AI",
-    "slug": "nick-bostrom-has-a-plan-for-humanity-s-big-retirement"
+    "slug": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai"
   }
 ]
