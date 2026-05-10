@@ -1,41 +1,38 @@
 [
   {
-    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "title": "(No AI) So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
-    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "guid": "https://techcrunch.com/?p=2973217",
+    "creator": "Anthony Ha",
+    "title": "(No AI) We’re feeling cynical about xAI’s big deal with Anthropic",
+    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "contentSnippet": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "guid": "https://techcrunch.com/?p=3121081",
     "categories": [
-      "AI",
-      "evergreens",
-      "artificial intelligence",
-      "Glossary"
+      "AI"
     ],
-    "isoDate": "2026-05-09T21:45:00.000Z",
+    "isoDate": "2026-05-10T15:34:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-that"
+    "slug": "we-re-feeling-cynical-about-xai-s-big-deal-with-anthropic"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Nvidia has already committed $40B to equity AI deals this year",
-    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "contentSnippet": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "guid": "https://techcrunch.com/?p=3121025",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "contentSnippet": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "guid": "https://techcrunch.com/?p=3121027",
     "categories": [
-      "AI",
       "Startups",
-      "Venture",
-      "OpenAI"
+      "AI",
+      "voice AI",
+      "Wispr flow"
     ],
-    "isoDate": "2026-05-09T14:43:30.000Z",
+    "isoDate": "2026-05-10T02:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-has-already-committed-40b-to-equity-ai-deals-this-year"
+    "slug": "voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway"
   },
   {
     "title": "(No AI) All the latest updates on AI data centers",
