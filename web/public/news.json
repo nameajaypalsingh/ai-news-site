@@ -1,6 +1,24 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "contentSnippet": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "guid": "https://techcrunch.com/?p=3121096",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "Claude"
+    ],
+    "isoDate": "2026-05-10T20:40:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-says-evil-portrayals-of-ai-were-responsible-for-claude-s-blackmail-attempts"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) We’re feeling cynical about xAI’s big deal with Anthropic",
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
@@ -14,25 +32,6 @@
     "isoDate": "2026-05-10T15:34:25.000Z",
     "source": "TechCrunch AI",
     "slug": "we-re-feeling-cynical-about-xai-s-big-deal-with-anthropic"
-  },
-  {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "contentSnippet": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "guid": "https://techcrunch.com/?p=3121027",
-    "categories": [
-      "Startups",
-      "AI",
-      "voice AI",
-      "Wispr flow"
-    ],
-    "isoDate": "2026-05-10T02:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway"
   },
   {
     "title": "(No AI) All the latest updates on AI data centers",
