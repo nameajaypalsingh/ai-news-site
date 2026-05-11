@@ -68,32 +68,32 @@
     "slug": "playstation-sees-ai-as-a-powerful-tool-to-help-make-games"
   },
   {
-    "title": "(No AI) Running Codex safely at OpenAI",
-    "link": "https://openai.com/index/running-codex-safely",
-    "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
-    "content": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-    "contentSnippet": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-    "guid": "https://openai.com/index/running-codex-safely",
+    "title": "(No AI) OpenAI Campus Network: Student club interest form",
+    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+    "content": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "contentSnippet": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "guid": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "categories": [
-      "Security"
+      "Company"
     ],
-    "isoDate": "2026-05-08T12:30:00.000Z",
+    "isoDate": "2026-05-11T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "running-codex-safely-at-openai"
+    "slug": "openai-campus-network-student-club-interest-form"
   },
   {
-    "title": "(No AI) Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
-    "content": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "contentSnippet": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "guid": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "title": "(No AI) How enterprises are scaling AI",
+    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
+    "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "contentSnippet": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "guid": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "categories": [
-      "Security"
+      "Guides"
     ],
-    "isoDate": "2026-05-07T13:00:00.000Z",
+    "isoDate": "2026-05-11T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber"
+    "slug": "how-enterprises-are-scaling-ai"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
