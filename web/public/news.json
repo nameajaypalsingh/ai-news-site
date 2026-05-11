@@ -118,39 +118,37 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Maddy Varner, Matt Burgess, Andy Greenberg, Andrew Couts",
-    "title": "(No AI) Hackable Robot Lawn Mower Unlocks a New Nightmare",
-    "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-    "pubDate": "Sat, 09 May 2026 10:30:00 +0000",
-    "dc:creator": "Maddy Varner, Matt Burgess, Andy Greenberg, Andrew Couts",
-    "content": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-    "contentSnippet": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-    "guid": "69fe0d14bb1718c370cd0f16",
+    "creator": "Sheon Han",
+    "title": "(No AI) CUDA Proves Nvidia Is a Software Company",
+    "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+    "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
+    "dc:creator": "Sheon Han",
+    "content": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+    "contentSnippet": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+    "guid": "69dd40da8b9e2ea9455fc48c",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News"
+      "Business",
+      "Business / Computers and Software"
     ],
-    "isoDate": "2026-05-09T10:30:00.000Z",
+    "isoDate": "2026-05-11T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "hackable-robot-lawn-mower-unlocks-a-new-nightmare"
+    "slug": "cuda-proves-nvidia-is-a-software-company"
   },
   {
-    "creator": "Makena Kelly",
-    "title": "(No AI) There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "pubDate": "Fri, 08 May 2026 15:00:00 +0000",
-    "dc:creator": "Makena Kelly",
-    "content": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "contentSnippet": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "guid": "69fa41b42b14cb75633b7d13",
+    "creator": "Ruth Fowler",
+    "title": "(No AI) I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+    "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
+    "dc:creator": "Ruth Fowler",
+    "content": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+    "contentSnippet": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+    "guid": "69d6814822a8ba5b142ff3ea",
     "categories": [
-      "Politics"
+      "The Big Story",
+      "Culture / TV"
     ],
-    "isoDate": "2026-05-08T15:00:00.000Z",
+    "isoDate": "2026-05-11T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai"
+    "slug": "i-work-in-hollywood-everyone-who-used-to-make-tv-is-now-secretly-training-ai"
   }
 ]
