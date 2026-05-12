@@ -1,12 +1,28 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Musk mulled handing OpenAI to his children, Altman testifies",
+    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "pubDate": "Tue, 12 May 2026 18:05:15 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "contentSnippet": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "guid": "https://techcrunch.com/?p=3121651",
+    "categories": [
+      "AI"
+    ],
+    "isoDate": "2026-05-12T18:05:15.000Z",
+    "source": "TechCrunch AI",
+    "slug": "musk-mulled-handing-openai-to-his-children-altman-testifies"
+  },
+  {
     "creator": "Ram Iyer",
     "title": "(No AI) Anthropic warns investors against secondary platforms offering access to its shares",
     "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "pubDate": "Tue, 12 May 2026 17:36:34 +0000",
     "dc:creator": "Ram Iyer",
-    "content": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
-    "contentSnippet": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+    "content": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+    "contentSnippet": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
     "guid": "https://techcrunch.com/?p=3121621",
     "categories": [
       "AI",
@@ -19,25 +35,18 @@
     "slug": "anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Report: Google and SpaceX in talks to put data centers into orbit",
-    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "pubDate": "Tue, 12 May 2026 17:30:57 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "contentSnippet": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "guid": "https://techcrunch.com/?p=3121675",
-    "categories": [
-      "AI",
-      "Space",
-      "Alphabet",
-      "Google",
-      "orbital data centers",
-      "SpaceX"
-    ],
-    "isoDate": "2026-05-12T17:30:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "report-google-and-spacex-in-talks-to-put-data-centers-into-orbit"
+    "title": "(No AI) Meta won’t let you block its AI account on Threads",
+    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "pubDate": "2026-05-12T20:35:23.000Z",
+    "author": "Jay Peters",
+    "content": "![An image showing the Threads logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, [as reported by _Engadget_](https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/), Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it.\n\nMeta has invested heavily in AI as it works to catch up to rivals like OpenAI and Google, [spending billions to hire AI talent](https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money). It launched a new AI model called [Muse Spark in April](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout), which it s …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)",
+    "contentSnippet": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it.\nMeta has invested heavily in AI as it works to catch up to rivals like OpenAI and Google, spending billions to hire AI talent. It launched a new AI model called Muse Spark in April, which it s …\nRead the full story at The Verge.",
+    "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people [&#8230;]",
+    "id": "https://www.theverge.com/?p=929091",
+    "isoDate": "2026-05-12T20:35:23.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-won-t-let-you-block-its-ai-account-on-threads"
   },
   {
     "title": "(No AI) Sam Altman says Elon Musk’s mind games were damaging OpenAI",
@@ -54,18 +63,18 @@
     "slug": "sam-altman-says-elon-musk-s-mind-games-were-damaging-openai"
   },
   {
-    "title": "(No AI) The 9 biggest new features in Android 17",
-    "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-    "pubDate": "2026-05-12T17:00:00.000Z",
-    "author": "Dominic Preston",
-    "content": "![Image of the top half of a phone screen showing Android 17’s “Create My Widget” options](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-android-17-gemini-intelligence-create-my-widget.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAI-generated widgets are among the features coming to Android this year. | Screenshot: Google\n\nWould it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps.\n\nGoogle has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show, ahead of next week's [big I/O developer conference](https://www.theverge.com/tech/880401/google-io-2026-dates-ai). The Android software updates came alongside a tease of [upcoming Android-powered Googlebook laptops](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook) and [a host of Android Auto updates](https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all). Here are all the new updates that matter and when you can …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io)",
-    "contentSnippet": "AI-generated widgets are among the features coming to Android this year. | Screenshot: Google\t\n\nWould it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps.\nGoogle has just revealed the biggest changes coming in its next OS update as part of its dedicated Android Show, ahead of next week's big I/O developer conference. The Android software updates came alongside a tease of upcoming Android-powered Googlebook laptops and a host of Android Auto updates. Here are all the new updates that matter and when you can  …\nRead the full story at The Verge.",
-    "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google has just revealed the biggest changes coming [&#8230;]",
-    "id": "https://www.theverge.com/?p=928653",
-    "isoDate": "2026-05-12T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-android-17-gemini-intelligence-create-my-widget.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-9-biggest-new-features-in-android-17"
+    "title": "(No AI) What Parameter Golf taught us about AI-assisted research",
+    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
+    "content": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "contentSnippet": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "guid": "https://openai.com/index/what-parameter-golf-taught-us",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-05-12T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "what-parameter-golf-taught-us-about-ai-assisted-research"
   },
   {
     "title": "(No AI) How ChatGPT adoption broadened in early 2026",
@@ -77,20 +86,6 @@
     "isoDate": "2026-05-11T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-chatgpt-adoption-broadened-in-early-2026"
-  },
-  {
-    "title": "(No AI) OpenAI Campus Network: Student club interest form",
-    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
-    "content": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "contentSnippet": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "guid": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-05-11T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-campus-network-student-club-interest-form"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
