@@ -1,44 +1,64 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "pubDate": "Wed, 13 May 2026 00:26:48 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "contentSnippet": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "guid": "https://techcrunch.com/?p=3121889",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+    "contentSnippet": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+    "guid": "https://techcrunch.com/?p=3121753",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "TC",
-      "Kleiner Perkins",
-      "Kraft Ventures",
-      "Next Ventures",
-      "Pair Team"
+      "OpenAI",
+      "Ramp",
+      "Anthropic"
     ],
-    "isoDate": "2026-05-13T00:26:48.000Z",
+    "isoDate": "2026-05-13T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea"
+    "slug": "anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Musk mulled handing OpenAI to his children, Altman testifies",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "pubDate": "Tue, 12 May 2026 18:05:15 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-    "contentSnippet": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-    "guid": "https://techcrunch.com/?p=3121651",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+    "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+    "contentSnippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+    "guid": "https://techcrunch.com/?p=3121914",
     "categories": [
+      "TC",
+      "Startups",
+      "Transportation",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
       "AI",
-      "Elon Musk",
-      "OpenAI",
-      "sam altman"
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-12T18:05:15.000Z",
+    "isoDate": "2026-05-13T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "musk-mulled-handing-openai-to-his-children-altman-testifies"
+    "slug": "introducing-the-6-stages-at-techcrunch-disrupt-2026-built-for-today-s-tougher-startup-market"
+  },
+  {
+    "title": "(No AI) Alexa is moving into Amazon.com",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+    "pubDate": "2026-05-13T13:00:00.000Z",
+    "author": "Jennifer Pattison Tuohy",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nAlexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon\n\nAmazon is bringing Alexa Plus to [Amazon.com](http://amazon.com), integrating its [LLM-powered AI assistant](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home) directly into the company's shopping experience.\n\n[Beginning today](https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant), when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa.\n\nAlexa for Shopping is replacing [Amazon's Rufus AI shopping assistant](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout) and, unlike Rufus, it will be front and center in the Amazon app and on the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus)",
+    "contentSnippet": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon\t\n\nAmazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. \nBeginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa.\nAlexa for Shopping is replacing Amazon's Rufus AI shopping assistant and, unlike Rufus, it will be front and center in the Amazon app and on the  …\nRead the full story at The Verge.",
+    "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected [&#8230;]",
+    "id": "https://www.theverge.com/?p=929457",
+    "isoDate": "2026-05-13T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "alexa-is-moving-into-amazon-com"
   },
   {
     "title": "(No AI) Data centers are coming for rural America",
@@ -53,20 +73,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "data-centers-are-coming-for-rural-america"
-  },
-  {
-    "title": "(No AI) Sam Altman was winning on the stand, but it might not be enough",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-    "pubDate": "2026-05-12T23:23:14.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![A blurry shot of Sam Altman, double-exposed in red and cyan.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWho, me? | Image: The Verge; Getty Images\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\"\n\nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial)",
-    "contentSnippet": "Who, me? | Image: The Verge; Getty Images\t\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" \nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\nRead the full story at The Verge.",
-    "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, [&#8230;]",
-    "id": "https://www.theverge.com/?p=929129",
-    "isoDate": "2026-05-12T23:23:14.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sam-altman-was-winning-on-the-stand-but-it-might-not-be-enough"
   },
   {
     "title": "(No AI) How finance teams use Codex",
@@ -116,38 +122,40 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Alessandra Ram",
-    "title": "(No AI) Meet the Sad Wives of AI",
-    "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "pubDate": "Wed, 13 May 2026 10:00:00 +0000",
-    "dc:creator": "Alessandra Ram",
-    "content": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
-    "contentSnippet": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
-    "guid": "69d67e748f29e8abc987397d",
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+    "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
+    "contentSnippet": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
+    "guid": "6a0346f884ab33416a5f7da3",
     "categories": [
-      "The Big Story",
-      "Culture",
-      "Culture / Digital Culture"
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Business / Big Tech",
+      "Business / Social Media"
     ],
-    "isoDate": "2026-05-13T10:00:00.000Z",
+    "isoDate": "2026-05-13T14:00:00.000Z",
     "source": "Wired AI",
-    "slug": "meet-the-sad-wives-of-ai"
+    "slug": "whatsapp-adds-meta-ai-chats-that-are-built-to-be-fully-private"
   },
   {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-    "pubDate": "Wed, 13 May 2026 00:10:05 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-    "contentSnippet": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-    "guid": "6a0352dba6c6f7e2d0d128a8",
+    "creator": "Reece Rogers, Kate Knibbs, Sandra Upson",
+    "title": "(No AI) Submit Your Questions: AI Is Changing Your Job—Now What?",
+    "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+    "pubDate": "Wed, 13 May 2026 11:00:00 +0000",
+    "dc:creator": "Reece Rogers, Kate Knibbs, Sandra Upson",
+    "content": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
+    "contentSnippet": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
+    "guid": "69fa64ddc827f546ccf620cc",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-13T00:10:05.000Z",
+    "isoDate": "2026-05-13T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "elon-musk-had-hair-raising-idea-of-passing-openai-on-to-his-kids-sam-altman-says"
+    "slug": "submit-your-questions-ai-is-changing-your-job-now-what"
   }
 ]
