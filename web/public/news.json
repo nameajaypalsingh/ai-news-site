@@ -1,78 +1,68 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Who trusts Sam Altman?",
+    "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "pubDate": "Wed, 13 May 2026 16:31:04 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+    "contentSnippet": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+    "guid": "https://techcrunch.com/?p=3121908",
+    "categories": [
+      "AI"
+    ],
+    "isoDate": "2026-05-13T16:31:04.000Z",
+    "source": "TechCrunch AI",
+    "slug": "who-trusts-sam-altman"
+  },
+  {
     "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+    "title": "(No AI) Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "pubDate": "Wed, 13 May 2026 16:22:01 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-    "contentSnippet": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-    "guid": "https://techcrunch.com/?p=3121753",
+    "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+    "contentSnippet": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+    "guid": "https://techcrunch.com/?p=3122194",
     "categories": [
       "AI",
-      "OpenAI",
-      "Ramp",
-      "Anthropic"
+      "Gaming",
+      "ai labs",
+      "data vendor",
+      "video games",
+      "world models"
     ],
-    "isoDate": "2026-05-13T14:00:00.000Z",
+    "isoDate": "2026-05-13T16:22:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data"
+    "slug": "origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-    "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-    "contentSnippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-    "guid": "https://techcrunch.com/?p=3121914",
-    "categories": [
-      "TC",
-      "Startups",
-      "Transportation",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "AI",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ],
-    "isoDate": "2026-05-13T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "introducing-the-6-stages-at-techcrunch-disrupt-2026-built-for-today-s-tougher-startup-market"
-  },
-  {
-    "title": "(No AI) Alexa is moving into Amazon.com",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-    "pubDate": "2026-05-13T13:00:00.000Z",
-    "author": "Jennifer Pattison Tuohy",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nAlexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon\n\nAmazon is bringing Alexa Plus to [Amazon.com](http://amazon.com), integrating its [LLM-powered AI assistant](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home) directly into the company's shopping experience.\n\n[Beginning today](https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant), when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa.\n\nAlexa for Shopping is replacing [Amazon's Rufus AI shopping assistant](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout) and, unlike Rufus, it will be front and center in the Amazon app and on the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus)",
-    "contentSnippet": "Alexa for Shopping is Amazon’s new AI-powered shopping assistant. | Image: Amazon\t\n\nAmazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. \nBeginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected list of brands, typing \"What's a good skincare routine for men\" or \"When did I last order AA batteries\" will now trigger an answer from Alexa.\nAlexa for Shopping is replacing Amazon's Rufus AI shopping assistant and, unlike Rufus, it will be front and center in the Amazon app and on the  …\nRead the full story at The Verge.",
-    "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected [&#8230;]",
-    "id": "https://www.theverge.com/?p=929457",
-    "isoDate": "2026-05-13T13:00:00.000Z",
+    "title": "(No AI) Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
+    "link": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+    "pubDate": "2026-05-13T16:45:43.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Screenshots of Incognito Chat in Meta AI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta CEO Mark Zuckerberg [says](https://www.threads.com/@zuck/post/DYSAIo_FL77?xmt=AQG0l5LYBvgjXITzozYS3fN3zwxFd6wkj1X0cz-QbVJa3g) its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta [says](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/) its version is different because it also uses end-to-end encryption, which Meta recently [removed from Instagram DMs](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption):\n\n\"Other apps have introduced incognito-style modes, but they can still see the questions coming in and the answers going out. Incognito Chat with Meta AI is truly private, meaning no one - not even Meta - can read your conversations.\"\n\n[](https://www.threads.com/@zuck/post/DYSAIlEFFRh)\n\nGoogle …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)",
+    "contentSnippet": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it also uses end-to-end encryption, which Meta recently removed from Instagram DMs: \n\"Other apps have introduced incognito-style modes, but they can still see the questions coming in and the answers going out. Incognito Chat with Meta AI is truly private, meaning no one - not even Meta - can read your conversations.\"\n\n\n\n\n\nGoogle …\nRead the full story at The Verge.",
+    "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it [&#8230;]",
+    "id": "https://www.theverge.com/?p=929791",
+    "isoDate": "2026-05-13T16:45:43.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "alexa-is-moving-into-amazon-com"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "mark-zuckerberg-announces-completely-private-encrypted-meta-ai-chat"
   },
   {
-    "title": "(No AI) Data centers are coming for rural America",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-    "pubDate": "2026-05-13T09:00:00.000Z",
-    "author": "Abigail Bassett",
-    "content": "![Photo collage of a data center with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAt its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently.\n\nIn 2023, the 1.4 million-square-foot facility was [purchased through a joint venture by JGT2 Redevelopment](https://boulos.com/androscoggin-mill-in-jay-maine-undergoes-transformation/) and a number of other holding and capital companies. The project is led by developer Tony McDonald. Over the next three years, McDonald and his team broke down the mill's machinery and shipped it to Pakistan, and worked to clean up the industrial site for resale. That resale agreement was finalized earlier this year, accord …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine)",
-    "contentSnippet": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. \nIn 2023, the 1.4 million-square-foot facility was purchased through a joint venture by JGT2 Redevelopment and a number of other holding and capital companies. The project is led by developer Tony McDonald. Over the next three years, McDonald and his team broke down the mill's machinery and shipped it to Pakistan, and worked to clean up the industrial site for resale. That resale agreement was finalized earlier this year, accord …\nRead the full story at The Verge.",
-    "summary": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased through a joint venture by JGT2 Redevelopment and a number [&#8230;]",
-    "id": "https://www.theverge.com/?p=928963",
-    "isoDate": "2026-05-13T09:00:00.000Z",
+    "title": "(No AI) Microsoft doesn’t want any of this",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
+    "pubDate": "2026-05-13T15:30:37.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Satya-Nadella_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMaybe I'm just punch-drunk in my third week attending _Musk v. Altman_, but I have become very, _very_ fond of Microsoft during the course of this trial. They don't want to be here any more than I do.\n\nTheir opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you, ladies and gentlemen of the jury, might still enjoy an Xbox game.\n\nThere's been a great deal of high drama on the stand, from Musk, his associates, and O …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial)",
+    "contentSnippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do.\nTheir opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you, ladies and gentlemen of the jury, might still enjoy an Xbox game.\nThere's been a great deal of high drama on the stand, from Musk, his associates, and O …\nRead the full story at The Verge.",
+    "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything [&#8230;]",
+    "id": "https://www.theverge.com/?p=929692",
+    "isoDate": "2026-05-13T15:30:37.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "data-centers-are-coming-for-rural-america"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Satya-Nadella_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-doesn-t-want-any-of-this"
   },
   {
     "title": "(No AI) How finance teams use Codex",
@@ -122,6 +112,22 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) OpenAI Brings Its Ass to Court",
+    "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+    "pubDate": "Wed, 13 May 2026 17:08:01 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+    "contentSnippet": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
+    "guid": "6a0499e74dcd5fb764031dac",
+    "categories": [
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-13T17:08:01.000Z",
+    "source": "Wired AI",
+    "slug": "openai-brings-its-ass-to-court"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "(No AI) WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
     "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
@@ -140,22 +146,5 @@
     "isoDate": "2026-05-13T14:00:00.000Z",
     "source": "Wired AI",
     "slug": "whatsapp-adds-meta-ai-chats-that-are-built-to-be-fully-private"
-  },
-  {
-    "creator": "Reece Rogers, Kate Knibbs, Sandra Upson",
-    "title": "(No AI) Submit Your Questions: AI Is Changing Your Job—Now What?",
-    "link": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
-    "pubDate": "Wed, 13 May 2026 11:00:00 +0000",
-    "dc:creator": "Reece Rogers, Kate Knibbs, Sandra Upson",
-    "content": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
-    "contentSnippet": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
-    "guid": "69fa64ddc827f546ccf620cc",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-13T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "submit-your-questions-ai-is-changing-your-job-now-what"
   }
 ]
