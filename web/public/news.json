@@ -1,40 +1,46 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Who trusts Sam Altman?",
-    "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-    "pubDate": "Wed, 13 May 2026 16:31:04 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
-    "contentSnippet": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
-    "guid": "https://techcrunch.com/?p=3121908",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-05-13T16:31:04.000Z",
-    "source": "TechCrunch AI",
-    "slug": "who-trusts-sam-altman"
-  },
-  {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Origin Lab raises $8M to help video game companies sell data to world-model builders",
-    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-    "pubDate": "Wed, 13 May 2026 16:22:01 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-    "contentSnippet": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-    "guid": "https://techcrunch.com/?p=3122194",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+    "contentSnippet": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+    "guid": "https://techcrunch.com/?p=3122344",
     "categories": [
       "AI",
-      "Gaming",
-      "ai labs",
-      "data vendor",
-      "video games",
-      "world models"
+      "Climate",
+      "air pollution",
+      "data centers",
+      "Elon Musk",
+      "natural gas",
+      "xAI"
     ],
-    "isoDate": "2026-05-13T16:22:01.000Z",
+    "isoDate": "2026-05-13T19:49:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders"
+    "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "pubDate": "Wed, 13 May 2026 19:28:06 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+    "contentSnippet": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+    "guid": "https://techcrunch.com/?p=3120267",
+    "categories": [
+      "AI",
+      "agents",
+      "Anthropic",
+      "Cat Wu",
+      "Claude",
+      "claude code"
+    ],
+    "isoDate": "2026-05-13T19:28:06.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are"
   },
   {
     "title": "(No AI) Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
@@ -65,6 +71,20 @@
     "slug": "microsoft-doesn-t-want-any-of-this"
   },
   {
+    "title": "(No AI) Building a safe, effective sandbox to enable Codex on Windows",
+    "link": "https://openai.com/index/building-codex-windows-sandbox",
+    "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
+    "content": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "contentSnippet": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "guid": "https://openai.com/index/building-codex-windows-sandbox",
+    "categories": [
+      "Engineering"
+    ],
+    "isoDate": "2026-05-13T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "building-a-safe-effective-sandbox-to-enable-codex-on-windows"
+  },
+  {
     "title": "(No AI) How finance teams use Codex",
     "link": "https://openai.com/academy/how-finance-teams-use-codex",
     "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
@@ -77,17 +97,6 @@
     "isoDate": "2026-05-12T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-finance-teams-use-codex"
-  },
-  {
-    "title": "(No AI) How NVIDIA engineers and researchers build with Codex",
-    "link": "https://openai.com/index/nvidia",
-    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-    "contentSnippet": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-    "guid": "https://openai.com/index/nvidia",
-    "isoDate": "2026-05-12T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-nvidia-engineers-and-researchers-build-with-codex"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -112,39 +121,38 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) OpenAI Brings Its Ass to Court",
-    "link": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
-    "pubDate": "Wed, 13 May 2026 17:08:01 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
-    "contentSnippet": "In Musk v. Altman, the company sought to show the jury a remarkable trophy as physical proof of Elon Musk’s concerning behavior.",
-    "guid": "6a0499e74dcd5fb764031dac",
+    "creator": "Molly Taft",
+    "title": "(No AI) What It Will Take to Make AI Sustainable",
+    "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+    "pubDate": "Wed, 13 May 2026 19:15:59 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+    "contentSnippet": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+    "guid": "6a036342c6beeb5243773b4e",
     "categories": [
-      "Business / Artificial Intelligence"
+      "Science",
+      "Science / Environment"
     ],
-    "isoDate": "2026-05-13T17:08:01.000Z",
+    "isoDate": "2026-05-13T19:15:59.000Z",
     "source": "Wired AI",
-    "slug": "openai-brings-its-ass-to-court"
+    "slug": "what-it-will-take-to-make-ai-sustainable"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-    "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
-    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
-    "contentSnippet": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
-    "guid": "6a0346f884ab33416a5f7da3",
+    "creator": "Dell Cameron, Maddy Varner",
+    "title": "(No AI) DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
+    "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
+    "pubDate": "Wed, 13 May 2026 19:03:19 +0000",
+    "dc:creator": "Dell Cameron, Maddy Varner",
+    "content": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
+    "contentSnippet": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
+    "guid": "6a0345a281528803c08a5e04",
     "categories": [
       "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Big Tech",
-      "Business / Social Media"
+      "Security / National Security",
+      "Security / Security News"
     ],
-    "isoDate": "2026-05-13T14:00:00.000Z",
+    "isoDate": "2026-05-13T19:03:19.000Z",
     "source": "Wired AI",
-    "slug": "whatsapp-adds-meta-ai-chats-that-are-built-to-be-fully-private"
+    "slug": "dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border"
   }
 ]
