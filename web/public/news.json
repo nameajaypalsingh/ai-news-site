@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "pubDate": "Wed, 13 May 2026 00:26:48 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+    "contentSnippet": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+    "guid": "https://techcrunch.com/?p=3121889",
+    "categories": [
+      "AI",
+      "Biotech & Health",
+      "TC",
+      "Kleiner Perkins",
+      "Kraft Ventures",
+      "Next Ventures",
+      "Pair Team"
+    ],
+    "isoDate": "2026-05-13T00:26:48.000Z",
+    "source": "TechCrunch AI",
+    "slug": "medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) Musk mulled handing OpenAI to his children, Altman testifies",
     "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
@@ -9,30 +31,28 @@
     "contentSnippet": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
     "guid": "https://techcrunch.com/?p=3121651",
     "categories": [
-      "AI"
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "sam altman"
     ],
     "isoDate": "2026-05-12T18:05:15.000Z",
     "source": "TechCrunch AI",
     "slug": "musk-mulled-handing-openai-to-his-children-altman-testifies"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Anthropic warns investors against secondary platforms offering access to its shares",
-    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "pubDate": "Tue, 12 May 2026 17:36:34 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-    "contentSnippet": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-    "guid": "https://techcrunch.com/?p=3121621",
-    "categories": [
-      "AI",
-      "Venture",
-      "Anthropic",
-      "secondary market"
-    ],
-    "isoDate": "2026-05-12T17:36:34.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares"
+    "title": "(No AI) Sam Altman was winning on the stand, but it might not be enough",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+    "pubDate": "2026-05-12T23:23:14.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![A blurry shot of Sam Altman, double-exposed in red and cyan.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWho, me? | Image: The Verge; Getty Images\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\"\n\nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial)",
+    "contentSnippet": "Who, me? | Image: The Verge; Getty Images\t\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" \nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\nRead the full story at The Verge.",
+    "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, [&#8230;]",
+    "id": "https://www.theverge.com/?p=929129",
+    "isoDate": "2026-05-12T23:23:14.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sam-altman-was-winning-on-the-stand-but-it-might-not-be-enough"
   },
   {
     "title": "(No AI) Meta won’t let you block its AI account on Threads",
@@ -49,43 +69,29 @@
     "slug": "meta-won-t-let-you-block-its-ai-account-on-threads"
   },
   {
-    "title": "(No AI) Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-    "pubDate": "2026-05-12T17:34:09.000Z",
-    "author": "Emma Roth",
-    "content": "![Stylized image of OpenAI CEO Sam Altman, seated](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of [Musk's lawsuit against OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit), Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\"\n\nAltman conceded that [this was the management style the Tesla CEO was known for](https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji), but that it was incompatible with his startup. \"I don't think Mr. Musk understood how to run a good research lab,\" Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. \"For a …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)",
-    "contentSnippet": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\"\nAltman conceded that this was the management style the Tesla CEO was known for, but that it was incompatible with his startup. \"I don't think Mr. Musk understood how to run a good research lab,\" Altman testified when his lawyer, William Savitt, asked about the impact of Musk's departure from OpenAI on morale. \"For a …\nRead the full story at The Verge.",
-    "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded [&#8230;]",
-    "id": "https://www.theverge.com/?p=928861",
-    "isoDate": "2026-05-12T17:34:09.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sam-altman-says-elon-musk-s-mind-games-were-damaging-openai"
+    "title": "(No AI) How finance teams use Codex",
+    "link": "https://openai.com/academy/how-finance-teams-use-codex",
+    "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
+    "content": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "contentSnippet": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+    "guid": "https://openai.com/academy/how-finance-teams-use-codex",
+    "categories": [
+      "OpenAI Academy"
+    ],
+    "isoDate": "2026-05-12T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-finance-teams-use-codex"
   },
   {
-    "title": "(No AI) What Parameter Golf taught us about AI-assisted research",
-    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "title": "(No AI) How NVIDIA engineers and researchers build with Codex",
+    "link": "https://openai.com/index/nvidia",
     "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "content": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "contentSnippet": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "guid": "https://openai.com/index/what-parameter-golf-taught-us",
-    "categories": [
-      "Research"
-    ],
+    "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "contentSnippet": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "guid": "https://openai.com/index/nvidia",
     "isoDate": "2026-05-12T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "what-parameter-golf-taught-us-about-ai-assisted-research"
-  },
-  {
-    "title": "(No AI) How ChatGPT adoption broadened in early 2026",
-    "link": "https://openai.com/signals/research/2026q1-update",
-    "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
-    "content": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-    "contentSnippet": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-    "guid": "https://openai.com/signals/research/2026q1-update",
-    "isoDate": "2026-05-11T15:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-chatgpt-adoption-broadened-in-early-2026"
+    "slug": "how-nvidia-engineers-and-researchers-build-with-codex"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -110,37 +116,37 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Paresh Dave, Maxwell Zeff",
-    "title": "(No AI) Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
-    "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
-    "pubDate": "Mon, 11 May 2026 23:51:35 +0000",
-    "dc:creator": "Paresh Dave, Maxwell Zeff",
-    "content": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
-    "contentSnippet": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
-    "guid": "6a024a6857bdfbf807f9fffc",
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "pubDate": "Wed, 13 May 2026 00:10:05 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+    "contentSnippet": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+    "guid": "6a0352dba6c6f7e2d0d128a8",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-11T23:51:35.000Z",
+    "isoDate": "2026-05-13T00:10:05.000Z",
     "source": "Wired AI",
-    "slug": "ilya-sutskever-stands-by-his-role-in-sam-altman-s-openai-ouster-i-didn-t-want-it-to-be-destroyed"
+    "slug": "elon-musk-had-hair-raising-idea-of-passing-openai-on-to-his-kids-sam-altman-says"
   },
   {
-    "creator": "Sheon Han",
-    "title": "(No AI) CUDA Proves Nvidia Is a Software Company",
-    "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-    "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
-    "dc:creator": "Sheon Han",
-    "content": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-    "contentSnippet": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-    "guid": "69dd40da8b9e2ea9455fc48c",
+    "creator": "Molly Taft",
+    "title": "(No AI) xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+    "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "pubDate": "Wed, 13 May 2026 00:00:00 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+    "contentSnippet": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+    "guid": "6a038287dff2f64d8823d03b",
     "categories": [
-      "Business",
-      "Business / Computers and Software"
+      "Science",
+      "Science / Environment"
     ],
-    "isoDate": "2026-05-11T10:00:00.000Z",
+    "isoDate": "2026-05-13T00:00:00.000Z",
     "source": "Wired AI",
-    "slug": "cuda-proves-nvidia-is-a-software-company"
+    "slug": "xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit"
   }
 ]
