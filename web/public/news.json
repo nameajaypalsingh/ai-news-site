@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Notion just turned its workspace into a hub for AI agents",
+    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "pubDate": "Wed, 13 May 2026 21:45:09 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "contentSnippet": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "guid": "https://techcrunch.com/?p=3122395",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "AI agents",
+      "Notion"
+    ],
+    "isoDate": "2026-05-13T21:45:09.000Z",
+    "source": "TechCrunch AI",
+    "slug": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents"
+  },
+  {
     "creator": "Tim De Chant",
     "title": "(No AI) Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
     "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
@@ -22,25 +41,18 @@
     "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "pubDate": "Wed, 13 May 2026 19:28:06 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-    "contentSnippet": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-    "guid": "https://techcrunch.com/?p=3120267",
-    "categories": [
-      "AI",
-      "agents",
-      "Anthropic",
-      "Cat Wu",
-      "Claude",
-      "claude code"
-    ],
-    "isoDate": "2026-05-13T19:28:06.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are"
+    "title": "(No AI) Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+    "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+    "pubDate": "2026-05-13T22:04:28.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing the Edge logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft Edge is [adding a new feature](https://blogs.windows.com/msedgedev/2026/05/13/new-updates-to-edge-across-desktop-and-mobile/) that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more.\n\nIn its announcement, Microsoft says you can \"select which experiences you want or leave off the ones you don't.\" The company is [retiring Copilot Mode](https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features) as well, which could similarly draw information from your tabs but offered some agentic features, like the ability to book a reservation on your behalf. Microsoft has since folded these …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)",
+    "contentSnippet": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more.\nIn its announcement, Microsoft says you can \"select which experiences you want or leave off the ones you don't.\" The company is retiring Copilot Mode as well, which could similarly draw information from your tabs but offered some agentic features, like the ability to book a reservation on your behalf. Microsoft has since folded these …\nRead the full story at The Verge.",
+    "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
+    "id": "https://www.theverge.com/?p=930188",
+    "isoDate": "2026-05-13T22:04:28.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-edge-copilot-update-uses-ai-to-pull-information-from-across-your-tabs"
   },
   {
     "title": "(No AI) Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
@@ -55,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "mark-zuckerberg-announces-completely-private-encrypted-meta-ai-chat"
-  },
-  {
-    "title": "(No AI) Microsoft doesn’t want any of this",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
-    "pubDate": "2026-05-13T15:30:37.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Satya-Nadella_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMaybe I'm just punch-drunk in my third week attending _Musk v. Altman_, but I have become very, _very_ fond of Microsoft during the course of this trial. They don't want to be here any more than I do.\n\nTheir opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you, ladies and gentlemen of the jury, might still enjoy an Xbox game.\n\nThere's been a great deal of high drama on the stand, from Musk, his associates, and O …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial)",
-    "contentSnippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do.\nTheir opening statement was honestly one of the most Microsoft things I've ever seen. More than anything else, it was an ad for Microsoft that listed their products in some detail. The general implication, from that statement, was that this trial was absurd, their involvement was absurd, but you, ladies and gentlemen of the jury, might still enjoy an Xbox game.\nThere's been a great deal of high drama on the stand, from Musk, his associates, and O …\nRead the full story at The Verge.",
-    "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything [&#8230;]",
-    "id": "https://www.theverge.com/?p=929692",
-    "isoDate": "2026-05-13T15:30:37.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Satya-Nadella_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-doesn-t-want-any-of-this"
   },
   {
     "title": "(No AI) Building a safe, effective sandbox to enable Codex on Windows",
@@ -121,6 +119,23 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+    "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "pubDate": "Wed, 13 May 2026 21:58:47 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+    "contentSnippet": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+    "guid": "6a0395f43d83c8d9938e1af0",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-13T21:58:47.000Z",
+    "source": "Wired AI",
+    "slug": "everyone-at-the-musk-v-altman-trial-is-using-fancy-butt-cushions"
+  },
+  {
     "creator": "Molly Taft",
     "title": "(No AI) What It Will Take to Make AI Sustainable",
     "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
@@ -136,23 +151,5 @@
     "isoDate": "2026-05-13T19:15:59.000Z",
     "source": "Wired AI",
     "slug": "what-it-will-take-to-make-ai-sustainable"
-  },
-  {
-    "creator": "Dell Cameron, Maddy Varner",
-    "title": "(No AI) DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
-    "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
-    "pubDate": "Wed, 13 May 2026 19:03:19 +0000",
-    "dc:creator": "Dell Cameron, Maddy Varner",
-    "content": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
-    "contentSnippet": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
-    "guid": "6a0345a281528803c08a5e04",
-    "categories": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-05-13T19:03:19.000Z",
-    "source": "Wired AI",
-    "slug": "dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border"
   }
 ]
