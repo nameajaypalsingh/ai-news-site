@@ -1,44 +1,42 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Notion just turned its workspace into a hub for AI agents",
-    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-    "pubDate": "Wed, 13 May 2026 21:45:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-    "contentSnippet": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-    "guid": "https://techcrunch.com/?p=3122395",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "pubDate": "Thu, 14 May 2026 06:05:31 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+    "contentSnippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+    "guid": "https://techcrunch.com/?p=3122447",
     "categories": [
       "AI",
-      "Enterprise",
-      "AI agents",
-      "Notion"
+      "TC",
+      "Campbell Brown",
+      "Forum AI",
+      "Lerer Hippeau"
     ],
-    "isoDate": "2026-05-13T21:45:09.000Z",
+    "isoDate": "2026-05-14T06:05:31.000Z",
     "source": "TechCrunch AI",
-    "slug": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents"
+    "slug": "who-decides-what-ai-tells-you-campbell-brown-once-meta-s-news-chief-has-thoughts"
   },
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-    "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-    "contentSnippet": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-    "guid": "https://techcrunch.com/?p=3122344",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Clio’s $500M milestone arrives just as Anthropic ups the ante",
+    "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "pubDate": "Thu, 14 May 2026 05:24:39 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+    "contentSnippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+    "guid": "https://techcrunch.com/?p=3122444",
     "categories": [
       "AI",
-      "Climate",
-      "air pollution",
-      "data centers",
-      "Elon Musk",
-      "natural gas",
-      "xAI"
+      "Startups",
+      "Clio",
+      "legal tech"
     ],
-    "isoDate": "2026-05-13T19:49:42.000Z",
+    "isoDate": "2026-05-14T05:24:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center"
+    "slug": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante"
   },
   {
     "title": "(No AI) Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
@@ -83,18 +81,18 @@
     "slug": "building-a-safe-effective-sandbox-to-enable-codex-on-windows"
   },
   {
-    "title": "(No AI) How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
-    "content": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "contentSnippet": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "guid": "https://openai.com/academy/how-finance-teams-use-codex",
+    "title": "(No AI) Our response to the TanStack npm supply chain attack",
+    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "pubDate": "Wed, 13 May 2026 00:00:00 GMT",
+    "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "contentSnippet": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+    "guid": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
     "categories": [
-      "OpenAI Academy"
+      "Security"
     ],
-    "isoDate": "2026-05-12T15:00:00.000Z",
+    "isoDate": "2026-05-13T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-finance-teams-use-codex"
+    "slug": "our-response-to-the-tanstack-npm-supply-chain-attack"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
