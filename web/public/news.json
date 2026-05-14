@@ -1,42 +1,64 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-    "pubDate": "Thu, 14 May 2026 06:05:31 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
-    "contentSnippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
-    "guid": "https://techcrunch.com/?p=3122447",
+    "creator": "Zack Whittaker",
+    "title": "(No AI) Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
+    "dc:creator": "Zack Whittaker",
+    "content": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "contentSnippet": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "guid": "https://techcrunch.com/?p=3122526",
     "categories": [
       "AI",
-      "TC",
-      "Campbell Brown",
-      "Forum AI",
-      "Lerer Hippeau"
+      "Security",
+      "chuck robbins",
+      "Cisco",
+      "cybersecurity",
+      "Layoffs"
     ],
-    "isoDate": "2026-05-14T06:05:31.000Z",
+    "isoDate": "2026-05-14T14:01:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "who-decides-what-ai-tells-you-campbell-brown-once-meta-s-news-chief-has-thoughts"
+    "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "pubDate": "Thu, 14 May 2026 05:24:39 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-    "contentSnippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-    "guid": "https://techcrunch.com/?p=3122444",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Two weeks left: Startup Battlefield 200 applications close May 27",
+    "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "contentSnippet": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "guid": "https://techcrunch.com/?p=3122450",
     "categories": [
-      "AI",
       "Startups",
-      "Clio",
-      "legal tech"
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "Startup Battlefield",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-14T05:24:39.000Z",
+    "isoDate": "2026-05-14T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante"
+    "slug": "two-weeks-left-startup-battlefield-200-applications-close-may-27"
+  },
+  {
+    "title": "(No AI) You can make an app for that",
+    "link": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+    "pubDate": "2026-05-14T11:00:00.000Z",
+    "author": "David Pierce",
+    "content": "![Image of a smart phone filled with apps that have David Pierce’s face on them.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia15.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess.\n\nUntil now, the people making a given piece of software - mostly well-paid professional developers - have rarely been the same as the ones using it: lawyers, doctors, churches, schools, me. (Where they overlap most directly is with developer tools, which are often the best and most passionately designed software you'll …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution)",
+    "contentSnippet": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess.\nUntil now, the people making a given piece of software - mostly well-paid professional developers - have rarely been the same as the ones using it: lawyers, doctors, churches, schools, me. (Where they overlap most directly is with developer tools, which are often the best and most passionately designed software you'll  …\nRead the full story at The Verge.",
+    "summary": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess. Until [&#8230;]",
+    "id": "https://www.theverge.com/?p=928905",
+    "isoDate": "2026-05-14T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268478_era_of_personal_software_CVirginia15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-make-an-app-for-that"
   },
   {
     "title": "(No AI) Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
@@ -51,20 +73,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "microsoft-s-edge-copilot-update-uses-ai-to-pull-information-from-across-your-tabs"
-  },
-  {
-    "title": "(No AI) Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
-    "link": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-    "pubDate": "2026-05-13T16:45:43.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Screenshots of Incognito Chat in Meta AI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta CEO Mark Zuckerberg [says](https://www.threads.com/@zuck/post/DYSAIo_FL77?xmt=AQG0l5LYBvgjXITzozYS3fN3zwxFd6wkj1X0cz-QbVJa3g) its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta [says](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/) its version is different because it also uses end-to-end encryption, which Meta recently [removed from Instagram DMs](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption):\n\n\"Other apps have introduced incognito-style modes, but they can still see the questions coming in and the answers going out. Incognito Chat with Meta AI is truly private, meaning no one - not even Meta - can read your conversations.\"\n\n[](https://www.threads.com/@zuck/post/DYSAIlEFFRh)\n\nGoogle …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)",
-    "contentSnippet": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it also uses end-to-end encryption, which Meta recently removed from Instagram DMs: \n\"Other apps have introduced incognito-style modes, but they can still see the questions coming in and the answers going out. Incognito Chat with Meta AI is truly private, meaning no one - not even Meta - can read your conversations.\"\n\n\n\n\n\nGoogle …\nRead the full story at The Verge.",
-    "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it [&#8230;]",
-    "id": "https://www.theverge.com/?p=929791",
-    "isoDate": "2026-05-13T16:45:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "mark-zuckerberg-announces-completely-private-encrypted-meta-ai-chat"
   },
   {
     "title": "(No AI) Building a safe, effective sandbox to enable Codex on Windows",
@@ -117,37 +125,37 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
-    "creator": "Paresh Dave, Lauren Goode, Steven Levy, Zoë Schiffer",
-    "title": "(No AI) Meta’s New Reality: Record High Profits. Record Low Morale",
-    "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
-    "pubDate": "Thu, 14 May 2026 09:00:00 +0000",
-    "dc:creator": "Paresh Dave, Lauren Goode, Steven Levy, Zoë Schiffer",
-    "content": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
-    "contentSnippet": "Next week, Meta is cutting about 10 percent of its staff. WIRED spoke with more than a dozen current and former employees about what it's like inside a company where \"everyone is unhappy.\"",
-    "guid": "6a0525ccc21c453beb0a3e91",
+    "creator": "Jeremy White",
+    "title": "(No AI) AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+    "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+    "pubDate": "Thu, 14 May 2026 12:52:28 +0000",
+    "dc:creator": "Jeremy White",
+    "content": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+    "contentSnippet": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+    "guid": "6a043a07204507aca57d1a55",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Watches"
     ],
-    "isoDate": "2026-05-14T09:00:00.000Z",
+    "isoDate": "2026-05-14T12:52:28.000Z",
     "source": "Wired AI",
-    "slug": "meta-s-new-reality-record-high-profits-record-low-morale"
+    "slug": "ai-promised-the-audemars-piguet-x-swatch-wristwatch-china-will-deliver-it"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-    "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-    "pubDate": "Wed, 13 May 2026 21:58:47 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-    "contentSnippet": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-    "guid": "6a0395f43d83c8d9938e1af0",
+    "creator": "Steven Rosenbaum",
+    "title": "(No AI) Gen Z Is Pioneering a New Understanding of Truth",
+    "link": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
+    "pubDate": "Thu, 14 May 2026 11:00:00 +0000",
+    "dc:creator": "Steven Rosenbaum",
+    "content": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
+    "contentSnippet": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
+    "guid": "6a03754ed0997fbd08eda3a6",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "The Big Story"
     ],
-    "isoDate": "2026-05-13T21:58:47.000Z",
+    "isoDate": "2026-05-14T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "everyone-at-the-musk-v-altman-trial-is-using-fancy-butt-cushions"
+    "slug": "gen-z-is-pioneering-a-new-understanding-of-truth"
   }
 ]
