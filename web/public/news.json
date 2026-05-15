@@ -9,7 +9,10 @@
     "contentSnippet": "Here's what the biggest tech court case of the year is all about.",
     "guid": "https://techcrunch.com/?p=3122645",
     "categories": [
-      "AI"
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "sam altman"
     ],
     "isoDate": "2026-05-14T22:47:51.000Z",
     "source": "TechCrunch AI",
@@ -29,8 +32,8 @@
       "Space",
       "Elon Musk",
       "SpaceX",
-      "spacexai",
-      "xAI"
+      "xAI",
+      "spacexai"
     ],
     "isoDate": "2026-05-14T21:30:44.000Z",
     "source": "TechCrunch AI",
@@ -112,6 +115,23 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "pubDate": "Fri, 15 May 2026 09:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+    "contentSnippet": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+    "guid": "6a04e096fe9ec6c09cd7171e",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-15T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop"
+  },
+  {
     "creator": "Maxwell Zeff, Paresh Dave",
     "title": "(No AI) The Real Losers of the Musk v. Altman Trial",
     "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
@@ -127,22 +147,5 @@
     "isoDate": "2026-05-15T00:49:53.000Z",
     "source": "Wired AI",
     "slug": "the-real-losers-of-the-musk-v-altman-trial"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-    "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
-    "pubDate": "Thu, 14 May 2026 20:27:34 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-    "contentSnippet": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-    "guid": "6a0609ba8cd08cd9ab8729e4",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-14T20:27:34.000Z",
-    "source": "Wired AI",
-    "slug": "an-engineer-s-post-protesting-laptop-surveillance-is-going-viral-inside-meta"
   }
 ]
