@@ -1,7 +1,26 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "pubDate": "Fri, 15 May 2026 16:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "contentSnippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "guid": "https://techcrunch.com/?p=3122997",
+    "categories": [
+      "AI",
+      "ChatGPT",
+      "finance",
+      "OpenAI"
+    ],
+    "isoDate": "2026-05-15T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts"
+  },
+  {
     "creator": "Rebecca Bellan",
-    "title": "(No AI) Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+    "title": "(No AI) Runway started by helping filmmakers — now it wants to beat Google at AI",
     "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "pubDate": "Fri, 15 May 2026 14:00:00 +0000",
     "dc:creator": "Rebecca Bellan",
@@ -9,65 +28,59 @@
     "contentSnippet": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
     "guid": "https://techcrunch.com/?p=3116150",
     "categories": [
-      "Media & Entertainment",
       "AI",
+      "Media & Entertainment",
+      "AI video generation",
       "Exclusive",
       "runway",
-      "world models",
-      "AI video generation",
-      "video intelligence"
+      "video intelligence",
+      "world models"
     ],
     "isoDate": "2026-05-15T14:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Osaurus brings both local and cloud AI models to your Mac",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "pubDate": "Fri, 15 May 2026 12:19:48 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "contentSnippet": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "guid": "https://techcrunch.com/?p=3122568",
+    "title": "(No AI) AI radio hosts demonstrate why AI can’t be trusted alone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "pubDate": "2026-05-15T17:09:16.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Podcast mic on a green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images\n\nAndon Labs has been running a series of experiments in which AI agents run businesses without human intervention. [Its latest](https://andonlabs.com/blog/andon-fm) is a quartet of [radio stations](https://andonlabs.com/radio) run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a simple prompt:\n\n> _Develop your own radio personality and turn a profit…As far as you know, you will broadcast forever._\n\nThey all failed, some in pretty spectacular fashion. It didn't take long for each to burn through their initial $20 in seed money. Only DJ …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)",
+    "contentSnippet": "AI radio DJs demonstrated their volatile personalities. | Image: Cath Virginia / The Verge, Getty Images\t\n\nAndon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll Radio,\" obviously enough, by Grok. They were each given a simple prompt:\nDevelop your own radio personality and turn a profit…As far as you know, you will broadcast forever.\nThey all failed, some in pretty spectacular fashion. It didn't take long for each to burn through their initial $20 in seed money. Only DJ  …\nRead the full story at The Verge.",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll [&#8230;]",
+    "id": "https://www.theverge.com/?p=931479",
+    "isoDate": "2026-05-15T17:09:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-radio-hosts-demonstrate-why-ai-can-t-be-trusted-alone"
+  },
+  {
+    "title": "(No AI) Does Trump Mobile know how many stripes are on the American flag?",
+    "link": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+    "pubDate": "2026-05-15T16:47:16.000Z",
+    "author": "Dominic Preston",
+    "content": "![A still from Trump Mobile’s promotional video showing the T1 Phone surrounded by the accessories it ships with.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile\n\n[_Where's the Trump phone? We're going to keep talking about it every week_](https://www.theverge.com/gadgets/843498/trump-phone)_. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials._\n\nThis has been a momentous few days for Trump Mobile, in which it defied the haters by announcing that its phones will be [shipping to buyers this very week](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week). Not that there's any sign the company has actually done that, but I digress. Because what I really want to talk about today is the American flag.\n\nI am not an American, which probably explains why I did …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)",
+    "contentSnippet": "The T1 Phone has the wrong number of stripes, but it does at least have 50 stars. | Screenshot: Trump Mobile\t\n\nWhere's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials.\nThis has been a momentous few days for Trump Mobile, in which it defied the haters by announcing that its phones will be shipping to buyers this very week. Not that there's any sign the company has actually done that, but I digress. Because what I really want to talk about today is the American flag.\nI am not an American, which probably explains why I did …\nRead the full story at The Verge.",
+    "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous [&#8230;]",
+    "id": "https://www.theverge.com/?p=931347",
+    "isoDate": "2026-05-15T16:47:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "does-trump-mobile-know-how-many-stripes-are-on-the-american-flag"
+  },
+  {
+    "title": "(No AI) A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+    "content": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "contentSnippet": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "guid": "https://openai.com/index/personal-finance-chatgpt",
     "categories": [
-      "AI",
-      "Apps",
-      "local AI",
-      "mac apps",
-      "osaurus"
+      "Product"
     ],
-    "isoDate": "2026-05-15T12:19:48.000Z",
-    "source": "TechCrunch AI",
-    "slug": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac"
-  },
-  {
-    "title": "(No AI) The promises and pitfalls of personalized health",
-    "link": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
-    "pubDate": "2026-05-15T14:00:00.000Z",
-    "author": "Victoria Song",
-    "content": "![Patient talking to a doctor with a computer for a head.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKS524_AI_HEALTH_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [Optimizer](https://www.theverge.com/optimizer-newsletter)_, a weekly newsletter sent every Friday from_ Verge _senior reviewer_ [_Victoria Song_](https://www.theverge.com/authors/victoria-song) _that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for_ Optimizer _[here](https://www.theverge.com/newsletters)._\n\nA few days ago, my esthetician was smearing hot wax on my face. The two caterpillars I call eyebrows were in desperate need of taming - as was my lady 'stache. I hate this monthly ritual, but facial hair is a sore spot. Hirsutism is perhaps one of the few visual indicators of a condition that's plagued me for the past decade. Until this week, I've always known it as polycystic ovary syndrome (PCOS).\n\nNormally, I sp …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health)",
-    "contentSnippet": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nA few days ago, my esthetician was smearing hot wax on my face. The two caterpillars I call eyebrows were in desperate need of taming - as was my lady 'stache. I hate this monthly ritual, but facial hair is a sore spot. Hirsutism is perhaps one of the few visual indicators of a condition that's plagued me for the past decade. Until this week, I've always known it as polycystic ovary syndrome (PCOS). \nNormally, I sp …\nRead the full story at The Verge.",
-    "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, my esthetician was smearing hot wax on my face. The two caterpillars I call [&#8230;]",
-    "id": "https://www.theverge.com/?p=931148",
-    "isoDate": "2026-05-15T14:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKS524_AI_HEALTH_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-promises-and-pitfalls-of-personalized-health"
-  },
-  {
-    "title": "(No AI) AI research papers are getting better, and it’s a big problem for scientists",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-    "pubDate": "2026-05-15T11:00:00.000Z",
-    "author": "Joshua Dzieza",
-    "content": "![Beaker overflowing with green slime and smoke as research papers fly out of it.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268512_PHOTO-_Research_papers_are_overrun_with_AI_slop_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLast summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and had received a respectable few dozen citations in other research papers over the years, but now it was being referenced every few days, hundreds of times, placing it among the most cited papers of his career. Another professor might be thrilled. Degen's adviser asked him to investigate.\n\nDegen, a postd …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem)",
-    "contentSnippet": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and had received a respectable few dozen citations in other research papers over the years, but now it was being referenced every few days, hundreds of times, placing it among the most cited papers of his career. Another professor might be thrilled. Degen's adviser asked him to investigate. \nDegen, a postd …\nRead the full story at The Verge.",
-    "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of statistical analysis on epidemiological data and [&#8230;]",
-    "id": "https://www.theverge.com/?p=930522",
-    "isoDate": "2026-05-15T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268512_PHOTO-_Research_papers_are_overrun_with_AI_slop_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-research-papers-are-getting-better-and-it-s-a-big-problem-for-scientists"
+    "isoDate": "2026-05-15T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "a-new-personal-finance-experience-in-chatgpt"
   },
   {
     "title": "(No AI) Sea's View on the Future of Agentic Software Development with Codex",
@@ -79,20 +92,6 @@
     "isoDate": "2026-05-14T20:30:00.000Z",
     "source": "OpenAI",
     "slug": "sea-s-view-on-the-future-of-agentic-software-development-with-codex"
-  },
-  {
-    "title": "(No AI) Work with Codex from anywhere",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
-    "content": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "contentSnippet": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "guid": "https://openai.com/index/work-with-codex-from-anywhere",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-05-14T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "work-with-codex-from-anywhere"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -117,6 +116,23 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup",
+    "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "pubDate": "Fri, 15 May 2026 17:09:17 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "contentSnippet": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "guid": "6a0742cfd1d9a52b26d61b66",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-15T17:09:17.000Z",
+    "source": "Wired AI",
+    "slug": "greg-brockman-officially-takes-control-of-openai-s-products-in-latest-shakeup"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
     "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
@@ -132,22 +148,5 @@
     "isoDate": "2026-05-15T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop"
-  },
-  {
-    "creator": "Maxwell Zeff, Paresh Dave",
-    "title": "(No AI) The Real Losers of the Musk v. Altman Trial",
-    "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-    "pubDate": "Fri, 15 May 2026 00:49:53 +0000",
-    "dc:creator": "Maxwell Zeff, Paresh Dave",
-    "content": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-    "contentSnippet": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-    "guid": "6a063519b84b146a9eec3c9b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-15T00:49:53.000Z",
-    "source": "Wired AI",
-    "slug": "the-real-losers-of-the-musk-v-altman-trial"
   }
 ]
