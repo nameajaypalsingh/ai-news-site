@@ -1,99 +1,68 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI says Codex is coming to your phone",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "contentSnippet": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "guid": "https://techcrunch.com/?p=3122704",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "pubDate": "Thu, 14 May 2026 22:47:51 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Here's what the biggest tech court case of the year is all about.",
+    "contentSnippet": "Here's what the biggest tech court case of the year is all about.",
+    "guid": "https://techcrunch.com/?p=3122645",
     "categories": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "codex",
-      "OpenAI"
+      "AI"
     ],
-    "isoDate": "2026-05-14T20:58:55.000Z",
+    "isoDate": "2026-05-14T22:47:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-says-codex-is-coming-to-your-phone"
+    "slug": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) What happens when AI starts building itself?",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "contentSnippet": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "guid": "https://techcrunch.com/?p=3122712",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "pubDate": "Thu, 14 May 2026 21:30:44 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "contentSnippet": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "guid": "https://techcrunch.com/?p=3122877",
     "categories": [
       "AI",
-      "greycroft",
-      "GV",
-      "recursive superintelligence",
-      "Richard Socher"
+      "Space",
+      "Elon Musk",
+      "SpaceX",
+      "spacexai",
+      "xAI"
     ],
-    "isoDate": "2026-05-14T19:57:20.000Z",
+    "isoDate": "2026-05-14T21:30:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "what-happens-when-ai-starts-building-itself"
+    "slug": "elon-musk-s-spacexai-has-been-bleeding-staff-since-its-merger"
+  },
+  {
+    "title": "(No AI) Closing time",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+    "pubDate": "2026-05-14T22:21:46.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Photo collage of Sam Altman and Elon Musk](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin06.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nToday was closing arguments in the _Musk v. Altman_ trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and had to be corrected by the judge. He made it clear we've heard from many liars over the past few weeks, but offered little evidence for Musk's actual legal claims.\n\nOpenAI's lawyer, Sarah Eddy, countered this by simply arranging the mountain of evidence that the company introduced in chronological order. She didn't spen …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)",
+    "contentSnippet": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and had to be corrected by the judge. He made it clear we've heard from many liars over the past few weeks, but offered little evidence for Musk's actual legal claims.\nOpenAI's lawyer, Sarah Eddy, countered this by simply arranging the mountain of evidence that the company introduced in chronological order. She didn't spen …\nRead the full story at The Verge.",
+    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk wasn't asking for money and [&#8230;]",
+    "id": "https://www.theverge.com/?p=931006",
+    "isoDate": "2026-05-14T22:21:46.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "closing-time"
   },
   {
     "title": "(No AI) Behold, the Elon Musk jackass trophy",
     "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
     "pubDate": "2026-05-14T20:59:23.000Z",
     "author": "Elizabeth Lopatto",
-    "content": "![Photo collage of Elon Musk and Sam Altman](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday, in _Musk v. Altman_, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Ackiam, who testified yesterday.\n\nHow exactly did this come up in [a trial about nonprofit contract law](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)? Allegedly, when Elon Musk was leaving OpenAI, he talked about wanting to race ahead of Google. Achiam, who worked on AI safety, asked if that was really such a good idea. Musk called him a jackass. Years …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)",
-    "contentSnippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Ackiam, who testified yesterday.\nHow exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he talked about wanting to race ahead of Google. Achiam, who worked on AI safety, asked if that was really such a good idea. Musk called him a jackass. Years …\nRead the full story at The Verge.",
+    "content": "![Photo collage of Elon Musk and Sam Altman](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday, in _Musk v. Altman_, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday.\n\nHow exactly did this come up in [a trial about nonprofit contract law](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip)? Allegedly, when Elon Musk was leaving OpenAI, he talked about wanting to race ahead of Google. Achiam, who worked on AI safety, asked if that was really such a good idea. Musk called him a jackass. Years …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)",
+    "contentSnippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for research scientist Josh Achiam, who testified yesterday.\nHow exactly did this come up in a trial about nonprofit contract law? Allegedly, when Elon Musk was leaving OpenAI, he talked about wanting to race ahead of Google. Achiam, who worked on AI safety, asked if that was really such a good idea. Musk called him a jackass. Years …\nRead the full story at The Verge.",
     "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI employees bought for [&#8230;]",
     "id": "https://www.theverge.com/?p=930893",
     "isoDate": "2026-05-14T20:59:23.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "behold-the-elon-musk-jackass-trophy"
-  },
-  {
-    "title": "(No AI) OpenAI’s Codex is now in the ChatGPT mobile app",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-    "pubDate": "2026-05-14T20:00:00.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone.\n\nFollowing the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back [on \"side quests,\"](https://www.theverge.com/ai-artificial-intelligence/895835/openai-cuts-back-on-side-quests) shutting down projects like [the Sora video-generation tool](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition), and focusing on [growing its enterprise business](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic). The company's push included the recently released major update for Codex that lets it [operate apps on macOS](https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos) - a potentially major step as part of its ambitions to [make a desktop \"superapp.\"](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp)\n\nCodex in the ChatGPT mobile app lets …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)",
-    "contentSnippet": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. \nFollowing the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business. The company's push included the recently released major update for Codex that lets it operate apps on macOS - a potentially major step as part of its ambitions to make a desktop \"superapp.\"\nCodex in the ChatGPT mobile app lets  …\nRead the full story at The Verge.",
-    "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side quests,\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=930763",
-    "isoDate": "2026-05-14T20:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-codex-is-now-in-the-chatgpt-mobile-app"
-  },
-  {
-    "title": "(No AI) Work with Codex from anywhere",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
-    "content": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "contentSnippet": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "guid": "https://openai.com/index/work-with-codex-from-anywhere",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-05-14T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "work-with-codex-from-anywhere"
-  },
-  {
-    "title": "(No AI) Helping ChatGPT better recognize context in sensitive conversations",
-    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
-    "content": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-    "contentSnippet": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-    "guid": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-05-14T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "helping-chatgpt-better-recognize-context-in-sensitive-conversations"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
@@ -118,6 +87,23 @@
     "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
   },
   {
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) The Real Losers of the Musk v. Altman Trial",
+    "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+    "pubDate": "Fri, 15 May 2026 00:49:53 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+    "contentSnippet": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+    "guid": "6a063519b84b146a9eec3c9b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-15T00:49:53.000Z",
+    "source": "Wired AI",
+    "slug": "the-real-losers-of-the-musk-v-altman-trial"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
     "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
@@ -133,24 +119,5 @@
     "isoDate": "2026-05-14T20:27:34.000Z",
     "source": "Wired AI",
     "slug": "an-engineer-s-post-protesting-laptop-surveillance-is-going-viral-inside-meta"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
-    "pubDate": "Thu, 14 May 2026 19:04:47 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
-    "contentSnippet": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
-    "guid": "6a04c841c772513a5272652f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-05-14T19:04:47.000Z",
-    "source": "Wired AI",
-    "slug": "trump-s-tech-posse-in-china-who-s-winning-in-musk-v-altman-and-hantavirus-conspiracy-theories"
   }
 ]
