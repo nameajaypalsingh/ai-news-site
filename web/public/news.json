@@ -48,6 +48,20 @@
     "slug": "silicon-valley-s-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up"
   },
   {
+    "title": "(No AI) YouTube is expanding its AI deepfake detection tool to all adult users",
+    "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "pubDate": "2026-05-15T22:25:00.000Z",
+    "author": "Mia Sato",
+    "content": "![A mannequin’s face covered in pixels.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.\n\nThe likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be \"very small.\"\n\nYouTube began testing the feature [with content creators](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake), and then [expanded](https://www.theverge.com/ai-artificial-intelligence/891678/youtube-is-expanding-its-ai-deepfake-detection-tool-to-politicians-and-journalists) it to government officials, politicians, journalists, and fina …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)",
+    "contentSnippet": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves.\nThe likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be \"very small.\"\nYouTube began testing the feature with content creators, and then expanded it to government officials, politicians, journalists, and fina …\nRead the full story at The Verge.",
+    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]",
+    "id": "https://www.theverge.com/?p=931884",
+    "isoDate": "2026-05-15T22:25:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "youtube-is-expanding-its-ai-deepfake-detection-tool-to-all-adult-users"
+  },
+  {
     "title": "(No AI) ArXiv will ban researchers who upload papers full of AI slop",
     "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
     "pubDate": "2026-05-15T20:38:19.000Z",
@@ -60,20 +74,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "arxiv-will-ban-researchers-who-upload-papers-full-of-ai-slop"
-  },
-  {
-    "title": "(No AI) OpenAI keeps shuffling its executives in bid to win AI agent battle",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-    "pubDate": "2026-05-15T18:21:35.000Z",
-    "author": "Hayden Field",
-    "content": "![Graphic collage of Greg Brockman.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.\n\nIn a memo viewed by _The Verge_, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\"\n\nTo do this, the company is making a suite of org chart changes, although it's still operating under [some of the same ones from last month](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence). That's when AGI boss Fidji Simo went on medical leave and Open …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)",
-    "contentSnippet": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.\nIn a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in a single agentic platform and to merge ChatGPT and Codex into one unified agentic experience for all.\"\nTo do this, the company is making a suite of org chart changes, although it's still operating under some of the same ones from last month. That's when AGI boss Fidji Simo went on medical leave and Open …\nRead the full story at The Verge.",
-    "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in [&#8230;]",
-    "id": "https://www.theverge.com/?p=931544",
-    "isoDate": "2026-05-15T18:21:35.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle"
   },
   {
     "title": "(No AI) A new personal finance experience in ChatGPT",
@@ -90,15 +90,15 @@
     "slug": "a-new-personal-finance-experience-in-chatgpt"
   },
   {
-    "title": "(No AI) Sea's View on the Future of Agentic Software Development with Codex",
-    "link": "https://openai.com/index/sea-david-chen",
-    "pubDate": "Thu, 14 May 2026 20:30:00 GMT",
-    "content": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "contentSnippet": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "guid": "https://openai.com/index/sea-david-chen",
-    "isoDate": "2026-05-14T20:30:00.000Z",
+    "title": "(No AI) Databricks brings GPT-5.5 to enterprise agent workflows",
+    "link": "https://openai.com/index/databricks",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+    "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "contentSnippet": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "guid": "https://openai.com/index/databricks",
+    "isoDate": "2026-05-15T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "sea-s-view-on-the-future-of-agentic-software-development-with-codex"
+    "slug": "databricks-brings-gpt-5-5-to-enterprise-agent-workflows"
   },
   {
     "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
