@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "pubDate": "Mon, 18 May 2026 21:29:31 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "contentSnippet": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "guid": "https://techcrunch.com/?p=3121747",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "Eric Schmidt",
+      "Google",
+      "SandboxAQ"
+    ],
+    "isoDate": "2026-05-18T21:29:31.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required"
+  },
+  {
     "creator": "Kirsten Korosec",
     "title": "(No AI) Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
     "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
@@ -16,27 +37,6 @@
     "isoDate": "2026-05-18T19:27:52.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "pubDate": "Mon, 18 May 2026 17:34:43 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "contentSnippet": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "guid": "https://techcrunch.com/?p=3123555",
-    "categories": [
-      "AI",
-      "Elon Musk",
-      "greg brockman",
-      "Microsoft",
-      "OpenAI trial",
-      "sam altman"
-    ],
-    "isoDate": "2026-05-18T17:34:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai"
   },
   {
     "title": "(No AI) Musk v. Altman proved that AI is led by the wrong people",
