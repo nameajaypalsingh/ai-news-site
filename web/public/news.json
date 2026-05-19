@@ -1,70 +1,88 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "pubDate": "Mon, 18 May 2026 21:29:31 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "contentSnippet": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "guid": "https://techcrunch.com/?p=3121747",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Google’s Genie world model can now simulate real streets with Street View",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "pubDate": "Tue, 19 May 2026 17:51:39 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "contentSnippet": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "guid": "https://techcrunch.com/?p=3123866",
     "categories": [
       "AI",
-      "Anthropic",
-      "Claude",
-      "Eric Schmidt",
+      "Robotics",
+      "genie 3",
       "Google",
-      "SandboxAQ"
+      "Google I/O",
+      "google io 2026",
+      "Google Maps",
+      "Street View"
     ],
-    "isoDate": "2026-05-18T21:29:31.000Z",
+    "isoDate": "2026-05-19T17:51:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required"
+    "slug": "google-s-genie-world-model-can-now-simulate-real-streets-with-street-view"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "pubDate": "Mon, 18 May 2026 19:27:52 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "contentSnippet": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "guid": "https://techcrunch.com/?p=3123572",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "contentSnippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "guid": "https://techcrunch.com/?p=3124122",
     "categories": [
       "AI",
-      "Anthropic",
-      "Stainless"
+      "gemini",
+      "gemini flash 3.5",
+      "Google",
+      "google io 2026"
     ],
-    "isoDate": "2026-05-18T19:27:52.000Z",
+    "isoDate": "2026-05-19T17:51:30.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare"
+    "slug": "with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots"
   },
   {
-    "title": "(No AI) America’s dangerous, messy deepfakes crackdown is here",
-    "link": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
-    "pubDate": "2026-05-19T14:58:19.000Z",
-    "author": "Lauren Feiner",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online.\n\nLast May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery (NCII). The law immediately criminalized distributing NCII, whether in the form of real or AI-generated material, something [many states](https://www.findlaw.com/criminal/criminal-charges/revenge-porn-laws-by-state.html) at least partially do already. But its namesake takedown provision is more sweeping. Taking effect a year after the law's passage - on May 19th of 2026 - it requires on …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake)",
-    "contentSnippet": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. \nLast May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery (NCII). The law immediately criminalized distributing NCII, whether in the form of real or AI-generated material, something many states at least partially do already. But its namesake takedown provision is more sweeping. Taking effect a year after the law's passage - on May 19th of 2026 - it requires on …\nRead the full story at The Verge.",
-    "summary": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. Last May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery [&#8230;]",
-    "id": "https://www.theverge.com/?p=933518",
-    "isoDate": "2026-05-19T14:58:19.000Z",
+    "title": "(No AI) Gemini will use Volvo’s external cameras to interpret parking signs",
+    "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+    "pubDate": "2026-05-19T18:00:00.000Z",
+    "author": "Andrew J. Hawkins",
+    "content": "![Volvo EX60](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGemini is gaining the power of sight _and_ mobility. [Today at the I/O conference](https://www.theverge.com/tech/932454/google-io-2026-news-announcements), Google and Volvo announced that the AI-powered assistant will be able to access external cameras in [the upcoming EX60 SUV](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs) to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\n\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking)",
+    "contentSnippet": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\nRead the full story at The Verge.",
+    "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded [&#8230;]",
+    "id": "https://www.theverge.com/?p=933556",
+    "isoDate": "2026-05-19T18:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "america-s-dangerous-messy-deepfakes-crackdown-is-here"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "gemini-will-use-volvo-s-external-cameras-to-interpret-parking-signs"
   },
   {
-    "title": "(No AI) Gemini is in danger of going full Copilot",
-    "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-    "pubDate": "2026-05-19T10:30:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Samsung Z Fold 7 phone showing Gemini interface](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI actually use the Gemini app quite a bit on my phone, but let’s not get carried away.\n\nGemini has a creep problem.\n\nA few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's showing up in all kinds of places at a relentless pace, and personally, it's starting to really cheese me off.\n\nThe AI-everywhere fatigue is familiar to anyone who has ever used Windows 11. Microsoft went absolutely bananas putting Copilot shortcuts onto every surface it could find, [to the extreme irritation](https://www.theverge.com/tech/825022/microsoft-windows-40-year-anniversary-agentic-os-future) of many users. Likewise, we will doubtlessly …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace)",
-    "contentSnippet": "I actually use the Gemini app quite a bit on my phone, but let’s not get carried away.\t\n\nGemini has a creep problem.\nA few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's showing up in all kinds of places at a relentless pace, and personally, it's starting to really cheese me off. \nThe AI-everywhere fatigue is familiar to anyone who has ever used Windows 11. Microsoft went absolutely bananas putting Copilot shortcuts onto every surface it could find, to the extreme irritation of many users. Likewise, we will doubtlessly …\nRead the full story at The Verge.",
-    "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's [&#8230;]",
-    "id": "https://www.theverge.com/?p=931752",
-    "isoDate": "2026-05-19T10:30:00.000Z",
+    "title": "(No AI) The 13 biggest announcements at Google I/O 2026",
+    "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+    "pubDate": "2026-05-19T17:54:33.000Z",
+    "author": "Andrew Liszewski",
+    "content": "YouTube\" data-portal-copyright=\"Screenshot: [YouTube](https://www.youtube.com/watch?v=wYSncx9zLIU)\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&strip=all&crop=0,0,100,100\" />\n\nGoogle CEO Sundar Pichai on stage at I/O 2026. | Screenshot: [YouTube](https://www.youtube.com/watch?v=wYSncx9zLIU)\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\n\nIf you weren't able to [tune into the event's livestream today](https://www.theverge.com/tech/932939/google-io-2026-how-to-watch) or [follow along with our live blog](https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote), you can catch up on everything you missed in our roundup below.\n\n## [**Gemini 3.5**](https://www.theverge.com/tech/933699/google-gemini-redesign-ai-3-5-flash-io-2026)\n\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini)",
+    "contentSnippet": "Google CEO Sundar Pichai on stage at I/O 2026. | Screenshot: YouTube\t\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\nIf you weren't able to tune into the event's livestream today or follow along with our live blog, you can catch up on everything you missed in our roundup below.\nGemini 3.5\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly  …\nRead the full story at The Verge.",
+    "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our live blog, you can [&#8230;]",
+    "id": "https://www.theverge.com/?p=933415",
+    "isoDate": "2026-05-19T17:54:33.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "gemini-is-in-danger-of-going-full-copilot"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-13-biggest-announcements-at-google-i-o-2026"
+  },
+  {
+    "title": "(No AI) Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
+    "content": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "contentSnippet": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "guid": "https://openai.com/index/advancing-content-provenance",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-05-19T10:45:00.000Z",
+    "source": "OpenAI",
+    "slug": "advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem"
   },
   {
     "title": "(No AI) OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -81,74 +99,61 @@
     "slug": "openai-and-dell-partner-to-bring-codex-to-hybrid-and-on-premise-enterprise-environments"
   },
   {
-    "title": "(No AI) OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
-    "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-    "contentSnippet": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-    "guid": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-05-16T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens"
-  },
-  {
-    "title": "(No AI) AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "pubDate": "Wed, 06 May 2026 10:43:49 +0000",
-    "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-    "contentSnippet": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-    "guid": "https://deepmind.google/blog/alphaevolve-impact/",
-    "isoDate": "2026-05-06T10:43:49.000Z",
+    "title": "(No AI) Fast-tracking genetic leads to reverse cellular aging",
+    "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+    "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "contentSnippet": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "guid": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "isoDate": "2026-05-18T18:21:39.000Z",
     "source": "Google DeepMind",
-    "slug": "alphaevolve-how-our-gemini-powered-coding-agent-is-scaling-impact-across-fields"
+    "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
-    "title": "(No AI) Enabling a new model for healthcare with AI co-clinician",
-    "link": "https://deepmind.google/blog/ai-co-clinician/",
-    "pubDate": "Thu, 30 Apr 2026 12:14:15 +0000",
-    "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-    "contentSnippet": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-    "guid": "https://deepmind.google/blog/ai-co-clinician/",
-    "isoDate": "2026-04-30T12:14:15.000Z",
+    "title": "(No AI) Simulate real-world places with Project Genie and Street View",
+    "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
+    "content": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "contentSnippet": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "guid": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "isoDate": "2026-05-17T19:53:18.000Z",
     "source": "Google DeepMind",
-    "slug": "enabling-a-new-model-for-healthcare-with-ai-co-clinician"
+    "slug": "simulate-real-world-places-with-project-genie-and-street-view"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Former OpenAI Staffers Warn xAI's Poor Safety Record Could Complicate SpaceX’s IPO",
-    "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-    "pubDate": "Tue, 19 May 2026 15:00:28 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
-    "contentSnippet": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
-    "guid": "6a0b3cfc94875e6d31dda0ce",
+    "creator": "Will Knight",
+    "title": "(No AI) Demis Hassabis Thinks AI Job Cuts Are Dumb",
+    "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+    "contentSnippet": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+    "guid": "6a0c611510fe7e7745a00845",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-19T15:00:28.000Z",
+    "isoDate": "2026-05-19T17:45:00.000Z",
     "source": "Wired AI",
-    "slug": "former-openai-staffers-warn-xai-s-poor-safety-record-could-complicate-spacex-s-ipo"
+    "slug": "demis-hassabis-thinks-ai-job-cuts-are-dumb"
   },
   {
-    "creator": "Katie Drummond",
-    "title": "(No AI) Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
-    "pubDate": "Tue, 19 May 2026 10:30:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
-    "contentSnippet": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
-    "guid": "6a0729e24e75094f2b87c90e",
+    "creator": "Reece Rogers",
+    "title": "(No AI) Google Makes It Easy to Deepfake Yourself",
+    "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+    "contentSnippet": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+    "guid": "6a0bd414a7c16939bf3550ae",
     "categories": [
-      "Video",
-      "Politics",
-      "Business"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Computers",
+      "Gear / Products / Apps"
     ],
-    "isoDate": "2026-05-19T10:30:00.000Z",
+    "isoDate": "2026-05-19T17:45:00.000Z",
     "source": "Wired AI",
-    "slug": "tom-steyer-wants-to-save-california-from-billionaires-but-also-doesn-t-want-them-to-leave"
+    "slug": "google-makes-it-easy-to-deepfake-yourself"
   }
 ]
