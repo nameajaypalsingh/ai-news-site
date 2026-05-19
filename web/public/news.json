@@ -1,46 +1,58 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Google’s Genie world model can now simulate real streets with Street View",
-    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-    "pubDate": "Tue, 19 May 2026 17:51:39 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
-    "contentSnippet": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
-    "guid": "https://techcrunch.com/?p=3123866",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "contentSnippet": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "guid": "https://techcrunch.com/?p=3123772",
     "categories": [
       "AI",
-      "Robotics",
-      "genie 3",
+      "AI agents",
       "Google",
-      "Google I/O",
       "google io 2026",
-      "Google Maps",
-      "Street View"
+      "Google Search"
     ],
-    "isoDate": "2026-05-19T17:51:39.000Z",
+    "isoDate": "2026-05-19T21:16:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-s-genie-world-model-can-now-simulate-real-streets-with-street-view"
+    "slug": "how-to-use-google-s-new-ai-agents-to-go-beyond-your-standard-searches"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-    "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-    "contentSnippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-    "guid": "https://techcrunch.com/?p=3124122",
+    "creator": "Marina Temkin",
+    "title": "(No AI) From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "pubDate": "Tue, 19 May 2026 21:08:51 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+    "contentSnippet": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+    "guid": "https://techcrunch.com/?p=3124280",
     "categories": [
       "AI",
-      "gemini",
-      "gemini flash 3.5",
-      "Google",
-      "google io 2026"
+      "Security",
+      "Startups",
+      "Exclusive",
+      "lightspeed",
+      "phishing"
     ],
-    "isoDate": "2026-05-19T17:51:30.000Z",
+    "isoDate": "2026-05-19T21:08:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots"
+    "slug": "from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing"
+  },
+  {
+    "title": "(No AI) Google’s AI future demands trust — and your personal data",
+    "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+    "pubDate": "2026-05-19T21:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A Gemini Spark graphic](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. [Gemini Spark](https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026), Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day. Google is even expanding access to [Gmail's AI inbox](https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026), which can generate custom to-do lists and draft personalized replies based on your emails.\n\nMany of these features seem genuinely useful, but at the heart of each of them is an AI engine that runs on a trove of personal information. While other AI companies, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data)",
+    "contentSnippet": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day. Google is even expanding access to Gmail's AI inbox, which can generate custom to-do lists and draft personalized replies based on your emails.\nMany of these features seem genuinely useful, but at the heart of each of them is an AI engine that runs on a trove of personal information. While other AI companies, …\nRead the full story at The Verge.",
+    "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown [&#8230;]",
+    "id": "https://www.theverge.com/?p=934172",
+    "isoDate": "2026-05-19T21:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-future-demands-trust-and-your-personal-data"
   },
   {
     "title": "(No AI) Gemini will use Volvo’s external cameras to interpret parking signs",
@@ -55,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "gemini-will-use-volvo-s-external-cameras-to-interpret-parking-signs"
-  },
-  {
-    "title": "(No AI) The 13 biggest announcements at Google I/O 2026",
-    "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-    "pubDate": "2026-05-19T17:54:33.000Z",
-    "author": "Andrew Liszewski",
-    "content": "YouTube\" data-portal-copyright=\"Screenshot: [YouTube](https://www.youtube.com/watch?v=wYSncx9zLIU)\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&strip=all&crop=0,0,100,100\" />\n\nGoogle CEO Sundar Pichai on stage at I/O 2026. | Screenshot: [YouTube](https://www.youtube.com/watch?v=wYSncx9zLIU)\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\n\nIf you weren't able to [tune into the event's livestream today](https://www.theverge.com/tech/932939/google-io-2026-how-to-watch) or [follow along with our live blog](https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote), you can catch up on everything you missed in our roundup below.\n\n## [**Gemini 3.5**](https://www.theverge.com/tech/933699/google-gemini-redesign-ai-3-5-flash-io-2026)\n\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini)",
-    "contentSnippet": "Google CEO Sundar Pichai on stage at I/O 2026. | Screenshot: YouTube\t\n\nGoogle's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses.\nIf you weren't able to tune into the event's livestream today or follow along with our live blog, you can catch up on everything you missed in our roundup below.\nGemini 3.5\nGoogle launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month. Starting today, Gemini 3.5 Flash will be the default model for the Gemini app and AI Mode in Search. Google says the new model is significantly  …\nRead the full story at The Verge.",
-    "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our live blog, you can [&#8230;]",
-    "id": "https://www.theverge.com/?p=933415",
-    "isoDate": "2026-05-19T17:54:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-13-biggest-announcements-at-google-i-o-2026"
   },
   {
     "title": "(No AI) Advancing content provenance for a safer, more transparent AI ecosystem",
@@ -121,39 +119,37 @@
     "slug": "simulate-real-world-places-with-project-genie-and-street-view"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) Demis Hassabis Thinks AI Job Cuts Are Dumb",
-    "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-    "contentSnippet": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-    "guid": "6a0c611510fe7e7745a00845",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-19T17:45:00.000Z",
-    "source": "Wired AI",
-    "slug": "demis-hassabis-thinks-ai-job-cuts-are-dumb"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Google Makes It Easy to Deepfake Yourself",
-    "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-    "contentSnippet": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-    "guid": "6a0bd414a7c16939bf3550ae",
+    "creator": "Boone Ashworth, Michael Calore",
+    "title": "(No AI) Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+    "pubDate": "Tue, 19 May 2026 20:00:48 +0000",
+    "dc:creator": "Boone Ashworth, Michael Calore",
+    "content": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "contentSnippet": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "guid": "6a03668c962d3e0edf0abb5e",
     "categories": [
       "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Computers",
-      "Gear / Products / Apps"
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-05-19T17:45:00.000Z",
+    "isoDate": "2026-05-19T20:00:48.000Z",
     "source": "Wired AI",
-    "slug": "google-makes-it-easy-to-deepfake-yourself"
+    "slug": "everything-announced-at-google-i-o-2026-gemini-search-smart-glasses"
+  },
+  {
+    "creator": "Paresh Dave, Lauren Goode, Zoë Schiffer",
+    "title": "(No AI) Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+    "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+    "pubDate": "Tue, 19 May 2026 19:00:46 +0000",
+    "dc:creator": "Paresh Dave, Lauren Goode, Zoë Schiffer",
+    "content": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
+    "contentSnippet": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
+    "guid": "6a0cb10b2881b35bbc085afa",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-05-19T19:00:46.000Z",
+    "source": "Wired AI",
+    "slug": "meta-employees-are-scrambling-to-use-up-benefits-ahead-of-layoffs"
   }
 ]
