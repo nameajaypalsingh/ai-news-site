@@ -1,72 +1,89 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) How to use Google’s new AI agents to go beyond your standard searches",
-    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-    "contentSnippet": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-    "guid": "https://techcrunch.com/?p=3123772",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "pubDate": "Tue, 19 May 2026 21:33:30 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "contentSnippet": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "guid": "https://techcrunch.com/?p=3123458",
     "categories": [
       "AI",
-      "AI agents",
+      "Apps",
       "Google",
+      "Google I/O",
       "google io 2026",
-      "Google Search"
+      "google pics"
     ],
-    "isoDate": "2026-05-19T21:16:25.000Z",
+    "isoDate": "2026-05-19T21:33:30.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-to-use-google-s-new-ai-agents-to-go-beyond-your-standard-searches"
+    "slug": "google-just-declared-itself-a-contender-in-ai-design-at-io-2026"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "pubDate": "Tue, 19 May 2026 21:08:51 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
-    "contentSnippet": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
-    "guid": "https://techcrunch.com/?p=3124280",
+    "creator": "Sarah Perez",
+    "title": "(No AI) You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "pubDate": "Tue, 19 May 2026 21:25:31 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "contentSnippet": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "guid": "https://techcrunch.com/?p=3123167",
     "categories": [
       "AI",
-      "Security",
-      "Startups",
-      "Exclusive",
-      "lightspeed",
-      "phishing"
+      "Apps",
+      "gemini ai",
+      "gmail",
+      "Google",
+      "google io",
+      "google io 2026",
+      "Google Workspace"
     ],
-    "isoDate": "2026-05-19T21:08:51.000Z",
+    "isoDate": "2026-05-19T21:25:31.000Z",
     "source": "TechCrunch AI",
-    "slug": "from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing"
+    "slug": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026"
   },
   {
-    "title": "(No AI) Google’s AI future demands trust — and your personal data",
-    "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-    "pubDate": "2026-05-19T21:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![A Gemini Spark graphic](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. [Gemini Spark](https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026), Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day. Google is even expanding access to [Gmail's AI inbox](https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026), which can generate custom to-do lists and draft personalized replies based on your emails.\n\nMany of these features seem genuinely useful, but at the heart of each of them is an AI engine that runs on a trove of personal information. While other AI companies, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data)",
-    "contentSnippet": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day. Google is even expanding access to Gmail's AI inbox, which can generate custom to-do lists and draft personalized replies based on your emails.\nMany of these features seem genuinely useful, but at the heart of each of them is an AI engine that runs on a trove of personal information. While other AI companies, …\nRead the full story at The Verge.",
-    "summary": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, Google's always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown [&#8230;]",
-    "id": "https://www.theverge.com/?p=934172",
-    "isoDate": "2026-05-19T21:00:00.000Z",
+    "title": "(No AI) Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+    "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+    "pubDate": "2026-05-19T22:16:02.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Google DeepMind CEO Demis Hassabis on stage during the Google I/O 2026 keynote](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWelcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out [Google I/O's keynote presentation](https://www.youtube.com/live/wYSncx9zLIU?t=10459s) on Tuesday, saying:\n\n> Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that we were standing in the foothills of the singularity.\n> \n> It will be a profound moment for humanity. This technology will be a force multiplier for human ingenuity and usher in a new golden age of scientific discovery and progress, improving the lives of everyone, everywhere. We look forward to bu …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)",
+    "contentSnippet": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying:\nGoogle's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that we were standing in the foothills of the singularity. \nIt will be a profound moment for humanity. This technology will be a force multiplier for human ingenuity and usher in a new golden age of scientific discovery and progress, improving the lives of everyone, everywhere. We look forward to bu …\n\nRead the full story at The Verge.",
+    "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that [&#8230;]",
+    "id": "https://www.theverge.com/?p=934260",
+    "isoDate": "2026-05-19T22:16:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-ai-future-demands-trust-and-your-personal-data"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "demis-hassabis-said-this-might-be-the-foothills-of-the-singularity-what"
   },
   {
-    "title": "(No AI) Gemini will use Volvo’s external cameras to interpret parking signs",
-    "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-    "pubDate": "2026-05-19T18:00:00.000Z",
-    "author": "Andrew J. Hawkins",
-    "content": "![Volvo EX60](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGemini is gaining the power of sight _and_ mobility. [Today at the I/O conference](https://www.theverge.com/tech/932454/google-io-2026-news-announcements), Google and Volvo announced that the AI-powered assistant will be able to access external cameras in [the upcoming EX60 SUV](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs) to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\n\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking)",
-    "contentSnippet": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded Android Automotive as its vehicle operating system.\nGoogle posits that the first use case will be to ask Gemini to translate difficult-to-understand parking signs, though the company obviously sees other future applications as possible as well. Google envisions a camera-enabled Gemini recalling a road sign, inte …\nRead the full story at The Verge.",
-    "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks to Volvo's use of Google's embedded [&#8230;]",
-    "id": "https://www.theverge.com/?p=933556",
-    "isoDate": "2026-05-19T18:00:00.000Z",
+    "title": "(No AI) The future of Google is a search box that does everything",
+    "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+    "pubDate": "2026-05-19T21:24:14.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nLast year, after watching Google's I/O keynote, I wrote that it felt like [Google's future was Google googling](https://www.theverge.com/google/671200/google-googling-ai-mode-project-mariner-i-o-2025). After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do _everything_ for you, all from a search box.\n\nTake the trusty [Google search bar itself](https://www.theverge.com/tech/932970/google-search-ai-update-io-2026), something Google is generally hesitant to update, which is getting some updates. It will \"dynamically\" expand as you type longer queries. It will offer \"AI-powered suggestions\" that Google claims will \"go beyond autocomplete,\" which could cause you to fill in the blanks of a search in a way you didn't intend and that may or …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)",
+    "contentSnippet": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box.\nTake the trusty Google search bar itself, something Google is generally hesitant to update, which is getting some updates. It will \"dynamically\" expand as you type longer queries. It will offer \"AI-powered suggestions\" that Google claims will \"go beyond autocomplete,\" which could cause you to fill in the blanks of a search in a way you didn't intend and that may or  …\nRead the full story at The Verge.",
+    "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Google [&#8230;]",
+    "id": "https://www.theverge.com/?p=934217",
+    "isoDate": "2026-05-19T21:24:14.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "gemini-will-use-volvo-s-external-cameras-to-interpret-parking-signs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-future-of-google-is-a-search-box-that-does-everything"
+  },
+  {
+    "title": "(No AI) Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "pubDate": "Wed, 20 May 2026 11:30:00 GMT",
+    "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "contentSnippet": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "guid": "https://openai.com/index/introducing-openai-for-singapore",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-05-20T11:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-openai-for-singapore"
   },
   {
     "title": "(No AI) Advancing content provenance for a safer, more transparent AI ecosystem",
@@ -81,20 +98,6 @@
     "isoDate": "2026-05-19T10:45:00.000Z",
     "source": "OpenAI",
     "slug": "advancing-content-provenance-for-a-safer-more-transparent-ai-ecosystem"
-  },
-  {
-    "title": "(No AI) OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "pubDate": "Mon, 18 May 2026 10:00:00 GMT",
-    "content": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "contentSnippet": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "guid": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-05-18T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-and-dell-partner-to-bring-codex-to-hybrid-and-on-premise-enterprise-environments"
   },
   {
     "title": "(No AI) Fast-tracking genetic leads to reverse cellular aging",
@@ -119,6 +122,23 @@
     "slug": "simulate-real-world-places-with-project-genie-and-street-view"
   },
   {
+    "creator": "Miles Klee",
+    "title": "(No AI) Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+    "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+    "pubDate": "Tue, 19 May 2026 22:53:04 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+    "contentSnippet": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+    "guid": "6a0caef22d2cdf39ef925183",
+    "categories": [
+      "Culture",
+      "Culture / Books"
+    ],
+    "isoDate": "2026-05-19T22:53:04.000Z",
+    "source": "Wired AI",
+    "slug": "literary-prizewinners-are-facing-ai-allegations-it-feels-like-the-new-normal"
+  },
+  {
     "creator": "Boone Ashworth, Michael Calore",
     "title": "(No AI) Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
     "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
@@ -134,22 +154,5 @@
     "isoDate": "2026-05-19T20:00:48.000Z",
     "source": "Wired AI",
     "slug": "everything-announced-at-google-i-o-2026-gemini-search-smart-glasses"
-  },
-  {
-    "creator": "Paresh Dave, Lauren Goode, Zoë Schiffer",
-    "title": "(No AI) Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-    "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-    "pubDate": "Tue, 19 May 2026 19:00:46 +0000",
-    "dc:creator": "Paresh Dave, Lauren Goode, Zoë Schiffer",
-    "content": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
-    "contentSnippet": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
-    "guid": "6a0cb10b2881b35bbc085afa",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-05-19T19:00:46.000Z",
-    "source": "Wired AI",
-    "slug": "meta-employees-are-scrambling-to-use-up-benefits-ahead-of-layoffs"
   }
 ]
