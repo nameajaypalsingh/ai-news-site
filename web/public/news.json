@@ -1,42 +1,58 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) OpenAI barrels towards IPO that may happen in September",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-    "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
-    "contentSnippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
-    "guid": "https://techcrunch.com/?p=3124518",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Anthropic will pay xAI $1.25 billion per month for compute",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "contentSnippet": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "guid": "https://techcrunch.com/?p=3124805",
     "categories": [
       "AI",
-      "Startups",
-      "IPOs",
-      "OpenAI"
+      "Anthropic",
+      "colossus",
+      "data centers",
+      "SpaceX",
+      "xAI"
     ],
-    "isoDate": "2026-05-20T17:24:24.000Z",
+    "isoDate": "2026-05-20T21:29:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-barrels-towards-ipo-that-may-happen-in-september"
+    "slug": "anthropic-will-pay-xai-1-25-billion-per-month-for-compute"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) AI search startups are blowing up",
-    "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-    "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "AI search has quietly become one of the most attractive targets in consumer AI.",
-    "contentSnippet": "AI search has quietly become one of the most attractive targets in consumer AI.",
-    "guid": "https://techcrunch.com/?p=3124449",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "pubDate": "Wed, 20 May 2026 20:28:27 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "contentSnippet": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "guid": "https://techcrunch.com/?p=3124770",
     "categories": [
       "AI",
-      "AI search",
-      "Exa Labs",
-      "In Brief",
-      "Parallel Web Systems"
+      "ChatGPT",
+      "erdos problems",
+      "OpenAI",
+      "reasoning models"
     ],
-    "isoDate": "2026-05-20T15:04:45.000Z",
+    "isoDate": "2026-05-20T20:28:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-search-startups-are-blowing-up"
+    "slug": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time"
+  },
+  {
+    "title": "(No AI) ‘Solve all diseases,’ you say?",
+    "link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+    "pubDate": "2026-05-20T21:06:35.000Z",
+    "author": "Victoria Song",
+    "content": "![A picture of Demis Hassabis onstage at Google I/O 2026 with the screen behind him saying “A new golden age of scientific discovery”](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&strip=all&crop=0,0,100,100)\n\nLet’s unpack what Demis Hassabis said at the end of yesterday’s Google I/O keynote.\n\n_This is_ [Optimizer](https://www.theverge.com/optimizer-newsletter)_, a weekly newsletter sent from_ Verge _senior reviewer_ [_Victoria Song_](https://www.theverge.com/authors/victoria-song) _that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to_ The Verge's _Google I/O coverage. You can expect our next issue at its usual time next Friday. Opt in for_ Optimizer _[here](https://www.theverge.com/newsletters)._\n\nToward the end of this year's Google I/O keynote, Google DeepMind CEO Demis Hassabis declared, with a completely deadpan face, that the company hopes to \"reimagine the drug discovery process with the goal of one day solving all disease.\"\n\nThis is the sort of statement that the phras …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)",
+    "contentSnippet": "Let’s unpack what Demis Hassabis said at the end of yesterday’s Google I/O keynote.\t\n\nThis is  Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time next Friday. Opt in for Optimizer here.\nToward the end of this year's Google I/O keynote, Google DeepMind CEO Demis Hassabis declared, with a completely deadpan face, that the company hopes to \"reimagine the drug discovery process with the goal of one day solving all disease.\" \nThis is the sort of statement that the phras …\nRead the full story at The Verge.",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time [&#8230;]",
+    "id": "https://www.theverge.com/?p=935021",
+    "isoDate": "2026-05-20T21:06:35.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "solve-all-diseases-you-say"
   },
   {
     "title": "(No AI) Vibe coding is coming to your phone",
@@ -53,46 +69,29 @@
     "slug": "vibe-coding-is-coming-to-your-phone"
   },
   {
-    "title": "(No AI) You can now remix other people’s YouTube Shorts with AI",
-    "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-    "pubDate": "2026-05-20T16:41:40.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![YouTube Shorts remix splash image.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using [Gemini Omni](https://www.theverge.com/tech/933552/google-gemini-ai-omni-flash-media-video-io-2026). Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate costumes, or even putting yourself in the clip.\n\nCreators can enable or disable the ability to reimagine videos. So, if you upload a short of your kids …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)",
-    "contentSnippet": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate costumes, or even putting yourself in the clip.\nCreators can enable or disable the ability to reimagine videos. So, if you upload a short of your kids  …\nRead the full story at The Verge.",
-    "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into [&#8230;]",
-    "id": "https://www.theverge.com/?p=934704",
-    "isoDate": "2026-05-20T16:41:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "you-can-now-remix-other-people-s-youtube-shorts-with-ai"
-  },
-  {
-    "title": "(No AI) The next phase of OpenAI’s Education for Countries",
-    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "title": "(No AI) An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "contentSnippet": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "guid": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "contentSnippet": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "guid": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "categories": [
-      "Global Affairs"
+      "Research"
     ],
     "isoDate": "2026-05-20T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "the-next-phase-of-openai-s-education-for-countries"
+    "slug": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry"
   },
   {
-    "title": "(No AI) Introducing OpenAI for Singapore",
-    "link": "https://openai.com/index/introducing-openai-for-singapore",
-    "pubDate": "Tue, 19 May 2026 20:30:00 GMT",
-    "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "contentSnippet": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "guid": "https://openai.com/index/introducing-openai-for-singapore",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-05-19T20:30:00.000Z",
+    "title": "(No AI) How Ramp engineers accelerate code review with Codex",
+    "link": "https://openai.com/index/ramp",
+    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
+    "content": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "contentSnippet": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "guid": "https://openai.com/index/ramp",
+    "isoDate": "2026-05-20T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-openai-for-singapore"
+    "slug": "how-ramp-engineers-accelerate-code-review-with-codex"
   },
   {
     "title": "(No AI) Fast-tracking genetic leads to reverse cellular aging",
