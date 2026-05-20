@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) OpenAI barrels towards IPO that may happen in September",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "contentSnippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "guid": "https://techcrunch.com/?p=3124518",
+    "categories": [
+      "AI",
+      "Startups",
+      "IPOs",
+      "OpenAI"
+    ],
+    "isoDate": "2026-05-20T17:24:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-barrels-towards-ipo-that-may-happen-in-september"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) AI search startups are blowing up",
     "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
@@ -12,6 +31,7 @@
       "AI",
       "AI search",
       "Exa Labs",
+      "In Brief",
       "Parallel Web Systems"
     ],
     "isoDate": "2026-05-20T15:04:45.000Z",
@@ -19,51 +39,32 @@
     "slug": "ai-search-startups-are-blowing-up"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Stability AI releases a new audio model that can create six-minute songs",
-    "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-    "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-    "contentSnippet": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-    "guid": "https://techcrunch.com/?p=3124395",
-    "categories": [
-      "AI",
-      "audio creation",
-      "Music",
-      "Stability AI"
-    ],
-    "isoDate": "2026-05-20T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs"
+    "title": "(No AI) Vibe coding is coming to your phone",
+    "link": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+    "pubDate": "2026-05-20T17:40:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Pixel 10 Pro Fold unfolded on a desk](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0010.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nComing to your homescreen soon: your own app. | Photo: Allison Johnson / The Verge\n\n\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't _strictly_ true - [I'm still waiting for that one perfect grocery list app](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep). Still, apps shaped the modern smartphone into what it is today. We spend all day, every day inside of apps - scrolling, listening, and tapping until we find what we want. But your next favorite app might just be one that you made yourself.\n\nIf you weren't familiar with the concept of \"vibe coding\" at the beginning of 2026, you probably are now. As AI coding tools have become bet …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)",
+    "contentSnippet": "Coming to your homescreen soon: your own app. | Photo: Allison Johnson / The Verge\t\n\n\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps shaped the modern smartphone into what it is today. We spend all day, every day inside of apps - scrolling, listening, and tapping until we find what we want. But your next favorite app might just be one that you made yourself.\nIf you weren't familiar with the concept of \"vibe coding\" at the beginning of 2026, you probably are now. As AI coding tools have become bet …\nRead the full story at The Verge.",
+    "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps [&#8230;]",
+    "id": "https://www.theverge.com/?p=934628",
+    "isoDate": "2026-05-20T17:40:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "vibe-coding-is-coming-to-your-phone"
   },
   {
-    "title": "(No AI) It’s make or break time for AI labeling systems",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-    "pubDate": "2026-05-20T14:12:54.000Z",
-    "author": "Jess Weatherbed",
-    "content": "Reddit\" data-portal-copyright=\"Image: via [Reddit](https://www.reddit.com/r/midjourney/comments/120vhdc/the_pope_drip/) \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100\" />\n\nIf robust AI labeling was in place when these swagged out images of Pope Francis went viral, it may have been easier for people to tell they were fake. | Image: via [Reddit](https://www.reddit.com/r/midjourney/comments/120vhdc/the_pope_drip/)\n\nWe're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the opportunity to turn the tide against unlabeled AI fakery that's deceiving people online.\n\nYesterday during its I/O conference, Google announced that the ability to verify whether images carry SynthID markers - the invisible watermarking system that's applied to content generated by Google AI models - i …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts)",
-    "contentSnippet": "If robust AI labeling was in place when these swagged out images of Pope Francis went viral, it may have been easier for people to tell they were fake. | Image: via Reddit\t\n\nWe're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the opportunity to turn the tide against unlabeled AI fakery that's deceiving people online.\nYesterday during its I/O conference, Google announced that the ability to verify whether images carry SynthID markers - the invisible watermarking system that's applied to content generated by Google AI models - i …\nRead the full story at The Verge.",
-    "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the [&#8230;]",
-    "id": "https://www.theverge.com/?p=934521",
-    "isoDate": "2026-05-20T14:12:54.000Z",
+    "title": "(No AI) You can now remix other people’s YouTube Shorts with AI",
+    "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+    "pubDate": "2026-05-20T16:41:40.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![YouTube Shorts remix splash image.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using [Gemini Omni](https://www.theverge.com/tech/933552/google-gemini-ai-omni-flash-media-video-io-2026). Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate costumes, or even putting yourself in the clip.\n\nCreators can enable or disable the ability to reimagine videos. So, if you upload a short of your kids …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)",
+    "contentSnippet": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate costumes, or even putting yourself in the clip.\nCreators can enable or disable the ability to reimagine videos. So, if you upload a short of your kids  …\nRead the full story at The Verge.",
+    "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into [&#8230;]",
+    "id": "https://www.theverge.com/?p=934704",
+    "isoDate": "2026-05-20T16:41:40.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "it-s-make-or-break-time-for-ai-labeling-systems"
-  },
-  {
-    "title": "(No AI) If Google can’t make AI agents useful, maybe no one can",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-    "pubDate": "2026-05-20T13:24:22.000Z",
-    "author": "Hayden Field",
-    "content": "![I/O logo on image of Google Stage](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO2026_v3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly well-poised to make agents succeed at a large scale: Google.\n\nAt I/O 2026, Google announced new AI agents for gathering information, planning events, summarizing your inbox and calendar, and more. The agents can run continuously in the background, and the company claims they'll seamlessly integrate into …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can)",
-    "contentSnippet": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly well-poised to make agents succeed at a large scale: Google.\nAt I/O 2026, Google announced new AI agents for gathering information, planning events, summarizing your inbox and calendar, and more. The agents can run continuously in the background, and the company claims they'll seamlessly integrate into  …\nRead the full story at The Verge.",
-    "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly [&#8230;]",
-    "id": "https://www.theverge.com/?p=934478",
-    "isoDate": "2026-05-20T13:24:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRGSTKIO2026_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "if-google-can-t-make-ai-agents-useful-maybe-no-one-can"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-now-remix-other-people-s-youtube-shorts-with-ai"
   },
   {
     "title": "(No AI) The next phase of OpenAI’s Education for Countries",
@@ -116,6 +117,23 @@
     "slug": "simulate-real-world-places-with-project-genie-and-street-view"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) I Gave My OpenClaw Agent a Physical Body",
+    "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+    "pubDate": "Wed, 20 May 2026 18:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "contentSnippet": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "guid": "6a0c604dc903372db444c49e",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-20T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "i-gave-my-openclaw-agent-a-physical-body"
+  },
+  {
     "creator": "Miles Klee",
     "title": "(No AI) Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
     "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
@@ -131,22 +149,5 @@
     "isoDate": "2026-05-19T22:53:04.000Z",
     "source": "Wired AI",
     "slug": "literary-prizewinners-are-facing-ai-allegations-it-feels-like-the-new-normal"
-  },
-  {
-    "creator": "Boone Ashworth, Michael Calore",
-    "title": "(No AI) Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-    "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-    "pubDate": "Tue, 19 May 2026 20:00:48 +0000",
-    "dc:creator": "Boone Ashworth, Michael Calore",
-    "content": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-    "contentSnippet": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-    "guid": "6a03668c962d3e0edf0abb5e",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-05-19T20:00:48.000Z",
-    "source": "Wired AI",
-    "slug": "everything-announced-at-google-i-o-2026-gemini-search-smart-glasses"
   }
 ]
