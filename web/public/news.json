@@ -1,44 +1,42 @@
 [
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Anthropic will pay xAI $1.25 billion per month for compute",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-    "contentSnippet": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-    "guid": "https://techcrunch.com/?p=3124805",
+    "creator": "Julie Bort",
+    "title": "(No AI) Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "pubDate": "Thu, 21 May 2026 00:28:31 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+    "contentSnippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+    "guid": "https://techcrunch.com/?p=3124895",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "cpus",
+      "nvidia"
+    ],
+    "isoDate": "2026-05-21T00:28:31.000Z",
+    "source": "TechCrunch AI",
+    "slug": "jensen-huang-says-he-s-found-a-brand-new-200b-market-for-nvidia"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Anthropic says it’s about to have its first profitable quarter",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+    "contentSnippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+    "guid": "https://techcrunch.com/?p=3124883",
     "categories": [
       "AI",
       "Anthropic",
-      "colossus",
-      "data centers",
-      "SpaceX",
-      "xAI"
+      "Claude",
+      "OpenAI"
     ],
-    "isoDate": "2026-05-20T21:29:22.000Z",
+    "isoDate": "2026-05-21T00:21:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-will-pay-xai-1-25-billion-per-month-for-compute"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "pubDate": "Wed, 20 May 2026 20:28:27 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-    "contentSnippet": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-    "guid": "https://techcrunch.com/?p=3124770",
-    "categories": [
-      "AI",
-      "ChatGPT",
-      "erdos problems",
-      "OpenAI",
-      "reasoning models"
-    ],
-    "isoDate": "2026-05-20T20:28:27.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time"
+    "slug": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter"
   },
   {
     "title": "(No AI) ‘Solve all diseases,’ you say?",
@@ -83,15 +81,18 @@
     "slug": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry"
   },
   {
-    "title": "(No AI) How Ramp engineers accelerate code review with Codex",
-    "link": "https://openai.com/index/ramp",
+    "title": "(No AI) The next phase of OpenAI’s Education for Countries",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "content": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "contentSnippet": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "guid": "https://openai.com/index/ramp",
+    "content": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "contentSnippet": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "guid": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "categories": [
+      "Global Affairs"
+    ],
     "isoDate": "2026-05-20T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-ramp-engineers-accelerate-code-review-with-codex"
+    "slug": "the-next-phase-of-openai-s-education-for-countries"
   },
   {
     "title": "(No AI) Fast-tracking genetic leads to reverse cellular aging",
@@ -116,37 +117,37 @@
     "slug": "simulate-real-world-places-with-project-genie-and-street-view"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) I Gave My OpenClaw Agent a Physical Body",
-    "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-    "pubDate": "Wed, 20 May 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-    "contentSnippet": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
-    "guid": "6a0c604dc903372db444c49e",
+    "creator": "Maxwell Zeff, Paresh Dave",
+    "title": "(No AI) SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+    "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+    "pubDate": "Thu, 21 May 2026 00:43:13 +0000",
+    "dc:creator": "Maxwell Zeff, Paresh Dave",
+    "content": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+    "contentSnippet": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+    "guid": "6a0e308dd0686dea385909ab",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-20T18:00:00.000Z",
+    "isoDate": "2026-05-21T00:43:13.000Z",
     "source": "Wired AI",
-    "slug": "i-gave-my-openclaw-agent-a-physical-body"
+    "slug": "spacex-listed-grok-s-spicy-mode-as-a-risk-in-its-ipo-filing"
   },
   {
-    "creator": "Miles Klee",
-    "title": "(No AI) Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-    "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-    "pubDate": "Tue, 19 May 2026 22:53:04 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-    "contentSnippet": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-    "guid": "6a0caef22d2cdf39ef925183",
+    "creator": "Paresh Dave",
+    "title": "(No AI) SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+    "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+    "pubDate": "Wed, 20 May 2026 23:30:06 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+    "contentSnippet": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+    "guid": "6a0e33e4a415ea27e75aa7ee",
     "categories": [
-      "Culture",
-      "Culture / Books"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-19T22:53:04.000Z",
+    "isoDate": "2026-05-20T23:30:06.000Z",
     "source": "Wired AI",
-    "slug": "literary-prizewinners-are-facing-ai-allegations-it-feels-like-the-new-normal"
+    "slug": "spacex-is-spending-2-8-billion-to-buy-gas-turbines-for-its-ai-data-centers"
   }
 ]
