@@ -1,45 +1,62 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) You can no longer Google the word ‘disregard’",
-    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "pubDate": "Fri, 22 May 2026 16:16:48 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-    "contentSnippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-    "guid": "https://techcrunch.com/?p=3125457",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "pubDate": "Fri, 22 May 2026 21:02:36 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+    "contentSnippet": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+    "guid": "https://techcrunch.com/?p=3125544",
     "categories": [
       "AI",
-      "Google Search",
-      "AI summaries"
+      "Apps",
+      "ai icons",
+      "Android",
+      "disco ball",
+      "Google",
+      "icons",
+      "PIXEL",
+      "Spotify"
     ],
-    "isoDate": "2026-05-22T16:16:48.000Z",
+    "isoDate": "2026-05-22T21:02:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "you-can-no-longer-google-the-word-disregard"
+    "slug": "google-goes-for-the-glitter-with-disco-ball-icons-are-y-all-sure-you-still-want-this"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) We tried Google’s AI glasses and they’re almost there",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "pubDate": "Fri, 22 May 2026 15:37:15 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-    "contentSnippet": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-    "guid": "https://techcrunch.com/?p=3125116",
+    "creator": "Marina Temkin",
+    "title": "(No AI) How VCs and founders use inflated ‘ARR’ to crown AI startups ",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "pubDate": "Fri, 22 May 2026 20:40:48 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "contentSnippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "guid": "https://techcrunch.com/?p=3125155",
     "categories": [
       "AI",
-      "Gadgets",
-      "Hardware",
-      "Android XR",
-      "android xr glasses",
-      "gemini glasses",
-      "Google",
-      "google glasses",
-      "google io 2026"
+      "Startups",
+      "Venture",
+      "annual recurring revenue",
+      "Exclusive",
+      "Valuations"
     ],
-    "isoDate": "2026-05-22T15:37:15.000Z",
+    "isoDate": "2026-05-22T20:40:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "we-tried-google-s-ai-glasses-and-they-re-almost-there"
+    "slug": "how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups"
+  },
+  {
+    "title": "(No AI) Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+    "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "pubDate": "2026-05-22T20:39:54.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as [spotted on X](https://x.com/ariadotwav/status/2057738319316816097?s=46). As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\"\n\nAs of Friday afternoon, however, Google isn't showing an AI Overview for the term \"disregard\" at all - instead, it shows a list of news stories about the issue first. Google hasn' …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)",
+    "contentSnippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the image at the top of this story, I got an AI Overview response that said, \"Got it. If you need anything else or have a new question later, just let me know!\"\nAs of Friday afternoon, however, Google isn't showing an AI Overview for the term \"disregard\" at all - instead, it shows a list of news stories about the issue first. Google hasn' …\nRead the full story at The Verge.",
+    "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+    "id": "https://www.theverge.com/?p=936176",
+    "isoDate": "2026-05-22T20:39:54.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-search-is-so-broken-it-can-disregard-what-you-re-looking-for"
   },
   {
     "title": "(No AI) Elon, stop trying to make Grok happen",
@@ -54,20 +71,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "elon-stop-trying-to-make-grok-happen"
-  },
-  {
-    "title": "(No AI) Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-    "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-    "pubDate": "2026-05-22T16:01:17.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out [by a post on X](https://x.com/ariadotwav/status/2057738319316816097?s=46).\n\nTo one _Verge_ colleague searching \"disregard\":\n\n> Got it! Let me know if you need help with anything else.\n\nNothing else followed in the AI Overview portion of the results page.\n\nTo me, initially:\n\n> No problem at all! How can I help you today?\n\nI searched for \"disregard\" again later and got another response …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)",
-    "contentSnippet": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a post on X.\nTo one Verge colleague searching \"disregard\":\nGot it! Let me know if you need help with anything else.\nNothing else followed in the AI Overview portion of the results page.\nTo me, initially:\nNo problem at all! How can I help you today?\nI searched for \"disregard\" again later and got another response …\nRead the full story at The Verge.",
-    "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a [&#8230;]",
-    "id": "https://www.theverge.com/?p=936176",
-    "isoDate": "2026-05-22T16:01:17.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-ai-search-is-so-broken-it-can-disregard-what-you-re-looking-for"
   },
   {
     "title": "(No AI) OpenAI named a Leader in enterprise coding agents by Gartner",
