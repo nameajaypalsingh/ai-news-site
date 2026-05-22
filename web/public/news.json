@@ -1,70 +1,87 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) You can no longer Google the word ‘disregard’",
+    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "pubDate": "Fri, 22 May 2026 16:16:48 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "contentSnippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "guid": "https://techcrunch.com/?p=3125457",
+    "categories": [
+      "AI",
+      "Google Search",
+      "AI summaries"
+    ],
+    "isoDate": "2026-05-22T16:16:48.000Z",
+    "source": "TechCrunch AI",
+    "slug": "you-can-no-longer-google-the-word-disregard"
+  },
+  {
     "creator": "Sarah Perez",
-    "title": "(No AI) Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "pubDate": "Thu, 21 May 2026 19:45:00 +0000",
+    "title": "(No AI) We tried Google’s AI glasses and they’re almost there",
+    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "pubDate": "Fri, 22 May 2026 15:37:15 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-    "contentSnippet": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-    "guid": "https://techcrunch.com/?p=3125255",
-    "categories": [
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Spotify",
-      "ai music",
-      "universal music group"
-    ],
-    "isoDate": "2026-05-21T19:45:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes"
-  },
-  {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Six search engines worth trying now that Google isn’t really Google anymore",
-    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "pubDate": "Thu, 21 May 2026 19:19:05 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "contentSnippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "guid": "https://techcrunch.com/?p=3124506",
+    "content": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+    "contentSnippet": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+    "guid": "https://techcrunch.com/?p=3125116",
     "categories": [
       "AI",
-      "evergreen",
-      "Google"
+      "Gadgets",
+      "Hardware",
+      "Android XR",
+      "android xr glasses",
+      "gemini glasses",
+      "Google",
+      "google glasses",
+      "google io 2026"
     ],
-    "isoDate": "2026-05-21T19:19:05.000Z",
+    "isoDate": "2026-05-22T15:37:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "six-search-engines-worth-trying-now-that-google-isn-t-really-google-anymore"
+    "slug": "we-tried-google-s-ai-glasses-and-they-re-almost-there"
   },
   {
-    "title": "(No AI) The literary world isn’t prepared for AI",
-    "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-    "pubDate": "2026-05-22T14:30:00.000Z",
-    "author": "Gaby Del Valle",
-    "content": "![Animation of a word document cursor blinking on a sheet of paper in a typewriter.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&strip=all&crop=0,0,100,100)\n\nSince 2012, the British literary magazine _Granta_ has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.\n\nJamir Nazir's [\"The Serpent in the Grove\"](https://granta.com/the-serpent-in-the-grove/) has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted, as I write all things.) I'll admit I was initially unconvinced by the allegation that Nazir's story had been generated by AI. I know people are using …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize)",
-    "contentSnippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI.\nJamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks of LLM-generated prose - mixed metaphors, anaphora, lists of threes. (I'm aware this, too, is a list of threes, and I promise I wrote this post myself, unassisted, as I write all things.) I'll admit I was initially unconvinced by the allegation that Nazir's story had been generated by AI. I know people are using …\nRead the full story at The Verge.",
-    "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks [&#8230;]",
-    "id": "https://www.theverge.com/?p=936073",
-    "isoDate": "2026-05-22T14:30:00.000Z",
+    "title": "(No AI) Elon, stop trying to make Grok happen",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+    "pubDate": "2026-05-22T17:17:06.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThere is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new [_Reuters_ report](https://www.reuters.com/world/grok-falls-flat-washington-undercutting-spacexs-ai-growth-story-2026-05-21/), which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the [biggest IPO in history](https://www.theverge.com/business/902219/spacex-ipo-details).\n\n_Reuters_ reviewed more than 400 examples of government AI use where specific vendors were named. Grok or xAI, it found, appeared in only three - each of those for basic uses like document drafting or social media management, and always …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)",
+    "contentSnippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history.\nReuters reviewed more than 400 examples of government AI use where specific vendors were named. Grok or xAI, it found, appeared in only three - each of those for basic uses like document drafting or social media management, and always …\nRead the full story at The Verge.",
+    "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
+    "id": "https://www.theverge.com/?p=936219",
+    "isoDate": "2026-05-22T17:17:06.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-literary-world-isn-t-prepared-for-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-stop-trying-to-make-grok-happen"
   },
   {
-    "title": "(No AI) Why would you disrespect your favorite artist with an AI remix?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-    "pubDate": "2026-05-22T14:20:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![A repeating image of someone talking in front of a microphone](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPrompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images\n\nAI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a [new tool from Spotify](https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix) will make them even easier to generate and share.\n\nSpotify and Universal Music Group (UMG) signed a licensing deal that will allow users to generate remixes and covers from UMG's catalog. How exactly it will work, beyond being \"powered by generative AI technology,\" or how much it will cost, is unclear. They're positioning this as a premium subscription add-on …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan)",
-    "contentSnippet": "Prompt something better than Beyoncé’s “Break My Soul,” I dare you. | Image: Cath Virginia / The Verge | Photo from Getty Images\t\n\nAI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and share.\nSpotify and Universal Music Group (UMG) signed a licensing deal that will allow users to generate remixes and covers from UMG's catalog. How exactly it will work, beyond being \"powered by generative AI technology,\" or how much it will cost, is unclear. They're positioning this as a premium subscription add-on  …\nRead the full story at The Verge.",
-    "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and [&#8230;]",
-    "id": "https://www.theverge.com/?p=936072",
-    "isoDate": "2026-05-22T14:20:00.000Z",
+    "title": "(No AI) Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+    "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "pubDate": "2026-05-22T16:01:17.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out [by a post on X](https://x.com/ariadotwav/status/2057738319316816097?s=46).\n\nTo one _Verge_ colleague searching \"disregard\":\n\n> Got it! Let me know if you need help with anything else.\n\nNothing else followed in the AI Overview portion of the results page.\n\nTo me, initially:\n\n> No problem at all! How can I help you today?\n\nI searched for \"disregard\" again later and got another response …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)",
+    "contentSnippet": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a post on X.\nTo one Verge colleague searching \"disregard\":\nGot it! Let me know if you need help with anything else.\nNothing else followed in the AI Overview portion of the results page.\nTo me, initially:\nNo problem at all! How can I help you today?\nI searched for \"disregard\" again later and got another response …\nRead the full story at The Verge.",
+    "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a [&#8230;]",
+    "id": "https://www.theverge.com/?p=936176",
+    "isoDate": "2026-05-22T16:01:17.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-would-you-disrespect-your-favorite-artist-with-an-ai-remix"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-search-is-so-broken-it-can-disregard-what-you-re-looking-for"
+  },
+  {
+    "title": "(No AI) OpenAI named a Leader in enterprise coding agents by Gartner",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+    "content": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "contentSnippet": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "guid": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "categories": [
+      "AI Adoption"
+    ],
+    "isoDate": "2026-05-22T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-named-a-leader-in-enterprise-coding-agents-by-gartner"
   },
   {
     "title": "(No AI) AdventHealth advances whole-person care with OpenAI",
@@ -76,20 +93,6 @@
     "isoDate": "2026-05-21T12:00:00.000Z",
     "source": "OpenAI",
     "slug": "adventhealth-advances-whole-person-care-with-openai"
-  },
-  {
-    "title": "(No AI) An OpenAI model has disproved a central conjecture in discrete geometry",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "contentSnippet": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "guid": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-05-20T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -114,6 +117,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Steven Levy",
+    "title": "(No AI) Even If You Hate AI, You Will Use Google AI Search",
+    "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "pubDate": "Fri, 22 May 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+    "contentSnippet": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
+    "guid": "6a0f2e008910d0bdf1e57beb",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-05-22T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "even-if-you-hate-ai-you-will-use-google-ai-search"
+  },
+  {
     "creator": "Chris Hamill-Stewart",
     "title": "(No AI) The Gulf’s AI Boom Has an Undersea Cable Problem",
     "link": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
@@ -129,22 +149,5 @@
     "isoDate": "2026-05-22T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-gulf-s-ai-boom-has-an-undersea-cable-problem"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-    "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-    "pubDate": "Fri, 22 May 2026 00:04:25 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-    "contentSnippet": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-    "guid": "6a0f63452e3deb13670a4052",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-22T00:04:25.000Z",
-    "source": "Wired AI",
-    "slug": "can-openai-s-master-of-disaster-fix-ai-s-reputation-crisis"
   }
 ]
