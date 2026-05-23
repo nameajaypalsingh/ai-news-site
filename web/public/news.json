@@ -1,12 +1,33 @@
 [
   {
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) AI is being used to resurrect the voices of dead pilots",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "pubDate": "Fri, 22 May 2026 23:03:33 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "contentSnippet": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "guid": "https://techcrunch.com/?p=3125679",
+    "categories": [
+      "AI",
+      "Transportation",
+      "crash",
+      "flight",
+      "In Brief",
+      "NTSB"
+    ],
+    "isoDate": "2026-05-22T23:03:33.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-is-being-used-to-resurrect-the-voices-of-dead-pilots"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
     "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
     "pubDate": "Fri, 22 May 2026 21:02:36 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
-    "contentSnippet": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+    "content": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+    "contentSnippet": "You can now disco ball-ify your entire Pixel home screen, says Google.",
     "guid": "https://techcrunch.com/?p=3125544",
     "categories": [
       "AI",
@@ -22,27 +43,6 @@
     "isoDate": "2026-05-22T21:02:36.000Z",
     "source": "TechCrunch AI",
     "slug": "google-goes-for-the-glitter-with-disco-ball-icons-are-y-all-sure-you-still-want-this"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) How VCs and founders use inflated ‘ARR’ to crown AI startups ",
-    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "pubDate": "Fri, 22 May 2026 20:40:48 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-    "contentSnippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-    "guid": "https://techcrunch.com/?p=3125155",
-    "categories": [
-      "AI",
-      "Startups",
-      "Venture",
-      "annual recurring revenue",
-      "Exclusive",
-      "Valuations"
-    ],
-    "isoDate": "2026-05-22T20:40:48.000Z",
-    "source": "TechCrunch AI",
-    "slug": "how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups"
   },
   {
     "title": "(No AI) Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
@@ -87,15 +87,15 @@
     "slug": "openai-named-a-leader-in-enterprise-coding-agents-by-gartner"
   },
   {
-    "title": "(No AI) AdventHealth advances whole-person care with OpenAI",
-    "link": "https://openai.com/index/adventhealth",
-    "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
-    "content": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "contentSnippet": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "guid": "https://openai.com/index/adventhealth",
-    "isoDate": "2026-05-21T12:00:00.000Z",
+    "title": "(No AI) How Virgin Atlantic ships faster with Codex",
+    "link": "https://openai.com/index/virgin-atlantic",
+    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+    "content": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "contentSnippet": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "guid": "https://openai.com/index/virgin-atlantic",
+    "isoDate": "2026-05-22T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "adventhealth-advances-whole-person-care-with-openai"
+    "slug": "how-virgin-atlantic-ships-faster-with-codex"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
