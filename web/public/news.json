@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "pubDate": "Sun, 24 May 2026 15:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "contentSnippet": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "guid": "https://techcrunch.com/?p=3122419",
+    "categories": [
+      "AI",
+      "Gadgets",
+      "Amazon",
+      "AI hardware",
+      "Bee wearable"
+    ],
+    "isoDate": "2026-05-24T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "i-tried-amazon-s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out"
+  },
+  {
     "creator": "Dominic-Madori Davis",
     "title": "(No AI) Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -20,30 +40,6 @@
     "isoDate": "2026-05-23T15:08:00.000Z",
     "source": "TechCrunch AI",
     "slug": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans"
-  },
-  {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Elon Musk has given up on solar power (on Earth)",
-    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "pubDate": "Sat, 23 May 2026 13:00:00 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "contentSnippet": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "guid": "https://techcrunch.com/?p=3125279",
-    "categories": [
-      "AI",
-      "Climate",
-      "Analysis",
-      "data centers",
-      "Elon Musk",
-      "Solar Power",
-      "SpaceX",
-      "Tesla",
-      "xAI"
-    ],
-    "isoDate": "2026-05-23T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "elon-musk-has-given-up-on-solar-power-on-earth"
   },
   {
     "title": "(No AI) Hackers are learning to exploit chatbot ‘personalities’",
