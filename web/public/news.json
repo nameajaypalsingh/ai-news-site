@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The pope’s AI encyclical isn’t really about AI",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "pubDate": "Mon, 25 May 2026 15:09:41 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "contentSnippet": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "guid": "https://techcrunch.com/?p=3125866",
+    "categories": [
+      "AI",
+      "ai encyclical",
+      "Magnifica Humanitas",
+      "pope leo xiv",
+      "the vatican"
+    ],
+    "isoDate": "2026-05-25T15:09:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-pope-s-ai-encyclical-isn-t-really-about-ai"
+  },
+  {
     "creator": "TechCrunch Events",
     "title": "(No AI) Startup Battlefield 200 applications close in days: Apply before May 27",
     "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
@@ -26,31 +46,18 @@
     "slug": "startup-battlefield-200-applications-close-in-days-apply-before-may-27"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-    "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-    "pubDate": "Mon, 25 May 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
-    "contentSnippet": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
-    "guid": "https://techcrunch.com/?p=3125848",
-    "categories": [
-      "TC",
-      "Startups",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "AI",
-      "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ],
-    "isoDate": "2026-05-25T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase"
+    "title": "(No AI) Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "pubDate": "2026-05-25T15:05:07.000Z",
+    "author": "Mia Sato",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPope Leo XIV attends the presentation of his first Encyclical Letter \"Magnifica humanitas\" on May 25, 2026 in Vatican City, Vatican. | Getty Images\n\nPope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. [_Magnifica Humanitas_](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and the need for new legal and ethical frameworks to govern technology.\n\nIn his papal encyclical - a kind of open letter from the Catholic Church - Pope Leo stressed the economic and social upheaval that rapid AI adoption is creating, with inadequate protections for individuals that threaten human dignity. He com …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)",
+    "contentSnippet": "Pope Leo XIV attends the presentation of his first Encyclical Letter \"Magnifica humanitas\" on May 25, 2026 in Vatican City, Vatican. | Getty Images\t\n\nPope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and the need for new legal and ethical frameworks to govern technology.\nIn his papal encyclical - a kind of open letter from the Catholic Church - Pope Leo stressed the economic and social upheaval that rapid AI adoption is creating, with inadequate protections for individuals that threaten human dignity. He com …\nRead the full story at The Verge.",
+    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and [&#8230;]",
+    "id": "https://www.theverge.com/?p=936945",
+    "isoDate": "2026-05-25T15:05:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "pope-leo-calls-for-being-profoundly-human-in-the-age-of-ai"
   },
   {
     "title": "(No AI) Hackers are learning to exploit chatbot ‘personalities’",
@@ -65,20 +72,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0005_3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "hackers-are-learning-to-exploit-chatbot-personalities"
-  },
-  {
-    "title": "(No AI) Google’s new anything-to-anything AI model is wild",
-    "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-    "pubDate": "2026-05-23T11:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Still from an AI-generated video of a stuffed deer white water rafting](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&strip=all&crop=0,0,100,100)\n\nJust a stuffed deer having the time of his life. | Image: Gemini / The Verge\n\nLast year I [deepfaked my kid's stuffed animal](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial) to make it look like his plush deer was on vacation.\n\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the tools to make realistic videos are surprisingly good, requiring surprisingly little effort and know-how. And that trend is c …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)",
-    "contentSnippet": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the tools to make realistic videos are surprisingly good, requiring surprisingly little effort and know-how. And that trend is c …\nRead the full story at The Verge.",
-    "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
-    "id": "https://www.theverge.com/?p=936507",
-    "isoDate": "2026-05-23T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-new-anything-to-anything-ai-model-is-wild"
   },
   {
     "title": "(No AI) OpenAI named a Leader in enterprise coding agents by Gartner",
