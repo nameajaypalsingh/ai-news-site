@@ -1,40 +1,56 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Everyone is navigating AI security in real time — even Google",
-    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "pubDate": "Sun, 24 May 2026 21:39:21 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "We're in the transition period -- all of us.",
-    "contentSnippet": "We're in the transition period -- all of us.",
-    "guid": "https://techcrunch.com/?p=3125822",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Startup Battlefield 200 applications close in days: Apply before May 27",
+    "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "pubDate": "Mon, 25 May 2026 14:30:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "contentSnippet": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "guid": "https://techcrunch.com/?p=3125834",
     "categories": [
+      "TC",
+      "Startups",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
       "AI",
-      "TC"
+      "Robotics",
+      "Fundraising",
+      "Startup Battlefield",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-24T21:39:21.000Z",
+    "isoDate": "2026-05-25T14:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "everyone-is-navigating-ai-security-in-real-time-even-google"
+    "slug": "startup-battlefield-200-applications-close-in-days-apply-before-may-27"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-    "pubDate": "Sun, 24 May 2026 15:00:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "contentSnippet": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "guid": "https://techcrunch.com/?p=3122419",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "pubDate": "Mon, 25 May 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "contentSnippet": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "guid": "https://techcrunch.com/?p=3125848",
     "categories": [
+      "TC",
+      "Startups",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
       "AI",
-      "Gadgets",
-      "Amazon",
-      "AI hardware",
-      "Bee wearable"
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-05-24T15:00:00.000Z",
+    "isoDate": "2026-05-25T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "i-tried-amazon-s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out"
+    "slug": "5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase"
   },
   {
     "title": "(No AI) Hackers are learning to exploit chatbot ‘personalities’",
@@ -112,6 +128,24 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) The AI Era Is Creating a Bug Hunting Arms Race",
+    "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "pubDate": "Mon, 25 May 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+    "contentSnippet": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+    "guid": "6a0342514988748cf644de02",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-05-25T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-ai-era-is-creating-a-bug-hunting-arms-race"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
     "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
@@ -127,22 +161,5 @@
     "isoDate": "2026-05-24T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "these-robots-are-making-meals-for-a-nonprofit-in-san-francisco-s-tenderloin"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Even If You Hate AI, You Will Use Google AI Search",
-    "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "pubDate": "Fri, 22 May 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-    "contentSnippet": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-    "guid": "6a0f2e008910d0bdf1e57beb",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-05-22T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "even-if-you-hate-ai-you-will-use-google-ai-search"
   }
 ]
