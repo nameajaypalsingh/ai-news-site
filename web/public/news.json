@@ -1,50 +1,43 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "contentSnippet": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "guid": "https://techcrunch.com/?p=3126558",
+    "creator": "Julie Bort",
+    "title": "(No AI) In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "contentSnippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "guid": "https://techcrunch.com/?p=3126638",
     "categories": [
-      "Media & Entertainment",
+      "Enterprise",
+      "TC",
       "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "social media",
-      "Instagram",
-      "subscriptions",
-      "WhatsApp",
-      "Meta",
-      "Creators",
-      "meta ai"
+      "Amazon",
+      "AWS",
+      "Snowflake",
+      "AI chips"
     ],
-    "isoDate": "2026-05-27T18:00:00.000Z",
+    "isoDate": "2026-05-27T20:10:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans"
+    "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "contentSnippet": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "guid": "https://techcrunch.com/?p=3126284",
+    "creator": "Anna Heim",
+    "title": "(No AI) Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "pubDate": "Wed, 27 May 2026 19:39:45 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "contentSnippet": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "guid": "https://techcrunch.com/?p=3126682",
     "categories": [
       "AI",
-      "Startups",
-      "ai coding",
-      "cognition",
-      "Devin"
+      "AI adoption",
+      "Remote"
     ],
-    "isoDate": "2026-05-27T16:00:00.000Z",
+    "isoDate": "2026-05-27T19:39:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation"
+    "slug": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount"
   },
   {
     "title": "(No AI) AI tried to bury this politician — now people have actually heard of him",
