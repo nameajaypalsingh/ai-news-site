@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "contentSnippet": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "guid": "https://techcrunch.com/?p=3126251",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "AI search",
+      "DuckDuckGo",
+      "Google",
+      "google io 2026",
+      "Google Search"
+    ],
+    "isoDate": "2026-05-26T22:32:56.000Z",
+    "source": "TechCrunch AI",
+    "slug": "duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-google-s-ai-search"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) OpenRouter more than doubles valuation to $1.3B in a year",
     "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
@@ -21,24 +43,18 @@
     "slug": "openrouter-more-than-doubles-valuation-to-1-3b-in-a-year"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) This startup is betting India’s gig economy can train the world’s robots",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "pubDate": "Tue, 26 May 2026 16:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "contentSnippet": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "guid": "https://techcrunch.com/?p=3123948",
-    "categories": [
-      "AI",
-      "Human Archive",
-      "physical ai",
-      "robots",
-      "wing vc"
-    ],
-    "isoDate": "2026-05-26T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "this-startup-is-betting-india-s-gig-economy-can-train-the-world-s-robots"
+    "title": "(No AI) Did the Pope use AI to write about the dangers of AI?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "pubDate": "2026-05-27T00:38:11.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An [analysis](https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas) by Linch Zhang posted on the forum LessWrong found certain paragraphs of [_Magnifica Humanitas_](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\n\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section [through Pangram](https://www.lesswrong.com/posts/GbWwesBnetyiomxEH/many-portions-of-magnifica-humanitas-appear-to-be-ai-written), finding that 62 percent of its first cha …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)",
+    "contentSnippet": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
+    "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
+    "id": "https://www.theverge.com/?p=937801",
+    "isoDate": "2026-05-27T00:38:11.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "did-the-pope-use-ai-to-write-about-the-dangers-of-ai"
   },
   {
     "title": "(No AI) Sundar Pichai on AI, the future of search, and what’s happening to the web",
@@ -53,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_2026.05.26_Sundar_Google.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "sundar-pichai-on-ai-the-future-of-search-and-what-s-happening-to-the-web"
-  },
-  {
-    "title": "(No AI) Nobody wants to tell me why they only listen to their own Suno slop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-    "pubDate": "2026-05-26T12:46:03.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Photo collage of a pig eating digital slop out of a bucket.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDo you even like art? | Image: Cath Virginia / The Verge, Getty Images\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they [proudly proclaim](https://www.reddit.com/r/SunoAI/comments/1oi48ua/does_anyone_just_listen_to_their_own_music_now/) that they don't listen to music on traditional streaming platforms anymore - it's just AI all day.\n\n> _\"Does anyone just listen to their own music now and not even music on Spotify anymore.?\"_\n> \n> _\"I definitely listen to my own music most of the time now. Why wouldn't I? It's album after album of bangers\"_\n> \n> _\"Guilty as charged. It's an infectious addiction, and I love it.\"_\n> \n> _\"I thought I was the only one that had an addiction to suno.\"_\n> \n> _\"Last.f …_\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop)",
-    "contentSnippet": "Do you even like art? | Image: Cath Virginia / The Verge, Getty Images\t\n\nThere's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day.\n\"Does anyone just listen to their own music now and not even music on Spotify anymore.?\"\n\"I definitely listen to my own music most of the time now. Why wouldn't I? It's album after album of bangers\"\n\"Guilty as charged. It's an infectious addiction, and I love it.\"\n\"I thought I was the only one that had an addiction to suno.\"\n\"Last.f …\n\nRead the full story at The Verge.",
-    "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
-    "id": "https://www.theverge.com/?p=937059",
-    "isoDate": "2026-05-26T12:46:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nobody-wants-to-tell-me-why-they-only-listen-to-their-own-suno-slop"
   },
   {
     "title": "(No AI) OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -116,6 +118,24 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Miles Klee",
+    "title": "(No AI) Pope Leo Schooled the Tech Bros on Tolkien",
+    "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+    "pubDate": "Tue, 26 May 2026 23:19:03 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+    "contentSnippet": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+    "guid": "6a15e8f76d627a878b76e0b7",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture",
+      "Culture / Books"
+    ],
+    "isoDate": "2026-05-26T23:19:03.000Z",
+    "source": "Wired AI",
+    "slug": "pope-leo-schooled-the-tech-bros-on-tolkien"
+  },
+  {
     "creator": "Daniele Polidoro",
     "title": "(No AI) Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
     "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
@@ -131,22 +151,5 @@
     "isoDate": "2026-05-26T20:46:03.000Z",
     "source": "Wired AI",
     "slug": "why-the-vatican-invited-anthropic-to-the-pope-s-ai-encyclical-presentation"
-  },
-  {
-    "creator": "Elena Betti",
-    "title": "(No AI) What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-    "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-    "pubDate": "Tue, 26 May 2026 20:17:47 +0000",
-    "dc:creator": "Elena Betti",
-    "content": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-    "contentSnippet": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-    "guid": "6a15ce2905d6069616b2583f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-26T20:17:47.000Z",
-    "source": "Wired AI",
-    "slug": "what-pope-leo-xiv-s-first-encyclical-says-about-the-power-of-ai"
   }
 ]
