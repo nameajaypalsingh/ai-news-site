@@ -1,47 +1,57 @@
 [
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "pubDate": "Thu, 28 May 2026 18:32:25 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-    "contentSnippet": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
-    "guid": "https://techcrunch.com/?p=3127065",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The internet is being rebuilt for machines",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "pubDate": "Thu, 28 May 2026 21:24:01 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "contentSnippet": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "guid": "https://techcrunch.com/?p=3127466",
     "categories": [
       "AI",
-      "AI futures",
-      "ai tokens",
-      "CME Group",
-      "commodities",
-      "Intercontinental Exchange"
+      "agentic search",
+      "AI agents",
+      "AWS",
+      "aws opensearch serverless"
     ],
-    "isoDate": "2026-05-28T18:32:25.000Z",
+    "isoDate": "2026-05-28T21:24:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "just-like-gold-and-oil-we-ll-soon-be-able-to-trade-ai-token-futures"
+    "slug": "the-internet-is-being-rebuilt-for-machines"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) In just 3 weeks, StrictlyVC is coming to Los Angeles",
-    "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-    "pubDate": "Thu, 28 May 2026 17:30:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-    "contentSnippet": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
-    "guid": "https://techcrunch.com/?p=3127248",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Asana acquires no-code agent-builder StackAI",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "pubDate": "Thu, 28 May 2026 20:06:07 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "contentSnippet": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "guid": "https://techcrunch.com/?p=3127375",
     "categories": [
       "AI",
-      "Space",
-      "Startups",
-      "Venture",
-      "Ethan Thornton",
-      "Los Angeles",
-      "StrictlyVC",
-      "StrictlyVC LA"
+      "acquisition",
+      "Asana",
+      "Automation",
+      "Stack AI"
     ],
-    "isoDate": "2026-05-28T17:30:00.000Z",
+    "isoDate": "2026-05-28T20:06:07.000Z",
     "source": "TechCrunch AI",
-    "slug": "in-just-3-weeks-strictlyvc-is-coming-to-los-angeles"
+    "slug": "asana-acquires-no-code-agent-builder-stackai"
+  },
+  {
+    "title": "(No AI) Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "pubDate": "2026-05-28T20:14:07.000Z",
+    "author": "Emma Roth",
+    "content": "![Microsoft 365 Copilot redesign](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is [launching a revamped version](https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/) of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft.\n\nThe redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls \"progressive disclosure.\" That means Copilot will present you with tools and controls based on your prompt, instead of showing a bunch of options at once. You can now format your text directly inside Copilot's upgraded prompt box as well, which will expand to fit every …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign)",
+    "contentSnippet": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft.\nThe redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls \"progressive disclosure.\" That means Copilot will present you with tools and controls based on your prompt, instead of showing a bunch of options at once. You can now format your text directly inside Copilot's upgraded prompt box as well, which will expand to fit every …\nRead the full story at The Verge.",
+    "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes [&#8230;]",
+    "id": "https://www.theverge.com/?p=939273",
+    "isoDate": "2026-05-28T20:14:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-365-copilot-gets-a-speed-boost-and-cleaner-design"
   },
   {
     "title": "(No AI) Claude’s new model is more ‘honest’ when it messes up",
@@ -56,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "claude-s-new-model-is-more-honest-when-it-messes-up"
-  },
-  {
-    "title": "(No AI) A $2,000 AI-generated film will make its debut at Tribeca",
-    "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-    "pubDate": "2026-05-28T16:08:45.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&strip=all&crop=0,0,100,100)\n\nNext month's Tribeca Festival will include the premiere of an AI-generated film: _Dreams of Violets_. The 75-minute film is a fictional dramatization of the [Iranian government's mass killing](https://www.hrw.org/news/2026/01/16/iran-growing-evidence-of-countrywide-massacres) of protestors in January, with the people and images fully created by AI, as [reported earlier by _The Hollywood Reporter_](https://www.hollywoodreporter.com/movies/movie-news/ai-film-dreams-of-violet-tribeca-premiere-1236606092/)_._\n\n_Dreams of Violets_ cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" [according to a press release](https://www.businesswire.com/news/home/20260527634103/en/Dreams-of-Violets-to-World-Premiere-at-Tribeca-Festival-as-the-First-Feature-Length-Live-Action-Film-Completely-Generated-by-AI-Accepted-to-a-Major-Film-Festival). It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO.\n\nFountain 0 says _Dreams of Violets_ …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)",
-    "contentSnippet": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter.\nDreams of Violets cost $2,000 to make and is \"based on journalistic reports, photographs, and eyewitness accounts,\" according to a press release. It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO.\n\nFountain 0 says Dreams of Violets …\nRead the full story at The Verge.",
-    "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
-    "id": "https://www.theverge.com/?p=939067",
-    "isoDate": "2026-05-28T16:08:45.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "a-2-000-ai-generated-film-will-make-its-debut-at-tribeca"
   },
   {
     "title": "(No AI) OpenAI’s Frontier Governance Framework",
