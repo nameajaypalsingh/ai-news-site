@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Why Google’s AI can’t spell Google (or anything else)",
+    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "pubDate": "Thu, 28 May 2026 00:17:41 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Google is embarrassing itself, again.",
+    "contentSnippet": "Google is embarrassing itself, again.",
+    "guid": "https://techcrunch.com/?p=3126837",
+    "categories": [
+      "AI",
+      "Google",
+      "spelling"
+    ],
+    "isoDate": "2026-05-28T00:17:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-google-s-ai-can-t-spell-google-or-anything-else"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
     "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
@@ -20,24 +38,6 @@
     "isoDate": "2026-05-27T20:10:00.000Z",
     "source": "TechCrunch AI",
     "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips"
-  },
-  {
-    "creator": "Anna Heim",
-    "title": "(No AI) Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "pubDate": "Wed, 27 May 2026 19:39:45 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "contentSnippet": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "guid": "https://techcrunch.com/?p=3126682",
-    "categories": [
-      "AI",
-      "AI adoption",
-      "Remote"
-    ],
-    "isoDate": "2026-05-27T19:39:45.000Z",
-    "source": "TechCrunch AI",
-    "slug": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount"
   },
   {
     "title": "(No AI) AI tried to bury this politician — now people have actually heard of him",
@@ -68,6 +68,17 @@
     "slug": "robinhood-will-let-your-ai-agent-trade-stocks-and-make-or-lose-lots-of-money"
   },
   {
+    "title": "(No AI) Cisco and OpenAI redefine enterprise engineering with Codex",
+    "link": "https://openai.com/index/cisco",
+    "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
+    "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "contentSnippet": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "guid": "https://openai.com/index/cisco",
+    "isoDate": "2026-05-27T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "cisco-and-openai-redefine-enterprise-engineering-with-codex"
+  },
+  {
     "title": "(No AI) Building self-improving tax agents with Codex",
     "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
     "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
@@ -80,20 +91,6 @@
     "isoDate": "2026-05-27T07:00:00.000Z",
     "source": "OpenAI",
     "slug": "building-self-improving-tax-agents-with-codex"
-  },
-  {
-    "title": "(No AI) Election information and safeguards in 2026",
-    "link": "https://openai.com/index/election-safeguards-2026",
-    "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
-    "content": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-    "contentSnippet": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-    "guid": "https://openai.com/index/election-safeguards-2026",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-05-27T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "election-information-and-safeguards-in-2026"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -118,6 +115,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "pubDate": "Thu, 28 May 2026 00:10:42 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "contentSnippet": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "guid": "6a176642943fb12e8727be19",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-28T00:10:42.000Z",
+    "source": "Wired AI",
+    "slug": "illinois-lawmakers-just-passed-america-s-strongest-ai-safety-bill"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
     "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
@@ -133,22 +147,5 @@
     "isoDate": "2026-05-27T18:00:00.000Z",
     "source": "Wired AI",
     "slug": "huawei-s-chip-queen-throws-down-the-gauntlet"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-    "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-    "pubDate": "Wed, 27 May 2026 14:00:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-    "contentSnippet": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-    "guid": "6a15df2e2dca9ad4fc8c74a4",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-05-27T14:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "former-google-and-apple-researchers-launch-a-startup-to-build-ai-s-missing-feedback-loop"
   }
 ]
