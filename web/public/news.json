@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "pubDate": "Thu, 28 May 2026 07:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+    "contentSnippet": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+    "guid": "https://techcrunch.com/?p=3126543",
+    "categories": [
+      "Hardware",
+      "AI",
+      "Gadgets",
+      "Vertu",
+      "Vertu Alphafold",
+      "Hermes Agent"
+    ],
+    "isoDate": "2026-05-28T07:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6-880"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Why Google’s AI can’t spell Google (or anything else)",
     "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
@@ -18,26 +39,18 @@
     "slug": "why-google-s-ai-can-t-spell-google-or-anything-else"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "contentSnippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "guid": "https://techcrunch.com/?p=3126638",
-    "categories": [
-      "Enterprise",
-      "TC",
-      "AI",
-      "Amazon",
-      "AWS",
-      "Snowflake",
-      "AI chips"
-    ],
-    "isoDate": "2026-05-27T20:10:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips"
+    "title": "(No AI) YouTube will let you ask AI to make a custom video feed",
+    "link": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+    "pubDate": "2026-05-28T08:49:07.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A screenshot showing what YouTube’s AI-prompted feed feature looks like, with a prompt text box and suggested feed requests.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYou can enter your own prompt, or select from the suggested options provided by YouTube. | Image: YouTube\n\nYouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its [announcement](https://support.google.com/youtube/thread/436892232?hl=en), YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making it easy to jump back into the feed.\n\nThis feature is currently rolling out with English language support to YouTube users in the US who are signed in on the YouTube mobile app or desktop. To access it, click on the \"Your custom feed\" tab at the top of the YouTube homepage and enter a prompt description into the AI text box. Fo …\n\n[Read the full story at The Verge.](https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability)",
+    "contentSnippet": "You can enter your own prompt, or select from the suggested options provided by YouTube. | Image: YouTube\t\n\nYouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making it easy to jump back into the feed.\nThis feature is currently rolling out with English language support to YouTube users in the US who are signed in on the YouTube mobile app or desktop. To access it, click on the \"Your custom feed\" tab at the top of the YouTube homepage and enter a prompt description into the AI text box. Fo …\nRead the full story at The Verge.",
+    "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making [&#8230;]",
+    "id": "https://www.theverge.com/?p=938759",
+    "isoDate": "2026-05-28T08:49:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-AI-custom-feeds.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "youtube-will-let-you-ask-ai-to-make-a-custom-video-feed"
   },
   {
     "title": "(No AI) AI tried to bury this politician — now people have actually heard of him",
@@ -52,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-tried-to-bury-this-politician-now-people-have-actually-heard-of-him"
-  },
-  {
-    "title": "(No AI) Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-    "pubDate": "2026-05-27T14:36:10.000Z",
-    "author": "Emma Roth",
-    "content": "![An image of Robinhood’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nRobinhood is opening its trading platform to AI agents. In [an announcement on Wednesday](https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/), Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.\n\nThe company pitches the feature as a way for traders to automate investment decisions, such as having an agent monitor specific industries and make trades, or rebalancing an existing portfolio. But it comes with a big warning from Robinhood:\n\n> Agentic trading involves significant risk, including the possible loss of your entire investment. AI-driven strategies may perform poorly under c …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading)",
-    "contentSnippet": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.\nThe company pitches the feature as a way for traders to automate investment decisions, such as having an agent monitor specific industries and make trades, or rebalancing an existing portfolio. But it comes with a big warning from Robinhood:\nAgentic trading involves significant risk, including the possible loss of your entire investment. AI-driven strategies may perform poorly under c …\n\nRead the full story at The Verge.",
-    "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
-    "id": "https://www.theverge.com/?p=938095",
-    "isoDate": "2026-05-27T14:36:10.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "robinhood-will-let-your-ai-agent-trade-stocks-and-make-or-lose-lots-of-money"
   },
   {
     "title": "(No AI) Cisco and OpenAI redefine enterprise engineering with Codex",
@@ -115,37 +114,38 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-    "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-    "pubDate": "Thu, 28 May 2026 00:10:42 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-    "contentSnippet": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-    "guid": "6a176642943fb12e8727be19",
+    "creator": "Joel Khalili",
+    "title": "(No AI) New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+    "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+    "pubDate": "Thu, 28 May 2026 11:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+    "contentSnippet": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+    "guid": "6a07316062cf29fb99e15bda",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-05-28T00:10:42.000Z",
+    "isoDate": "2026-05-28T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "illinois-lawmakers-just-passed-america-s-strongest-ai-safety-bill"
+    "slug": "new-moms-are-returning-to-coding-jobs-radically-reshaped-by-ai"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-    "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-    "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
-    "contentSnippet": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
-    "guid": "6a15aa91f11edf0a4306e369",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "pubDate": "Thu, 28 May 2026 10:30:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "contentSnippet": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "guid": "6a15e7e31b198ac13923261e",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-05-27T18:00:00.000Z",
+    "isoDate": "2026-05-28T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "huawei-s-chip-queen-throws-down-the-gauntlet"
+    "slug": "amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved"
   }
 ]
