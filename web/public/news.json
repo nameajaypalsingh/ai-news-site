@@ -41,6 +41,20 @@
     "slug": "the-internet-is-being-rebuilt-for-machines"
   },
   {
+    "title": "(No AI) Adobe’s conversational AI agent is a mediocre design intern",
+    "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+    "pubDate": "2026-05-29T10:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A collection of images that have been edited using Adobe’s Firefly AI Assistant chatbot.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt explained the process of how it made these edits beautifully, I’m just not terribly impressed by the results. | Images by Jess Weatherbed / _The Verge_\n\nAI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a bot designed to take away some busywork, while still granting you creative control.\n\nUnlike AI generators that are specifically designed to make and edit images or video, [Adobe's Firefly AI Assistant](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing), which I've been testing in beta, is more like a multitasking middleman that can operate Adobe's design apps for you. On its website, Adobe says that you can …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern)",
+    "contentSnippet": "It explained the process of how it made these edits beautifully, I’m just not terribly impressed by the results. | Images by Jess Weatherbed / The Verge\t\n\nAI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a bot designed to take away some busywork, while still granting you creative control.\nUnlike AI generators that are specifically designed to make and edit images or video, Adobe's Firefly AI Assistant, which I've been testing in beta, is more like a multitasking middleman that can operate Adobe's design apps for you. On its website, Adobe says that you can …\nRead the full story at The Verge.",
+    "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
+    "id": "https://www.theverge.com/?p=939686",
+    "isoDate": "2026-05-29T10:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "adobe-s-conversational-ai-agent-is-a-mediocre-design-intern"
+  },
+  {
     "title": "(No AI) Microsoft 365 Copilot gets a speed boost and cleaner design",
     "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
     "pubDate": "2026-05-28T20:14:07.000Z",
@@ -55,18 +69,18 @@
     "slug": "microsoft-365-copilot-gets-a-speed-boost-and-cleaner-design"
   },
   {
-    "title": "(No AI) Claude’s new model is more ‘honest’ when it messes up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-    "pubDate": "2026-05-28T17:00:00.000Z",
-    "author": "Jay Peters",
-    "content": "![The Claude logo with a overlay of an smart phone on an orange background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\"\n\nAccording [to Anthropic](https://www.anthropic.com/news/claude-opus-4-8), it trains \"all \\[its\\] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\"\n\nThe AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus 4.8 is \"around 4x less likely than its predeces …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort)",
-    "contentSnippet": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\"\nAccording to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.\"\nThe AI lab claims that early testers have found that Opus 4.8 \"is more likely to flag uncertainties about its work and less likely to make unsupported claims.\" In the company's evaluations, Opus 4.8 is \"around 4x less likely than its predeces …\nRead the full story at The Verge.",
-    "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
-    "id": "https://www.theverge.com/?p=939094",
-    "isoDate": "2026-05-28T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-s-new-model-is-more-honest-when-it-messes-up"
+    "title": "(No AI) Strengthening societal resilience with Rosalind Biodefense",
+    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
+    "content": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "contentSnippet": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "guid": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-05-29T03:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "strengthening-societal-resilience-with-rosalind-biodefense"
   },
   {
     "title": "(No AI) How Endava builds an agentic organization with Codex",
@@ -78,17 +92,6 @@
     "isoDate": "2026-05-28T12:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-endava-builds-an-agentic-organization-with-codex"
-  },
-  {
-    "title": "(No AI) MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
-    "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "contentSnippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "guid": "https://openai.com/index/mufg",
-    "isoDate": "2026-05-28T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "mufg-aims-to-become-ai-native-with-openai"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
