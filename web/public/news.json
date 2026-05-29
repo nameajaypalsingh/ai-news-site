@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "pubDate": "Fri, 29 May 2026 00:44:37 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "contentSnippet": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "guid": "https://techcrunch.com/?p=3127613",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "AI search",
+      "Glean",
+      "revenue"
+    ],
+    "isoDate": "2026-05-29T00:44:37.000Z",
+    "source": "TechCrunch AI",
+    "slug": "glean-s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) The internet is being rebuilt for machines",
     "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
@@ -18,26 +39,6 @@
     "isoDate": "2026-05-28T21:24:01.000Z",
     "source": "TechCrunch AI",
     "slug": "the-internet-is-being-rebuilt-for-machines"
-  },
-  {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Asana acquires no-code agent-builder StackAI",
-    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "pubDate": "Thu, 28 May 2026 20:06:07 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-    "contentSnippet": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-    "guid": "https://techcrunch.com/?p=3127375",
-    "categories": [
-      "AI",
-      "acquisition",
-      "Asana",
-      "Automation",
-      "Stack AI"
-    ],
-    "isoDate": "2026-05-28T20:06:07.000Z",
-    "source": "TechCrunch AI",
-    "slug": "asana-acquires-no-code-agent-builder-stackai"
   },
   {
     "title": "(No AI) Microsoft 365 Copilot gets a speed boost and cleaner design",
@@ -68,6 +69,17 @@
     "slug": "claude-s-new-model-is-more-honest-when-it-messes-up"
   },
   {
+    "title": "(No AI) How Endava builds an agentic organization with Codex",
+    "link": "https://openai.com/index/endava",
+    "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
+    "content": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "contentSnippet": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "guid": "https://openai.com/index/endava",
+    "isoDate": "2026-05-28T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-endava-builds-an-agentic-organization-with-codex"
+  },
+  {
     "title": "(No AI) OpenAI’s Frontier Governance Framework",
     "link": "https://openai.com/index/openai-frontier-governance-framework",
     "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
@@ -80,17 +92,6 @@
     "isoDate": "2026-05-28T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "openai-s-frontier-governance-framework"
-  },
-  {
-    "title": "(No AI) Cisco and OpenAI redefine enterprise engineering with Codex",
-    "link": "https://openai.com/index/cisco",
-    "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
-    "content": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-    "contentSnippet": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-    "guid": "https://openai.com/index/cisco",
-    "isoDate": "2026-05-27T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "cisco-and-openai-redefine-enterprise-engineering-with-codex"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
