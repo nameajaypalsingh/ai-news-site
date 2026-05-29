@@ -1,65 +1,66 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-    "pubDate": "Fri, 29 May 2026 14:15:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-    "contentSnippet": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-    "guid": "https://techcrunch.com/?p=3127664",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "pubDate": "Fri, 29 May 2026 17:57:05 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, \\[…\\]",
+    "contentSnippet": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3127833",
     "categories": [
-      "Enterprise",
-      "TC",
-      "Startups",
-      "Transportation",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
       "AI",
-      "Apps",
-      "Government & Policy",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
+      "Aaron Levie",
+      "AI agents",
+      "AI layoffs",
+      "ai psychosis",
+      "Amazon competition",
+      "AWS",
+      "Equity",
+      "openrouter",
+      "Snowflake",
+      "Stord",
+      "Waymo robotaxi"
     ],
-    "isoDate": "2026-05-29T14:15:00.000Z",
+    "isoDate": "2026-05-29T17:57:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026"
+    "slug": "what-happens-when-companies-become-too-ai-pilled"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-    "pubDate": "Fri, 29 May 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-    "contentSnippet": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-    "guid": "https://techcrunch.com/?p=3127650",
+    "creator": "Dominic-Madori Davis",
+    "title": "(No AI) After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "pubDate": "Fri, 29 May 2026 17:27:13 +0000",
+    "dc:creator": "Dominic-Madori Davis",
+    "content": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "contentSnippet": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "guid": "https://techcrunch.com/?p=3127716",
     "categories": [
-      "TC",
-      "Startups",
-      "Transportation",
-      "Security",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
       "AI",
-      "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
+      "Startups",
+      "Venture",
+      "AI chips",
+      "groq",
+      "In Brief",
+      "nvidia"
     ],
-    "isoDate": "2026-05-29T14:00:00.000Z",
+    "isoDate": "2026-05-29T17:27:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket"
+    "slug": "after-nvidia-s-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m"
+  },
+  {
+    "title": "(No AI) Tech companies desperately want to film you doing chores",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+    "pubDate": "2026-05-29T17:37:43.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100)\n\nThis week, an AI training startup called Shift [said it would clean New Yorkers' homes for free](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning). It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal.\n\nBut there's a catch. There's always a catch.\n\nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.\n\nThat's harder than it sounds. Unlike cha …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)",
+    "contentSnippet": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. \nBut there's a catch. There's always a catch. \nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.\nThat's harder than it sounds. Unlike cha …\nRead the full story at The Verge.",
+    "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]",
+    "id": "https://www.theverge.com/?p=940007",
+    "isoDate": "2026-05-29T17:37:43.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "tech-companies-desperately-want-to-film-you-doing-chores"
   },
   {
     "title": "(No AI) Jony Ive’s funky Ferrari",
@@ -76,18 +77,15 @@
     "slug": "jony-ive-s-funky-ferrari"
   },
   {
-    "title": "(No AI) This AI startup will clean your home for free to train future robots",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "pubDate": "2026-05-29T11:58:40.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,0,100,100)\n\nAI training startup Shift wants to clean your home for free. The catch - because, despite what its [website](https://www.shiftapp.nyc/) says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots.\n\nShift [announced](https://x.com/joinshiftX/status/2060044783519735987?s=20) the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: \"You get a spotless apartment. We get training data. Everyone wins.\"\n\nA promotional video shows a cleaner in a crisp white uniform and awkward-looking hat (more on that later) washing windows …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)",
-    "contentSnippet": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots.\nShift announced the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: \"You get a spotless apartment. We get training data. Everyone wins.\"\nA promotional video shows a cleaner in a crisp white uniform and awkward-looking hat (more on that later) washing windows …\nRead the full story at The Verge.",
-    "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on [&#8230;]",
-    "id": "https://www.theverge.com/?p=939765",
-    "isoDate": "2026-05-29T11:58:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "this-ai-startup-will-clean-your-home-for-free-to-train-future-robots"
+    "title": "(No AI) Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+    "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "contentSnippet": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "guid": "https://openai.com/index/boston-childrens-hospital",
+    "isoDate": "2026-05-29T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "boston-children-s-uses-ai-to-unlock-new-diagnoses"
   },
   {
     "title": "(No AI) Strengthening societal resilience with Rosalind Biodefense",
@@ -102,17 +100,6 @@
     "isoDate": "2026-05-29T03:00:00.000Z",
     "source": "OpenAI",
     "slug": "strengthening-societal-resilience-with-rosalind-biodefense"
-  },
-  {
-    "title": "(No AI) How Endava builds an agentic organization with Codex",
-    "link": "https://openai.com/index/endava",
-    "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
-    "content": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "contentSnippet": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "guid": "https://openai.com/index/endava",
-    "isoDate": "2026-05-28T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-endava-builds-an-agentic-organization-with-codex"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -137,6 +124,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Kate Knibbs",
+    "title": "(No AI) We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "pubDate": "Fri, 29 May 2026 16:30:00 +0000",
+    "dc:creator": "Kate Knibbs",
+    "content": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "contentSnippet": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "guid": "6a15b00b4e296e9f434f9e08",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-05-29T16:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "we-asked-the-future-of-truth-author-to-explain-how-he-used-ai-it-didn-t-go-well"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) The Vatican’s Man Inside Anthropic",
     "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
@@ -152,22 +156,5 @@
     "isoDate": "2026-05-29T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-vatican-s-man-inside-anthropic"
-  },
-  {
-    "creator": "Aarian Marshall",
-    "title": "(No AI) Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-    "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-    "pubDate": "Thu, 28 May 2026 15:00:00 +0000",
-    "dc:creator": "Aarian Marshall",
-    "content": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-    "contentSnippet": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-    "guid": "6a172a76b07fddcf94d8f1ea",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-05-28T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "here-comes-ojai-waymo-s-new-chinese-made-robotaxi"
   }
 ]
