@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "pubDate": "Sat, 30 May 2026 13:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "contentSnippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "guid": "https://techcrunch.com/?p=3026701",
+    "categories": [
+      "Startups",
+      "AI",
+      "Apps",
+      "Browser",
+      "search engines",
+      "web browser",
+      "evergreens"
+    ],
+    "isoDate": "2026-05-30T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Coders are refusing to work without AI — and that could come back to bite them ",
     "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -18,51 +40,32 @@
     "slug": "coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them"
   },
   {
-    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "title": "(No AI) So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "pubDate": "Fri, 29 May 2026 18:49:19 +0000",
-    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "guid": "https://techcrunch.com/?p=2973217",
-    "categories": [
-      "AI",
-      "artificial intelligence",
-      "evergreens",
-      "Glossary"
-    ],
-    "isoDate": "2026-05-29T18:49:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "so-you-ve-heard-these-ai-terms-and-nodded-along-let-s-fix-that"
+    "title": "(No AI) How one founder’s bet on ‘the old school web’ is paying off",
+    "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+    "pubDate": "2026-05-30T13:00:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Screenshot showing a historical map of Seattle overlaid on a current map](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nA good time with old maps. | Image: Past Maps\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\n\nSure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas.\n\nPeople generally aren't rushing to get into the website business, what with [the Google Zero event horizon](https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience) approaching. Campbell was undeterred and has gro …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)",
+    "contentSnippet": "A good time with old maps. | Image: Past Maps\t\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\nSure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify  - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas.\nPeople generally aren't rushing to get into the website business, what with the Google Zero event horizon approaching. Campbell was undeterred and has gro …\nRead the full story at The Verge.",
+    "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use [&#8230;]",
+    "id": "https://www.theverge.com/?p=938245",
+    "isoDate": "2026-05-30T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-one-founder-s-bet-on-the-old-school-web-is-paying-off"
   },
   {
-    "title": "(No AI) Tech companies desperately want to film you doing chores",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-    "pubDate": "2026-05-29T17:37:43.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100)\n\nThis week, an AI training startup called Shift [said it would clean New Yorkers' homes for free](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning). It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal.\n\nBut there's a catch. There's always a catch.\n\nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.\n\nThat's harder than it sounds. Unlike cha …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)",
-    "contentSnippet": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. \nBut there's a catch. There's always a catch. \nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.\nThat's harder than it sounds. Unlike cha …\nRead the full story at The Verge.",
-    "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]",
-    "id": "https://www.theverge.com/?p=940007",
-    "isoDate": "2026-05-29T17:37:43.000Z",
+    "title": "(No AI) AI grifters are creating fake Black people to sell Shein junk",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+    "pubDate": "2026-05-30T13:00:00.000Z",
+    "author": "Nicole Froio",
+    "content": "![three screenshots of Black TikTok sellers, apparently AI generated, with a green background and belt buckle inlays](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTikTok sellers that appear to be AI generated, in tears. | The Verge\n\nAliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a [video](https://www.tiktok.com/@aliyahsbuckles.store/video/7614301114329992478?q=belt%20buckle&t=1777935944306) for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds \\[on this video\\] to save my belt buckle business,\" the onscreen text reads. She wipes a tear off her cheek.\n\nBut Aliyah isn't real, and neither are her supposedly [handmade products](https://aliyahsbuckles.store/products/belt-blades) - she's one of many AI-generated influencers created to sell mass-produced products via dropshipping on TikTok, Facebook, and Instagram. Identical belt buckles …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)",
+    "contentSnippet": "TikTok sellers that appear to be AI generated, in tears. | The Verge\t\n\nAliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds [on this video] to save my belt buckle business,\" the onscreen text reads. She wipes a tear off her cheek. \nBut Aliyah isn't real, and neither are her supposedly handmade products - she's one of many AI-generated influencers created to sell mass-produced products via dropshipping on TikTok, Facebook, and Instagram. Identical belt buckles  …\nRead the full story at The Verge.",
+    "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the camera and pleads for views: \"Even as a black woman, I have more faith that white women will stay 13 seconds [on [&#8230;]",
+    "id": "https://www.theverge.com/?p=938844",
+    "isoDate": "2026-05-30T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "tech-companies-desperately-want-to-film-you-doing-chores"
-  },
-  {
-    "title": "(No AI) Jony Ive’s funky Ferrari",
-    "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-    "pubDate": "2026-05-29T12:25:12.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_052926_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMost people will never own, drive, or even sit inside [a Ferrari Luce](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom). (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With [a decidedly un-Ferrari look](https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design), and lots of new technology and designs courtesy of Sir Jony Ive, the Luce is a lot of big ideas in a single swoopy package. A lot of people [really hate it](https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen).\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vergecast-Tile-Large.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\n_Verge_ subscribers, don't forget you get exclusive access to ad-free _Vergecast_ wherever you get your podcasts. Head [here](https://www.theverge.com/account/podcasts). Not a subscriber? You can [sign up here](https://www.theverge.com/subscribe).\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), we talk a lot about the Luce. D …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast)",
-    "contentSnippet": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of Sir Jony Ive, the Luce is a lot of big ideas in a single swoopy package. A lot of people really hate it.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, we talk a lot about the Luce. D …\nRead the full story at The Verge.",
-    "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of [&#8230;]",
-    "id": "https://www.theverge.com/?p=939589",
-    "isoDate": "2026-05-29T12:25:12.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_052926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "jony-ive-s-funky-ferrari"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-grifters-are-creating-fake-black-people-to-sell-shein-junk"
   },
   {
     "title": "(No AI) Boston Children’s uses AI to unlock new diagnoses",
