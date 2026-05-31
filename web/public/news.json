@@ -1,6 +1,28 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Making sense of the debate over AI psychosis",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "pubDate": "Sun, 31 May 2026 15:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "contentSnippet": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "guid": "https://techcrunch.com/?p=3128061",
+    "categories": [
+      "Startups",
+      "AI",
+      "Google",
+      "Aaron Levie",
+      "DuckDuckGo",
+      "Equity podcast",
+      "ai psychosis"
+    ],
+    "isoDate": "2026-05-31T15:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "making-sense-of-the-debate-over-ai-psychosis"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) SoftBank says it will invest up to €75 billion to build French data centers",
     "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "pubDate": "Sat, 30 May 2026 21:45:00 +0000",
@@ -17,23 +39,6 @@
     "isoDate": "2026-05-30T21:45:00.000Z",
     "source": "TechCrunch AI",
     "slug": "softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "pubDate": "Sat, 30 May 2026 16:30:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-    "contentSnippet": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-    "guid": "https://techcrunch.com/?p=3127853",
-    "categories": [
-      "AI",
-      "Microsoft"
-    ],
-    "isoDate": "2026-05-30T16:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "what-a-joke-github-copilot-s-new-token-based-billing-spurs-consternation-among-devs"
   },
   {
     "title": "(No AI) I went looking for the AI weed vape that gives you Bitcoin for smoking",
