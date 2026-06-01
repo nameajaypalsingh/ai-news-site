@@ -1,72 +1,84 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Erin Brockovich takes aim at data center secrecy",
-    "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "pubDate": "Sun, 31 May 2026 21:05:14 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Environmental activist Erin Brockovich has a new mission.",
-    "contentSnippet": "Environmental activist Erin Brockovich has a new mission.",
-    "guid": "https://techcrunch.com/?p=3128084",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "contentSnippet": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "guid": "https://techcrunch.com/?p=3128266",
     "categories": [
       "AI",
-      "Government & Policy",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "isoDate": "2026-06-01T20:03:40.000Z",
+    "source": "TechCrunch AI",
+    "slug": "florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents"
+  },
+  {
+    "creator": "Sean O'Kane",
+    "title": "(No AI) Water access is now a risk factor in SpaceX’s IPO",
+    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "contentSnippet": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "guid": "https://techcrunch.com/?p=3128202",
+    "categories": [
+      "AI",
+      "Space",
+      "artificial intelligence",
       "data centers",
-      "erin brockovich"
+      "Elon Musk",
+      "SpaceX"
     ],
-    "isoDate": "2026-05-31T21:05:14.000Z",
+    "isoDate": "2026-06-01T18:19:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "erin-brockovich-takes-aim-at-data-center-secrecy"
+    "slug": "water-access-is-now-a-risk-factor-in-spacex-s-ipo"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Making sense of the debate over AI psychosis",
-    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "pubDate": "Sun, 31 May 2026 15:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "contentSnippet": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "guid": "https://techcrunch.com/?p=3128061",
+    "title": "(No AI) This could be Windows’ M1 moment — but expect it to cost a ton",
+    "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+    "pubDate": "2026-06-01T20:02:31.000Z",
+    "author": "Antonio G. Di Benedetto",
+    "content": "![Nvidia CEO Jensen Huang holds up two RTX Spark laptops at Computex 2026](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia's announcement that it's [getting into the consumer laptop chip space](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) with [RTX Spark](https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026) is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the graphics department. There's clearly still untapped potential, and Nvidia seems to be promising to deliver it.\n\nThis could be Windows' moment to blow us away with a new generation of supremely capable chips, much like Apple's back in 2020, with the introduction of the M1. But why does this launch feel simultaneous …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)",
+    "contentSnippet": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the graphics department. There's clearly still untapped potential, and Nvidia seems to be promising to deliver it.\nThis could be Windows' moment to blow us away with a new generation of supremely capable chips, much like Apple's back in 2020, with the introduction of the M1. But why does this launch feel simultaneous …\nRead the full story at The Verge.",
+    "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the [&#8230;]",
+    "id": "https://www.theverge.com/?p=941215",
+    "isoDate": "2026-06-01T20:02:31.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "this-could-be-windows-m1-moment-but-expect-it-to-cost-a-ton"
+  },
+  {
+    "title": "(No AI) Gemini’s new AI agent is about as good as Google’s demo",
+    "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "pubDate": "2026-06-01T20:00:00.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.\n\nThe company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises [_at the very top_ _of the Spark website_](https://gemini.google/overview/agent/spark/) that it's \"always under your direction,\" that \"you choose to turn it on,\" and that \"it's designed to check with you before taking major actions.\" Given the moun …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)",
+    "contentSnippet": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs.\nThe company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them in the background - even tasks that have multiple steps - allowing you to put your phone down or walk away from your computer. It also advertises at the very top of the Spark website that it's \"always under your direction,\" that \"you choose to turn it on,\" and that \"it's designed to check with you before taking major actions.\" Given the moun …\nRead the full story at The Verge.",
+    "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [&#8230;]",
+    "id": "https://www.theverge.com/?p=941138",
+    "isoDate": "2026-06-01T20:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "gemini-s-new-ai-agent-is-about-as-good-as-google-s-demo"
+  },
+  {
+    "title": "(No AI) Building the infrastructure for the Intelligence Age in Michigan",
+    "link": "https://openai.com/index/stargate-michigan-data-center",
+    "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
+    "content": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "contentSnippet": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "guid": "https://openai.com/index/stargate-michigan-data-center",
     "categories": [
-      "Startups",
-      "AI",
-      "Google",
-      "Aaron Levie",
-      "DuckDuckGo",
-      "Equity podcast",
-      "ai psychosis"
+      "Global Affairs"
     ],
-    "isoDate": "2026-05-31T15:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "making-sense-of-the-debate-over-ai-psychosis"
-  },
-  {
-    "title": "(No AI) I went looking for the AI weed vape that gives you Bitcoin for smoking",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-    "pubDate": "2026-05-31T13:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![A black weed vape next to a weed leaf and a Bitcoin on a trippy background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268553_We_went_looking_for_the_weed_vape_that_gives_you_Bitcoin_for_smoking_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake.\n\nSo I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber than I'd imagined.\n\n![An ad for the Gudtrip vape](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/slack-imgs.png?quality=90&strip=all&crop=0,0,100,100 \"An ad for the Gudtrip vape\")\n\nMy first port of call was Gudtrip's [website](https://gudtrip.xyz/), which only made the vape seem more like a prank. The company's description of the pr …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape)",
-    "contentSnippet": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake.\nSo I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber than I'd imagined.\nMy first port of call was Gudtrip's website, which only made the vape seem more like a prank. The company's description of the pr …\nRead the full story at The Verge.",
-    "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded [&#8230;]",
-    "id": "https://www.theverge.com/?p=933916",
-    "isoDate": "2026-05-31T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268553_We_went_looking_for_the_weed_vape_that_gives_you_Bitcoin_for_smoking_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "i-went-looking-for-the-ai-weed-vape-that-gives-you-bitcoin-for-smoking"
-  },
-  {
-    "title": "(No AI) How one founder’s bet on ‘the old school web’ is paying off",
-    "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-    "pubDate": "2026-05-30T13:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Screenshot showing a historical map of Seattle overlaid on a current map](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nA good time with old maps. | Image: Past Maps\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\n\nSure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas.\n\nPeople generally aren't rushing to get into the website business, what with [the Google Zero event horizon](https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience) approaching. Campbell was undeterred and has gro …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)",
-    "contentSnippet": "A good time with old maps. | Image: Past Maps\t\n\nCraig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website.\nSure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use Shopify  - right as the AI boom was booming. \"I had my prior VC investors breathing down my neck, going 'start something else. We'll write you a blank check.'\" He had other ideas.\nPeople generally aren't rushing to get into the website business, what with the Google Zero event horizon approaching. Campbell was undeterred and has gro …\nRead the full story at The Verge.",
-    "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last venture - an e-commerce tool for businesses that use [&#8230;]",
-    "id": "https://www.theverge.com/?p=938245",
-    "isoDate": "2026-05-30T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-one-founder-s-bet-on-the-old-school-web-is-paying-off"
+    "isoDate": "2026-06-01T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "building-the-infrastructure-for-the-intelligence-age-in-michigan"
   },
   {
     "title": "(No AI) Boston Children’s uses AI to unlock new diagnoses",
@@ -78,17 +90,6 @@
     "isoDate": "2026-05-29T12:00:00.000Z",
     "source": "OpenAI",
     "slug": "boston-children-s-uses-ai-to-unlock-new-diagnoses"
-  },
-  {
-    "title": "(No AI) How Braintrust turns customer requests into code with Codex",
-    "link": "https://openai.com/index/braintrust",
-    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
-    "content": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "contentSnippet": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "guid": "https://openai.com/index/braintrust",
-    "isoDate": "2026-05-29T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-braintrust-turns-customer-requests-into-code-with-codex"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -113,6 +114,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "pubDate": "Mon, 01 Jun 2026 17:17:58 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "contentSnippet": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "guid": "6a1dae57ff8b553336104df0",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-01T17:17:58.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-confidentially-files-for-what-could-be-the-largest-ipo-ever"
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "(No AI) Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
     "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
@@ -128,22 +146,5 @@
     "isoDate": "2026-06-01T11:00:00.000Z",
     "source": "Wired AI",
     "slug": "norse-atlantic-airways-offers-dirt-cheap-tickets-there-s-a-catch"
-  },
-  {
-    "creator": "Levent Daşkıran",
-    "title": "(No AI) How Turkey Hacked the Hair Transplant Industry",
-    "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "pubDate": "Sun, 31 May 2026 09:00:00 +0000",
-    "dc:creator": "Levent Daşkıran",
-    "content": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-    "contentSnippet": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-    "guid": "6a15a969fafbd32f2a6d2b95",
-    "categories": [
-      "Science",
-      "Science / Health"
-    ],
-    "isoDate": "2026-05-31T09:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "how-turkey-hacked-the-hair-transplant-industry"
   }
 ]
