@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "pubDate": "Tue, 02 Jun 2026 22:50:56 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "contentSnippet": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "guid": "https://techcrunch.com/?p=3128845",
+    "categories": [
+      "AI",
+      "Security",
+      "Startups",
+      "Cyera",
+      "data breach",
+      "evolution equity partners"
+    ],
+    "isoDate": "2026-06-02T22:50:56.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Uber caps employee AI spending after blowing through budget in 4 months",
     "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
@@ -18,25 +39,6 @@
     "isoDate": "2026-06-02T19:11:48.000Z",
     "source": "TechCrunch AI",
     "slug": "uber-caps-employee-ai-spending-after-blowing-through-budget-in-4-months"
-  },
-  {
-    "creator": "Ram Iyer",
-    "title": "(No AI) New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "contentSnippet": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "guid": "https://techcrunch.com/?p=3128726",
-    "categories": [
-      "AI",
-      "ai evaluations",
-      "AI regression testing",
-      "Microsoft"
-    ],
-    "isoDate": "2026-06-02T19:02:21.000Z",
-    "source": "TechCrunch AI",
-    "slug": "new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions"
   },
   {
     "title": "(No AI) Microsoft Build 2026: The 7 biggest announcements",
