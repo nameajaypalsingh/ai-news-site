@@ -1,44 +1,45 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-    "pubDate": "Thu, 04 Jun 2026 15:05:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-    "contentSnippet": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-    "guid": "https://techcrunch.com/?p=3128777",
-    "categories": [
-      "AI",
-      "Robotics",
-      "robotics",
-      "Exclusive",
-      "hello robot"
-    ],
-    "isoDate": "2026-06-04T15:05:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "is-silicon-valley-ready-to-put-robots-in-people-s-homes-hello-robot-is"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-    "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
-    "pubDate": "Thu, 04 Jun 2026 14:05:58 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
-    "contentSnippet": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
-    "guid": "https://techcrunch.com/?p=3129529",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Meta rolls out a new AI creator assistant on Facebook",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "pubDate": "Thu, 04 Jun 2026 16:32:48 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "contentSnippet": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "guid": "https://techcrunch.com/?p=3129582",
     "categories": [
       "AI",
       "Apps",
-      "Apple",
-      "apple store",
-      "developers",
-      "wwdc"
+      "Social",
+      "Creators",
+      "Meta"
     ],
-    "isoDate": "2026-06-04T14:05:58.000Z",
+    "isoDate": "2026-06-04T16:32:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission"
+    "slug": "meta-rolls-out-a-new-ai-creator-assistant-on-facebook"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "pubDate": "Thu, 04 Jun 2026 16:31:12 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Apple's WWDC nears: Here's what you can look forward to.",
+    "contentSnippet": "Apple's WWDC nears: Here's what you can look forward to.",
+    "guid": "https://techcrunch.com/?p=3129597",
+    "categories": [
+      "Hardware",
+      "AI",
+      "Apps",
+      "Apple",
+      "siri",
+      "wwdc",
+      "Apple Intelligence"
+    ],
+    "isoDate": "2026-06-04T16:31:12.000Z",
+    "source": "TechCrunch AI",
+    "slug": "what-to-expect-from-wwdc-2026-siri-s-highly-anticipated-revamp-and-apple-intelligence-updates"
   },
   {
     "title": "(No AI) TSMC struggles to keep up with AI demand: ‘We can only support so much’",
@@ -80,18 +81,18 @@
     "slug": "how-endava-is-redesigning-software-delivery-around-ai-agents"
   },
   {
-    "title": "(No AI) Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
-    "content": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-    "contentSnippet": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-    "guid": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "title": "(No AI) Dreaming: Better memory for a more helpful ChatGPT",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+    "content": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "contentSnippet": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "guid": "https://openai.com/index/chatgpt-memory-dreaming",
     "categories": [
-      "Product"
+      "Research"
     ],
-    "isoDate": "2026-06-03T13:15:00.000Z",
+    "isoDate": "2026-06-04T09:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-new-capabilities-to-gpt-rosalind"
+    "slug": "dreaming-better-memory-for-a-more-helpful-chatgpt"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
