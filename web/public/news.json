@@ -42,6 +42,20 @@
     "slug": "alphabet-s-record-breaking-85b-raise-for-google-s-ai-business-is-a-helluva-good-signal"
   },
   {
+    "title": "(No AI) Amazon develops a warehouse robot workers can speak to",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "pubDate": "2026-06-04T09:31:14.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nThe design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\n\nAmazon has announced a new version of its fully autonomous warehouse robot, [Proteus](https://www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery), that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots.\n\nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd communicate with colleagues. Previously, workers would need to use specialized software to direct the floor-level, tortoise-like systems, which are designed for heavy lifting and moving large carts throughout Amazon's warehouses. \"You tell it what needs to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus)",
+    "contentSnippet": "The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon\t\n\nAmazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. \nAmazon says the AI-powered upgrade means its human employees can assign the robot tasks in the same way they'd communicate with colleagues. Previously, workers would need to use specialized software to direct the floor-level, tortoise-like systems, which are designed for heavy lifting and moving large carts throughout Amazon's warehouses. \"You tell it what needs to …\nRead the full story at The Verge.",
+    "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign [&#8230;]",
+    "id": "https://www.theverge.com/?p=942884",
+    "isoDate": "2026-06-04T09:31:14.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amazon-develops-a-warehouse-robot-workers-can-speak-to"
+  },
+  {
     "title": "(No AI) As AI gets better, it reveals an empty promise",
     "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
     "pubDate": "2026-06-03T17:45:35.000Z",
@@ -56,18 +70,15 @@
     "slug": "as-ai-gets-better-it-reveals-an-empty-promise"
   },
   {
-    "title": "(No AI) Amazon’s search bar will invent AI-generated products you can’t buy",
-    "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-    "pubDate": "2026-06-03T16:07:31.000Z",
-    "author": "Emma Roth",
-    "content": "![An image showing AI-generated Amazon results](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon's updated search bar [will now show you AI-generated images](https://www.aboutamazon.com/news/retail/visual-search-shopping-features) of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items.\n\nIn a blog post, Amazon positions the feature as a way to help you search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't think of \"cowl neck.\" The feature seems like it might come in handy in these kinds of scenarios, but it doesn't really add much if you're just searc …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)",
-    "contentSnippet": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items.\nIn a blog post, Amazon positions the feature as a way to help you  search for items if you can't remember the name of a specific texture or style, like describing a \"shirt with a draped collar\" if you can't think of \"cowl neck.\" The feature seems like it might come in handy in these kinds of scenarios, but it doesn't really add much if you're just searc …\nRead the full story at The Verge.",
-    "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions [&#8230;]",
-    "id": "https://www.theverge.com/?p=942547",
-    "isoDate": "2026-06-03T16:07:31.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-s-search-bar-will-invent-ai-generated-products-you-can-t-buy"
+    "title": "(No AI) How Endava is redesigning software delivery around AI agents",
+    "link": "https://openai.com/index/endava-frontiers",
+    "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
+    "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "contentSnippet": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "guid": "https://openai.com/index/endava-frontiers",
+    "isoDate": "2026-06-04T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-endava-is-redesigning-software-delivery-around-ai-agents"
   },
   {
     "title": "(No AI) Introducing new capabilities to GPT-Rosalind",
@@ -82,17 +93,6 @@
     "isoDate": "2026-06-03T13:15:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-new-capabilities-to-gpt-rosalind"
-  },
-  {
-    "title": "(No AI) How Wasmer used Codex to build a Node.js runtime for the edge",
-    "link": "https://openai.com/index/wasmer",
-    "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-    "content": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-    "contentSnippet": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-    "guid": "https://openai.com/index/wasmer",
-    "isoDate": "2026-06-03T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-wasmer-used-codex-to-build-a-node-js-runtime-for-the-edge"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -117,40 +117,39 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
-    "creator": "Emily Mullin",
-    "title": "(No AI) OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-    "pubDate": "Thu, 04 Jun 2026 01:01:00 +0000",
-    "dc:creator": "Emily Mullin",
-    "content": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-    "contentSnippet": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-    "guid": "6a1f0895cad962586338469b",
+    "creator": "Steven Levy",
+    "title": "(No AI) Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "pubDate": "Thu, 04 Jun 2026 10:30:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "contentSnippet": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "guid": "6a0f8e0e730e71e90fb731c1",
     "categories": [
-      "Science",
-      "Science / Biotech"
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-04T01:01:00.000Z",
+    "isoDate": "2026-06-04T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-and-anthropic-sign-letter-to-prevent-ai-developed-biological-weapons"
+    "slug": "jeff-bezos-is-funding-a-wild-hunt-for-the-brain-s-core-algorithm"
   },
   {
-    "creator": "Matt Burgess",
-    "title": "(No AI) xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-    "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-    "pubDate": "Wed, 03 Jun 2026 18:49:32 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-    "contentSnippet": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-    "guid": "6a1ef111f6b7a42d15eceb24",
+    "creator": "Todd Feathers",
+    "title": "(No AI) Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
+    "link": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
+    "pubDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+    "dc:creator": "Todd Feathers",
+    "content": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
+    "contentSnippet": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
+    "guid": "6a0b7ece0ce29a972051ab21",
     "categories": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "Business / Social Media"
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-03T18:49:32.000Z",
+    "isoDate": "2026-06-04T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity"
+    "slug": "alpha-school-s-ritzy-new-york-city-campus-costs-65-000-a-year-but-isn-t-actually-a-school"
   }
 ]
