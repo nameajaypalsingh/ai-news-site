@@ -1,6 +1,26 @@
 [
   {
     "creator": "Julie Bort",
+    "title": "(No AI) Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "contentSnippet": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "guid": "https://techcrunch.com/?p=3129396",
+    "categories": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "google cloud",
+      "Lovable"
+    ],
+    "isoDate": "2026-06-03T22:56:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says"
+  },
+  {
+    "creator": "Julie Bort",
     "title": "(No AI) Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
     "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
     "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000",
@@ -20,24 +40,6 @@
     "isoDate": "2026-06-03T19:38:32.000Z",
     "source": "TechCrunch AI",
     "slug": "alphabet-s-record-breaking-85b-raise-for-google-s-ai-business-is-a-helluva-good-signal"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "pubDate": "Wed, 03 Jun 2026 19:07:42 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-    "contentSnippet": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-    "guid": "https://techcrunch.com/?p=3128939",
-    "categories": [
-      "AI",
-      "Dreambeans",
-      "Google"
-    ],
-    "isoDate": "2026-06-03T19:07:42.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon"
   },
   {
     "title": "(No AI) As AI gets better, it reveals an empty promise",
@@ -82,18 +84,15 @@
     "slug": "introducing-new-capabilities-to-gpt-rosalind"
   },
   {
-    "title": "(No AI) A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint",
-    "pubDate": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "content": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-    "contentSnippet": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-    "guid": "https://openai.com/index/frontier-safety-blueprint",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-06-03T10:00:00.000Z",
+    "title": "(No AI) How Wasmer used Codex to build a Node.js runtime for the edge",
+    "link": "https://openai.com/index/wasmer",
+    "pubDate": "Wed, 03 Jun 2026 12:00:00 GMT",
+    "content": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "contentSnippet": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "guid": "https://openai.com/index/wasmer",
+    "isoDate": "2026-06-03T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "a-blueprint-for-democratic-governance-of-frontier-ai"
+    "slug": "how-wasmer-used-codex-to-build-a-node-js-runtime-for-the-edge"
   },
   {
     "title": "(No AI) We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -118,6 +117,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Emily Mullin",
+    "title": "(No AI) OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "pubDate": "Thu, 04 Jun 2026 01:01:00 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "contentSnippet": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "guid": "6a1f0895cad962586338469b",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-06-04T01:01:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-and-anthropic-sign-letter-to-prevent-ai-developed-biological-weapons"
+  },
+  {
     "creator": "Matt Burgess",
     "title": "(No AI) xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
     "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
@@ -136,22 +152,5 @@
     "isoDate": "2026-06-03T18:49:32.000Z",
     "source": "Wired AI",
     "slug": "xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-    "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-    "pubDate": "Wed, 03 Jun 2026 18:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-    "contentSnippet": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-    "guid": "6a186caf0f4e0379c52e93a1",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-03T18:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-humanoid-robot-of-the-future-is-a-6-foot-tall-beefcake-with-a-chinese-body-and-an-american-brain"
   }
 ]
