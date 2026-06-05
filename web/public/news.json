@@ -1,65 +1,68 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Mira Murati steps back into the spotlight, carefully",
-    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "pubDate": "Fri, 05 Jun 2026 05:06:37 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "contentSnippet": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-    "guid": "https://techcrunch.com/?p=3129889",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-06-05T05:06:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "mira-murati-steps-back-into-the-spotlight-carefully"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "pubDate": "Thu, 04 Jun 2026 22:43:26 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-    "contentSnippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-    "guid": "https://techcrunch.com/?p=3129760",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "contentSnippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "guid": "https://techcrunch.com/?p=3129900",
     "categories": [
       "AI",
-      "Anthropic",
-      "IPO"
+      "ai tokens",
+      "linux foundation",
+      "tokenmaxxing"
     ],
-    "isoDate": "2026-06-04T22:43:26.000Z",
+    "isoDate": "2026-06-05T14:49:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-s-returns"
+    "slug": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ai-s-runaway-costs"
+  },
+  {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "contentSnippet": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "guid": "https://techcrunch.com/?p=3129897",
+    "categories": [
+      "AI",
+      "AirTrunk",
+      "data centers"
+    ],
+    "isoDate": "2026-06-05T13:03:10.000Z",
+    "source": "TechCrunch AI",
+    "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india"
+  },
+  {
+    "title": "(No AI) This AI startup says it can tell if a script will make a hit film",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+    "pubDate": "2026-06-05T13:57:31.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![A photo illustration of someone holding a clapper on a film set that appears to be melting.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got [a chance to experiment with](https://www.thewrap.com/industry-news/tech/quilty-ai-tool-script-test-does-it-work-analysis/) Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for [_Christy_, which would go on to be](https://www.theguardian.com/film/2025/nov/10/sydney-sweeney-addresses-boxing-movie-flop) a box office flop, would outperform the script for [_Sinners_](https://www.theverge.com/entertainment/865640/sinners-oscars-nominations-2026), which became an Oscar-winning blockbuster.\n\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools - …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood)",
+    "contentSnippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster.\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools -  …\nRead the full story at The Verge.",
+    "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
+    "id": "https://www.theverge.com/?p=943531",
+    "isoDate": "2026-06-05T13:57:31.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "this-ai-startup-says-it-can-tell-if-a-script-will-make-a-hit-film"
   },
   {
     "title": "(No AI) Kevin O’Leary agrees to downsize massive Utah data center",
     "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
     "pubDate": "2026-06-04T18:38:04.000Z",
     "author": "Emma Roth",
-    "content": "![Kevin O’Leary on a graphic green background with data center protestors.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nKevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid [mounting pressure from residents](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary) and activists, as [reported earlier by local affiliate ABC4](https://www.abc4.com/news/northern-utah/kevin-oleary-replies-president-adams-public-spread-misinformation-data-center/). The _Shark Tank_ star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\n\nThe change comes just days after Adams [called on O'Leary](https://www.theverge.com/ai-artificial-intelligence/942310/shrinking-kevin-olearys-mammoth-utah-data-center-project) to slash the size of his Project Stratos data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)",
-    "contentSnippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\nThe change comes just days after Adams called on O'Leary to slash the size of his Project Stratos data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\nRead the full story at The Verge.",
+    "content": "![Kevin O’Leary on a graphic green background with data center protestors.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nKevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid [mounting pressure from residents](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary) and activists, as [reported earlier by local affiliate ABC4](https://www.abc4.com/news/northern-utah/kevin-oleary-replies-president-adams-public-spread-misinformation-data-center/). The _Shark Tank_ star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\n\nThe change comes just days after Adams [called on O'Leary](https://www.theverge.com/ai-artificial-intelligence/942310/shrinking-kevin-olearys-mammoth-utah-data-center-project) to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)",
+    "contentSnippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\nThe change comes just days after Adams called on O'Leary to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\nRead the full story at The Verge.",
     "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
     "id": "https://www.theverge.com/?p=943234",
     "isoDate": "2026-06-04T18:38:04.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "kevin-o-leary-agrees-to-downsize-massive-utah-data-center"
-  },
-  {
-    "title": "(No AI) TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-    "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-    "pubDate": "2026-06-04T14:15:44.000Z",
-    "author": "Emma Roth",
-    "content": "![An illustration of a semiconductor](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTaiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to [reports from _Reuters_](https://www.reuters.com/world/china/tsmc-boss-upbeat-outlook-ai-boom-shows-no-sign-easing-2026-06-04/) and [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-06-04/tsmc-ceo-warns-chip-supply-won-t-meet-ai-fueled-demand-for-years). \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, _Reuters_ reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\"\n\nThe surge in AI use has already put [constraints on the memory industry](https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops), with the widespread shortage of RAM and NAND Flash memory [expected to last for years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years). The AI boom is boosting the sale of semiconductor …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)",
-    "contentSnippet": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on Thursday, Reuters reports. \"We are doing our best to ensure TSMC does not become a bottleneck.\"\nThe surge in AI use has already put constraints on the memory industry, with the widespread shortage of RAM and NAND Flash memory expected to last for years. The AI boom is boosting the sale of semiconductor …\nRead the full story at The Verge.",
-    "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on [&#8230;]",
-    "id": "https://www.theverge.com/?p=943066",
-    "isoDate": "2026-06-04T14:15:44.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "tsmc-struggles-to-keep-up-with-ai-demand-we-can-only-support-so-much"
   },
   {
     "title": "(No AI) How Endava is redesigning software delivery around AI agents",
@@ -109,40 +112,39 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
-    "pubDate": "Thu, 04 Jun 2026 18:44:49 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
-    "contentSnippet": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
-    "guid": "6a209308bb0dd697e44ac997",
+    "creator": "Paresh Dave",
+    "title": "(No AI) OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+    "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "pubDate": "Fri, 05 Jun 2026 10:30:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+    "contentSnippet": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+    "guid": "6a1f0c2a17089511ccc0b20c",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-06-04T18:44:49.000Z",
-    "source": "Wired AI",
-    "slug": "the-ai-ipo-race-heats-up-doge-whistleblower-sues-elon-musk-and-instagram-gets-hacked"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
-    "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-    "pubDate": "Thu, 04 Jun 2026 10:30:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-    "contentSnippet": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-    "guid": "6a0f8e0e730e71e90fb731c1",
-    "categories": [
-      "The Big Story",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-04T10:30:00.000Z",
+    "isoDate": "2026-06-05T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "jeff-bezos-is-funding-a-wild-hunt-for-the-brain-s-core-algorithm"
+    "slug": "openai-and-anthropic-may-be-rivals-but-investors-aren-t-picking-sides"
+  },
+  {
+    "creator": "Sophie Charara",
+    "title": "(No AI) Why Apple Might Put Cameras Into Its Next AirPods",
+    "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+    "pubDate": "Fri, 05 Jun 2026 10:00:00 +0000",
+    "dc:creator": "Sophie Charara",
+    "content": "From battery life to privacy, there are many hurdles to the idea taking off.",
+    "contentSnippet": "From battery life to privacy, there are many hurdles to the idea taking off.",
+    "guid": "6a1f33e35f9c33fb9739237b",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Trends",
+      "Gear / Products / Headphones"
+    ],
+    "isoDate": "2026-06-05T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "why-apple-might-put-cameras-into-its-next-airpods"
   }
 ]
