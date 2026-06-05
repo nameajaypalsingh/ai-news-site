@@ -1,5 +1,33 @@
 [
   {
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) The most interesting startups right now want to get you off your phone",
+    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "pubDate": "Fri, 05 Jun 2026 17:17:06 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, \\[…\\]",
+    "contentSnippet": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3130048",
+    "categories": [
+      "AI",
+      "Hardware",
+      "Startups",
+      "anthropic ipo",
+      "board",
+      "Brynn Putnam",
+      "climate tech vc",
+      "cyberdeck",
+      "Equity",
+      "impulse space",
+      "Roundup",
+      "slow tech",
+      "together tech"
+    ],
+    "isoDate": "2026-06-05T17:17:06.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-most-interesting-startups-right-now-want-to-get-you-off-your-phone"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
     "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
@@ -19,50 +47,32 @@
     "slug": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ai-s-runaway-costs"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The Australian data center operator plans to set up 5GW of capacity in India.",
-    "contentSnippet": "The Australian data center operator plans to set up 5GW of capacity in India.",
-    "guid": "https://techcrunch.com/?p=3129897",
-    "categories": [
-      "AI",
-      "AirTrunk",
-      "data centers"
-    ],
-    "isoDate": "2026-06-05T13:03:10.000Z",
-    "source": "TechCrunch AI",
-    "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india"
+    "title": "(No AI) This is your laptop… on AI",
+    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "pubDate": "2026-06-05T16:39:07.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWe're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described [a completely new way of using our laptops](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan) - and a completely [new kind of laptop](https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026) made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from [Gemini S …](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)",
+    "contentSnippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\nOn this episode of The Vergecast, Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from Gemini S …\nRead the full story at The Verge.",
+    "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+    "id": "https://www.theverge.com/?p=944058",
+    "isoDate": "2026-06-05T16:39:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "this-is-your-laptop-on-ai"
   },
   {
-    "title": "(No AI) This AI startup says it can tell if a script will make a hit film",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-    "pubDate": "2026-06-05T13:57:31.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![A photo illustration of someone holding a clapper on a film set that appears to be melting.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got [a chance to experiment with](https://www.thewrap.com/industry-news/tech/quilty-ai-tool-script-test-does-it-work-analysis/) Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for [_Christy_, which would go on to be](https://www.theguardian.com/film/2025/nov/10/sydney-sweeney-addresses-boxing-movie-flop) a box office flop, would outperform the script for [_Sinners_](https://www.theverge.com/entertainment/865640/sinners-oscars-nominations-2026), which became an Oscar-winning blockbuster.\n\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools - …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood)",
-    "contentSnippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the script for Christy, which would go on to be a box office flop, would outperform the script for Sinners, which became an Oscar-winning blockbuster.\nAs many AI execs have pitched before, Quilty's founders believe that can help \"democratize\" their industry by giving up-and-coming creatives access to assistive tools -  …\nRead the full story at The Verge.",
-    "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
-    "id": "https://www.theverge.com/?p=943531",
-    "isoDate": "2026-06-05T13:57:31.000Z",
+    "title": "(No AI) New York lawmakers pass one-year ban on new data centers",
+    "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "pubDate": "2026-06-05T15:25:10.000Z",
+    "author": "Lauren Feiner",
+    "content": "![Photo collage of a server room with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe New York State legislature [passed](https://www.nysenate.gov/legislation/bills/2025/S10642) a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\n\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/944041/new-york-data-center-moratorium)",
+    "contentSnippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\nRead the full story at The Verge.",
+    "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
+    "id": "https://www.theverge.com/?p=944041",
+    "isoDate": "2026-06-05T15:25:10.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "this-ai-startup-says-it-can-tell-if-a-script-will-make-a-hit-film"
-  },
-  {
-    "title": "(No AI) Kevin O’Leary agrees to downsize massive Utah data center",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-    "pubDate": "2026-06-04T18:38:04.000Z",
-    "author": "Emma Roth",
-    "content": "![Kevin O’Leary on a graphic green background with data center protestors.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nKevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid [mounting pressure from residents](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary) and activists, as [reported earlier by local affiliate ABC4](https://www.abc4.com/news/northern-utah/kevin-oleary-replies-president-adams-public-spread-misinformation-data-center/). The _Shark Tank_ star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\n\nThe change comes just days after Adams [called on O'Leary](https://www.theverge.com/ai-artificial-intelligence/942310/shrinking-kevin-olearys-mammoth-utah-data-center-project) to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)",
-    "contentSnippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, located in and around the Locomotive Springs Waterfowl Management Area.\nThe change comes just days after Adams called on O'Leary to slash the size of his Stratos Project data center by 75 percent, which would reduce it to about 10,000 acres. Adams also asked O'Leary to implement technology that minimizes water consum …\nRead the full story at The Verge.",
-    "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
-    "id": "https://www.theverge.com/?p=943234",
-    "isoDate": "2026-06-04T18:38:04.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "kevin-o-leary-agrees-to-downsize-massive-utah-data-center"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "new-york-lawmakers-pass-one-year-ban-on-new-data-centers"
   },
   {
     "title": "(No AI) How Endava is redesigning software delivery around AI agents",
@@ -112,6 +122,23 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Steven Levy",
+    "title": "(No AI) Has Microsoft Lost Its Mojo (Again)?",
+    "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "pubDate": "Fri, 05 Jun 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+    "contentSnippet": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+    "guid": "6a219ebce68273a70fc304fa",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-06-05T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "has-microsoft-lost-its-mojo-again"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
     "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
@@ -127,24 +154,5 @@
     "isoDate": "2026-06-05T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "openai-and-anthropic-may-be-rivals-but-investors-aren-t-picking-sides"
-  },
-  {
-    "creator": "Sophie Charara",
-    "title": "(No AI) Why Apple Might Put Cameras Into Its Next AirPods",
-    "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
-    "pubDate": "Fri, 05 Jun 2026 10:00:00 +0000",
-    "dc:creator": "Sophie Charara",
-    "content": "From battery life to privacy, there are many hurdles to the idea taking off.",
-    "contentSnippet": "From battery life to privacy, there are many hurdles to the idea taking off.",
-    "guid": "6a1f33e35f9c33fb9739237b",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Trends",
-      "Gear / Products / Headphones"
-    ],
-    "isoDate": "2026-06-05T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "why-apple-might-put-cameras-into-its-next-airpods"
   }
 ]
