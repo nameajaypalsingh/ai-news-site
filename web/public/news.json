@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "contentSnippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "guid": "https://techcrunch.com/?p=3130264",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Donald Trump",
+      "OpenAI",
+      "sam altman"
+    ],
+    "isoDate": "2026-06-06T16:17:21.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-trump-administration-might-take-an-equity-stake-in-openai"
+  },
+  {
     "creator": "TechCrunch Events",
     "title": "(No AI) Startup Battlefield 200 applications officially close in 3 days",
     "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
@@ -26,52 +46,32 @@
     "slug": "startup-battlefield-200-applications-officially-close-in-3-days"
   },
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "pubDate": "Fri, 05 Jun 2026 18:57:20 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "contentSnippet": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "guid": "https://techcrunch.com/?p=3130087",
-    "categories": [
-      "AI",
-      "AI compute",
-      "Alphabet",
-      "Google",
-      "SpaceX"
-    ],
-    "isoDate": "2026-06-05T18:57:20.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-will-pay-spacex-920m-per-month-for-compute"
+    "title": "(No AI) The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "pubDate": "2026-06-06T15:05:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Photo collage of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA proposed [$2 billion data center](https://www.therepublic.com/2026/04/10/shelbyville-common-council-advances-plans-for-2b-data-center-complex/) has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was [caught on camera](https://www.tiktok.com/@moreperfectunion/video/7647663715872967950?_r=1&_t=ZT-96yS8CT6EmL) saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\n\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chimes in to add something that a mayor shouldn't have to be told about their constituents: \"it doesn't matter whether they're rentals, they're still hu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center)",
+    "contentSnippet": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chimes in to add something that a mayor shouldn't have to be told about their constituents: \"it doesn't matter whether they're rentals, they're still hu …\nRead the full story at The Verge.",
+    "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but [&#8230;]",
+    "id": "https://www.theverge.com/?p=944984",
+    "isoDate": "2026-06-06T15:05:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-mayor-of-shelbyville-indiana-says-only-people-who-live-in-shitty-houses-oppose-data-center"
   },
   {
-    "title": "(No AI) Here comes new Siri again",
-    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-    "pubDate": "2026-06-06T12:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Image from WWDC 2024 keynote featuring new Siri.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOur first glimpse of the new AI Siri came all the way back at WWDC 2024.\n\nApple has been [on its back foot](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence), AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\n\nAt WWDC on Monday, Apple appears to be [getting ready to reintroduce us to the new Siri](https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg). Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is [settling a class-action lawsuit](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement) and has t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)",
-    "contentSnippet": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t\n\nApple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\nAt WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is settling a class-action lawsuit and has t …\nRead the full story at The Verge.",
-    "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
-    "id": "https://www.theverge.com/?p=944245",
-    "isoDate": "2026-06-06T12:00:00.000Z",
+    "title": "(No AI) Meta made its own AI-generated clickbait news feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "pubDate": "2026-06-06T14:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![AI-generated image of the royal family featuring two Queen Elizabeth IIs](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&strip=all&crop=0,0,100,100)\n\nAn AI-generated image of the royal family featuring two Queen Elizabeth IIs. | ﻿Image: Meta AI\n\nFacebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.\n\nThe standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works.\n\nThe Meta AI app first [launched](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android) in April 2025 with its focus on a public \"Discover\" feed that [showed](https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6) AI-generated images and conversations from other users (who frequently seemed unaware that they were being made public). That's all disappeared. The app now has a standard chatbot interface, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles)",
+    "contentSnippet": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | ﻿Image: Meta AI\t\n\nFacebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI.\nThe standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable as you'd expect from AI-created works.\nThe Meta AI app first launched in April 2025 with its focus on a public \"Discover\" feed that showed AI-generated images and conversations from other users (who frequently seemed unaware that they were being made public). That's all disappeared. The app now has a standard chatbot interface,  …\nRead the full story at The Verge.",
+    "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
+    "id": "https://www.theverge.com/?p=944235",
+    "isoDate": "2026-06-06T14:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "here-comes-new-siri-again"
-  },
-  {
-    "title": "(No AI) This is your laptop… on AI",
-    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-    "pubDate": "2026-06-05T16:39:07.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWe're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described [a completely new way of using our laptops](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan) - and a completely [new kind of laptop](https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026) made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from [Gemini S …](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)",
-    "contentSnippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops - and a completely new kind of laptop made to support it. It's all very interesting, but it raises the same question we have around so many AI products: Does anyone actually want this?\nOn this episode of The Vergecast, Nilay and David run through a lot of the products coming out of Microsoft Build and Google I/O, from Gemini S …\nRead the full story at The Verge.",
-    "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
-    "id": "https://www.theverge.com/?p=944058",
-    "isoDate": "2026-06-05T16:39:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "this-is-your-laptop-on-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-made-its-own-ai-generated-clickbait-news-feed"
   },
   {
     "title": "(No AI) How Endava is redesigning software delivery around AI agents",
