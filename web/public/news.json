@@ -46,6 +46,20 @@
     "slug": "google-will-pay-spacex-920m-per-month-for-compute"
   },
   {
+    "title": "(No AI) Here comes new Siri again",
+    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "pubDate": "2026-06-06T12:00:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Image from WWDC 2024 keynote featuring new Siri.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOur first glimpse of the new AI Siri came all the way back at WWDC 2024.\n\nApple has been [on its back foot](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence), AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\n\nAt WWDC on Monday, Apple appears to be [getting ready to reintroduce us to the new Siri](https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg). Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is [settling a class-action lawsuit](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement) and has t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)",
+    "contentSnippet": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t\n\nApple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move.\nAt WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in 2024 when Apple \"launched\" Apple Intelligence. Siri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT. The whole \"Intelligence\" bit of the Siri redesign was coming soon, Apple promised. It didn't. In fact, its promotion around Apple Intelligence was so misleading that the company is settling a class-action lawsuit and has t …\nRead the full story at The Verge.",
+    "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+    "id": "https://www.theverge.com/?p=944245",
+    "isoDate": "2026-06-06T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-comes-new-siri-again"
+  },
+  {
     "title": "(No AI) This is your laptop… on AI",
     "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
     "pubDate": "2026-06-05T16:39:07.000Z",
@@ -58,20 +72,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "this-is-your-laptop-on-ai"
-  },
-  {
-    "title": "(No AI) New York lawmakers pass one-year ban on new data centers",
-    "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-    "pubDate": "2026-06-05T15:25:10.000Z",
-    "author": "Lauren Feiner",
-    "content": "![Photo collage of a server room with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe New York State legislature [passed](https://www.nysenate.gov/legislation/bills/2025/S10642) a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\n\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/944041/new-york-data-center-moratorium)",
-    "contentSnippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. It directs the state's environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create. It also requires companies planning to build large data centers - defined as having a peak demand of at least 20 megawatts - to hold and fun …\nRead the full story at The Verge.",
-    "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
-    "id": "https://www.theverge.com/?p=944041",
-    "isoDate": "2026-06-05T15:25:10.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "new-york-lawmakers-pass-one-year-ban-on-new-data-centers"
   },
   {
     "title": "(No AI) How Endava is redesigning software delivery around AI agents",
@@ -121,6 +121,26 @@
     "slug": "fast-tracking-genetic-leads-to-reverse-cellular-aging"
   },
   {
+    "creator": "Andy Greenberg, Dell Cameron, Dhruv Mehrotra, Maddy Varner",
+    "title": "(No AI) Crypto-Funded Chinese Peptide Labs Are Booming",
+    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+    "pubDate": "Sat, 06 Jun 2026 10:30:00 +0000",
+    "dc:creator": "Andy Greenberg, Dell Cameron, Dhruv Mehrotra, Maddy Varner",
+    "content": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+    "contentSnippet": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+    "guid": "6a22cc27b915788fd5f61da5",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-06-06T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "crypto-funded-chinese-peptide-labs-are-booming"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) Has Microsoft Lost Its Mojo (Again)?",
     "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
@@ -136,22 +156,5 @@
     "isoDate": "2026-06-05T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "has-microsoft-lost-its-mojo-again"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-    "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-    "pubDate": "Fri, 05 Jun 2026 10:30:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-    "contentSnippet": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-    "guid": "6a1f0c2a17089511ccc0b20c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-05T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "openai-and-anthropic-may-be-rivals-but-investors-aren-t-picking-sides"
   }
 ]
