@@ -1,49 +1,44 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) The Trump administration might take an equity stake in OpenAI",
-    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+    "title": "(No AI) OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "contentSnippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "guid": "https://techcrunch.com/?p=3130264",
+    "content": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "contentSnippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "guid": "https://techcrunch.com/?p=3130273",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Donald Trump",
-      "OpenAI",
-      "sam altman"
+      "Security",
+      "OpenAI"
     ],
-    "isoDate": "2026-06-06T16:17:21.000Z",
+    "isoDate": "2026-06-06T20:32:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-trump-administration-might-take-an-equity-stake-in-openai"
+    "slug": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Startup Battlefield 200 applications officially close in 3 days",
-    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "pubDate": "Fri, 05 Jun 2026 20:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "contentSnippet": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "guid": "https://techcrunch.com/?p=3130115",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Apple's WWDC nears: Here's what you can look forward to.",
+    "contentSnippet": "Apple's WWDC nears: Here's what you can look forward to.",
+    "guid": "https://techcrunch.com/?p=3129597",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Climate",
-      "Fintech",
-      "Fundraising",
-      "Media & Entertainment",
-      "Robotics",
-      "Startups",
-      "TC",
-      "Startup Battlefield",
-      "TechCrunch Disrupt 2026"
+      "Apps",
+      "Hardware",
+      "Apple",
+      "Apple Intelligence",
+      "siri",
+      "wwdc",
+      "WWDC 2026"
     ],
-    "isoDate": "2026-06-05T20:00:00.000Z",
+    "isoDate": "2026-06-06T18:13:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "startup-battlefield-200-applications-officially-close-in-3-days"
+    "slug": "what-to-expect-from-wwdc-2026-siri-s-highly-anticipated-revamp-and-apple-intelligence-updates"
   },
   {
     "title": "(No AI) The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
