@@ -1,51 +1,43 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Following Anthropic, OpenAI files confidentially for IPO",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "contentSnippet": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "guid": "https://techcrunch.com/?p=3129100",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-06-08T21:29:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "following-anthropic-openai-files-confidentially-for-ipo"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Apple plays catch-up at WWDC",
-    "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-    "pubDate": "Mon, 08 Jun 2026 21:15:42 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-    "contentSnippet": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-    "guid": "https://techcrunch.com/?p=3130496",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "pubDate": "Tue, 09 Jun 2026 01:56:48 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "contentSnippet": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "guid": "https://techcrunch.com/?p=3130646",
     "categories": [
       "AI",
-      "Apps",
-      "TC"
+      "Apple",
+      "iPhone",
+      "siri ai",
+      "WWDC 2026"
     ],
-    "isoDate": "2026-06-08T21:15:42.000Z",
+    "isoDate": "2026-06-09T01:56:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-plays-catch-up-at-wwdc"
+    "slug": "why-apple-s-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart"
   },
   {
-    "title": "(No AI) OpenAI files for IPO, following Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-    "pubDate": "2026-06-08T21:38:29.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following [Anthropic's decision to do the same](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public) on June 1st.\n\nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more financials - aren't yet public.\n\nAs of Anthropic's most recent fundraise, it's [being called](https://www.morningstar.com/stocks/anthropic-bests-openai-valuation-race-hitting-965b) the world's most valuable startup, with a post-money valu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential)",
-    "contentSnippet": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. \nThe confidential filing means that certain details normally available through the form - such as executive compensation figures, potential risks to a company's business, and more financials - aren't yet public. \nAs of Anthropic's most recent fundraise, it's being called the world's most valuable startup, with a post-money valu …\nRead the full story at The Verge.",
-    "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. [&#8230;]",
-    "id": "https://www.theverge.com/?p=946335",
-    "isoDate": "2026-06-08T21:38:29.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-files-for-ipo-following-anthropic"
+    "creator": "Marina Temkin",
+    "title": "(No AI) Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "pubDate": "Tue, 09 Jun 2026 00:45:56 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "contentSnippet": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "guid": "https://techcrunch.com/?p=3130954",
+    "categories": [
+      "AI",
+      "Venture",
+      "Mercor",
+      "Sequoia Partners",
+      "Valuations"
+    ],
+    "isoDate": "2026-06-09T00:45:56.000Z",
+    "source": "TechCrunch AI",
+    "slug": "mercor-s-brendan-foody-calls-out-sequoia-accusing-it-of-dual-pricing-valuation-tricks"
   },
   {
     "title": "(No AI) Amazon is launching AI-generated custom merch",
@@ -62,11 +54,25 @@
     "slug": "amazon-is-launching-ai-generated-custom-merch"
   },
   {
+    "title": "(No AI) Apple announces Siri AI and its next generation of Apple Intelligence",
+    "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "pubDate": "2026-06-08T17:34:24.000Z",
+    "author": "Dominic Preston",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTwo years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri.\n\nApple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent.\n\nSiri AI will be accessible systemwide, capable of reading what's on-screen and interacting with your apps. But Apple's SVP of software engineering Craig Federighi said it …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc)",
+    "contentSnippet": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri.\nApple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than the previous version of the smart assistant. In conversations, it has a more expressive voice that can be customized by pace, expressivity, and accent. \nSiri AI will be accessible systemwide, capable of reading what's on-screen and interacting with your apps. But Apple's SVP of software engineering Craig Federighi said it  …\nRead the full story at The Verge.",
+    "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than [&#8230;]",
+    "id": "https://www.theverge.com/?p=942416",
+    "isoDate": "2026-06-08T17:34:24.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-announces-siri-ai-and-its-next-generation-of-apple-intelligence"
+  },
+  {
     "title": "(No AI) Confidential submission of draft S-1 to the SEC",
     "link": "https://openai.com/index/openai-submits-confidential-s-1",
     "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
-    "content": "OpenAI recently submitted a confidential S-1 to the SEC and has not decided on timing.",
-    "contentSnippet": "OpenAI recently submitted a confidential S-1 to the SEC and has not decided on timing.",
+    "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "contentSnippet": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
     "guid": "https://openai.com/index/openai-submits-confidential-s-1",
     "categories": [
       "Company"
@@ -117,8 +123,8 @@
     "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
     "pubDate": "Mon, 08 Jun 2026 21:31:58 +0000",
     "dc:creator": "Paresh Dave, Maxwell Zeff",
-    "content": "The ChatGPT maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-    "contentSnippet": "The ChatGPT maker announced it has  filed paperwork to go public, just a week after rival Anthropic took the same step.",
+    "content": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+    "contentSnippet": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
     "guid": "6a0f4123270531d462da761b",
     "categories": [
       "Business",
