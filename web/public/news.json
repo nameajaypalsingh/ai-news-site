@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "contentSnippet": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "guid": "https://techcrunch.com/?p=3131872",
+    "categories": [
+      "AI",
+      "Amazon",
+      "citigroup",
+      "In Brief"
+    ],
+    "isoDate": "2026-06-10T20:19:31.000Z",
+    "source": "TechCrunch AI",
+    "slug": "fresh-off-bond-sale-amazon-borrows-17-5b-from-banks-as-ai-spending-continues"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) ‘AI-pilled’ firms spend $7,500 per employee each month on AI",
     "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
@@ -19,22 +38,18 @@
     "slug": "ai-pilled-firms-spend-7-500-per-employee-each-month-on-ai"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) How memory tools can make AI models worse",
-    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "pubDate": "Wed, 10 Jun 2026 16:11:08 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-    "contentSnippet": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-    "guid": "https://techcrunch.com/?p=3131757",
-    "categories": [
-      "AI",
-      "TC",
-      "writer"
-    ],
-    "isoDate": "2026-06-10T16:11:08.000Z",
-    "source": "TechCrunch AI",
-    "slug": "how-memory-tools-can-make-ai-models-worse"
+    "title": "(No AI) Claude Fable won’t answer basic biology questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "pubDate": "2026-06-10T18:43:34.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic just [released Claude Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos), calling it the most powerful AI model it has ever made widely available and [praising](https://www.anthropic.com/news/claude-fable-5-mythos-5) its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to [the former flagship model](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort), Claude Opus 4.8.\n\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\n\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was [too dangerous to release publicly](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation). But while Anthropic has spent much of the [extended Mythos rol …](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)",
+    "contentSnippet": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8.\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was too dangerous to release publicly. But while Anthropic has spent much of the extended Mythos rol …\nRead the full story at The Verge.",
+    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+    "id": "https://www.theverge.com/?p=947973",
+    "isoDate": "2026-06-10T18:43:34.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "claude-fable-won-t-answer-basic-biology-questions"
   },
   {
     "title": "(No AI) Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
@@ -51,18 +66,18 @@
     "slug": "microsoft-like-totally-gets-why-students-are-booing-ai-pilled-graduation-speakers"
   },
   {
-    "title": "(No AI) The future of AI regulation is courting the strangest, most anxious bedfellows",
-    "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-    "pubDate": "2026-06-10T17:38:00.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n(L-R) Sen. Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Sen. Mark Warner, Michael Kelly and Major General Patrick Ellis attend the Second Annual AI Honors. | Getty Images for Washington AI N\n\n_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber,_ [_you can get on board here_](https://www.theverge.com/subscribe)_.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip to the Heineken Experience, which is, truly, an_ [_~experience~_](https://www.youtube.com/watch?v=vYNgfwu1TPc)_._\n\n_Before I left, I asked everyone in Washington to please chill out while I was gone. This clearly did not happen, and I have returned to a political landscape that can be best described as that_ [_meme from_ Community _where the room is on fire_](https://giphy.com/clips/erichamlet-LbUjyI9ye230n0mnSG)_. Let's get into th …_\n\n[Read the full story at The Verge.](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)",
-    "contentSnippet": "(L-R) Sen. Mike Rounds, Pamela Brown, Chris Malachowsky, Kevin O'Leary, Gabriele Caccia, Tammy Haddad, Michele L. Jawando, Sen. Mark Warner, Michael Kelly and Major General Patrick Ellis attend the Second Annual AI Honors. | Getty Images for Washington AI N\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip to the Heineken Experience, which is, truly, an ~experience~.\nBefore I left, I asked everyone in Washington to please chill out while I was gone. This clearly did not happen, and I have returned to a political landscape that can be best described as that meme from Community where the room is on fire. Let's get into th …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
-    "id": "https://www.theverge.com/?p=947838",
-    "isoDate": "2026-06-10T17:38:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-future-of-ai-regulation-is-courting-the-strangest-most-anxious-bedfellows"
+    "title": "(No AI) PRC-linked influence operations are targeting AI debates in the US",
+    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+    "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "contentSnippet": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "guid": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-06-10T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "prc-linked-influence-operations-are-targeting-ai-debates-in-the-us"
   },
   {
     "title": "(No AI) From data to decisions: how LSEG is scaling trusted AI",
@@ -74,17 +89,6 @@
     "isoDate": "2026-06-10T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "from-data-to-decisions-how-lseg-is-scaling-trusted-ai"
-  },
-  {
-    "title": "(No AI) How engineers at Nextdoor use Codex to build without limits",
-    "link": "https://openai.com/index/nextdoor",
-    "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
-    "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-    "contentSnippet": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-    "guid": "https://openai.com/index/nextdoor",
-    "isoDate": "2026-06-09T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-engineers-at-nextdoor-use-codex-to-build-without-limits"
   },
   {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
