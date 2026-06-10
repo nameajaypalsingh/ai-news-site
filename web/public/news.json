@@ -1,42 +1,58 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Hey Siri, here’s what I actually want from AI",
-    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "pubDate": "Tue, 09 Jun 2026 20:50:17 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-    "contentSnippet": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-    "guid": "https://techcrunch.com/?p=3130823",
+    "creator": "Lucas Ropek, Connie Loizos",
+    "title": "(No AI) Google just fired a warning shot in the AI subscription price wars",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "pubDate": "Wed, 10 Jun 2026 00:26:10 +0000",
+    "dc:creator": "Lucas Ropek, Connie Loizos",
+    "content": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+    "contentSnippet": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+    "guid": "https://techcrunch.com/?p=3131438",
     "categories": [
       "AI",
-      "Apple",
-      "siri",
-      "WWDC 2026"
+      "google ai",
+      "Google AI Plus"
     ],
-    "isoDate": "2026-06-09T20:50:17.000Z",
+    "isoDate": "2026-06-10T00:26:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "hey-siri-here-s-what-i-actually-want-from-ai"
+    "slug": "google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "pubDate": "Tue, 09 Jun 2026 20:37:49 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-    "contentSnippet": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-    "guid": "https://techcrunch.com/?p=3131281",
+    "creator": "Marina Temkin",
+    "title": "(No AI) How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "pubDate": "Tue, 09 Jun 2026 23:17:51 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "contentSnippet": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "guid": "https://techcrunch.com/?p=3131312",
     "categories": [
       "AI",
+      "Fundraising",
+      "Venture",
+      "anduril",
       "Anthropic",
-      "Claude",
-      "Fable 5",
-      "Mythos"
+      "playground global",
+      "SpaceX",
+      "SPV"
     ],
-    "isoDate": "2026-06-09T20:37:49.000Z",
+    "isoDate": "2026-06-09T23:17:51.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button"
+    "slug": "how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund"
+  },
+  {
+    "title": "(No AI) I tried Siri AI, and so far it actually works",
+    "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+    "pubDate": "2026-06-09T23:43:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Photo of new Siri icon on iPhone](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSiri, are you there?﻿\n\nParents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer [onto their calendar in one shot](https://www.theverge.com/tech/696885/ios-26-visual-intelligence-calendar-screenshot-gemini-assistant). And I have good news for parents with iPhones - the new Siri can finally do this.\n\nAfter [stumbling through its first launch](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini) of an AI-imbued Siri, Apple is trying again. [The newly upgraded Siri AI](https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc) can chat with you about what might be killing the roses in your yard, put together a shopping list for the hardware store, and set a reminder to lay down some compost in that flower bed. It can reference information in your email and calendar to make its recommenda …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)",
+    "contentSnippet": "Siri, are you there?﻿\t\n\nParents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this.\nAfter stumbling through its first launch of an AI-imbued Siri, Apple is trying again. The newly upgraded Siri AI can chat with you about what might be killing the roses in your yard, put together a shopping list for the hardware store, and set a reminder to lay down some compost in that flower bed. It can reference information in your email and calendar to make its recommenda …\nRead the full story at The Verge.",
+    "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
+    "id": "https://www.theverge.com/?p=947432",
+    "isoDate": "2026-06-09T23:43:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "i-tried-siri-ai-and-so-far-it-actually-works"
   },
   {
     "title": "(No AI) GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
@@ -53,20 +69,6 @@
     "slug": "gm-thinks-evs-can-help-offset-ai-s-energy-suck-with-vehicle-to-grid-tech"
   },
   {
-    "title": "(No AI) Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-    "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-    "pubDate": "2026-06-09T20:24:25.000Z",
-    "author": "Emma Roth",
-    "content": "![A photo of Mustafa Suleyman](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness [inside its \"constitution,\"](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc) or the instructions that tell the model how to behave. During [an episode of _Decoder_](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation), Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious:\n\n> I think that it's almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded them and kind of tricked them into believing that it has these glimmers of consciousness that they put into it in the first place.\n\n> [\n> \n> View …\n> \n> \n> \n> ](https://www.instagram.com/reel/DZXp12HDXdN/?utm_source=ig_embed&utm_campaign=loading)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)",
-    "contentSnippet": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious:\nI think that it's almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded them and kind of tricked them into believing that it has these glimmers of consciousness that they put into it in the first place.\n\n\n  \n \n  \n \n\n\n \n\n View …\n\n\n\nRead the full story at The Verge.",
-    "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
-    "id": "https://www.theverge.com/?p=947197",
-    "isoDate": "2026-06-09T20:24:25.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-ai-head-calls-out-anthropic-for-acting-like-claude-is-conscious"
-  },
-  {
     "title": "(No AI) How engineers at Nextdoor use Codex to build without limits",
     "link": "https://openai.com/index/nextdoor",
     "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
@@ -78,18 +80,15 @@
     "slug": "how-engineers-at-nextdoor-use-codex-to-build-without-limits"
   },
   {
-    "title": "(No AI) Confidential submission of draft S-1 to the SEC",
-    "link": "https://openai.com/index/openai-submits-confidential-s-1",
-    "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
-    "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-    "contentSnippet": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-    "guid": "https://openai.com/index/openai-submits-confidential-s-1",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-06-08T14:00:00.000Z",
+    "title": "(No AI) What Codex unlocks for Notion",
+    "link": "https://openai.com/index/notion",
+    "pubDate": "Tue, 09 Jun 2026 10:00:00 GMT",
+    "content": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "contentSnippet": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "guid": "https://openai.com/index/notion",
+    "isoDate": "2026-06-09T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "confidential-submission-of-draft-s-1-to-the-sec"
+    "slug": "what-codex-unlocks-for-notion"
   },
   {
     "title": "(No AI) Fluid, natural voice translation with Gemini 3.5 Live Translate",
