@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The decision comes as India emerges as the world’s largest GCC market.",
+    "contentSnippet": "The decision comes as India emerges as the world’s largest GCC market.",
+    "guid": "https://techcrunch.com/?p=3132032",
+    "categories": [
+      "AI",
+      "Startups",
+      "OpenDoor"
+    ],
+    "isoDate": "2026-06-11T04:02:19.000Z",
+    "source": "TechCrunch AI",
+    "slug": "opendoor-s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) Anthropic’s Dario Amodei has just one direct report",
     "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
@@ -18,25 +36,18 @@
     "slug": "anthropic-s-dario-amodei-has-just-one-direct-report"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "pubDate": "Wed, 10 Jun 2026 22:31:19 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "contentSnippet": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "guid": "https://techcrunch.com/?p=3131988",
-    "categories": [
-      "AI",
-      "ai safety",
-      "devin kim",
-      "Grok",
-      "SpaceX",
-      "xAI"
-    ],
-    "isoDate": "2026-06-10T22:31:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims"
+    "title": "(No AI) Deezer launches an AI music detector for other streaming services",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "pubDate": "2026-06-11T08:00:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Deezer logo and tag line “live the music” on a black background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nDeezer will now [scan your playlists](https://www.deezer.com/explore/en-us/ai-music-detector/) on other streaming platforms to detect AI-generated music. Deezer was the [first](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify) of the big streaming services to start [labeling AI-generated music](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing). It even [offered its tech](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available) to other platforms, but it doesn't seem like it had many buyers. [Qobuz](https://www.theverge.com/entertainment/885486/qobuz-detecting-tagging-ai-music) launched its own detection tech, while [Apple](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch) and [Spotify](https://www.theverge.com/tech/921048/verified-by-spotify-badge) have opted for a voluntary tagging system.\n\n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple)",
+    "contentSnippet": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\nRead the full story at The Verge.",
+    "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
+    "id": "https://www.theverge.com/?p=948153",
+    "isoDate": "2026-06-11T08:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "deezer-launches-an-ai-music-detector-for-other-streaming-services"
   },
   {
     "title": "(No AI) Claude Fable won’t answer basic biology questions",
@@ -53,20 +64,6 @@
     "slug": "claude-fable-won-t-answer-basic-biology-questions"
   },
   {
-    "title": "(No AI) Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-    "pubDate": "2026-06-10T17:45:11.000Z",
-    "author": "Mia Sato",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNew college graduates around the country have been [booing and heckling commencement speakers who hype up AI](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos). Microsoft would like everyone to talk it out.\n\nIn [a blog post](https://blogs.microsoft.com/on-the-issues/2026/06/10/ai-jobs-and-the-next-generation/) running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO Eric Schmidt [getting an earful at the University of Arizona](https://www.youtube.com/watch?v=tNH43a1EI7s), or the speaker in Florida who [seemed surprised](https://www.youtube.com/shorts/ZCNgENc_0N0) when students booed at the mention of AI as \"the next industrial revolution.\" The videos speak to a broader societal sentiment around AI - the technology [is deeply unpopular](https://www.theverge.com/ai-artificial-intelligence/891724/nbc-news-march-2026-poll-ai-ice) even as technology compani …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)",
-    "contentSnippet": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out.\nIn a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO Eric Schmidt getting an earful at the University of Arizona, or the speaker in Florida who seemed surprised when students booed at the mention of AI as \"the next industrial revolution.\" The videos speak to a broader societal sentiment around AI - the technology is deeply unpopular even as technology compani …\nRead the full story at The Verge.",
-    "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
-    "id": "https://www.theverge.com/?p=947831",
-    "isoDate": "2026-06-10T17:45:11.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-like-totally-gets-why-students-are-booing-ai-pilled-graduation-speakers"
-  },
-  {
     "title": "(No AI) How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -81,18 +78,18 @@
     "slug": "how-an-astrophysicist-uses-codex-to-help-simulate-black-holes"
   },
   {
-    "title": "(No AI) Access OpenAI models and Codex through your Oracle cloud commitment",
-    "link": "https://openai.com/index/openai-on-oracle-cloud",
-    "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
-    "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "contentSnippet": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "guid": "https://openai.com/index/openai-on-oracle-cloud",
+    "title": "(No AI) Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "contentSnippet": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "guid": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "categories": [
-      "Company"
+      "Global Affairs"
     ],
-    "isoDate": "2026-06-10T20:00:00.000Z",
+    "isoDate": "2026-06-11T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "access-openai-models-and-codex-through-your-oracle-cloud-commitment"
+    "slug": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem"
   },
   {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
