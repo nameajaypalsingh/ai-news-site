@@ -1,43 +1,58 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Pool’s new app turns your screenshots into something useful",
-    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-    "pubDate": "Thu, 11 Jun 2026 15:30:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-    "contentSnippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-    "guid": "https://techcrunch.com/?p=3131809",
+    "creator": "Tim Fernholz, Marina Temkin",
+    "title": "(No AI) SpaceX officially prices shares at $135 in the largest IPO ever",
+    "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "pubDate": "Thu, 11 Jun 2026 20:33:10 +0000",
+    "dc:creator": "Tim Fernholz, Marina Temkin",
+    "content": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+    "contentSnippet": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+    "guid": "https://techcrunch.com/?p=3132274",
     "categories": [
-      "TC",
       "AI",
-      "Apps",
-      "pool",
-      "ai apps",
-      "consumer AI"
+      "Space",
+      "Elon Musk",
+      "SpaceX",
+      "spacex ipo"
     ],
-    "isoDate": "2026-06-11T15:30:00.000Z",
+    "isoDate": "2026-06-11T20:33:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "pool-s-new-app-turns-your-screenshots-into-something-useful"
+    "slug": "spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "pubDate": "Thu, 11 Jun 2026 14:23:43 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-    "contentSnippet": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-    "guid": "https://techcrunch.com/?p=3132127",
+    "creator": "Marina Temkin",
+    "title": "(No AI) SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "pubDate": "Thu, 11 Jun 2026 19:58:01 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+    "contentSnippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+    "guid": "https://techcrunch.com/?p=3132124",
     "categories": [
       "AI",
-      "Apps",
-      "AI chatbot",
-      "DoorDash"
+      "Space",
+      "IPO",
+      "secondary shares",
+      "SpaceX",
+      "SPV"
     ],
-    "isoDate": "2026-06-11T14:23:43.000Z",
+    "isoDate": "2026-06-11T19:58:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "doordash-s-new-ai-chatbot-lets-you-order-with-prompts-and-photos"
+    "slug": "spacex-spv-investors-won-t-know-their-true-holdings-until-post-ipo-lock-ups-lift"
+  },
+  {
+    "title": "(No AI) Amazon’s data centers used 2.5 billion gallons of water last year",
+    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+    "pubDate": "2026-06-11T17:26:57.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust after Seattle enacted a one-year [data center moratorium](https://www.theverge.com/ai-artificial-intelligence/948031/seattle-officially-enacted-an-emergency-one-year-moratorium-on-new-data-centers) that some of Amazon's own employees pushed for, Amazon [shared](https://www.aboutamazon.com/news/sustainability/amazon-data-center-water-usage) how much water its data centers use, [reportedly](https://www.latitudemedia.com/news/amazon-finally-reports-its-annual-water-use-at-data-centers/) for the first time. With concerns about [water consumption and energy use](https://www.theverge.com/news/845831/ai-chips-data-center-power-water) a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as it expanded operations.\n\nAmazon also claims it's using water more efficiently than some Big Tech rivals - this graphic in Amazon's report points to M …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)",
+    "contentSnippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by two percent from its 2024 total even as it expanded operations. \nAmazon also claims it's using water more efficiently than some Big Tech rivals - this graphic in Amazon's report points to M …\nRead the full story at The Verge.",
+    "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
+    "id": "https://www.theverge.com/?p=948534",
+    "isoDate": "2026-06-11T17:26:57.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amazon-s-data-centers-used-2-5-billion-gallons-of-water-last-year"
   },
   {
     "title": "(No AI) Anthropic apologizes for invisible Claude Fable guardrails",
@@ -54,18 +69,18 @@
     "slug": "anthropic-apologizes-for-invisible-claude-fable-guardrails"
   },
   {
-    "title": "(No AI) Deezer launches an AI music detector for other streaming services",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-    "pubDate": "2026-06-11T08:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Deezer logo and tag line “live the music” on a black background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nDeezer will now [scan your playlists](https://www.deezer.com/explore/en-us/ai-music-detector/) on other streaming platforms to detect AI-generated music. Deezer was the [first](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify) of the big streaming services to start [labeling AI-generated music](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing). It even [offered its tech](https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available) to other platforms, but it doesn't seem like it had many buyers. [Qobuz](https://www.theverge.com/entertainment/885486/qobuz-detecting-tagging-ai-music) launched its own detection tech, while [Apple](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch) and [Spotify](https://www.theverge.com/tech/921048/verified-by-spotify-badge) have opted for a voluntary tagging system.\n\n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple)",
-    "contentSnippet": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify have opted for a voluntary tagging system. \n\"No other company has followed our lead yet, so we decided to make it possible for everyone to check if their playlists include synthetic music, no matter which streaming platform they use,\" Deezer CEO Alexis Lanternier said in a press release. So, since nobody is ta …\nRead the full story at The Verge.",
-    "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
-    "id": "https://www.theverge.com/?p=948153",
-    "isoDate": "2026-06-11T08:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "deezer-launches-an-ai-music-detector-for-other-streaming-services"
+    "title": "(No AI) OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "contentSnippet": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "guid": "https://openai.com/index/openai-to-acquire-ona",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-06-11T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-to-acquire-ona"
   },
   {
     "title": "(No AI) Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
@@ -80,20 +95,6 @@
     "isoDate": "2026-06-11T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem"
-  },
-  {
-    "title": "(No AI) How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "contentSnippet": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "guid": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-06-11T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-an-astrophysicist-uses-codex-to-help-simulate-black-holes"
   },
   {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
@@ -119,37 +120,39 @@
   },
   {
     "creator": "Maxwell Zeff",
-    "title": "(No AI) Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-    "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-    "pubDate": "Thu, 11 Jun 2026 03:11:22 +0000",
+    "title": "(No AI) Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+    "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "pubDate": "Thu, 11 Jun 2026 21:21:04 +0000",
     "dc:creator": "Maxwell Zeff",
-    "content": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-    "contentSnippet": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-    "guid": "6a2a08f154bb7ed626c0a043",
+    "content": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+    "contentSnippet": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+    "guid": "6a26e1dce083d018dff70bb1",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-11T03:11:22.000Z",
+    "isoDate": "2026-06-11T21:21:04.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-walks-back-policy-that-could-have-sabotaged-ai-researchers-using-claude"
+    "slug": "meet-the-openai-engineer-leading-chatgpt-s-biggest-transformation-yet"
   },
   {
-    "creator": "Dell Cameron",
-    "title": "(No AI) Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
-    "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
-    "pubDate": "Wed, 10 Jun 2026 14:00:00 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
-    "contentSnippet": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
-    "guid": "6a29601a2286375b80444c6d",
+    "creator": "Matt Burgess",
+    "title": "(No AI) Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+    "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+    "pubDate": "Thu, 11 Jun 2026 19:41:01 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+    "contentSnippet": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+    "guid": "6a2ac0383472ef5ff1e6988f",
     "categories": [
       "Security",
       "Security / Privacy",
-      "Security / Security News"
+      "Security / Security News",
+      "Business / Artificial Intelligence",
+      "Business / Social Media"
     ],
-    "isoDate": "2026-06-10T14:00:00.000Z",
+    "isoDate": "2026-06-11T19:41:01.000Z",
     "source": "Wired AI",
-    "slug": "wrongful-arrest-exposes-failures-in-one-of-the-oldest-police-face-recognition-tools-in-the-us"
+    "slug": "grok-is-still-hosting-sexualized-deepfakes-of-famous-women"
   }
 ]
