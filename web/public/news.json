@@ -1,39 +1,57 @@
 [
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The decision comes as India emerges as the world’s largest GCC market.",
-    "contentSnippet": "The decision comes as India emerges as the world’s largest GCC market.",
-    "guid": "https://techcrunch.com/?p=3132032",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Pool’s new app turns your screenshots into something useful",
+    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "pubDate": "Thu, 11 Jun 2026 15:30:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+    "contentSnippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+    "guid": "https://techcrunch.com/?p=3131809",
     "categories": [
+      "TC",
       "AI",
-      "Startups",
-      "OpenDoor"
+      "Apps",
+      "pool",
+      "ai apps",
+      "consumer AI"
     ],
-    "isoDate": "2026-06-11T04:02:19.000Z",
+    "isoDate": "2026-06-11T15:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "opendoor-s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing"
+    "slug": "pool-s-new-app-turns-your-screenshots-into-something-useful"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Anthropic’s Dario Amodei has just one direct report",
-    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "If you doubted his genius, doubt no more.",
-    "contentSnippet": "If you doubted his genius, doubt no more.",
-    "guid": "https://techcrunch.com/?p=3132054",
+    "creator": "Aisha Malik",
+    "title": "(No AI) DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "pubDate": "Thu, 11 Jun 2026 14:23:43 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "contentSnippet": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "guid": "https://techcrunch.com/?p=3132127",
     "categories": [
       "AI",
-      "Anthropic",
-      "dario amodei"
+      "Apps",
+      "AI chatbot",
+      "DoorDash"
     ],
-    "isoDate": "2026-06-11T03:53:06.000Z",
+    "isoDate": "2026-06-11T14:23:43.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-dario-amodei-has-just-one-direct-report"
+    "slug": "doordash-s-new-ai-chatbot-lets-you-order-with-prompts-and-photos"
+  },
+  {
+    "title": "(No AI) Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "pubDate": "2026-06-11T11:40:43.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has apologized for stealthily throttling its [new AI model, Claude Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos), with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries.\n\nFable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are [too dangerous for public release](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation). Anthropic says it has addressed some of those risks by launching Fable with safeguards that prevent it from responding to certain \"high-r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)",
+    "contentSnippet": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries.\nFable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for public release. Anthropic says it has addressed some of those risks by launching Fable with safeguards that prevent it from responding to certain \"high-r …\nRead the full story at The Verge.",
+    "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+    "id": "https://www.theverge.com/?p=948280",
+    "isoDate": "2026-06-11T11:40:43.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-apologizes-for-invisible-claude-fable-guardrails"
   },
   {
     "title": "(No AI) Deezer launches an AI music detector for other streaming services",
@@ -50,18 +68,18 @@
     "slug": "deezer-launches-an-ai-music-detector-for-other-streaming-services"
   },
   {
-    "title": "(No AI) Claude Fable won’t answer basic biology questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "pubDate": "2026-06-10T18:43:34.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic just [released Claude Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos), calling it the most powerful AI model it has ever made widely available and [praising](https://www.anthropic.com/news/claude-fable-5-mythos-5) its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to [the former flagship model](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort), Claude Opus 4.8.\n\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\n\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was [too dangerous to release publicly](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation). But while Anthropic has spent much of the [extended Mythos rol …](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)",
-    "contentSnippet": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship model, Claude Opus 4.8.\nIt isn't because Fable doesn't know the answers. It's because Anthropic won't let it, by design.\nFable is a public-facing, Mythos-class model, a family so capable at cybersecurity tasks Anthropic said it was too dangerous to release publicly. But while Anthropic has spent much of the extended Mythos rol …\nRead the full story at The Verge.",
-    "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
-    "id": "https://www.theverge.com/?p=947973",
-    "isoDate": "2026-06-10T18:43:34.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-fable-won-t-answer-basic-biology-questions"
+    "title": "(No AI) Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "contentSnippet": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "guid": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-06-11T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem"
   },
   {
     "title": "(No AI) How an astrophysicist uses Codex to help simulate black holes",
@@ -78,20 +96,6 @@
     "slug": "how-an-astrophysicist-uses-codex-to-help-simulate-black-holes"
   },
   {
-    "title": "(No AI) Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "contentSnippet": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "guid": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-06-11T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem"
-  },
-  {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
     "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
     "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
@@ -103,15 +107,15 @@
     "slug": "diffusiongemma-4x-faster-text-generation"
   },
   {
-    "title": "(No AI) Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "pubDate": "Tue, 09 Jun 2026 15:16:25 +0000",
-    "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-    "contentSnippet": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-    "guid": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "isoDate": "2026-06-09T15:16:25.000Z",
+    "title": "(No AI) Investing in multi-agent AI safety research",
+    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
+    "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "contentSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "guid": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "isoDate": "2026-06-10T10:21:19.000Z",
     "source": "Google DeepMind",
-    "slug": "fluid-natural-voice-translation-with-gemini-3-5-live-translate"
+    "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
     "creator": "Maxwell Zeff",
