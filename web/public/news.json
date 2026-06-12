@@ -1,9 +1,32 @@
 [
   {
+    "creator": "Lorenzo Franceschi-Bicchierai",
+    "title": "(No AI) Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
+    "dc:creator": "Lorenzo Franceschi-Bicchierai",
+    "content": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "contentSnippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "guid": "https://techcrunch.com/?p=3132480",
+    "categories": [
+      "AI",
+      "Security",
+      "Android",
+      "cybercrime",
+      "cybersecurity",
+      "Google",
+      "In Brief",
+      "scams"
+    ],
+    "isoDate": "2026-06-12T20:38:09.000Z",
+    "source": "TechCrunch AI",
+    "slug": "chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google"
+  },
+  {
     "creator": "Kirsten Korosec, Russell Brandom",
-    "title": "(No AI) SpaceX IPO: Everything you need to know",
-    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-    "pubDate": "Fri, 12 Jun 2026 17:41:21 +0000",
+    "title": "(No AI) SpaceX IPO: Live updates on everything you need to know",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "pubDate": "Fri, 12 Jun 2026 20:04:38 +0000",
     "dc:creator": "Kirsten Korosec, Russell Brandom",
     "content": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
     "contentSnippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
@@ -17,28 +40,9 @@
       "SpaceX",
       "spacex ipo"
     ],
-    "isoDate": "2026-06-12T17:41:21.000Z",
+    "isoDate": "2026-06-12T20:04:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "spacex-ipo-everything-you-need-to-know"
-  },
-  {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Mistral is rumored to be raising €3B at €20B valuation",
-    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-    "contentSnippet": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-    "guid": "https://techcrunch.com/?p=3132412",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "In Brief",
-      "Mistral AI"
-    ],
-    "isoDate": "2026-06-12T17:38:11.000Z",
-    "source": "TechCrunch AI",
-    "slug": "mistral-is-rumored-to-be-raising-3b-at-20b-valuation"
+    "slug": "spacex-ipo-live-updates-on-everything-you-need-to-know"
   },
   {
     "title": "(No AI) Siri is good now??",
@@ -116,13 +120,30 @@
     "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
+    "creator": "Paresh Dave, Zoë Schiffer",
+    "title": "(No AI) ‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+    "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "pubDate": "Fri, 12 Jun 2026 21:16:25 +0000",
+    "dc:creator": "Paresh Dave, Zoë Schiffer",
+    "content": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+    "contentSnippet": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+    "guid": "6a29a7d88b88eda4e0bec27f",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-12T21:16:25.000Z",
+    "source": "Wired AI",
+    "slug": "tell-him-he-s-a-piece-of-shit-meta-s-new-ai-unit-is-a-total-mess"
+  },
+  {
     "creator": "Molly Taft",
-    "title": "(No AI) China Didn't Make People Hate Data Centers",
+    "title": "(No AI) China Didn’t Make Americans Hate Data Centers",
     "link": "https://www.wired.com/story/china-us-data-center-opposition/",
     "pubDate": "Fri, 12 Jun 2026 17:17:10 +0000",
     "dc:creator": "Molly Taft",
-    "content": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-    "contentSnippet": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+    "content": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+    "contentSnippet": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
     "guid": "6a2b4c42b1abfefa3a87dfdb",
     "categories": [
       "Politics",
@@ -130,23 +151,6 @@
     ],
     "isoDate": "2026-06-12T17:17:10.000Z",
     "source": "Wired AI",
-    "slug": "china-didn-t-make-people-hate-data-centers"
-  },
-  {
-    "creator": "Brian Barrett",
-    "title": "(No AI) You Probably Won’t Get Rich Off the SpaceX IPO",
-    "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
-    "pubDate": "Fri, 12 Jun 2026 09:30:00 +0000",
-    "dc:creator": "Brian Barrett",
-    "content": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-    "contentSnippet": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-    "guid": "6a2b0382b5bc9307b48fa0ca",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-12T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "you-probably-won-t-get-rich-off-the-spacex-ipo"
+    "slug": "china-didn-t-make-americans-hate-data-centers"
   }
 ]
