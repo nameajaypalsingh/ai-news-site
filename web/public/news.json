@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "contentSnippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "guid": "https://techcrunch.com/?p=3131650",
+    "categories": [
+      "AI",
+      "Avataar",
+      "India",
+      "india ai",
+      "Peak XV"
+    ],
+    "isoDate": "2026-06-12T04:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cheaper-faster-and-culturally-aware-avataar-s-video-ai-is-built-for-india-s-scale"
+  },
+  {
     "creator": "Anna Heim",
     "title": "(No AI) Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
     "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
@@ -20,25 +40,18 @@
     "slug": "theker-just-raised-85m-to-build-the-factory-robot-that-doesn-t-specialize-in-anything"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "contentSnippet": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "guid": "https://techcrunch.com/?p=3132323",
-    "categories": [
-      "AI",
-      "Biotech & Health",
-      "Hardware",
-      "jeff bezos",
-      "physical ai",
-      "Prometheus"
-    ],
-    "isoDate": "2026-06-12T01:04:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "jeff-bezos-s-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world"
+    "title": "(No AI) Siri won’t be your AI girlfriend",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "pubDate": "2026-06-12T07:00:31.000Z",
+    "author": "Thomas Ricker",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n‘Listen, that's not what I'm here for, right?' | Image: Apple\n\nOur early testing has already shown that [Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality), and that's very much by design. In an interview with _Mostly Human_ [spotted by _MacRumors_](https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/), Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a dif …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)",
+    "contentSnippet": "‘Listen, that's not what I'm here for, right?' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a dif …\nRead the full story at The Verge.",
+    "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
+    "id": "https://www.theverge.com/?p=948890",
+    "isoDate": "2026-06-12T07:00:31.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "siri-won-t-be-your-ai-girlfriend"
   },
   {
     "title": "(No AI) Amazon’s data centers used 2.5 billion gallons of water last year",
@@ -55,34 +68,6 @@
     "slug": "amazon-s-data-centers-used-2-5-billion-gallons-of-water-last-year"
   },
   {
-    "title": "(No AI) Anthropic apologizes for invisible Claude Fable guardrails",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "pubDate": "2026-06-11T11:40:43.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has apologized for stealthily throttling its [new AI model, Claude Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos), with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries.\n\nFable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are [too dangerous for public release](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation). Anthropic says it has addressed some of those risks by launching Fable with safeguards that prevent it from responding to certain \"high-r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)",
-    "contentSnippet": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries.\nFable is the first widely available model in Anthropic's Mythos class of AI systems, a group the company has spent months warning are too dangerous for public release. Anthropic says it has addressed some of those risks by launching Fable with safeguards that prevent it from responding to certain \"high-r …\nRead the full story at The Verge.",
-    "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
-    "id": "https://www.theverge.com/?p=948280",
-    "isoDate": "2026-06-11T11:40:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-apologizes-for-invisible-claude-fable-guardrails"
-  },
-  {
-    "title": "(No AI) How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "contentSnippet": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "guid": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-06-11T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-an-astrophysicist-uses-codex-to-help-simulate-black-holes"
-  },
-  {
     "title": "(No AI) BBVA puts AI at the core of banking with OpenAI",
     "link": "https://openai.com/index/bbva",
     "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -92,6 +77,20 @@
     "isoDate": "2026-06-11T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "bbva-puts-ai-at-the-core-of-banking-with-openai"
+  },
+  {
+    "title": "(No AI) OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "contentSnippet": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "guid": "https://openai.com/index/openai-to-acquire-ona",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-06-11T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-to-acquire-ona"
   },
   {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
