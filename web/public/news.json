@@ -1,42 +1,43 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI faces investigation from state attorneys general",
-    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000",
+    "title": "(No AI) KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-    "contentSnippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-    "guid": "https://techcrunch.com/?p=3132685",
+    "content": "Once again, AI proves to be an unreliable source of information about AI.",
+    "contentSnippet": "Once again, AI proves to be an unreliable source of information about AI.",
+    "guid": "https://techcrunch.com/?p=3132703",
     "categories": [
       "AI",
-      "Government & Policy",
-      "OpenAI"
+      "kpmg"
     ],
-    "isoDate": "2026-06-13T16:47:18.000Z",
+    "isoDate": "2026-06-13T20:42:31.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-faces-investigation-from-state-attorneys-general"
+    "slug": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "pubDate": "Sat, 13 Jun 2026 04:14:19 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-    "contentSnippet": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-    "guid": "https://techcrunch.com/?p=3132491",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "contentSnippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "guid": "https://techcrunch.com/?p=3132688",
     "categories": [
       "AI",
       "Government & Policy",
-      "Startups",
-      "Andrew Yang",
-      "noble mobile",
-      "ubi"
+      "Security",
+      "Amazon",
+      "Andy Jassy",
+      "Anthropic",
+      "david sacks",
+      "Scott Bessent"
     ],
-    "isoDate": "2026-06-13T04:14:19.000Z",
+    "isoDate": "2026-06-13T19:11:41.000Z",
     "source": "TechCrunch AI",
-    "slug": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living"
+    "slug": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown"
   },
   {
     "title": "(No AI) My yard is dying, so I made an app for that",
