@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "contentSnippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "guid": "https://techcrunch.com/?p=3132685",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "OpenAI"
+    ],
+    "isoDate": "2026-06-13T16:47:18.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-faces-investigation-from-state-attorneys-general"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
     "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -19,22 +37,6 @@
     "isoDate": "2026-06-13T04:14:19.000Z",
     "source": "TechCrunch AI",
     "slug": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living"
-  },
-  {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-    "contentSnippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-    "guid": "https://techcrunch.com/?p=3132661",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-06-13T02:26:30.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai"
   },
   {
     "title": "(No AI) My yard is dying, so I made an app for that",
