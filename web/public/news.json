@@ -37,32 +37,32 @@
     "slug": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai"
   },
   {
-    "title": "(No AI) Siri won’t be your AI girlfriend",
-    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "pubDate": "2026-06-12T07:00:31.000Z",
-    "author": "Thomas Ricker",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n‘Listen, that's not what I'm here for.' | Image: Apple\n\nOur early testing has already shown that [Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality), and that's very much by design. In an interview with _Mostly Human_ [spotted by _MacRumors_](https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/), Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi, who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a di …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)",
-    "contentSnippet": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi, who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a di …\nRead the full story at The Verge.",
-    "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
-    "id": "https://www.theverge.com/?p=948890",
-    "isoDate": "2026-06-12T07:00:31.000Z",
+    "title": "(No AI) My yard is dying, so I made an app for that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "pubDate": "2026-06-13T13:00:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Image of a backyard with code brackets and a grill.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\n\nThis was my second or third attempt a …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing)",
+    "contentSnippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\nThis was my second or third attempt a …\nRead the full story at The Verge.",
+    "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+    "id": "https://www.theverge.com/?p=942119",
+    "isoDate": "2026-06-13T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "siri-won-t-be-your-ai-girlfriend"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "my-yard-is-dying-so-i-made-an-app-for-that"
   },
   {
-    "title": "(No AI) Amazon’s data centers used 2.5 billion gallons of water last year",
-    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-    "pubDate": "2026-06-11T17:26:57.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust after Seattle enacted a one-year [data center moratorium](https://www.theverge.com/ai-artificial-intelligence/948031/seattle-officially-enacted-an-emergency-one-year-moratorium-on-new-data-centers) that some of Amazon's own employees pushed for, Amazon [shared](https://www.aboutamazon.com/news/sustainability/amazon-data-center-water-usage) how much water its data centers use, [reportedly](https://www.latitudemedia.com/news/amazon-finally-reports-its-annual-water-use-at-data-centers/) for the first time. With concerns about [water consumption and energy use](https://www.theverge.com/news/845831/ai-chips-data-center-power-water) a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by 2 percent from its 2024 total even as it expanded operations.\n\nAmazon also claims it's using water more efficiently than some Big Tech rivals - this graphic in Amazon's report points to Mic …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)",
-    "contentSnippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations consumed 2.5 billion gallons of water in 2025 at a rate of 0.12 liters per kilowatt-hour of electricity, dropping by 2 percent from its 2024 total even as it expanded operations. \nAmazon also claims it's using water more efficiently than some Big Tech rivals - this graphic in Amazon's report points to Mic …\nRead the full story at The Verge.",
-    "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
-    "id": "https://www.theverge.com/?p=948534",
-    "isoDate": "2026-06-11T17:26:57.000Z",
+    "title": "(No AI) Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "pubDate": "2026-06-13T12:55:49.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Anthropic logo on an orange background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Friday evening, the government ordered Anthropic to block access to [Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\n\nIn a [statement](https://www.anthropic.com/news/fable-mythos-access), Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security)",
+    "contentSnippet": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers.\nIn a statement, Anthropic said that while it was complying with the order, the government \"did not provide specific details of its national security concern.\" Instead, it claims that any evidence of potential jailbreak was provided verbally, and that the vulnerabilities discovered were minor and available via other model …\nRead the full story at The Verge.",
+    "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+    "id": "https://www.theverge.com/?p=949553",
+    "isoDate": "2026-06-13T12:55:49.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-s-data-centers-used-2-5-billion-gallons-of-water-last-year"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order"
   },
   {
     "title": "(No AI) New OpenAI Academy courses for the next era of work",
@@ -113,7 +113,7 @@
   },
   {
     "creator": "Fernanda González",
-    "title": "(No AI) A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+    "title": "(No AI) A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
     "pubDate": "Sat, 13 Jun 2026 09:00:00 +0000",
     "dc:creator": "Fernanda González",
@@ -126,7 +126,7 @@
     ],
     "isoDate": "2026-06-13T09:00:00.000Z",
     "source": "Wired AI",
-    "slug": "a-german-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews"
+    "slug": "a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews"
   },
   {
     "creator": "Maxwell Zeff",
