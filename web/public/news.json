@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "contentSnippet": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "guid": "https://techcrunch.com/?p=3132702",
+    "categories": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "india ai"
+    ],
+    "isoDate": "2026-06-14T03:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"
+  },
+  {
     "creator": "Kate Park",
     "title": "(No AI) Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
     "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
@@ -19,23 +38,6 @@
     "isoDate": "2026-06-14T00:03:49.000Z",
     "source": "TechCrunch AI",
     "slug": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-demand"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) KPMG pulls report on AI usage due to apparent hallucinations",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Once again, AI proves to be an unreliable source of information about AI.",
-    "contentSnippet": "Once again, AI proves to be an unreliable source of information about AI.",
-    "guid": "https://techcrunch.com/?p=3132703",
-    "categories": [
-      "AI",
-      "kpmg"
-    ],
-    "isoDate": "2026-06-13T20:42:31.000Z",
-    "source": "TechCrunch AI",
-    "slug": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations"
   },
   {
     "title": "(No AI) Amazon security research reportedly led to the White House’s Anthropic Fable ban",
