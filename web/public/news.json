@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "contentSnippet": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "guid": "https://techcrunch.com/?p=3132739",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "Space",
+      "Startups",
+      "Anthropic",
+      "Elon Musk",
+      "Equity podcast",
+      "SpaceX"
+    ],
+    "isoDate": "2026-06-14T16:38:09.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) As Anthropic suspends access to new models, India debates its AI future",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
@@ -17,27 +40,6 @@
     "isoDate": "2026-06-14T03:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"
-  },
-  {
-    "creator": "Kate Park",
-    "title": "(No AI) Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-    "pubDate": "Sun, 14 Jun 2026 00:03:49 +0000",
-    "dc:creator": "Kate Park",
-    "content": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-    "contentSnippet": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-    "guid": "https://techcrunch.com/?p=3132716",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "China",
-      "manus",
-      "Manus AI",
-      "Meta"
-    ],
-    "isoDate": "2026-06-14T00:03:49.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-demand"
   },
   {
     "title": "(No AI) Amazon security research reportedly led to the White House’s Anthropic Fable ban",
