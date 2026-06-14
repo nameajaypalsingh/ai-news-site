@@ -42,6 +42,20 @@
     "slug": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"
   },
   {
+    "title": "(No AI) China may have accessed Mythos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "pubDate": "2026-06-14T18:27:55.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to a new report from _[Semafor](https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos)_, the White House's decision to impose [export restrictions](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through [distillation](https://www.ibm.com/think/topics/knowledge-distillation), a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\n\nThe White House has not confirmed this report, and a post on X by Trump advisor [David Sacks](https://x.com/davidsacks/status/2065853007619588171?s=46) did not mention China. Instead, Sacks focused on a r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)",
+    "contentSnippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+    "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
+    "id": "https://www.theverge.com/?p=949644",
+    "isoDate": "2026-06-14T18:27:55.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "china-may-have-accessed-mythos"
+  },
+  {
     "title": "(No AI) Amazon security research reportedly led to the White House’s Anthropic Fable ban",
     "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
     "pubDate": "2026-06-13T21:39:26.000Z",
@@ -54,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "amazon-security-research-reportedly-led-to-the-white-house-s-anthropic-fable-ban"
-  },
-  {
-    "title": "(No AI) My yard is dying, so I made an app for that",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-    "pubDate": "2026-06-13T13:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Image of a backyard with code brackets and a grill.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\n\nThis was my second or third attempt a …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing)",
-    "contentSnippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug.\n\"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird that I just instructed a computer to build a whole app for me with a single prompt, but it needed me to click a button to fix a bug. I did anyway, and in 233 seconds Gemini reported back that it had succeeded, using words like \"blockages\" and \"race conditions.\" I didn't understand a bit of it. It was thrilling.\nThis was my second or third attempt a …\nRead the full story at The Verge.",
-    "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
-    "id": "https://www.theverge.com/?p=942119",
-    "isoDate": "2026-06-13T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "my-yard-is-dying-so-i-made-an-app-for-that"
   },
   {
     "title": "(No AI) New OpenAI Academy courses for the next era of work",
