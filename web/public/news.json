@@ -1,53 +1,55 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) As AI companies race to go public, who else is along for the ride?",
-    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-    "contentSnippet": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-    "guid": "https://techcrunch.com/?p=3132739",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "contentSnippet": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "guid": "https://techcrunch.com/?p=3132797",
     "categories": [
       "AI",
       "Fundraising",
-      "Space",
       "Startups",
-      "Anthropic",
-      "Elon Musk",
-      "Equity podcast",
-      "SpaceX"
+      "Bessemer Venture Partners",
+      "HCLTech",
+      "Khosla Ventures",
+      "lightspeed",
+      "Sarvam"
     ],
-    "isoDate": "2026-06-14T16:38:09.000Z",
+    "isoDate": "2026-06-15T13:46:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride"
+    "slug": "sarvam-becomes-india-s-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech"
   },
   {
     "creator": "Jagmeet Singh",
-    "title": "(No AI) As Anthropic suspends access to new models, India debates its AI future",
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "title": "(No AI) As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
     "dc:creator": "Jagmeet Singh",
-    "content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-    "contentSnippet": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-    "guid": "https://techcrunch.com/?p=3132702",
+    "content": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+    "contentSnippet": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+    "guid": "https://techcrunch.com/?p=3132746",
     "categories": [
       "AI",
+      "Security",
       "Startups",
-      "Anthropic",
-      "india ai"
+      "AI agents",
+      "cyberstarts",
+      "NewCore"
     ],
-    "isoDate": "2026-06-14T03:00:00.000Z",
+    "isoDate": "2026-06-15T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future"
+    "slug": "as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-identities"
   },
   {
     "title": "(No AI) China may have accessed Mythos",
     "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
     "pubDate": "2026-06-14T18:27:55.000Z",
     "author": "Terrence O’Brien",
-    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to a new report from _[Semafor](https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos)_, the White House's decision to impose [export restrictions](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through [distillation](https://www.ibm.com/think/topics/knowledge-distillation), a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\n\nThe White House has not confirmed this report, and a post on X by Trump advisor [David Sacks](https://x.com/davidsacks/status/2065853007619588171?s=46) did not mention China. Instead, Sacks focused on a r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)",
-    "contentSnippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to a new report from _[Semafor](https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos)_, the White House's decision to impose [export restrictions](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through [distillation](https://www.ibm.com/think/topics/knowledge-distillation), a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\n\nThe White House has not confirmed this report, and a post on X by Trump adviser [David Sacks](https://x.com/davidsacks/status/2065853007619588171?s=46) did not mention China. Instead, Sacks focused on a r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)",
+    "contentSnippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump adviser David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
     "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
     "id": "https://www.theverge.com/?p=949644",
     "isoDate": "2026-06-14T18:27:55.000Z",
@@ -60,9 +62,9 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
     "pubDate": "2026-06-13T21:39:26.000Z",
     "author": "Terrence O’Brien",
-    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the _[Wall Street Journal](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?mod=hp_lead_pos1)_, the export control directive that led to Anthropic [cutting off access](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get [Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos) to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\n\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)",
-    "contentSnippet": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
-    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the _[The Wall Street Journal](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?mod=hp_lead_pos1)_, the export control directive that led to Anthropic [cutting off access](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get [Fable 5](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos) to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\n\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that man …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)",
+    "contentSnippet": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that man …\nRead the full story at The Verge.",
+    "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a [&#8230;]",
     "id": "https://www.theverge.com/?p=949601",
     "isoDate": "2026-06-13T21:39:26.000Z",
     "source": "The Verge AI",
@@ -120,6 +122,28 @@
     "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
+    "creator": "Dell Cameron, Dhruv Mehrotra",
+    "title": "(No AI) Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+    "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000",
+    "dc:creator": "Dell Cameron, Dhruv Mehrotra",
+    "content": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+    "contentSnippet": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+    "guid": "6a29d46f8b0f92b3d6867447",
+    "categories": [
+      "Security",
+      "Security / Privacy",
+      "Security / National Security",
+      "Security / Security News",
+      "Business / Big Tech",
+      "Business / Social Media",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-15T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "meta-tapped-a-pentagon-supplier-to-prototype-face-recognition-for-its-glasses"
+  },
+  {
     "creator": "Fernanda González",
     "title": "(No AI) A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
@@ -135,22 +159,5 @@
     "isoDate": "2026-06-13T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-    "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-    "pubDate": "Sat, 13 Jun 2026 02:26:10 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-    "contentSnippet": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-    "guid": "6a2cb115c4e89ad1b960af2e",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-13T02:26:10.000Z",
-    "source": "Wired AI",
-    "slug": "anthropic-says-it-s-taking-claude-fable-5-offline-to-comply-with-us-government-order"
   }
 ]
