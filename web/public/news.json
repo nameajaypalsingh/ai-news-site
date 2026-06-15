@@ -70,6 +70,20 @@
     "slug": "amazon-security-research-reportedly-led-to-the-white-house-s-anthropic-fable-ban"
   },
   {
+    "title": "(No AI) Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "contentSnippet": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "guid": "https://openai.com/index/introducing-openai-partner-network",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-06-14T17:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-the-openai-partner-network"
+  },
+  {
     "title": "(No AI) New OpenAI Academy courses for the next era of work",
     "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
@@ -82,17 +96,6 @@
     "isoDate": "2026-06-12T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "new-openai-academy-courses-for-the-next-era-of-work"
-  },
-  {
-    "title": "(No AI) How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
-    "content": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "contentSnippet": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "guid": "https://openai.com/index/preply",
-    "isoDate": "2026-06-12T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-preply-combines-ai-and-human-tutors-to-personalize-learning"
   },
   {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
