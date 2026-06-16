@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Sean O'Kane",
+    "title": "(No AI) SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "pubDate": "Tue, 16 Jun 2026 20:11:00 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "contentSnippet": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "guid": "https://techcrunch.com/?p=3133253",
+    "categories": [
+      "AI",
+      "Space",
+      "In Brief",
+      "IPO",
+      "SpaceX",
+      "spacex ipo"
+    ],
+    "isoDate": "2026-06-16T20:11:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "spacex-valuation-balloons-to-2-6t-briefly-passes-amazon"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Android 17 launches with new multitasking tools as Google expands Gemini features",
     "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
@@ -18,25 +39,6 @@
     "isoDate": "2026-06-16T18:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "pubDate": "Tue, 16 Jun 2026 16:49:44 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "contentSnippet": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "guid": "https://techcrunch.com/?p=3133302",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "AI search",
-      "WordPress"
-    ],
-    "isoDate": "2026-06-16T16:49:44.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds"
   },
   {
     "title": "(No AI) Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
@@ -95,6 +97,17 @@
     "slug": "introducing-the-openai-partner-network"
   },
   {
+    "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "contentSnippet": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "guid": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "isoDate": "2026-06-16T21:29:50.000Z",
+    "source": "Google DeepMind",
+    "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
+  },
+  {
     "title": "(No AI) DiffusionGemma: 4x faster text generation",
     "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
     "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
@@ -104,17 +117,6 @@
     "isoDate": "2026-06-10T16:24:11.000Z",
     "source": "Google DeepMind",
     "slug": "diffusiongemma-4x-faster-text-generation"
-  },
-  {
-    "title": "(No AI) Investing in multi-agent AI safety research",
-    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
-    "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "contentSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "guid": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "isoDate": "2026-06-10T10:21:19.000Z",
-    "source": "Google DeepMind",
-    "slug": "investing-in-multi-agent-ai-safety-research"
   },
   {
     "creator": "Lily Hay Newman",
