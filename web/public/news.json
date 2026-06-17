@@ -1,48 +1,59 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "pubDate": "Tue, 16 Jun 2026 22:34:17 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "contentSnippet": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "guid": "https://techcrunch.com/?p=3133474",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) DeepL acquires Mixhalo for live-event audio streaming and translation",
+    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "pubDate": "Wed, 17 Jun 2026 12:14:44 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+    "contentSnippet": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+    "guid": "https://techcrunch.com/?p=3133711",
     "categories": [
       "AI",
-      "Enterprise",
-      "Fintech",
       "Startups",
-      "TC",
-      "Anthropic",
-      "Fable 5",
-      "Mythos",
-      "Ramp"
+      "AI translation",
+      "DeepL",
+      "Mixhalo"
     ],
-    "isoDate": "2026-06-16T22:34:17.000Z",
+    "isoDate": "2026-06-17T12:14:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests"
+    "slug": "deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation"
   },
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "pubDate": "Tue, 16 Jun 2026 20:11:00 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "contentSnippet": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "guid": "https://techcrunch.com/?p=3133253",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "pubDate": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+    "contentSnippet": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+    "guid": "https://techcrunch.com/?p=3133612",
     "categories": [
+      "TC",
       "AI",
-      "Space",
-      "In Brief",
-      "IPO",
-      "SpaceX",
-      "spacex ipo"
+      "Apps",
+      "Commerce",
+      "Pinterest",
+      "shopping",
+      "AI chatbot"
     ],
-    "isoDate": "2026-06-16T20:11:00.000Z",
+    "isoDate": "2026-06-17T11:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "spacex-valuation-balloons-to-2-6t-briefly-passes-amazon"
+    "slug": "pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest"
+  },
+  {
+    "title": "(No AI) The next humanoid robot might not look human at all",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+    "pubDate": "2026-06-17T09:46:56.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe [next humanoid robot](https://www.theverge.com/column/843418/humanoid-robot-hype) might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI [puts it](https://x.com/gs_ai_/status/2066869851659121128?s=20), \"humanoid robots don't need to look human.\"\n\nThat explains the look of Eno, the [new robot](https://www.genesis.ai/press/meet-eno) from the French startup backed by former Google CEO Eric Schmidt. Genesis says Eno is designed \"around human capability\" rather than human appearance and is intended as a fully \"general-purpose\" robot rather than a machine built around a single task, like [folding laundry](https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry). One part is still very human though: its hands, which the company says are designed to \"exactly match the form and fu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno)",
+    "contentSnippet": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" \nThat explains the look of Eno, the new robot from the French startup backed by former Google CEO Eric Schmidt. Genesis says Eno is designed \"around human capability\" rather than human appearance and is intended as a fully \"general-purpose\" robot rather than a machine built around a single task, like folding laundry. One part is still very human though: its hands, which the company says are designed to \"exactly match the form and fu …\nRead the full story at The Verge.",
+    "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+    "id": "https://www.theverge.com/?p=951283",
+    "isoDate": "2026-06-17T09:46:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-next-humanoid-robot-might-not-look-human-at-all"
   },
   {
     "title": "(No AI) Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
@@ -57,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "apple-2027-rumors-airpods-with-cameras-for-ai-and-the-second-folding-iphone"
-  },
-  {
-    "title": "(No AI) Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-    "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-    "pubDate": "2026-06-16T17:00:00.000Z",
-    "author": "Victoria Song",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSmart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\n\nAlthough Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten [a hands-on with a device](https://www.theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026) powered by the new chip at last month's Google I/O: the forthcoming [Aura glasses](https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses) for Android XR. At the time, Xreal and Google were coy about the processor upgrades to the long-awaited spectacles. Turns out, it was the Reality Elite.\n\nSpec-wise, the new chip focuses on across-the-board performance upgrades. The GPU gets a 60 percent bump, the …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables)",
-    "contentSnippet": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\nAlthough Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at last month's Google I/O: the forthcoming Aura glasses for Android XR. At the time, Xreal and Google were coy about the processor upgrades to the long-awaited spectacles. Turns out, it was the Reality Elite.\nSpec-wise, the new chip focuses on across-the-board performance upgrades. The GPU gets a 60 percent bump, the  …\nRead the full story at The Verge.",
-    "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at [&#8230;]",
-    "id": "https://www.theverge.com/?p=950229",
-    "isoDate": "2026-06-16T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/snapdragonreality.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "qualcomm-s-latest-chip-hints-that-more-powerful-smart-glasses-could-be-on-the-way"
   },
   {
     "title": "(No AI) Predicting model behavior before release by simulating deployment",
