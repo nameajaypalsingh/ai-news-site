@@ -1,45 +1,59 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) General Intuition in talks to raise $300M at around $2B valuation",
-    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "pubDate": "Thu, 18 Jun 2026 15:20:37 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
-    "contentSnippet": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
-    "guid": "https://techcrunch.com/?p=3134001",
+    "creator": "Julie Bort",
+    "title": "(No AI) Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "pubDate": "Thu, 18 Jun 2026 18:22:13 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "contentSnippet": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "guid": "https://techcrunch.com/?p=3134182",
     "categories": [
       "AI",
-      "Fundraising",
-      "ai agent",
-      "Exclusive",
-      "general intuition",
-      "world models"
+      "Enterprise",
+      "TC",
+      "AI chips",
+      "Amazon",
+      "AWS",
+      "nvidia",
+      "trainium"
     ],
-    "isoDate": "2026-06-18T15:20:37.000Z",
+    "isoDate": "2026-06-18T18:22:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "general-intuition-in-talks-to-raise-300m-at-around-2b-valuation"
+    "slug": "amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight ",
-    "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-    "pubDate": "Thu, 18 Jun 2026 15:13:21 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-    "contentSnippet": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-    "guid": "https://techcrunch.com/?p=3134145",
+    "creator": "Tim De Chant",
+    "title": "(No AI) AI data centers just got a government-mandated fast lane to the grid",
+    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "pubDate": "Thu, 18 Jun 2026 17:49:23 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "contentSnippet": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "guid": "https://techcrunch.com/?p=3134218",
     "categories": [
       "AI",
-      "Government & Policy",
-      "AI legislation",
-      "ai super pac",
-      "guardrails alliance",
-      "leading the future"
+      "Climate",
+      "data centers",
+      "electrical agrid"
     ],
-    "isoDate": "2026-06-18T15:13:21.000Z",
+    "isoDate": "2026-06-18T17:49:23.000Z",
     "source": "TechCrunch AI",
-    "slug": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-tech-s-100m-gunfight"
+    "slug": "ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid"
+  },
+  {
+    "title": "(No AI) Amazon employees say they’re facing termination for backing data center limits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "pubDate": "2026-06-18T16:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them.\n\nOn June 10th - one week after the hearing, and one day after the City Council passed a [milestone moratorium](https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium) on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action)",
+    "contentSnippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. \nOn June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them  …\nRead the full story at The Verge.",
+    "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
+    "id": "https://www.theverge.com/?p=952180",
+    "isoDate": "2026-06-18T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amazon-employees-say-they-re-facing-termination-for-backing-data-center-limits"
   },
   {
     "title": "(No AI) Who decides when AI is too dangerous?",
@@ -56,18 +70,18 @@
     "slug": "who-decides-when-ai-is-too-dangerous"
   },
   {
-    "title": "(No AI) Photoshop and Premiere now have AI assistants",
-    "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-    "pubDate": "2026-06-18T13:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![The new AI assistant in Adobe Photoshop.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n﻿Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe\n\nAdobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used to organize your work and automate app-specific tasks.\n\nWhile the AI assistants are all powered by Adobe's \"[conversational creative agent](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing),\" they work independently and operate \"as a specialist\" within each Creative Cloud app, according to Adobe's announcement. That means the Premiere AI assistant is fine-tuned for tasks like …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch)",
-    "contentSnippet": "Photoshop is one of several Adobe Creative Cloud apps to receive new conversational editing capabilities. | Image: Adobe\t\n\nAdobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used to organize your work and automate app-specific tasks.\nWhile the AI assistants are all powered by Adobe's \"conversational creative agent,\" they work independently and operate \"as a specialist\" within each Creative Cloud app, according to Adobe's announcement. That means the Premiere AI assistant is fine-tuned for tasks like …\nRead the full story at The Verge.",
-    "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
-    "id": "https://www.theverge.com/?p=952099",
-    "isoDate": "2026-06-18T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "photoshop-and-premiere-now-have-ai-assistants"
+    "title": "(No AI) Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "content": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "contentSnippet": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "guid": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-06-18T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "improving-health-intelligence-in-chatgpt"
   },
   {
     "title": "(No AI) Using AI to help physicians diagnose rare genetic diseases affecting children",
@@ -82,20 +96,6 @@
     "isoDate": "2026-06-18T08:00:00.000Z",
     "source": "OpenAI",
     "slug": "using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children"
-  },
-  {
-    "title": "(No AI) A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-    "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "contentSnippet": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "guid": "https://openai.com/index/ai-chemist-improves-reaction",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-06-17T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "a-near-autonomous-ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
@@ -120,6 +120,23 @@
     "slug": "securing-the-future-of-ai-agents"
   },
   {
+    "creator": "Paresh Dave",
+    "title": "(No AI) 3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+    "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "pubDate": "Thu, 18 Jun 2026 16:03:27 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+    "contentSnippet": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+    "guid": "6a3344544bdc5a1451abc6b8",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-06-18T16:03:27.000Z",
+    "source": "Wired AI",
+    "slug": "3-amazon-workers-say-they-re-under-investigation-for-speaking-out-about-data-centers"
+  },
+  {
     "creator": "Matt Burgess, Maddy Varner, May Bulman, Gabriel Geiger",
     "title": "(No AI) The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
     "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
@@ -137,22 +154,5 @@
     "isoDate": "2026-06-18T06:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed"
-  },
-  {
-    "creator": "Louise Matsakis, Maxwell Zeff",
-    "title": "(No AI) The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "pubDate": "Wed, 17 Jun 2026 22:52:00 +0000",
-    "dc:creator": "Louise Matsakis, Maxwell Zeff",
-    "content": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-    "contentSnippet": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-    "guid": "6a32b1965d83af3b972aa74b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-17T22:52:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-korean-telecom-giant-at-the-center-of-anthropic-s-mythos-controversy"
   }
 ]
