@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "pubDate": "Thu, 18 Jun 2026 01:23:51 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "contentSnippet": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "guid": "https://techcrunch.com/?p=3134048",
+    "categories": [
+      "AI",
+      "evergreen"
+    ],
+    "isoDate": "2026-06-18T01:23:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "how-to-turn-off-ai-in-your-google-docs"
+  },
+  {
     "creator": "Sean O'Kane",
     "title": "(No AI) Roelof Botha joins SpaceX’s board of directors",
     "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
@@ -21,25 +38,18 @@
     "slug": "roelof-botha-joins-spacex-s-board-of-directors"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-    "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-    "pubDate": "Wed, 17 Jun 2026 20:24:28 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-    "contentSnippet": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-    "guid": "https://techcrunch.com/?p=3133859",
-    "categories": [
-      "AI",
-      "Hardware",
-      "In Brief",
-      "SMART Glasses",
-      "Snap",
-      "specs"
-    ],
-    "isoDate": "2026-06-17T20:24:28.000Z",
-    "source": "TechCrunch AI",
-    "slug": "after-unveiling-ridiculously-expensive-ar-glasses-snap-s-stock-takes-a-dive"
+    "title": "(No AI) Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "pubDate": "2026-06-18T03:12:31.000Z",
+    "author": "Richard Lawler",
+    "content": "![Midjourney Medical 3D scans of a “phantom” body](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&strip=all&crop=0,0,100,100)\n\n“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed [The Midjourney Scanner](https://www.midjourney.com/medical), it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it \"aims for image quality comparable to MRI in many ways.\"\n\nHe mentioned that one way he'd like to use it would be to see how h …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)",
+    "contentSnippet": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\t\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it \"aims for image quality comparable to MRI in many ways.\"\nHe mentioned that one way he'd like to use it would be to see how h …\nRead the full story at The Verge.",
+    "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
+    "id": "https://www.theverge.com/?p=952011",
+    "isoDate": "2026-06-18T03:12:31.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "midjourney-medical-goes-from-generating-cat-images-to-full-body-ultrasound-scans"
   },
   {
     "title": "(No AI) Anthropic got hit by export rules nobody understands",
@@ -54,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "anthropic-got-hit-by-export-rules-nobody-understands"
-  },
-  {
-    "title": "(No AI) Two-thirds of Americans think AI is advancing too quickly",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-    "pubDate": "2026-06-17T17:20:24.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Thumbs down from robot symbolizing dislike of AI by the youths](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the [latest Pew Research poll](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/), 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions [remain](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai) [negative](https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives), with only 16 percent saying that AI will have a positive impact on society.\n\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a [more pessimistic view](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai). 66 percent of Americans betw …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly)",
-    "contentSnippet": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …\nRead the full story at The Verge.",
-    "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of [&#8230;]",
-    "id": "https://www.theverge.com/?p=951653",
-    "isoDate": "2026-06-17T17:20:24.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "two-thirds-of-americans-think-ai-is-advancing-too-quickly"
   },
   {
     "title": "(No AI) A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
@@ -120,6 +116,23 @@
     "slug": "diffusiongemma-4x-faster-text-generation"
   },
   {
+    "creator": "Louise Matsakis, Maxwell Zeff",
+    "title": "(No AI) The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "pubDate": "Wed, 17 Jun 2026 22:52:00 +0000",
+    "dc:creator": "Louise Matsakis, Maxwell Zeff",
+    "content": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+    "contentSnippet": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+    "guid": "6a32b1965d83af3b972aa74b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-17T22:52:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-korean-telecom-giant-at-the-center-of-anthropic-s-mythos-controversy"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
     "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
@@ -135,22 +148,5 @@
     "isoDate": "2026-06-17T18:25:35.000Z",
     "source": "Wired AI",
     "slug": "operating-a-humanoid-with-your-body-is-a-hot-job-in-china-s-hardware-capital"
-  },
-  {
-    "creator": "Hugo Lowell",
-    "title": "(No AI) The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-    "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-    "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000",
-    "dc:creator": "Hugo Lowell",
-    "content": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
-    "contentSnippet": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
-    "guid": "6a3065c2f47e703174d70436",
-    "categories": [
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-06-17T17:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible"
   }
 ]
