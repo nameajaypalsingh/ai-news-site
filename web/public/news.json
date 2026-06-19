@@ -1,43 +1,68 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-    "pubDate": "Fri, 19 Jun 2026 07:59:12 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-    "contentSnippet": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-    "guid": "https://techcrunch.com/?p=3134577",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-06-19T07:59:12.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-us-says-asml-s-top-chip-tool-may-be-in-china-asml-says-it-isn-t"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "pubDate": "Fri, 19 Jun 2026 00:51:11 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-    "contentSnippet": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-    "guid": "https://techcrunch.com/?p=3134483",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "pubDate": "Fri, 19 Jun 2026 16:08:17 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is \\[…\\]",
+    "contentSnippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3134608",
     "categories": [
       "AI",
-      "Enterprise",
-      "Startups",
-      "CRV",
-      "Exclusive",
-      "Elastic",
-      "observability",
-      "DeductiveAI",
-      "AI SRE"
+      "Anthropic",
+      "cybersecurity",
+      "Equity podcast",
+      "jeff bezos",
+      "Social media ban",
+      "SpaceX",
+      "us government"
     ],
-    "isoDate": "2026-06-19T00:51:11.000Z",
+    "isoDate": "2026-06-19T16:08:17.000Z",
     "source": "TechCrunch AI",
-    "slug": "source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m"
+    "slug": "is-the-us-government-s-anthropic-ban-accidentally-helping-the-brand"
+  },
+  {
+    "creator": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
+    "title": "(No AI) The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "pubDate": "Fri, 19 Jun 2026 16:01:03 +0000",
+    "dc:creator": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
+    "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is \\[…\\]",
+    "contentSnippet": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3134607",
+    "categories": [
+      "AI",
+      "Startups",
+      "acquisition",
+      "Anthropic",
+      "cursor",
+      "cybersecurity",
+      "Equity podcast",
+      "Fable 5",
+      "jeff bezos",
+      "M&A",
+      "Mythos 5 US Government",
+      "Social media ban",
+      "SpaceX"
+    ],
+    "isoDate": "2026-06-19T16:01:03.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-us-banned-anthropic-s-fable-5-release-but-the-numbers-don-t-seem-to-care"
+  },
+  {
+    "title": "(No AI) The film about Sam Altman has been dropped by Amazon MGM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "pubDate": "2026-06-19T14:15:29.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLuca Guadagnino's film about OpenAI CEO Sam Altman, _Artificial_, has reportedly been dropped by Amazon MGM.\n\nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for [about a year](https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-to-direct-openai-movie-1236236357/). The cast also includes _A Complete Unknown_ actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and _Anora_'s Yura Borisov as OpenAI chief scientist Ilya Sutskever.\n\nIn a statement to _[Deadline](https://deadline.com/2026/06/luca-guadagnino-artificial-amazon-jeff-bezos-1236962694/)_, the studio said it believes the movie \"will be better served if it were released by a different studio and is working closely with the filmmak …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)",
+    "contentSnippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie \"will be better served if it were released by a different studio and is working closely with the filmmak …\nRead the full story at The Verge.",
+    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
+    "id": "https://www.theverge.com/?p=952906",
+    "isoDate": "2026-06-19T14:15:29.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-film-about-sam-altman-has-been-dropped-by-amazon-mgm"
   },
   {
     "title": "(No AI) Barret Zoph is out at OpenAI again after just five months",
@@ -52,20 +77,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "barret-zoph-is-out-at-openai-again-after-just-five-months"
-  },
-  {
-    "title": "(No AI) Amazon employees say they’re facing termination for backing data center limits",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-    "pubDate": "2026-06-18T16:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them.\n\nOn June 10th - one week after the hearing, and one day after the City Council passed a [milestone moratorium](https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium) on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action)",
-    "contentSnippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. \nOn June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them  …\nRead the full story at The Verge.",
-    "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
-    "id": "https://www.theverge.com/?p=952180",
-    "isoDate": "2026-06-18T16:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-employees-say-they-re-facing-termination-for-backing-data-center-limits"
   },
   {
     "title": "(No AI) New usage analytics and updated spend controls for enterprises",
