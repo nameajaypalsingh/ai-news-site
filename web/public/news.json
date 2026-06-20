@@ -125,6 +125,23 @@
     "slug": "securing-the-future-of-ai-agents"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) Siri AI Hands On: A Smart, Helpful Assistant",
+    "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+    "pubDate": "Sat, 20 Jun 2026 10:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+    "contentSnippet": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+    "guid": "6a32b539992fdbbcd96567db",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-06-20T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "siri-ai-hands-on-a-smart-helpful-assistant"
+  },
+  {
     "creator": "Dell Cameron, Dhruv Mehrotra, Yulia Almazova",
     "title": "(No AI) How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
     "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
@@ -143,22 +160,5 @@
     "isoDate": "2026-06-18T22:12:45.000Z",
     "source": "Wired AI",
     "slug": "how-the-peter-thiel-linked-dialog-club-secretly-ranks-its-members"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) The White House Is Making Up Its Rules for AI in Real Time",
-    "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-    "pubDate": "Thu, 18 Jun 2026 21:03:43 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-    "contentSnippet": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-    "guid": "6a3421d2c4345807635a205c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-18T21:03:43.000Z",
-    "source": "Wired AI",
-    "slug": "the-white-house-is-making-up-its-rules-for-ai-in-real-time"
   }
 ]
