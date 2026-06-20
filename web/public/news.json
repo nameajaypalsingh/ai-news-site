@@ -1,46 +1,55 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000",
+    "title": "(No AI) Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Jumper isn't the only big name leaving Google DeepMind.",
-    "contentSnippet": "Jumper isn't the only big name leaving Google DeepMind.",
-    "guid": "https://techcrunch.com/?p=3134677",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "Google",
-      "John Jumper"
-    ],
-    "isoDate": "2026-06-20T16:39:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic"
-  },
-  {
-    "creator": "Lorenzo Franceschi-Bicchierai",
-    "title": "(No AI) From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000",
-    "dc:creator": "Lorenzo Franceschi-Bicchierai",
-    "content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-    "contentSnippet": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-    "guid": "https://techcrunch.com/?p=3134219",
+    "content": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "contentSnippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "guid": "https://techcrunch.com/?p=3134719",
     "categories": [
       "AI",
       "Security",
-      "Anthropic",
-      "artificial intelligence",
-      "cybersecurity",
-      "export controls",
-      "infosec",
-      "Mythos",
-      "Spyware"
+      "Meredith Whittaker",
+      "signal"
     ],
-    "isoDate": "2026-06-19T22:40:14.000Z",
+    "isoDate": "2026-06-20T20:32:29.000Z",
     "source": "TechCrunch AI",
-    "slug": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-t-stop-anyone"
+    "slug": "signal-s-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends"
+  },
+  {
+    "creator": "Anthony Ha",
+    "title": "(No AI) In the Weights is your new AI-centric vanity search",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "So ... what's your In the Weights score?",
+    "contentSnippet": "So ... what's your In the Weights score?",
+    "guid": "https://techcrunch.com/?p=3134695",
+    "categories": [
+      "AI",
+      "in th weights",
+      "Joey Flynn",
+      "thomas dimson"
+    ],
+    "isoDate": "2026-06-20T19:41:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "in-the-weights-is-your-new-ai-centric-vanity-search"
+  },
+  {
+    "title": "(No AI) The Atlantic created a searchable database of the music used to train AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "pubDate": "2026-06-20T18:46:48.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A smiling computer surrounded by music notes.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Atlantic_ reporter Alex Reisner recently uncovered [four datasets](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/?gift=XykDc_qyxjjKAvqueifCeVueQlyDmjxACfclHl3tdg0&utm_source=copy-link&utm_medium=social&utm_campaign=share) of music being used to train [AI models](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) and made them [fully searchable](https://www.theatlantic.com/category/ai-watchdog/) for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\n\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, [Google](https://arxiv.org/abs/2301.11325) and [Stability](https://arxiv.org/html/2407.14358) have both confirmed they have in research papers. Some of the sources, like the [Free Music Archive](https://freemusicarchive.org/) dataset, are free to stream for personal use but re …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)",
+    "contentSnippet": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability have both confirmed they have in research papers. Some of the sources, like the Free Music Archive dataset, are free to stream for personal use but re …\nRead the full story at The Verge.",
+    "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+    "id": "https://www.theverge.com/?p=953183",
+    "isoDate": "2026-06-20T18:46:48.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-atlantic-created-a-searchable-database-of-the-music-used-to-train-ai"
   },
   {
     "title": "(No AI) The film about Sam Altman has been dropped by Amazon MGM",
@@ -55,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-film-about-sam-altman-has-been-dropped-by-amazon-mgm"
-  },
-  {
-    "title": "(No AI) Barret Zoph is out at OpenAI again after just five months",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-    "pubDate": "2026-06-19T04:49:33.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFive months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, _The Verge_ has learned.\n\nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to [stop chasing](https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai) so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO.\n\nOpenAI confirmed to _The Verge_ that Zoph will be depart …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)",
-    "contentSnippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
-    "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
-    "id": "https://www.theverge.com/?p=952837",
-    "isoDate": "2026-06-19T04:49:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "barret-zoph-is-out-at-openai-again-after-just-five-months"
   },
   {
     "title": "(No AI) New usage analytics and updated spend controls for enterprises",
