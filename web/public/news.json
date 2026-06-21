@@ -116,6 +116,23 @@
     "slug": "securing-the-future-of-ai-agents"
   },
   {
+    "creator": "David Nield",
+    "title": "(No AI) 28 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000",
+    "dc:creator": "David Nield",
+    "content": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "contentSnippet": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "guid": "6414b6effd989ed72a05dc47",
+    "categories": [
+      "Gear / How To and Advice",
+      "Gear"
+    ],
+    "isoDate": "2026-06-21T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "28-tips-to-take-your-chatgpt-prompts-to-the-next-level"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) Siri AI Hands On: A Smart, Helpful Assistant",
     "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
@@ -131,25 +148,5 @@
     "isoDate": "2026-06-20T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "siri-ai-hands-on-a-smart-helpful-assistant"
-  },
-  {
-    "creator": "Dell Cameron, Dhruv Mehrotra, Yulia Almazova",
-    "title": "(No AI) How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-    "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-    "pubDate": "Thu, 18 Jun 2026 22:12:45 +0000",
-    "dc:creator": "Dell Cameron, Dhruv Mehrotra, Yulia Almazova",
-    "content": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-    "contentSnippet": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-    "guid": "6a32abc795ac419546b4343e",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-06-18T22:12:45.000Z",
-    "source": "Wired AI",
-    "slug": "how-the-peter-thiel-linked-dialog-club-secretly-ranks-its-members"
   }
 ]
