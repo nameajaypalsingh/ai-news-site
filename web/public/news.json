@@ -70,6 +70,20 @@
     "slug": "the-film-about-sam-altman-has-been-dropped-by-amazon-mgm"
   },
   {
+    "title": "(No AI) Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "contentSnippet": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "guid": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-06-21T23:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "samsung-electronics-brings-chatgpt-and-codex-to-employees"
+  },
+  {
     "title": "(No AI) New usage analytics and updated spend controls for enterprises",
     "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
@@ -82,20 +96,6 @@
     "isoDate": "2026-06-18T17:00:00.000Z",
     "source": "OpenAI",
     "slug": "new-usage-analytics-and-updated-spend-controls-for-enterprises"
-  },
-  {
-    "title": "(No AI) Improving health intelligence in ChatGPT",
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
-    "content": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "contentSnippet": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "guid": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-06-18T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "improving-health-intelligence-in-chatgpt"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
