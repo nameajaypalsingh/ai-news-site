@@ -44,32 +44,46 @@
     "slug": "4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026"
   },
   {
-    "title": "(No AI) Why corporate AI super PACs spent $27 million on a local election",
-    "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-    "pubDate": "2026-06-23T17:00:00.000Z",
-    "author": "Tina Nguyen",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Hello and welcome to_ Regulator_, the newsletter for_ Verge _subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet?_ [_Sign up here_](https://www.theverge.com/subscribe)_, especially if you want the hot scoop on_ [_quality Amazon Prime Day deals_](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale) _recommended by the wonderful humans of_ The Verge's _newsroom, and_ not _by a slop algorithm._\n\n_Some news:_ The Verge _now has a special subscription price of_ [_$10 / year for students with a valid email address_](https://www.theverge.com/subscribe-students)_! It gets you everything that a regular subscription gets: ad-free podcasts, subscriber Q&As, and much, much more._\n\n_We're coming to you …_\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district)",
-    "contentSnippet": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's newsroom, and not by a slop algorithm. \nSome news: The Verge now has a special subscription price of $10 / year for students with a valid email address! It gets you everything that a regular subscription gets: ad-free podcasts, subscriber Q&As, and much, much more.\nWe're coming to you …\nRead the full story at The Verge.",
-    "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's [&#8230;]",
-    "id": "https://www.theverge.com/?p=954970",
-    "isoDate": "2026-06-23T17:00:00.000Z",
+    "title": "(No AI) Nvidia says its AI data center design runs hotter to use a lot less water",
+    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "pubDate": "2026-06-22T23:24:32.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPublic pushback against data centers has emphasized their [water and energy consumption](https://www.theverge.com/news/845831/ai-chips-data-center-power-water), and now Nvidia is [highlighting](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the [power generation requirements](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) of the massive facilities. Also, as [_Gizmodo_](https://gizmodo.com/nvidia-touts-100-reduction-in-water-use-with-new-data-center-design-2000775354) points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)",
+    "contentSnippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the power generation requirements of the massive facilities. Also, as Gizmodo points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud  …\nRead the full story at The Verge.",
+    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+    "id": "https://www.theverge.com/?p=954139",
+    "isoDate": "2026-06-22T23:24:32.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-corporate-ai-super-pacs-spent-27-million-on-a-local-election"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-says-its-ai-data-center-design-runs-hotter-to-use-a-lot-less-water"
   },
   {
-    "title": "(No AI) Something’s off with Midjourney’s pivot to body scanners",
-    "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-    "pubDate": "2026-06-23T15:56:35.000Z",
-    "author": "Robert Hart",
-    "content": "![Midjourney Medical 3D scans of a “phantom” body](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&strip=all&crop=0,0,100,100)\n\nA scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\n\nLast week, Midjourney, an AI startup best known for its image generator, [made an unusual pivot](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan): medical imaging.\n\nThe company [announced](https://www.midjourney.com/medical/blogpost) a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal is to help people live longer, better, and healthier lives. CEO David Holz has [suggested](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) the system could one day be better than MRI. Experts are skeptical. While several medical imaging specialists told _The Verge_ they were not dismissive of the idea outright, they said Midjourney has shown little public evidence to su …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence)",
-    "contentSnippet": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nLast week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. \nThe company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal is to help people live longer, better, and healthier lives. CEO David Holz has suggested the system could one day be better than MRI. Experts are skeptical. While several medical imaging specialists told The Verge they were not dismissive of the idea outright, they said Midjourney has shown little public evidence to su …\nRead the full story at The Verge.",
-    "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
-    "id": "https://www.theverge.com/?p=954826",
-    "isoDate": "2026-06-23T15:56:35.000Z",
+    "title": "(No AI) AI is cursing renters with the promise of impossible homes",
+    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "pubDate": "2026-06-22T20:00:00.000Z",
+    "author": "Gaby Del Valle",
+    "content": "![Photo collage of images that use virtual staging.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJoyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan.\n\n\"It was big and airy, and there was a fireplace,\" she said. The kitchen was small but well equipped and looked like it had been recently renovated. She dropped everything to see the apartment, and when she got there, she learned that five other women, all around her age, had viewings scheduled after hers.\n\n\"I get in, and it's not the same apartment …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings)",
+    "contentSnippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \n\"It was big and airy, and there was a fireplace,\" she said. The kitchen was small but well equipped and looked like it had been recently renovated. She dropped everything to see the apartment, and when she got there, she learned that five other women, all around her age, had viewings scheduled after hers.\n\"I get in, and it's not the same apartment …\nRead the full story at The Verge.",
+    "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
+    "id": "https://www.theverge.com/?p=953888",
+    "isoDate": "2026-06-22T20:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "something-s-off-with-midjourney-s-pivot-to-body-scanners"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-is-cursing-renters-with-the-promise-of-impossible-homes"
+  },
+  {
+    "title": "(No AI) Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "pubDate": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "contentSnippet": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "guid": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-06-23T13:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "helping-build-shared-standards-for-advanced-ai"
   },
   {
     "title": "(No AI) How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -84,17 +98,6 @@
     "isoDate": "2026-06-23T17:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-gpt-5-helped-immunologist-derya-unutmaz-solve-a-3-year-old-mystery"
-  },
-  {
-    "title": "(No AI) How Omio is building the future of conversational travel",
-    "link": "https://openai.com/index/omio",
-    "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "content": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "contentSnippet": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "guid": "https://openai.com/index/omio",
-    "isoDate": "2026-06-23T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-omio-is-building-the-future-of-conversational-travel"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
