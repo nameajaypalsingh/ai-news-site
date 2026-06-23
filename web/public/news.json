@@ -1,41 +1,54 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) The AI world is getting ‘loopy’",
-    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-    "contentSnippet": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-    "guid": "https://techcrunch.com/?p=3135102",
+    "creator": "Rebecca Bellan, Connie Loizos",
+    "title": "(No AI) The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "dc:creator": "Rebecca Bellan, Connie Loizos",
+    "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "contentSnippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "guid": "https://techcrunch.com/?p=3132769",
     "categories": [
       "AI",
-      "agentic ai",
-      "boris cherny"
+      "TC",
+      "Layoffs"
     ],
-    "isoDate": "2026-06-22T20:53:11.000Z",
+    "isoDate": "2026-06-23T01:27:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-ai-world-is-getting-loopy"
+    "slug": "the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-    "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-    "contentSnippet": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-    "guid": "https://techcrunch.com/?p=3134907",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI launches new initiative to help find and patch open-source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "contentSnippet": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "guid": "https://techcrunch.com/?p=3135162",
     "categories": [
       "AI",
-      "Hardware",
-      "Startups",
-      "TC",
-      "groq"
+      "open source software",
+      "OpenAI",
+      "Trail of Bits"
     ],
-    "isoDate": "2026-06-22T20:13:58.000Z",
+    "isoDate": "2026-06-23T00:11:31.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia-s-20b-not-acqui-hire-deal"
+    "slug": "openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs"
+  },
+  {
+    "title": "(No AI) Nvidia says its AI data center design runs hotter to use a lot less water",
+    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "pubDate": "2026-06-22T23:24:32.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPublic pushback against data centers has emphasized their [water and energy consumption](https://www.theverge.com/news/845831/ai-chips-data-center-power-water), and now Nvidia is [highlighting](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the [power generation requirements](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) of the massive facilities. Also, as [_Gizmodo_](https://gizmodo.com/nvidia-touts-100-reduction-in-water-use-with-new-data-center-design-2000775354) points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)",
+    "contentSnippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the power generation requirements of the massive facilities. Also, as Gizmodo points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud  …\nRead the full story at The Verge.",
+    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+    "id": "https://www.theverge.com/?p=954139",
+    "isoDate": "2026-06-22T23:24:32.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-says-its-ai-data-center-design-runs-hotter-to-use-a-lot-less-water"
   },
   {
     "title": "(No AI) AI is cursing renters with the promise of impossible homes",
@@ -52,18 +65,18 @@
     "slug": "ai-is-cursing-renters-with-the-promise-of-impossible-homes"
   },
   {
-    "title": "(No AI) Read this before you vibe-code another app",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-    "pubDate": "2026-06-22T11:00:00.000Z",
-    "author": "Yael Grauer",
-    "content": "![An illustration of a laptop coding in front of green code and it’s melting](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nBob Starr was delighted with his vibe-coded website. [\"Boomberg\"](https://boomberg.xyz/) showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to.\n\n\"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new technology and understanding it, and I'm sure there are others making the same mistake,\" said Starr, a project manager in the tech sector.\n\n> \"It was …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps)",
-    "contentSnippet": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site open for an attacker to read or alter data they shouldn't have access to. \n\"It was just a glaring oversight on my part. It was a complete blindspot in my state of learning this new technology and understanding it, and I'm sure there are others making the same mistake,\" said Starr, a project manager in the tech sector.\n\n\"It was …\n\nRead the full story at The Verge.",
-    "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site [&#8230;]",
-    "id": "https://www.theverge.com/?p=950844",
-    "isoDate": "2026-06-22T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "read-this-before-you-vibe-code-another-app"
+    "title": "(No AI) Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "guid": "https://openai.com/index/patch-the-planet",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-06-22T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers"
   },
   {
     "title": "(No AI) Daybreak: Tools for securing every organization in the world",
@@ -78,20 +91,6 @@
     "isoDate": "2026-06-22T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "daybreak-tools-for-securing-every-organization-in-the-world"
-  },
-  {
-    "title": "(No AI) Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "guid": "https://openai.com/index/patch-the-planet",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-06-22T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
