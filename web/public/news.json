@@ -19,12 +19,12 @@
   },
   {
     "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI launches new initiative to help find and patch open-source bugs",
+    "title": "(No AI) OpenAI launches new initiative to help find and patch open source bugs",
     "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "OpenAI is attempting to tackle the security issues of the open source software community.",
-    "contentSnippet": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "content": "OpenAI is using AI to help the open source community better protect itself.",
+    "contentSnippet": "OpenAI is using AI to help the open source community better protect itself.",
     "guid": "https://techcrunch.com/?p=3135162",
     "categories": [
       "AI",
@@ -65,20 +65,6 @@
     "slug": "ai-is-cursing-renters-with-the-promise-of-impossible-homes"
   },
   {
-    "title": "(No AI) Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "guid": "https://openai.com/index/patch-the-planet",
-    "categories": [
-      "Security"
-    ],
-    "isoDate": "2026-06-22T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers"
-  },
-  {
     "title": "(No AI) Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world",
     "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
@@ -91,6 +77,20 @@
     "isoDate": "2026-06-22T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "daybreak-tools-for-securing-every-organization-in-the-world"
+  },
+  {
+    "title": "(No AI) Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "guid": "https://openai.com/index/patch-the-planet",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-06-22T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
