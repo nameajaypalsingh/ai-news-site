@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "pubDate": "Tue, 23 Jun 2026 23:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "contentSnippet": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "guid": "https://techcrunch.com/?p=3135480",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "Aampe",
+      "ai agent",
+      "MoEngage"
+    ],
+    "isoDate": "2026-06-23T23:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "india-s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Anthropic’s Claude Tag is learning your company, one Slack message at a time",
     "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
@@ -21,55 +41,32 @@
     "slug": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "pubDate": "Tue, 23 Jun 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "contentSnippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "guid": "https://techcrunch.com/?p=3135249",
-    "categories": [
-      "AI",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Startups",
-      "TechCrunch Founder Summit 2026"
-    ],
-    "isoDate": "2026-06-23T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026"
-  },
-  {
-    "title": "(No AI) Nvidia says its AI data center design runs hotter to use a lot less water",
-    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-    "pubDate": "2026-06-22T23:24:32.000Z",
+    "title": "(No AI) Google Home will soon get better at recognizing you",
+    "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+    "pubDate": "2026-06-23T22:28:19.000Z",
     "author": "Stevie Bonifield",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPublic pushback against data centers has emphasized their [water and energy consumption](https://www.theverge.com/news/845831/ai-chips-data-center-power-water), and now Nvidia is [highlighting](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the [power generation requirements](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) of the massive facilities. Also, as [_Gizmodo_](https://gizmodo.com/nvidia-touts-100-reduction-in-water-use-with-new-data-center-design-2000775354) points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)",
-    "contentSnippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data centers, including during their construction, and for the power generation requirements of the massive facilities. Also, as Gizmodo points out, Nvidia's blog post doesn't mention the cost of building this style of data center vs. one using less efficient air cooling, but claims that \"every cloud  …\nRead the full story at The Verge.",
-    "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
-    "id": "https://www.theverge.com/?p=954139",
-    "isoDate": "2026-06-22T23:24:32.000Z",
+    "content": "![A Google Home logo on a blue and white illustration with the Matter logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA new [update](https://support.google.com/googlehome/answer/15962877?hl=en#zippy=%2Cjune) for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\"\n\nThe Familiar Faces library will also begin automatically updating with the most recent images of everyone in your house, so you should get fewer inaccurate notifications from outdated examples.\n\nGoogle also says …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing)",
+    "contentSnippet": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" \nThe Familiar Faces library will also begin automatically updating with the most recent images of everyone in your house, so you should get fewer inaccurate notifications from outdated examples.\nGoogle also says  …\nRead the full story at The Verge.",
+    "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces [&#8230;]",
+    "id": "https://www.theverge.com/?p=955385",
+    "isoDate": "2026-06-23T22:28:19.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nvidia-says-its-ai-data-center-design-runs-hotter-to-use-a-lot-less-water"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-home-will-soon-get-better-at-recognizing-you"
   },
   {
-    "title": "(No AI) AI is cursing renters with the promise of impossible homes",
-    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-    "pubDate": "2026-06-22T20:00:00.000Z",
-    "author": "Gaby Del Valle",
-    "content": "![Photo collage of images that use virtual staging.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJoyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan.\n\n\"It was big and airy, and there was a fireplace,\" she said. The kitchen was small but well equipped and looked like it had been recently renovated. She dropped everything to see the apartment, and when she got there, she learned that five other women, all around her age, had viewings scheduled after hers.\n\n\"I get in, and it's not the same apartment …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings)",
-    "contentSnippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \n\"It was big and airy, and there was a fireplace,\" she said. The kitchen was small but well equipped and looked like it had been recently renovated. She dropped everything to see the apartment, and when she got there, she learned that five other women, all around her age, had viewings scheduled after hers.\n\"I get in, and it's not the same apartment …\nRead the full story at The Verge.",
-    "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
-    "id": "https://www.theverge.com/?p=953888",
-    "isoDate": "2026-06-22T20:00:00.000Z",
+    "title": "(No AI) Hollywood is bending the knee to OpenAI",
+    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "pubDate": "2026-06-23T22:03:18.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489)\n\nNetflix, A24, Focus Features, and Warner Bros.' Clockwork have all [reportedly](https://variety.com/2026/film/global/luca-guadagnino-artificial-sam-altman-netflix-a24-mubi-1236786623/) decided to pass on picking up [_Artificial_](https://www.theverge.com/news/679007/theres-going-to-be-a-movie-about-openai-ceo-sam-altmans-ouster-and-subsequent-rehire) \\- director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while [Neon and Mubi](https://www.vulture.com/article/luca-guadagninos-sam-altman-movie-mubi-neon.html) are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\n\nPostproduction on [_Artificial_](https://www.theverge.com/news/679007/theres-going-to-be-a-movie-about-openai-ceo-sam-altmans-ouster-and-subsequent-rehire) was nearly finished when [Amazon MGM unexpectedly announced last week](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that [Amazon …](https://www.forbes.com/sites/maryroeloffs/2026/06/22/what-we-know-about-the-future-of-amazons-dropped-sam-altman-film-biopic-after-amazon-netflix-passed/)\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)",
+    "contentSnippet": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\nPostproduction on Artificial was nearly finished when Amazon MGM unexpectedly announced last week that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that Amazon …\nRead the full story at The Verge.",
+    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
+    "id": "https://www.theverge.com/?p=954899",
+    "isoDate": "2026-06-23T22:03:18.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-is-cursing-renters-with-the-promise-of-impossible-homes"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+    "slug": "hollywood-is-bending-the-knee-to-openai"
   },
   {
     "title": "(No AI) Helping build shared standards for advanced AI",
