@@ -1,5 +1,25 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+    "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "pubDate": "Wed, 24 Jun 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+    "contentSnippet": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+    "guid": "https://techcrunch.com/?p=3135631",
+    "categories": [
+      "TC",
+      "Startups",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit 2026"
+    ],
+    "isoDate": "2026-06-24T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "3-days-left-to-save-up-to-190-on-your-techcrunch-founder-summit-2026-pass"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) India’s MoEngage bets that the future of marketing is millions of AI agents",
     "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
@@ -20,25 +40,18 @@
     "slug": "india-s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "pubDate": "Tue, 23 Jun 2026 17:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-    "contentSnippet": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-    "guid": "https://techcrunch.com/?p=3135349",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Anthropic",
-      "Claude",
-      "claude tag",
-      "Enterprise AI"
-    ],
-    "isoDate": "2026-06-23T17:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time"
+    "title": "(No AI) The Google Home Speaker sounds good and looks great — but it’s finicky",
+    "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+    "pubDate": "2026-06-24T13:00:00.000Z",
+    "author": "David Pierce",
+    "content": "![A photo of a round, red smart speaker on a table.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Speaker comes in four colors… but red is the way. | Photo: David Pierce / The Verge\n\nRight out of the box, the [new Google Home Speaker](https://www.theverge.com/tech/788085/hands-on-google-home-speaker) passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't missed a single wake word - except for the time I stage-whispered to it from the other room while trying to avoid waking up the baby, but I'm not sure that's a fair test. I set up the speaker in the bathroom and chatted with it from the shower; Siri hardly ever hears me over the running water, but Google did pretty well.\n\nThese are the sort …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on)",
+    "contentSnippet": "The Speaker comes in four colors… but red is the way. | Photo: David Pierce / The Verge\t\n\nRight out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't missed a single wake word - except for the time I stage-whispered to it from the other room while trying to avoid waking up the baby, but I'm not sure that's a fair test. I set up the speaker in the bathroom and chatted with it from the shower; Siri hardly ever hears me over the running water, but Google did pretty well.\nThese are the sort …\nRead the full story at The Verge.",
+    "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+    "id": "https://www.theverge.com/?p=955537",
+    "isoDate": "2026-06-24T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-google-home-speaker-sounds-good-and-looks-great-but-it-s-finicky"
   },
   {
     "title": "(No AI) Google Home will soon get better at recognizing you",
@@ -55,18 +68,18 @@
     "slug": "google-home-will-soon-get-better-at-recognizing-you"
   },
   {
-    "title": "(No AI) Hollywood is bending the knee to OpenAI",
-    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "pubDate": "2026-06-23T22:03:18.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489)\n\nNetflix, A24, Focus Features, and Warner Bros.' Clockwork have all [reportedly](https://variety.com/2026/film/global/luca-guadagnino-artificial-sam-altman-netflix-a24-mubi-1236786623/) decided to pass on picking up [_Artificial_](https://www.theverge.com/news/679007/theres-going-to-be-a-movie-about-openai-ceo-sam-altmans-ouster-and-subsequent-rehire) \\- director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while [Neon and Mubi](https://www.vulture.com/article/luca-guadagninos-sam-altman-movie-mubi-neon.html) are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\n\nPostproduction on [_Artificial_](https://www.theverge.com/news/679007/theres-going-to-be-a-movie-about-openai-ceo-sam-altmans-ouster-and-subsequent-rehire) was nearly finished when [Amazon MGM unexpectedly announced last week](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped) that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that [Amazon …](https://www.forbes.com/sites/maryroeloffs/2026/06/22/what-we-know-about-the-future-of-amazons-dropped-sam-altman-film-biopic-after-amazon-netflix-passed/)\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)",
-    "contentSnippet": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\nPostproduction on Artificial was nearly finished when Amazon MGM unexpectedly announced last week that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that Amazon …\nRead the full story at The Verge.",
-    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
-    "id": "https://www.theverge.com/?p=954899",
-    "isoDate": "2026-06-23T22:03:18.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-    "slug": "hollywood-is-bending-the-knee-to-openai"
+    "title": "(No AI) OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "pubDate": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "contentSnippet": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "guid": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-06-24T06:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-and-broadcom-unveil-llm-optimized-inference-chip"
   },
   {
     "title": "(No AI) Helping build shared standards for advanced AI",
@@ -81,20 +94,6 @@
     "isoDate": "2026-06-23T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "helping-build-shared-standards-for-advanced-ai"
-  },
-  {
-    "title": "(No AI) How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "pubDate": "Tue, 23 Jun 2026 17:00:00 GMT",
-    "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "contentSnippet": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "guid": "https://openai.com/index/gpt-5-immunology-mystery",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-06-23T17:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-gpt-5-helped-immunologist-derya-unutmaz-solve-a-3-year-old-mystery"
   },
   {
     "title": "(No AI) Unlocking UK house-building with AI-accelerated planning",
@@ -119,6 +118,23 @@
     "slug": "securing-the-future-of-ai-agents"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+    "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+    "pubDate": "Wed, 24 Jun 2026 12:36:07 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+    "contentSnippet": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+    "guid": "6a3bbfc8948ac8a4d6f81849",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-24T12:36:07.000Z",
+    "source": "Wired AI",
+    "slug": "qualcomm-buys-buzzy-chip-startup-modular-for-nearly-4-billion"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) Meta Pauses Employee-Tracking Program Following Internal Data Leak",
     "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
@@ -134,22 +150,5 @@
     "isoDate": "2026-06-22T21:08:09.000Z",
     "source": "Wired AI",
     "slug": "meta-pauses-employee-tracking-program-following-internal-data-leak"
-  },
-  {
-    "creator": "Paresh Dave, Lauren Goode",
-    "title": "(No AI) Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-    "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
-    "pubDate": "Mon, 22 Jun 2026 20:28:53 +0000",
-    "dc:creator": "Paresh Dave, Lauren Goode",
-    "content": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-    "contentSnippet": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-    "guid": "6a398063b817861918a9c50f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-22T20:28:53.000Z",
-    "source": "Wired AI",
-    "slug": "meta-exposed-data-internally-from-its-controversial-employee-tracking-program"
   }
 ]
