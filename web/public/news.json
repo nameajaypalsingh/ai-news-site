@@ -1,46 +1,59 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Europe is pushing back on Washington’s chip war",
-    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "pubDate": "Thu, 25 Jun 2026 00:08:36 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-    "contentSnippet": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-    "guid": "https://techcrunch.com/?p=3136032",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+    "pubDate": "Thu, 25 Jun 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+    "contentSnippet": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+    "guid": "https://techcrunch.com/?p=3136070",
     "categories": [
-      "AI",
       "TC",
-      "AI chips",
-      "ASML",
-      "In Brief"
+      "Startups",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit 2026"
     ],
-    "isoDate": "2026-06-25T00:08:36.000Z",
+    "isoDate": "2026-06-25T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "europe-is-pushing-back-on-washington-s-chip-war"
+    "slug": "2-days-left-to-save-up-to-190-join-1-000-founders-and-investors-at-techcrunch-founder-summit"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Former Infosys chief has a new startup that wants to challenge the IT services world",
-    "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-    "pubDate": "Wed, 24 Jun 2026 23:26:52 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-    "contentSnippet": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-    "guid": "https://techcrunch.com/?p=3135964",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "pubDate": "Thu, 25 Jun 2026 13:30:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "contentSnippet": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "guid": "https://techcrunch.com/?p=3136081",
     "categories": [
       "AI",
-      "Startups",
-      "Aramco Ventures",
-      "Hang Ten Systems",
-      "infosys",
-      "it services",
-      "mayfield",
-      "Vishal Sikka"
+      "Apps",
+      "Adobe",
+      "Creative Cloud",
+      "Mergers and Acquisitions",
+      "topaz labs",
+      "Video enhancement"
     ],
-    "isoDate": "2026-06-24T23:26:52.000Z",
+    "isoDate": "2026-06-25T13:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world"
+    "slug": "adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs"
+  },
+  {
+    "title": "(No AI) Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "pubDate": "2026-06-25T12:00:00.000Z",
+    "author": "Andrew J. Hawkins",
+    "content": "![The Ford logo on a graphic blue and white background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTo celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots.\n\nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes)",
+    "contentSnippet": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots. \nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\nRead the full story at The Verge.",
+    "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+    "id": "https://www.theverge.com/?p=956316",
+    "isoDate": "2026-06-25T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its-automated-systems"
   },
   {
     "title": "(No AI) Facebook’s Creator Studio has been revived as an AI companion app",
@@ -55,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "facebook-s-creator-studio-has-been-revived-as-an-ai-companion-app"
-  },
-  {
-    "title": "(No AI) Congresswoman denies staff used AI to write defense funding amendment",
-    "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-    "pubDate": "2026-06-24T19:36:46.000Z",
-    "author": "Emma Roth",
-    "content": "![Image of US Congress](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nRep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\"\n\nLuna issued the response after accounts on X [began sharing screenshots](https://x.com/RepLuna/status/2069848227398963384) of an amendment summary for the 2027 National Defense Authorization Act. It reads: \"Identical to H.R. 100 (118th Congress).11:25 AM????Claude responded: Requires the Secretary of Defense to designate Department of Defense activities, support, and operations at the southwest land border as a named operation with…\"\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-bill-luna.png?quality=90&strip=all&crop=0,6.1935248525236,100,86.251039296683)via X\">\n\nAt first, Luna's response seemingly indic …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)",
-    "contentSnippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for  a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\"\nLuna issued the response after accounts on X began sharing screenshots of an amendment summary for the 2027 National Defense Authorization Act. It reads: \"Identical to H.R. 100 (118th Congress).11:25 AM????Claude responded: Requires the Secretary of Defense to designate Department of Defense activities, support, and operations at the southwest land border as a named operation with…\"\nAt first, Luna's response seemingly indic …\nRead the full story at The Verge.",
-    "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
-    "id": "https://www.theverge.com/?p=956394",
-    "isoDate": "2026-06-24T19:36:46.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "congresswoman-denies-staff-used-ai-to-write-defense-funding-amendment"
   },
   {
     "title": "(No AI) How agents are transforming work",
@@ -121,6 +120,23 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Sam Cunningham",
+    "title": "(No AI) World Cup Teams Are in a Race for AI Dominance",
+    "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "pubDate": "Thu, 25 Jun 2026 11:00:00 +0000",
+    "dc:creator": "Sam Cunningham",
+    "content": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+    "contentSnippet": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+    "guid": "6a3946beead7f254c141ec7c",
+    "categories": [
+      "Business",
+      "Culture"
+    ],
+    "isoDate": "2026-06-25T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "world-cup-teams-are-in-a-race-for-ai-dominance"
+  },
+  {
     "creator": "Matt Burgess, Mark Wilding",
     "title": "(No AI) British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
     "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
@@ -137,22 +153,5 @@
     "isoDate": "2026-06-25T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "british-police-built-a-sprawling-crime-prediction-machine-some-results-couldn-t-be-trusted"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) How to Opt Out of Google Search’s New AI Data Training Feature",
-    "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
-    "pubDate": "Wed, 24 Jun 2026 22:36:16 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-    "contentSnippet": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
-    "guid": "6a3ad3dd2e97bc3be49b8cec",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-06-24T22:36:16.000Z",
-    "source": "Wired AI",
-    "slug": "how-to-opt-out-of-google-search-s-new-ai-data-training-feature"
   }
 ]
