@@ -1,43 +1,43 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "pubDate": "Wed, 24 Jun 2026 20:09:45 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-    "contentSnippet": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-    "guid": "https://techcrunch.com/?p=3135849",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Europe is pushing back on Washington’s chip war",
+    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "pubDate": "Thu, 25 Jun 2026 00:08:36 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+    "contentSnippet": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+    "guid": "https://techcrunch.com/?p=3136032",
     "categories": [
       "AI",
-      "Accenture",
-      "In Brief",
-      "tokenmaxxing"
+      "TC"
     ],
-    "isoDate": "2026-06-24T20:09:45.000Z",
+    "isoDate": "2026-06-25T00:08:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks"
+    "slug": "europe-is-pushing-back-on-washington-s-chip-war"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Facebook rolls out an AI companion app for creators",
-    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "pubDate": "Wed, 24 Jun 2026 17:16:24 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-    "contentSnippet": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-    "guid": "https://techcrunch.com/?p=3135724",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "pubDate": "Wed, 24 Jun 2026 23:26:52 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "contentSnippet": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "guid": "https://techcrunch.com/?p=3135964",
     "categories": [
       "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "Meta",
-      "social media"
+      "Startups",
+      "Aramco Ventures",
+      "Hang Ten Systems",
+      "infosys",
+      "it services",
+      "mayfield",
+      "Vishal Sikka"
     ],
-    "isoDate": "2026-06-24T17:16:24.000Z",
+    "isoDate": "2026-06-24T23:26:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "facebook-rolls-out-an-ai-companion-app-for-creators"
+    "slug": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world"
   },
   {
     "title": "(No AI) Congresswoman denies staff used AI to write defense funding amendment",
@@ -118,6 +118,23 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) How to Opt Out of Google Search’s New AI Data Training Feature",
+    "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+    "pubDate": "Wed, 24 Jun 2026 22:36:16 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+    "contentSnippet": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+    "guid": "6a3ad3dd2e97bc3be49b8cec",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-06-24T22:36:16.000Z",
+    "source": "Wired AI",
+    "slug": "how-to-opt-out-of-google-search-s-new-ai-data-training-feature"
+  },
+  {
     "creator": "John Semley",
     "title": "(No AI) A24 Knows You’re Mad About the Google AI Collab",
     "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
@@ -133,22 +150,5 @@
     "isoDate": "2026-06-24T21:05:51.000Z",
     "source": "Wired AI",
     "slug": "a24-knows-you-re-mad-about-the-google-ai-collab"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-    "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-    "pubDate": "Wed, 24 Jun 2026 18:45:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-    "contentSnippet": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-    "guid": "6a394366fe938d9767d23e06",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-24T18:45:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-met-with-china-s-top-ai-experts-they-re-freaking-out-too"
   }
 ]
