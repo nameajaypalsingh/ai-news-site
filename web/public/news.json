@@ -1,45 +1,46 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-    "pubDate": "Thu, 25 Jun 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
-    "contentSnippet": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
-    "guid": "https://techcrunch.com/?p=3136070",
+    "creator": "Julie Bort",
+    "title": "(No AI) Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "contentSnippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "guid": "https://techcrunch.com/?p=3135892",
     "categories": [
-      "TC",
-      "Startups",
       "AI",
-      "Fundraising",
-      "TechCrunch Founder Summit 2026"
+      "Anthropic",
+      "ChatGPT",
+      "Claude",
+      "OpenAI"
     ],
-    "isoDate": "2026-06-25T14:00:00.000Z",
+    "isoDate": "2026-06-25T17:38:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "2-days-left-to-save-up-to-190-join-1-000-founders-and-investors-at-techcrunch-founder-summit"
+    "slug": "anthropic-s-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Adobe acquires image and video enhancement tool maker Topaz Labs",
-    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-    "pubDate": "Thu, 25 Jun 2026 13:30:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-    "contentSnippet": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-    "guid": "https://techcrunch.com/?p=3136081",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "contentSnippet": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "guid": "https://techcrunch.com/?p=3136038",
     "categories": [
       "AI",
-      "Apps",
-      "Adobe",
-      "Creative Cloud",
-      "Mergers and Acquisitions",
-      "topaz labs",
-      "Video enhancement"
+      "Fundraising",
+      "Robotics",
+      "Startups",
+      "AI training data",
+      "general intuition",
+      "Khosla Ventures",
+      "world models"
     ],
-    "isoDate": "2026-06-25T13:30:00.000Z",
+    "isoDate": "2026-06-25T16:55:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs"
+    "slug": "general-intuition-s-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world"
   },
   {
     "title": "(No AI) Ford had to hire back former engineers to fix mistakes made by its automated systems",
