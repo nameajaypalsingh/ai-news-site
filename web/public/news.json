@@ -122,6 +122,22 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Rim Zrein",
+    "title": "(No AI) How Qatar Became FIFA’s Technology Test Lab",
+    "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+    "pubDate": "Fri, 26 Jun 2026 10:00:00 +0000",
+    "dc:creator": "Rim Zrein",
+    "content": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+    "contentSnippet": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+    "guid": "6a3a884c156b312e931e893c",
+    "categories": [
+      "Gear"
+    ],
+    "isoDate": "2026-06-26T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "how-qatar-became-fifa-s-technology-test-lab"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Anthropic Thinks Its Own Success Is Key to Making AI Safe",
     "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
@@ -137,22 +153,5 @@
     "isoDate": "2026-06-26T00:49:13.000Z",
     "source": "Wired AI",
     "slug": "anthropic-thinks-its-own-success-is-key-to-making-ai-safe"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-    "pubDate": "Thu, 25 Jun 2026 23:13:45 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
-    "contentSnippet": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
-    "guid": "6a3c2ac37ec0adce1702381b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-25T23:13:45.000Z",
-    "source": "Wired AI",
-    "slug": "why-amazon-dropped-its-openai-movie-data-center-workers-fight-back-and-meta-leaks-employee-data"
   }
 ]
