@@ -1,50 +1,45 @@
 [
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a \\[…\\]",
-    "contentSnippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3136708",
-    "categories": [
-      "AI",
-      "a24",
-      "agility",
-      "AI chips",
-      "AI loops",
-      "Anthropic",
-      "custom silicon",
-      "Equity Video",
-      "groq",
-      "humanoid robots",
-      "nvidia",
-      "OpenAI",
-      "SPAC"
-    ],
-    "isoDate": "2026-06-26T17:43:22.000Z",
-    "source": "TechCrunch AI",
-    "slug": "why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia"
-  },
-  {
-    "creator": "Russell Brandom",
-    "title": "(No AI) It’s not about Anthropic vs. OpenAI anymore",
-    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "contentSnippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "guid": "https://techcrunch.com/?p=3136684",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "contentSnippet": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "guid": "https://techcrunch.com/?p=3136773",
     "categories": [
       "AI",
       "Government & Policy",
-      "Anthropic",
-      "OpenAI"
+      "gpt-5.6",
+      "gpt-5.6 sol",
+      "OpenAI",
+      "Trump"
     ],
-    "isoDate": "2026-06-26T16:24:47.000Z",
+    "isoDate": "2026-06-26T18:32:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "it-s-not-about-anthropic-vs-openai-anymore"
+    "slug": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn-t-be-the-norm"
+  },
+  {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "contentSnippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "guid": "https://techcrunch.com/?p=3136733",
+    "categories": [
+      "AI",
+      "Startups",
+      "Transportation",
+      "OpenAI",
+      "Prabhjeet Singh",
+      "Uber"
+    ],
+    "isoDate": "2026-06-26T18:19:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us"
   },
   {
     "title": "(No AI) OpenAI unveils GPT-5.6 amid US AI regulatory drama",
