@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "contentSnippet": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "guid": "https://techcrunch.com/?p=3136540",
+    "categories": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "Mythos",
+      "OpenAI",
+      "sam altman",
+      "Trump"
+    ],
+    "isoDate": "2026-06-25T23:34:39.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
@@ -23,24 +45,18 @@
     "slug": "patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "contentSnippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "guid": "https://techcrunch.com/?p=3135892",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "Claude",
-      "OpenAI"
-    ],
-    "isoDate": "2026-06-25T17:38:27.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt"
+    "title": "(No AI) OpenAI will delay GPT-5.6 after Trump administration request",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "pubDate": "2026-06-25T21:57:06.000Z",
+    "author": "Hayden Field",
+    "content": "![Sam Altman with OpenAI logo on green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Trump administration, apprehensive of potential security issues, has [reportedly](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.\n\n_The Information_ reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\n\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)",
+    "contentSnippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. \nThe Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\nRead the full story at The Verge.",
+    "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+    "id": "https://www.theverge.com/?p=957372",
+    "isoDate": "2026-06-25T21:57:06.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-will-delay-gpt-5-6-after-trump-administration-request"
   },
   {
     "title": "(No AI) Ford had to hire back former engineers to fix mistakes made by its automated systems",
@@ -55,20 +71,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its-automated-systems"
-  },
-  {
-    "title": "(No AI) Facebook’s Creator Studio has been revived as an AI companion app",
-    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-    "pubDate": "2026-06-25T09:06:19.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Meta’s new Creator Studio app for Facebook creators.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThis is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\n\nMeta is bringing back the [Facebook Creator Studio](https://creators.facebook.com/blog/introducing-new-facebook-creator-studio) page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\n\n[Meta's AI Creator Assistant](https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/) is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience and \"instantly draft replies in your voice.\"\n\n![Examples of AI-powered commenting features inside the reimagined Facebook Creator Studio.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-25-095344.jpg?quality=90&strip=all&crop=0,0,100,100 \"Examples of AI-powered commenting features inside the reimagined Facebook Creator Studio.\")\n\nThe Creator Studio app isn't widely ava …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch)",
-    "contentSnippet": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely ava …\nRead the full story at The Verge.",
-    "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
-    "id": "https://www.theverge.com/?p=956668",
-    "isoDate": "2026-06-25T09:06:19.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "facebook-s-creator-studio-has-been-revived-as-an-ai-companion-app"
   },
   {
     "title": "(No AI) How agents are transforming work",
@@ -121,38 +123,37 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
-    "creator": "Sam Cunningham",
-    "title": "(No AI) World Cup Teams Are in a Race for AI Dominance",
-    "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-    "pubDate": "Thu, 25 Jun 2026 11:00:00 +0000",
-    "dc:creator": "Sam Cunningham",
-    "content": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-    "contentSnippet": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-    "guid": "6a3946beead7f254c141ec7c",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+    "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "pubDate": "Fri, 26 Jun 2026 00:49:13 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+    "contentSnippet": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+    "guid": "6a3c384be6c7ac5cabfbc839",
     "categories": [
       "Business",
-      "Culture"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-25T11:00:00.000Z",
+    "isoDate": "2026-06-26T00:49:13.000Z",
     "source": "Wired AI",
-    "slug": "world-cup-teams-are-in-a-race-for-ai-dominance"
+    "slug": "anthropic-thinks-its-own-success-is-key-to-making-ai-safe"
   },
   {
-    "creator": "Matt Burgess, Mark Wilding",
-    "title": "(No AI) British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-    "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-    "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000",
-    "dc:creator": "Matt Burgess, Mark Wilding",
-    "content": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-    "contentSnippet": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-    "guid": "6a177f6e215f421c318c61bd",
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "pubDate": "Thu, 25 Jun 2026 23:13:45 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+    "contentSnippet": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+    "guid": "6a3c2ac37ec0adce1702381b",
     "categories": [
-      "The Big Story",
-      "Security",
-      "Security / Privacy"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-25T10:00:00.000Z",
+    "isoDate": "2026-06-25T23:13:45.000Z",
     "source": "Wired AI",
-    "slug": "british-police-built-a-sprawling-crime-prediction-machine-some-results-couldn-t-be-trusted"
+    "slug": "why-amazon-dropped-its-openai-movie-data-center-workers-fight-back-and-meta-leaks-employee-data"
   }
 ]
