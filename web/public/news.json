@@ -1,5 +1,28 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "contentSnippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "guid": "https://techcrunch.com/?p=3136609",
+    "categories": [
+      "TC",
+      "Startups",
+      "Crypto",
+      "Fintech",
+      "Biotech & Health",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit 2026"
+    ],
+    "isoDate": "2026-06-26T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "early-bird-pricing-ends-tonight-for-techcrunch-founder-summit"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -21,27 +44,18 @@
     "slug": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "contentSnippet": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "guid": "https://techcrunch.com/?p=3136499",
-    "categories": [
-      "AI",
-      "Venture",
-      "ai benchmarks",
-      "evaluation",
-      "Greenfield Partners",
-      "lightspeed",
-      "Notable Capital",
-      "Patronus AI"
-    ],
-    "isoDate": "2026-06-25T20:19:25.000Z",
-    "source": "TechCrunch AI",
-    "slug": "patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents"
+    "title": "(No AI) Anthropic’s Mythos mess is only getting worse",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "pubDate": "2026-06-26T14:07:03.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight.\n\nAnthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news _is_ the story here. After 14 days of high-intensity negotiations, nobody knows when or if Anthropic's most powerful AI models will come back, let alone whether President Trump could expand his order to m …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations)",
+    "contentSnippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight.\nAnthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news is the story here. After 14 days of high-intensity negotiations, nobody knows when or if Anthropic's most powerful AI models will come back, let alone whether President Trump could expand his order to m …\nRead the full story at The Verge.",
+    "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&#8230;]",
+    "id": "https://www.theverge.com/?p=957327",
+    "isoDate": "2026-06-26T14:07:03.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-mythos-mess-is-only-getting-worse"
   },
   {
     "title": "(No AI) OpenAI will delay GPT-5.6 after Trump administration request",
@@ -56,20 +70,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-will-delay-gpt-5-6-after-trump-administration-request"
-  },
-  {
-    "title": "(No AI) Ford had to hire back former engineers to fix mistakes made by its automated systems",
-    "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-    "pubDate": "2026-06-25T12:00:00.000Z",
-    "author": "Andrew J. Hawkins",
-    "content": "![The Ford logo on a graphic blue and white background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTo celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots.\n\nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes)",
-    "contentSnippet": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots. \nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\nRead the full story at The Verge.",
-    "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
-    "id": "https://www.theverge.com/?p=956316",
-    "isoDate": "2026-06-25T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its-automated-systems"
   },
   {
     "title": "(No AI) How agents are transforming work",
