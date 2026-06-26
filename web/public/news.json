@@ -1,47 +1,64 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Early Bird pricing ends tonight for TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-    "pubDate": "Fri, 26 Jun 2026 13:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-    "contentSnippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-    "guid": "https://techcrunch.com/?p=3136609",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a \\[…\\]",
+    "contentSnippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3136708",
     "categories": [
-      "TC",
-      "Startups",
-      "Crypto",
-      "Fintech",
-      "Biotech & Health",
       "AI",
-      "Fundraising",
-      "TechCrunch Founder Summit 2026"
+      "a24",
+      "agility",
+      "AI chips",
+      "AI loops",
+      "Anthropic",
+      "custom silicon",
+      "Equity Video",
+      "groq",
+      "humanoid robots",
+      "nvidia",
+      "OpenAI",
+      "SPAC"
     ],
-    "isoDate": "2026-06-26T13:00:00.000Z",
+    "isoDate": "2026-06-26T17:43:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "early-bird-pricing-ends-tonight-for-techcrunch-founder-summit"
+    "slug": "why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "contentSnippet": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "guid": "https://techcrunch.com/?p=3136540",
+    "creator": "Russell Brandom",
+    "title": "(No AI) It’s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "contentSnippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "guid": "https://techcrunch.com/?p=3136684",
     "categories": [
       "AI",
-      "sam altman",
-      "OpenAI",
+      "Government & Policy",
       "Anthropic",
-      "Trump",
-      "Mythos"
+      "OpenAI"
     ],
-    "isoDate": "2026-06-25T23:34:39.000Z",
+    "isoDate": "2026-06-26T16:24:47.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns"
+    "slug": "it-s-not-about-anthropic-vs-openai-anymore"
+  },
+  {
+    "title": "(No AI) OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "pubDate": "2026-06-26T17:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![OpenAI’s logo on a pink and purple background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nLess than 24 hours after news broke that OpenAI would [stagger its next model release](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks.\n\nPer million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthropic's Claude Fable 5, which is $10 input / $5 …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)",
+    "contentSnippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here.  On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a \"fast and affordable\" everyday model. OpenAI says it's especially skilled at coding, cybersecurity, and biology, as well as staying focused during long-horizon agentic AI tasks. \nPer million tokens, GPT-5.6 Sol is priced at $5 input / $30 output (nearly half the cost of Anthropic's Claude Fable 5, which is $10 input / $5 …\nRead the full story at The Verge.",
+    "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+    "id": "https://www.theverge.com/?p=957845",
+    "isoDate": "2026-06-26T17:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama"
   },
   {
     "title": "(No AI) Anthropic’s Mythos mess is only getting worse",
@@ -58,18 +75,18 @@
     "slug": "anthropic-s-mythos-mess-is-only-getting-worse"
   },
   {
-    "title": "(No AI) OpenAI will delay GPT-5.6 after Trump administration request",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-    "pubDate": "2026-06-25T21:57:06.000Z",
-    "author": "Hayden Field",
-    "content": "![Sam Altman with OpenAI logo on green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Trump administration, apprehensive of potential security issues, has [reportedly](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6.\n\n_The Information_ reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\n\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)",
-    "contentSnippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. \nThe Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5.6 in limited preview form - granting access only to a small group of enterprise customers - in compliance with a request from the federal government. During that preview period, the Trump administration itself would reportedly approve access for customers on a case-by-case basis.\nIt's a more favorable deal than the Trump administration gave OpenAI rival Anthropic …\nRead the full story at The Verge.",
-    "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
-    "id": "https://www.theverge.com/?p=957372",
-    "isoDate": "2026-06-25T21:57:06.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-will-delay-gpt-5-6-after-trump-administration-request"
+    "title": "(No AI) Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "pubDate": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "contentSnippet": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "guid": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-06-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "previewing-gpt-5-6-sol-a-next-generation-model"
   },
   {
     "title": "(No AI) How agents are transforming work",
@@ -84,20 +101,6 @@
     "isoDate": "2026-06-25T02:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-agents-are-transforming-work"
-  },
-  {
-    "title": "(No AI) OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "pubDate": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "contentSnippet": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "guid": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-06-24T06:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-and-broadcom-unveil-llm-optimized-inference-chip"
   },
   {
     "title": "(No AI) Introducing computer use in Gemini 3.5 Flash",
@@ -122,36 +125,37 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
-    "creator": "Rim Zrein",
-    "title": "(No AI) How Qatar Became FIFA’s Technology Test Lab",
-    "link": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
-    "pubDate": "Fri, 26 Jun 2026 10:00:00 +0000",
-    "dc:creator": "Rim Zrein",
-    "content": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
-    "contentSnippet": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
-    "guid": "6a3a884c156b312e931e893c",
-    "categories": [
-      "Gear"
-    ],
-    "isoDate": "2026-06-26T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "how-qatar-became-fifa-s-technology-test-lab"
-  },
-  {
     "creator": "Maxwell Zeff",
-    "title": "(No AI) Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-    "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-    "pubDate": "Fri, 26 Jun 2026 00:49:13 +0000",
+    "title": "(No AI) OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+    "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "pubDate": "Fri, 26 Jun 2026 17:05:40 +0000",
     "dc:creator": "Maxwell Zeff",
-    "content": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-    "contentSnippet": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-    "guid": "6a3c384be6c7ac5cabfbc839",
+    "content": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "contentSnippet": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "guid": "6a3e9e1ada45e3ebe065cc88",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-06-26T00:49:13.000Z",
+    "isoDate": "2026-06-26T17:05:40.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-thinks-its-own-success-is-key-to-making-ai-safe"
+    "slug": "openai-has-new-ai-models-here-s-why-you-can-t-use-them"
+  },
+  {
+    "creator": "Steven Levy",
+    "title": "(No AI) Europe Is Fed Up and Wants Its Own AI",
+    "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "pubDate": "Fri, 26 Jun 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "contentSnippet": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "guid": "6a3d753bcc004f122ee0cdd3",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-06-26T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "europe-is-fed-up-and-wants-its-own-ai"
   }
 ]
