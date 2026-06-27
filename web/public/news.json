@@ -40,6 +40,20 @@
     "slug": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn-t-be-the-norm"
   },
   {
+    "title": "(No AI) Anthropic’s Mythos 5 is back",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "pubDate": "2026-06-27T00:33:44.000Z",
+    "author": "Hayden Field",
+    "content": "![A photo illustration featuring Anthropic CEO Dario Amodei, President Donald Trump, and the Pentagon.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by _The Verge_. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement.\n\nThe letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that there's been a \"revision to the license requiremen …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations)",
+    "contentSnippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement.\nThe letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that there's been a \"revision to the license requiremen …\nRead the full story at The Verge.",
+    "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
+    "id": "https://www.theverge.com/?p=958458",
+    "isoDate": "2026-06-27T00:33:44.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-mythos-5-is-back"
+  },
+  {
     "title": "(No AI) OpenAI unveils GPT-5.6 amid US AI regulatory drama",
     "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
     "pubDate": "2026-06-26T17:00:00.000Z",
@@ -52,20 +66,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama"
-  },
-  {
-    "title": "(No AI) Anthropic’s Mythos mess is only getting worse",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-    "pubDate": "2026-06-26T14:07:03.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight.\n\nAnthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news _is_ the story here. After 14 days of high-intensity negotiations, nobody knows when or if Anthropic's most powerful AI models will come back, let alone whether President Trump could expand his order to m …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations)",
-    "contentSnippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight.\nAnthropic declined to comment multiple times this week about the state of the talks, saying there was no news to share. But the lack of news is the story here. After 14 days of high-intensity negotiations, nobody knows when or if Anthropic's most powerful AI models will come back, let alone whether President Trump could expand his order to m …\nRead the full story at The Verge.",
-    "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&#8230;]",
-    "id": "https://www.theverge.com/?p=957327",
-    "isoDate": "2026-06-26T14:07:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-mythos-mess-is-only-getting-worse"
   },
   {
     "title": "(No AI) Previewing GPT-5.6 Sol: a next-generation model",
