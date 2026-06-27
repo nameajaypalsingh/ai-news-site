@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "pubDate": "Sat, 27 Jun 2026 01:01:37 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "contentSnippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "guid": "https://techcrunch.com/?p=3136944",
+    "categories": [
+      "AI",
+      "TC",
+      "ai labs",
+      "Anthropic"
+    ],
+    "isoDate": "2026-06-27T01:01:37.000Z",
+    "source": "TechCrunch AI",
+    "slug": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -19,27 +38,6 @@
     "isoDate": "2026-06-26T18:32:14.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn-t-be-the-norm"
-  },
-  {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-    "contentSnippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-    "guid": "https://techcrunch.com/?p=3136733",
-    "categories": [
-      "AI",
-      "Startups",
-      "Transportation",
-      "OpenAI",
-      "Prabhjeet Singh",
-      "Uber"
-    ],
-    "isoDate": "2026-06-26T18:19:36.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us"
   },
   {
     "title": "(No AI) OpenAI unveils GPT-5.6 amid US AI regulatory drama",
@@ -121,6 +119,23 @@
   },
   {
     "creator": "Maxwell Zeff",
+    "title": "(No AI) Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "pubDate": "Sat, 27 Jun 2026 00:26:14 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "contentSnippet": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "guid": "6a31a50cc9d6ea1d2578b617",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-27T00:26:14.000Z",
+    "source": "Wired AI",
+    "slug": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizations"
+  },
+  {
+    "creator": "Maxwell Zeff",
     "title": "(No AI) OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
     "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
     "pubDate": "Fri, 26 Jun 2026 17:05:40 +0000",
@@ -135,22 +150,5 @@
     "isoDate": "2026-06-26T17:05:40.000Z",
     "source": "Wired AI",
     "slug": "openai-has-new-ai-models-here-s-why-you-can-t-use-them"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Europe Is Fed Up and Wants Its Own AI",
-    "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-    "pubDate": "Fri, 26 Jun 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-    "contentSnippet": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-    "guid": "6a3d753bcc004f122ee0cdd3",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-06-26T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "europe-is-fed-up-and-wants-its-own-ai"
   }
 ]
