@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "pubDate": "Sun, 28 Jun 2026 15:00:00 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+    "contentSnippet": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+    "guid": "https://techcrunch.com/?p=3136862",
+    "categories": [
+      "Hardware",
+      "AI",
+      "nvidia",
+      "Micron"
+    ],
+    "isoDate": "2026-06-28T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
     "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
@@ -19,24 +38,18 @@
     "slug": "softbank-s-ceo-isn-t-the-only-one-with-questions-about-elon-musk-s-orbital-data-center-hype"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "pubDate": "Sat, 27 Jun 2026 16:45:09 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-    "contentSnippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-    "guid": "https://techcrunch.com/?p=3136981",
-    "categories": [
-      "AI",
-      "Hardware",
-      "Apple",
-      "OpenAI",
-      "paul meade"
-    ],
-    "isoDate": "2026-06-27T16:45:09.000Z",
-    "source": "TechCrunch AI",
-    "slug": "apple-vision-pro-exec-is-reportedly-leaving-for-openai"
+    "title": "(No AI) Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "pubDate": "2026-06-28T14:12:06.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Palisades fire burns above Topanga Canyon Blvd in Los Angeles, CA.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the [deadliest wildfires](https://www.theverge.com/news/605763/investigation-fire-emergency-alert-los-angeles-congress) in [LA history](https://www.theverge.com/news/600752/wildfires-los-angeles-climate-attribution-study). To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs.\n\nProsecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)",
+    "contentSnippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs.\nProsecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …\nRead the full story at The Verge.",
+    "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+    "id": "https://www.theverge.com/?p=958751",
+    "isoDate": "2026-06-28T14:12:06.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "prosecutors-used-chatgpt-logs-as-evidence-in-the-palisades-fire-trial"
   },
   {
     "title": "(No AI) Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
@@ -51,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "margaret-atwood-says-the-problem-with-ai-is-garbage-in-garbage-out"
-  },
-  {
-    "title": "(No AI) Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-    "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-    "pubDate": "2026-06-27T13:30:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Apple logo surrounded by colors](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTim Cook recently said price increases were \"[unavoidable](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?mod=rss_Technology)\" and described the company's pricing as \"[unsustainable](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram).\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. [RAMageddon](https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops) has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and Nothing even canceled an entire phone launch. Apple is just the most recent to jack up prices and [point the finger at AI](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis).\n\nThe price hikes are \"basic eco …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)",
-    "contentSnippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and Nothing even canceled an entire phone launch. Apple is just the most recent to jack up prices and point the finger at AI.\nThe price hikes are \"basic eco …\nRead the full story at The Verge.",
-    "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
-    "id": "https://www.theverge.com/?p=958678",
-    "isoDate": "2026-06-27T13:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-is-apple-asking-me-to-pay-more-for-big-tech-s-ai-obsession"
   },
   {
     "title": "(No AI) Previewing GPT-5.6 Sol: a next-generation model",
