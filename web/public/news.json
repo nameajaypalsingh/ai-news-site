@@ -1,44 +1,60 @@
 [
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-    "pubDate": "Mon, 29 Jun 2026 14:00:08 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-    "contentSnippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-    "guid": "https://techcrunch.com/?p=3136644",
+    "creator": "Kate Park",
+    "title": "(No AI) South Korean tech giants commit over $550B to ease ‘ RAMageddon’",
+    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "pubDate": "Mon, 29 Jun 2026 18:07:48 +0000",
+    "dc:creator": "Kate Park",
+    "content": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "contentSnippet": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "guid": "https://techcrunch.com/?p=3137204",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive",
-      "proception",
-      "robotics"
+      "Hardware",
+      "TC",
+      "memory tech",
+      "RAMaggedon",
+      "Samsung",
+      "SK Hynix",
+      "South Korea tech ecosystem"
     ],
-    "isoDate": "2026-06-29T14:00:08.000Z",
+    "isoDate": "2026-06-29T18:07:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise"
+    "slug": "south-korean-tech-giants-commit-over-550b-to-ease-ramageddon"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Omen AI’s plan to optimize data centers is all wet",
-    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-    "pubDate": "Mon, 29 Jun 2026 13:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-    "contentSnippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-    "guid": "https://techcrunch.com/?p=3137020",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+    "contentSnippet": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+    "guid": "https://techcrunch.com/?p=3137220",
     "categories": [
       "AI",
-      "Fundraising",
       "Startups",
-      "Exclusive",
-      "Nava Ventures",
-      "omen ai"
+      "Arena",
+      "LMArena",
+      "revenue"
     ],
-    "isoDate": "2026-06-29T13:00:00.000Z",
+    "isoDate": "2026-06-29T17:39:17.000Z",
     "source": "TechCrunch AI",
-    "slug": "omen-ai-s-plan-to-optimize-data-centers-is-all-wet"
+    "slug": "arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business"
+  },
+  {
+    "title": "(No AI) Lawmakers want to ban AI companies from selling your health data",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "pubDate": "2026-06-29T16:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![Illustration of a password above a closed combination lock.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude.\n\nIn the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act that's better suited to the AI era. The former version of the bill, first introduced in [June 2022](https://www.warren.senate.gov/news/press-releases/warren-wyden-murray-whitehouse-sanders-introduce-legislation-to-ban-data-brokers-from-selling-americans-location-and-health-data/), prohibited data brokers from collecting and selling health and location data. Four years later, it's expanded to ban other companies from selling such data to brokers, and to specifically cover …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon)",
+    "contentSnippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. \nIn the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act that's better suited to the AI era. The former version of the bill, first introduced in June 2022, prohibited data brokers from collecting and selling health and location data. Four years later, it's expanded to ban other companies from selling such data to brokers, and to specifically cover  …\nRead the full story at The Verge.",
+    "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&#8230;]",
+    "id": "https://www.theverge.com/?p=959033",
+    "isoDate": "2026-06-29T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "lawmakers-want-to-ban-ai-companies-from-selling-your-health-data"
   },
   {
     "title": "(No AI) China’s Z.ai claims it can match Mythos on cybersecurity",
@@ -53,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "china-s-z-ai-claims-it-can-match-mythos-on-cybersecurity"
-  },
-  {
-    "title": "(No AI) Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "pubDate": "2026-06-28T20:27:36.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Keyboard with a robotic arm playing it](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. [Spark](https://suno.com/blog/introducing-spark) is their new [incubator program](https://variety.com/2026/music/news/suno-spark-incubator-program-for-independent-artists-1236790684/) for independent artists that provides grants, mentorship, and marketing support.\n\nTo apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some [terms and conditions](https://suno.com/spark-terms?__clerk_handshake=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdW5vLmNvbS9jbGFpbXMvdG9rZW5fdHlwZSI6ImhhbmRzaGFrZSIsImlzcyI6Imh0dHBzOi8vYXV0aC5zdW5vLmNvbSIsImhhbmRzaGFrZSI6WyJfX3Nlc3Npb249ZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNkluTjFibTh0WVhCcExYSnpNalUyTFd0bGVTMHhJaXdpZEhsd0lqb2lTbGRVSWl3aWVDMWhZbXg1TFhSdmEyVnVJam9pYm5Zek5sWjNMa2x3YWpkTVFrVkpMVkUxWW5STU9ERmFZMmRaZEc5c2RFZFVjM0kyYjBvd2FXSlRObEZOUzI5QmIyaFpURVZ6U1VSNlh6UnJaMjVZVm05a1RsWkhTWEl5UkdwcVZWbFdRazFVVkc5S1ptRkNkMUEyYUZGSk5YcGxRelJOWlY5ck5EZFZMVEY0WWpkZlozUjFWRlpqTW5SelpGVlZXVXh3UzJaa05XcFNUbmxpUVZSVE9GSmhaVjg1V0RSbVRtZG9kMGswWmtaT1YwSm9OV3RPUVY5U1ZVMTBRazUxVEVwMWJVdFpaRXgyU1hsSVdVeFhWMGcwVFVzd2VFbERaamRvV0RneVRWbGxaVFJ5UjNNd1gxRTVSR3QxVUMxR05EbHdiRlJVWXpnMGRqRktOemxrVlY5RWRUaDBPVXRqSW4wLmV5SnpkVzV2TG1OdmJTOWpiR0ZwYlhNdmRYTmxjbDlwWkNJNkltWmlOamczT0RaaExXUXhabVl0TkRrMk5DMDVPR1JoTFRsak5UWXpOMkpqTnpOa1pTSXNJbWgwZEhCek9pOHZjM1Z1Ynk1aGFTOWpiR0ZwYlhNdlkyeGxjbXRmYVdRaU9pSjFjMlZ5WHpNeWNUQlNkMlUyZW5Cb1IzVjVWVUpQTTNFeFZVazFORmgwVUNJc0luTjFibTh1WTI5dEwyTnNZV2x0Y3k5MGIydGxibDkwZVhCbElqb2lZV05qWlhOeklpd2ljM1Z1Ynk5a2FXUWlPamd4TVRnNE1qWXlMQ0psZUhBaU9qRTNPREkyT0RFd01UTXNJbUYxWkNJNkluTjFibTh0WVhCcElpd2ljM1ZpSWpvaWRYTmxjbDh6TW5Fd1VuZGxObnB3YUVkMWVWVkNUek54TVZWSk5UUllkRkFpTENKaGVuQWlPaUpvZEhSd2N6b3ZMM04xYm04dVkyOXRJaXdpWm5aaElqcGJNQ3d0TVYwc0ltbGhkQ0k2TVRjNE1qWTNOelF4TXl3aWFYTnpJam9pYUhSMGNITTZMeTloZFhSb0xuTjFibTh1WTI5dElpd2lhbWwwSWpvaU0yTTJNREk1T0dRdFlqUXhNQzAwTVRFM0xUaGlNVGt0TmpNMVkyTmpaakF3TVRZM0lpd2ljR3hoYmlJNklqbzZJaXdpYzNWdWJ5OXFiMmx1WldRaU9qRTNOVGd4TXpJM09URXNJbk4xYm04dVkyOXRMMk5zWVdsdGN5OWxiV0ZwYkNJNkltOWljbWxsYmk1MFpYSnlaVzVqWlVCbmJXRnBiQzVqYjIwaUxDSm9kSFJ3Y3pvdkwzTjFibTh1WVdrdlkyeGhhVzF6TDJWdFlXbHNJam9pYjJKeWFXVnVMblJsY25KbGJtTmxRR2R0WVdsc0xtTnZiU0lzSW5OMWJtOHZhR0Z1Wkd4bElqb2liMkp5YVdWdVgzUmxjbkpsYm1ObElpd2ljM1Z1Ynk5MWMyVnlYMmxrSWpvaU1URXhOakl5TVRJeUlpd2ljM1Z1Ynk5MWMyVnlibUZ0WlNJNkltOWljbWxsYmk1MFpYSnlaVzVqWlVCbmJXRnBiQzVqYjIwaWZRLkpBRndTMmRfeUE4YkF5YmtyYTd0bkU3ekF3aGRtbjJURV9RZmRJamdST1Z3S3FzRk1telNUclEzV3NITDdXenQ0T2Q3NGY5ZnI2SW85U3BtM21lRFVKWF9WeEtTMURVNE1KdVN6akZ0RzZ6YzczQm4zY0lYU3NhYXhNdGhDNkpWTjZsRlJMU0FGczhxckNUV1UwNDFvdkFrWENoYktOU2RVSzREc3F2d2Fid2s3d2I4XzNFcjExM0ROUTFHMG03aTI5UlZXWGFFWGtJejYtNGtHbG5DS1FsUGhhMDV3UExnR04tVnFIVE5DUHdGX0c1UjJRcE9ZUUtvdV9WRFgzMWhVOElQcHd2UlR2dlVrSmFpbEJjeFRXeUZIY2p2QTgyX1R3S0txdm5sTVZxVHEwbEM3SksyY2pyQ2VGdGtnYnlKVjlNQzF4STZHUUtNMEdBdHZoaGtudzsgRG9tYWluPXN1bm8uY29tOyBleHBpcmVzPVN1biwgMjggSnVuIDIwMjYgMjE6MTA6MTMgR01UOyBTYW1lU2l0ZT1MYXg7IFNlY3VyZSIsIl9fY2xpZW50X3VhdD0xNzczMzM1MTg1OyBEb21haW49c3Vuby5jb207IE1heC1BZ2U9MzE1MzYwMDA7IFNhbWVTaXRlPUxheDsgU2VjdXJlIiwiX19jbGVya19oYW5kc2hha2U9OyBleHBpcmVzPVRodSwgMDEgSmFuIDE5NzAgMDA6MDA6MDAgR01UOyBIdHRwT25seTsgTWF4LUFnZT0wOyBTYW1lU2l0ZT1MYXg7IFNlY3VyZSJdfQ.FCQx-miaaxEqMHFJBOdAfqtJXi60nxvBFNv8rQ68stZ6g0aZ3eBDkz3ol2SvLM1d7a_1ufOjBGoCJelh41cphsJvUP7oOFCZbrchoFceUTVAsUTTwX764Ye8mZBJFO21_WHFc0lKfQlIO5E7r17zKjms2FMexisl3QDBPyUXTabagOy82CxJRGrMBqANs6RJfS5O3rIhYgKR2BGKSKxzacpw-D7_yaXTIHRYv5N5fZhzL9upYTnbD7epKxA5pVGiXSXCLT4hkI3_zz7LG2DxvFbc53uz2OI1vnFPYhDR6YE2N70QwJitsBSoXN_zdu-ITSVJCp3mIFINTxcW4TPLcA) that have raised some eyebrows over on the Suno [subreddit](https://www.reddit.com/r/SunoAI/comments/1uh5a8z/suno_spark_program_fine_print_what_you_need_to/?%24deep_link=true&correlation_id=1193787e-a550-4419-b74e-351f1ea9ea12&post_fullname=t3_1uh5a8z&post_index=2&ref=email_digest&ref_campaign=email_digest&ref_source=email&target_user=TerrenceOBrien&utm_content=post_body&%243p=e_as&_branch_match_id=1489710331186984120&utm_medium=Email%20Amazon%20SES&_branch_referrer=H4sIAAAAAAAAA22QT0%2FDMAzFP01360abljGkCQ0QEicOcLe8xm2jNX%2FkJCrjwGfHZcAJKZFe3s%2FPtjKmFOLtZsOktUlrDGE9GXfaqHBX1I0KewKMK5GezWAcTpB52o9LqlCHon6SM8%2Fz%2BiffeSsGy33Nzh%2BeRYhlyaUosspjizcfoqJQiAH5BIH9wGihN47kYVyCecQEZ5%2FBEWlIfhmjZFJbN5oowLJhoR4TZyrq684z04TJeAdGi19VO7W92VKJbXtVNk21K4%2FbhkrVVn1FuCOsaskFHxP0eZocWlraKfhb8AKN0%2FQuZKlm6kWRRTOBNgPFdDGhQxvQDO5%2FGn3mjn6ZmAl5oAQ5Eov7RrK76%2Bjlng05wTlZ6LxL8mOCv7c4en1efUozqTVugCP7WdL7h5G9pS%2FLGsXpwQEAAA%3D%3D). For one, you need to agree to make your songs available on Suno for remixing. That's not necessarily super concerning, but the broad license it grants Suno to your works …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)",
-    "contentSnippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some terms and conditions that have raised some eyebrows over on the Suno subreddit. For one, you need to agree to make your songs available on Suno for remixing. That's not necessarily super concerning, but the broad license it grants Suno to your works …\nRead the full story at The Verge.",
-    "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
-    "id": "https://www.theverge.com/?p=958801",
-    "isoDate": "2026-06-28T20:27:36.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
   },
   {
     "title": "(No AI) Mapping Europe’s AI Workforce Opportunity",
