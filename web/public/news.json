@@ -37,6 +37,20 @@
     "slug": "why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia"
   },
   {
+    "title": "(No AI) China’s Z.ai claims it can match Mythos on cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "pubDate": "2026-06-28T21:42:51.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A grenade overlayed with ACSII art.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChina's Zhipu AI ([Z.ai](http://z.ai)) released its open-weight GLM-5.2, and some researchers have claimed that it [matches Mythos](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2?st=FRKgap&reflink=desktopwebshare_permalink) in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from [Anthropic](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US.\n\nThis level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's [Mythos](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) and Fable, as well as the hardware necessary to train and run them. The Trump administration views Mythos and other advan …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)",
+    "contentSnippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of the US.\nThis level of advancement is particularly concerning to the US government, which has worked to restrict China's access to powerful models like Anthropic's Mythos and Fable, as well as the hardware necessary to train and run them. The Trump administration views Mythos and other advan …\nRead the full story at The Verge.",
+    "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+    "id": "https://www.theverge.com/?p=958804",
+    "isoDate": "2026-06-28T21:42:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "china-s-z-ai-claims-it-can-match-mythos-on-cybersecurity"
+  },
+  {
     "title": "(No AI) Suno launches Spark incubator program to feed independent artists to its AI machine",
     "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
     "pubDate": "2026-06-28T20:27:36.000Z",
@@ -51,18 +65,18 @@
     "slug": "suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
   },
   {
-    "title": "(No AI) Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "pubDate": "2026-06-28T14:12:06.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Palisades fire burns above Topanga Canyon Blvd in Los Angeles, CA.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the [deadliest wildfires](https://www.theverge.com/news/605763/investigation-fire-emergency-alert-los-angeles-congress) in [LA history](https://www.theverge.com/news/600752/wildfires-los-angeles-climate-attribution-study). To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs.\n\nProsecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)",
-    "contentSnippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs.\nProsecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …\nRead the full story at The Verge.",
-    "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
-    "id": "https://www.theverge.com/?p=958751",
-    "isoDate": "2026-06-28T14:12:06.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "prosecutors-used-chatgpt-logs-as-evidence-in-the-palisades-fire-trial"
+    "title": "(No AI) HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "pubDate": "Sun, 28 Jun 2026 17:00:00 GMT",
+    "content": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "contentSnippet": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "guid": "https://openai.com/index/hp-frontier-partnership",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-06-28T17:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "hp-inc-launches-frontier-strategic-partnership-with-openai"
   },
   {
     "title": "(No AI) Previewing GPT-5.6 Sol: a next-generation model",
@@ -77,20 +91,6 @@
     "isoDate": "2026-06-26T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "previewing-gpt-5-6-sol-a-next-generation-model"
-  },
-  {
-    "title": "(No AI) How agents are transforming work",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "pubDate": "Thu, 25 Jun 2026 02:00:00 GMT",
-    "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "contentSnippet": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "guid": "https://openai.com/index/how-agents-are-transforming-work",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-06-25T02:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-agents-are-transforming-work"
   },
   {
     "title": "(No AI) Introducing computer use in Gemini 3.5 Flash",
