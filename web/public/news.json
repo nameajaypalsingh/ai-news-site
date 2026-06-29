@@ -1,40 +1,44 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Ford rehires ‘gray beard’ engineers after AI falls short",
-    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "pubDate": "Sun, 28 Jun 2026 19:05:39 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-    "contentSnippet": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-    "guid": "https://techcrunch.com/?p=3137021",
+    "creator": "Sean O'Kane",
+    "title": "(No AI) Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "pubDate": "Mon, 29 Jun 2026 14:00:08 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "contentSnippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "guid": "https://techcrunch.com/?p=3136644",
     "categories": [
       "AI",
-      "Transportation",
-      "Ford"
+      "Robotics",
+      "Exclusive",
+      "proception",
+      "robotics"
     ],
-    "isoDate": "2026-06-28T19:05:39.000Z",
+    "isoDate": "2026-06-29T14:00:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "ford-rehires-gray-beard-engineers-after-ai-falls-short"
+    "slug": "robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "pubDate": "Sun, 28 Jun 2026 15:00:00 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-    "contentSnippet": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-    "guid": "https://techcrunch.com/?p=3136862",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Omen AI’s plan to optimize data centers is all wet",
+    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "pubDate": "Mon, 29 Jun 2026 13:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "contentSnippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "guid": "https://techcrunch.com/?p=3137020",
     "categories": [
-      "Hardware",
       "AI",
-      "nvidia",
-      "Micron"
+      "Fundraising",
+      "Startups",
+      "Exclusive",
+      "Nava Ventures",
+      "omen ai"
     ],
-    "isoDate": "2026-06-28T15:00:00.000Z",
+    "isoDate": "2026-06-29T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia"
+    "slug": "omen-ai-s-plan-to-optimize-data-centers-is-all-wet"
   },
   {
     "title": "(No AI) China’s Z.ai claims it can match Mythos on cybersecurity",
@@ -65,6 +69,20 @@
     "slug": "suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
   },
   {
+    "title": "(No AI) Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "contentSnippet": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "guid": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-06-29T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "mapping-europe-s-ai-workforce-opportunity"
+  },
+  {
     "title": "(No AI) HP Inc. launches Frontier strategic partnership with OpenAI",
     "link": "https://openai.com/index/hp-frontier-partnership",
     "pubDate": "Sun, 28 Jun 2026 17:00:00 GMT",
@@ -77,20 +95,6 @@
     "isoDate": "2026-06-28T17:00:00.000Z",
     "source": "OpenAI",
     "slug": "hp-inc-launches-frontier-strategic-partnership-with-openai"
-  },
-  {
-    "title": "(No AI) Previewing GPT-5.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "pubDate": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "contentSnippet": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "guid": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-06-26T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "previewing-gpt-5-6-sol-a-next-generation-model"
   },
   {
     "title": "(No AI) Introducing computer use in Gemini 3.5 Flash",
