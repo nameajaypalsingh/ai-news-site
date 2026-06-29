@@ -115,6 +115,22 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+    "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+    "pubDate": "Mon, 29 Jun 2026 08:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+    "contentSnippet": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+    "guid": "6a3d49140bf55f5b8a303aa6",
+    "categories": [
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-06-29T08:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "this-humanoid-robot-is-a-terrifyingly-competent-office-intern"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
     "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
@@ -130,22 +146,5 @@
     "isoDate": "2026-06-27T00:26:14.000Z",
     "source": "Wired AI",
     "slug": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizations"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-    "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-    "pubDate": "Fri, 26 Jun 2026 17:05:40 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-    "contentSnippet": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-    "guid": "6a3e9e1ada45e3ebe065cc88",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-26T17:05:40.000Z",
-    "source": "Wired AI",
-    "slug": "openai-has-new-ai-models-here-s-why-you-can-t-use-them"
   }
 ]
