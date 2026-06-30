@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+    "contentSnippet": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+    "guid": "https://techcrunch.com/?p=3137159",
+    "categories": [
+      "Crypto",
+      "AI",
+      "Exclusive",
+      "OKX",
+      "OKX AI",
+      "agent marketplace"
+    ],
+    "isoDate": "2026-06-30T09:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) The AI jobs debate just got messier",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
@@ -19,26 +40,7 @@
     "slug": "the-ai-jobs-debate-just-got-messier"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-    "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-    "contentSnippet": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-    "guid": "https://techcrunch.com/?p=3137107",
-    "categories": [
-      "AI",
-      "Base44",
-      "LLMs",
-      "Wix"
-    ],
-    "isoDate": "2026-06-30T02:28:41.000Z",
-    "source": "TechCrunch AI",
-    "slug": "vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility"
-  },
-  {
-    "title": "(No AI) Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "title": "(No AI) Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
     "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
     "pubDate": "2026-06-29T19:47:35.000Z",
     "author": "Andrew Liszewski",
@@ -116,6 +118,22 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Katie Drummond",
+    "title": "(No AI) Bernie Sanders Saw This Coming",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+    "pubDate": "Tue, 30 Jun 2026 10:30:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+    "contentSnippet": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+    "guid": "6a3d6bf24f9749be536e0b2e",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-06-30T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "bernie-sanders-saw-this-coming"
+  },
+  {
     "creator": "Dhruv Mehrotra, Joel Khalili",
     "title": "(No AI) Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
     "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
@@ -131,22 +149,5 @@
     "isoDate": "2026-06-29T21:49:26.000Z",
     "source": "Wired AI",
     "slug": "meta-contractors-posed-as-teens-to-prompt-rival-chatbots-about-suicide-sex-and-drugs"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-    "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-    "pubDate": "Mon, 29 Jun 2026 08:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-    "contentSnippet": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-    "guid": "6a3d49140bf55f5b8a303aa6",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-29T08:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-humanoid-robot-is-a-terrifyingly-competent-office-intern"
   }
 ]
