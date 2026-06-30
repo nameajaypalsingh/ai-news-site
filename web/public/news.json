@@ -1,44 +1,61 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Acti puts AI agents directly into your smartphone keyboard",
-    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-    "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-    "contentSnippet": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-    "guid": "https://techcrunch.com/?p=3137678",
+    "creator": "Anna Heim",
+    "title": "(No AI) The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "pubDate": "Tue, 30 Jun 2026 20:33:48 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "contentSnippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "guid": "https://techcrunch.com/?p=3137627",
     "categories": [
       "AI",
-      "Apps",
       "Startups",
-      "TC",
-      "acti",
-      "agentic app"
+      "Venture",
+      "Creandum",
+      "equilibre technologies",
+      "Exclusive",
+      "prague",
+      "reinforcement learning",
+      "stock market"
     ],
-    "isoDate": "2026-06-30T17:52:46.000Z",
+    "isoDate": "2026-06-30T20:33:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "acti-puts-ai-agents-directly-into-your-smartphone-keyboard"
+    "slug": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-    "contentSnippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-    "guid": "https://techcrunch.com/?p=3137674",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "pubDate": "Tue, 30 Jun 2026 19:02:38 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "contentSnippet": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "guid": "https://techcrunch.com/?p=3137719",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Anthropic",
-      "claude science",
-      "Life Sciences"
+      "AI videos",
+      "gemini omni flash",
+      "Google",
+      "Nano Banana 2 Lite"
     ],
-    "isoDate": "2026-06-30T17:00:00.000Z",
+    "isoDate": "2026-06-30T19:02:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists"
+    "slug": "google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite"
+  },
+  {
+    "title": "(No AI) Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "pubDate": "2026-06-30T19:24:51.000Z",
+    "author": "Emma Roth",
+    "content": "![Screenshots of NotebookLM’s shorts feature](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.\n\nThe [example shared by Google](https://x.com/NotebookLM/status/2071987494799716626) details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating [AI podcasts](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus), [cinematic videos](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews), and visual explainers.\n\n> Doom scrolling but make it educational ðŸ¤“  \n>   \n> Introducing Short Video Overviews in Notebo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)",
+    "contentSnippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.\nThe example shared by Google details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating AI podcasts, cinematic videos, and visual explainers.\n\n\nDoom scrolling but make it educational ðŸ¤“\nIntroducing Short Video Overviews in Notebo …\n\n\nRead the full story at The Verge.",
+    "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+    "id": "https://www.theverge.com/?p=959778",
+    "isoDate": "2026-06-30T19:24:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip"
   },
   {
     "title": "(No AI) Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
@@ -53,20 +70,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "netflix-is-using-an-ai-generated-gene-wilder-voice-in-its-willy-wonka-reality-show"
-  },
-  {
-    "title": "(No AI) Libby will filter out AI content, kind of",
-    "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "pubDate": "2026-06-30T15:30:00.000Z",
-    "author": "Janko Roettgers",
-    "content": "![Crying in H Mart in the Libby app](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [Lowpass _by Janko Roettgers_](https://www.lowpass.cc/)_, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for_ The Verge _subscribers once a week._\n\n\"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of [OverDrive](https://company.overdrive.com/) last week. OverDrive is best known for the ebook lending app [Libby](https://libbyapp.com/) that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave of AI-generated books.\n\nTo prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in t …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/959433/libby-ai-filter)",
-    "contentSnippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave of AI-generated books.\nTo prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in t …\nRead the full story at The Verge.",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app [&#8230;]",
-    "id": "https://www.theverge.com/?p=959433",
-    "isoDate": "2026-06-30T15:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "libby-will-filter-out-ai-content-kind-of"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
