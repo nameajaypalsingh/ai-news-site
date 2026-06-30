@@ -1,16 +1,35 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "pubDate": "Tue, 30 Jun 2026 14:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "contentSnippet": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "guid": "https://techcrunch.com/?p=3137266",
+    "categories": [
+      "AI",
+      "lumo",
+      "ProtonMail",
+      "Proton"
+    ],
+    "isoDate": "2026-06-30T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "lumo-proton-s-privacy-focused-ai-chatbot-gets-an-upgrade"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) Crypto exchange OKX wants AI agents to hire and pay each other",
     "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
     "dc:creator": "Jagmeet Singh",
-    "content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
-    "contentSnippet": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+    "content": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+    "contentSnippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
     "guid": "https://techcrunch.com/?p=3137159",
     "categories": [
-      "Crypto",
       "AI",
+      "Crypto",
       "Exclusive",
       "OKX",
       "OKX AI",
@@ -21,26 +40,7 @@
     "slug": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) The AI jobs debate just got messier",
-    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "contentSnippet": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-    "guid": "https://techcrunch.com/?p=3137448",
-    "categories": [
-      "AI",
-      "Ramp",
-      "ai job loss",
-      "revelio labs"
-    ],
-    "isoDate": "2026-06-30T04:01:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-ai-jobs-debate-just-got-messier"
-  },
-  {
-    "title": "(No AI) Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+    "title": "(No AI) Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
     "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
     "pubDate": "2026-06-29T19:47:35.000Z",
     "author": "Andrew Liszewski",
