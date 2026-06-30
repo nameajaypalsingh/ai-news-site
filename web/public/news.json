@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anna Heim",
+    "title": "(No AI) Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+    "contentSnippet": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+    "guid": "https://techcrunch.com/?p=3137107",
+    "categories": [
+      "AI",
+      "Base44",
+      "LLMs",
+      "Wix"
+    ],
+    "isoDate": "2026-06-30T02:28:41.000Z",
+    "source": "TechCrunch AI",
+    "slug": "vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility"
+  },
+  {
     "creator": "Lauren Forristal",
     "title": "(No AI) Gemini’s personalized AI image generation is now free for US users",
     "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
@@ -20,26 +39,6 @@
     "isoDate": "2026-06-29T20:12:59.000Z",
     "source": "TechCrunch AI",
     "slug": "gemini-s-personalized-ai-image-generation-is-now-free-for-us-users"
-  },
-  {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-    "contentSnippet": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-    "guid": "https://techcrunch.com/?p=3137238",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "california",
-      "Gavin Newsom"
-    ],
-    "isoDate": "2026-06-29T18:10:26.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price"
   },
   {
     "title": "(No AI) Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
@@ -120,6 +119,23 @@
     "slug": "unlocking-uk-house-building-with-ai-accelerated-planning"
   },
   {
+    "creator": "Dhruv Mehrotra, Joel Khalili",
+    "title": "(No AI) Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "pubDate": "Mon, 29 Jun 2026 21:49:26 +0000",
+    "dc:creator": "Dhruv Mehrotra, Joel Khalili",
+    "content": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "contentSnippet": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "guid": "6a42907b9625c74448e07c65",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-06-29T21:49:26.000Z",
+    "source": "Wired AI",
+    "slug": "meta-contractors-posed-as-teens-to-prompt-rival-chatbots-about-suicide-sex-and-drugs"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) This Humanoid Robot Is a Terrifyingly Competent Office Intern",
     "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
@@ -129,27 +145,11 @@
     "contentSnippet": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
     "guid": "6a3d49140bf55f5b8a303aa6",
     "categories": [
+      "Business",
       "Business / Artificial Intelligence"
     ],
     "isoDate": "2026-06-29T08:00:00.000Z",
     "source": "Wired AI",
     "slug": "this-humanoid-robot-is-a-terrifyingly-competent-office-intern"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-    "pubDate": "Sat, 27 Jun 2026 00:26:14 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-    "contentSnippet": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-    "guid": "6a31a50cc9d6ea1d2578b617",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-06-27T00:26:14.000Z",
-    "source": "Wired AI",
-    "slug": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizations"
   }
 ]
