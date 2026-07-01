@@ -1,7 +1,7 @@
 [
   {
     "creator": "Tim Fernholz",
-    "title": "(No AI) The “Father of the Internet” is finally retiring",
+    "title": "(No AI) The ‘Father of the Internet’ is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "pubDate": "Wed, 01 Jul 2026 03:15:37 +0000",
     "dc:creator": "Tim Fernholz",
@@ -10,7 +10,9 @@
     "guid": "https://techcrunch.com/?p=3137972",
     "categories": [
       "AI",
-      "Exclusive"
+      "Exclusive",
+      "Google",
+      "Vint Cerf"
     ],
     "isoDate": "2026-07-01T03:15:37.000Z",
     "source": "TechCrunch AI",
@@ -22,43 +24,48 @@
     "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
     "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "Anthropic said it would begin restoring access to the Fable on July 1.",
-    "contentSnippet": "Anthropic said it would begin restoring access to the Fable on July 1.",
+    "content": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+    "contentSnippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
     "guid": "https://techcrunch.com/?p=3137898",
     "categories": [
-      "AI"
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "fable",
+      "Mythos",
+      "Trump Administration"
     ],
     "isoDate": "2026-07-01T02:16:06.000Z",
     "source": "TechCrunch AI",
     "slug": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models"
   },
   {
-    "title": "(No AI) Anthropic’s long-sidelined Fable 5 is greenlit to return",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-    "pubDate": "2026-07-01T00:03:55.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In [a post on X](https://x.com/AnthropicAI/status/2072106151890809341?), Anthropic said it plans to begin restoring access tomorrow to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline.\n\n[Anthropic](https://x.com/AnthropicAI/status/2072106151890809341?) wrote:\n\n> We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n> \n> We'll begin restoring access tomorrow, and will share an update soon.\n> \n> We're grateful to our users for their patience, and to everyone who work …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)",
-    "contentSnippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. \nAnthropic wrote:\nWe've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\nWe're grateful to our users for their patience, and to everyone who work …\n\nRead the full story at The Verge.",
-    "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
-    "id": "https://www.theverge.com/?p=958964",
-    "isoDate": "2026-07-01T00:03:55.000Z",
+    "title": "(No AI) Meet the lawyer who beat Elon Musk — twice",
+    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "pubDate": "2026-06-30T12:00:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![A photograph of Bill Savitt, in black and white, against a pink background with orange gavels](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\n\nWatching Elon Musk fulminate at Bill Savitt during _Musk v. Altman_ - the case in which [Musk sued Sam Altman and OpenAI](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip) instead of seeing a therapist about [his AI failures](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis) - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"\n\nSavitt, who has the approximate demeanor of a handsome Droopy Dog, [gently told Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman), \"I am trying to put the questions as fairly as I can. I am doing my best.\"\n\nI've seen a number of styles of cross-examination. Savitt's was mild-mannered and soft-spoken; his q …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter)",
+    "contentSnippet": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"\nSavitt, who has the approximate demeanor of a handsome Droopy Dog, gently told Musk, \"I am trying to put the questions as fairly as I can. I am doing my best.\" \nI've seen a number of styles of cross-examination. Savitt's was mild-mannered and soft-spoken; his q …\nRead the full story at The Verge.",
+    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=959270",
+    "isoDate": "2026-06-30T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-long-sidelined-fable-5-is-greenlit-to-return"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meet-the-lawyer-who-beat-elon-musk-twice"
   },
   {
-    "title": "(No AI) Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-    "pubDate": "2026-06-30T19:24:51.000Z",
-    "author": "Emma Roth",
-    "content": "![Screenshots of NotebookLM’s shorts feature](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.\n\nThe [example shared by Google](https://x.com/NotebookLM/status/2071987494799716626) details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating [AI podcasts](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus), [cinematic videos](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews), and visual explainers.\n\n> Doom scrolling but make it educational ðŸ¤“  \n>   \n> Introducing Short Video Overviews in Notebo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)",
-    "contentSnippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.\nThe example shared by Google details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating AI podcasts, cinematic videos, and visual explainers.\n\n\nDoom scrolling but make it educational ðŸ¤“\nIntroducing Short Video Overviews in Notebo …\n\n\nRead the full story at The Verge.",
-    "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
-    "id": "https://www.theverge.com/?p=959778",
-    "isoDate": "2026-06-30T19:24:51.000Z",
+    "title": "(No AI) Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+    "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "pubDate": "2026-06-29T19:47:35.000Z",
+    "author": "Andrew Liszewski",
+    "content": "![Colorful graphic of Tidal logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTidal [shared its new policies regarding AI-generated music today](https://tidal.com/ai-policy) and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, [starting on July 15th](https://x.com/TIDAL/status/2071593228952822146) Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute royalties to music we identify as wholly AI-generated,\" the company's announcement reads.\n\nThe platform didn't specify what tools it's using to iden …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label)",
+    "contentSnippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute royalties to music we identify as wholly AI-generated,\" the company's announcement reads. \nThe platform didn't specify what tools it's using to iden …\nRead the full story at The Verge.",
+    "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
+    "id": "https://www.theverge.com/?p=959211",
+    "isoDate": "2026-06-29T19:47:35.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "tidal-won-t-pay-royalties-on-ai-generated-music-but-isn-t-banning-it-outright"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
