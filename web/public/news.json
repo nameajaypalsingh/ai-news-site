@@ -1,48 +1,48 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-    "pubDate": "Wed, 01 Jul 2026 17:48:37 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-    "contentSnippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-    "guid": "https://techcrunch.com/?p=3138183",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "contentSnippet": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "guid": "https://techcrunch.com/?p=3138299",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "AI training",
-      "cloudflare",
-      "Google",
-      "publishers"
+      "Gadgets",
+      "AI device",
+      "Elon Musk",
+      "SpaceX",
+      "xAI"
     ],
-    "isoDate": "2026-07-01T17:48:37.000Z",
+    "isoDate": "2026-07-01T18:54:18.000Z",
     "source": "TechCrunch AI",
-    "slug": "cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content"
+    "slug": "spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "pubDate": "Wed, 01 Jul 2026 14:25:23 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-    "contentSnippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-    "guid": "https://techcrunch.com/?p=3138022",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "pubDate": "Wed, 01 Jul 2026 18:47:22 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "contentSnippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "guid": "https://techcrunch.com/?p=3138300",
     "categories": [
       "AI",
-      "Crypto",
-      "Fundraising",
-      "ai censorship",
-      "Dragonfly",
-      "erik voorhees",
-      "Exclusive",
-      "generative ai privacy concerns",
-      "Venice AI"
+      "Hardware",
+      "Venture",
+      "ai infrastructure",
+      "ashton kutcher",
+      "deep tech",
+      "Morgan Beller",
+      "NFX",
+      "sound ventures"
     ],
-    "isoDate": "2026-07-01T14:25:23.000Z",
+    "isoDate": "2026-07-01T18:47:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off"
+    "slug": "ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller"
   },
   {
     "title": "(No AI) Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -87,18 +87,15 @@
     "slug": "how-chatgpt-adoption-has-expanded"
   },
   {
-    "title": "(No AI) Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
+    "title": "(No AI) Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "content": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "contentSnippet": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "guid": "https://openai.com/index/introducing-genebench-pro",
-    "categories": [
-      "Research"
-    ],
+    "guid": "https://openai.com/index/genebench-pro/case-studies",
     "isoDate": "2026-06-30T00:00:00.000Z",
+    "content": "",
+    "contentSnippet": "",
     "source": "OpenAI",
-    "slug": "introducing-genebench-pro"
+    "slug": "inside-genebench-pro"
   },
   {
     "title": "(No AI) Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -123,37 +120,37 @@
     "slug": "introducing-computer-use-in-gemini-3-5-flash"
   },
   {
-    "creator": "Hugo Lowell",
-    "title": "(No AI) Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-    "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-    "pubDate": "Wed, 01 Jul 2026 16:00:00 +0000",
-    "dc:creator": "Hugo Lowell",
-    "content": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-    "contentSnippet": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-    "guid": "6a43d470fc2f4f36eb43e6bb",
+    "creator": "Ej Dickson ",
+    "title": "(No AI) Goose, a New Gay Dating App, Appears to Be a Psyop",
+    "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+    "pubDate": "Wed, 01 Jul 2026 20:28:57 +0000",
+    "dc:creator": "Ej Dickson ",
+    "content": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+    "contentSnippet": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+    "guid": "6a42a9683d1e5eb6afce0e41",
     "categories": [
-      "Politics",
-      "Politics / Politics News"
+      "Culture",
+      "Culture / Digital Culture"
     ],
-    "isoDate": "2026-07-01T16:00:00.000Z",
+    "isoDate": "2026-07-01T20:28:57.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administration-s-good-graces"
+    "slug": "goose-a-new-gay-dating-app-appears-to-be-a-psyop"
   },
   {
-    "creator": "Andy Greenberg",
-    "title": "(No AI) Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-    "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-    "pubDate": "Wed, 01 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-    "contentSnippet": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-    "guid": "6a429a4997df48350cfc3f6c",
+    "creator": "Will Knight",
+    "title": "(No AI) You Can Now Sound the Alarm on AI Behaving Badly",
+    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "pubDate": "Wed, 01 Jul 2026 18:10:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+    "contentSnippet": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+    "guid": "6a427baf77416f01ec3d748c",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-07-01T10:00:00.000Z",
+    "isoDate": "2026-07-01T18:10:00.000Z",
     "source": "Wired AI",
-    "slug": "claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival"
+    "slug": "you-can-now-sound-the-alarm-on-ai-behaving-badly"
   }
 ]
