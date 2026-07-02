@@ -117,6 +117,23 @@
     "slug": "introducing-computer-use-in-gemini-3-5-flash"
   },
   {
+    "creator": "Julian Chokkattu",
+    "title": "(No AI) Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+    "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+    "pubDate": "Thu, 02 Jul 2026 09:30:00 +0000",
+    "dc:creator": "Julian Chokkattu",
+    "content": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
+    "contentSnippet": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
+    "guid": "6a454154c28e761b85a7ddf7",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-07-02T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "meta-is-charging-a-subscription-for-smart-glasses-features-welcome-to-the-new-era-of-consumer-tech"
+  },
+  {
     "creator": "Ej Dickson ",
     "title": "(No AI) Goose, a New Gay Dating App, Appears to Be a Psyop",
     "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
@@ -132,22 +149,5 @@
     "isoDate": "2026-07-01T20:28:57.000Z",
     "source": "Wired AI",
     "slug": "goose-a-new-gay-dating-app-appears-to-be-a-psyop"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) You Can Now Sound the Alarm on AI Behaving Badly",
-    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-    "pubDate": "Wed, 01 Jul 2026 18:10:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-    "contentSnippet": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-    "guid": "6a427baf77416f01ec3d748c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-01T18:10:00.000Z",
-    "source": "Wired AI",
-    "slug": "you-can-now-sound-the-alarm-on-ai-behaving-badly"
   }
 ]
