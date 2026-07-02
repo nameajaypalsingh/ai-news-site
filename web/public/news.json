@@ -1,42 +1,42 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "contentSnippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "guid": "https://techcrunch.com/?p=3138583",
+    "creator": "Julie Bort",
+    "title": "(No AI) Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "contentSnippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "guid": "https://techcrunch.com/?p=3138696",
     "categories": [
       "AI",
-      "Government & Policy",
-      "government",
-      "OpenAI",
-      "sam altman"
+      "TC",
+      "IPOs",
+      "sandwiches"
     ],
-    "isoDate": "2026-07-02T15:20:51.000Z",
+    "isoDate": "2026-07-02T20:11:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund"
+    "slug": "jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-has-become"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-    "contentSnippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-    "guid": "https://techcrunch.com/?p=3138546",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "pubDate": "Thu, 02 Jul 2026 18:44:02 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "contentSnippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "guid": "https://techcrunch.com/?p=3138687",
     "categories": [
-      "Enterprise",
-      "TC",
       "AI",
-      "Microsoft"
+      "Apps",
+      "Gaming",
+      "Social",
+      "Meta"
     ],
-    "isoDate": "2026-07-02T13:53:00.000Z",
+    "isoDate": "2026-07-02T18:44:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment"
+    "slug": "meta-quietly-launches-vibe-coded-gaming-app-pocket"
   },
   {
     "title": "(No AI) OpenAI floats giving Trump administration 5 percent cut of AI boom ",
@@ -114,6 +114,23 @@
     "slug": "introducing-computer-use-in-gemini-3-5-flash"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+    "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+    "contentSnippet": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+    "guid": "6a454f1af3e5961ebd7309fa",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-02T18:01:20.000Z",
+    "source": "Wired AI",
+    "slug": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex"
+  },
+  {
     "creator": "Julian Chokkattu",
     "title": "(No AI) Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
     "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
@@ -129,22 +146,5 @@
     "isoDate": "2026-07-02T09:30:00.000Z",
     "source": "Wired AI",
     "slug": "meta-is-charging-a-subscription-for-smart-glasses-features-welcome-to-the-new-era-of-consumer-tech"
-  },
-  {
-    "creator": "Ej Dickson ",
-    "title": "(No AI) Goose, a New Gay Dating App, Appears to Be a Psyop",
-    "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
-    "pubDate": "Wed, 01 Jul 2026 20:28:57 +0000",
-    "dc:creator": "Ej Dickson ",
-    "content": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-    "contentSnippet": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-    "guid": "6a42a9683d1e5eb6afce0e41",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-07-01T20:28:57.000Z",
-    "source": "Wired AI",
-    "slug": "goose-a-new-gay-dating-app-appears-to-be-a-psyop"
   }
 ]
