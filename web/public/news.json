@@ -1,39 +1,42 @@
 [
   {
     "creator": "Russell Brandom",
+    "title": "(No AI) OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "contentSnippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "guid": "https://techcrunch.com/?p=3138583",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "government",
+      "OpenAI",
+      "sam altman"
+    ],
+    "isoDate": "2026-07-02T15:20:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund"
+  },
+  {
+    "creator": "Russell Brandom",
     "title": "(No AI) Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
     "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
-    "contentSnippet": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+    "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+    "contentSnippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
     "guid": "https://techcrunch.com/?p=3138546",
     "categories": [
-      "AI",
       "Enterprise",
       "TC",
+      "AI",
       "Microsoft"
     ],
     "isoDate": "2026-07-02T13:53:00.000Z",
     "source": "TechCrunch AI",
     "slug": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment"
-  },
-  {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Yep, we’re using OpenClaw to date now",
-    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "pubDate": "Thu, 02 Jul 2026 12:00:00 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Ben Guez has \"a bunch of potential international wives in \\[his\\] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-    "contentSnippet": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-    "guid": "https://techcrunch.com/?p=3137764",
-    "categories": [
-      "AI",
-      "openclaw"
-    ],
-    "isoDate": "2026-07-02T12:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "yep-we-re-using-openclaw-to-date-now"
   },
   {
     "title": "(No AI) OpenAI floats giving Trump administration 5 percent cut of AI boom ",
