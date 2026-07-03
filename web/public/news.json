@@ -1,12 +1,32 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "contentSnippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "guid": "https://techcrunch.com/?p=3138873",
+    "categories": [
+      "AI",
+      "ai agent",
+      "In Brief",
+      "Mark Zuckerberg",
+      "Meta"
+    ],
+    "isoDate": "2026-07-02T23:38:10.000Z",
+    "source": "TechCrunch AI",
+    "slug": "mark-zuckerberg-tells-staff-that-ai-agents-haven-t-progressed-as-quickly-as-he-d-hoped"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
-    "contentSnippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+    "contentSnippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
     "guid": "https://techcrunch.com/?p=3138696",
     "categories": [
       "AI",
@@ -17,26 +37,6 @@
     "isoDate": "2026-07-02T20:11:59.000Z",
     "source": "TechCrunch AI",
     "slug": "jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-has-become"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Meta quietly launches vibe-coded gaming app Pocket",
-    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "pubDate": "Thu, 02 Jul 2026 18:44:02 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-    "contentSnippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-    "guid": "https://techcrunch.com/?p=3138687",
-    "categories": [
-      "AI",
-      "Apps",
-      "Gaming",
-      "Social",
-      "Meta"
-    ],
-    "isoDate": "2026-07-02T18:44:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-quietly-launches-vibe-coded-gaming-app-pocket"
   },
   {
     "title": "(No AI) OpenAI floats giving Trump administration 5 percent cut of AI boom ",
