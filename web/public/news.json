@@ -1,44 +1,42 @@
 [
   {
-    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "title": "(No AI) The only AI glossary you’ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000",
-    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "guid": "https://techcrunch.com/?p=2973217",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Alibaba reportedly bans employees from using Claude Code",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "contentSnippet": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "guid": "https://techcrunch.com/?p=3138976",
     "categories": [
       "AI",
-      "artificial intelligence",
-      "evergreens",
-      "Glossary"
+      "Security",
+      "alibaba",
+      "claude code"
     ],
-    "isoDate": "2026-07-03T21:20:00.000Z",
+    "isoDate": "2026-07-04T16:32:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-only-ai-glossary-you-ll-need-this-year"
+    "slug": "alibaba-reportedly-bans-employees-from-using-claude-code"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "pubDate": "Fri, 03 Jul 2026 18:43:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "contentSnippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "guid": "https://techcrunch.com/?p=3026701",
+    "creator": "Anna Heim",
+    "title": "(No AI) What is Mistral AI? Everything to know about the OpenAI competitor",
+    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "contentSnippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "guid": "https://techcrunch.com/?p=2970347",
     "categories": [
       "AI",
-      "Apps",
       "Startups",
-      "Browser",
       "evergreens",
-      "search engines",
-      "web browser"
+      "mistral",
+      "Mistral AI"
     ],
-    "isoDate": "2026-07-03T18:43:00.000Z",
+    "isoDate": "2026-07-04T15:51:32.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-browser-wars-aren-t-about-search-anymore-here-are-the-best-alternatives-to-chrome-and-safari"
+    "slug": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor"
   },
   {
     "title": "(No AI) The fanfiction community is at war with AI — and itself",
