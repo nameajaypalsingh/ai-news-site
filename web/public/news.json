@@ -1,42 +1,43 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
+    "title": "(No AI) New Google commercial imagines a Declaration of Independence written with help from AI",
+    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "contentSnippet": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "guid": "https://techcrunch.com/?p=3138976",
+    "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "contentSnippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "guid": "https://techcrunch.com/?p=3138982",
     "categories": [
       "AI",
-      "Security",
-      "alibaba",
-      "claude code"
+      "Media & Entertainment",
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-07-04T16:32:08.000Z",
+    "isoDate": "2026-07-04T20:55:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "alibaba-reportedly-bans-employees-from-using-claude-code"
+    "slug": "new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-    "contentSnippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-    "guid": "https://techcrunch.com/?p=2970347",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "contentSnippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "guid": "https://techcrunch.com/?p=3138980",
     "categories": [
       "AI",
-      "Startups",
-      "evergreens",
-      "mistral",
-      "Mistral AI"
+      "Media & Entertainment",
+      "Disney",
+      "MidJourney",
+      "Universal",
+      "Warner Bros"
     ],
-    "isoDate": "2026-07-04T15:51:32.000Z",
+    "isoDate": "2026-07-04T18:00:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor"
+    "slug": "midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage"
   },
   {
     "title": "(No AI) The fanfiction community is at war with AI — and itself",
