@@ -1,9 +1,28 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) If you use Google, you’re training its AI. Here’s how to opt out.",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+    "contentSnippet": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+    "guid": "https://techcrunch.com/?p=3139169",
+    "categories": [
+      "AI",
+      "Google",
+      "Google Search",
+      "psa"
+    ],
+    "isoDate": "2026-07-06T17:04:58.000Z",
+    "source": "TechCrunch AI",
+    "slug": "if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-out"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-    "pubDate": "Mon, 06 Jul 2026 15:08:46 +0000",
+    "pubDate": "Mon, 06 Jul 2026 15:32:43 +0000",
     "dc:creator": "Rebecca Bellan",
     "content": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
     "contentSnippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
@@ -15,30 +34,23 @@
       "tech layoffs",
       "xbox"
     ],
-    "isoDate": "2026-07-06T15:08:46.000Z",
+    "isoDate": "2026-07-06T15:32:43.000Z",
     "source": "TechCrunch AI",
     "slug": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial-sales"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Station F ramps up as a launchpad for Europe’s hottest AI startups",
-    "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-    "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-    "contentSnippet": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-    "guid": "https://techcrunch.com/?p=3139058",
-    "categories": [
-      "AI",
-      "Startups",
-      "f/ai",
-      "Roxanne Varza",
-      "Station F",
-      "Xavier Niel"
-    ],
-    "isoDate": "2026-07-06T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "station-f-ramps-up-as-a-launchpad-for-europe-s-hottest-ai-startups"
+    "title": "(No AI) I spy",
+    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "pubDate": "2026-07-06T16:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![Senior reviewer Victoria Song wearing Meta Ray-Ban Display glasses while looking over her shoulder. The photo is lit so there are dramatic shadows across her face.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\n\nI've long argued that Hollywood has [simultaneously set](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy) and [ruined our expectations for smart glasses](https://gizmodo.com/video/how-science-fiction-ruined-smart-glasses). But after binge-watching two seasons of Netflix's _A Man on the Inside_, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today.\n\nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for the je …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)",
+    "contentSnippet": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. \nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for the je …\nRead the full story at The Verge.",
+    "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
+    "id": "https://www.theverge.com/?p=961707",
+    "isoDate": "2026-07-06T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "i-spy"
   },
   {
     "title": "(No AI) Microsoft is laying off 4,800 employees",
@@ -53,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "microsoft-is-laying-off-4-800-employees"
-  },
-  {
-    "title": "(No AI) Some of the nation’s rich are letting AI teach their kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "pubDate": "2026-07-05T22:30:54.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Photo collage of a pixelated student at a desk.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMost Americans [don't trust AI](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai). It's proven that it doesn't know what [safe toppings](https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results) for pizza are. People don't even want to listen to [AI music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads). But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\n\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told [_The Wall Street Journal_](https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3?st=TeME61&reflink=desktopwebshare_permalink) that he plans to send his …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)",
-    "contentSnippet": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told The Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
-    "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
-    "id": "https://www.theverge.com/?p=961505",
-    "isoDate": "2026-07-05T22:30:54.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "some-of-the-nation-s-rich-are-letting-ai-teach-their-kids"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
