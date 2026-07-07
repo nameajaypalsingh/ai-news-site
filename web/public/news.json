@@ -1,41 +1,41 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-    "contentSnippet": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-    "guid": "https://techcrunch.com/?p=3139318",
+    "creator": "Connie Loizos",
+    "title": "(No AI) The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+    "contentSnippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+    "guid": "https://techcrunch.com/?p=3139436",
     "categories": [
       "AI",
-      "Guillermo Rauch",
-      "Vercel"
+      "Security",
+      "sysdig"
     ],
-    "isoDate": "2026-07-06T19:49:10.000Z",
+    "isoDate": "2026-07-06T23:56:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents"
+    "slug": "the-first-ai-run-ransomware-attack-still-needed-a-human"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "pubDate": "Mon, 06 Jul 2026 19:01:59 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-    "contentSnippet": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-    "guid": "https://techcrunch.com/?p=3139329",
+    "creator": "Julie Bort",
+    "title": "(No AI) US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "contentSnippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "guid": "https://techcrunch.com/?p=3139406",
     "categories": [
       "AI",
-      "Apps",
-      "iOS 27",
-      "siri",
-      "siri ai"
+      "Hardware",
+      "memory",
+      "RAM",
+      "SK Hynix"
     ],
-    "isoDate": "2026-07-06T19:01:59.000Z",
+    "isoDate": "2026-07-06T23:21:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta"
+    "slug": "us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom"
   },
   {
     "title": "(No AI) I spy",
@@ -80,15 +80,18 @@
     "slug": "how-chatgpt-adoption-has-expanded"
   },
   {
-    "title": "(No AI) Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "title": "(No AI) Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "guid": "https://openai.com/index/genebench-pro/case-studies",
+    "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "contentSnippet": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "guid": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "categories": [
+      "Engineering"
+    ],
     "isoDate": "2026-06-30T00:00:00.000Z",
-    "content": "",
-    "contentSnippet": "",
     "source": "OpenAI",
-    "slug": "inside-genebench-pro"
+    "slug": "core-dump-epidemiology-fixing-an-18-year-old-bug"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
