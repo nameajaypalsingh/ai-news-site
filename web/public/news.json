@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "contentSnippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "guid": "https://techcrunch.com/?p=3139729",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "claude cowork",
+      "coding agent"
+    ],
+    "isoDate": "2026-07-07T16:27:18.000Z",
+    "source": "TechCrunch AI",
+    "slug": "claude-cowork-expands-to-mobile-and-web"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
     "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
@@ -9,9 +28,9 @@
     "contentSnippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
     "guid": "https://techcrunch.com/?p=3138667",
     "categories": [
-      "AI",
-      "Security",
       "Startups",
+      "Security",
+      "AI",
       "acrew capital",
       "AI scams",
       "fraud detection",
@@ -22,25 +41,18 @@
     "slug": "savi-s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) The first American autonomous ground vehicles are fighting in Ukraine",
-    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-    "contentSnippet": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-    "guid": "https://techcrunch.com/?p=3139226",
-    "categories": [
-      "AI",
-      "Robotics",
-      "autonomous vehicles",
-      "defense tech",
-      "Exclusive",
-      "Forterra"
-    ],
-    "isoDate": "2026-07-07T09:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine"
+    "title": "(No AI) Anthropic is launching Claude Cowork on mobile and web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "pubDate": "2026-07-07T17:46:59.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A phone and laptop side by side running Claude Cowork](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nStarting Tuesday, Anthropic's [Claude Cowork AI platform](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code) will be [available on mobile and web](https://claude.com/blog/cowork-web-mobile/) for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\"\n\nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access.\n\nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web)",
+    "contentSnippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" \nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access. \nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\nRead the full story at The Verge.",
+    "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+    "id": "https://www.theverge.com/?p=961978",
+    "isoDate": "2026-07-07T17:46:59.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-is-launching-claude-cowork-on-mobile-and-web"
   },
   {
     "title": "(No AI) Solos debuts an even lighter version of its camera-less smart glasses",
@@ -55,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "solos-debuts-an-even-lighter-version-of-its-camera-less-smart-glasses"
-  },
-  {
-    "title": "(No AI) I spy",
-    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-    "pubDate": "2026-07-06T16:00:00.000Z",
-    "author": "Victoria Song",
-    "content": "![Senior reviewer Victoria Song wearing Meta Ray-Ban Display glasses while looking over her shoulder. The photo is lit so there are dramatic shadows across her face.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\n\nI've long argued that Hollywood has [simultaneously set](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy) and [ruined our expectations for smart glasses](https://gizmodo.com/video/how-science-fiction-ruined-smart-glasses). But after binge-watching two seasons of Netflix's _A Man on the Inside_, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today.\n\nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta-like glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for t …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)",
-    "contentSnippet": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. \nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta-like glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for t …\nRead the full story at The Verge.",
-    "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
-    "id": "https://www.theverge.com/?p=961707",
-    "isoDate": "2026-07-06T16:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "i-spy"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
@@ -121,6 +119,24 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "pubDate": "Tue, 07 Jul 2026 16:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+    "contentSnippet": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+    "guid": "6a4bdbf99a04d6f37d84ef3b",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps"
+    ],
+    "isoDate": "2026-07-07T16:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
     "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
@@ -136,21 +152,5 @@
     "isoDate": "2026-07-07T13:00:00.000Z",
     "source": "Wired AI",
     "slug": "these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras"
-  },
-  {
-    "creator": "Megan Tomos ",
-    "title": "(No AI) Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
-    "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
-    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Megan Tomos ",
-    "content": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
-    "contentSnippet": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
-    "guid": "6a4bbcde9f0d70c66d8fc3d7",
-    "categories": [
-      "Culture"
-    ],
-    "isoDate": "2026-07-07T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai"
   }
 ]
