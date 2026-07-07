@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Forterra has deployed more than 100",
+    "contentSnippet": "Forterra has deployed more than 100",
+    "guid": "https://techcrunch.com/?p=3139226",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Exclusive",
+      "Forterra"
+    ],
+    "isoDate": "2026-07-07T09:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) The ‘first’ AI-run ransomware attack still needed a human",
     "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -18,52 +37,32 @@
     "slug": "the-first-ai-run-ransomware-attack-still-needed-a-human"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-    "contentSnippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-    "guid": "https://techcrunch.com/?p=3139406",
-    "categories": [
-      "AI",
-      "Hardware",
-      "memory",
-      "RAM",
-      "SK Hynix"
-    ],
-    "isoDate": "2026-07-06T23:21:03.000Z",
-    "source": "TechCrunch AI",
-    "slug": "us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom"
+    "title": "(No AI) I spy",
+    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "pubDate": "2026-07-06T16:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![Senior reviewer Victoria Song wearing Meta Ray-Ban Display glasses while looking over her shoulder. The photo is lit so there are dramatic shadows across her face.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\n\nI've long argued that Hollywood has [simultaneously set](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy) and [ruined our expectations for smart glasses](https://gizmodo.com/video/how-science-fiction-ruined-smart-glasses). But after binge-watching two seasons of Netflix's _A Man on the Inside_, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today.\n\nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta-like glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for t …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)",
+    "contentSnippet": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. \nIn a nutshell, Ted Danson plays Charles Nieuwendyk, an elderly widower who finds a new purpose working for a private investigator. Armed with a pair of Ray-Ban Meta-like glasses, a voice recorder, and a smartphone, Nieuwendyk infiltrates a retirement home, and several privacy-infringing hijinks ensue as he hunts for t …\nRead the full story at The Verge.",
+    "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
+    "id": "https://www.theverge.com/?p=961707",
+    "isoDate": "2026-07-06T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "i-spy"
   },
   {
-    "title": "(No AI) The fanfiction community is at war with AI — and itself",
-    "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "pubDate": "2026-07-04T12:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Hands with too many fingers typing on a keyboard.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\n\n[Broad distaste](https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast) around the use of Claude, ChatGPT, and other AI tools has long been _a thing_ in [creative communities](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists), including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the [broad concept](https://x.com/ffe2ff/status/2070804900871634965) of purple prose. But on June 29th, an anonymous X account called [@heatedrivalryai](https://x.com/heatedrivalryai) promised a seemingly more reliable solution …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)",
-    "contentSnippet": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\nBroad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the broad concept of purple prose. But on June 29th, an anonymous X account called @heatedrivalryai promised a seemingly more reliable solution …\nRead the full story at The Verge.",
-    "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
-    "id": "https://www.theverge.com/?p=960854",
-    "isoDate": "2026-07-04T12:00:00.000Z",
+    "title": "(No AI) Microsoft is laying off 4,800 employees",
+    "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+    "pubDate": "2026-07-06T13:30:00.000Z",
+    "author": "Tom Warren",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSatya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\n\nA year after cutting around [9,100 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox), Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division.\n\nIn an internal memo to employees, Amy Coleman, executive vice president and Microsoft's chief people officer, blamed the job losses on a changing technology industry and the \"need to adjust resources and roles and shift how we operate\" to respond to how AI is impacting companies like Microsof …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox)",
+    "contentSnippet": "Satya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\t\n\nA year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division.\nIn an internal memo to employees, Amy Coleman, executive vice president and Microsoft's chief people officer, blamed the job losses on a changing technology industry and the \"need to adjust resources and roles and shift how we operate\" to respond to how AI is impacting companies like Microsof …\nRead the full story at The Verge.",
+    "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. [&#8230;]",
+    "id": "https://www.theverge.com/?p=961528",
+    "isoDate": "2026-07-06T13:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-fanfiction-community-is-at-war-with-ai-and-itself"
-  },
-  {
-    "title": "(No AI) Anthropic wants to develop its own drugs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "pubDate": "2026-07-03T13:56:52.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAt the event [\"The Briefing: AI for Science\"](https://www.anthropic.com/events/the-briefing-ai-for-science) earlier this week, Anthropic [announced Claude Science](https://www.theverge.com/ai-artificial-intelligence/959371/claudes-getting-a-lab-coat), a new \"[AI workbench for scientists](https://www.anthropic.com/news/claude-science-ai-workbench)\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude.\n\nAnthropic also went a step further, saying it would develop drugs of its …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)",
-    "contentSnippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. \nAnthropic also went a step further, saying it would develop drugs of its  …\nRead the full story at The Verge.",
-    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
-    "id": "https://www.theverge.com/?p=961311",
-    "isoDate": "2026-07-03T13:56:52.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-wants-to-develop-its-own-drugs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-is-laying-off-4-800-employees"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
@@ -116,38 +115,36 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "pubDate": "Fri, 03 Jul 2026 16:30:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-    "contentSnippet": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-    "guid": "6a477b03a501cf42d472f36b",
+    "creator": "Megan Tomos ",
+    "title": "(No AI) Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+    "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Megan Tomos ",
+    "content": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+    "contentSnippet": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+    "guid": "6a4bbcde9f0d70c66d8fc3d7",
     "categories": [
-      "Business",
-      "Business / Big Tech",
-      "Business / Artificial Intelligence"
+      "Culture"
     ],
-    "isoDate": "2026-07-03T16:30:00.000Z",
+    "isoDate": "2026-07-07T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "google-deepmind-unionization-talks-are-off-to-a-rocky-start"
+    "slug": "erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-    "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-    "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-    "contentSnippet": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-    "guid": "6a454f1af3e5961ebd7309fa",
+    "creator": "Isabella Ward",
+    "title": "(No AI) British Space Startup Launches Longevity Lab Into Orbit",
+    "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+    "pubDate": "Tue, 07 Jul 2026 09:57:12 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+    "contentSnippet": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+    "guid": "6a4be4585d0f29013e9d3719",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Science",
+      "Science / Space"
     ],
-    "isoDate": "2026-07-02T18:01:20.000Z",
+    "isoDate": "2026-07-07T09:57:12.000Z",
     "source": "Wired AI",
-    "slug": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex"
+    "slug": "british-space-startup-launches-longevity-lab-into-orbit"
   }
 ]
