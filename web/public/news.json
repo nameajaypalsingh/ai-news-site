@@ -1,44 +1,57 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Claude Cowork expands to mobile and web",
-    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-    "contentSnippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-    "guid": "https://techcrunch.com/?p=3139729",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "contentSnippet": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "guid": "https://techcrunch.com/?p=3139798",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "Anthropic",
+      "Decagon"
+    ],
+    "isoDate": "2026-07-07T20:04:32.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "contentSnippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "guid": "https://techcrunch.com/?p=3139819",
     "categories": [
       "AI",
       "Anthropic",
-      "claude cowork",
-      "coding agent"
+      "In Brief",
+      "Microsoft",
+      "OpenAI",
+      "tokens"
     ],
-    "isoDate": "2026-07-07T16:27:18.000Z",
+    "isoDate": "2026-07-07T19:58:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "claude-cowork-expands-to-mobile-and-web"
+    "slug": "microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-    "contentSnippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-    "guid": "https://techcrunch.com/?p=3138667",
-    "categories": [
-      "Startups",
-      "Security",
-      "AI",
-      "acrew capital",
-      "AI scams",
-      "fraud detection",
-      "Savi"
-    ],
-    "isoDate": "2026-07-07T12:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "savi-s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom"
+    "title": "(No AI) Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "pubDate": "2026-07-07T20:31:58.000Z",
+    "author": "Emma Roth",
+    "content": "![An AI-generated image from Muse AI](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is launching the first AI image generation model made by its Superintelligence Labs division. The [Muse Image model](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, [according to an announcement on Tuesday](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/).\n\nIt's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to [head up its Superintelligence Labs](https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs) last year, [says on Threads that Muse Image is](https://www.threads.com/@alexanddeer/post/DagKCLtkfHn) \"agentic,\" meaning it works with its [Muse Spark large language model](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout) \"to reason through your prompt, search the web, and plan before it generates.\" Meta is al …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram)",
+    "contentSnippet": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday.\nIt's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\" meaning it works with its Muse Spark large language model \"to reason through your prompt, search the web, and plan before it generates.\" Meta is al …\nRead the full story at The Verge.",
+    "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+    "id": "https://www.theverge.com/?p=962485",
+    "isoDate": "2026-07-07T20:31:58.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-s-new-muse-image-model-can-pull-other-instagram-users-into-ai-photos"
   },
   {
     "title": "(No AI) Anthropic is launching Claude Cowork on mobile and web",
@@ -55,18 +68,15 @@
     "slug": "anthropic-is-launching-claude-cowork-on-mobile-and-web"
   },
   {
-    "title": "(No AI) Solos debuts an even lighter version of its camera-less smart glasses",
-    "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-    "pubDate": "2026-07-07T13:00:00.000Z",
-    "author": "Andrew Liszewski",
-    "content": "![Solos’ AirGo A6 smart glasses in a clear shiny honey design.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the [new Meta Glasses announced last month](https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy) weigh around 54 to nearly 60 grams depending on the style.\n\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy)",
-    "contentSnippet": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the new Meta Glasses announced last month weigh around 54 to nearly 60 grams depending on the style.\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\nRead the full story at The Verge.",
-    "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
-    "id": "https://www.theverge.com/?p=961711",
-    "isoDate": "2026-07-07T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "solos-debuts-an-even-lighter-version-of-its-camera-less-smart-glasses"
+    "title": "(No AI) Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "content": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "contentSnippet": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "guid": "https://openai.com/index/australian-payments-plus",
+    "isoDate": "2026-07-07T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "australian-payments-plus-moves-faster-with-chatgpt-and-codex"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
@@ -81,20 +91,6 @@
     "isoDate": "2026-06-30T09:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-chatgpt-adoption-has-expanded"
-  },
-  {
-    "title": "(No AI) Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "contentSnippet": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "guid": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "categories": [
-      "Engineering"
-    ],
-    "isoDate": "2026-06-30T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "core-dump-epidemiology-fixing-an-18-year-old-bug"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
