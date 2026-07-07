@@ -1,16 +1,40 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "contentSnippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+    "guid": "https://techcrunch.com/?p=3138667",
+    "categories": [
+      "AI",
+      "Security",
+      "Startups",
+      "acrew capital",
+      "AI scams",
+      "fraud detection",
+      "Savi"
+    ],
+    "isoDate": "2026-07-07T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "savi-s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) The first American autonomous ground vehicles are fighting in Ukraine",
     "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
     "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "Forterra has deployed more than 100",
-    "contentSnippet": "Forterra has deployed more than 100",
+    "content": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+    "contentSnippet": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
     "guid": "https://techcrunch.com/?p=3139226",
     "categories": [
       "AI",
       "Robotics",
+      "autonomous vehicles",
+      "defense tech",
       "Exclusive",
       "Forterra"
     ],
@@ -19,22 +43,18 @@
     "slug": "the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The ‘first’ AI-run ransomware attack still needed a human",
-    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-    "contentSnippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-    "guid": "https://techcrunch.com/?p=3139436",
-    "categories": [
-      "AI",
-      "Security",
-      "sysdig"
-    ],
-    "isoDate": "2026-07-06T23:56:14.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-first-ai-run-ransomware-attack-still-needed-a-human"
+    "title": "(No AI) Solos debuts an even lighter version of its camera-less smart glasses",
+    "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+    "pubDate": "2026-07-07T13:00:00.000Z",
+    "author": "Andrew Liszewski",
+    "content": "![Solos’ AirGo A6 smart glasses in a clear shiny honey design.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the [new Meta Glasses announced last month](https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy) weigh around 54 to nearly 60 grams depending on the style.\n\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy)",
+    "contentSnippet": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings comes from thinner temple arms housing speakers, batteries, and other electronics. For comparison, the new Meta Glasses announced last month weigh around 54 to nearly 60 grams depending on the style.\nPricing and availability for the new AirGo A6 hasn't been finalized yet, but the smart glasses will support \"full prescription lens compatibilit …\nRead the full story at The Verge.",
+    "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+    "id": "https://www.theverge.com/?p=961711",
+    "isoDate": "2026-07-07T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "solos-debuts-an-even-lighter-version-of-its-camera-less-smart-glasses"
   },
   {
     "title": "(No AI) I spy",
@@ -49,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "i-spy"
-  },
-  {
-    "title": "(No AI) Microsoft is laying off 4,800 employees",
-    "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-    "pubDate": "2026-07-06T13:30:00.000Z",
-    "author": "Tom Warren",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSatya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\n\nA year after cutting around [9,100 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox), Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division.\n\nIn an internal memo to employees, Amy Coleman, executive vice president and Microsoft's chief people officer, blamed the job losses on a changing technology industry and the \"need to adjust resources and roles and shift how we operate\" to respond to how AI is impacting companies like Microsof …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox)",
-    "contentSnippet": "Satya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\t\n\nA year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division.\nIn an internal memo to employees, Amy Coleman, executive vice president and Microsoft's chief people officer, blamed the job losses on a changing technology industry and the \"need to adjust resources and roles and shift how we operate\" to respond to how AI is impacting companies like Microsof …\nRead the full story at The Verge.",
-    "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. [&#8230;]",
-    "id": "https://www.theverge.com/?p=961528",
-    "isoDate": "2026-07-06T13:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-is-laying-off-4-800-employees"
   },
   {
     "title": "(No AI) How ChatGPT adoption has expanded",
@@ -115,6 +121,23 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Boone Ashworth",
+    "title": "(No AI) These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+    "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+    "pubDate": "Tue, 07 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "You can clip a cover over the cameras, which could be a double-edged sword.",
+    "contentSnippet": "You can clip a cover over the cameras, which could be a double-edged sword.",
+    "guid": "6a4bbc93ccd2aa2af80dc38b",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-07-07T13:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras"
+  },
+  {
     "creator": "Megan Tomos ",
     "title": "(No AI) Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
     "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
@@ -129,22 +152,5 @@
     "isoDate": "2026-07-07T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) British Space Startup Launches Longevity Lab Into Orbit",
-    "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-    "pubDate": "Tue, 07 Jul 2026 09:57:12 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-    "contentSnippet": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-    "guid": "6a4be4585d0f29013e9d3719",
-    "categories": [
-      "Science",
-      "Science / Space"
-    ],
-    "isoDate": "2026-07-07T09:57:12.000Z",
-    "source": "Wired AI",
-    "slug": "british-space-startup-launches-longevity-lab-into-orbit"
   }
 ]
