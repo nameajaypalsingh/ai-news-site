@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "contentSnippet": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "guid": "https://techcrunch.com/?p=3139892",
+    "categories": [
+      "AI",
+      "Meta",
+      "Meta Superintelligence",
+      "Muse Image"
+    ],
+    "isoDate": "2026-07-07T22:18:10.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-back-over-use-of-their-photos"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) Why the rise of open source AI isn’t hurting Anthropic … yet",
     "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
@@ -17,27 +36,6 @@
     "isoDate": "2026-07-07T20:04:32.000Z",
     "source": "TechCrunch AI",
     "slug": "why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-    "contentSnippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-    "guid": "https://techcrunch.com/?p=3139819",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "In Brief",
-      "Microsoft",
-      "OpenAI",
-      "tokens"
-    ],
-    "isoDate": "2026-07-07T19:58:20.000Z",
-    "source": "TechCrunch AI",
-    "slug": "microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models"
   },
   {
     "title": "(No AI) Meta’s new Muse Image model can pull other Instagram users into AI photos",
@@ -79,18 +77,15 @@
     "slug": "australian-payments-plus-moves-faster-with-chatgpt-and-codex"
   },
   {
-    "title": "(No AI) How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "pubDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "content": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "contentSnippet": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "guid": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-06-30T09:00:00.000Z",
+    "title": "(No AI) MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "contentSnippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "guid": "https://openai.com/index/mufg",
+    "isoDate": "2026-07-07T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-chatgpt-adoption-has-expanded"
+    "slug": "mufg-aims-to-become-ai-native-with-openai"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -116,37 +111,35 @@
   },
   {
     "creator": "Reece Rogers",
-    "title": "(No AI) Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-    "pubDate": "Tue, 07 Jul 2026 16:00:00 +0000",
+    "title": "(No AI) Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+    "pubDate": "Tue, 07 Jul 2026 21:59:29 +0000",
     "dc:creator": "Reece Rogers",
-    "content": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-    "contentSnippet": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-    "guid": "6a4bdbf99a04d6f37d84ef3b",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps"
-    ],
-    "isoDate": "2026-07-07T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
-    "link": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
-    "pubDate": "Tue, 07 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "You can clip a cover over the cameras, which could be a double-edged sword.",
-    "contentSnippet": "You can clip a cover over the cameras, which could be a double-edged sword.",
-    "guid": "6a4bbc93ccd2aa2af80dc38b",
+    "content": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+    "contentSnippet": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
+    "guid": "6a4d6643e06236b4d104fda6",
     "categories": [
       "Gear",
       "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-07-07T13:00:00.000Z",
+    "isoDate": "2026-07-07T21:59:29.000Z",
     "source": "Wired AI",
-    "slug": "these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras"
+    "slug": "meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out"
+  },
+  {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI’s Chief Futurist Is Leaving the Company",
+    "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+    "pubDate": "Tue, 07 Jul 2026 21:30:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+    "contentSnippet": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
+    "guid": "6a43144c64b48e1968e5f69e",
+    "categories": [
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-07T21:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-chief-futurist-is-leaving-the-company"
   }
 ]
