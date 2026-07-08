@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "pubDate": "Wed, 08 Jul 2026 12:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+    "contentSnippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+    "guid": "https://techcrunch.com/?p=3139858",
+    "categories": [
+      "AI",
+      "Space",
+      "Startups",
+      "Kevin Weil",
+      "stoke space"
+    ],
+    "isoDate": "2026-07-08T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space"
+  },
+  {
     "creator": "Anna Heim",
     "title": "(No AI) Hot French startup ZML releases free product to speed inference across lots of AI chips",
     "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
@@ -19,29 +39,6 @@
     "isoDate": "2026-07-08T08:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips"
-  },
-  {
-    "creator": "Kate Park",
-    "title": "(No AI) AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
-    "dc:creator": "Kate Park",
-    "content": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-    "contentSnippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-    "guid": "https://techcrunch.com/?p=3139582",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Intel",
-      "Funding",
-      "startup",
-      "SambaNova",
-      "SambaNova Systems",
-      "AI chip"
-    ],
-    "isoDate": "2026-07-08T07:16:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-round"
   },
   {
     "title": "(No AI) Meta’s new Muse Image model can pull other Instagram users into AI photos",
@@ -116,6 +113,23 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Miles Klee",
+    "title": "(No AI) Pickup Artist Mystery Has an AI Girlfriend",
+    "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+    "pubDate": "Wed, 08 Jul 2026 11:00:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+    "contentSnippet": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+    "guid": "6a42aac78e9f95529ecf42ca",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-07-08T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "pickup-artist-mystery-has-an-ai-girlfriend"
+  },
+  {
     "creator": "Joel Khalili",
     "title": "(No AI) This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
     "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
@@ -131,22 +145,5 @@
     "isoDate": "2026-07-08T09:30:00.000Z",
     "source": "Wired AI",
     "slug": "this-former-deepmind-exec-thinks-the-ai-arms-race-could-end-in-disaster"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
-    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-    "pubDate": "Tue, 07 Jul 2026 21:59:29 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-    "contentSnippet": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content.",
-    "guid": "6a4d6643e06236b4d104fda6",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-07-07T21:59:29.000Z",
-    "source": "Wired AI",
-    "slug": "meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out"
   }
 ]
