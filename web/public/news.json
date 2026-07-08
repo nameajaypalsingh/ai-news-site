@@ -1,41 +1,47 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-    "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-    "contentSnippet": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-    "guid": "https://techcrunch.com/?p=3139892",
+    "creator": "Anna Heim",
+    "title": "(No AI) Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "pubDate": "Wed, 08 Jul 2026 08:00:00 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "contentSnippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "guid": "https://techcrunch.com/?p=3139750",
     "categories": [
       "AI",
-      "Meta",
-      "Meta Superintelligence",
-      "Muse Image"
+      "Fundraising",
+      "Startups",
+      "AI inference",
+      "Exclusive",
+      "ZML"
     ],
-    "isoDate": "2026-07-07T22:18:10.000Z",
+    "isoDate": "2026-07-08T08:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-back-over-use-of-their-photos"
+    "slug": "hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-    "contentSnippet": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-    "guid": "https://techcrunch.com/?p=3139798",
+    "creator": "Kate Park",
+    "title": "(No AI) AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
+    "dc:creator": "Kate Park",
+    "content": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "contentSnippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "guid": "https://techcrunch.com/?p=3139582",
     "categories": [
       "AI",
-      "Enterprise",
-      "Anthropic",
-      "Decagon"
+      "Fundraising",
+      "Intel",
+      "Funding",
+      "startup",
+      "SambaNova",
+      "SambaNova Systems",
+      "AI chip"
     ],
-    "isoDate": "2026-07-07T20:04:32.000Z",
+    "isoDate": "2026-07-08T07:16:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet"
+    "slug": "ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-round"
   },
   {
     "title": "(No AI) Meta’s new Muse Image model can pull other Instagram users into AI photos",
@@ -110,6 +116,23 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+    "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+    "pubDate": "Wed, 08 Jul 2026 09:30:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+    "contentSnippet": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+    "guid": "6a4bcc8d909d7a677564367c",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-08T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "this-former-deepmind-exec-thinks-the-ai-arms-race-could-end-in-disaster"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
     "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
@@ -125,21 +148,5 @@
     "isoDate": "2026-07-07T21:59:29.000Z",
     "source": "Wired AI",
     "slug": "meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI’s Chief Futurist Is Leaving the Company",
-    "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-    "pubDate": "Tue, 07 Jul 2026 21:30:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-    "contentSnippet": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-    "guid": "6a43144c64b48e1968e5f69e",
-    "categories": [
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-07T21:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "openai-s-chief-futurist-is-leaving-the-company"
   }
 ]
