@@ -1,44 +1,60 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "pubDate": "Wed, 08 Jul 2026 12:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "contentSnippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "guid": "https://techcrunch.com/?p=3139858",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "pubDate": "Wed, 08 Jul 2026 17:11:18 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+    "contentSnippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+    "guid": "https://techcrunch.com/?p=3140026",
     "categories": [
       "AI",
-      "Space",
-      "Startups",
-      "Kevin Weil",
-      "stoke space"
+      "Apps",
+      "Gadgets",
+      "Media & Entertainment",
+      "Social",
+      "TC",
+      "Meta",
+      "meta ai",
+      "privacy"
     ],
-    "isoDate": "2026-07-08T12:00:00.000Z",
+    "isoDate": "2026-07-08T17:11:18.000Z",
     "source": "TechCrunch AI",
-    "slug": "former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space"
+    "slug": "meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise"
   },
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "pubDate": "Wed, 08 Jul 2026 08:00:00 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "contentSnippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "guid": "https://techcrunch.com/?p=3139750",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI releases new voice models for more natural live conversations",
+    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "pubDate": "Wed, 08 Jul 2026 17:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "contentSnippet": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "guid": "https://techcrunch.com/?p=3140033",
     "categories": [
       "AI",
-      "Fundraising",
-      "Startups",
-      "AI inference",
-      "Exclusive",
-      "ZML"
+      "Apps",
+      "ChatGPT",
+      "voice model"
     ],
-    "isoDate": "2026-07-08T08:00:00.000Z",
+    "isoDate": "2026-07-08T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips"
+    "slug": "openai-releases-new-voice-models-for-more-natural-live-conversations"
+  },
+  {
+    "title": "(No AI) ChatGPT’s upgraded voice mode is better at shutting up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "pubDate": "2026-07-08T17:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A graphic showing ChatGPT’s Voice Mode](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is [overhauling ChatGPT's voice mode](https://openai.com/index/introducing-gpt-live/) with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.\n\nDuring a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findings. The upgraded model will also supplement conv …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live)",
+    "contentSnippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.\nDuring a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findings. The upgraded model will also supplement conv …\nRead the full story at The Verge.",
+    "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's [&#8230;]",
+    "id": "https://www.theverge.com/?p=962856",
+    "isoDate": "2026-07-08T17:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up"
   },
   {
     "title": "(No AI) Meta’s new Muse Image model can pull other Instagram users into AI photos",
@@ -55,40 +71,32 @@
     "slug": "meta-s-new-muse-image-model-can-pull-other-instagram-users-into-ai-photos"
   },
   {
-    "title": "(No AI) Anthropic is launching Claude Cowork on mobile and web",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-    "pubDate": "2026-07-07T17:46:59.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A phone and laptop side by side running Claude Cowork](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nStarting Tuesday, Anthropic's [Claude Cowork AI platform](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code) will be [available on mobile and web](https://claude.com/blog/cowork-web-mobile/) for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\"\n\nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access.\n\nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web)",
-    "contentSnippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" \nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access. \nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\nRead the full story at The Verge.",
-    "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
-    "id": "https://www.theverge.com/?p=961978",
-    "isoDate": "2026-07-07T17:46:59.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-is-launching-claude-cowork-on-mobile-and-web"
+    "title": "(No AI) Helping K–12 educators build practical AI skills",
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "pubDate": "Wed, 08 Jul 2026 10:00:00 GMT",
+    "content": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "contentSnippet": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "guid": "https://openai.com/index/k-12-educators-practical-skills",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-07-08T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "helping-k-12-educators-build-practical-ai-skills"
   },
   {
-    "title": "(No AI) Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "content": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "contentSnippet": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "guid": "https://openai.com/index/australian-payments-plus",
-    "isoDate": "2026-07-07T00:00:00.000Z",
+    "title": "(No AI) Introducing GPT-Live",
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "content": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "contentSnippet": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "guid": "https://openai.com/index/introducing-gpt-live",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-07-08T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "australian-payments-plus-moves-faster-with-chatgpt-and-codex"
-  },
-  {
-    "title": "(No AI) MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "contentSnippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "guid": "https://openai.com/index/mufg",
-    "isoDate": "2026-07-07T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "mufg-aims-to-become-ai-native-with-openai"
+    "slug": "introducing-gpt-live"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
