@@ -1,98 +1,100 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Anthropic’s new Claude feature is quietly selling you on AI",
-    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-    "contentSnippet": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-    "guid": "https://techcrunch.com/?p=3140476",
+    "creator": "Ram Iyer",
+    "title": "(No AI) Meta’s new AI chips will begin production in September",
+    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+    "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+    "contentSnippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+    "guid": "https://techcrunch.com/?p=3140504",
     "categories": [
       "AI",
-      "Apps",
-      "TC",
-      "Anthropic",
-      "Claude"
+      "Hardware",
+      "AI chips",
+      "ai infrastructure",
+      "GPUS",
+      "Meta",
+      "semiconductors"
     ],
-    "isoDate": "2026-07-09T14:53:09.000Z",
+    "isoDate": "2026-07-09T17:17:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-new-claude-feature-is-quietly-selling-you-on-ai"
+    "slug": "meta-s-new-ai-chips-will-begin-production-in-september"
   },
   {
     "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
+    "title": "(No AI) Nvidia is a victim of the compute marketplace it created",
+    "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+    "pubDate": "Thu, 09 Jul 2026 17:06:11 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
-    "contentSnippet": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
-    "guid": "https://techcrunch.com/?p=3140464",
+    "content": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+    "contentSnippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+    "guid": "https://techcrunch.com/?p=3140496",
     "categories": [
       "AI",
-      "Anthropic",
-      "OpenAI",
-      "SpaceX"
+      "compute",
+      "dram",
+      "nvidia"
     ],
-    "isoDate": "2026-07-09T14:51:00.000Z",
+    "isoDate": "2026-07-09T17:06:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits"
+    "slug": "nvidia-is-a-victim-of-the-compute-marketplace-it-created"
   },
   {
-    "title": "(No AI) Meta says its new AI model is ready to compete on coding",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-    "pubDate": "2026-07-09T14:00:00.000Z",
-    "author": "Dominic Preston",
-    "content": "![Image of the Meta logo and wordmark on a blue background bordered by black scribbles made out of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter reentering the AI race with its [first in-house Muse Spark model](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout) in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.\n\nMeta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a range of apps, including multi-agent systems; and has native multimodal perception across images, videos, and documents.\n\nThe Muse Spark 1.1 launch fol …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api)",
-    "contentSnippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.\nMeta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a range of apps, including multi-agent systems; and has native multimodal perception across images, videos, and documents.\nThe Muse Spark 1.1 launch fol …\nRead the full story at The Verge.",
-    "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements [&#8230;]",
-    "id": "https://www.theverge.com/?p=963193",
-    "isoDate": "2026-07-09T14:00:00.000Z",
+    "title": "(No AI) Microsoft’s patch Tuesdays are about to get bigger",
+    "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+    "pubDate": "2026-07-09T17:00:00.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Illustration of Microsoft’s Windows logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWindows 11 updates could soon include fixes for more security issues at once. Microsoft said in [a blog post](https://blogs.windows.com/windowsexperience/?p=180398) on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\"\n\nHackers, even amateurs, have [increasingly been using AI](https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai) to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the [\"Copy Fail\" exploit](https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit) that impacted nearly every Linux distribution in May. Similarly, when Anthropic announce …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates)",
+    "contentSnippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" \nHackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the \"Copy Fail\" exploit that impacted nearly every Linux distribution in May. Similarly, when Anthropic announce …\nRead the full story at The Verge.",
+    "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI [&#8230;]",
+    "id": "https://www.theverge.com/?p=963307",
+    "isoDate": "2026-07-09T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-says-its-new-ai-model-is-ready-to-compete-on-coding"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-patch-tuesdays-are-about-to-get-bigger"
   },
   {
-    "title": "(No AI) Say hello to Claude Wrapped",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-    "pubDate": "2026-07-09T13:30:00.000Z",
+    "title": "(No AI) OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "pubDate": "2026-07-09T17:00:00.000Z",
     "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year.\n\nAnthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a [blog post](http://anthropic.com/news/reflect-with-claude). It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and their usage patterns, including peak usage times. …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage)",
-    "contentSnippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. \nAnthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and their usage patterns, including peak usage times.  …\nRead the full story at The Verge.",
-    "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, [&#8230;]",
-    "id": "https://www.theverge.com/?p=963105",
-    "isoDate": "2026-07-09T13:30:00.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nAbout two weeks after OpenAI's GPT-5.6 was caught up in [regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman [called it](https://x.com/sama/status/2075266471316615436?s=20) \"the best model we have ever produced.\"\n\nTo celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). \"It can g …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)",
+    "contentSnippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\"\nTo celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). \"It can g …\nRead the full story at The Verge.",
+    "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\" To celebrate, [&#8230;]",
+    "id": "https://www.theverge.com/?p=963464",
+    "isoDate": "2026-07-09T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "say-hello-to-claude-wrapped"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-rolls-out-gpt-5-6-after-government-greenlight-and-announces-chatgpt-work"
   },
   {
-    "title": "(No AI) Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "pubDate": "Wed, 08 Jul 2026 13:30:00 GMT",
-    "content": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-    "contentSnippet": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-    "guid": "https://openai.com/index/government-national-security-partnerships",
+    "title": "(No AI) GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "contentSnippet": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "guid": "https://openai.com/index/gpt-5-6",
     "categories": [
-      "Global Affairs"
+      "Product"
     ],
-    "isoDate": "2026-07-08T13:30:00.000Z",
+    "isoDate": "2026-07-09T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "our-approach-to-government-and-national-security-partnerships"
+    "slug": "gpt-5-6-frontier-intelligence-that-scales-with-your-ambition"
   },
   {
-    "title": "(No AI) Separating signal from noise in coding evaluations",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "pubDate": "Wed, 08 Jul 2026 13:00:00 GMT",
-    "content": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-    "contentSnippet": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-    "guid": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "title": "(No AI) ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "contentSnippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "guid": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "categories": [
-      "Research"
+      "Product"
     ],
-    "isoDate": "2026-07-08T13:00:00.000Z",
+    "isoDate": "2026-07-09T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "separating-signal-from-noise-in-coding-evaluations"
+    "slug": "chatgpt-is-now-a-partner-for-your-most-ambitious-work"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -117,36 +119,37 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
-    "creator": "Omnia Al Desoukie",
-    "title": "(No AI) Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-    "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-    "pubDate": "Wed, 08 Jul 2026 21:08:26 +0000",
-    "dc:creator": "Omnia Al Desoukie",
-    "content": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-    "contentSnippet": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-    "guid": "6a4d0ba71ec7b7e789dcf9a1",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) The 1X Neo Robot Has Freaky Fast Fingers",
+    "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+    "pubDate": "Thu, 09 Jul 2026 16:01:22 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+    "contentSnippet": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+    "guid": "6a4e9d6e0761087b76589916",
     "categories": [
-      "Business"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-07-08T21:08:26.000Z",
+    "isoDate": "2026-07-09T16:01:22.000Z",
     "source": "Wired AI",
-    "slug": "messi-and-ronaldo-are-building-tech-portfolios-mo-salah-is-playing-a-different-game"
+    "slug": "the-1x-neo-robot-has-freaky-fast-fingers"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) I Built a Self-Improving AI, and So Can You",
-    "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-    "pubDate": "Wed, 08 Jul 2026 20:09:21 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-    "contentSnippet": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-    "guid": "6a4bcc3eb3d633da49b943e3",
+    "creator": "Chris Stokel-Walker",
+    "title": "(No AI) The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
+    "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+    "pubDate": "Thu, 09 Jul 2026 10:01:30 +0000",
+    "dc:creator": "Chris Stokel-Walker",
+    "content": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+    "contentSnippet": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+    "guid": "6a4ceb4da6289e41f9276592",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Politics",
+      "Politics / Policy"
     ],
-    "isoDate": "2026-07-08T20:09:21.000Z",
+    "isoDate": "2026-07-09T10:01:30.000Z",
     "source": "Wired AI",
-    "slug": "i-built-a-self-improving-ai-and-so-can-you"
+    "slug": "the-28-million-mistake-that-inspired-estonia-s-ai-fuckup-finder"
   }
 ]
