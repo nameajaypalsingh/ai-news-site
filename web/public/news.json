@@ -1,86 +1,87 @@
 [
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Meta’s new AI chips will begin production in September",
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "contentSnippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "guid": "https://techcrunch.com/?p=3140504",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "contentSnippet": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "guid": "https://techcrunch.com/?p=3140525",
     "categories": [
       "AI",
-      "Hardware",
-      "AI chips",
-      "ai infrastructure",
-      "GPUS",
+      "Anthropic",
+      "Mark Zuckerberg",
       "Meta",
-      "semiconductors"
+      "muse spark",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-09T17:17:37.000Z",
+    "isoDate": "2026-07-09T19:40:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-s-new-ai-chips-will-begin-production-in-september"
+    "slug": "meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Nvidia is a victim of the compute marketplace it created",
-    "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-    "pubDate": "Thu, 09 Jul 2026 17:06:11 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-    "contentSnippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-    "guid": "https://techcrunch.com/?p=3140496",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "contentSnippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "guid": "https://techcrunch.com/?p=3140699",
     "categories": [
       "AI",
-      "compute",
-      "dram",
-      "nvidia"
+      "Government & Policy",
+      "ChatGPT",
+      "copyright",
+      "copyright infringement",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-09T17:06:11.000Z",
+    "isoDate": "2026-07-09T19:05:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-is-a-victim-of-the-compute-marketplace-it-created"
+    "slug": "new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial"
   },
   {
-    "title": "(No AI) Microsoft’s patch Tuesdays are about to get bigger",
-    "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-    "pubDate": "2026-07-09T17:00:00.000Z",
+    "title": "(No AI) The ChatGPT browser is already dead",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "pubDate": "2026-07-09T20:34:05.000Z",
+    "author": "Jay Peters",
+    "content": "![App icon for Chat GPT Atlas in front of a graphic blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced [in October](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent), but as part of its wave of news [about ChatGPT Work today](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work), the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation.\n\nIn recent months, OpenAI has also shut down the [video generation app Sora](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) and paused plans for a [ChatGPT \"adult mode\"](https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely) as it works to [reduce \"side quests\"](http://reddit.com/) and catch up with Anthropic [on productivity features](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic).\n\nIn [a thread about](https://x.com/JamesZmSun/status/2075290224327057644?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2075290224327057644%7Ctwgr%5E6c8e130455b5aaa9840a043d94cfd131c19e96d8%7Ctwcon%5Es1_&ref_url=https%3A%2F%2F9to5mac.com%2F2026%2F07%2F09%2Fopenai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser%2F) the ChatGPT Work announcements, which includes an updated browser in the desktop …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset)",
+    "contentSnippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an August 9th date for deprecation.\nIn recent months, OpenAI has also shut down the video generation app Sora and paused plans for a ChatGPT \"adult mode\" as it works to reduce \"side quests\" and catch up with Anthropic on productivity features. \nIn a thread about the ChatGPT Work announcements, which includes an updated browser in the desktop …\nRead the full story at The Verge.",
+    "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
+    "id": "https://www.theverge.com/?p=963654",
+    "isoDate": "2026-07-09T20:34:05.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-chatgpt-browser-is-already-dead"
+  },
+  {
+    "title": "(No AI) Google will now tell you if an ad was made with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "pubDate": "2026-07-09T20:11:38.000Z",
     "author": "Stevie Bonifield",
-    "content": "![Illustration of Microsoft’s Windows logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWindows 11 updates could soon include fixes for more security issues at once. Microsoft said in [a blog post](https://blogs.windows.com/windowsexperience/?p=180398) on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\"\n\nHackers, even amateurs, have [increasingly been using AI](https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai) to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the [\"Copy Fail\" exploit](https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit) that impacted nearly every Linux distribution in May. Similarly, when Anthropic announce …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates)",
-    "contentSnippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" \nHackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the \"Copy Fail\" exploit that impacted nearly every Linux distribution in May. Similarly, when Anthropic announce …\nRead the full story at The Verge.",
-    "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI [&#8230;]",
-    "id": "https://www.theverge.com/?p=963307",
-    "isoDate": "2026-07-09T17:00:00.000Z",
+    "content": "![A screenshot of an AI disclosure label on a Google ad](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100)\n\nYou can see if ads on Google Search, Google Discover, and YouTube were [made or edited using AI](https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/) from a new section in Google's \"My Ad Center,\" as reported earlier by [_TechCrunch_](https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/). The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can find it by tapping the three dots or info button on ads, which pulls up the same panel where you can also block or report ads.\n\nGoogle says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label applied manually. In some regions, Google's new AI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)",
+    "contentSnippet": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can find it by tapping the three dots or info button on ads, which pulls up the same panel where you can also block or report ads.\nGoogle says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label applied manually. In some regions, Google's new AI  …\nRead the full story at The Verge.",
+    "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
+    "id": "https://www.theverge.com/?p=963628",
+    "isoDate": "2026-07-09T20:11:38.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-s-patch-tuesdays-are-about-to-get-bigger"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-will-now-tell-you-if-an-ad-was-made-with-ai"
   },
   {
-    "title": "(No AI) OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-    "pubDate": "2026-07-09T17:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nAbout two weeks after OpenAI's GPT-5.6 was caught up in [regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman [called it](https://x.com/sama/status/2075266471316615436?s=20) \"the best model we have ever produced.\"\n\nTo celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). \"It can g …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)",
-    "contentSnippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\"\nTo celebrate, OpenAI also unveiled a new AI agent on the same day: ChatGPT Work. It's billed as a combination of ChatGPT and Codex, allowing the everyday non-technical user to take advantage of Codex's capabilities for non-coding tasks, and it's powered by the GPT-5.6 model suite (Sol, Terra, and Luna). \"It can g …\nRead the full story at The Verge.",
-    "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the best model we have ever produced.\" To celebrate, [&#8230;]",
-    "id": "https://www.theverge.com/?p=963464",
-    "isoDate": "2026-07-09T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-rolls-out-gpt-5-6-after-government-greenlight-and-announces-chatgpt-work"
-  },
-  {
-    "title": "(No AI) GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
-    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "contentSnippet": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "guid": "https://openai.com/index/gpt-5-6",
+    "title": "(No AI) GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "contentSnippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "guid": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "categories": [
       "Product"
     ],
-    "isoDate": "2026-07-09T10:00:00.000Z",
+    "isoDate": "2026-07-09T13:00:00.000Z",
     "source": "OpenAI",
-    "slug": "gpt-5-6-frontier-intelligence-that-scales-with-your-ambition"
+    "slug": "gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot"
   },
   {
     "title": "(No AI) ChatGPT is now a partner for your most ambitious work",
@@ -119,13 +120,30 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Anthropic Wants You to Pay Up for Claude Fable 5",
+    "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+    "pubDate": "Thu, 09 Jul 2026 18:30:00 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+    "contentSnippet": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+    "guid": "6a4fc6425defba44309065a5",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-09T18:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-wants-you-to-pay-up-for-claude-fable-5"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) The 1X Neo Robot Has Freaky Fast Fingers",
     "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
     "pubDate": "Thu, 09 Jul 2026 16:01:22 +0000",
     "dc:creator": "Boone Ashworth",
-    "content": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
-    "contentSnippet": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+    "content": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
+    "contentSnippet": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
     "guid": "6a4e9d6e0761087b76589916",
     "categories": [
       "Gear",
@@ -134,22 +152,5 @@
     "isoDate": "2026-07-09T16:01:22.000Z",
     "source": "Wired AI",
     "slug": "the-1x-neo-robot-has-freaky-fast-fingers"
-  },
-  {
-    "creator": "Chris Stokel-Walker",
-    "title": "(No AI) The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
-    "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
-    "pubDate": "Thu, 09 Jul 2026 10:01:30 +0000",
-    "dc:creator": "Chris Stokel-Walker",
-    "content": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
-    "contentSnippet": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
-    "guid": "6a4ceb4da6289e41f9276592",
-    "categories": [
-      "Politics",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-07-09T10:01:30.000Z",
-    "source": "Wired AI",
-    "slug": "the-28-million-mistake-that-inspired-estonia-s-ai-fuckup-finder"
   }
 ]
