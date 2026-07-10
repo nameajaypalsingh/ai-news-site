@@ -1,47 +1,49 @@
 [
   {
-    "creator": "Kate Park",
-    "title": "(No AI) SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
-    "dc:creator": "Kate Park",
-    "content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
-    "contentSnippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
-    "guid": "https://techcrunch.com/?p=3140971",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "contentSnippet": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "guid": "https://techcrunch.com/?p=3141179",
     "categories": [
       "AI",
-      "Enterprise",
-      "Hardware",
-      "Artificial Intelligence (AI)",
-      "semiconductors",
-      "SK Hynix",
-      "initial public offering",
-      "AI chips"
+      "Apps",
+      "TC",
+      "Apple",
+      "OpenAI",
+      "trade secret theft"
     ],
-    "isoDate": "2026-07-10T17:17:12.000Z",
+    "isoDate": "2026-07-10T21:00:29.000Z",
     "source": "TechCrunch AI",
-    "slug": "sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs"
+    "slug": "apple-sues-openai-over-alleged-trade-secret-theft"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-    "contentSnippet": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-    "guid": "https://techcrunch.com/?p=3140881",
+    "creator": "Rebecca Bellan, Theresa Loconsolo",
+    "title": "(No AI) Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+    "dc:creator": "Rebecca Bellan, Theresa Loconsolo",
+    "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start \\[…\\]",
+    "contentSnippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3141193",
     "categories": [
+      "Startups",
       "AI",
-      "Copilot",
-      "gpt-5.6",
-      "In Brief",
-      "Microsoft",
-      "OpenAI"
+      "Hugging Face",
+      "Equity podcast",
+      "Enterprise AI",
+      "AI startups",
+      "ai safety",
+      "open source ai",
+      "Chinese AI Models",
+      "Clem Delangue"
     ],
-    "isoDate": "2026-07-10T00:16:54.000Z",
+    "isoDate": "2026-07-10T19:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breakup-chatter"
+    "slug": "open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue"
   },
   {
     "title": "(No AI) Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
@@ -119,6 +121,23 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "contentSnippet": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "guid": "6a513813fe29fe1ff1b6de45",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-10T20:44:05.000Z",
+    "source": "Wired AI",
+    "slug": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets"
+  },
+  {
     "creator": "Miles Klee",
     "title": "(No AI) A New Experiential Gallery Just Might Change Your Mind About AI Art",
     "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
@@ -134,21 +153,5 @@
     "isoDate": "2026-07-10T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "a-new-experiential-gallery-just-might-change-your-mind-about-ai-art"
-  },
-  {
-    "creator": "Chris Stokel-Walker",
-    "title": "(No AI) Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-    "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-    "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000",
-    "dc:creator": "Chris Stokel-Walker",
-    "content": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-    "contentSnippet": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-    "guid": "6a4fa935fb43222ed78eedc4",
-    "categories": [
-      "Politics"
-    ],
-    "isoDate": "2026-07-10T06:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-a-lot"
   }
 ]
