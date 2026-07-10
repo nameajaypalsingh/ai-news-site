@@ -64,6 +64,17 @@
     "slug": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness"
   },
   {
+    "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "contentSnippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "guid": "https://openai.com/index/deutsche-telekom",
+    "isoDate": "2026-07-10T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
+  },
+  {
     "title": "(No AI) GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
@@ -76,20 +87,6 @@
     "isoDate": "2026-07-09T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot"
-  },
-  {
-    "title": "(No AI) ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "contentSnippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "guid": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-07-09T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "chatgpt-is-now-a-partner-for-your-most-ambitious-work"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -114,6 +111,23 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Miles Klee",
+    "title": "(No AI) A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "pubDate": "Fri, 10 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+    "contentSnippet": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+    "guid": "6a32c2a603c0be2f1d7e8d35",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-07-10T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "a-new-experiential-gallery-just-might-change-your-mind-about-ai-art"
+  },
+  {
     "creator": "Chris Stokel-Walker",
     "title": "(No AI) Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
     "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
@@ -128,22 +142,5 @@
     "isoDate": "2026-07-10T06:00:00.000Z",
     "source": "Wired AI",
     "slug": "robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-a-lot"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-    "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-    "pubDate": "Thu, 09 Jul 2026 23:13:18 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-    "contentSnippet": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-    "guid": "6a4fd9ef54628ebc7be51dbd",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-09T23:13:18.000Z",
-    "source": "Wired AI",
-    "slug": "openai-s-ceo-of-agi-deployment-fidji-simo-is-stepping-down"
   }
 ]
