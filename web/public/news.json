@@ -12,6 +12,7 @@
       "AI",
       "Copilot",
       "gpt-5.6",
+      "In Brief",
       "Microsoft",
       "OpenAI"
     ],
@@ -21,7 +22,7 @@
   },
   {
     "creator": "Connie Loizos",
-    "title": "(No AI) Fidji Simo steps down from OpenAI’s no. 2 role",
+    "title": "(No AI) Fidji Simo steps down from OpenAI’s No. 2 role",
     "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
     "dc:creator": "Connie Loizos",
@@ -29,39 +30,41 @@
     "contentSnippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
     "guid": "https://techcrunch.com/?p=3140900",
     "categories": [
-      "AI"
+      "AI",
+      "Fidji Simo",
+      "OpenAI"
     ],
     "isoDate": "2026-07-09T23:38:00.000Z",
     "source": "TechCrunch AI",
     "slug": "fidji-simo-steps-down-from-openai-s-no-2-role"
   },
   {
-    "title": "(No AI) Microsoft’s carbon emissions went up 25 percent last year",
-    "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-    "pubDate": "2026-07-10T00:04:13.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Photo collage of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft may once again be struggling to keep up with its own climate goals, according to its [2026 sustainability report](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf). As reported by [_GeekWire_](https://www.geekwire.com/2026/microsofts-carbon-emissions-climb-25-as-tech-giants-grapple-with-ais-energy-toll/), the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's [decision last February](https://blogs.microsoft.com/on-the-issues/2025/02/13/progress-on-the-road-to-2030/) to stop purchasing \"non-additional, unbundled renewable energy certificates.\"\n\nSeveral years ago, Microsoft set itself a goal to [be carbon negative by 2030](https://www.theverge.com/2020/1/16/21068799/microsoft-carbon-capture-climate-change), meaning it will need to remove more carbon emissions t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026)",
-    "contentSnippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" \nSeveral years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning it will need to remove more carbon emissions t …\nRead the full story at The Verge.",
-    "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
-    "id": "https://www.theverge.com/?p=963728",
-    "isoDate": "2026-07-10T00:04:13.000Z",
+    "title": "(No AI) Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
+    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "pubDate": "2026-07-10T13:45:02.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of Adam Mosseri](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThough Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said [during an interview on Lenny Rachitsky's podcast](https://youtu.be/yQ_EWmtfWvQ?si=AqKhfQq-DAtf7aZc&t=2457). \"I think we should let you know if content is AI content or not.\"\n\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters)",
+    "contentSnippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\"\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\nRead the full story at The Verge.",
+    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
+    "id": "https://www.theverge.com/?p=963961",
+    "isoDate": "2026-07-10T13:45:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-s-carbon-emissions-went-up-25-percent-last-year"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "instagram-s-adam-mosseri-if-you-don-t-like-ai-then-you-shouldn-t-have-it-in-your-feed"
   },
   {
-    "title": "(No AI) Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-    "pubDate": "2026-07-09T23:24:04.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" [she said on X](https://x.com/fidjissimo/status/2075353170927304861).\n\nThe news follows Simo's original announcement [in April](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence) that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the AGI chief title. (She had formerly been the company's CEO of applications). Around the same time, COO Brad Lightcap also stepped down from his role to focus on \"special projects,\" and OpenAI CMO Kate Rouch also stepped down in order to focus on her health. Rouch planned to return to a \"more narrowly scoped role\" when her health …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor)",
-    "contentSnippet": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X.\nThe news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the AGI chief title. (She had formerly been the company's CEO of applications). Around the same time, COO Brad Lightcap also stepped down from his role to focus on \"special projects,\" and OpenAI CMO Kate Rouch also stepped down in order to focus on her health. Rouch planned to return to a \"more narrowly scoped role\" when her health  …\nRead the full story at The Verge.",
-    "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
-    "id": "https://www.theverge.com/?p=963738",
-    "isoDate": "2026-07-09T23:24:04.000Z",
+    "title": "(No AI) Would you host part of an AI data center in your home?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "pubDate": "2026-07-10T13:20:25.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A Sunrun home AI compute node on a bookcase](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new [\"distributed AI compute\" program](https://investors.sunrun.com/news-events/press-releases/detail/373/sunrun-launches-distributed-ai-data-center-pilot-backed-by) that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program.\n\nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center)",
+    "contentSnippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program. \nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\nRead the full story at The Verge.",
+    "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
+    "id": "https://www.theverge.com/?p=963930",
+    "isoDate": "2026-07-10T13:20:25.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "would-you-host-part-of-an-ai-data-center-in-your-home"
   },
   {
     "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
