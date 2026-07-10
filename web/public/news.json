@@ -114,6 +114,22 @@
     "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
+    "creator": "Chris Stokel-Walker",
+    "title": "(No AI) Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+    "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+    "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000",
+    "dc:creator": "Chris Stokel-Walker",
+    "content": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+    "contentSnippet": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+    "guid": "6a4fa935fb43222ed78eedc4",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-07-10T06:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-a-lot"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
     "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
@@ -129,22 +145,5 @@
     "isoDate": "2026-07-09T23:13:18.000Z",
     "source": "Wired AI",
     "slug": "openai-s-ceo-of-agi-deployment-fidji-simo-is-stepping-down"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Anthropic Wants You to Pay Up for Claude Fable 5",
-    "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-    "pubDate": "Thu, 09 Jul 2026 18:30:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-    "contentSnippet": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-    "guid": "6a4fc6425defba44309065a5",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-09T18:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "anthropic-wants-you-to-pay-up-for-claude-fable-5"
   }
 ]
