@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Kate Park",
+    "title": "(No AI) SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "dc:creator": "Kate Park",
+    "content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+    "contentSnippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+    "guid": "https://techcrunch.com/?p=3140971",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "Hardware",
+      "Artificial Intelligence (AI)",
+      "semiconductors",
+      "SK Hynix",
+      "initial public offering",
+      "AI chips"
+    ],
+    "isoDate": "2026-07-10T17:17:12.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
@@ -19,24 +42,6 @@
     "isoDate": "2026-07-10T00:16:54.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breakup-chatter"
-  },
-  {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Fidji Simo steps down from OpenAI’s No. 2 role",
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-    "contentSnippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-    "guid": "https://techcrunch.com/?p=3140900",
-    "categories": [
-      "AI",
-      "Fidji Simo",
-      "OpenAI"
-    ],
-    "isoDate": "2026-07-09T23:38:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "fidji-simo-steps-down-from-openai-s-no-2-role"
   },
   {
     "title": "(No AI) Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
@@ -136,8 +141,8 @@
     "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
     "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000",
     "dc:creator": "Chris Stokel-Walker",
-    "content": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
-    "contentSnippet": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+    "content": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+    "contentSnippet": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
     "guid": "6a4fa935fb43222ed78eedc4",
     "categories": [
       "Politics"
