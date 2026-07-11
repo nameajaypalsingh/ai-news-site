@@ -1,17 +1,35 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "contentSnippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "guid": "https://techcrunch.com/?p=3141357",
+    "categories": [
+      "AI",
+      "Instagram",
+      "Meta",
+      "social media"
+    ],
+    "isoDate": "2026-07-10T23:55:07.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-removes-controversial-ai-feature-on-instagram-after-backlash"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Apple sues OpenAI over alleged trade secret theft",
     "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
-    "contentSnippet": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "contentSnippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
     "guid": "https://techcrunch.com/?p=3141179",
     "categories": [
       "AI",
       "Apps",
-      "TC",
       "Apple",
       "OpenAI",
       "trade secret theft"
@@ -21,57 +39,32 @@
     "slug": "apple-sues-openai-over-alleged-trade-secret-theft"
   },
   {
-    "creator": "Rebecca Bellan, Theresa Loconsolo",
-    "title": "(No AI) Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
-    "dc:creator": "Rebecca Bellan, Theresa Loconsolo",
-    "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start \\[…\\]",
-    "contentSnippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3141193",
-    "categories": [
-      "Startups",
-      "AI",
-      "Hugging Face",
-      "Equity podcast",
-      "Enterprise AI",
-      "AI startups",
-      "ai safety",
-      "open source ai",
-      "Chinese AI Models",
-      "Clem Delangue"
-    ],
-    "isoDate": "2026-07-10T19:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "open-source-ai-matters-more-than-ever-according-to-hugging-face-s-clem-delangue"
+    "title": "(No AI) Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "pubDate": "2026-07-10T23:49:50.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100)\n\nFollowing significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to [a blog post](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)",
+    "contentSnippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to a blog post about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\nRead the full story at The Verge.",
+    "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+    "id": "https://www.theverge.com/?p=964416",
+    "isoDate": "2026-07-10T23:49:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-accounts"
   },
   {
-    "title": "(No AI) Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-    "pubDate": "2026-07-10T13:45:02.000Z",
-    "author": "Emma Roth",
-    "content": "![A photo of Adam Mosseri](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThough Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said [during an interview on Lenny Rachitsky's podcast](https://youtu.be/yQ_EWmtfWvQ?si=AqKhfQq-DAtf7aZc&t=2457). \"I think we should let you know if content is AI content or not.\"\n\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters)",
-    "contentSnippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\"\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\nRead the full story at The Verge.",
-    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
-    "id": "https://www.theverge.com/?p=963961",
-    "isoDate": "2026-07-10T13:45:02.000Z",
+    "title": "(No AI) Apple sues OpenAI for allegedly stealing hardware secrets",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "pubDate": "2026-07-10T21:36:51.000Z",
+    "author": "Jay Peters",
+    "content": "![An image of Tim Cook](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In [its complaint](https://www.documentcloud.org/documents/28453238-complaint-for-trade-secret-misappropriation-and-breach-of-contract/), Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI [bought in 2025](https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware) - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January).\n\nAn Apple spokesperson shared [this statement with _9to5Mac_](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/?extended-comments=1):\n\n> At Apple, our teams are constantly developing breakthrough technologies to create the b …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)",
+    "contentSnippet": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees, Tang Tan (OpenAI's chief hardware officer) and Chang Liu (who joined OpenAI from Apple in January).\nAn Apple spokesperson shared this statement with 9to5Mac:\nAt Apple, our teams are constantly developing breakthrough technologies to create the b …\n\nRead the full story at The Verge.",
+    "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+    "id": "https://www.theverge.com/?p=964350",
+    "isoDate": "2026-07-10T21:36:51.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "instagram-s-adam-mosseri-if-you-don-t-like-ai-then-you-shouldn-t-have-it-in-your-feed"
-  },
-  {
-    "title": "(No AI) Would you host part of an AI data center in your home?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-    "pubDate": "2026-07-10T13:20:25.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A Sunrun home AI compute node on a bookcase](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new [\"distributed AI compute\" program](https://investors.sunrun.com/news-events/press-releases/detail/373/sunrun-launches-distributed-ai-data-center-pilot-backed-by) that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program.\n\nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center)",
-    "contentSnippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program. \nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\nRead the full story at The Verge.",
-    "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
-    "id": "https://www.theverge.com/?p=963930",
-    "isoDate": "2026-07-10T13:20:25.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "would-you-host-part-of-an-ai-data-center-in-your-home"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-sues-openai-for-allegedly-stealing-hardware-secrets"
   },
   {
     "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
@@ -122,12 +115,29 @@
   },
   {
     "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI’s Head of Safety Is Leaving the Company",
+    "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "pubDate": "Sat, 11 Jul 2026 01:07:26 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "contentSnippet": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "guid": "6a51890fc4b39b42d414e78e",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-11T01:07:26.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-head-of-safety-is-leaving-the-company"
+  },
+  {
+    "creator": "Maxwell Zeff",
     "title": "(No AI) Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
     "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
     "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000",
     "dc:creator": "Maxwell Zeff",
-    "content": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-    "contentSnippet": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "content": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "contentSnippet": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
     "guid": "6a513813fe29fe1ff1b6de45",
     "categories": [
       "Business",
@@ -136,22 +146,5 @@
     "isoDate": "2026-07-10T20:44:05.000Z",
     "source": "Wired AI",
     "slug": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets"
-  },
-  {
-    "creator": "Miles Klee",
-    "title": "(No AI) A New Experiential Gallery Just Might Change Your Mind About AI Art",
-    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-    "pubDate": "Fri, 10 Jul 2026 10:30:00 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-    "contentSnippet": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-    "guid": "6a32c2a603c0be2f1d7e8d35",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-07-10T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "a-new-experiential-gallery-just-might-change-your-mind-about-ai-art"
   }
 ]
