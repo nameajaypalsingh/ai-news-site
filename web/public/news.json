@@ -38,6 +38,20 @@
     "slug": "meta-removes-controversial-ai-feature-on-instagram-after-backlash"
   },
   {
+    "title": "(No AI) Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "pubDate": "2026-07-12T16:27:06.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple's self-driving car program [never really got off the ground](https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed), but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need [powerful on-device AI processing](https://www.theverge.com/2017/12/10/16758160/apple-machine-learning-autonomous-car-project-titan-ruslan-salakhutdinov). While the car processor was [never finished](https://www.theverge.com/24085629/apple-car-dead-project-titan-ev-driverless-robotaxi), as Mark Gurman details in his latest [_Power On_](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro) newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing.\n\nThe Neural Engine made its debut with the [iPhone X and the A11 Bionic](https://www.theverge.com/2017/9/13/16300464/apple-iphone-x-ai-neural-engine). In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)",
+    "contentSnippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+    "id": "https://www.theverge.com/?p=964519",
+    "isoDate": "2026-07-12T16:27:06.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-s-failed-self-driving-car-program-left-a-legacy-of-powerful-ai-chips"
+  },
+  {
     "title": "(No AI) The fight against AI data centers is just beginning",
     "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
     "pubDate": "2026-07-12T12:00:00.000Z",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-fight-against-ai-data-centers-is-just-beginning"
-  },
-  {
-    "title": "(No AI) Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-    "pubDate": "2026-07-10T23:49:50.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100)\n\nFollowing significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to [a blog post](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)",
-    "contentSnippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to a blog post about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\nRead the full story at The Verge.",
-    "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
-    "id": "https://www.theverge.com/?p=964416",
-    "isoDate": "2026-07-10T23:49:50.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-accounts"
   },
   {
     "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
