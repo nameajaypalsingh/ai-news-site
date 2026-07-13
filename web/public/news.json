@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Aisha Malik",
+    "title": "(No AI) Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "contentSnippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "guid": "https://techcrunch.com/?p=3141472",
+    "categories": [
+      "AI",
+      "Apps",
+      "Google",
+      "Maps",
+      "navigation",
+      "waze"
+    ],
+    "isoDate": "2026-07-13T14:18:16.000Z",
+    "source": "TechCrunch AI",
+    "slug": "waze-adds-new-ai-powered-features-and-customization-updates"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) OpenAI bets on families as ChatGPT goes deeper into households",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -17,25 +38,6 @@
     "isoDate": "2026-07-11T14:13:00.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Meta removes controversial AI feature on Instagram after backlash",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-    "contentSnippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-    "guid": "https://techcrunch.com/?p=3141357",
-    "categories": [
-      "AI",
-      "Instagram",
-      "Meta",
-      "social media"
-    ],
-    "isoDate": "2026-07-10T23:55:07.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-removes-controversial-ai-feature-on-instagram-after-backlash"
   },
   {
     "title": "(No AI) Waze is getting a bunch of new AI-powered features",
@@ -77,18 +79,18 @@
     "slug": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
   },
   {
-    "title": "(No AI) GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "contentSnippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "guid": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "title": "(No AI) Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "guid": "https://openai.com/academy/getting-started",
     "categories": [
-      "Product"
+      "OpenAI Academy"
     ],
-    "isoDate": "2026-07-09T13:00:00.000Z",
+    "isoDate": "2026-07-10T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot"
+    "slug": "getting-started-with-chatgpt"
   },
   {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
