@@ -1,43 +1,53 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Waze adds new AI-powered features and customization updates",
-    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-    "contentSnippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-    "guid": "https://techcrunch.com/?p=3141472",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Sam Altman’s space data center trash talk is what most experts already believe",
+    "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "pubDate": "Mon, 13 Jul 2026 17:28:37 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "\"homeboy you're the one sellling \\[sic\\] public market investors on short-term space datacenters.\"",
+    "contentSnippet": "\"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+    "guid": "https://techcrunch.com/?p=3141604",
     "categories": [
       "AI",
-      "Apps",
-      "Google",
-      "Maps",
-      "navigation",
-      "waze"
+      "Space",
+      "space data centers"
     ],
-    "isoDate": "2026-07-13T14:18:16.000Z",
+    "isoDate": "2026-07-13T17:28:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "waze-adds-new-ai-powered-features-and-customization-updates"
+    "slug": "sam-altman-s-space-data-center-trash-talk-is-what-most-experts-already-believe"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) OpenAI bets on families as ChatGPT goes deeper into households",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "contentSnippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "guid": "https://techcrunch.com/?p=3141184",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Should AI help you get away with killing your spouse?",
+    "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "pubDate": "Mon, 13 Jul 2026 16:31:23 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "What does a world of total user-aligned AI actually look like?",
+    "contentSnippet": "What does a world of total user-aligned AI actually look like?",
+    "guid": "https://techcrunch.com/?p=3141477",
     "categories": [
       "AI",
-      "Exclusive",
-      "OpenAI",
-      "ChatGPT"
+      "alignment",
+      "George Hotz"
     ],
-    "isoDate": "2026-07-11T14:13:00.000Z",
+    "isoDate": "2026-07-13T16:31:23.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households"
+    "slug": "should-ai-help-you-get-away-with-killing-your-spouse"
+  },
+  {
+    "title": "(No AI) The 6 wildest claims in Apple’s lawsuit against OpenAI",
+    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "pubDate": "2026-07-13T17:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of Sam Altman](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to [a blockbuster lawsuit](https://www.documentcloud.org/documents/28453238-complaint-for-trade-secret-misappropriation-and-breach-of-contract/) filed by Apple, which accuses [OpenAI of stealing confidential documents](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets), spying on hardware prototypes, and tricking one of its trusted partners into performing a proprietary product design technique.\n\nThe lawsuit primarily revolves around the alleged actions of three people:\n\n*   Tang Tan, a 24-year Apple veteran who recently served as the vice president of the Apple Watch. In 2024, Tan left to work on …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims)",
+    "contentSnippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of its trusted partners into performing a proprietary product design technique.\nThe lawsuit primarily revolves around the alleged actions of three people:\nTang Tan, a 24-year Apple veteran who recently served as the vice president of the Apple Watch. In 2024, Tan left to work on …\n\nRead the full story at The Verge.",
+    "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+    "id": "https://www.theverge.com/?p=964843",
+    "isoDate": "2026-07-13T17:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-6-wildest-claims-in-apple-s-lawsuit-against-openai"
   },
   {
     "title": "(No AI) Waze is getting a bunch of new AI-powered features",
@@ -52,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "waze-is-getting-a-bunch-of-new-ai-powered-features"
-  },
-  {
-    "title": "(No AI) Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "pubDate": "2026-07-12T20:10:19.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to [speak out against AI glasses](https://stereogum.com/2504954/lorde-speaks-out-against-fucked-up-ai-glasses/news). While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses.\n\nThe comments were [captured in videos](https://x.com/Lorde_fix/status/2075567105991409975?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E2075567105991409975%7Ctwgr%5Ec71b57c1ddf5c52f8aac6358167f15e590da1832%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fstereogum.com%2F2504954%2Florde-speaks-out-against-fucked-up-ai-glasses%2Fnews) shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know what is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)",
-    "contentSnippet": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. \nThe comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know what is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say …\nRead the full story at The Verge.",
-    "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]",
-    "id": "https://www.theverge.com/?p=964539",
-    "isoDate": "2026-07-12T20:10:19.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
   },
   {
     "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
