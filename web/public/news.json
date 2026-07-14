@@ -9,7 +9,8 @@
     "contentSnippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
     "guid": "https://techcrunch.com/?p=3141909",
     "categories": [
-      "AI"
+      "AI",
+      "founders"
     ],
     "isoDate": "2026-07-14T02:46:42.000Z",
     "source": "TechCrunch AI",
@@ -17,23 +18,37 @@
   },
   {
     "creator": "Connie Loizos",
-    "title": "(No AI) Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "title": "(No AI) Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
     "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
     "dc:creator": "Connie Loizos",
-    "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-    "contentSnippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "contentSnippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
     "guid": "https://techcrunch.com/?p=3141573",
     "categories": [
+      "AI",
       "TC",
       "Transportation",
-      "AI",
-      "Uber",
-      "Sachin Kansal"
+      "Sachin Kansal",
+      "Uber"
     ],
     "isoDate": "2026-07-14T00:45:00.000Z",
     "source": "TechCrunch AI",
     "slug": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doesn-t-want-to-be-everything-for-everyone"
+  },
+  {
+    "title": "(No AI) Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "pubDate": "2026-07-14T11:43:29.000Z",
+    "author": "Robert Hart",
+    "content": "![Demis Hassabis, chief executive officer of DeepMind Technologies Ltd., during a panel session at the World Economic Forum (WEF) in Davos, Switzerland.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDemis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\n\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.\n\nWriting in a [blog post](https://www.linkedin.com/pulse/framework-frontier-ai-dawning-new-age-demis-hassabis-cngse/), the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog)",
+    "contentSnippet": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. \nWriting in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an  …\nRead the full story at The Verge.",
+    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic [&#8230;]",
+    "id": "https://www.theverge.com/?p=965270",
+    "isoDate": "2026-07-14T11:43:29.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us"
   },
   {
     "title": "(No AI) New York becomes the first state to enact a data center moratorium",
@@ -50,43 +65,32 @@
     "slug": "new-york-becomes-the-first-state-to-enact-a-data-center-moratorium"
   },
   {
-    "title": "(No AI) Siri AI is already changing how I use my iPhone",
-    "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-    "pubDate": "2026-07-13T20:43:20.000Z",
-    "author": "David Imel",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSiri AI in iOS 27.\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.\n\nThis year's iOS upgrades are what one might call a [Snow Leopard update](https://medium.com/@michaelswengel/macos-27-golden-gate-could-be-apples-next-snow-leopard-if-they-don-t-screw-it-up-c14872a950c8). That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and AirDrop transfers should all be faster. The Messages app now supports in-line replies and end-to-end encryption for RCS messages. Liquid Glass has gotten more refined, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on)",
-    "contentSnippet": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.\nThis year's iOS upgrades are what one might call a Snow Leopard update. That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and AirDrop transfers should all be faster. The Messages app now supports in-line replies and end-to-end encryption for RCS messages. Liquid Glass has gotten more refined, …\nRead the full story at The Verge.",
-    "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
-    "id": "https://www.theverge.com/?p=964714",
-    "isoDate": "2026-07-13T20:43:20.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "siri-ai-is-already-changing-how-i-use-my-iphone"
-  },
-  {
-    "title": "(No AI) How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-    "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "contentSnippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "guid": "https://openai.com/index/deutsche-telekom",
-    "isoDate": "2026-07-10T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai"
-  },
-  {
-    "title": "(No AI) Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
-    "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "guid": "https://openai.com/academy/getting-started",
+    "title": "(No AI) How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "contentSnippet": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "guid": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "categories": [
       "OpenAI Academy"
     ],
-    "isoDate": "2026-07-10T00:00:00.000Z",
+    "isoDate": "2026-07-14T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "getting-started-with-chatgpt"
+    "slug": "how-data-science-teams-use-chatgpt-work"
+  },
+  {
+    "title": "(No AI) How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "content": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "contentSnippet": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "guid": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "categories": [
+      "OpenAI Academy"
+    ],
+    "isoDate": "2026-07-14T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-sales-teams-use-chatgpt-work"
   },
   {
     "title": "(No AI) Empowering India’s next generation of innovators with ATL Saathi",
@@ -111,37 +115,35 @@
     "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
   },
   {
-    "creator": "Vittoria Elliott",
-    "title": "(No AI) DOGE Used AI for Housing Policy. The Government Won’t Say How",
-    "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-    "pubDate": "Tue, 14 Jul 2026 09:00:00 +0000",
-    "dc:creator": "Vittoria Elliott",
-    "content": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-    "contentSnippet": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-    "guid": "6a5130c15a78161ead45bc5b",
+    "creator": "Manisha Krishnan",
+    "title": "(No AI) This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+    "pubDate": "Tue, 14 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Manisha Krishnan",
+    "content": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+    "contentSnippet": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+    "guid": "6a50fd506467cfddd531fdfc",
     "categories": [
-      "Politics"
+      "Culture"
     ],
-    "isoDate": "2026-07-14T09:00:00.000Z",
+    "isoDate": "2026-07-14T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "doge-used-ai-for-housing-policy-the-government-won-t-say-how"
+    "slug": "this-luddite-puppet-hopes-you-re-not-reading-this-on-your-smartphone"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Siri AI Is Becoming Apple’s Everything Tool",
-    "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-    "pubDate": "Mon, 13 Jul 2026 21:39:09 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-    "contentSnippet": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-    "guid": "6a55202581091f2d40d7c7da",
+    "creator": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
+    "title": "(No AI) The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "pubDate": "Tue, 14 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
+    "content": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "contentSnippet": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "guid": "6a3d2de6e6c7ac5cabfbc989",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones"
+      "The Big Story"
     ],
-    "isoDate": "2026-07-13T21:39:09.000Z",
+    "isoDate": "2026-07-14T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "siri-ai-is-becoming-apple-s-everything-tool"
+    "slug": "the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt"
   }
 ]
