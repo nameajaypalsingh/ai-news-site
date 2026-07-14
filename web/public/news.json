@@ -1,6 +1,22 @@
 [
   {
     "creator": "Connie Loizos",
+    "title": "(No AI) Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "contentSnippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "guid": "https://techcrunch.com/?p=3141909",
+    "categories": [
+      "AI"
+    ],
+    "isoDate": "2026-07-14T02:46:42.000Z",
+    "source": "TechCrunch AI",
+    "slug": "already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again"
+  },
+  {
+    "creator": "Connie Loizos",
     "title": "(No AI) Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
     "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
@@ -18,26 +34,6 @@
     "isoDate": "2026-07-14T00:45:00.000Z",
     "source": "TechCrunch AI",
     "slug": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doesn-t-want-to-be-everything-for-everyone"
-  },
-  {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-    "contentSnippet": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-    "guid": "https://techcrunch.com/?p=3141426",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "alibaba",
-      "pixverse",
-      "video generation"
-    ],
-    "isoDate": "2026-07-14T00:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b"
   },
   {
     "title": "(No AI) Siri AI is already changing how I use my iPhone",
@@ -93,6 +89,17 @@
     "slug": "getting-started-with-chatgpt"
   },
   {
+    "title": "(No AI) Empowering India’s next generation of innovators with ATL Saathi",
+    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
+    "content": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "contentSnippet": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "guid": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "isoDate": "2026-07-13T12:37:28.000Z",
+    "source": "Google DeepMind",
+    "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
+  },
+  {
     "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
     "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
     "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
@@ -102,17 +109,6 @@
     "isoDate": "2026-07-03T14:25:43.000Z",
     "source": "Google DeepMind",
     "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
-  },
-  {
-    "title": "(No AI) Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "isoDate": "2026-06-30T16:02:40.000Z",
-    "source": "Google DeepMind",
-    "slug": "start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
   },
   {
     "creator": "Reece Rogers",
