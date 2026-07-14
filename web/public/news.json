@@ -1,82 +1,84 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Already rich, already successful, why the last wave of tech winners is grinding again",
-    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-    "contentSnippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-    "guid": "https://techcrunch.com/?p=3141909",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "contentSnippet": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "guid": "https://techcrunch.com/?p=3142125",
     "categories": [
       "AI",
-      "founders"
+      "Meta",
+      "tokenmaxxing",
+      "tokens"
     ],
-    "isoDate": "2026-07-14T02:46:42.000Z",
+    "isoDate": "2026-07-14T16:22:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again"
+    "slug": "meta-s-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-    "contentSnippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-    "guid": "https://techcrunch.com/?p=3141573",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Google Images gets a Pinterest-like redesign focused on discovery",
+    "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "pubDate": "Tue, 14 Jul 2026 16:00:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+    "contentSnippet": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+    "guid": "https://techcrunch.com/?p=3141998",
     "categories": [
       "AI",
-      "TC",
-      "Transportation",
-      "Sachin Kansal",
-      "Uber"
+      "Apps",
+      "Google",
+      "Search",
+      "imagess"
     ],
-    "isoDate": "2026-07-14T00:45:00.000Z",
+    "isoDate": "2026-07-14T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "uber-s-product-chief-on-hotels-robotaxis-and-why-the-company-doesn-t-want-to-be-everything-for-everyone"
+    "slug": "google-images-gets-a-pinterest-like-redesign-focused-on-discovery"
   },
   {
-    "title": "(No AI) Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-    "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-    "pubDate": "2026-07-14T11:43:29.000Z",
-    "author": "Robert Hart",
-    "content": "![Demis Hassabis, chief executive officer of DeepMind Technologies Ltd., during a panel session at the World Economic Forum (WEF) in Davos, Switzerland.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDemis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\n\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous.\n\nWriting in a [blog post](https://www.linkedin.com/pulse/framework-frontier-ai-dawning-new-age-demis-hassabis-cngse/), the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog)",
-    "contentSnippet": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. \nWriting in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic and technical standing.\" The organization, which could resemble existing regulators like the Financial Industry Regulatory Authority, would be made up of leading independent experts and representatives from open-source communities and would have the authority to evaluate frontier models before they are released and coordinate an  …\nRead the full story at The Verge.",
-    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic [&#8230;]",
-    "id": "https://www.theverge.com/?p=965270",
-    "isoDate": "2026-07-14T11:43:29.000Z",
+    "title": "(No AI) The Google Images homepage will recommend photos even before you search",
+    "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+    "pubDate": "2026-07-14T16:00:00.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching.\n\nThe [company says](https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary) the new \"browseable\" homepage features a \"dynamic, immersive gallery of images from across the web - updated in real time and intelligently tailored to your unique interests.\" Based on images Google has shared, the layout reminds me of platforms like Pinterest and Imgur that stuff a lot of images in one place for you to scroll through. You'll also …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana)",
+    "contentSnippet": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching.\nThe company says the new \"browseable\" homepage features a \"dynamic, immersive gallery of images from across the web - updated in real time and intelligently tailored to your unique interests.\" Based on images Google has shared, the layout reminds me of platforms like Pinterest and Imgur that stuff a lot of images in one place for you to scroll through. You'll also …\nRead the full story at The Verge.",
+    "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the [&#8230;]",
+    "id": "https://www.theverge.com/?p=965138",
+    "isoDate": "2026-07-14T16:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-google-images-homepage-will-recommend-photos-even-before-you-search"
   },
   {
-    "title": "(No AI) New York becomes the first state to enact a data center moratorium",
-    "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-    "pubDate": "2026-07-14T09:00:00.000Z",
-    "author": "Lauren Feiner",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNew hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature.\n\nThe order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That's higher than the 20 megawatt threshold [approved by state lawmakers](https://www.theverge.com/policy/944041/new-york-data-center-moratorium). Hochul's office could not immediately identify th …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium)",
-    "contentSnippet": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature.\nThe order blocks new environmental permits for data centers over 50 megawatts, which the governor's office says will give the state time to come up with the regulations needed to protect residents from rising energy prices and environmental impact. That's higher than the 20 megawatt threshold approved by state lawmakers. Hochul's office could not immediately identify th …\nRead the full story at The Verge.",
-    "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&#8230;]",
-    "id": "https://www.theverge.com/?p=965110",
-    "isoDate": "2026-07-14T09:00:00.000Z",
+    "title": "(No AI) Spotify is now an AI chatbot, too",
+    "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+    "pubDate": "2026-07-14T15:47:36.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![The “Talk to Spotify” chatbot feature rolling out to Premium users.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThis is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"[Talk to Spotify](https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/)\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the familiar AI text box, or by selecting the mic symbol and speaking.\n\n[Amazon Music](https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration) introduced a similar feature last year when it integrated Alexa Plus into the service. Spotify's chatbot goes a step beyond providing AI-powered recommendations and general trivia, however, because it references your playlists, favor …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts)",
+    "contentSnippet": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the familiar AI text box, or by selecting the mic symbol and speaking.\nAmazon Music introduced a similar feature last year when it integrated Alexa Plus into the service. Spotify's chatbot goes a step beyond providing AI-powered recommendations and general trivia, however, because it references your playlists, favor …\nRead the full story at The Verge.",
+    "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
+    "id": "https://www.theverge.com/?p=965358",
+    "isoDate": "2026-07-14T15:47:36.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "new-york-becomes-the-first-state-to-enact-a-data-center-moratorium"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "spotify-is-now-an-ai-chatbot-too"
   },
   {
-    "title": "(No AI) How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "contentSnippet": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "guid": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "(No AI) How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "contentSnippet": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "guid": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "categories": [
-      "OpenAI Academy"
+      "AI Adoption"
     ],
-    "isoDate": "2026-07-14T00:00:00.000Z",
+    "isoDate": "2026-07-14T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-data-science-teams-use-chatgpt-work"
+    "slug": "how-to-manage-ai-investments-in-the-agentic-era"
   },
   {
     "title": "(No AI) How sales teams use ChatGPT Work",
@@ -115,6 +117,23 @@
     "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
   },
   {
+    "creator": "Ej Dickson ",
+    "title": "(No AI) YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+    "pubDate": "Tue, 14 Jul 2026 16:05:18 +0000",
+    "dc:creator": "Ej Dickson ",
+    "content": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+    "contentSnippet": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+    "guid": "6a54fe51b737a54b4a6104d6",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-07-14T16:05:18.000Z",
+    "source": "Wired AI",
+    "slug": "youtube-and-x-have-become-gateways-to-nudify-apps"
+  },
+  {
     "creator": "Manisha Krishnan",
     "title": "(No AI) This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
     "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
@@ -129,21 +148,5 @@
     "isoDate": "2026-07-14T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "this-luddite-puppet-hopes-you-re-not-reading-this-on-your-smartphone"
-  },
-  {
-    "creator": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
-    "title": "(No AI) The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-    "pubDate": "Tue, 14 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
-    "content": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-    "contentSnippet": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-    "guid": "6a3d2de6e6c7ac5cabfbc989",
-    "categories": [
-      "The Big Story"
-    ],
-    "isoDate": "2026-07-14T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt"
   }
 ]
