@@ -1,44 +1,46 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-    "contentSnippet": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-    "guid": "https://techcrunch.com/?p=3142345",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "contentSnippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "guid": "https://techcrunch.com/?p=3142610",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Venture",
-      "drug discovery",
-      "lightspeed",
-      "OpenAI"
+      "Enterprise",
+      "Startups",
+      "ai services",
+      "Anthropic",
+      "Blackstone",
+      "Exclusive",
+      "ode with anthropic"
     ],
-    "isoDate": "2026-07-15T00:27:04.000Z",
+    "isoDate": "2026-07-15T13:10:47.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b"
+    "slug": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Lorde says AI glasses are ‘not sexy’",
-    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "pubDate": "Tue, 14 Jul 2026 23:10:02 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-    "contentSnippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-    "guid": "https://techcrunch.com/?p=3142316",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Rime picks up $24M Series A to help enterprises field customer calls",
+    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+    "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Rime is handling over 100 million calls each month across multiple companies",
+    "contentSnippet": "Rime is handling over 100 million calls each month across multiple companies",
+    "guid": "https://techcrunch.com/?p=3142237",
     "categories": [
       "AI",
-      "AI smart glasses",
-      "lorde",
-      "Meta",
-      "ray-ban meta"
+      "Fundraising",
+      "voice AI",
+      "M13 Ventures",
+      "Rime"
     ],
-    "isoDate": "2026-07-14T23:10:02.000Z",
+    "isoDate": "2026-07-15T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "lorde-says-ai-glasses-are-not-sexy"
+    "slug": "rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls"
   },
   {
     "title": "(No AI) OpenAI may announce a ChatGPT smart speaker this year",
@@ -119,6 +121,23 @@
     "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
   },
   {
+    "creator": "Isabella Ward",
+    "title": "(No AI) An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+    "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+    "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+    "contentSnippet": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+    "guid": "6a5759c79bd6913e3ca7ed5f",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-07-15T12:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "an-inventor-of-apple-s-faceid-wants-to-analyze-your-brain-s-health-with-ai"
+  },
+  {
     "creator": "Dillon Thompson",
     "title": "(No AI) My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
     "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
@@ -134,22 +153,5 @@
     "isoDate": "2026-07-15T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "my-ebike-delivery-went-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-    "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-    "pubDate": "Wed, 15 Jul 2026 09:00:00 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-    "contentSnippet": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-    "guid": "6a553851437b4bfb2a700c8e",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-15T09:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "openai-staffers-are-funding-a-rival-super-pac-to-take-on-their-boss"
   }
 ]
