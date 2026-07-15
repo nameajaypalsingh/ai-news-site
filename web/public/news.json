@@ -1,46 +1,57 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "contentSnippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "guid": "https://techcrunch.com/?p=3142610",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Hack suggests AI music generator Suno scraped YouTube for training data",
+    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "contentSnippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "guid": "https://techcrunch.com/?p=3142768",
     "categories": [
       "AI",
-      "Enterprise",
-      "Startups",
-      "ai services",
-      "Anthropic",
-      "Blackstone",
-      "Exclusive",
-      "ode with anthropic"
+      "Media & Entertainment",
+      "suno"
     ],
-    "isoDate": "2026-07-15T13:10:47.000Z",
+    "isoDate": "2026-07-15T17:00:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models"
+    "slug": "hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Rime picks up $24M Series A to help enterprises field customer calls",
-    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-    "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Rime is handling over 100 million calls each month across multiple companies",
-    "contentSnippet": "Rime is handling over 100 million calls each month across multiple companies",
-    "guid": "https://techcrunch.com/?p=3142237",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "pubDate": "Wed, 15 Jul 2026 17:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "contentSnippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "guid": "https://techcrunch.com/?p=3142373",
     "categories": [
+      "Startups",
       "AI",
-      "Fundraising",
-      "voice AI",
-      "M13 Ventures",
-      "Rime"
+      "Apps",
+      "Commerce",
+      "e-commerce",
+      "Exclusive",
+      "livestream shopping"
     ],
-    "isoDate": "2026-07-15T13:00:00.000Z",
+    "isoDate": "2026-07-15T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls"
+    "slug": "whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations"
+  },
+  {
+    "title": "(No AI) OpenAI finally launches hardware… for Codex",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "pubDate": "2026-07-15T16:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is [developing with former Apple designer Jony Ive](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman), a project already [tangled up in a messy lawsuit](https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo). Instead, it's a product designed to be used with its coding platform, Codex.\n\nThe device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to monitor and manage their agents.\n\nThe pad closely resembles Work Louder's [Creator Micro 2](https://worklouder.cc/creator-micro-2), and marketing images show what appears to be an identical …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch)",
+    "contentSnippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. \nThe device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to monitor and manage their agents. \nThe pad closely resembles Work Louder's Creator Micro 2, and marketing images show what appears to be an identical  …\nRead the full story at The Verge.",
+    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
+    "id": "https://www.theverge.com/?p=965901",
+    "isoDate": "2026-07-15T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-finally-launches-hardware-for-codex"
   },
   {
     "title": "(No AI) OpenAI may announce a ChatGPT smart speaker this year",
@@ -57,46 +68,32 @@
     "slug": "openai-may-announce-a-chatgpt-smart-speaker-this-year"
   },
   {
-    "title": "(No AI) SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-    "pubDate": "2026-07-14T19:25:00.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Vector illustration of the Grok logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. [_The Register_](https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123) reports that [Cereblab](https://cereblab.com/) published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\n\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable\\_codebase\\_upload: true\" flag, and the codebase upload \"no longer fires.\"\n\nElon Musk responded to the i …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload)",
-    "contentSnippet": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable_codebase_upload: true\" flag, and the codebase upload \"no longer fires.\" \nElon Musk responded to the i …\nRead the full story at The Verge.",
-    "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
-    "id": "https://www.theverge.com/?p=965600",
-    "isoDate": "2026-07-14T19:25:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-cloud-storage"
+    "title": "(No AI) The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "contentSnippet": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "guid": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-07-15T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-us-is-advancing-ai-safety-through-state-and-federal-action"
   },
   {
-    "title": "(No AI) How to manage AI investments in the agentic era",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-    "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "contentSnippet": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "guid": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "title": "(No AI) GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "contentSnippet": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "guid": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "categories": [
-      "AI Adoption"
+      "Safety"
     ],
-    "isoDate": "2026-07-14T10:00:00.000Z",
+    "isoDate": "2026-07-15T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-to-manage-ai-investments-in-the-agentic-era"
-  },
-  {
-    "title": "(No AI) How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "contentSnippet": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "guid": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "categories": [
-      "OpenAI Academy"
-    ],
-    "isoDate": "2026-07-14T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-data-science-teams-use-chatgpt-work"
+    "slug": "gpt-red-unlocking-self-improvement-for-robustness"
   },
   {
     "title": "(No AI) Empowering India’s next generation of innovators with ATL Saathi",
@@ -122,12 +119,12 @@
   },
   {
     "creator": "Isabella Ward",
-    "title": "(No AI) An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+    "title": "(No AI) An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
     "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
     "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
     "dc:creator": "Isabella Ward",
-    "content": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
-    "contentSnippet": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+    "content": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
+    "contentSnippet": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
     "guid": "6a5759c79bd6913e3ca7ed5f",
     "categories": [
       "Science",
