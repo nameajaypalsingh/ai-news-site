@@ -1,71 +1,73 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Hack suggests AI music generator Suno scraped YouTube for training data",
-    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-    "contentSnippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-    "guid": "https://techcrunch.com/?p=3142768",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "contentSnippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "guid": "https://techcrunch.com/?p=3142831",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "suno"
+      "Hardware",
+      "TC",
+      "codex",
+      "OpenAI",
+      "openai codex"
     ],
-    "isoDate": "2026-07-15T17:00:34.000Z",
+    "isoDate": "2026-07-15T19:41:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data"
+    "slug": "amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Whatnot acquires Shaped to power real-time live shopping recommendations",
-    "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "pubDate": "Wed, 15 Jul 2026 17:00:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-    "contentSnippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-    "guid": "https://techcrunch.com/?p=3142373",
+    "creator": "Sean O'Kane",
+    "title": "(No AI) SpaceX falls to $135 IPO price ahead of Starship launch",
+    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "contentSnippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "guid": "https://techcrunch.com/?p=3135290",
     "categories": [
-      "Startups",
       "AI",
-      "Apps",
-      "Commerce",
-      "e-commerce",
-      "Exclusive",
-      "livestream shopping"
+      "Space",
+      "Elon Musk",
+      "SpaceX",
+      "spacex ipo",
+      "Starship"
     ],
-    "isoDate": "2026-07-15T17:00:00.000Z",
+    "isoDate": "2026-07-15T18:06:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations"
+    "slug": "spacex-falls-to-135-ipo-price-ahead-of-starship-launch"
   },
   {
-    "title": "(No AI) OpenAI finally launches hardware… for Codex",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-    "pubDate": "2026-07-15T16:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is [developing with former Apple designer Jony Ive](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman), a project already [tangled up in a messy lawsuit](https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo). Instead, it's a product designed to be used with its coding platform, Codex.\n\nThe device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to monitor and manage their agents.\n\nThe pad closely resembles Work Louder's [Creator Micro 2](https://worklouder.cc/creator-micro-2), and marketing images show what appears to be an identical …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch)",
-    "contentSnippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. \nThe device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder. OpenAI said it is a limited-run collaboration that will give users more ways to monitor and manage their agents. \nThe pad closely resembles Work Louder's Creator Micro 2, and marketing images show what appears to be an identical  …\nRead the full story at The Verge.",
-    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
-    "id": "https://www.theverge.com/?p=965901",
-    "isoDate": "2026-07-15T16:00:00.000Z",
+    "title": "(No AI) AI slop movies are the new direct-to-video cash grabs",
+    "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+    "pubDate": "2026-07-15T20:00:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![An AI-generated image of a Trojan soldier.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nThis weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of [_The Odyssey_](https://www.theverge.com/entertainment/849026/the-trailer-for-christopher-nolans-the-odyssey-dropped-this-morning)_._ It's on track to [rake in anywhere between $80-$100 million](https://deadline.com/2026/06/the-odyssey-box-office-opening-projection-1236968681/) in just a few days. People are clearly excited to see [how Nolan uses cutting-edge filmmaking tech](https://www.theverge.com/news/668287/christopher-nolan-odyssey-imax-film-100-percent) to make the Homeric classic feel fresh. But another director is trying to capitalize on the buzz around Nolan's project to drum up interest in an Odysseus-focused movie of his own.\n\nOn Tuesday, [film studio Fountain 0 announced](https://watch.fountain0.com/movies/odysseus-the-fall) that it is working on an AI-generated reimagining of _The Odyssey_ titled _Odysseus: The Fall_, which will be availabl …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood)",
+    "contentSnippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric classic feel fresh. But another director is trying to capitalize on the buzz around Nolan's project to drum up interest in an Odysseus-focused movie of his own.\nOn Tuesday, film studio Fountain 0 announced that it is working on an AI-generated reimagining of The Odyssey titled Odysseus: The Fall, which will be availabl …\nRead the full story at The Verge.",
+    "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
+    "id": "https://www.theverge.com/?p=965616",
+    "isoDate": "2026-07-15T20:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-finally-launches-hardware-for-codex"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-slop-movies-are-the-new-direct-to-video-cash-grabs"
   },
   {
-    "title": "(No AI) OpenAI may announce a ChatGPT smart speaker this year",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-    "pubDate": "2026-07-14T21:26:32.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report [from _Bloomberg_](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&leadSource=uverify%20wall). The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment.\n\nThe report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of [stealing hardware secrets](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims). OpenAI, in a [new statement on Tuesday](https://www.theverge.com/tech/965649/openai-has-a-new-statement-about-apples-lawsuit), said that it is \"not aware of any evidence that this complaint has merit.\"\n\nSources tell _Bloomberg_ that OpenAI's device will also feature a rechargeable battery that will allow users to carry it with them. It will offer smart home contro …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)",
-    "contentSnippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment.\nThe report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\"\nSources tell Bloomberg that OpenAI's device will also feature a rechargeable battery that will allow users to carry it with them. It will offer smart home contro …\nRead the full story at The Verge.",
-    "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
-    "id": "https://www.theverge.com/?p=965670",
-    "isoDate": "2026-07-14T21:26:32.000Z",
+    "title": "(No AI) Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "pubDate": "2026-07-15T17:48:01.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A smiling computer surrounded by music notes connected like data points.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSo when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, [_404 Media_](https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/) reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has _actually_ been taking from online platforms.\n\nThat's relevant because Suno has been the subject of several lawsuits that allege it used [copyrighted materials](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) to train its AI models. In [a notable case](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) filed by the Recording Industry Association of America (RIAA), [Suno openly admitted](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use) th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack)",
+    "contentSnippet": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms.\nThat's relevant because Suno has been the subject of several lawsuits that allege it used copyrighted materials to train its AI models. In a notable case filed by the Recording Industry Association of America (RIAA), Suno openly admitted th …\nRead the full story at The Verge.",
+    "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
+    "id": "https://www.theverge.com/?p=966072",
+    "isoDate": "2026-07-15T17:48:01.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-may-announce-a-chatgpt-smart-speaker-this-year"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "suno-snatched-millions-of-songs-from-youtube-genius-and-deezer"
   },
   {
     "title": "(No AI) The US is advancing AI safety through state and federal action",
@@ -118,37 +120,37 @@
     "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
   },
   {
-    "creator": "Isabella Ward",
-    "title": "(No AI) An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-    "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-    "contentSnippet": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-    "guid": "6a5759c79bd6913e3ca7ed5f",
+    "creator": "Will Knight",
+    "title": "(No AI) AI Isn’t Smarter Than a Baby—Yet",
+    "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+    "pubDate": "Wed, 15 Jul 2026 18:30:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+    "contentSnippet": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+    "guid": "6a565da8a92aca21543aef6e",
     "categories": [
-      "Science",
-      "Science / Biotech"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-07-15T12:00:00.000Z",
+    "isoDate": "2026-07-15T18:30:00.000Z",
     "source": "Wired AI",
-    "slug": "an-inventor-of-apple-s-faceid-wants-to-analyze-your-brain-s-health-with-ai"
+    "slug": "ai-isn-t-smarter-than-a-baby-yet"
   },
   {
-    "creator": "Dillon Thompson",
-    "title": "(No AI) My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-    "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-    "pubDate": "Wed, 15 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Dillon Thompson",
-    "content": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-    "contentSnippet": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-    "guid": "6a5673fa28d408348a0cd213",
+    "creator": "Will Knight",
+    "title": "(No AI) Thinking Machines Lab Drops Its First Model",
+    "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+    "pubDate": "Wed, 15 Jul 2026 18:05:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+    "contentSnippet": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+    "guid": "6a56aa5fbd6f051dce815702",
     "categories": [
-      "Gear",
-      "Gear / Trends"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-07-15T10:00:00.000Z",
+    "isoDate": "2026-07-15T18:05:00.000Z",
     "source": "Wired AI",
-    "slug": "my-ebike-delivery-went-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell"
+    "slug": "thinking-machines-lab-drops-its-first-model"
   }
 ]
