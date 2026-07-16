@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Ram Iyer",
+    "title": "(No AI) Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "contentSnippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "guid": "https://techcrunch.com/?p=3142836",
+    "categories": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "energy",
+      "oil and gas",
+      "petrochemicals"
+    ],
+    "isoDate": "2026-07-16T04:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -10,7 +31,6 @@
     "guid": "https://techcrunch.com/?p=3143129",
     "categories": [
       "AI",
-      "TC",
       "Anthropic",
       "Microsoft",
       "OpenAI"
@@ -18,27 +38,6 @@
     "isoDate": "2026-07-15T23:59:44.000Z",
     "source": "TechCrunch AI",
     "slug": "microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-    "contentSnippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-    "guid": "https://techcrunch.com/?p=3142831",
-    "categories": [
-      "AI",
-      "Hardware",
-      "TC",
-      "codex",
-      "OpenAI",
-      "openai codex"
-    ],
-    "isoDate": "2026-07-15T19:41:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex"
   },
   {
     "title": "(No AI) xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
