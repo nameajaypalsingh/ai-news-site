@@ -1,41 +1,56 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Google’s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-    "contentSnippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-    "guid": "https://techcrunch.com/?p=3143234",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "contentSnippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "guid": "https://techcrunch.com/?p=3143447",
     "categories": [
       "AI",
       "Apps",
-      "ai mode",
-      "Google"
+      "Google",
+      "Google Vids",
+      "Video"
     ],
-    "isoDate": "2026-07-16T16:00:00.000Z",
+    "isoDate": "2026-07-16T18:32:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-s-ai-mode-now-lets-you-link-and-interact-with-select-apps"
+    "slug": "google-vids-now-lets-you-star-in-your-own-ai-videos"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "contentSnippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "guid": "https://techcrunch.com/?p=3143273",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Roblox launches an AI-powered game-creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "contentSnippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "guid": "https://techcrunch.com/?p=3143441",
     "categories": [
       "AI",
-      "Commerce",
-      "DoorDash",
-      "eCommerce"
+      "Apps",
+      "Gaming",
+      "Roblox"
     ],
-    "isoDate": "2026-07-16T15:38:55.000Z",
+    "isoDate": "2026-07-16T18:22:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "yes-you-can-now-order-doordash-from-the-command-line"
+    "slug": "roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app"
+  },
+  {
+    "title": "(No AI) New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "pubDate": "2026-07-16T17:58:37.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of New York Governor Kathy Hochul](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNew York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an [interview with _Bloomberg_'s _Odd Lots_](https://www.bloomberg.com/news/videos/2026-07-15/ny-gov-on-using-ai-to-clean-up-the-state-s-legal-code-video) podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, \\[and\\] policy\" to check for outdated legislation.\n\nSome of the antiquated laws mentioned by Hochul in the interview include a $25 fee required to take a dog hunting, or a stipulation that pregnant people need a permit to work after midnight. Hochul added that it \"probably would have taken five years at the staff level\" to review all of the laws in the stat …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies)",
+    "contentSnippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated legislation.\nSome of the antiquated laws mentioned by Hochul in the interview include a $25 fee required to take a dog hunting, or a stipulation that pregnant people need a permit to work after midnight. Hochul added that it \"probably would have taken five years at the staff level\" to review all of the laws in the stat …\nRead the full story at The Verge.",
+    "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+    "id": "https://www.theverge.com/?p=966647",
+    "isoDate": "2026-07-16T17:58:37.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "new-york-governor-says-she-s-using-ai-to-analyze-every-single-rule-in-the-state"
   },
   {
     "title": "(No AI) Google is renaming NotebookLM to Gemini Notebook",
@@ -50,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "google-is-renaming-notebooklm-to-gemini-notebook"
-  },
-  {
-    "title": "(No AI) Claude can now use your 1Password credentials for you",
-    "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-    "pubDate": "2026-07-16T13:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\n\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration)",
-    "contentSnippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\nRead the full story at The Verge.",
-    "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
-    "id": "https://www.theverge.com/?p=966442",
-    "isoDate": "2026-07-16T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-can-now-use-your-1password-credentials-for-you"
   },
   {
     "title": "(No AI) Why teens deserve access to safe AI",
@@ -113,6 +114,23 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+    "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+    "pubDate": "Thu, 16 Jul 2026 18:35:18 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+    "contentSnippet": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+    "guid": "6a4bf6ed23cb60de6e4638a4",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-16T18:35:18.000Z",
+    "source": "Wired AI",
+    "slug": "here-s-why-anthropic-is-pushing-states-to-regulate-ai-faster"
+  },
+  {
     "creator": "Reece Rogers",
     "title": "(No AI) Please Stop Making Me Opt Out of AI",
     "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
@@ -129,22 +147,5 @@
     "isoDate": "2026-07-16T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "please-stop-making-me-opt-out-of-ai"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) AI Isn’t Smarter Than a Baby—Yet",
-    "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-    "pubDate": "Wed, 15 Jul 2026 18:30:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
-    "contentSnippet": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
-    "guid": "6a565da8a92aca21543aef6e",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-15T18:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-isn-t-smarter-than-a-baby-yet"
   }
 ]
