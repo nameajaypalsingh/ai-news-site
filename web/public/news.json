@@ -96,6 +96,17 @@
     "slug": "gpt-red-unlocking-self-improvement-for-robustness"
   },
   {
+    "title": "(No AI) Our approach to bioresilience",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+    "content": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "contentSnippet": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "guid": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "isoDate": "2026-07-16T09:30:42.000Z",
+    "source": "Google DeepMind",
+    "slug": "our-approach-to-bioresilience"
+  },
+  {
     "title": "(No AI) Empowering India’s next generation of innovators with ATL Saathi",
     "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
@@ -107,15 +118,22 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
-    "title": "(No AI) Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "isoDate": "2026-07-03T14:25:43.000Z",
-    "source": "Google DeepMind",
-    "slug": "google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+    "creator": "Reece Rogers",
+    "title": "(No AI) Please Stop Making Me Opt Out of AI",
+    "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+    "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+    "contentSnippet": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+    "guid": "6a57cc3059c5df34b820b008",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / How To and Advice"
+    ],
+    "isoDate": "2026-07-16T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "please-stop-making-me-opt-out-of-ai"
   },
   {
     "creator": "Will Knight",
@@ -133,22 +151,5 @@
     "isoDate": "2026-07-15T18:30:00.000Z",
     "source": "Wired AI",
     "slug": "ai-isn-t-smarter-than-a-baby-yet"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Thinking Machines Lab Drops Its First Model",
-    "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-    "pubDate": "Wed, 15 Jul 2026 18:05:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-    "contentSnippet": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-    "guid": "6a56aa5fbd6f051dce815702",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-15T18:05:00.000Z",
-    "source": "Wired AI",
-    "slug": "thinking-machines-lab-drops-its-first-model"
   }
 ]
