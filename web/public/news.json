@@ -1,6 +1,26 @@
 [
   {
     "creator": "Lucas Ropek",
+    "title": "(No AI) Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "contentSnippet": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "guid": "https://techcrunch.com/?p=3143129",
+    "categories": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "isoDate": "2026-07-15T23:59:44.000Z",
+    "source": "TechCrunch AI",
+    "slug": "microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic"
+  },
+  {
+    "creator": "Lucas Ropek",
     "title": "(No AI) Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
@@ -21,25 +41,18 @@
     "slug": "amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex"
   },
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) SpaceX falls to $135 IPO price ahead of Starship launch",
-    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-    "contentSnippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-    "guid": "https://techcrunch.com/?p=3135290",
-    "categories": [
-      "AI",
-      "Space",
-      "Elon Musk",
-      "SpaceX",
-      "spacex ipo",
-      "Starship"
-    ],
-    "isoDate": "2026-07-15T18:06:05.000Z",
-    "source": "TechCrunch AI",
-    "slug": "spacex-falls-to-135-ipo-price-ahead-of-starship-launch"
+    "title": "(No AI) xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+    "pubDate": "2026-07-15T21:33:20.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the xAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In [a lawsuit](https://www.documentcloud.org/documents/28483528-spacexai-v-harwood/) reported [earlier by _Reuters_](https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/), xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the company's policies.\n\nHarwood [was arrested](https://www.scag.gov/about-the-office/news/four-upstate-men-arrested-on-child-sexual-abuse-material-charges/) in February for allegedly possessing and distributing CSAM and is facing eight felony charges. The lawsuit claims \"at least some\" of the images related to Harwood's criminal charges \"were generated or altered\" with Grok, and that Harwood byp …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)",
+    "contentSnippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the company's policies.\nHarwood was arrested in February for allegedly possessing and distributing CSAM and is facing eight felony charges. The lawsuit claims \"at least some\" of the images related to Harwood's criminal charges \"were generated or altered\" with Grok, and that Harwood byp …\nRead the full story at The Verge.",
+    "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
+    "id": "https://www.theverge.com/?p=966293",
+    "isoDate": "2026-07-15T21:33:20.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "xai-sues-a-man-for-using-grok-to-generate-csam-deepfakes"
   },
   {
     "title": "(No AI) AI slop movies are the new direct-to-video cash grabs",
@@ -54,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-slop-movies-are-the-new-direct-to-video-cash-grabs"
-  },
-  {
-    "title": "(No AI) Suno snatched millions of songs from YouTube, Genius, and Deezer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-    "pubDate": "2026-07-15T17:48:01.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A smiling computer surrounded by music notes connected like data points.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSo when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, [_404 Media_](https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/) reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has _actually_ been taking from online platforms.\n\nThat's relevant because Suno has been the subject of several lawsuits that allege it used [copyrighted materials](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) to train its AI models. In [a notable case](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) filed by the Recording Industry Association of America (RIAA), [Suno openly admitted](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use) th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack)",
-    "contentSnippet": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms.\nThat's relevant because Suno has been the subject of several lawsuits that allege it used copyrighted materials to train its AI models. In a notable case filed by the Recording Industry Association of America (RIAA), Suno openly admitted th …\nRead the full story at The Verge.",
-    "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
-    "id": "https://www.theverge.com/?p=966072",
-    "isoDate": "2026-07-15T17:48:01.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "suno-snatched-millions-of-songs-from-youtube-genius-and-deezer"
   },
   {
     "title": "(No AI) The US is advancing AI safety through state and federal action",
