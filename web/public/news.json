@@ -1,52 +1,63 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Apple Intelligence approved for launch in China with Alibaba and Baidu",
-    "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "pubDate": "Thu, 16 Jul 2026 13:17:59 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-    "contentSnippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-    "guid": "https://techcrunch.com/?p=3142774",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Google’s AI Mode now lets you link and interact with select apps",
+    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+    "contentSnippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+    "guid": "https://techcrunch.com/?p=3143234",
     "categories": [
       "AI",
-      "alibaba",
-      "Apple",
-      "Apple Intelligence",
-      "qwen"
+      "Apps",
+      "ai mode",
+      "Google"
     ],
-    "isoDate": "2026-07-16T13:17:59.000Z",
+    "isoDate": "2026-07-16T16:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-intelligence-approved-for-launch-in-china-with-alibaba-and-baidu"
+    "slug": "google-s-ai-mode-now-lets-you-link-and-interact-with-select-apps"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-    "contentSnippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-    "guid": "https://techcrunch.com/?p=3142836",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Yes, you can now order DoorDash from the command line",
+    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+    "contentSnippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+    "guid": "https://techcrunch.com/?p=3143273",
     "categories": [
-      "Startups",
       "AI",
-      "Fundraising",
-      "energy",
-      "oil and gas",
-      "petrochemicals"
+      "Commerce",
+      "DoorDash",
+      "eCommerce"
     ],
-    "isoDate": "2026-07-16T04:00:00.000Z",
+    "isoDate": "2026-07-16T15:38:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant"
+    "slug": "yes-you-can-now-order-doordash-from-the-command-line"
+  },
+  {
+    "title": "(No AI) Google is renaming NotebookLM to Gemini Notebook",
+    "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "pubDate": "2026-07-16T16:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing the Gemini Notebook logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is giving its AI note-taking app a new name. The [company announced on Thursday](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search.\n\nGoogle first revealed Gemini Notebook - [then called Project Tailwind](https://www.theverge.com/2023/5/10/23718707/google-io-2023-project-tailwind-personal-ai-notebook) - in May 2023 before widely [releasing the app just months later](https://www.theverge.com/2023/7/12/23792382/google-notebooklm-tailwind-ai-notes). Over the past few years, Google has been adding new features to the app to help organize and make sense of your notes, such as the ability to summarize them [as AI podcasts](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research), [narrated slideshows](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai), and [TikTok-style clips](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips). It recently started [letting users connect their notebooks](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm) to the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm)",
+    "contentSnippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search.\nGoogle first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing the app just months later. Over the past few years, Google has been adding new features to the app to help organize and make sense of your notes, such as the ability to summarize them as AI podcasts, narrated slideshows, and TikTok-style clips. It recently started letting users connect their notebooks to the  …\nRead the full story at The Verge.",
+    "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+    "id": "https://www.theverge.com/?p=966112",
+    "isoDate": "2026-07-16T16:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-is-renaming-notebooklm-to-gemini-notebook"
   },
   {
     "title": "(No AI) Claude can now use your 1Password credentials for you",
     "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
     "pubDate": "2026-07-16T13:00:00.000Z",
     "author": "Jess Weatherbed",
-    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing your security information to Anthropic's AI models, according to 1Password.\n\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task thro …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration)",
-    "contentSnippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing your security information to Anthropic's AI models, according to 1Password.\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task thro …\nRead the full story at The Verge.",
+    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\n\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration)",
+    "contentSnippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\nRead the full story at The Verge.",
     "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
     "id": "https://www.theverge.com/?p=966442",
     "isoDate": "2026-07-16T13:00:00.000Z",
@@ -55,46 +66,29 @@
     "slug": "claude-can-now-use-your-1password-credentials-for-you"
   },
   {
-    "title": "(No AI) Google ordered to open Android and Search to rivals in Europe",
-    "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-    "pubDate": "2026-07-16T12:06:51.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules.\n\nThe two [decisions](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1634), handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has until January 2027 to begin sharing search data and July 2027 to implement changes to Android.\n\nThe rulings stem from technical regulatory proceedings …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma)",
-    "contentSnippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. \nThe two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has until January 2027 to begin sharing search data and July 2027 to implement changes to Android.\nThe rulings stem from technical regulatory proceedings …\nRead the full story at The Verge.",
-    "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
-    "id": "https://www.theverge.com/?p=966438",
-    "isoDate": "2026-07-16T12:06:51.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-ordered-to-open-android-and-search-to-rivals-in-europe"
-  },
-  {
-    "title": "(No AI) The US is advancing AI safety through state and federal action",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "contentSnippet": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "guid": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-07-15T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "the-us-is-advancing-ai-safety-through-state-and-federal-action"
-  },
-  {
-    "title": "(No AI) GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "contentSnippet": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "guid": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "title": "(No AI) Why teens deserve access to safe AI",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "contentSnippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "guid": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "categories": [
       "Safety"
     ],
-    "isoDate": "2026-07-15T10:00:00.000Z",
+    "isoDate": "2026-07-16T16:00:00.000Z",
     "source": "OpenAI",
-    "slug": "gpt-red-unlocking-self-improvement-for-robustness"
+    "slug": "why-teens-deserve-access-to-safe-ai"
+  },
+  {
+    "title": "(No AI) How Cars24 scales conversations and builds faster with OpenAI",
+    "link": "https://openai.com/index/cars24",
+    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "content": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "contentSnippet": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "guid": "https://openai.com/index/cars24",
+    "isoDate": "2026-07-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-cars24-scales-conversations-and-builds-faster-with-openai"
   },
   {
     "title": "(No AI) Our approach to bioresilience",
