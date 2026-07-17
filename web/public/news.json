@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "pubDate": "Fri, 17 Jul 2026 12:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "contentSnippet": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "guid": "https://techcrunch.com/?p=3143568",
+    "categories": [
+      "AI",
+      "Exclusive",
+      "General COmpute"
+    ],
+    "isoDate": "2026-07-17T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) Google Vids now lets you star in your own AI videos",
     "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -18,25 +36,6 @@
     "isoDate": "2026-07-16T18:32:54.000Z",
     "source": "TechCrunch AI",
     "slug": "google-vids-now-lets-you-star-in-your-own-ai-videos"
-  },
-  {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Roblox launches an AI-powered game-creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-    "contentSnippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-    "guid": "https://techcrunch.com/?p=3143441",
-    "categories": [
-      "AI",
-      "Apps",
-      "Gaming",
-      "Roblox"
-    ],
-    "isoDate": "2026-07-16T18:22:06.000Z",
-    "source": "TechCrunch AI",
-    "slug": "roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app"
   },
   {
     "title": "(No AI) New York governor says she’s using AI to analyze ‘every single rule’ in the state",
@@ -114,6 +113,23 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
+    "creator": "Matt Burgess",
+    "title": "(No AI) San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "pubDate": "Fri, 17 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "contentSnippet": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "guid": "6a56456618e4a2cdefe3c023",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-07-17T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
     "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
@@ -128,22 +144,5 @@
     "isoDate": "2026-07-17T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "a-humanoid-company-backed-by-eric-trump-is-preparing-its-robots-for-war"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Emily Mullin",
-    "title": "(No AI) Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-    "pubDate": "Thu, 16 Jul 2026 22:17:27 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Emily Mullin",
-    "content": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-    "contentSnippet": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-    "guid": "6a57e7c73b5039938caffbb8",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-16T22:17:27.000Z",
-    "source": "Wired AI",
-    "slug": "why-apple-sued-openai-new-york-takes-on-data-centers-and-what-to-know-about-cyclosporiasis"
   }
 ]
