@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "contentSnippet": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "guid": "https://techcrunch.com/?p=3143704",
+    "categories": [
+      "AI",
+      "cloudflare",
+      "Patreon"
+    ],
+    "isoDate": "2026-07-17T15:21:17.000Z",
+    "source": "TechCrunch AI",
+    "slug": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) Why the first GPU financiers are turning to inference chips in a $400 million deal",
     "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
@@ -16,26 +34,6 @@
     "isoDate": "2026-07-17T12:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-    "contentSnippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-    "guid": "https://techcrunch.com/?p=3143447",
-    "categories": [
-      "AI",
-      "Apps",
-      "Google",
-      "Google Vids",
-      "Video"
-    ],
-    "isoDate": "2026-07-16T18:32:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-vids-now-lets-you-star-in-your-own-ai-videos"
   },
   {
     "title": "(No AI) New York governor says she’s using AI to analyze ‘every single rule’ in the state",
@@ -66,6 +64,20 @@
     "slug": "google-is-renaming-notebooklm-to-gemini-notebook"
   },
   {
+    "title": "(No AI) A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+    "content": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "contentSnippet": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "guid": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-07-17T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "a-scorecard-for-the-ai-age"
+  },
+  {
     "title": "(No AI) Why teens deserve access to safe AI",
     "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
@@ -78,17 +90,6 @@
     "isoDate": "2026-07-16T16:00:00.000Z",
     "source": "OpenAI",
     "slug": "why-teens-deserve-access-to-safe-ai"
-  },
-  {
-    "title": "(No AI) How Cars24 scales conversations and builds faster with OpenAI",
-    "link": "https://openai.com/index/cars24",
-    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "content": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "contentSnippet": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "guid": "https://openai.com/index/cars24",
-    "isoDate": "2026-07-16T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-cars24-scales-conversations-and-builds-faster-with-openai"
   },
   {
     "title": "(No AI) Our approach to bioresilience",
