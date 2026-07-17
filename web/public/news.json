@@ -114,6 +114,23 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Emily Mullin",
+    "title": "(No AI) Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+    "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+    "pubDate": "Thu, 16 Jul 2026 22:17:27 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Emily Mullin",
+    "content": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+    "contentSnippet": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+    "guid": "6a57e7c73b5039938caffbb8",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-16T22:17:27.000Z",
+    "source": "Wired AI",
+    "slug": "why-apple-sued-openai-new-york-takes-on-data-centers-and-what-to-know-about-cyclosporiasis"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
     "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
@@ -129,23 +146,5 @@
     "isoDate": "2026-07-16T18:35:18.000Z",
     "source": "Wired AI",
     "slug": "here-s-why-anthropic-is-pushing-states-to-regulate-ai-faster"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Please Stop Making Me Opt Out of AI",
-    "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-    "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-    "contentSnippet": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-    "guid": "6a57cc3059c5df34b820b008",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / How To and Advice"
-    ],
-    "isoDate": "2026-07-16T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "please-stop-making-me-opt-out-of-ai"
   }
 ]
