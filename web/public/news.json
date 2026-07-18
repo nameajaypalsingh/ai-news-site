@@ -117,6 +117,23 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
+    "creator": "Dan Goodin, Ars Technica",
+    "title": "(No AI) Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "pubDate": "Sat, 18 Jul 2026 09:00:00 +0000",
+    "dc:creator": "Dan Goodin, Ars Technica",
+    "content": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "contentSnippet": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "guid": "6a565c03b8b68a198bb73e44",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-07-18T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "prompt-injection-attacks-are-thwarting-ai-hacking-agents"
+  },
+  {
     "creator": "Matt Burgess",
     "title": "(No AI) San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
     "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
@@ -132,21 +149,5 @@
     "isoDate": "2026-07-17T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-    "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-    "contentSnippet": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-    "guid": "6a397760ab43403c23d015b2",
-    "categories": [
-      "Business"
-    ],
-    "isoDate": "2026-07-17T09:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "a-humanoid-company-backed-by-eric-trump-is-preparing-its-robots-for-war"
   }
 ]
