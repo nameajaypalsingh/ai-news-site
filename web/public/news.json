@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Kimi: Threat or menace?",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "contentSnippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "guid": "https://techcrunch.com/?p=3144070",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "david sacks",
+      "dean ball",
+      "kimi",
+      "moonshot ai",
+      "Travis Kalanick"
+    ],
+    "isoDate": "2026-07-18T18:51:07.000Z",
+    "source": "TechCrunch AI",
+    "slug": "kimi-threat-or-menace"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
@@ -15,28 +37,6 @@
     "isoDate": "2026-07-18T04:47:25.000Z",
     "source": "TechCrunch AI",
     "slug": "neil-rimer-thinks-the-ai-money-is-coming-back-out"
-  },
-  {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-    "contentSnippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-    "guid": "https://techcrunch.com/?p=3143864",
-    "categories": [
-      "AI",
-      "Hardware",
-      "ai agent",
-      "Hermes Agent",
-      "Vertu",
-      "Vertu Alphafold",
-      "zte"
-    ],
-    "isoDate": "2026-07-17T22:55:09.000Z",
-    "source": "TechCrunch AI",
-    "slug": "vertu-wants-executives-to-pay-6-880-for-an-ai-agent-here-s-how-it-actually-performs"
   },
   {
     "title": "(No AI) The apps, gadgets, and tools every reader needs",
