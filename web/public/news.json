@@ -10,9 +10,8 @@
     "guid": "https://techcrunch.com/?p=3144105",
     "categories": [
       "AI",
-      "Japan",
-      "Jensen Huang",
-      "nvidia"
+      "nvidia",
+      "Jensen Huang"
     ],
     "isoDate": "2026-07-19T21:16:07.000Z",
     "source": "TechCrunch AI",
@@ -24,14 +23,15 @@
     "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-    "contentSnippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+    "contentSnippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
     "guid": "https://techcrunch.com/?p=3144101",
     "categories": [
       "AI",
       "Gadgets",
       "Hardware",
       "Apple",
+      "Equity podcast",
       "OpenAI"
     ],
     "isoDate": "2026-07-19T19:24:45.000Z",
@@ -43,13 +43,13 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
     "pubDate": "2026-07-20T10:16:33.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChina's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence.\n\nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which [unveiled Kimi K3](https://x.com/Kimi_Moonshot/status/2077830229968683203?s=20) on Friday. Moonshot [claims](https://www.kimi.com/blog/kimi-k3) its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen)",
+    "content": "![SHANGHAI, CHINA - JULY 20 2026: People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. (Photo credit should read LONG WEI/ Feature China/Future Publishing via Getty Images)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChina's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence.\n\nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which [unveiled Kimi K3](https://x.com/Kimi_Moonshot/status/2077830229968683203?s=20) on Friday. Moonshot [claims](https://www.kimi.com/blog/kimi-k3) its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen)",
     "contentSnippet": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. \nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which unveiled Kimi K3 on Friday. Moonshot claims its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\nRead the full story at The Verge.",
     "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
     "id": "https://www.theverge.com/?p=967781",
     "isoDate": "2026-07-20T10:16:33.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "china-delivers-a-one-two-punch-to-america-s-ai-dominance"
   },
   {
