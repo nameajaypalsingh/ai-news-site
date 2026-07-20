@@ -1,40 +1,55 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) AI’s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next \\[…\\]",
+    "contentSnippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next […]",
+    "guid": "https://techcrunch.com/?p=3144390",
+    "categories": [
+      "AI",
+      "mcp"
+    ],
+    "isoDate": "2026-07-20T20:50:40.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-s-most-important-protocol-is-getting-a-little-bit-easier-to-use"
+  },
+  {
     "creator": "Sarah Perez",
-    "title": "(No AI) YouTube clarifies policies around AI slop and upsetting videos",
-    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
+    "title": "(No AI) X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-    "contentSnippet": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-    "guid": "https://techcrunch.com/?p=3144190",
+    "content": "X says the rebuilt version of its Android app is now available globally.",
+    "contentSnippet": "X says the rebuilt version of its Android app is now available globally.",
+    "guid": "https://techcrunch.com/?p=3144370",
     "categories": [
       "AI",
       "Social",
-      "inauthentic activity",
-      "YouTube"
+      "android apps",
+      "Apps",
+      "social media",
+      "X"
     ],
-    "isoDate": "2026-07-20T15:23:06.000Z",
+    "isoDate": "2026-07-20T19:37:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "youtube-clarifies-policies-around-ai-slop-and-upsetting-videos"
+    "slug": "x-relaunches-a-rebuilt-android-app-after-year-long-effort"
   },
   {
-    "creator": "Kate Park",
-    "title": "(No AI) What to watch for after Jensen Huang’s Japan visit",
-    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
-    "dc:creator": "Kate Park",
-    "content": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-    "contentSnippet": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-    "guid": "https://techcrunch.com/?p=3144105",
-    "categories": [
-      "AI",
-      "nvidia",
-      "Jensen Huang"
-    ],
-    "isoDate": "2026-07-19T21:16:07.000Z",
-    "source": "TechCrunch AI",
-    "slug": "what-to-watch-for-after-jensen-huang-s-japan-visit"
+    "title": "(No AI) SpaceX in your index fund, explained",
+    "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "pubDate": "2026-07-20T21:00:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Elon Musk with zeros and money falling from the sky.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a [giant gamble](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk), and, in my opinion, [terribly overpriced](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai) - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based on the Nasdaq-100? [Can a $1.77 trillion IPO](https://www.nbcnews.com/business/business-news/spacex-ipo-trading-price-rcna349225) crater the retirement funds of regular people who would ordinarily have no interest in investing in Elon Musk's meme stock?\n\nThe answer has less to do with SpaceX and more to do with index funds - how they work, their history, and why they've …\n\n[Read the full story at The Verge.](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained)",
+    "contentSnippet": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based on the Nasdaq-100? Can a $1.77 trillion IPO crater the retirement funds of regular people who would ordinarily have no interest in investing in Elon Musk's meme stock?\nThe answer has less to do with SpaceX and more to do with index funds - how they work, their history, and why they've …\nRead the full story at The Verge.",
+    "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+    "id": "https://www.theverge.com/?p=968257",
+    "isoDate": "2026-07-20T21:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "spacex-in-your-index-fund-explained"
   },
   {
     "title": "(No AI) Adobe’s ‘natural look’ camera app embraces generative AI",
@@ -49,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "adobe-s-natural-look-camera-app-embraces-generative-ai"
-  },
-  {
-    "title": "(No AI) China delivers a one-two punch to America’s AI dominance ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-    "pubDate": "2026-07-20T10:16:33.000Z",
-    "author": "Robert Hart",
-    "content": "![SHANGHAI, CHINA - JULY 20 2026: People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. (Photo credit should read LONG WEI/ Feature China/Future Publishing via Getty Images)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChina's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence.\n\nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which [unveiled Kimi K3](https://x.com/Kimi_Moonshot/status/2077830229968683203?s=20) on Friday. Moonshot [claims](https://www.kimi.com/blog/kimi-k3) its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen)",
-    "contentSnippet": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. \nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which unveiled Kimi K3 on Friday. Moonshot claims its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\nRead the full story at The Verge.",
-    "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
-    "id": "https://www.theverge.com/?p=967781",
-    "isoDate": "2026-07-20T10:16:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "china-delivers-a-one-two-punch-to-america-s-ai-dominance"
   },
   {
     "title": "(No AI) Safety and alignment in an era of long-horizon models",
