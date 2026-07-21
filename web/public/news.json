@@ -1,41 +1,53 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) AI’s most important protocol is getting a little bit easier to use",
-    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next \\[…\\]",
-    "contentSnippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next […]",
-    "guid": "https://techcrunch.com/?p=3144390",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Anthropic’s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+    "contentSnippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+    "guid": "https://techcrunch.com/?p=3144516",
     "categories": [
       "AI",
-      "mcp"
+      "Anthropic"
     ],
-    "isoDate": "2026-07-20T20:50:40.000Z",
+    "isoDate": "2026-07-21T00:12:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-s-most-important-protocol-is-getting-a-little-bit-easier-to-use"
+    "slug": "anthropic-s-landmark-1-5b-copyright-settlement-is-approved"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) X relaunches a rebuilt Android app after year-long effort",
-    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "X says the rebuilt version of its Android app is now available globally.",
-    "contentSnippet": "X says the rebuilt version of its Android app is now available globally.",
-    "guid": "https://techcrunch.com/?p=3144370",
+    "creator": "Julie Bort",
+    "title": "(No AI) Trump’s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+    "contentSnippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+    "guid": "https://techcrunch.com/?p=3144451",
     "categories": [
       "AI",
-      "Social",
-      "android apps",
-      "Apps",
-      "social media",
-      "X"
+      "Government & Policy",
+      "TC",
+      "ai czar"
     ],
-    "isoDate": "2026-07-20T19:37:39.000Z",
+    "isoDate": "2026-07-20T22:21:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "x-relaunches-a-rebuilt-android-app-after-year-long-effort"
+    "slug": "trump-s-latest-ai-czar-has-already-resigned"
+  },
+  {
+    "title": "(No AI) Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "pubDate": "2026-07-20T22:19:12.000Z",
+    "author": "Emma Roth",
+    "content": "![A fractured image of a person speaking into a microphone.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of [more than 30,000](https://www.documentcloud.org/documents/28500966-sony-v-udio-songs/) of its songs, ranging from Elvis Presley's _Hound Dog_ to Beyoncé's _Say My Name_, and Harry Styles' _As It Was_. The [lawsuit, filed in a New York court](https://www.documentcloud.org/documents/28500970-sony-v-udio-july-2026/) on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as [reported earlier by _Music Business Worldwide_.](https://www.musicbusinessworldwide.com/sony-music-files-new-lawsuit-against-ai-platform-udio-asserting-over-30000-sound-recordings-a-judge-barred-it-from-adding-to-its-original-case/)\n\nIn 2024, Sony, along with Universal Music Group and Warner Records, [filed a lawsuit against Udio](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) and the AI music-maker Suno. After gaining access to Udio's training data through discovery, Sony cla …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)",
+    "contentSnippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as reported earlier by Music Business Worldwide.\nIn 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno. After gaining access to Udio's training data through discovery, Sony cla …\nRead the full story at The Verge.",
+    "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+    "id": "https://www.theverge.com/?p=968375",
+    "isoDate": "2026-07-20T22:19:12.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-are-the-30-000-songs-sony-is-suing-udio-s-ai-music-generator-over"
   },
   {
     "title": "(No AI) SpaceX in your index fund, explained",
@@ -50,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "spacex-in-your-index-fund-explained"
-  },
-  {
-    "title": "(No AI) Adobe’s ‘natural look’ camera app embraces generative AI",
-    "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-    "pubDate": "2026-07-20T16:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Two before and after images showing photographs edited with generative AI in Adobe’s Indigo app.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWelcome to the “what is a photo” debate, Adobe. | Image: Adobe\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models.\n\nAdobe describes the new \"AI Playground\" tooling suite as an experiment and says there's a button that allows users to opt out and continue using the app as before. Free access to the suite with no sign-on requirement is being tested with a small percentage of Indigo users over the next few weeks. \"Our goal is to learn how people …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update)",
-    "contentSnippet": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models.\nAdobe describes the new \"AI Playground\" tooling suite as an experiment and says there's a button that allows users to opt out and continue using the app as before. Free access to the suite with no sign-on requirement is being tested with a small percentage of Indigo users over the next few weeks. \"Our goal is to learn how people …\nRead the full story at The Verge.",
-    "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]",
-    "id": "https://www.theverge.com/?p=967791",
-    "isoDate": "2026-07-20T16:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-s-natural-look-camera-app-embraces-generative-ai"
   },
   {
     "title": "(No AI) Safety and alignment in an era of long-horizon models",
