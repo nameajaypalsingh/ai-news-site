@@ -1,67 +1,66 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Google releases three new Gemini models — but no 3.5 Pro",
-    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "pubDate": "Tue, 21 Jul 2026 17:11:50 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-    "contentSnippet": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-    "guid": "https://techcrunch.com/?p=3144838",
+    "creator": "Russell Brandom",
+    "title": "(No AI) OpenAI says Hugging Face was breached by its own pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "pubDate": "Tue, 21 Jul 2026 20:56:55 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "contentSnippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "guid": "https://techcrunch.com/?p=3144991",
     "categories": [
       "AI",
-      "Enterprise"
+      "Hugging Face",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-21T17:11:50.000Z",
+    "isoDate": "2026-07-21T20:56:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-releases-three-new-gemini-models-but-no-3-5-pro"
+    "slug": "openai-says-hugging-face-was-breached-by-its-own-pre-release-models"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) US threatens sanctions against Chinese AI models over IP theft",
-    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "pubDate": "Tue, 21 Jul 2026 15:37:05 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-    "contentSnippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-    "guid": "https://techcrunch.com/?p=3144722",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "pubDate": "Tue, 21 Jul 2026 19:43:41 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "contentSnippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "guid": "https://techcrunch.com/?p=3144907",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Chinese AI Models",
-      "open source ai"
+      "jack dorsey"
     ],
-    "isoDate": "2026-07-21T15:37:05.000Z",
+    "isoDate": "2026-07-21T19:43:41.000Z",
     "source": "TechCrunch AI",
-    "slug": "us-threatens-sanctions-against-chinese-ai-models-over-ip-theft"
+    "slug": "jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents"
   },
   {
-    "title": "(No AI) Anthropic’s $1.5 billion book piracy settlement approved by judge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-    "pubDate": "2026-07-21T16:53:37.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, [as reported earlier by _Reuters_](https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/). In [an order on Monday](https://www.documentcloud.org/documents/28503369-anthropic-settlement-final-approval/), Judge Araceli Martínez-Olguín writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book allegedly pirated by Anthropic.\n\nThe $1.5 billion settlement is the \"largest known copyright recovery in history,\" according to [the law firm representing the plaintiffs](https://www.susmangodfrey.com/wins/court-grants-final-approval-of-historic-1-5-billion-ai-copyright-settlement/). A group of authors - Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson - first filed a copyright lawsuit against A …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved)",
-    "contentSnippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book allegedly pirated by Anthropic.\nThe $1.5 billion settlement is the \"largest known copyright recovery in history,\" according to the law firm representing the plaintiffs. A group of authors - Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson - first filed a copyright lawsuit against A …\nRead the full story at The Verge.",
-    "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book [&#8230;]",
-    "id": "https://www.theverge.com/?p=968724",
-    "isoDate": "2026-07-21T16:53:37.000Z",
+    "title": "(No AI) Halliday’s latest smart glasses feature a much-improved display",
+    "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+    "pubDate": "2026-07-21T13:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![The Halliday Gen 2 glasses sit on top of an open magazine with a cup of coffee visible in the corner.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday\n\nI first slipped on [Halliday's original smart glasses](https://www.theverge.com/2025/1/5/24334030/halliday-smart-glasses-ai-tiny-display-frame-availability-price-ces) at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [several other smart glasses on the show floor](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio). So I was skeptical when a few weeks ago, Halliday reached out to say its second attempt at smart glasses was _much_ better.\n\nWell, having tried the Halliday Gen 2, I'm happy to report these are better glasses. That secret display window is gone, replaced by more traditional but dis …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables)",
+    "contentSnippet": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday\t\n\nI first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor. So I was skeptical when a few weeks ago, Halliday reached out to say its second attempt at smart glasses was much better.\nWell, having tried the Halliday Gen 2, I'm happy to report these are better glasses. That secret display window is gone, replaced by more traditional but dis …\nRead the full story at The Verge.",
+    "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [&#8230;]",
+    "id": "https://www.theverge.com/?p=968255",
+    "isoDate": "2026-07-21T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-1-5-billion-book-piracy-settlement-approved-by-judge"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "halliday-s-latest-smart-glasses-feature-a-much-improved-display"
   },
   {
-    "title": "(No AI) Google launches a cheaper alternative to large AI security models like Mythos",
-    "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-    "pubDate": "2026-07-21T15:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is launching [Gemini 3.6 Flash alongside](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) a new security model dedicated to quickly finding and patching security vulnerabilities. In [a blog post on Tuesday](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/), Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos.\n\nThe cybersecurity model is built upon Gemini 3.5 Flash and will be available first to governments and trusted partners via CodeMender, [Google's security-focused coding agent](https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos). As noted by Google, CodeMender can call upon 3.5 Flash Cyber \"multiple times at high speed and low cost,\" allowing the AI agents to …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model)",
-    "contentSnippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos.\nThe cybersecurity model is built upon Gemini 3.5 Flash and will be available first to governments and trusted partners via CodeMender, Google's security-focused coding agent. As noted by Google, CodeMender can call upon 3.5 Flash Cyber \"multiple times at high speed and low cost,\" allowing the AI agents to  …\nRead the full story at The Verge.",
-    "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model [&#8230;]",
-    "id": "https://www.theverge.com/?p=968572",
-    "isoDate": "2026-07-21T15:00:00.000Z",
+    "title": "(No AI) America needs to stop getting shocked by Chinese AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "pubDate": "2026-07-21T11:08:56.000Z",
+    "author": "Robert Hart",
+    "content": "![Kimi 3 launch](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPeople visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\n\nLast week, two Chinese AI companies [unveiled models](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. [Markets](https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792) [wobbled](https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets), commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls.\n\nIn one headline, _The Associated Press_ [said](https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5) a Chinese model had taken the \"US tech industry by surprise.\" _Bloomberg_ [described](https://www.youtube.com/shorts/C-V1VegvVBk) it as a \"surprise breakthrough\" that is \"[roiling markets](https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets)\" and sending global tech stocks tumbling over concerns it could force US firms to rethink their gargantuan spending on data centers, chips, and ot …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)",
+    "contentSnippet": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nLast week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. \nIn one headline, The Associated Press said a Chinese model had taken the \"US tech industry by surprise.\" Bloomberg described it as a \"surprise breakthrough\" that is \"roiling markets\" and sending global tech stocks tumbling over concerns it could force US firms to rethink their gargantuan spending on data centers, chips, and ot …\nRead the full story at The Verge.",
+    "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a [&#8230;]",
+    "id": "https://www.theverge.com/?p=968136",
+    "isoDate": "2026-07-21T11:08:56.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-launches-a-cheaper-alternative-to-large-ai-security-models-like-mythos"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "america-needs-to-stop-getting-shocked-by-chinese-ai"
   },
   {
     "title": "(No AI) Introducing the ChatGPT for small business program",
@@ -78,18 +77,18 @@
     "slug": "introducing-the-chatgpt-for-small-business-program"
   },
   {
-    "title": "(No AI) Safety and alignment in an era of long-horizon models",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
-    "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "contentSnippet": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "guid": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "title": "(No AI) OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "content": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "contentSnippet": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "guid": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "categories": [
-      "Safety"
+      "Security"
     ],
-    "isoDate": "2026-07-20T10:00:00.000Z",
+    "isoDate": "2026-07-21T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "safety-and-alignment-in-an-era-of-long-horizon-models"
+    "slug": "openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation"
   },
   {
     "title": "(No AI) Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -114,6 +113,23 @@
     "slug": "introducing-gemini-3-5-flash-cyber"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "pubDate": "Tue, 21 Jul 2026 19:05:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+    "contentSnippet": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+    "guid": "6a5652f8673dbd0c790cfa7b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-21T19:05:00.000Z",
+    "source": "Wired AI",
+    "slug": "this-former-intel-ceo-wants-to-jumpstart-moore-s-law-with-light"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "(No AI) A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
     "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
@@ -129,23 +145,5 @@
     "isoDate": "2026-07-21T16:08:44.000Z",
     "source": "Wired AI",
     "slug": "a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Nvidia Wants to Own Every Chip Inside AI Data Centers",
-    "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-    "pubDate": "Tue, 21 Jul 2026 15:00:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-    "contentSnippet": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-    "guid": "6a5e8206ee636eaa1806d386",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-07-21T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "nvidia-wants-to-own-every-chip-inside-ai-data-centers"
   }
 ]
