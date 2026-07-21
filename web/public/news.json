@@ -1,67 +1,72 @@
 [
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Anthropic’s landmark $1.5B copyright settlement is approved",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-    "contentSnippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-    "guid": "https://techcrunch.com/?p=3144516",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "pubDate": "Tue, 21 Jul 2026 13:27:42 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "contentSnippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "guid": "https://techcrunch.com/?p=3144590",
     "categories": [
       "AI",
-      "Anthropic"
-    ],
-    "isoDate": "2026-07-21T00:12:24.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-landmark-1-5b-copyright-settlement-is-approved"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Trump’s latest AI czar has already resigned",
-    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-    "contentSnippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-    "guid": "https://techcrunch.com/?p=3144451",
-    "categories": [
-      "AI",
-      "Government & Policy",
+      "Media & Entertainment",
       "TC",
-      "ai czar"
+      "Deezer",
+      "streaming"
     ],
-    "isoDate": "2026-07-20T22:21:04.000Z",
+    "isoDate": "2026-07-21T13:27:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "trump-s-latest-ai-czar-has-already-resigned"
+    "slug": "music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated"
   },
   {
-    "title": "(No AI) Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "pubDate": "2026-07-20T22:19:12.000Z",
-    "author": "Emma Roth",
-    "content": "![A fractured image of a person speaking into a microphone.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of [more than 30,000](https://www.documentcloud.org/documents/28500966-sony-v-udio-songs/) of its songs, ranging from Elvis Presley's _Hound Dog_ to Beyoncé's _Say My Name_, and Harry Styles' _As It Was_. The [lawsuit, filed in a New York court](https://www.documentcloud.org/documents/28500970-sony-v-udio-july-2026/) on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as [reported earlier by _Music Business Worldwide_.](https://www.musicbusinessworldwide.com/sony-music-files-new-lawsuit-against-ai-platform-udio-asserting-over-30000-sound-recordings-a-judge-barred-it-from-adding-to-its-original-case/)\n\nIn 2024, Sony, along with Universal Music Group and Warner Records, [filed a lawsuit against Udio](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) and the AI music-maker Suno. After gaining access to Udio's training data through discovery, Sony cla …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)",
-    "contentSnippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as reported earlier by Music Business Worldwide.\nIn 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno. After gaining access to Udio's training data through discovery, Sony cla …\nRead the full story at The Verge.",
-    "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
-    "id": "https://www.theverge.com/?p=968375",
-    "isoDate": "2026-07-20T22:19:12.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "here-are-the-30-000-songs-sony-is-suing-udio-s-ai-music-generator-over"
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
+    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+    "contentSnippet": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+    "guid": "https://techcrunch.com/?p=3144417",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "Robotics",
+      "construction tech",
+      "Exclusive",
+      "Obvious Ventures"
+    ],
+    "isoDate": "2026-07-21T10:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else"
   },
   {
-    "title": "(No AI) SpaceX in your index fund, explained",
-    "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-    "pubDate": "2026-07-20T21:00:00.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![Elon Musk with zeros and money falling from the sky.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a [giant gamble](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk), and, in my opinion, [terribly overpriced](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai) - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based on the Nasdaq-100? [Can a $1.77 trillion IPO](https://www.nbcnews.com/business/business-news/spacex-ipo-trading-price-rcna349225) crater the retirement funds of regular people who would ordinarily have no interest in investing in Elon Musk's meme stock?\n\nThe answer has less to do with SpaceX and more to do with index funds - how they work, their history, and why they've …\n\n[Read the full story at The Verge.](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained)",
-    "contentSnippet": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based on the Nasdaq-100? Can a $1.77 trillion IPO crater the retirement funds of regular people who would ordinarily have no interest in investing in Elon Musk's meme stock?\nThe answer has less to do with SpaceX and more to do with index funds - how they work, their history, and why they've …\nRead the full story at The Verge.",
-    "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
-    "id": "https://www.theverge.com/?p=968257",
-    "isoDate": "2026-07-20T21:00:00.000Z",
+    "title": "(No AI) Halliday’s latest smart glasses feature a much-improved display",
+    "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+    "pubDate": "2026-07-21T13:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![The Halliday Gen 2 glasses sit on top of an open magazine with a cup of coffee visible in the corner.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday\n\nI first slipped on [Halliday's original smart glasses](https://www.theverge.com/2025/1/5/24334030/halliday-smart-glasses-ai-tiny-display-frame-availability-price-ces) at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [several other smart glasses on the show floor](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio). So I was skeptical when a few weeks ago, Halliday reached out to say its second attempt at smart glasses was _much_ better.\n\nWell, having tried the Halliday Gen 2, I'm happy to report these are better glasses. That secret display window is gone, replaced by more traditional but dis …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables)",
+    "contentSnippet": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday\t\n\nI first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the several other smart glasses on the show floor. So I was skeptical when a few weeks ago, Halliday reached out to say its second attempt at smart glasses was much better.\nWell, having tried the Halliday Gen 2, I'm happy to report these are better glasses. That secret display window is gone, replaced by more traditional but dis …\nRead the full story at The Verge.",
+    "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [&#8230;]",
+    "id": "https://www.theverge.com/?p=968255",
+    "isoDate": "2026-07-21T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "spacex-in-your-index-fund-explained"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "halliday-s-latest-smart-glasses-feature-a-much-improved-display"
+  },
+  {
+    "title": "(No AI) America needs to stop getting shocked by Chinese AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "pubDate": "2026-07-21T11:08:56.000Z",
+    "author": "Robert Hart",
+    "content": "![Kimi 3 launch](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPeople visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\n\nLast week, two Chinese AI companies [unveiled models](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. [Markets](https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792) [wobbled](https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets), commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls.\n\nIn one headline, _The Associated Press_ [said](https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5) a Chinese model had taken the \"US tech industry by surprise.\" _Bloomberg_ [described](https://www.youtube.com/shorts/C-V1VegvVBk) it as a \"surprise breakthrough\" that is \"[roiling markets](https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets)\" and sending global tech stocks tumbling over concerns it could force US firms to rethink their gargantuan spending on data centers, chips, and ot …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)",
+    "contentSnippet": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nLast week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. \nIn one headline, The Associated Press said a Chinese model had taken the \"US tech industry by surprise.\" Bloomberg described it as a \"surprise breakthrough\" that is \"roiling markets\" and sending global tech stocks tumbling over concerns it could force US firms to rethink their gargantuan spending on data centers, chips, and ot …\nRead the full story at The Verge.",
+    "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a [&#8230;]",
+    "id": "https://www.theverge.com/?p=968136",
+    "isoDate": "2026-07-21T11:08:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "america-needs-to-stop-getting-shocked-by-chinese-ai"
   },
   {
     "title": "(No AI) Safety and alignment in an era of long-horizon models",
@@ -114,37 +119,38 @@
     "slug": "empowering-india-s-next-generation-of-innovators-with-atl-saathi"
   },
   {
-    "creator": "Vittoria Elliott",
-    "title": "(No AI) The Army Is Burning Through Its AI Tokens",
-    "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
-    "pubDate": "Tue, 21 Jul 2026 09:30:00 +0000",
-    "dc:creator": "Vittoria Elliott",
-    "content": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
-    "contentSnippet": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
-    "guid": "6a593135c5dcf79b1ea647f8",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) Halliday’s New Smart Glasses Skip the Camera",
+    "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+    "pubDate": "Tue, 21 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+    "contentSnippet": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+    "guid": "6a5e3589066df547933c8d95",
     "categories": [
-      "Politics",
-      "Politics / Policy"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-07-21T09:30:00.000Z",
+    "isoDate": "2026-07-21T13:00:00.000Z",
     "source": "Wired AI",
-    "slug": "the-army-is-burning-through-its-ai-tokens"
+    "slug": "halliday-s-new-smart-glasses-skip-the-camera"
   },
   {
-    "creator": "Ej Dickson ",
-    "title": "(No AI) Etsy Is In Its Flop Era, and Sellers Are Fleeing",
-    "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
-    "pubDate": "Tue, 21 Jul 2026 09:00:00 +0000",
-    "dc:creator": "Ej Dickson ",
-    "content": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
-    "contentSnippet": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
-    "guid": "6a511ed6ba309b253cb3d453",
+    "creator": "Katie Drummond",
+    "title": "(No AI) ‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+    "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+    "pubDate": "Tue, 21 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+    "contentSnippet": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+    "guid": "6a59184877c50ea15f75ee45",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-07-21T09:00:00.000Z",
+    "isoDate": "2026-07-21T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "etsy-is-in-its-flop-era-and-sellers-are-fleeing"
+    "slug": "it-s-a-modern-day-draft-why-stanford-students-walked-out-on-sundar-pichai-s-commencement-speech"
   }
 ]
