@@ -1,5 +1,27 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "pubDate": "Wed, 22 Jul 2026 08:00:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+    "contentSnippet": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+    "guid": "https://techcrunch.com/?p=3145013",
+    "categories": [
+      "Startups",
+      "AI",
+      "Enterprise",
+      "Exclusive",
+      "Synthesia",
+      "AI avatar",
+      "roleplaying"
+    ],
+    "isoDate": "2026-07-22T08:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "synthesia-s-ai-training-platform-is-moving-beyond-videos-into-live-coaching"
+  },
+  {
     "creator": "Connie Loizos",
     "title": "(No AI) The Anthropic-Physical Intelligence rumor roiling AI Twitter",
     "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
@@ -20,21 +42,18 @@
     "slug": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Meta is testing an AI bedtime story app for people with no imagination",
-    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "pubDate": "Tue, 21 Jul 2026 23:55:10 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-    "contentSnippet": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-    "guid": "https://techcrunch.com/?p=3145004",
-    "categories": [
-      "AI",
-      "Meta"
-    ],
-    "isoDate": "2026-07-21T23:55:10.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination"
+    "title": "(No AI) Utility companies are promising to spare us from AI’s energy bill",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "pubDate": "2026-07-22T10:12:13.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Photo collage of a data center with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. [_The Wall Street Journal_](https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981) reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to safeguard consumers from footing the AI bill.\n\nTrump is expected to announce the new signatories on Thursday, which includes NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by _The WSJ_. An unnamed White House official told the publication that those who have comm …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)",
+    "contentSnippet": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\"  that's meant to safeguard consumers from footing the AI bill.\nTrump is expected to announce the new signatories on Thursday, which includes NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by The WSJ. An unnamed White House official told the publication that those who have comm …\nRead the full story at The Verge.",
+    "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+    "id": "https://www.theverge.com/?p=969137",
+    "isoDate": "2026-07-22T10:12:13.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "utility-companies-are-promising-to-spare-us-from-ai-s-energy-bill"
   },
   {
     "title": "(No AI) Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
@@ -49,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "neill-blomkamp-s-new-zombie-ai-film-is-just-slop-warmed-over"
-  },
-  {
-    "title": "(No AI) OpenAI says it accidentally hacked Hugging Face with a new AI system",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-    "pubDate": "2026-07-21T21:48:54.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI CEO Sam Altman. | Bloomberg via Getty Images\n\nOpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In [a blog post on Tuesday](https://openai.com/index/hugging-face-model-evaluation-security-incident/), OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face.\n\nOn July 16th, Hugging Face [disclosed a security incident](https://huggingface.co/blog/security-incident-july-2026) that it says was driven by \"an autonomous AI agent system.\" Hugging Face's AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models' cybersecurity capabilities. OpenAI says \"all e …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)",
-    "contentSnippet": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images\t\n\nOpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face.\nOn July 16th, Hugging Face disclosed a security incident that it says was driven by \"an autonomous AI agent system.\" Hugging Face's AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models' cybersecurity capabilities. OpenAI says \"all e …\nRead the full story at The Verge.",
-    "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
-    "id": "https://www.theverge.com/?p=968988",
-    "isoDate": "2026-07-21T21:48:54.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system"
   },
   {
     "title": "(No AI) Introducing the ChatGPT for small business program",
