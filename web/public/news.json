@@ -1,39 +1,47 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-    "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-    "contentSnippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-    "guid": "https://techcrunch.com/?p=3144980",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+    "contentSnippet": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+    "guid": "https://techcrunch.com/?p=3145517",
     "categories": [
-      "Startups",
       "AI",
-      "Arcee AI"
+      "Government & Policy",
+      "chinese ai",
+      "kimi",
+      "moonshot",
+      "open models",
+      "open source"
     ],
-    "isoDate": "2026-07-22T16:24:08.000Z",
+    "isoDate": "2026-07-22T20:49:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
+    "slug": "treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropic-s-fable"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "pubDate": "Wed, 22 Jul 2026 16:23:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-    "contentSnippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-    "guid": "https://techcrunch.com/?p=3145276",
+    "creator": "Lorenzo Franceschi-Bicchierai",
+    "title": "(No AI) How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "dc:creator": "Lorenzo Franceschi-Bicchierai",
+    "content": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "contentSnippet": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "guid": "https://techcrunch.com/?p=3145421",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Substack"
+      "Security",
+      "cyberattack",
+      "cybersecurity",
+      "data breach",
+      "Hugging Face",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-22T16:23:09.000Z",
+    "isoDate": "2026-07-22T19:11:46.000Z",
     "source": "TechCrunch AI",
-    "slug": "substack-s-new-tool-tells-you-who-s-been-writing-their-newsletters-with-ai"
+    "slug": "how-openai-s-human-mistake-led-to-the-ai-powered-hack-on-hugging-face"
   },
   {
     "title": "(No AI) Here’s what Samsung’s smart glasses actually look like",
@@ -78,18 +86,18 @@
     "slug": "building-ai-infrastructure-with-the-effingham-county-community"
   },
   {
-    "title": "(No AI) Advancing the next era of national science",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
-    "content": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "contentSnippet": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "guid": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "title": "(No AI) How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "contentSnippet": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "guid": "https://openai.com/index/how-news-organizations-are-using-ai",
     "categories": [
-      "Global Affairs"
+      "Company"
     ],
-    "isoDate": "2026-07-22T12:00:00.000Z",
+    "isoDate": "2026-07-22T13:00:00.000Z",
     "source": "OpenAI",
-    "slug": "advancing-the-next-era-of-national-science"
+    "slug": "how-news-organizations-are-using-ai-to-advance-their-vital-missions"
   },
   {
     "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -114,37 +122,39 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
-    "creator": "Lily Hay Newman, Dell Cameron",
-    "title": "(No AI) OpenAI Models Escaped Containment and Hacked Hugging Face",
-    "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-    "pubDate": "Tue, 21 Jul 2026 22:50:01 +0000",
-    "dc:creator": "Lily Hay Newman, Dell Cameron",
-    "content": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-    "contentSnippet": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-    "guid": "6a5fe022f95e7d91469f8f38",
+    "creator": "Hugo Lowell",
+    "title": "(No AI) The White House Is Trying to Figure Out What to Do About Chinese AI",
+    "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+    "pubDate": "Wed, 22 Jul 2026 21:00:00 +0000",
+    "dc:creator": "Hugo Lowell",
+    "content": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+    "contentSnippet": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+    "guid": "6a5f810cc9ff99b16219be4a",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Politics",
+      "Politics / Politics News"
     ],
-    "isoDate": "2026-07-21T22:50:01.000Z",
+    "isoDate": "2026-07-22T21:00:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-models-escaped-containment-and-hacked-hugging-face"
+    "slug": "the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-    "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-    "pubDate": "Tue, 21 Jul 2026 19:05:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-    "contentSnippet": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-    "guid": "6a5652f8673dbd0c790cfa7b",
+    "creator": "Zeyi Yang",
+    "title": "(No AI) China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+    "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+    "pubDate": "Wed, 22 Jul 2026 19:01:38 +0000",
+    "dc:creator": "Zeyi Yang",
+    "content": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+    "contentSnippet": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+    "guid": "6a5fbd11262e397baf375f67",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Artificial Intelligence",
+      "Politics",
+      "Politics / Policy"
     ],
-    "isoDate": "2026-07-21T19:05:00.000Z",
+    "isoDate": "2026-07-22T19:01:38.000Z",
     "source": "Wired AI",
-    "slug": "this-former-intel-ceo-wants-to-jumpstart-moore-s-law-with-light"
+    "slug": "china-s-open-ai-models-are-challenging-silicon-valley-s-playbook"
   }
 ]
