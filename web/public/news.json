@@ -1,72 +1,67 @@
 [
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "pubDate": "Wed, 22 Jul 2026 13:20:35 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "contentSnippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "guid": "https://techcrunch.com/?p=3026701",
+    "creator": "Julie Bort",
+    "title": "(No AI) Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "contentSnippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "guid": "https://techcrunch.com/?p=3144980",
     "categories": [
       "Startups",
       "AI",
-      "Apps",
-      "Browser",
-      "evergreens",
-      "search engines",
-      "web browser"
+      "Arcee AI"
     ],
-    "isoDate": "2026-07-22T13:20:35.000Z",
+    "isoDate": "2026-07-22T16:24:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-browser-wars-aren-t-about-search-anymore-here-are-the-best-alternatives-to-chrome-and-safari"
+    "slug": "arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-    "contentSnippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-    "guid": "https://techcrunch.com/?p=3144582",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "pubDate": "Wed, 22 Jul 2026 16:23:09 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "contentSnippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "guid": "https://techcrunch.com/?p=3145276",
     "categories": [
       "AI",
-      "Fundraising",
-      "creator economy",
-      "Insight Venture Partners"
+      "Media & Entertainment",
+      "Substack"
     ],
-    "isoDate": "2026-07-22T13:00:00.000Z",
+    "isoDate": "2026-07-22T16:23:09.000Z",
     "source": "TechCrunch AI",
-    "slug": "passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us"
+    "slug": "substack-s-new-tool-tells-you-who-s-been-writing-their-newsletters-with-ai"
   },
   {
-    "title": "(No AI) Meta made its own AI detection system. It should have just used Google’s",
-    "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-    "pubDate": "2026-07-22T11:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A screenshot of Meta’s Content Seal detector tool on a blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nContent Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\n\nIIn March, Meta's [Oversight Board called on the company](https://www.oversightboard.com/news/board-calls-for-new-rules-on-deceptive-ai-during-conflicts/) to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing [Content Seal](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) - an invisible watermarking technology that flags images generated by the company's new AI model. But it was basically a footnote buried in the company's announcement for its Muse image and video generation tools.\n\nAs someone who spends a lot of time scrutinizing AI labeling systems, Content Seal doesn't fill me with confidence. There are already more established solutions, like [C2PA Content Credentials …](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid)",
-    "contentSnippet": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\t\n\nIIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But it was basically a footnote buried in the company's announcement for its Muse image and video generation tools.\nAs someone who spends a lot of time scrutinizing AI labeling systems, Content Seal doesn't fill me with confidence. There are already more established solutions, like C2PA Content Credentials …\nRead the full story at The Verge.",
-    "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
-    "id": "https://www.theverge.com/?p=968680",
-    "isoDate": "2026-07-22T11:00:00.000Z",
+    "title": "(No AI) Here’s what Samsung’s smart glasses actually look like",
+    "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+    "pubDate": "2026-07-22T16:35:34.000Z",
+    "author": "Dominic Preston",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\n\nSamsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall.\n\nGoogle and Samsung have been teasing the new glasses for some time, and revealed the first two designs at I/O in May. [Now there are two more frames](https://news.samsung.com/global/samsung-brings-galaxy-ecosystem-into-everyday-eyewear): Both are unsurprisingly boxy, with a new set of squared off black glasses from Gentle Monster, and a more rounded, red-brown pair from Warby Parker. Jaein Choi, the e …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)",
+    "contentSnippet": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\t\n\nSamsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall.\nGoogle and Samsung have been teasing the new glasses for some time, and revealed the first two designs at I/O in May. Now there are two more frames: Both are unsurprisingly boxy, with a new set of squared off black glasses from Gentle Monster, and a more rounded, red-brown pair from Warby Parker. Jaein Choi, the e …\nRead the full story at The Verge.",
+    "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. [&#8230;]",
+    "id": "https://www.theverge.com/?p=969382",
+    "isoDate": "2026-07-22T16:35:34.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-made-its-own-ai-detection-system-it-should-have-just-used-google-s"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-s-what-samsung-s-smart-glasses-actually-look-like"
   },
   {
-    "title": "(No AI) Utility companies promise to spare us from AI’s energy bill",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-    "pubDate": "2026-07-22T10:12:13.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Photo collage of a data center with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. [_The Wall Street Journal_](https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981) reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to safeguard average citizens from footing the AI bill.\n\nTrump is expected to announce the new signatories on Thursday, which include NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by _The WSJ_. An unnamed White House official told the publication that those who hav …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)",
-    "contentSnippet": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\"  that's meant to safeguard average citizens from footing the AI bill.\nTrump is expected to announce the new signatories on Thursday, which include NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by The WSJ. An unnamed White House official told the publication that those who hav …\nRead the full story at The Verge.",
-    "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
-    "id": "https://www.theverge.com/?p=969137",
-    "isoDate": "2026-07-22T10:12:13.000Z",
+    "title": "(No AI) AMD commits up to $5 billion to  Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "pubDate": "2026-07-22T14:44:27.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100)\n\nAMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to [an announcement on Wednesday](https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus). As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported [earlier by _The Wall Street Journal_](https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45).\n\nThe companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached [with SpaceX](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus) and [TeraWulf](https://www.theverge.com/ai-artificial-intelligence/961722/anthropic-signs-20-year-lease-agreement-for-an-ai-data-center-in-kentucky). Anthropic has also signed AI infrastructure deals [with Google, Broadcom](https://www.theverge.com/ai-artificial-intelligence/907810/anthropic-has-signed-a-big-ai-infrastructure-deal-with-google-and-broadcom), and [Amazon](https://www.anthropic.com/news/anthropic-amazon-compute), with [rumors suggesting](https://www.theverge.com/tech/967281/meta-reportedly-considers-leasing-computing-power-to-anthropic) that it coul …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)",
+    "contentSnippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal.\nThe companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom, and Amazon, with rumors suggesting that it coul …\nRead the full story at The Verge.",
+    "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported [&#8230;]",
+    "id": "https://www.theverge.com/?p=969285",
+    "isoDate": "2026-07-22T14:44:27.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "utility-companies-promise-to-spare-us-from-ai-s-energy-bill"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amd-commits-up-to-5-billion-to-anthropic"
   },
   {
     "title": "(No AI) Building AI infrastructure with the Effingham County community",
@@ -83,18 +78,18 @@
     "slug": "building-ai-infrastructure-with-the-effingham-county-community"
   },
   {
-    "title": "(No AI) Introducing OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-    "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "contentSnippet": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "guid": "https://openai.com/index/introducing-openai-presence",
+    "title": "(No AI) Advancing the next era of national science",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "content": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "contentSnippet": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "guid": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "categories": [
-      "Product"
+      "Global Affairs"
     ],
-    "isoDate": "2026-07-22T05:30:00.000Z",
+    "isoDate": "2026-07-22T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-openai-presence"
+    "slug": "advancing-the-next-era-of-national-science"
   },
   {
     "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
