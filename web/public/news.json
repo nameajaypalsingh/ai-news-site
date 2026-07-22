@@ -1,101 +1,111 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "pubDate": "Wed, 22 Jul 2026 08:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-    "contentSnippet": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-    "guid": "https://techcrunch.com/?p=3145013",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "pubDate": "Wed, 22 Jul 2026 13:20:35 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "contentSnippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "guid": "https://techcrunch.com/?p=3026701",
     "categories": [
       "Startups",
       "AI",
-      "Enterprise",
-      "Exclusive",
-      "Synthesia",
-      "AI avatar",
-      "roleplaying"
+      "Apps",
+      "Browser",
+      "evergreens",
+      "search engines",
+      "web browser"
     ],
-    "isoDate": "2026-07-22T08:00:00.000Z",
+    "isoDate": "2026-07-22T13:20:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "synthesia-s-ai-training-platform-is-moving-beyond-videos-into-live-coaching"
+    "slug": "the-browser-wars-aren-t-about-search-anymore-here-are-the-best-alternatives-to-chrome-and-safari"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "pubDate": "Wed, 22 Jul 2026 03:20:57 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-    "contentSnippet": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-    "guid": "https://techcrunch.com/?p=3145006",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "contentSnippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "guid": "https://techcrunch.com/?p=3144582",
     "categories": [
       "AI",
-      "TC",
-      "Anthropic",
-      "OpenAI",
-      "Physical Intelligence"
+      "Fundraising",
+      "creator economy",
+      "Insight Venture Partners"
     ],
-    "isoDate": "2026-07-22T03:20:57.000Z",
+    "isoDate": "2026-07-22T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter"
+    "slug": "passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us"
   },
   {
-    "title": "(No AI) Utility companies are promising to spare us from AI’s energy bill",
+    "title": "(No AI) Meta made its own AI detection system. It should have just used Google’s",
+    "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "pubDate": "2026-07-22T11:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A screenshot of Meta’s Content Seal detector tool on a blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nContent Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\n\nIIn March, Meta's [Oversight Board called on the company](https://www.oversightboard.com/news/board-calls-for-new-rules-on-deceptive-ai-during-conflicts/) to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing [Content Seal](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) - an invisible watermarking technology that flags images generated by the company's new AI model. But it was basically a footnote buried in the company's announcement for its Muse image and video generation tools.\n\nAs someone who spends a lot of time scrutinizing AI labeling systems, Content Seal doesn't fill me with confidence. There are already more established solutions, like [C2PA Content Credentials …](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid)",
+    "contentSnippet": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\t\n\nIIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But it was basically a footnote buried in the company's announcement for its Muse image and video generation tools.\nAs someone who spends a lot of time scrutinizing AI labeling systems, Content Seal doesn't fill me with confidence. There are already more established solutions, like C2PA Content Credentials …\nRead the full story at The Verge.",
+    "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+    "id": "https://www.theverge.com/?p=968680",
+    "isoDate": "2026-07-22T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-made-its-own-ai-detection-system-it-should-have-just-used-google-s"
+  },
+  {
+    "title": "(No AI) Utility companies promise to spare us from AI’s energy bill",
     "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
     "pubDate": "2026-07-22T10:12:13.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Photo collage of a data center with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. [_The Wall Street Journal_](https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981) reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to safeguard consumers from footing the AI bill.\n\nTrump is expected to announce the new signatories on Thursday, which includes NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by _The WSJ_. An unnamed White House official told the publication that those who have comm …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)",
-    "contentSnippet": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\"  that's meant to safeguard consumers from footing the AI bill.\nTrump is expected to announce the new signatories on Thursday, which includes NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by The WSJ. An unnamed White House official told the publication that those who have comm …\nRead the full story at The Verge.",
+    "content": "![Photo collage of a data center with data visualizations.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. [_The Wall Street Journal_](https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981) reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to safeguard average citizens from footing the AI bill.\n\nTrump is expected to announce the new signatories on Thursday, which include NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by _The WSJ_. An unnamed White House official told the publication that those who hav …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)",
+    "contentSnippet": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\"  that's meant to safeguard average citizens from footing the AI bill.\nTrump is expected to announce the new signatories on Thursday, which include NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by The WSJ. An unnamed White House official told the publication that those who hav …\nRead the full story at The Verge.",
     "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
     "id": "https://www.theverge.com/?p=969137",
     "isoDate": "2026-07-22T10:12:13.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "utility-companies-are-promising-to-spare-us-from-ai-s-energy-bill"
+    "slug": "utility-companies-promise-to-spare-us-from-ai-s-energy-bill"
   },
   {
-    "title": "(No AI) Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-    "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-    "pubDate": "2026-07-21T22:06:43.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nOn Monday, _District 9_ and [_Gran Turismo_](https://www.theverge.com/23707049/sony-gran-turismo-movie-trailer) director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled _Nightborne_ that's loosely based on Peter Watts' 2014 novel _Echopraxia_. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of _Nightborne_'s shots was made with ByteDance's [Seedance 2.0 text-to-video generator](https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch).\n\nIn [an X post about the short](https://x.com/NeillBlomkamp/status/2079078300660769193), Blomkamp described it as a \"test start\" meant to demonstrate what generative AI is capable of, and he said that he wants \"to tackle a full feature in th …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance)",
-    "contentSnippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of Nightborne's shots was made with ByteDance's Seedance 2.0 text-to-video generator.\nIn an X post about the short, Blomkamp described it as a \"test start\" meant to demonstrate what generative AI is capable of, and he said that he wants \"to tackle a full feature in th …\nRead the full story at The Verge.",
-    "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
-    "id": "https://www.theverge.com/?p=968703",
-    "isoDate": "2026-07-21T22:06:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "neill-blomkamp-s-new-zombie-ai-film-is-just-slop-warmed-over"
-  },
-  {
-    "title": "(No AI) Introducing the ChatGPT for small business program",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
-    "content": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "contentSnippet": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "guid": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "title": "(No AI) Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "content": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "contentSnippet": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "guid": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "categories": [
-      "AI Adoption"
+      "Global Affairs"
     ],
-    "isoDate": "2026-07-21T17:00:00.000Z",
+    "isoDate": "2026-07-22T13:00:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-the-chatgpt-for-small-business-program"
+    "slug": "building-ai-infrastructure-with-the-effingham-county-community"
   },
   {
-    "title": "(No AI) OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "content": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "contentSnippet": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "guid": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "title": "(No AI) Introducing OpenAI Presence",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "contentSnippet": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "guid": "https://openai.com/index/introducing-openai-presence",
     "categories": [
-      "Security"
+      "Product"
     ],
-    "isoDate": "2026-07-21T07:00:00.000Z",
+    "isoDate": "2026-07-22T05:30:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-and-hugging-face-partner-to-address-security-incident-during-model-evaluation"
+    "slug": "introducing-openai-presence"
+  },
+  {
+    "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "contentSnippet": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "guid": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "isoDate": "2026-07-22T13:38:54.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-frontiers-of-scientific-discovery-google-s-40m-commitment-to-the-genesis-mission"
   },
   {
     "title": "(No AI) Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -107,17 +117,6 @@
     "isoDate": "2026-07-21T15:16:30.000Z",
     "source": "Google DeepMind",
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
-  },
-  {
-    "title": "(No AI) Introducing Gemini 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "pubDate": "Fri, 17 Jul 2026 15:00:11 +0000",
-    "content": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-    "contentSnippet": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-    "guid": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "isoDate": "2026-07-17T15:00:11.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-5-flash-cyber"
   },
   {
     "creator": "Lily Hay Newman, Dell Cameron",
