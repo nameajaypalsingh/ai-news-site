@@ -1,69 +1,89 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "pubDate": "Thu, 23 Jul 2026 11:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-    "contentSnippet": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-    "guid": "https://techcrunch.com/?p=3145469",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Runway launches AI model router as generative media gets crowded",
+    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside \\[…\\]",
+    "contentSnippet": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside […]",
+    "guid": "https://techcrunch.com/?p=3145764",
     "categories": [
       "AI",
-      "Anthropic",
-      "fable",
-      "kimi"
+      "Media & Entertainment",
+      "AI audio",
+      "AI image",
+      "ai video",
+      "Exclusive",
+      "Router",
+      "runway"
     ],
-    "isoDate": "2026-07-23T11:00:00.000Z",
+    "isoDate": "2026-07-23T17:07:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "experts-say-exploiting-anthropic-s-fable-isn-t-how-kimi-k3-got-so-good"
+    "slug": "runway-launches-ai-model-router-as-generative-media-gets-crowded"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-    "contentSnippet": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-    "guid": "https://techcrunch.com/?p=3145578",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI makes ChatGPT Health available to all U.S. users",
+    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "contentSnippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "guid": "https://techcrunch.com/?p=3145731",
     "categories": [
       "AI",
-      "Enterprise",
-      "Startups",
-      "ServiceNow"
+      "Apps",
+      "TC",
+      "ChatGPT",
+      "chatgpt health",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-23T06:09:13.000Z",
+    "isoDate": "2026-07-23T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "servicenow-bets-40-million-on-indian-banking-software-specialist-to-expand-its-financial-services-push"
+    "slug": "openai-makes-chatgpt-health-available-to-all-u-s-users"
   },
   {
-    "title": "(No AI) The right-wing boomers protesting data centers have a lot in common with the left",
-    "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-    "pubDate": "2026-07-23T12:00:00.000Z",
-    "author": "Gaby Del Valle",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images\n\nOn a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June - but the organizers weren't satisfied. A temporary pause wouldn't be enough. They wanted a ban.\n\n\"We are going to fight, fight, fight,\" said a 71-year-old woman named Carol, who was manning a table with flyers and a petition the group, No Data Centers Hernando County, planned on presenting to the loc …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)",
-    "contentSnippet": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images\t\n\nOn a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June - but the organizers weren't satisfied. A temporary pause wouldn't be enough. They wanted a ban.\n\"We are going to fight, fight, fight,\" said a 71-year-old woman named Carol, who was manning a table with flyers and a petition the group, No Data Centers Hernando County, planned on presenting to the loc …\nRead the full story at The Verge.",
-    "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June [&#8230;]",
-    "id": "https://www.theverge.com/?p=969667",
-    "isoDate": "2026-07-23T12:00:00.000Z",
+    "title": "(No AI) OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "pubDate": "2026-07-23T17:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is [rolling out ChatGPT Health](https://openai.com/index/health-in-chatgpt/) to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\"\n\nWhen asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there have been individual studies that have been poi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)",
+    "contentSnippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\"\nWhen asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there have been individual studies that have been poi …\nRead the full story at The Verge.",
+    "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=970115",
+    "isoDate": "2026-07-23T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-right-wing-boomers-protesting-data-centers-have-a-lot-in-common-with-the-left"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-is-making-big-claims-as-it-rolls-out-chatgpt-health-to-everyone"
   },
   {
-    "title": "(No AI) Here’s what Samsung’s smart glasses actually look like",
-    "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-    "pubDate": "2026-07-22T16:35:34.000Z",
-    "author": "Dominic Preston",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\n\nSamsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall.\n\nGoogle and Samsung have been teasing the new glasses for some time, and revealed the first two designs at I/O in May. [Now there are two more frames](https://news.samsung.com/global/samsung-brings-galaxy-ecosystem-into-everyday-eyewear): Both are unsurprisingly boxy, with a new set of squared off black glasses from Gentle Monster, and a more rounded, red-brown pair from Warby Parker. Jaein Choi, the e …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker)",
-    "contentSnippet": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\t\n\nSamsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall.\nGoogle and Samsung have been teasing the new glasses for some time, and revealed the first two designs at I/O in May. Now there are two more frames: Both are unsurprisingly boxy, with a new set of squared off black glasses from Gentle Monster, and a more rounded, red-brown pair from Warby Parker. Jaein Choi, the e …\nRead the full story at The Verge.",
-    "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. [&#8230;]",
-    "id": "https://www.theverge.com/?p=969382",
-    "isoDate": "2026-07-22T16:35:34.000Z",
+    "title": "(No AI) Lawmakers prepare bill requiring AI ‘kill switch’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "pubDate": "2026-07-23T14:13:35.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, [according to a report from _Politico_](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898). Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\n\nThe news of the proposed bill follows [OpenAI's admission that its AI systems mistakenly hacked](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal)",
+    "contentSnippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\nThe news of the proposed bill follows OpenAI's admission that its AI systems mistakenly hacked Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\nRead the full story at The Verge.",
+    "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+    "id": "https://www.theverge.com/?p=969939",
+    "isoDate": "2026-07-23T14:13:35.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "here-s-what-samsung-s-smart-glasses-actually-look-like"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "lawmakers-prepare-bill-requiring-ai-kill-switch"
+  },
+  {
+    "title": "(No AI) Launching Health in ChatGPT ",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "contentSnippet": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "guid": "https://openai.com/index/health-in-chatgpt",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-07-23T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "launching-health-in-chatgpt"
   },
   {
     "title": "(No AI) Building AI infrastructure with the Effingham County community",
@@ -78,20 +98,6 @@
     "isoDate": "2026-07-22T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "building-ai-infrastructure-with-the-effingham-county-community"
-  },
-  {
-    "title": "(No AI) How news organizations are using AI to advance their vital missions",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "contentSnippet": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "guid": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-07-22T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-news-organizations-are-using-ai-to-advance-their-vital-missions"
   },
   {
     "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
