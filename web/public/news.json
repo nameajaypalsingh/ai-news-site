@@ -1,47 +1,41 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
-    "contentSnippet": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
-    "guid": "https://techcrunch.com/?p=3145517",
+    "creator": "Julie Bort",
+    "title": "(No AI) After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "contentSnippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "guid": "https://techcrunch.com/?p=3145616",
     "categories": [
       "AI",
-      "Government & Policy",
-      "chinese ai",
-      "kimi",
-      "moonshot",
-      "open models",
-      "open source"
+      "Enterprise",
+      "Hardware",
+      "IBM"
     ],
-    "isoDate": "2026-07-22T20:49:03.000Z",
+    "isoDate": "2026-07-22T23:47:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropic-s-fable"
+    "slug": "after-shocking-quarter-ibm-insists-that-ai-isn-t-killing-the-mainframe"
   },
   {
-    "creator": "Lorenzo Franceschi-Bicchierai",
-    "title": "(No AI) How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
-    "dc:creator": "Lorenzo Franceschi-Bicchierai",
-    "content": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-    "contentSnippet": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-    "guid": "https://techcrunch.com/?p=3145421",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "contentSnippet": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "guid": "https://techcrunch.com/?p=3145503",
     "categories": [
       "AI",
-      "Security",
-      "cyberattack",
-      "cybersecurity",
-      "data breach",
-      "Hugging Face",
-      "OpenAI"
+      "Alphabet",
+      "Google",
+      "google cloud"
     ],
-    "isoDate": "2026-07-22T19:11:46.000Z",
+    "isoDate": "2026-07-22T22:01:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-openai-s-human-mistake-led-to-the-ai-powered-hack-on-hugging-face"
+    "slug": "google-justifies-its-massive-ai-spending-with-a-booming-cloud-business"
   },
   {
     "title": "(No AI) Here’s what Samsung’s smart glasses actually look like",
