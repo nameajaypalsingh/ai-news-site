@@ -1,75 +1,69 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside \\[…\\]",
-    "contentSnippet": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside […]",
-    "guid": "https://techcrunch.com/?p=3145764",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) AMD takes on Nvidia with its Helios AI rack scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "contentSnippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "guid": "https://techcrunch.com/?p=3145851",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "AI audio",
-      "AI image",
-      "ai video",
-      "Exclusive",
-      "Router",
-      "runway"
+      "amd",
+      "Anthropic",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-23T17:07:35.000Z",
+    "isoDate": "2026-07-23T20:33:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "runway-launches-ai-model-router-as-generative-media-gets-crowded"
+    "slug": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
   },
   {
     "creator": "Ivan Mehta",
-    "title": "(No AI) OpenAI makes ChatGPT Health available to all U.S. users",
-    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+    "title": "(No AI) Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
     "dc:creator": "Ivan Mehta",
-    "content": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "contentSnippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "guid": "https://techcrunch.com/?p=3145731",
+    "content": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "contentSnippet": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "guid": "https://techcrunch.com/?p=3145822",
     "categories": [
       "AI",
       "Apps",
-      "TC",
-      "ChatGPT",
-      "chatgpt health",
-      "OpenAI"
+      "Anthropic",
+      "Claude"
     ],
-    "isoDate": "2026-07-23T17:00:00.000Z",
+    "isoDate": "2026-07-23T19:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-makes-chatgpt-health-available-to-all-u-s-users"
+    "slug": "anthropic-updates-claude-voice-mode-with-more-capable-models"
   },
   {
-    "title": "(No AI) OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-    "pubDate": "2026-07-23T17:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is [rolling out ChatGPT Health](https://openai.com/index/health-in-chatgpt/) to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\"\n\nWhen asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there have been individual studies that have been poi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)",
-    "contentSnippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\"\nWhen asked for more information about how the performance of OpenAI's models stacks up against human clinicians, OpenAI health lead Karan Singhal says that he would \"temper\" the claim that they are reasoning at better levels, but that \"there have been individual studies that have been poi …\nRead the full story at The Verge.",
-    "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=970115",
-    "isoDate": "2026-07-23T17:00:00.000Z",
+    "title": "(No AI) Claude’s voice mode is now available for Opus and Sonnet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "pubDate": "2026-07-23T19:00:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Claude voice mode running on a phone.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100)\n\nUntil now, voice mode has only been available on Claude [Haiku](https://www.theverge.com/news/800007/anthropic-small-model-haiku-4-5), Anthropic's faster but less powerful model. Now the company is making its [Opus](https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity) and [Sonnet](https://www.theverge.com/ai-artificial-intelligence/959686/anthropics-claude-sonnet-5-is-here) models available in [voice mode](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report), and extending its reach into apps like Gmail, Slack, and Canva.\n\nWhen Anthropic [launched voice mode](https://www.theverge.com/news/675330/anthropics-voice-mode-for-claude-launches-in-beta) last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)",
+    "contentSnippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\nRead the full story at The Verge.",
+    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
+    "id": "https://www.theverge.com/?p=970065",
+    "isoDate": "2026-07-23T19:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-is-making-big-claims-as-it-rolls-out-chatgpt-health-to-everyone"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet"
   },
   {
-    "title": "(No AI) Lawmakers prepare bill requiring AI ‘kill switch’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-    "pubDate": "2026-07-23T14:13:35.000Z",
+    "title": "(No AI) Patreon is laying off 20 percent of workers",
+    "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "pubDate": "2026-07-23T18:20:30.000Z",
     "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, [according to a report from _Politico_](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898). Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\n\nThe news of the proposed bill follows [OpenAI's admission that its AI systems mistakenly hacked](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal)",
-    "contentSnippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday.\nThe news of the proposed bill follows OpenAI's admission that its AI systems mistakenly hacked Hugging Face during an internal evaluation. The bill says that, after consultation with the Secretary of Commerce and the Director of National Intelligence (DNI), the DHS would have the ability to order AI companies to shut down …\nRead the full story at The Verge.",
-    "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
-    "id": "https://www.theverge.com/?p=969939",
-    "isoDate": "2026-07-23T14:13:35.000Z",
+    "content": "![An illustration of the Patreon logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPatreon is laying off 20 percent of its workers, or around 93 employees, as [reported earlier by _404 Media_](https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/). In a memo to employees, Patreon CEO Jack Conte [writes that the company](https://www.patreon.com/jackconte/posts/painful-update-164628951) isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\n\nThat shift has changed \"how we operate and organize,\" Conte writes.\n\nDuring [an interview on _Decoder_, last month](https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte), Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\n\n> If Patreon doe …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/970211/patreon-layoffs-ai)",
+    "contentSnippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\nThat shift has changed \"how we operate and organize,\" Conte writes.\nDuring an interview on Decoder, last month, Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\nIf Patreon doe …\n\nRead the full story at The Verge.",
+    "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+    "id": "https://www.theverge.com/?p=970211",
+    "isoDate": "2026-07-23T18:20:30.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "lawmakers-prepare-bill-requiring-ai-kill-switch"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "patreon-is-laying-off-20-percent-of-workers"
   },
   {
     "title": "(No AI) Launching Health in ChatGPT ",
@@ -122,6 +116,23 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Caroline Haskins",
+    "title": "(No AI) Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+    "pubDate": "Thu, 23 Jul 2026 18:45:52 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+    "contentSnippet": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+    "guid": "6a62203dc1a48eb9551eaab6",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-07-23T18:45:52.000Z",
+    "source": "Wired AI",
+    "slug": "meta-s-new-feel-good-ai-ad-uses-a-song-about-the-world-ending"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
     "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
@@ -137,22 +148,5 @@
     "isoDate": "2026-07-23T09:15:00.000Z",
     "source": "Wired AI",
     "slug": "remember-jibo-its-successor-is-a-wearable-that-turns-your-life-into-ai-slop"
-  },
-  {
-    "creator": "Hugo Lowell",
-    "title": "(No AI) The White House Is Trying to Figure Out What to Do About Chinese AI",
-    "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-    "pubDate": "Wed, 22 Jul 2026 21:00:00 +0000",
-    "dc:creator": "Hugo Lowell",
-    "content": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-    "contentSnippet": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-    "guid": "6a5f810cc9ff99b16219be4a",
-    "categories": [
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-07-22T21:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai"
   }
 ]
