@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "pubDate": "Thu, 23 Jul 2026 11:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "contentSnippet": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "guid": "https://techcrunch.com/?p=3145469",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "fable",
+      "kimi"
+    ],
+    "isoDate": "2026-07-23T11:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "experts-say-exploiting-anthropic-s-fable-isn-t-how-kimi-k3-got-so-good"
+  },
+  {
     "creator": "Jagmeet Singh",
     "title": "(No AI) ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
     "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
@@ -19,23 +38,18 @@
     "slug": "servicenow-bets-40-million-on-indian-banking-software-specialist-to-expand-its-financial-services-push"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-    "contentSnippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-    "guid": "https://techcrunch.com/?p=3145616",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "IBM"
-    ],
-    "isoDate": "2026-07-22T23:47:54.000Z",
-    "source": "TechCrunch AI",
-    "slug": "after-shocking-quarter-ibm-insists-that-ai-isn-t-killing-the-mainframe"
+    "title": "(No AI) The right-wing boomers protesting data centers have a lot in common with the left",
+    "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+    "pubDate": "2026-07-23T12:00:00.000Z",
+    "author": "Gaby Del Valle",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images\n\nOn a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June - but the organizers weren't satisfied. A temporary pause wouldn't be enough. They wanted a ban.\n\n\"We are going to fight, fight, fight,\" said a 71-year-old woman named Carol, who was manning a table with flyers and a petition the group, No Data Centers Hernando County, planned on presenting to the loc …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)",
+    "contentSnippet": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images\t\n\nOn a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June - but the organizers weren't satisfied. A temporary pause wouldn't be enough. They wanted a ban.\n\"We are going to fight, fight, fight,\" said a 71-year-old woman named Carol, who was manning a table with flyers and a petition the group, No Data Centers Hernando County, planned on presenting to the loc …\nRead the full story at The Verge.",
+    "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June [&#8230;]",
+    "id": "https://www.theverge.com/?p=969667",
+    "isoDate": "2026-07-23T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-right-wing-boomers-protesting-data-centers-have-a-lot-in-common-with-the-left"
   },
   {
     "title": "(No AI) Here’s what Samsung’s smart glasses actually look like",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "here-s-what-samsung-s-smart-glasses-actually-look-like"
-  },
-  {
-    "title": "(No AI) AMD commits up to $5 billion to  Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-    "pubDate": "2026-07-22T14:44:27.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100)\n\nAMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to [an announcement on Wednesday](https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus). As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported [earlier by _The Wall Street Journal_](https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45).\n\nThe companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached [with SpaceX](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus) and [TeraWulf](https://www.theverge.com/ai-artificial-intelligence/961722/anthropic-signs-20-year-lease-agreement-for-an-ai-data-center-in-kentucky). Anthropic has also signed AI infrastructure deals [with Google, Broadcom](https://www.theverge.com/ai-artificial-intelligence/907810/anthropic-has-signed-a-big-ai-infrastructure-deal-with-google-and-broadcom), and [Amazon](https://www.anthropic.com/news/anthropic-amazon-compute), with [rumors suggesting](https://www.theverge.com/tech/967281/meta-reportedly-considers-leasing-computing-power-to-anthropic) that it coul …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)",
-    "contentSnippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal.\nThe companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom, and Amazon, with rumors suggesting that it coul …\nRead the full story at The Verge.",
-    "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported [&#8230;]",
-    "id": "https://www.theverge.com/?p=969285",
-    "isoDate": "2026-07-22T14:44:27.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amd-commits-up-to-5-billion-to-anthropic"
   },
   {
     "title": "(No AI) Building AI infrastructure with the Effingham County community",
