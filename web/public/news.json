@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "contentSnippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "guid": "https://techcrunch.com/?p=3146199",
+    "categories": [
+      "AI",
+      "ChatGPT",
+      "In Brief",
+      "OpenAI",
+      "voice mode"
+    ],
+    "isoDate": "2026-07-24T13:36:42.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app"
+  },
+  {
     "creator": "Lorenzo Franceschi-Bicchierai",
     "title": "(No AI) How AI guardrails are impeding the work of offensive cybersecurity researchers",
     "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
@@ -17,25 +37,6 @@
     "isoDate": "2026-07-24T01:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) AMD takes on Nvidia with its Helios AI rack-scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-    "contentSnippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-    "guid": "https://techcrunch.com/?p=3145851",
-    "categories": [
-      "AI",
-      "amd",
-      "Anthropic",
-      "OpenAI"
-    ],
-    "isoDate": "2026-07-23T20:33:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
   },
   {
     "title": "(No AI) Alexa Plus is getting an AI update to handle more complicated instructions",
