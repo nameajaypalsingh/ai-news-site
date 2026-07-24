@@ -1,12 +1,32 @@
 [
   {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+    "contentSnippet": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+    "guid": "https://techcrunch.com/?p=3146380",
+    "categories": [
+      "Apps",
+      "AI",
+      "TC",
+      "cognition",
+      "AI agents"
+    ],
+    "isoDate": "2026-07-24T18:07:32.000Z",
+    "source": "TechCrunch AI",
+    "slug": "why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) Anthropic launches Opus 5",
     "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
     "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-    "contentSnippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+    "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+    "contentSnippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
     "guid": "https://techcrunch.com/?p=3146446",
     "categories": [
       "AI",
@@ -18,26 +38,18 @@
     "slug": "anthropic-launches-opus-5"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-    "contentSnippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-    "guid": "https://techcrunch.com/?p=3146372",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Hugging Face",
-      "Microsoft",
-      "mistral",
-      "nvidia",
-      "OpenAI"
-    ],
-    "isoDate": "2026-07-24T15:51:49.000Z",
-    "source": "TechCrunch AI",
-    "slug": "as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions"
+    "title": "(No AI) Midjourney bought the astrology app Co-Star",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+    "pubDate": "2026-07-24T19:06:58.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMidjourney, which has gone from generating AI cat images to [full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan), is getting into a new field: astrology. The AI startup [announced on Thursday](https://updates.midjourney.com/midjourneys-first-acquisition/) that it has acquired the personalized astrology app Co-Star, as reported [earlier by _Bloomberg_](https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps).\n\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the [app's FAQ page](https://www.costarastrology.com/faq), it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\n\nMidjourney founder David Holz says Co-Star founder Banu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)",
+    "contentSnippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\nMidjourney founder David Holz says Co-Star founder Banu …\nRead the full story at The Verge.",
+    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your [&#8230;]",
+    "id": "https://www.theverge.com/?p=970894",
+    "isoDate": "2026-07-24T19:06:58.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "midjourney-bought-the-astrology-app-co-star"
   },
   {
     "title": "(No AI) You can’t ignore Google Zero anymore",
@@ -52,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "you-can-t-ignore-google-zero-anymore"
-  },
-  {
-    "title": "(No AI) Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "pubDate": "2026-07-24T17:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWeeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI [security incident](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5.\n\nThe company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was [taken offline](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) for a few weeks along with Mythos 5, and then [brought back](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) with even stronger cyber safeguards than before.)\n\nThe Fable 5 concerns - and the ensuing weeks of negotiations between …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)",
-    "contentSnippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. \nThe company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was taken offline for a few weeks along with Mythos 5, and then brought back with even stronger cyber safeguards than before.) \nThe Fable 5 concerns - and the ensuing weeks of negotiations between …\nRead the full story at The Verge.",
-    "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much [&#8230;]",
-    "id": "https://www.theverge.com/?p=970105",
-    "isoDate": "2026-07-24T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities"
   },
   {
     "title": "(No AI) Launching Health in ChatGPT ",
@@ -118,6 +116,24 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+    "pubDate": "Fri, 24 Jul 2026 17:53:01 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+    "contentSnippet": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+    "guid": "6a6123a2d448e9212755047d",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-07-24T17:53:01.000Z",
+    "source": "Wired AI",
+    "slug": "did-chinese-ai-steal-from-anthropic-and-openai-loses-control-of-two-models"
+  },
+  {
     "creator": "Lauren Goode",
     "title": "(No AI) Silicon Valley Is Completely Divided Over Chinese AI",
     "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
@@ -133,23 +149,5 @@
     "isoDate": "2026-07-24T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "silicon-valley-is-completely-divided-over-chinese-ai"
-  },
-  {
-    "creator": "Elana Klein",
-    "title": "(No AI) Some Kids Will Never Think AI Is Cool",
-    "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-    "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Elana Klein",
-    "content": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-    "contentSnippet": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-    "guid": "6a0f8dc53cc9755a1bff848d",
-    "categories": [
-      "The Big Story",
-      "Culture",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-24T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "some-kids-will-never-think-ai-is-cool"
   }
 ]
