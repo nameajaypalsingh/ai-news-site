@@ -1,7 +1,29 @@
 [
   {
+    "creator": "Lorenzo Franceschi-Bicchierai",
+    "title": "(No AI) How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+    "dc:creator": "Lorenzo Franceschi-Bicchierai",
+    "content": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "contentSnippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "guid": "https://techcrunch.com/?p=3145932",
+    "categories": [
+      "Security",
+      "AI",
+      "hackers",
+      "hacking",
+      "bugs",
+      "cybersecurity",
+      "Zero-days"
+    ],
+    "isoDate": "2026-07-24T01:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers"
+  },
+  {
     "creator": "Lucas Ropek",
-    "title": "(No AI) AMD takes on Nvidia with its Helios AI rack scale system",
+    "title": "(No AI) AMD takes on Nvidia with its Helios AI rack-scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
     "dc:creator": "Lucas Ropek",
@@ -19,23 +41,18 @@
     "slug": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-    "contentSnippet": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-    "guid": "https://techcrunch.com/?p=3145822",
-    "categories": [
-      "AI",
-      "Apps",
-      "Anthropic",
-      "Claude"
-    ],
-    "isoDate": "2026-07-23T19:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-updates-claude-voice-mode-with-more-capable-models"
+    "title": "(No AI) Alexa Plus is getting an AI update to handle more complicated instructions",
+    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "pubDate": "2026-07-23T21:15:06.000Z",
+    "author": "Emma Roth",
+    "content": "![Alexa Plus on an Echo Show 15](https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With [the update](https://developer.amazon.com/alexaplus/blogs/2026/07/alexa-plus-new-ways-to-build-experiences), which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\n\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)",
+    "contentSnippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered  …\nRead the full story at The Verge.",
+    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
+    "id": "https://www.theverge.com/?p=970399",
+    "isoDate": "2026-07-23T21:15:06.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions"
   },
   {
     "title": "(No AI) Claude’s voice mode is now available for Opus and Sonnet",
@@ -50,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet"
-  },
-  {
-    "title": "(No AI) Patreon is laying off 20 percent of workers",
-    "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-    "pubDate": "2026-07-23T18:20:30.000Z",
-    "author": "Emma Roth",
-    "content": "![An illustration of the Patreon logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPatreon is laying off 20 percent of its workers, or around 93 employees, as [reported earlier by _404 Media_](https://www.404media.co/patreon-lays-off-20-percent-of-its-workforce/). In a memo to employees, Patreon CEO Jack Conte [writes that the company](https://www.patreon.com/jackconte/posts/painful-update-164628951) isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\n\nThat shift has changed \"how we operate and organize,\" Conte writes.\n\nDuring [an interview on _Decoder_, last month](https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte), Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\n\n> If Patreon doe …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/970211/patreon-layoffs-ai)",
-    "contentSnippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\nThat shift has changed \"how we operate and organize,\" Conte writes.\nDuring an interview on Decoder, last month, Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\nIf Patreon doe …\n\nRead the full story at The Verge.",
-    "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
-    "id": "https://www.theverge.com/?p=970211",
-    "isoDate": "2026-07-23T18:20:30.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "patreon-is-laying-off-20-percent-of-workers"
   },
   {
     "title": "(No AI) Launching Health in ChatGPT ",
