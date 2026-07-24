@@ -1,70 +1,71 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-    "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-    "pubDate": "Fri, 24 Jul 2026 13:36:42 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-    "contentSnippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-    "guid": "https://techcrunch.com/?p=3146199",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+    "contentSnippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+    "guid": "https://techcrunch.com/?p=3146446",
     "categories": [
       "AI",
-      "ChatGPT",
-      "In Brief",
-      "OpenAI",
-      "voice mode"
+      "Anthropic",
+      "Opus"
     ],
-    "isoDate": "2026-07-24T13:36:42.000Z",
+    "isoDate": "2026-07-24T17:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app"
+    "slug": "anthropic-launches-opus-5"
   },
   {
-    "creator": "Lorenzo Franceschi-Bicchierai",
-    "title": "(No AI) How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
-    "dc:creator": "Lorenzo Franceschi-Bicchierai",
-    "content": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-    "contentSnippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-    "guid": "https://techcrunch.com/?p=3145932",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "contentSnippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "guid": "https://techcrunch.com/?p=3146372",
     "categories": [
       "AI",
-      "Security",
-      "cybersecurity",
-      "Zero-days"
+      "Government & Policy",
+      "Hugging Face",
+      "Microsoft",
+      "mistral",
+      "nvidia",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-24T01:00:00.000Z",
+    "isoDate": "2026-07-24T15:51:49.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers"
+    "slug": "as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions"
   },
   {
-    "title": "(No AI) Alexa Plus is getting an AI update to handle more complicated instructions",
-    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-    "pubDate": "2026-07-23T21:15:06.000Z",
-    "author": "Emma Roth",
-    "content": "![Alexa Plus on an Echo Show 15](https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With [the update](https://developer.amazon.com/alexaplus/blogs/2026/07/alexa-plus-new-ways-to-build-experiences), which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\n\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)",
-    "contentSnippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered  …\nRead the full story at The Verge.",
-    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
-    "id": "https://www.theverge.com/?p=970399",
-    "isoDate": "2026-07-23T21:15:06.000Z",
+    "title": "(No AI) You can’t ignore Google Zero anymore",
+    "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+    "pubDate": "2026-07-24T17:29:48.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe web and Google [once had a deal](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders): Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, [the deal seems to be dead](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.zVA.L7zf._L5VDoBJCS4f&smid=url-share). And the web is being forced to reckon with what happens when the Google traffic dries up.\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David and Nilay talk about the week's Google Zero news, including Reddit's interest in [getting out of an AI training deal](https://www.theverge.com/ai-artificial-intelligence/969104/reddit-might-cut-ties-with-google-as-traffic-drops), and the publishers considering blocking Google from crawling their sites altogether. (Nilay also takes a bit o …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)",
+    "contentSnippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up.\nOn this episode of The Vergecast, David and Nilay talk about the week's Google Zero news, including Reddit's interest in getting out of an AI training deal, and the publishers considering blocking Google from crawling their sites altogether. (Nilay also takes a bit o …\nRead the full story at The Verge.",
+    "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
+    "id": "https://www.theverge.com/?p=970735",
+    "isoDate": "2026-07-24T17:29:48.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "alexa-plus-is-getting-an-ai-update-to-handle-more-complicated-instructions"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-t-ignore-google-zero-anymore"
   },
   {
-    "title": "(No AI) Claude’s voice mode is now available for Opus and Sonnet",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-    "pubDate": "2026-07-23T19:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Claude voice mode running on a phone.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100)\n\nUntil now, voice mode has only been available on Claude [Haiku](https://www.theverge.com/news/800007/anthropic-small-model-haiku-4-5), Anthropic's faster but less powerful model. Now the company is making its [Opus](https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity) and [Sonnet](https://www.theverge.com/ai-artificial-intelligence/959686/anthropics-claude-sonnet-5-is-here) models available in [voice mode](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report), and extending its reach into apps like Gmail, Slack, and Canva.\n\nWhen Anthropic [launched voice mode](https://www.theverge.com/news/675330/anthropics-voice-mode-for-claude-launches-in-beta) last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)",
-    "contentSnippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\nRead the full story at The Verge.",
-    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
-    "id": "https://www.theverge.com/?p=970065",
-    "isoDate": "2026-07-23T19:00:00.000Z",
+    "title": "(No AI) Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+    "pubDate": "2026-07-24T17:00:00.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWeeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI [security incident](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5.\n\nThe company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was [taken offline](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls) for a few weeks along with Mythos 5, and then [brought back](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) with even stronger cyber safeguards than before.)\n\nThe Fable 5 concerns - and the ensuing weeks of negotiations between …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)",
+    "contentSnippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. \nThe company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much better at complex coding tasks. (Fable 5 is the public-facing Mythos-class model that drew the government's ire, was taken offline for a few weeks along with Mythos 5, and then brought back with even stronger cyber safeguards than before.) \nThe Fable 5 concerns - and the ensuing weeks of negotiations between …\nRead the full story at The Verge.",
+    "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much [&#8230;]",
+    "id": "https://www.theverge.com/?p=970105",
+    "isoDate": "2026-07-24T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities"
   },
   {
     "title": "(No AI) Launching Health in ChatGPT ",
@@ -117,6 +118,23 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) Silicon Valley Is Completely Divided Over Chinese AI",
+    "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+    "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+    "contentSnippet": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+    "guid": "6a6251203def5d848651352a",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-07-24T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "silicon-valley-is-completely-divided-over-chinese-ai"
+  },
+  {
     "creator": "Elana Klein",
     "title": "(No AI) Some Kids Will Never Think AI Is Cool",
     "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
@@ -133,22 +151,5 @@
     "isoDate": "2026-07-24T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "some-kids-will-never-think-ai-is-cool"
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-    "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-    "pubDate": "Thu, 23 Jul 2026 18:45:52 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-    "contentSnippet": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-    "guid": "6a62203dc1a48eb9551eaab6",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-07-23T18:45:52.000Z",
-    "source": "Wired AI",
-    "slug": "meta-s-new-feel-good-ai-ad-uses-a-song-about-the-world-ending"
   }
 ]
