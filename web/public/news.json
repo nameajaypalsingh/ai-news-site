@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Tim De Chant",
+    "title": "(No AI) One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "contentSnippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "guid": "https://techcrunch.com/?p=3146569",
+    "categories": [
+      "Climate",
+      "AI",
+      "data centers",
+      "electrical grid"
+    ],
+    "isoDate": "2026-07-25T13:05:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here-s-how-to-fix-it"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -18,26 +37,6 @@
     "isoDate": "2026-07-25T00:23:11.000Z",
     "source": "TechCrunch AI",
     "slug": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "contentSnippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "guid": "https://techcrunch.com/?p=3146619",
-    "categories": [
-      "AI",
-      "Startups",
-      "Exclusive",
-      "mark pincus",
-      "Reid Hoffman"
-    ],
-    "isoDate": "2026-07-24T22:25:58.000Z",
-    "source": "TechCrunch AI",
-    "slug": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m"
   },
   {
     "title": "(No AI) Midjourney bought the astrology app Co-Star",
@@ -118,6 +117,23 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Lily Hay Newman, Dhruv Mehrotra",
+    "title": "(No AI) The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+    "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "pubDate": "Sat, 25 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Dhruv Mehrotra",
+    "content": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+    "contentSnippet": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+    "guid": "6a63754aa56b8af2db51d6c7",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-07-25T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days"
+  },
+  {
     "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
     "title": "(No AI) China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
     "link": "https://www.wired.com/story/uncanny-valley-podcast/",
@@ -134,22 +150,5 @@
     "isoDate": "2026-07-24T17:53:01.000Z",
     "source": "Wired AI",
     "slug": "china-us-ai-race-escalates-openai-models-break-free-and-why-you-should-check-your-car-alarm"
-  },
-  {
-    "creator": "Lauren Goode",
-    "title": "(No AI) Silicon Valley Is Completely Divided Over Chinese AI",
-    "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-    "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-    "contentSnippet": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-    "guid": "6a6251203def5d848651352a",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-07-24T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "silicon-valley-is-completely-divided-over-chinese-ai"
   }
 ]
