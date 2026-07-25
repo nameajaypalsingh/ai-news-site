@@ -1,41 +1,43 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "contentSnippet": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "guid": "https://techcrunch.com/?p=3146380",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "contentSnippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "guid": "https://techcrunch.com/?p=3144285",
     "categories": [
-      "Apps",
       "AI",
-      "TC",
-      "cognition",
-      "AI agents"
+      "ChatGPT",
+      "codex",
+      "micro",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-24T18:07:32.000Z",
+    "isoDate": "2026-07-25T00:23:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
+    "slug": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightly-mystifying-to-everyone-else"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "contentSnippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "guid": "https://techcrunch.com/?p=3146446",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "contentSnippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "guid": "https://techcrunch.com/?p=3146619",
     "categories": [
       "AI",
-      "Anthropic",
-      "Opus"
+      "Startups",
+      "Exclusive",
+      "mark pincus",
+      "Reid Hoffman"
     ],
-    "isoDate": "2026-07-24T17:00:00.000Z",
+    "isoDate": "2026-07-24T22:25:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-launches-opus-5"
+    "slug": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m"
   },
   {
     "title": "(No AI) Midjourney bought the astrology app Co-Star",
@@ -117,7 +119,7 @@
   },
   {
     "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+    "title": "(No AI) China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
     "link": "https://www.wired.com/story/uncanny-valley-podcast/",
     "pubDate": "Fri, 24 Jul 2026 17:53:01 +0000",
     "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
@@ -131,7 +133,7 @@
     ],
     "isoDate": "2026-07-24T17:53:01.000Z",
     "source": "Wired AI",
-    "slug": "did-chinese-ai-steal-from-anthropic-and-openai-loses-control-of-two-models"
+    "slug": "china-us-ai-race-escalates-openai-models-break-free-and-why-you-should-check-your-car-alarm"
   },
   {
     "creator": "Lauren Goode",
