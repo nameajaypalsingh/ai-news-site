@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Rebecca Bellan, Connie Loizos",
+    "title": "(No AI) Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+    "dc:creator": "Rebecca Bellan, Connie Loizos",
+    "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "contentSnippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "guid": "https://techcrunch.com/?p=3132769",
+    "categories": [
+      "AI",
+      "TC",
+      "Layoffs"
+    ],
+    "isoDate": "2026-07-26T01:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
@@ -9,31 +27,12 @@
     "contentSnippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
     "guid": "https://techcrunch.com/?p=3146451",
     "categories": [
-      "TC",
-      "AI"
+      "AI",
+      "TC"
     ],
     "isoDate": "2026-07-25T16:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech"
-  },
-  {
-    "creator": "Tim De Chant",
-    "title": "(No AI) One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "contentSnippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "guid": "https://techcrunch.com/?p=3146569",
-    "categories": [
-      "Climate",
-      "AI",
-      "data centers",
-      "electrical grid"
-    ],
-    "isoDate": "2026-07-25T13:05:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here-s-how-to-fix-it"
   },
   {
     "title": "(No AI) Midjourney bought the astrology app Co-Star",
