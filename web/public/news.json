@@ -1,41 +1,43 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "contentSnippet": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "guid": "https://techcrunch.com/?p=3146990",
+    "creator": "Lorenzo Franceschi-Bicchierai",
+    "title": "(No AI) PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+    "dc:creator": "Lorenzo Franceschi-Bicchierai",
+    "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "contentSnippet": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "guid": "https://techcrunch.com/?p=3147064",
     "categories": [
       "AI",
-      "ai alignment",
-      "ai safety",
-      "Hugging Face",
-      "OpenAI"
+      "Privacy",
+      "Security",
+      "Anthropic",
+      "Claude",
+      "data exposure"
     ],
-    "isoDate": "2026-07-27T17:28:42.000Z",
+    "isoDate": "2026-07-27T20:19:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control"
+    "slug": "psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Threads users can now chat with Meta AI in their DMs",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-    "contentSnippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-    "guid": "https://techcrunch.com/?p=3146923",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "contentSnippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "guid": "https://techcrunch.com/?p=3146944",
     "categories": [
       "AI",
-      "Apps",
-      "Threads"
+      "Security",
+      "cybersecurity",
+      "Microsoft"
     ],
-    "isoDate": "2026-07-27T16:45:24.000Z",
+    "isoDate": "2026-07-27T18:32:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "threads-users-can-now-chat-with-meta-ai-in-their-dms"
+    "slug": "microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system"
   },
   {
     "title": "(No AI) Why China is giving away its best AI models",
@@ -116,6 +118,23 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Maddy Varner",
+    "title": "(No AI) Private Claude Chats Exposed in Google and Bing Search Results",
+    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "pubDate": "Mon, 27 Jul 2026 20:08:00 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "contentSnippet": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "guid": "6a676d295debd83680074f46",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-07-27T20:08:00.000Z",
+    "source": "Wired AI",
+    "slug": "private-claude-chats-exposed-in-google-and-bing-search-results"
+  },
+  {
     "creator": "Hugo Lowell",
     "title": "(No AI) This Is Donald Trump’s AI Brain Trust",
     "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
@@ -131,22 +150,5 @@
     "isoDate": "2026-07-27T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "this-is-donald-trump-s-ai-brain-trust"
-  },
-  {
-    "creator": "Lily Hay Newman, Dhruv Mehrotra",
-    "title": "(No AI) The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-    "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-    "pubDate": "Sat, 25 Jul 2026 10:30:00 +0000",
-    "dc:creator": "Lily Hay Newman, Dhruv Mehrotra",
-    "content": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-    "contentSnippet": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-    "guid": "6a63754aa56b8af2db51d6c7",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-07-25T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days"
   }
 ]
