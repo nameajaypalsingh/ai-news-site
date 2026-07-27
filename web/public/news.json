@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "contentSnippet": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "guid": "https://techcrunch.com/?p=3146811",
+    "categories": [
+      "Startups",
+      "AI",
+      "Robotics",
+      "Index Ventures",
+      "Exclusive",
+      "Ribbit Capital",
+      "UX/UI",
+      "Sarah Guo"
+    ],
+    "isoDate": "2026-07-27T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
@@ -18,24 +41,18 @@
     "slug": "are-brain-waves-the-next-unlock-for-physical-ai"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "contentSnippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-    "guid": "https://techcrunch.com/?p=3146794",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "kimi",
-      "moonshot ai",
-      "OpenAI"
-    ],
-    "isoDate": "2026-07-26T19:40:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "making-sense-of-the-panic-over-chinese-ai"
+    "title": "(No AI) Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "pubDate": "2026-07-27T12:06:22.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia on Monday [said](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools.\n\nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model [escaped containment and attacked](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\n\nFounding memb …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)",
+    "contentSnippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\nFounding memb …\nRead the full story at The Verge.",
+    "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
+    "id": "https://www.theverge.com/?p=971281",
+    "isoDate": "2026-07-27T12:06:22.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthropic"
   },
   {
     "title": "(No AI) Midjourney bought the astrology app Co-Star",
@@ -50,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "midjourney-bought-the-astrology-app-co-star"
-  },
-  {
-    "title": "(No AI) You can’t ignore Google Zero anymore",
-    "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-    "pubDate": "2026-07-24T17:29:48.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe web and Google [once had a deal](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders): Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, [the deal seems to be dead](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.zVA.L7zf._L5VDoBJCS4f&smid=url-share). And the web is being forced to reckon with what happens when the Google traffic dries up.\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David and Nilay talk about the week's Google Zero news, including Reddit's interest in [getting out of an AI training deal](https://www.theverge.com/ai-artificial-intelligence/969104/reddit-might-cut-ties-with-google-as-traffic-drops), and the publishers considering blocking Google from crawling their sites altogether. (Nilay also takes a bit o …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)",
-    "contentSnippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the web is being forced to reckon with what happens when the Google traffic dries up.\nOn this episode of The Vergecast, David and Nilay talk about the week's Google Zero news, including Reddit's interest in getting out of an AI training deal, and the publishers considering blocking Google from crawling their sites altogether. (Nilay also takes a bit o …\nRead the full story at The Verge.",
-    "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
-    "id": "https://www.theverge.com/?p=970735",
-    "isoDate": "2026-07-24T17:29:48.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "you-can-t-ignore-google-zero-anymore"
   },
   {
     "title": "(No AI) How AI is expanding what people do at work",
