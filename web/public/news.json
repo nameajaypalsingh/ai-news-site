@@ -1,44 +1,55 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "contentSnippet": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "guid": "https://techcrunch.com/?p=3146811",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "contentSnippet": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "guid": "https://techcrunch.com/?p=3146990",
     "categories": [
-      "Startups",
       "AI",
-      "Robotics",
-      "Index Ventures",
-      "Exclusive",
-      "Ribbit Capital",
-      "UX/UI",
-      "Sarah Guo"
+      "ai alignment",
+      "ai safety",
+      "Hugging Face",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-27T13:00:00.000Z",
+    "isoDate": "2026-07-27T17:28:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume"
+    "slug": "openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "contentSnippet": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "guid": "https://techcrunch.com/?p=3146429",
+    "creator": "Aisha Malik",
+    "title": "(No AI) Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
+    "dc:creator": "Aisha Malik",
+    "content": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "contentSnippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "guid": "https://techcrunch.com/?p=3146923",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive"
+      "Apps",
+      "Threads"
     ],
-    "isoDate": "2026-07-27T00:19:14.000Z",
+    "isoDate": "2026-07-27T16:45:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "are-brain-waves-the-next-unlock-for-physical-ai"
+    "slug": "threads-users-can-now-chat-with-meta-ai-in-their-dms"
+  },
+  {
+    "title": "(No AI) Why China is giving away its best AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "pubDate": "2026-07-27T16:51:50.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPeople visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\n\nSilicon Valley has spent much of the past week on red alert, digesting the [arrival of Moonshot AI's Kimi K3](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen), a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost.\n\nIts performance alone would have been enough to [intensify the rivalry between the US and China](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment). But Moonshot's plan to release the model's weights for free - and its [clear targeting of US users](https://www.theverge.com/ai-artificial-intelligence/971217/the-kimi-k3-countdown-is-on) - has fueled deeper unease about whether closed American models can continue to dominate as increasingly capable open alternatives enter the market.\n\nOpen-weight models give developers far greater control than proprietary syst …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies)",
+    "contentSnippet": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images\t\n\nSilicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. \nIts performance alone would have been enough to intensify the rivalry between the US and China. But Moonshot's plan to release the model's weights for free - and its clear targeting of US users - has fueled deeper unease about whether closed American models can continue to dominate as increasingly capable open alternatives enter the market. \nOpen-weight models give developers far greater control than proprietary syst …\nRead the full story at The Verge.",
+    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+    "id": "https://www.theverge.com/?p=971444",
+    "isoDate": "2026-07-27T16:51:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "why-china-is-giving-away-its-best-ai-models"
   },
   {
     "title": "(No AI) Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
@@ -53,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthropic"
-  },
-  {
-    "title": "(No AI) Midjourney bought the astrology app Co-Star",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "pubDate": "2026-07-24T19:06:58.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMidjourney, which has gone from generating AI cat images to [full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan), is getting into a new field: astrology. The AI startup [announced on Thursday](https://updates.midjourney.com/midjourneys-first-acquisition/) that it has acquired the personalized astrology app Co-Star, as reported [earlier by _Bloomberg_](https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps).\n\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the [app's FAQ page](https://www.costarastrology.com/faq), it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\n\nMidjourney founder David Holz says Co-Star founder Banu …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)",
-    "contentSnippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg.\nCo-Star is a free app that offers daily horoscopes and allows you to check your compatibility with friends. As noted on the app's FAQ page, it combines human insight, data from NASA, and AI to deliver personalized advice for users each day. The terms of Midjourney's deal, which reportedly closed in spring, haven't been disclosed.\nMidjourney founder David Holz says Co-Star founder Banu …\nRead the full story at The Verge.",
-    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your [&#8230;]",
-    "id": "https://www.theverge.com/?p=970894",
-    "isoDate": "2026-07-24T19:06:58.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "midjourney-bought-the-astrology-app-co-star"
   },
   {
     "title": "(No AI) How AI is expanding what people do at work",
