@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "pubDate": "Tue, 28 Jul 2026 04:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "contentSnippet": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "guid": "https://techcrunch.com/?p=3146880",
+    "categories": [
+      "Startups",
+      "AI",
+      "SpaceX",
+      "cursor"
+    ],
+    "isoDate": "2026-07-28T04:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -16,25 +35,6 @@
     "isoDate": "2026-07-28T00:13:33.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "contentSnippet": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "guid": "https://techcrunch.com/?p=3147049",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Microsoft",
-      "Satya Nadella"
-    ],
-    "isoDate": "2026-07-27T21:17:11.000Z",
-    "source": "TechCrunch AI",
-    "slug": "satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive"
   },
   {
     "title": "(No AI) Why China is giving away its best AI models",
@@ -115,6 +115,23 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Matt Burgess",
+    "title": "(No AI) Hugging Face Has a Deepfake Nudes Problem",
+    "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+    "pubDate": "Tue, 28 Jul 2026 05:30:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+    "contentSnippet": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+    "guid": "6a624846db5a9e20b9c8cf90",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-07-28T05:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "hugging-face-has-a-deepfake-nudes-problem"
+  },
+  {
     "creator": "Maddy Varner",
     "title": "(No AI) Private Claude Chats Exposed in Google and Bing Search Results",
     "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
@@ -130,22 +147,5 @@
     "isoDate": "2026-07-27T20:08:00.000Z",
     "source": "Wired AI",
     "slug": "private-claude-chats-exposed-in-google-and-bing-search-results"
-  },
-  {
-    "creator": "Hugo Lowell",
-    "title": "(No AI) This Is Donald Trump’s AI Brain Trust",
-    "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-    "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Hugo Lowell",
-    "content": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-    "contentSnippet": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-    "guid": "6a636bf067ed6cdf1f7d4066",
-    "categories": [
-      "Politics",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-07-27T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-is-donald-trump-s-ai-brain-trust"
   }
 ]
