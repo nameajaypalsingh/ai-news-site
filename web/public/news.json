@@ -1,43 +1,40 @@
 [
   {
-    "creator": "Lorenzo Franceschi-Bicchierai",
-    "title": "(No AI) PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
-    "dc:creator": "Lorenzo Franceschi-Bicchierai",
-    "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-    "contentSnippet": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-    "guid": "https://techcrunch.com/?p=3147064",
+    "creator": "Julie Bort",
+    "title": "(No AI) Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "contentSnippet": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "guid": "https://techcrunch.com/?p=3147197",
     "categories": [
       "AI",
-      "Privacy",
-      "Security",
-      "Anthropic",
-      "Claude",
-      "data exposure"
+      "TC",
+      "Anthropic"
     ],
-    "isoDate": "2026-07-27T20:19:42.000Z",
+    "isoDate": "2026-07-28T00:13:33.000Z",
     "source": "TechCrunch AI",
-    "slug": "psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google"
+    "slug": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-    "contentSnippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-    "guid": "https://techcrunch.com/?p=3146944",
+    "creator": "Julie Bort",
+    "title": "(No AI) Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "contentSnippet": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "guid": "https://techcrunch.com/?p=3147049",
     "categories": [
       "AI",
-      "Security",
-      "cybersecurity",
-      "Microsoft"
+      "Enterprise",
+      "Microsoft",
+      "Satya Nadella"
     ],
-    "isoDate": "2026-07-27T18:32:11.000Z",
+    "isoDate": "2026-07-27T21:17:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurity-system"
+    "slug": "satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive"
   },
   {
     "title": "(No AI) Why China is giving away its best AI models",
