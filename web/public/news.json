@@ -37,6 +37,20 @@
     "slug": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-chinese-ai"
   },
   {
+    "title": "(No AI) Hugging Face is being used to easily undress women and children",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "pubDate": "2026-07-28T09:07:14.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![A faceless mannequin with digital embellishments against a colorful background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nHugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\n\nHugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit [AI Forensics](https://aiforensics.org/work/hugging-face-ncii), which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with requests to undress women using simple prompts.\n\nWhile most mainstream generative AI models like Google's Gemini and OpenAI's ChatGPT have guardrails in place to block prompts that undress or sexualize people, that seemingly isn't the case for the models on Hugging Face tested by AI Forensics. The nonprofit says …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children)",
+    "contentSnippet": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with requests to undress women using simple prompts.\nWhile most mainstream generative AI models like Google's Gemini and OpenAI's ChatGPT have guardrails in place to block prompts that undress or sexualize people, that seemingly isn't the case for the models on Hugging Face tested by AI Forensics. The nonprofit says …\nRead the full story at The Verge.",
+    "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+    "id": "https://www.theverge.com/?p=971723",
+    "isoDate": "2026-07-28T09:07:14.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "hugging-face-is-being-used-to-easily-undress-women-and-children"
+  },
+  {
     "title": "(No AI) Why China is giving away its best AI models",
     "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
     "pubDate": "2026-07-27T16:51:50.000Z",
@@ -49,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "why-china-is-giving-away-its-best-ai-models"
-  },
-  {
-    "title": "(No AI) Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "pubDate": "2026-07-27T12:06:22.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia on Monday [said](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools.\n\nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model [escaped containment and attacked](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\n\nFounding memb …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)",
-    "contentSnippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was forced to use a Chinese open-weight model to defend itself due to the strict safety guardrails limiting the usefulness of top US models.\nFounding memb …\nRead the full story at The Verge.",
-    "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
-    "id": "https://www.theverge.com/?p=971281",
-    "isoDate": "2026-07-27T12:06:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthropic"
   },
   {
     "title": "(No AI) How AI is expanding what people do at work",
@@ -115,37 +115,38 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
-    "creator": "Matt Burgess",
-    "title": "(No AI) Hugging Face Has a Deepfake Nudes Problem",
-    "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-    "pubDate": "Tue, 28 Jul 2026 05:30:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-    "contentSnippet": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-    "guid": "6a624846db5a9e20b9c8cf90",
+    "creator": "Katie Drummond",
+    "title": "(No AI) Can the New York Times Save Journalism From Our AI Overlords?",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "pubDate": "Tue, 28 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "contentSnippet": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "guid": "6a62391cd98c3c0f7d1d44ff",
     "categories": [
-      "Security",
-      "Security / Privacy"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-07-28T05:30:00.000Z",
+    "isoDate": "2026-07-28T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "hugging-face-has-a-deepfake-nudes-problem"
+    "slug": "can-the-new-york-times-save-journalism-from-our-ai-overlords"
   },
   {
-    "creator": "Maddy Varner",
-    "title": "(No AI) Private Claude Chats Exposed in Google and Bing Search Results",
-    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "pubDate": "Mon, 27 Jul 2026 20:08:00 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-    "contentSnippet": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-    "guid": "6a676d295debd83680074f46",
+    "creator": "Paresh Dave",
+    "title": "(No AI) Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "pubDate": "Tue, 28 Jul 2026 10:00:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "contentSnippet": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "guid": "6a5fbde4383cab8a0391b22f",
     "categories": [
-      "Security",
-      "Security / Privacy"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-07-27T20:08:00.000Z",
+    "isoDate": "2026-07-28T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "private-claude-chats-exposed-in-google-and-bing-search-results"
+    "slug": "silicon-valley-s-next-ipo-billionaires-are-coming-nonprofits-are-ready-for-them"
   }
 ]
