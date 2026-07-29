@@ -120,39 +120,37 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
-    "creator": "Dell Cameron, Maxwell Zeff",
-    "title": "(No AI) OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-    "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "pubDate": "Wed, 29 Jul 2026 00:15:30 +0000",
-    "dc:creator": "Dell Cameron, Maxwell Zeff",
-    "content": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-    "contentSnippet": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-    "guid": "6a6925b4e95ffc1641e4a948",
+    "creator": "Emma Madden",
+    "title": "(No AI) More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+    "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+    "pubDate": "Wed, 29 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Emma Madden",
+    "content": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+    "contentSnippet": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+    "guid": "6a5fd8026ac8fef420c80823",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Culture",
+      "Culture / Books"
     ],
-    "isoDate": "2026-07-29T00:15:30.000Z",
+    "isoDate": "2026-07-29T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face"
+    "slug": "more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture"
   },
   {
-    "creator": "Katie Drummond",
-    "title": "(No AI) Can the New York Times Save Journalism From Our AI Overlords?",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-    "pubDate": "Tue, 28 Jul 2026 10:30:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-    "contentSnippet": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-    "guid": "6a62391cd98c3c0f7d1d44ff",
+    "creator": "Miles Klee",
+    "title": "(No AI) Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+    "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+    "pubDate": "Wed, 29 Jul 2026 09:30:00 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+    "contentSnippet": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+    "guid": "6a5e68b614becfb4f5b6b9e6",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Culture",
+      "Culture / Books"
     ],
-    "isoDate": "2026-07-28T10:30:00.000Z",
+    "isoDate": "2026-07-29T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "can-the-new-york-times-save-journalism-from-our-ai-overlords"
+    "slug": "boomers-can-t-stop-gifting-their-grandkids-ai-generated-slop-books"
   }
 ]
