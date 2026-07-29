@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "contentSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "guid": "https://techcrunch.com/?p=3147680",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "ai slop"
+    ],
+    "isoDate": "2026-07-29T11:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -19,55 +38,32 @@
     "slug": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "contentSnippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "guid": "https://techcrunch.com/?p=3147594",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "TC",
-      "bot detection",
-      "cybersecurity startups",
-      "In Brief",
-      "Insight Partners"
-    ],
-    "isoDate": "2026-07-28T21:29:34.000Z",
-    "source": "TechCrunch AI",
-    "slug": "bot-detection-startup-spur-nabs-200m-from-insight"
+    "title": "(No AI) Artists are lawyering up against AI slop, and some are even winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "pubDate": "2026-07-29T12:00:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![a middle finger being at an AI sparkle](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nArtists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\n\nWhen _The Atlantic_ published a [searchable dataset](https://www.theatlantic.com/category/ai-watchdog/) of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like _The Feather Thief_ and _The Fishermen and the Dragon -_ nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to a chatbot. He says he felt a \"cocktail\" of emotions: \"anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy\" using his …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic)",
+    "contentSnippet": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to a chatbot. He says he felt a \"cocktail\" of emotions: \"anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy\" using his  …\nRead the full story at The Verge.",
+    "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
+    "id": "https://www.theverge.com/?p=971059",
+    "isoDate": "2026-07-29T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning"
   },
   {
-    "title": "(No AI) AI leaders sign a statement asking the government to do something about automated AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "pubDate": "2026-07-28T19:46:43.000Z",
-    "author": "Hayden Field",
-    "content": "![Photo illustration of a computer with a brain on the screen.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEmployees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)",
-    "contentSnippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\nRead the full story at The Verge.",
-    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
-    "id": "https://www.theverge.com/?p=972161",
-    "isoDate": "2026-07-28T19:46:43.000Z",
+    "title": "(No AI) OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "pubDate": "2026-07-29T11:54:29.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI [revealed](https://openai.com/index/hugging-face-model-evaluation-security-incident/) on Tuesday. The update substantially widens the scope of an already concerning incident, which has [alarmed industry insiders](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) and fueled growing calls for stronger oversight on frontier AI systems.\n\nIn an update to a [blog post](https://openai.com/index/hugging-face-model-evaluation-security-incident/) detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, adding that the agent had found login credentials o …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face)",
+    "contentSnippet": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems.  \nIn an update to a blog post detailing its ongoing investigation into the incident, OpenAI said the wayward AI agent attacked several \"publicly-available services\" in its efforts to reach Hugging Face. \"This includes four accounts on four services,\" the company said, adding that the agent had found login credentials o …\nRead the full story at The Verge.",
+    "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+    "id": "https://www.theverge.com/?p=972441",
+    "isoDate": "2026-07-29T11:54:29.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automated-ai"
-  },
-  {
-    "title": "(No AI) AI’s finally expensive enough to make Wall Street nervous",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "pubDate": "2026-07-28T19:33:03.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![A bear appears, surrounded by down arrows](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWorking hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\n\nIt's earnings season, and investors got an unpleasant surprise from Google: [an increase on its spending estimate](https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/), to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its _top end_ spending. Now, look, I recognize that there's an impulse to say things like \"What's $15 billion between friends?\" but from an investor's perspective, Google has essentially said that it can't accurately forecast its costs, which is a scary thing. Plus, Google is [spending more money than it's making](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1). _And_ Google …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex)",
-    "contentSnippet": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously forecast as its top end spending. Now, look, I recognize that there's an impulse to say things like \"What's $15 billion between friends?\" but from an investor's perspective, Google has essentially said that it can't accurately forecast its costs, which is a scary thing. Plus, Google is spending more money than it's making. And Google …\nRead the full story at The Verge.",
-    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously [&#8230;]",
-    "id": "https://www.theverge.com/?p=972119",
-    "isoDate": "2026-07-28T19:33:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-s-finally-expensive-enough-to-make-wall-street-nervous"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face"
   },
   {
     "title": "(No AI) Scientific computing in the age of agentic AI",
