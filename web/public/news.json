@@ -1,41 +1,45 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) As AI content floods the internet, Pangram raises $9M to detect it",
-    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "contentSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "guid": "https://techcrunch.com/?p=3147680",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "pubDate": "Wed, 29 Jul 2026 15:35:09 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "contentSnippet": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "guid": "https://techcrunch.com/?p=3147738",
     "categories": [
-      "AI",
-      "Fundraising",
+      "TC",
       "Startups",
-      "ai slop"
+      "AI",
+      "Apps",
+      "martha stewart",
+      "hint"
     ],
-    "isoDate": "2026-07-29T11:00:00.000Z",
+    "isoDate": "2026-07-29T15:35:09.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it"
+    "slug": "hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The deal is Cyera's third acquisition this year.",
-    "contentSnippet": "The deal is Cyera's third acquisition this year.",
-    "guid": "https://techcrunch.com/?p=3147673",
+    "creator": "Ram Iyer",
+    "title": "(No AI) Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "contentSnippet": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "guid": "https://techcrunch.com/?p=3147736",
     "categories": [
       "AI",
-      "Security",
-      "Cyera",
-      "M&A"
+      "Enterprise",
+      "Fundraising",
+      "customer relationship management",
+      "Encore",
+      "Team8 Capital"
     ],
-    "isoDate": "2026-07-29T00:09:05.000Z",
+    "isoDate": "2026-07-29T14:41:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
+    "slug": "encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls"
   },
   {
     "title": "(No AI) Artists are lawyering up against AI slop, and some are even winning",
@@ -66,6 +70,20 @@
     "slug": "openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face"
   },
   {
+    "title": "(No AI) Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "contentSnippet": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "guid": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-07-29T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers"
+  },
+  {
     "title": "(No AI) Scientific computing in the age of agentic AI",
     "link": "https://openai.com/index/scientific-computing-agentic-ai",
     "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
@@ -80,18 +98,15 @@
     "slug": "scientific-computing-in-the-age-of-agentic-ai"
   },
   {
-    "title": "(No AI) How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
-    "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "contentSnippet": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "guid": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-07-27T03:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-ai-is-expanding-what-people-do-at-work"
+    "title": "(No AI) We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "isoDate": "2026-07-29T16:02:10.000Z",
+    "source": "Google DeepMind",
+    "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
     "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -103,17 +118,6 @@
     "isoDate": "2026-07-22T13:38:54.000Z",
     "source": "Google DeepMind",
     "slug": "accelerating-the-frontiers-of-scientific-discovery-google-s-40m-commitment-to-the-genesis-mission"
-  },
-  {
-    "title": "(No AI) Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
-    "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "contentSnippet": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "guid": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "isoDate": "2026-07-21T15:16:30.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
     "creator": "Emma Madden",
