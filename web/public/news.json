@@ -1,55 +1,59 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "contentSnippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-    "guid": "https://techcrunch.com/?p=3147500",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The deal is Cyera's third acquisition this year.",
+    "contentSnippet": "The deal is Cyera's third acquisition this year.",
+    "guid": "https://techcrunch.com/?p=3147673",
     "categories": [
       "AI",
-      "Enterprise",
+      "Security",
+      "Cyera",
+      "M&A"
+    ],
+    "isoDate": "2026-07-29T00:09:05.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
+  },
+  {
+    "creator": "Julie Bort",
+    "title": "(No AI) Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "contentSnippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "guid": "https://techcrunch.com/?p=3147594",
+    "categories": [
+      "AI",
+      "Fundraising",
       "Startups",
       "TC",
-      "lawsuit",
-      "Rippling"
+      "bot detection",
+      "cybersecurity startups",
+      "In Brief",
+      "Insight Partners"
     ],
-    "isoDate": "2026-07-28T20:45:12.000Z",
+    "isoDate": "2026-07-28T21:29:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea"
+    "slug": "bot-detection-startup-spur-nabs-200m-from-insight"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "contentSnippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-    "guid": "https://techcrunch.com/?p=3147554",
-    "categories": [
-      "AI",
-      "sam altman"
-    ],
-    "isoDate": "2026-07-28T20:17:08.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sam-altman-is-ready-to-decelerate"
-  },
-  {
-    "title": "(No AI) AI leaders sign statement asking the government to do something about automated AI",
+    "title": "(No AI) AI leaders sign a statement asking the government to do something about automated AI",
     "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
     "pubDate": "2026-07-28T19:46:43.000Z",
     "author": "Hayden Field",
-    "content": "![Photo illustration of a computer with a brain on the screen.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEmployees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in a statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability development …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)",
-    "contentSnippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in a statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability development  …\nRead the full story at The Verge.",
+    "content": "![Photo illustration of a computer with a brain on the screen.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEmployees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)",
+    "contentSnippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts.\n\"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the employees wrote in the statement. \"The world's leading Al companies believe they could be close to automating Al research. It is hard to predict exactly how much this will accelerate Al progress, but there is a real risk that capability developmen …\nRead the full story at The Verge.",
     "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
     "id": "https://www.theverge.com/?p=972161",
     "isoDate": "2026-07-28T19:46:43.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-leaders-sign-statement-asking-the-government-to-do-something-about-automated-ai"
+    "slug": "ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automated-ai"
   },
   {
     "title": "(No AI) AI’s finally expensive enough to make Wall Street nervous",
@@ -116,6 +120,25 @@
     "slug": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber"
   },
   {
+    "creator": "Dell Cameron, Maxwell Zeff",
+    "title": "(No AI) OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "pubDate": "Wed, 29 Jul 2026 00:15:30 +0000",
+    "dc:creator": "Dell Cameron, Maxwell Zeff",
+    "content": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "contentSnippet": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "guid": "6a6925b4e95ffc1641e4a948",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-07-29T00:15:30.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face"
+  },
+  {
     "creator": "Katie Drummond",
     "title": "(No AI) Can the New York Times Save Journalism From Our AI Overlords?",
     "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
@@ -131,23 +154,5 @@
     "isoDate": "2026-07-28T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "can-the-new-york-times-save-journalism-from-our-ai-overlords"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-    "pubDate": "Tue, 28 Jul 2026 10:00:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-    "contentSnippet": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-    "guid": "6a5fbde4383cab8a0391b22f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-07-28T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "silicon-valley-s-next-ipo-billionaires-are-coming-nonprofits-are-ready-for-them"
   }
 ]
