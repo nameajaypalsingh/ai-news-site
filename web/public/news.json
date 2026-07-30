@@ -1,70 +1,82 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "contentSnippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "guid": "https://techcrunch.com/?p=3147668",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-07-29T19:44:49.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor"
-  },
-  {
     "creator": "Julie Bort",
-    "title": "(No AI) Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "pubDate": "Wed, 29 Jul 2026 18:45:27 +0000",
+    "title": "(No AI) Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "contentSnippet": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "guid": "https://techcrunch.com/?p=3147626",
+    "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "contentSnippet": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "guid": "https://techcrunch.com/?p=3148055",
     "categories": [
       "AI",
-      "Startups",
+      "Enterprise",
       "TC",
-      "Andon Labs",
-      "Claude",
-      "Exclusive",
-      "gpt-5.6 sol",
-      "kimi"
+      "Microsoft"
     ],
-    "isoDate": "2026-07-29T18:45:27.000Z",
+    "isoDate": "2026-07-30T00:21:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine"
+    "slug": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ever"
   },
   {
-    "title": "(No AI) OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "pubDate": "2026-07-29T18:15:02.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn an [interview with our friend Joanna Stern](https://www.youtube.com/watch?v=b_44Ra8msls) on [her YouTube channel](https://www.theverge.com/tech/874444/our-friend-joanna-stern-is-becoming-a-youtuber), OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm [reports](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device) that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device [might be a wearable](https://www.theverge.com/news/672533/jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin) like the Humane AI pin. He didn't give a release date, either, only saying that \"you can expect them soon.\"\n\nWhen asked about whether [Apple's lawsuit against OpenAI](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) could impact the devices it's working on with former [Apple designer Jony Ive](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman), Brockman said, \"We are focused on o …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview)",
-    "contentSnippet": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier rumors that the device might be a wearable like the Humane AI pin. He didn't give a release date, either, only saying that \"you can expect them soon.\"\n\nWhen asked about whether Apple's lawsuit against OpenAI could impact the devices it's working on with former Apple designer Jony Ive, Brockman said, \"We are focused on o …\nRead the full story at The Verge.",
-    "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
-    "id": "https://www.theverge.com/?p=972709",
-    "isoDate": "2026-07-29T18:15:02.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-president-says-it-s-building-a-family-of-devices-for-its-ai-chatbots"
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "contentSnippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "guid": "https://techcrunch.com/?p=3148017",
+    "categories": [
+      "AI",
+      "AI agents",
+      "Meta"
+    ],
+    "isoDate": "2026-07-29T23:00:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years"
   },
   {
-    "title": "(No AI) Artists are lawyering up against AI slop, and some are even winning",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "pubDate": "2026-07-29T12:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![a middle finger being at an AI sparkle](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nArtists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\n\nWhen _The Atlantic_ published a [searchable dataset](https://www.theatlantic.com/category/ai-watchdog/) of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like _The Feather Thief_ and _The Fishermen and the Dragon -_ nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to a chatbot. He says he felt a \"cocktail\" of emotions: \"anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy\" using his …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic)",
-    "contentSnippet": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he spent \"five to six years researching, writing, and investigating\" - had been pirated and fed to a chatbot. He says he felt a \"cocktail\" of emotions: \"anger over the brazenness of the theft, worry over what this means for writers, and a healthy thirst for revenge on these massive corporations that have become galactically wealthy\" using his  …\nRead the full story at The Verge.",
-    "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
-    "id": "https://www.theverge.com/?p=971059",
-    "isoDate": "2026-07-29T12:00:00.000Z",
+    "title": "(No AI) Microsoft confirms Copilot ‘super app’ coming this year",
+    "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "pubDate": "2026-07-29T22:17:38.000Z",
+    "author": "Emma Roth",
+    "content": "![Illustration of the Microsoft Copilot logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\n\nNadella's confirmation comes months after a report from [_Fortune_ revealed that Microsoft](https://fortune.com/2026/05/29/microsoft-working-on-super-app/) is working on a super app that blends its …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)",
+    "contentSnippet": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\nNadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …\nRead the full story at The Verge.",
+    "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+    "id": "https://www.theverge.com/?p=972927",
+    "isoDate": "2026-07-29T22:17:38.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "artists-are-lawyering-up-against-ai-slop-and-some-are-even-winning"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-confirms-copilot-super-app-coming-this-year"
+  },
+  {
+    "title": "(No AI) Mark Zuckerberg is planning a big push into personal AI agents",
+    "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "pubDate": "2026-07-29T21:48:07.000Z",
+    "author": "Jay Peters",
+    "content": "![Graphic collage of Mark Zuckerberg.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\n\nOn Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot:\n\n> Soon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)",
+    "contentSnippet": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot:\nSoon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding.  …\n\nRead the full story at The Verge.",
+    "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+    "id": "https://www.theverge.com/?p=972294",
+    "isoDate": "2026-07-29T21:48:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents"
+  },
+  {
+    "title": "(No AI) How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "contentSnippet": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "guid": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-07-29T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark"
   },
   {
     "title": "(No AI) Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -79,20 +91,6 @@
     "isoDate": "2026-07-29T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers"
-  },
-  {
-    "title": "(No AI) How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
-    "content": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "contentSnippet": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "guid": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "categories": [
-      "Engineering"
-    ],
-    "isoDate": "2026-07-29T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency"
   },
   {
     "title": "(No AI) We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
