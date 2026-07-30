@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+    "contentSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+    "guid": "https://techcrunch.com/?p=3148116",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "data center infrastructure"
+    ],
+    "isoDate": "2026-07-30T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "dili-raises-21-7m-to-bring-ai-compliance-to-the-infrastructure-boom"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
@@ -17,24 +35,6 @@
     "isoDate": "2026-07-30T00:21:06.000Z",
     "source": "TechCrunch AI",
     "slug": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ever"
-  },
-  {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "contentSnippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "guid": "https://techcrunch.com/?p=3148017",
-    "categories": [
-      "AI",
-      "AI agents",
-      "Meta"
-    ],
-    "isoDate": "2026-07-29T23:00:11.000Z",
-    "source": "TechCrunch AI",
-    "slug": "mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years"
   },
   {
     "title": "(No AI) Microsoft confirms Copilot ‘super app’ coming this year",
@@ -115,6 +115,23 @@
     "slug": "accelerating-the-frontiers-of-scientific-discovery-google-s-40m-commitment-to-the-genesis-mission"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) OpenAI’s Hacking Debacle Was a Human Mistake",
+    "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+    "pubDate": "Thu, 30 Jul 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+    "contentSnippet": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+    "guid": "6a6a2d742e3faf0c91c7a129",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-07-30T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-hacking-debacle-was-a-human-mistake"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
     "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
@@ -130,22 +147,5 @@
     "isoDate": "2026-07-30T10:15:00.000Z",
     "source": "Wired AI",
     "slug": "linkedin-won-t-be-expanding-its-data-centers-in-the-next-year"
-  },
-  {
-    "creator": "Andy Greenberg",
-    "title": "(No AI) AI Scammers Are Better at Building Trust Than Humans",
-    "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-    "pubDate": "Thu, 30 Jul 2026 09:30:00 +0000",
-    "dc:creator": "Andy Greenberg",
-    "content": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-    "contentSnippet": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-    "guid": "6a61037e306be2a30dae9218",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-07-30T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-scammers-are-better-at-building-trust-than-humans"
   }
 ]
