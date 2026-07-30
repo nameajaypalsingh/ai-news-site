@@ -1,68 +1,86 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-    "contentSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-    "guid": "https://techcrunch.com/?p=3148116",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Okta buys AI security startup Permiso; source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "contentSnippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "guid": "https://techcrunch.com/?p=3148308",
     "categories": [
+      "Startups",
+      "Security",
       "AI",
-      "Fundraising",
-      "data center infrastructure"
+      "Okta",
+      "Permiso",
+      "AI agents"
     ],
-    "isoDate": "2026-07-30T13:00:00.000Z",
+    "isoDate": "2026-07-30T16:09:42.000Z",
     "source": "TechCrunch AI",
-    "slug": "dili-raises-21-7m-to-bring-ai-compliance-to-the-infrastructure-boom"
+    "slug": "okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "contentSnippet": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "guid": "https://techcrunch.com/?p=3148055",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "contentSnippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "guid": "https://techcrunch.com/?p=3148216",
     "categories": [
       "AI",
-      "Enterprise",
-      "TC",
-      "Microsoft"
+      "Apps",
+      "Social",
+      "Meta",
+      "social media"
     ],
-    "isoDate": "2026-07-30T00:21:06.000Z",
+    "isoDate": "2026-07-30T15:41:16.000Z",
     "source": "TechCrunch AI",
-    "slug": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ever"
+    "slug": "meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming"
   },
   {
-    "title": "(No AI) Microsoft confirms Copilot ‘super app’ coming this year",
-    "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "pubDate": "2026-07-29T22:17:38.000Z",
+    "title": "(No AI) Google DeepMind’s new AI model can control a robot’s entire body",
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "pubDate": "2026-07-30T17:18:45.000Z",
     "author": "Emma Roth",
-    "content": "![Illustration of the Microsoft Copilot logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\n\nNadella's confirmation comes months after a report from [_Fortune_ revealed that Microsoft](https://fortune.com/2026/05/29/microsoft-working-on-super-app/) is working on a super app that blends its …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)",
-    "contentSnippet": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, we are bringing these Copilot experiences together, including code, in one super app… This is a major step forward, and I look forward to sharing more soon.\"\nNadella's confirmation comes months after a report from Fortune revealed that Microsoft is working on a super app that blends its …\nRead the full story at The Verge.",
-    "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
-    "id": "https://www.theverge.com/?p=972927",
-    "isoDate": "2026-07-29T22:17:38.000Z",
+    "content": "![An image of Apptronik’s Apollo 2 robot taking a baseball glove off of a shelf](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100)\n\nApptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the [previous model focused](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) on controlling a humanoid robot's upper body, [Gemini Robotics 2](https://deepmind.google/models/gemini-robotics/vla/) now supports \"whole-body motions\" ranging from its feet to fingertips, according to an [announcement on Thursday](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/).\n\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can [bend over to pick up](https://www.youtube.com/watch?v=nBftSI5mmHA) a watering can, as well as find and take specific items off a shelf.\n\nThough Google DeepMind not …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body)",
+    "contentSnippet": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. \n\nThough Google DeepMind not …\nRead the full story at The Verge.",
+    "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
+    "id": "https://www.theverge.com/?p=973276",
+    "isoDate": "2026-07-30T17:18:45.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-confirms-copilot-super-app-coming-this-year"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body"
   },
   {
-    "title": "(No AI) Mark Zuckerberg is planning a big push into personal AI agents",
-    "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "pubDate": "2026-07-29T21:48:07.000Z",
-    "author": "Jay Peters",
-    "content": "![Graphic collage of Mark Zuckerberg.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\n\nOn Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot:\n\n> Soon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)",
-    "contentSnippet": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users - and how it will convince less technical people to give them a shot:\nSoon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding.  …\n\nRead the full story at The Verge.",
-    "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
-    "id": "https://www.theverge.com/?p=972294",
-    "isoDate": "2026-07-29T21:48:07.000Z",
+    "title": "(No AI) Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "pubDate": "2026-07-30T16:33:32.000Z",
+    "author": "David Imel",
+    "content": "![A mock-up of the Friend pendant. It’s a small white puck on a necklace.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&strip=all&crop=0,0,100,100)\n\nDo you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?\n\nYeah well, if you didn't remember, [Friend is back](https://x.com/AviSchiffmann/status/2082827785987629526). And now, it's twice the price.\n\n> Introducing friend. [pic.twitter.com/T5vUCj7iqv](https://t.co/T5vUCj7iqv)\n> \n> \\- friend (@friend) [July 30, 2026](https://x.com/friend/status/2082827641338658873?ref_src=twsrc%5Etfw)\n\nThis morning, Friend [launched a new ad](https://x.com/friend/status/2082827641338658873?s=20) showing two people talking to their Friend pendants about very personal life problems. It didn't say it explicitly, but the ad showcased a new feature the pendant now includes: a speaker. Before, Friend would only message back to you, but now, …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price)",
+    "contentSnippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?\nYeah well, if you didn't remember, Friend is back. And now, it's twice the price.\n\n\nIntroducing friend. pic.twitter.com/T5vUCj7iqv\n- friend (@friend) July 30, 2026\n\nThis morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems. It didn't say it explicitly, but the ad showcased a new feature the pendant now includes: a speaker. Before, Friend would only message back to you, but now,  …\nRead the full story at The Verge.",
+    "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad showing two [&#8230;]",
+    "id": "https://www.theverge.com/?p=973163",
+    "isoDate": "2026-07-30T16:33:32.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "mark-zuckerberg-is-planning-a-big-push-into-personal-ai-agents"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price"
+  },
+  {
+    "title": "(No AI) Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
+    "content": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "contentSnippet": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "guid": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-07-30T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "advancing-the-price-performance-frontier-with-gpt-5-6"
   },
   {
     "title": "(No AI) How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -79,18 +97,15 @@
     "slug": "how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark"
   },
   {
-    "title": "(No AI) Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-    "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "contentSnippet": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "guid": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-07-29T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers"
+    "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "contentSnippet": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "guid": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "isoDate": "2026-07-30T15:00:59.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
     "title": "(No AI) We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -104,48 +119,37 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
-    "title": "(No AI) Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
-    "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "contentSnippet": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "guid": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "isoDate": "2026-07-22T13:38:54.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-the-frontiers-of-scientific-discovery-google-s-40m-commitment-to-the-genesis-mission"
-  },
-  {
     "creator": "Lily Hay Newman",
-    "title": "(No AI) OpenAI’s Hacking Debacle Was a Human Mistake",
-    "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-    "pubDate": "Thu, 30 Jul 2026 10:30:00 +0000",
+    "title": "(No AI) Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+    "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+    "pubDate": "Thu, 30 Jul 2026 17:00:00 +0000",
     "dc:creator": "Lily Hay Newman",
-    "content": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-    "contentSnippet": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-    "guid": "6a6a2d742e3faf0c91c7a129",
+    "content": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "contentSnippet": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "guid": "6a6a3c3e41202f6513ad2e4f",
     "categories": [
       "Security",
-      "Security / Cyberattacks and Hacks"
+      "Security / Security News"
     ],
-    "isoDate": "2026-07-30T10:30:00.000Z",
+    "isoDate": "2026-07-30T17:00:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-s-hacking-debacle-was-a-human-mistake"
+    "slug": "chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-    "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-    "pubDate": "Thu, 30 Jul 2026 10:15:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-    "contentSnippet": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-    "guid": "6a553636b3a9c23272f2246a",
+    "creator": "Boone Ashworth",
+    "title": "(No AI) The New Friend AI Pendant Can Now Talk Back to You",
+    "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+    "pubDate": "Thu, 30 Jul 2026 16:00:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+    "contentSnippet": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+    "guid": "6a6a2a20b706be75bfb3a10f",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-07-30T10:15:00.000Z",
+    "isoDate": "2026-07-30T16:00:00.000Z",
     "source": "Wired AI",
-    "slug": "linkedin-won-t-be-expanding-its-data-centers-in-the-next-year"
+    "slug": "the-new-friend-ai-pendant-can-now-talk-back-to-you"
   }
 ]
