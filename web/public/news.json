@@ -1,70 +1,84 @@
 [
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-    "contentSnippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-    "guid": "https://techcrunch.com/?p=3148621",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have \\[…\\]",
+    "contentSnippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3148833",
     "categories": [
       "AI",
+      "Startups",
+      "Amazon",
       "Anthropic",
-      "OpenAI"
+      "OpenAI",
+      "sam altman",
+      "SpaceX"
     ],
-    "isoDate": "2026-07-31T01:06:54.000Z",
+    "isoDate": "2026-07-31T17:26:32.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests"
+    "slug": "sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "contentSnippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "guid": "https://techcrunch.com/?p=3148482",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "contentSnippet": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "guid": "https://techcrunch.com/?p=3148803",
     "categories": [
       "AI",
-      "Anthropic",
-      "hedge fund",
-      "Leverage",
-      "situational awareness",
-      "stock market"
+      "Apps",
+      "Social",
+      "ai slop",
+      "Snapchat"
     ],
-    "isoDate": "2026-07-30T23:25:58.000Z",
+    "isoDate": "2026-07-31T16:49:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares"
+    "slug": "snapchat-no-longer-rewards-fully-ai-generated-spotlight-content"
   },
   {
-    "title": "(No AI) It’s time to panic about AI safety",
-    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "pubDate": "2026-07-31T14:03:04.000Z",
-    "author": "David Pierce",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know [we have an AI problem](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning). This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of [other supposedly secure web services,](https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face) all in the name of cheating on a benchmark tests.\n\nThe fact that this hack happened is a problem. So is the fact that it took a while for [anyone to notice.](https://www.theverge.com/ai-artificial-intelligence/971003/openai-reportedly-didnt-notice-its-ai-agent-hacking-hugging-face-until-a-week-later) And the fact that it seems no one is willing or able to do much to stop it. (And lest you think it's just an OpenAI problem, since we recorded this episode [Anthropic acknowledged its models](https://www.theverge.com/ai-artificial-intelligence/973586/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three-times-by-accident) ha …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast)",
-    "contentSnippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of cheating on a benchmark tests. \nThe fact that this hack happened is a problem. So is the fact that it took a while for anyone to notice. And the fact that it seems no one is willing or able to do much to stop it. (And lest you think it's just an OpenAI problem, since we recorded this episode Anthropic acknowledged its models ha …\nRead the full story at The Verge.",
-    "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of [&#8230;]",
-    "id": "https://www.theverge.com/?p=973668",
-    "isoDate": "2026-07-31T14:03:04.000Z",
+    "title": "(No AI) Here’s the problem with putting an AI image generator in Google Earth",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "pubDate": "2026-07-31T17:05:46.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![An AI-edited Google Earth image of a cabin in the mountains](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNow a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by [_Digital Digging_](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran)_'s_ Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza.\n\nGoogle [responded](https://x.com/NewsFromGoogle/status/2083024627761082702?s=20) to _Digital Digging_'s AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In addition to using Google's \"@verifyai\" tag in …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)",
+    "contentSnippet": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In addition to using Google's \"@verifyai\" tag in  …\nRead the full story at The Verge.",
+    "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google responded to Digital Digging's AI-altered images, saying, \"We [&#8230;]",
+    "id": "https://www.theverge.com/?p=973764",
+    "isoDate": "2026-07-31T17:05:46.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "it-s-time-to-panic-about-ai-safety"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth"
   },
   {
-    "title": "(No AI) Anthropic says Claude accidentally hacked real companies too",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-    "pubDate": "2026-07-31T13:41:17.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic [just realized](https://www.theverge.com/ai-artificial-intelligence/973586/anthropic-just-now-realized-its-ai-models-hacked-other-companies-three-times-by-accident) several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to [growing unease](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) over whether frontier AI labs are doing enough to control the increasingly capable systems they are building.\n\nIn a [blog post](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happened during \"capture-the-flag\" exercises, a commo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)",
-    "contentSnippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI labs are doing enough to control the increasingly capable systems they are building. \nIn a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations. All of the attacks happened during \"capture-the-flag\" exercises, a commo …\nRead the full story at The Verge.",
-    "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI [&#8230;]",
-    "id": "https://www.theverge.com/?p=973670",
-    "isoDate": "2026-07-31T13:41:17.000Z",
+    "title": "(No AI) The major labels propose rules to keep AI slop off the charts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "pubDate": "2026-07-31T16:36:48.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Image showing a cartoony robot head with music notes inside a speech bubble near it.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0,0,100,100)\n\nSeveral record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding [chart eligibility for AI songs](https://www.sonymusic.com/sony-music-corporate-non-home/believe-bmg-concord-dirty-hit-glassnote-records-hybe-mompop-music-partisan-records-sony-music-universal-music-group-and-warner-music-group-set-out-proposal-for-global-principles-for-eligibil/). In short, [they wouldn't be](https://www.hollywoodreporter.com/music/music-industry-news/record-labels-call-to-disqualify-ai-slop-songs-from-charts-1236659042/).\n\nThe proposal goes quite a bit further than a [labeling proposal](https://www.riaa.com/music-community-introduces-new-labeling-programto-distinguish-generative-ai-in-sound-recordings/) put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts)",
+    "contentSnippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. \nThe proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human  …\nRead the full story at The Verge.",
+    "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
+    "id": "https://www.theverge.com/?p=973741",
+    "isoDate": "2026-07-31T16:36:48.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-says-claude-accidentally-hacked-real-companies-too"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts"
+  },
+  {
+    "title": "(No AI) Disrupting a Criminal Scam Operation",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "contentSnippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "guid": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "isoDate": "2026-08-04T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "disrupting-a-criminal-scam-operation"
   },
   {
     "title": "(No AI) Advancing responsible AI across Europe",
@@ -79,17 +93,6 @@
     "isoDate": "2026-07-31T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "advancing-responsible-ai-across-europe"
-  },
-  {
-    "title": "(No AI) Univé builds an AI-ready workforce",
-    "link": "https://openai.com/index/unive",
-    "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-    "content": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "contentSnippet": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "guid": "https://openai.com/index/unive",
-    "isoDate": "2026-07-31T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "univ-builds-an-ai-ready-workforce"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -114,38 +117,37 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
-    "creator": "Louise Matsakis, Lily Hay Newman",
-    "title": "(No AI) Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-    "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-    "pubDate": "Fri, 31 Jul 2026 01:24:26 +0000",
-    "dc:creator": "Louise Matsakis, Lily Hay Newman",
-    "content": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-    "contentSnippet": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-    "guid": "6a6be6442d68d3fb7677f206",
+    "creator": "Steven Levy",
+    "title": "(No AI) AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+    "pubDate": "Fri, 31 Jul 2026 15:00:09 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+    "contentSnippet": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+    "guid": "6a6b53b9cbbdc345b2caec6d",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence",
-      "Security / Cyberattacks and Hacks"
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-07-31T01:24:26.000Z",
+    "isoDate": "2026-07-31T15:00:09.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-says-claude-hacked-into-3-organizations-during-cybersecurity-tests"
+    "slug": "ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-    "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-    "pubDate": "Thu, 30 Jul 2026 20:12:57 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-    "contentSnippet": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-    "guid": "6a6a5903bda4e52fe44bd530",
+    "creator": "Jason Parham",
+    "title": "(No AI) This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+    "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+    "pubDate": "Fri, 31 Jul 2026 14:47:26 +0000",
+    "dc:creator": "Jason Parham",
+    "content": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+    "contentSnippet": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+    "guid": "6a6b983630c951744a71ecd1",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Culture",
+      "Culture / Digital Culture"
     ],
-    "isoDate": "2026-07-30T20:12:57.000Z",
+    "isoDate": "2026-07-31T14:47:26.000Z",
     "source": "Wired AI",
-    "slug": "everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominance"
+    "slug": "this-ai-assistant-wants-to-make-up-for-your-boyfriend-s-incompetence"
   }
 ]
