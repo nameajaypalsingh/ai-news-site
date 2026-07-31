@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "contentSnippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "guid": "https://techcrunch.com/?p=3148844",
+    "categories": [
+      "AI",
+      "Google",
+      "google earth",
+      "In Brief"
+    ],
+    "isoDate": "2026-07-31T19:47:28.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
+  },
+  {
     "creator": "Theresa Loconsolo",
     "title": "(No AI) Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
@@ -22,63 +41,32 @@
     "slug": "sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-    "contentSnippet": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-    "guid": "https://techcrunch.com/?p=3148803",
-    "categories": [
-      "AI",
-      "Apps",
-      "Social",
-      "ai slop",
-      "Snapchat"
-    ],
-    "isoDate": "2026-07-31T16:49:08.000Z",
-    "source": "TechCrunch AI",
-    "slug": "snapchat-no-longer-rewards-fully-ai-generated-spotlight-content"
+    "title": "(No AI) Google Earth’s AI deepfake tool only lasted one day",
+    "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "pubDate": "2026-07-31T19:13:29.000Z",
+    "author": "Jay Peters",
+    "content": "![An image showing Nano Banana 2 in Google Earth](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&strip=all&crop=0,0,100,100)\n\nPompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google\n\nGoogle has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; _Digital Digging_'s Henk van Ess, for example, [intentionally generated](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran) images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza. On Thursday, Google's [initial response](https://x.com/NewsFromGoogle/status/2083024627761082702?s=20) to van Ess noted that images generated with Nano Banana 2 in Google Earth included a digital watermark and that the company prevented \"image creation on harmful topics.\"\n\nOne day later, Google's [new statement](https://x.com/NewsFromGoogle/status/2083249962150760610?s=20) says tha …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool)",
+    "contentSnippet": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google\t\n\nGoogle has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza. On Thursday, Google's initial response to van Ess noted that images generated with Nano Banana 2 in Google Earth included a digital watermark and that the company prevented \"image creation on harmful topics.\"\nOne day later, Google's new statement says tha …\nRead the full story at The Verge.",
+    "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+    "id": "https://www.theverge.com/?p=973943",
+    "isoDate": "2026-07-31T19:13:29.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-earth-s-ai-deepfake-tool-only-lasted-one-day"
   },
   {
     "title": "(No AI) Here’s the problem with putting an AI image generator in Google Earth",
     "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
     "pubDate": "2026-07-31T17:05:46.000Z",
     "author": "Stevie Bonifield",
-    "content": "![An AI-edited Google Earth image of a cabin in the mountains](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNow a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by [_Digital Digging_](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran)_'s_ Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza.\n\nGoogle [responded](https://x.com/NewsFromGoogle/status/2083024627761082702?s=20) to _Digital Digging_'s AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In addition to using Google's \"@verifyai\" tag in …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)",
-    "contentSnippet": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In addition to using Google's \"@verifyai\" tag in  …\nRead the full story at The Verge.",
-    "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google responded to Digital Digging's AI-altered images, saying, \"We [&#8230;]",
+    "content": "![An AI-edited Google Earth image of a cabin in the mountains](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a [now-rolled back AI feature](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool), like these images generated by [_Digital Digging_](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran)_'s_ Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza.\n\nGoogle initially [responded](https://x.com/NewsFromGoogle/status/2083024627761082702?s=20) to _Digital Digging_'s AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In additi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)",
+    "contentSnippet": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle initially responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In additi …\nRead the full story at The Verge.",
+    "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google initially responded to [&#8230;]",
     "id": "https://www.theverge.com/?p=973764",
     "isoDate": "2026-07-31T17:05:46.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth"
-  },
-  {
-    "title": "(No AI) The major labels propose rules to keep AI slop off the charts",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "pubDate": "2026-07-31T16:36:48.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Image showing a cartoony robot head with music notes inside a speech bubble near it.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0,0,100,100)\n\nSeveral record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding [chart eligibility for AI songs](https://www.sonymusic.com/sony-music-corporate-non-home/believe-bmg-concord-dirty-hit-glassnote-records-hybe-mompop-music-partisan-records-sony-music-universal-music-group-and-warner-music-group-set-out-proposal-for-global-principles-for-eligibil/). In short, [they wouldn't be](https://www.hollywoodreporter.com/music/music-industry-news/record-labels-call-to-disqualify-ai-slop-songs-from-charts-1236659042/).\n\nThe proposal goes quite a bit further than a [labeling proposal](https://www.riaa.com/music-community-introduces-new-labeling-programto-distinguish-generative-ai-in-sound-recordings/) put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts)",
-    "contentSnippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. \nThe proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human  …\nRead the full story at The Verge.",
-    "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
-    "id": "https://www.theverge.com/?p=973741",
-    "isoDate": "2026-07-31T16:36:48.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts"
-  },
-  {
-    "title": "(No AI) Disrupting a Criminal Scam Operation",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "contentSnippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "guid": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "isoDate": "2026-08-04T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "disrupting-a-criminal-scam-operation"
   },
   {
     "title": "(No AI) Advancing responsible AI across Europe",
@@ -93,6 +81,20 @@
     "isoDate": "2026-07-31T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "advancing-responsible-ai-across-europe"
+  },
+  {
+    "title": "(No AI) Building abundant intelligence",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "content": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "contentSnippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "guid": "https://openai.com/index/building-abundant-intelligence",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-07-31T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "building-abundant-intelligence"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -117,6 +119,23 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Zeyi Yang",
+    "title": "(No AI) Chinese AI Researchers Are Finding Their Voice on X",
+    "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "pubDate": "Fri, 31 Jul 2026 18:14:43 +0000",
+    "dc:creator": "Zeyi Yang",
+    "content": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+    "contentSnippet": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+    "guid": "6a6a5b055926d140f76c4e51",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-07-31T18:14:43.000Z",
+    "source": "Wired AI",
+    "slug": "chinese-ai-researchers-are-finding-their-voice-on-x"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
     "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
@@ -132,22 +151,5 @@
     "isoDate": "2026-07-31T15:00:09.000Z",
     "source": "Wired AI",
     "slug": "ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in"
-  },
-  {
-    "creator": "Jason Parham",
-    "title": "(No AI) This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-    "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-    "pubDate": "Fri, 31 Jul 2026 14:47:26 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-    "contentSnippet": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-    "guid": "6a6b983630c951744a71ecd1",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-07-31T14:47:26.000Z",
-    "source": "Wired AI",
-    "slug": "this-ai-assistant-wants-to-make-up-for-your-boyfriend-s-incompetence"
   }
 ]
