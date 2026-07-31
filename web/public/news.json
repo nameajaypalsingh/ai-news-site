@@ -1,69 +1,70 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
-    "contentSnippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
-    "guid": "https://techcrunch.com/?p=3148510",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "contentSnippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "guid": "https://techcrunch.com/?p=3148621",
     "categories": [
       "AI",
-      "Government & Policy",
       "Anthropic",
-      "dod",
-      "supply chain risk"
+      "OpenAI"
     ],
-    "isoDate": "2026-07-30T20:26:38.000Z",
+    "isoDate": "2026-07-31T01:06:54.000Z",
     "source": "TechCrunch AI",
-    "slug": "judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label"
+    "slug": "anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-    "contentSnippet": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-    "guid": "https://techcrunch.com/?p=3148423",
+    "creator": "Marina Temkin",
+    "title": "(No AI) AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "contentSnippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "guid": "https://techcrunch.com/?p=3148482",
     "categories": [
       "AI",
-      "AI wearables",
-      "friend"
+      "Anthropic",
+      "hedge fund",
+      "Leverage",
+      "situational awareness",
+      "stock market"
     ],
-    "isoDate": "2026-07-30T19:44:16.000Z",
+    "isoDate": "2026-07-30T23:25:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag"
+    "slug": "ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares"
+  },
+  {
+    "title": "(No AI) Tim Cook hints at iCloud Plus tier for AI power users",
+    "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "pubDate": "2026-07-30T22:29:45.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of Tim Cook](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\"\n\nThis fall, Apple will broadly launch its [long-delayed Siri AI](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) with iOS 27, which can do things like answer questions about what's on your screen and take action across your apps. It also includes a new standalone Siri AI app that offers a ChatGPT-like interface.\n\nIn June, [Apple said that its AI features](https://www.macrumors.com/2026/06/09/icloud-subscribers-get-higher-apple-intelligence-usage-limits/?link_source=ta_first_comment&taid=6a28101657887c0001f3feb1&utm_campaign=trueanthem&utm_medium=social&utm_source=facebook), including …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)",
+    "contentSnippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.\"\nThis fall, Apple will broadly launch its long-delayed Siri AI with iOS 27, which can do things like answer questions about what's on your screen and take action across your apps. It also includes a new standalone Siri AI app that offers a ChatGPT-like interface. \nIn June, Apple said that its AI features, including  …\nRead the full story at The Verge.",
+    "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+    "id": "https://www.theverge.com/?p=973552",
+    "isoDate": "2026-07-30T22:29:45.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "tim-cook-hints-at-icloud-plus-tier-for-ai-power-users"
   },
   {
     "title": "(No AI) The loss of Situational Awareness",
     "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
     "pubDate": "2026-07-30T20:46:25.000Z",
     "author": "Elizabeth Lopatto",
-    "content": "![A brain surrounded by blue lines as though it’s connected to things ooooo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNeither artificial nor intelligent.\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"[Long-Term Capital Management,](https://en.wikipedia.org/wiki/Long-Term_Capital_Management)\" or \"[Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advisors)\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\n\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold [most](https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/) or [all](https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel), [depending](https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses) on [who's](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html) [reporting](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b?mod=hp_lead_pos3), of its entire public stock portfolio to [Ken Griffin](https://fortune.com/2026/03/31/ken-griffin-citadel-securities-hedge-fund-miami-wall-street-trump-republican-politics/?utm_source=sfmc&utm_medium=email&utm_campaign=NL_fortune-features_2026-3-31_108268&utm_term=fortune-features&sfmc_id=14949166)'s Ci …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)",
-    "contentSnippet": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Ci …\nRead the full story at The Verge.",
-    "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+    "content": "![A brain surrounded by blue lines as though it’s connected to things ooooo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNeither artificial nor intelligent.\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"[Long-Term Capital Management](https://en.wikipedia.org/wiki/Long-Term_Capital_Management)\" or \"[Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advisors)\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\n\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold [most](https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/) or [all](https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel), [depending](https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses) on [who's](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html) [reporting](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b?mod=hp_lead_pos3), of its entire public stock portfolio to [Ken Griffin](https://fortune.com/2026/03/31/ken-griffin-citadel-securities-hedge-fund-miami-wall-street-trump-republican-politics/?utm_source=sfmc&utm_medium=email&utm_campaign=NL_fortune-features_2026-3-31_108268&utm_term=fortune-features&sfmc_id=14949166)'s Cit …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)",
+    "contentSnippet": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Cit …\nRead the full story at The Verge.",
+    "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
     "id": "https://www.theverge.com/?p=973467",
     "isoDate": "2026-07-30T20:46:25.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "the-loss-of-situational-awareness"
-  },
-  {
-    "title": "(No AI) LinkedIn actually adds a ‘seems like AI slop’ button",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-    "pubDate": "2026-07-30T18:43:26.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nA lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\n\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram [recently found](https://www.pangram.com/blog/ai-in-your-feed?ref=404media.co) that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, [as reported by _404Media_](https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/).\n\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says [in a post](https://www.linkedin.com/posts/hsrinivasan1_ai-slop-is-a-top-priority-for-all-of-us-activity-7488612009660346374-xZiY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIV1iYBHi7OPybalzIKilWBO4bTY5vJb8c). \"We reall …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button)",
-    "contentSnippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently found that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, as reported by 404Media.\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says in a post. \"We reall …\nRead the full story at The Verge.",
-    "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
-    "id": "https://www.theverge.com/?p=973384",
-    "isoDate": "2026-07-30T18:43:26.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "linkedin-actually-adds-a-seems-like-ai-slop-button"
   },
   {
     "title": "(No AI) Advancing the price-performance frontier with GPT-5.6",
@@ -80,18 +81,15 @@
     "slug": "advancing-the-price-performance-frontier-with-gpt-5-6"
   },
   {
-    "title": "(No AI) How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
-    "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "contentSnippet": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "guid": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-07-29T15:00:00.000Z",
+    "title": "(No AI) How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "pubDate": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "content": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "contentSnippet": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "guid": "https://openai.com/index/avatarin",
+    "isoDate": "2026-07-30T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark"
+    "slug": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -116,6 +114,24 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Louise Matsakis, Lily Hay Newman",
+    "title": "(No AI) Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+    "pubDate": "Fri, 31 Jul 2026 01:24:26 +0000",
+    "dc:creator": "Louise Matsakis, Lily Hay Newman",
+    "content": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+    "contentSnippet": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+    "guid": "6a6be6442d68d3fb7677f206",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-07-31T01:24:26.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-says-claude-hacked-3-organizations-during-cybersecurity-tests"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
     "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
@@ -131,23 +147,5 @@
     "isoDate": "2026-07-30T20:12:57.000Z",
     "source": "Wired AI",
     "slug": "everyone-is-freaking-out-about-openai-and-anthropic-s-race-for-dominance"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-    "pubDate": "Thu, 30 Jul 2026 17:51:10 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-    "contentSnippet": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-    "guid": "6a6a5566bc83c55887300785",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-07-30T17:51:10.000Z",
-    "source": "Wired AI",
-    "slug": "nvidia-s-open-source-alliance-is-missing-some-key-names-openai-and-anthropic"
   }
 ]
