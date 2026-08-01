@@ -68,6 +68,20 @@
     "slug": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth"
   },
   {
+    "title": "(No AI) Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics",
+    "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "content": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "contentSnippet": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "guid": "https://openai.com/index/ten-advances-in-mathematics",
+    "categories": [
+      "Publication"
+    ],
+    "isoDate": "2026-08-01T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "ten-advances-in-mathematics-and-theoretical-computer-science"
+  },
+  {
     "title": "(No AI) Advancing responsible AI across Europe",
     "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
@@ -80,20 +94,6 @@
     "isoDate": "2026-07-31T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "advancing-responsible-ai-across-europe"
-  },
-  {
-    "title": "(No AI) Building abundant intelligence",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "content": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "contentSnippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "guid": "https://openai.com/index/building-abundant-intelligence",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-07-31T15:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "building-abundant-intelligence"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -118,6 +118,23 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+    "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "pubDate": "Sat, 01 Aug 2026 09:30:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+    "contentSnippet": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+    "guid": "6a6cf2947a8ea3e0d21f9f15",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-08-01T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal"
+  },
+  {
     "creator": "Zeyi Yang",
     "title": "(No AI) Chinese AI Researchers Are Finding Their Voice on X",
     "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
@@ -133,22 +150,5 @@
     "isoDate": "2026-07-31T18:14:43.000Z",
     "source": "Wired AI",
     "slug": "chinese-ai-researchers-are-finding-their-voice-on-x"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-    "pubDate": "Fri, 31 Jul 2026 15:00:09 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-    "contentSnippet": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-    "guid": "6a6b53b9cbbdc345b2caec6d",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-07-31T15:00:09.000Z",
-    "source": "Wired AI",
-    "slug": "ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in"
   }
 ]
