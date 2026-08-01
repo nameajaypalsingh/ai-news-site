@@ -1,44 +1,43 @@
 [
   {
     "creator": "Lucas Ropek",
-    "title": "(No AI) Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+    "title": "(No AI) OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "contentSnippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "guid": "https://techcrunch.com/?p=3148844",
+    "content": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "contentSnippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "guid": "https://techcrunch.com/?p=3148949",
     "categories": [
       "AI",
-      "Google",
-      "google earth",
-      "In Brief"
+      "Hugging Face",
+      "In Brief",
+      "OpenAI"
     ],
-    "isoDate": "2026-07-31T19:47:28.000Z",
+    "isoDate": "2026-07-31T22:47:26.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
+    "slug": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have \\[…\\]",
-    "contentSnippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3148833",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India is starting to pay for apps, not just download them",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "India's app market generated a record $345 million in Q2.",
+    "contentSnippet": "India's app market generated a record $345 million in Q2.",
+    "guid": "https://techcrunch.com/?p=3148857",
     "categories": [
       "AI",
-      "Startups",
-      "Amazon",
-      "Anthropic",
-      "OpenAI",
-      "sam altman",
-      "SpaceX"
+      "Apps",
+      "app market",
+      "ChatGPT",
+      "Claude",
+      "google one"
     ],
-    "isoDate": "2026-07-31T17:26:32.000Z",
+    "isoDate": "2026-07-31T21:07:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "sam-altman-isn-t-the-only-one-who-wants-to-pump-the-brakes-on-ai"
+    "slug": "india-is-starting-to-pay-for-apps-not-just-download-them"
   },
   {
     "title": "(No AI) Google Earth’s AI deepfake tool only lasted one day",
