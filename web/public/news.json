@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "pubDate": "Sat, 01 Aug 2026 15:58:17 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "contentSnippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "guid": "https://techcrunch.com/?p=3146148",
+    "categories": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Reviews"
+    ],
+    "isoDate": "2026-08-01T15:58:17.000Z",
+    "source": "TechCrunch AI",
+    "slug": "this-9-key-physically-locks-your-most-addictive-apps"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -17,27 +36,6 @@
     "isoDate": "2026-07-31T22:47:26.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok"
-  },
-  {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) India is starting to pay for apps, not just download them",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "India's app market generated a record $345 million in Q2.",
-    "contentSnippet": "India's app market generated a record $345 million in Q2.",
-    "guid": "https://techcrunch.com/?p=3148857",
-    "categories": [
-      "AI",
-      "Apps",
-      "app market",
-      "ChatGPT",
-      "Claude",
-      "google one"
-    ],
-    "isoDate": "2026-07-31T21:07:45.000Z",
-    "source": "TechCrunch AI",
-    "slug": "india-is-starting-to-pay-for-apps-not-just-download-them"
   },
   {
     "title": "(No AI) Google Earth’s AI deepfake tool only lasted one day",
@@ -136,7 +134,7 @@
   },
   {
     "creator": "Lily Hay Newman",
-    "title": "(No AI) Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+    "title": "(No AI) The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
     "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
     "pubDate": "Sat, 01 Aug 2026 09:30:00 +0000",
     "dc:creator": "Lily Hay Newman",
@@ -149,6 +147,6 @@
     ],
     "isoDate": "2026-08-01T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal"
+    "slug": "the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier"
   }
 ]
