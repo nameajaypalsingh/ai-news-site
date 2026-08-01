@@ -118,6 +118,23 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
+    "title": "(No AI) 7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000",
+    "dc:creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
+    "content": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+    "contentSnippet": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+    "guid": "6a6cbc5c2bba9f4c44a51581",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-08-01T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran"
+  },
+  {
     "creator": "Lily Hay Newman",
     "title": "(No AI) Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
     "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
@@ -133,22 +150,5 @@
     "isoDate": "2026-08-01T09:30:00.000Z",
     "source": "Wired AI",
     "slug": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal"
-  },
-  {
-    "creator": "Zeyi Yang",
-    "title": "(No AI) Chinese AI Researchers Are Finding Their Voice on X",
-    "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-    "pubDate": "Fri, 31 Jul 2026 18:14:43 +0000",
-    "dc:creator": "Zeyi Yang",
-    "content": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-    "contentSnippet": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-    "guid": "6a6a5b055926d140f76c4e51",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-07-31T18:14:43.000Z",
-    "source": "Wired AI",
-    "slug": "chinese-ai-researchers-are-finding-their-voice-on-x"
   }
 ]
