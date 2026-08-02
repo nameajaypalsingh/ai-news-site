@@ -115,6 +115,23 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Isabella Ward",
+    "title": "(No AI) Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "pubDate": "Sun, 02 Aug 2026 06:27:27 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+    "contentSnippet": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+    "guid": "6a6b75f90d0030afd61c18e6",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-02T06:27:27.000Z",
+    "source": "Wired AI",
+    "slug": "europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives"
+  },
+  {
     "creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
     "title": "(No AI) 7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
     "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
@@ -130,22 +147,5 @@
     "isoDate": "2026-08-01T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran"
-  },
-  {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-    "pubDate": "Sat, 01 Aug 2026 09:30:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-    "contentSnippet": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-    "guid": "6a6cf2947a8ea3e0d21f9f15",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-08-01T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier"
   }
 ]
