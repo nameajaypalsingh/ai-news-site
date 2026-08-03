@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "contentSnippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "guid": "https://techcrunch.com/?p=3148764",
+    "categories": [
+      "Venture",
+      "AI",
+      "Exclusive"
+    ],
+    "isoDate": "2026-08-03T10:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Sam Altman and AI’s decel debate",
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -19,23 +37,18 @@
     "slug": "sam-altman-and-ai-s-decel-debate"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "contentSnippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "guid": "https://techcrunch.com/?p=3149027",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "SpaceX",
-      "xAI"
-    ],
-    "isoDate": "2026-08-01T20:26:04.000Z",
-    "source": "TechCrunch AI",
-    "slug": "judge-denies-xai-s-request-to-block-minnesota-ban-on-nudify-apps"
+    "title": "(No AI) China’s Alibaba takes another swipe at America’s AI supremacy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "pubDate": "2026-08-03T11:01:11.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [blog post](https://qwen.ai/blog?id=qwen3.8) published on Monday. The release had been expected after the company [previewed](https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen) the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship.\n\nThe open release of another highly capable Chinese AI model adds to [sky-high tensions](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) along multiple fronts in Silicon Valley and Washi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)",
+    "contentSnippet": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.  Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship.\nThe open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washi …\nRead the full story at The Verge.",
+    "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+    "id": "https://www.theverge.com/?p=974342",
+    "isoDate": "2026-08-03T11:01:11.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy"
   },
   {
     "title": "(No AI) Fender’s CEO seems to think your bandmates are just analog AI",
@@ -50,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "fender-s-ceo-seems-to-think-your-bandmates-are-just-analog-ai"
-  },
-  {
-    "title": "(No AI) Is paying artists enough to convince them to embrace AI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "pubDate": "2026-08-02T13:00:00.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![An AI-generated image of a woman in armor standing on al elevated platform surrounded by soldiers.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516,0,97.311874389648,100)\n\nIllustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many [gen AI boosters have argued](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/) that it's necessary for the technology's evolution. This has led to [contentious legal battles](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic), but it's also given rise to [a new wave of AI startups](https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck) like Pippa that market their services as being more ethical than the competition.\n\nLike most companies selling access to text-to-video models, Pippa's main product is short bursts of user-generated footage that can be cobbled toget …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)",
-    "contentSnippet": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.\nLike most companies selling access to text-to-video models, Pippa's main product is short bursts of user-generated footage that can be cobbled toget …\nRead the full story at The Verge.",
-    "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
-    "id": "https://www.theverge.com/?p=974018",
-    "isoDate": "2026-08-02T13:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
-    "slug": "is-paying-artists-enough-to-convince-them-to-embrace-ai"
   },
   {
     "title": "(No AI) Ten advances in mathematics and theoretical computer science",
@@ -116,37 +115,37 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
-    "creator": "Isabella Ward",
-    "title": "(No AI) Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-    "pubDate": "Sun, 02 Aug 2026 10:00:00 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-    "contentSnippet": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-    "guid": "6a6b75f90d0030afd61c18e6",
+    "creator": "Kate Taylor",
+    "title": "(No AI) AI Conquered Coding. Fast Food Is Next",
+    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+    "dc:creator": "Kate Taylor",
+    "content": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+    "contentSnippet": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+    "guid": "6a6b52797f909c339868c2a0",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-08-02T10:00:00.000Z",
+    "isoDate": "2026-08-03T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives"
+    "slug": "ai-conquered-coding-fast-food-is-next"
   },
   {
-    "creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
-    "title": "(No AI) 7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-    "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000",
-    "dc:creator": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
-    "content": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-    "contentSnippet": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-    "guid": "6a6cbc5c2bba9f4c44a51581",
+    "creator": "Caroline Haskins",
+    "title": "(No AI) The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "pubDate": "Mon, 03 Aug 2026 09:30:00 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "contentSnippet": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "guid": "6a6a62e0bca885f62cd93ec6",
     "categories": [
-      "Security",
-      "Security / Security News"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-08-01T10:30:00.000Z",
+    "isoDate": "2026-08-03T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran"
+    "slug": "the-guardrail-guy-went-viral-for-posting-about-flock-cameras-then-someone-destroyed-them"
   }
 ]
