@@ -1,41 +1,39 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Congress’s favorite AI tool? ChatGPT",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-    "contentSnippet": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-    "guid": "https://techcrunch.com/?p=3149151",
+    "creator": "Julie Bort",
+    "title": "(No AI) AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+    "contentSnippet": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+    "guid": "https://techcrunch.com/?p=3148841",
     "categories": [
+      "TC",
+      "Startups",
       "AI",
-      "Government & Policy",
-      "ChatGPT",
-      "Congress",
-      "OpenAI"
+      "AWS",
+      "vibe coding"
     ],
-    "isoDate": "2026-08-03T16:40:55.000Z",
+    "isoDate": "2026-08-03T20:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "congress-s-favorite-ai-tool-chatgpt"
+    "slug": "aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "contentSnippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "guid": "https://techcrunch.com/?p=3148764",
+    "creator": "Russell Brandom",
+    "title": "(No AI) DesignArena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "contentSnippet": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "guid": "https://techcrunch.com/?p=3149146",
     "categories": [
-      "AI",
-      "Venture",
-      "Exclusive"
+      "AI"
     ],
-    "isoDate": "2026-08-03T10:00:00.000Z",
+    "isoDate": "2026-08-03T19:28:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem"
+    "slug": "designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models"
   },
   {
     "title": "(No AI) Europe’s AI labeling and transparency rules are now in effect",
@@ -66,6 +64,20 @@
     "slug": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy"
   },
   {
+    "title": "(No AI) How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "contentSnippet": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "guid": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "categories": [
+      "Engineering"
+    ],
+    "isoDate": "2026-08-03T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months"
+  },
+  {
     "title": "(No AI) Ten advances in mathematics and theoretical computer science",
     "link": "https://openai.com/index/ten-advances-in-mathematics",
     "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
@@ -78,20 +90,6 @@
     "isoDate": "2026-08-01T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "ten-advances-in-mathematics-and-theoretical-computer-science"
-  },
-  {
-    "title": "(No AI) Advancing responsible AI across Europe",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "content": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "contentSnippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "guid": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-07-31T15:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "advancing-responsible-ai-across-europe"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
