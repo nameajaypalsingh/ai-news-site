@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Congress’s favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "contentSnippet": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "guid": "https://techcrunch.com/?p=3149151",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "ChatGPT",
+      "Congress",
+      "OpenAI"
+    ],
+    "isoDate": "2026-08-03T16:40:55.000Z",
+    "source": "TechCrunch AI",
+    "slug": "congress-s-favorite-ai-tool-chatgpt"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -9,8 +29,8 @@
     "contentSnippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
     "guid": "https://techcrunch.com/?p=3148764",
     "categories": [
-      "Venture",
       "AI",
+      "Venture",
       "Exclusive"
     ],
     "isoDate": "2026-08-03T10:00:00.000Z",
@@ -18,23 +38,18 @@
     "slug": "a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-    "contentSnippet": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-    "guid": "https://techcrunch.com/?p=3149056",
-    "categories": [
-      "AI",
-      "Hugging Face",
-      "OpenAI",
-      "sam altman"
-    ],
-    "isoDate": "2026-08-02T20:54:22.000Z",
-    "source": "TechCrunch AI",
-    "slug": "sam-altman-and-ai-s-decel-debate"
+    "title": "(No AI) Europe’s AI labeling and transparency rules are now in effect",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "pubDate": "2026-08-03T17:38:45.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![AI labels designed by the European Commission.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The [new transparency obligations](https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en) under the bloc's landmark AI Act came into effect [on August 2nd](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714), requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\n\nThe [transparency rules](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50) differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\n\n![AI labels designed by the EU, with some use case examples.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-03-181006.jpg?quality=90&strip=all&crop=0,0,100,100 \"AI labels designed by the EU, with some use case examples.\")\n\nProviders must design AI systems to explicitly no …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)",
+    "contentSnippet": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\nThe transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\nProviders must design AI systems to explicitly no …\nRead the full story at The Verge.",
+    "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has [&#8230;]",
+    "id": "https://www.theverge.com/?p=974571",
+    "isoDate": "2026-08-03T17:38:45.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "europe-s-ai-labeling-and-transparency-rules-are-now-in-effect"
   },
   {
     "title": "(No AI) China’s Alibaba takes another swipe at America’s AI supremacy",
@@ -49,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy"
-  },
-  {
-    "title": "(No AI) Fender’s CEO seems to think your bandmates are just analog AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "pubDate": "2026-08-02T19:36:08.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEdward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\n\nFender CEO Edward \"Bud\" Cole gave an interview to [_T3_](https://www.t3.com/home-living/welcome-to-tele-town-fender-celebrates-75-years-of-the-telecaster) in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started [making the rounds](https://guitar.com/news/industry-news/fender-ceo-defends-ai/) [recently](https://www.guitarworld.com/artists/guitarists/fender-ceo-bud-cole-ai-comments), pouring more fuel on an already raging fire of bad PR following the company [pissing off](https://www.youtube.com/watch?v=OU7RUpkXsV0) [basically](https://youtu.be/BOv8HD4LklY) the [entire](https://youtu.be/FXdGYqlLugE) guitar-playing [community](https://youtu.be/l4x1oHfu8w0) by [sending](https://youtu.be/vUIRZz5BbUY) [cease-and-desist](https://youtu.be/18Np7TmKbS0) letters to builders, claiming copyright of the Stratocaster body shape.\n\nSome influential guitar YouTubers have even said they're [done buying Fender gear](https://youtu.be/tK32zkbWOMc) in the wake of the controversy. And Cole's resurfaced comments comparing cover songs and bandmates to a sort …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)",
-    "contentSnippet": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright of the Stratocaster body shape.\nSome influential guitar YouTubers have even said they're done buying Fender gear in the wake of the controversy. And Cole's resurfaced comments comparing cover songs and bandmates to a sort …\nRead the full story at The Verge.",
-    "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
-    "id": "https://www.theverge.com/?p=974265",
-    "isoDate": "2026-08-02T19:36:08.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "fender-s-ceo-seems-to-think-your-bandmates-are-just-analog-ai"
   },
   {
     "title": "(No AI) Ten advances in mathematics and theoretical computer science",
@@ -137,8 +138,8 @@
     "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
     "pubDate": "Mon, 03 Aug 2026 09:30:00 +0000",
     "dc:creator": "Caroline Haskins",
-    "content": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-    "contentSnippet": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "content": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "contentSnippet": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
     "guid": "6a6a62e0bca885f62cd93ec6",
     "categories": [
       "Business",
