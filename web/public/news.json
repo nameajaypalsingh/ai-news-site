@@ -1,39 +1,42 @@
 [
   {
     "creator": "Julie Bort",
+    "title": "(No AI) After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "contentSnippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "guid": "https://techcrunch.com/?p=3149421",
+    "categories": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Alex Karp",
+      "Palantir"
+    ],
+    "isoDate": "2026-08-03T23:19:50.000Z",
+    "source": "TechCrunch AI",
+    "slug": "after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist"
+  },
+  {
+    "creator": "Julie Bort",
     "title": "(No AI) AWS is helping vibe-coding startup Superblocks, and the implications are big",
     "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
     "dc:creator": "Julie Bort",
-    "content": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
-    "contentSnippet": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+    "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+    "contentSnippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
     "guid": "https://techcrunch.com/?p=3148841",
     "categories": [
-      "TC",
-      "Startups",
       "AI",
+      "Startups",
       "AWS",
       "vibe coding"
     ],
     "isoDate": "2026-08-03T20:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
-  },
-  {
-    "creator": "Russell Brandom",
-    "title": "(No AI) DesignArena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-    "contentSnippet": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-    "guid": "https://techcrunch.com/?p=3149146",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-08-03T19:28:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models"
   },
   {
     "title": "(No AI) Europe’s AI labeling and transparency rules are now in effect",
@@ -78,18 +81,15 @@
     "slug": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months"
   },
   {
-    "title": "(No AI) Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
-    "content": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "contentSnippet": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "guid": "https://openai.com/index/ten-advances-in-mathematics",
-    "categories": [
-      "Publication"
-    ],
-    "isoDate": "2026-08-01T00:00:00.000Z",
+    "title": "(No AI) Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "content": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "contentSnippet": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "guid": "https://openai.com/index/circles",
+    "isoDate": "2026-08-03T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "ten-advances-in-mathematics-and-theoretical-computer-science"
+    "slug": "circles-powers-telco-personalization-with-openai-technology"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -114,6 +114,23 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
+    "creator": "Dexter Thomas",
+    "title": "(No AI) Did an AI Music App Just Snitch on the Song of the Summer?",
+    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "pubDate": "Mon, 03 Aug 2026 22:27:46 +0000",
+    "dc:creator": "Dexter Thomas",
+    "content": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+    "contentSnippet": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+    "guid": "6a70bbe220d2b4e361aa7fe5",
+    "categories": [
+      "Culture",
+      "Culture / Music"
+    ],
+    "isoDate": "2026-08-03T22:27:46.000Z",
+    "source": "Wired AI",
+    "slug": "did-an-ai-music-app-just-snitch-on-the-song-of-the-summer"
+  },
+  {
     "creator": "Kate Taylor",
     "title": "(No AI) AI Conquered Coding. Fast Food Is Next",
     "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
@@ -129,22 +146,5 @@
     "isoDate": "2026-08-03T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-conquered-coding-fast-food-is-next"
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-    "pubDate": "Mon, 03 Aug 2026 09:30:00 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-    "contentSnippet": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-    "guid": "6a6a62e0bca885f62cd93ec6",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-03T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-guardrail-guy-went-viral-for-posting-about-flock-cameras-then-someone-destroyed-them"
   }
 ]
