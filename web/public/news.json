@@ -1,42 +1,52 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-    "contentSnippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-    "guid": "https://techcrunch.com/?p=3149421",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "contentSnippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "guid": "https://techcrunch.com/?p=3149547",
     "categories": [
       "AI",
-      "Enterprise",
-      "TC",
-      "Alex Karp",
-      "Palantir"
+      "Apple",
+      "lawsuit",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-03T23:19:50.000Z",
+    "isoDate": "2026-08-04T14:03:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist"
+    "slug": "apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-    "contentSnippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-    "guid": "https://techcrunch.com/?p=3148841",
+    "creator": "Dominic-Madori Davis",
+    "title": "(No AI) Is the future of data centers portable? Runware builds a pod to find out",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
+    "dc:creator": "Dominic-Madori Davis",
+    "content": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "contentSnippet": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "guid": "https://techcrunch.com/?p=3149459",
     "categories": [
-      "AI",
-      "Startups",
-      "AWS",
-      "vibe coding"
+      "AI"
     ],
-    "isoDate": "2026-08-03T20:00:00.000Z",
+    "isoDate": "2026-08-04T13:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
+    "slug": "is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out"
+  },
+  {
+    "title": "(No AI) OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "pubDate": "2026-08-04T11:27:55.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Sam Altman with OpenAI logo on green and gray background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\n\nApple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"[Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/),\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to challenge allegations central to the case.\n\nThis isn't a legal response from OpenAI, but it's an attempt to sway the court of public opinion by poking contradictions into Apple's case using cherry-picked communications.\n\nThe [lawsuit filed by Apple last month](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) primarily rev …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)",
+    "contentSnippet": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nApple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to challenge allegations central to the case.\nThis isn't a legal response from OpenAI, but it's an attempt to sway the court of public opinion by poking contradictions into Apple's case using cherry-picked communications.\nThe lawsuit filed by Apple last month primarily rev …\nRead the full story at The Verge.",
+    "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email [&#8230;]",
+    "id": "https://www.theverge.com/?p=974914",
+    "isoDate": "2026-08-04T11:27:55.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion"
   },
   {
     "title": "(No AI) Can Reddit fend off a new wave of AI SEO spam?",
@@ -51,20 +61,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "can-reddit-fend-off-a-new-wave-of-ai-seo-spam"
-  },
-  {
-    "title": "(No AI) Europe’s AI labeling and transparency rules are now in effect",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "pubDate": "2026-08-03T17:38:45.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![AI labels designed by the European Commission.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The [new transparency obligations](https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en) under the bloc's landmark AI Act came into effect [on August 2nd](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714), requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\n\nThe [transparency rules](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50) differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\n\n![AI labels designed by the EU, with some use case examples.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-03-181006.jpg?quality=90&strip=all&crop=0,0,100,100 \"AI labels designed by the EU, with some use case examples.\")\n\nProviders must design AI systems to explicitly no …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)",
-    "contentSnippet": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\nThe transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\nProviders must design AI systems to explicitly no …\nRead the full story at The Verge.",
-    "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has [&#8230;]",
-    "id": "https://www.theverge.com/?p=974571",
-    "isoDate": "2026-08-03T17:38:45.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "europe-s-ai-labeling-and-transparency-rules-are-now-in-effect"
   },
   {
     "title": "(No AI) Apple is getting this wrong",
@@ -117,37 +113,38 @@
     "slug": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control"
   },
   {
-    "creator": "Katie Drummond",
-    "title": "(No AI) ‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
-    "pubDate": "Tue, 04 Aug 2026 10:30:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
-    "contentSnippet": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
-    "guid": "6a6caf552bba9f4c44a513ef",
+    "creator": "Ben Dowsett",
+    "title": "(No AI) Is This Poker Player Bluffing? The AI Thinks So",
+    "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "pubDate": "Tue, 04 Aug 2026 11:00:00 +0000",
+    "dc:creator": "Ben Dowsett",
+    "content": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+    "contentSnippet": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+    "guid": "6a711681f4ac0ca4079ed0eb",
     "categories": [
-      "Culture"
+      "Gear",
+      "Gear / Trends"
     ],
-    "isoDate": "2026-08-04T10:30:00.000Z",
+    "isoDate": "2026-08-04T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "everyone-is-doing-it-the-truth-about-ai-in-hollywood"
+    "slug": "is-this-poker-player-bluffing-the-ai-thinks-so"
   },
   {
-    "creator": "Molly Taft",
-    "title": "(No AI) How Data Centers Broke American Politics",
-    "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
-    "contentSnippet": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
-    "guid": "6a21cbb918920d19dd0adecd",
+    "creator": "Paresh Dave",
+    "title": "(No AI) How One Startup Built a (Mostly) China-Free Robot",
+    "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "pubDate": "Tue, 04 Aug 2026 10:45:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+    "contentSnippet": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+    "guid": "6a6a58489bb0216083756ec1",
     "categories": [
-      "The Big Story",
-      "Science",
-      "Science / Environment"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Startups"
     ],
-    "isoDate": "2026-08-04T10:00:00.000Z",
+    "isoDate": "2026-08-04T10:45:00.000Z",
     "source": "Wired AI",
-    "slug": "how-data-centers-broke-american-politics"
+    "slug": "how-one-startup-built-a-mostly-china-free-robot"
   }
 ]
