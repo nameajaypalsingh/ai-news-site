@@ -1,66 +1,85 @@
 [
   {
     "creator": "Sarah Perez",
-    "title": "(No AI) Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
+    "title": "(No AI) Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-    "contentSnippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-    "guid": "https://techcrunch.com/?p=3149547",
+    "content": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "contentSnippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "guid": "https://techcrunch.com/?p=3149610",
     "categories": [
       "AI",
-      "Apple",
-      "lawsuit",
-      "OpenAI"
+      "Apps",
+      "Media & Entertainment",
+      "music streaming",
+      "Spotify"
     ],
-    "isoDate": "2026-08-04T14:03:01.000Z",
+    "isoDate": "2026-08-04T15:50:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai"
+    "slug": "spotify-expands-ai-remix-and-covers-project-with-merlin-partnership"
   },
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) Is the future of data centers portable? Runware builds a pod to find out",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-    "contentSnippet": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-    "guid": "https://techcrunch.com/?p=3149459",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Texas halts new data centers as governor calls for audits",
+    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "pubDate": "Tue, 04 Aug 2026 15:42:35 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+    "contentSnippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+    "guid": "https://techcrunch.com/?p=3149621",
     "categories": [
-      "AI"
+      "AI",
+      "Climate",
+      "Government & Policy",
+      "data centers",
+      "texas"
     ],
-    "isoDate": "2026-08-04T13:00:00.000Z",
+    "isoDate": "2026-08-04T15:42:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out"
+    "slug": "texas-halts-new-data-centers-as-governor-calls-for-audits"
   },
   {
-    "title": "(No AI) OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-    "pubDate": "2026-08-04T11:27:55.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Sam Altman with OpenAI logo on green and gray background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\n\nApple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"[Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/),\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to challenge allegations central to the case.\n\nThis isn't a legal response from OpenAI, but it's an attempt to sway the court of public opinion by poking contradictions into Apple's case using cherry-picked communications.\n\nThe [lawsuit filed by Apple last month](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) primarily rev …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)",
-    "contentSnippet": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nApple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email exchanges to challenge allegations central to the case.\nThis isn't a legal response from OpenAI, but it's an attempt to sway the court of public opinion by poking contradictions into Apple's case using cherry-picked communications.\nThe lawsuit filed by Apple last month primarily rev …\nRead the full story at The Verge.",
-    "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email [&#8230;]",
-    "id": "https://www.theverge.com/?p=974914",
-    "isoDate": "2026-08-04T11:27:55.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-drags-apple-s-lawsuit-into-the-court-of-public-opinion"
-  },
-  {
-    "title": "(No AI) Can Reddit fend off a new wave of AI SEO spam?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "pubDate": "2026-08-04T10:00:00.000Z",
+    "title": "(No AI) How an OpenAI influencer trip backfired ",
+    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "pubDate": "2026-08-04T17:46:41.000Z",
     "author": "Mia Sato",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEarlier this year, a Reddit user had [asked](https://www.reddit.com/r/SkincareAddicts/comments/1t9jvcf/magic_molecule_hypochlorous_acid_spray_is_it/) members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first.\n\n\"I haven't personally tried \\[that brand\\] so I can't fully compare, sorry,\" they commented. \"But I have been using a similar hypochlorous acid spray from Honeydew Labs and I've honestly really liked it.\"\n\nPrimary-Taro4254 helpfully shared their experience using the spray to calm their skin's redness and irritation, and even threw in some of Honeydew Labs' crede …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam)",
-    "contentSnippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first.\n\"I haven't personally tried [that brand] so I can't fully compare, sorry,\" they commented. \"But I have been using a similar hypochlorous acid spray from Honeydew Labs and I've honestly really liked it.\" \nPrimary-Taro4254 helpfully shared their experience using the spray to calm their skin's redness and irritation, and even threw in some of Honeydew Labs' crede …\nRead the full story at The Verge.",
-    "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
-    "id": "https://www.theverge.com/?p=973098",
-    "isoDate": "2026-08-04T10:00:00.000Z",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness.\n\nUsually it is [fast fashion companies](https://www.theverge.com/2023/6/30/23779058/shein-influencer-trip-backlash-ads-forced-labor) or [beauty brands](https://www.thecut.com/2023/05/why-black-women-creators-are-accusing-tarte-of-mistreatment.html) flying out influencers with the goal of flooding social media with sponsored content. This time, it was a major AI company.\n\nOver the weekend, several influencers began posting about OpenAI's \"first ever brand trip,\" which appears to have taken place outside of N …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing)",
+    "contentSnippet": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. \nUsually it is fast fashion companies or beauty brands flying out influencers with the goal of flooding social media with sponsored content. This time, it was a major AI company.\nOver the weekend, several influencers began posting about OpenAI's \"first ever brand trip,\" which appears to have taken place outside of N …\nRead the full story at The Verge.",
+    "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+    "id": "https://www.theverge.com/?p=975173",
+    "isoDate": "2026-08-04T17:46:41.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "can-reddit-fend-off-a-new-wave-of-ai-seo-spam"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-an-openai-influencer-trip-backfired"
+  },
+  {
+    "title": "(No AI) ‘Not healthy’ LLM use is more common than you think",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "pubDate": "2026-08-04T17:33:46.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nHank Green, a popular YouTuber and science communicator, [said](https://www.theverge.com/tech/973893/hank-green-says-his-youtube-channel-may-need-to-pause-after-admitting-to-relying-on-ai-for-research) he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts.\n\nMuch of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authenticity and credibility with a technology trained on the (often uncompensated) works of others, and which has a well-known tendency to generate plausible-sounding falsehoods. Some [attention](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) has fallen on Green's description of what appears to be an unh …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy)",
+    "contentSnippet": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts.\nMuch of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authenticity and credibility with a technology trained on the (often uncompensated) works of others, and which has a well-known tendency to generate plausible-sounding falsehoods. Some attention has fallen on Green's description of what appears to be an unh …\nRead the full story at The Verge.",
+    "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
+    "id": "https://www.theverge.com/?p=975180",
+    "isoDate": "2026-08-04T17:33:46.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "not-healthy-llm-use-is-more-common-than-you-think"
+  },
+  {
+    "title": "(No AI) New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "content": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "contentSnippet": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "guid": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-08-04T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "new-ways-to-learn-and-teach-with-chatgpt-work-and-codex"
   },
   {
     "title": "(No AI) Apple is getting this wrong",
@@ -75,20 +94,6 @@
     "isoDate": "2026-08-03T22:00:00.000Z",
     "source": "OpenAI",
     "slug": "apple-is-getting-this-wrong"
-  },
-  {
-    "title": "(No AI) How we built a realtime system for responsive voice AI in six months",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "contentSnippet": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "guid": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "categories": [
-      "Engineering"
-    ],
-    "isoDate": "2026-08-03T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
