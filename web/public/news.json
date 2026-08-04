@@ -67,6 +67,20 @@
     "slug": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy"
   },
   {
+    "title": "(No AI) Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "pubDate": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "content": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "contentSnippet": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "guid": "https://openai.com/index/apple-is-getting-this-wrong",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-08-03T22:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "apple-is-getting-this-wrong"
+  },
+  {
     "title": "(No AI) How we built a realtime system for responsive voice AI in six months",
     "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -79,17 +93,6 @@
     "isoDate": "2026-08-03T07:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months"
-  },
-  {
-    "title": "(No AI) Circles powers telco personalization with OpenAI technology",
-    "link": "https://openai.com/index/circles",
-    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "content": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "contentSnippet": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "guid": "https://openai.com/index/circles",
-    "isoDate": "2026-08-03T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "circles-powers-telco-personalization-with-openai-technology"
   },
   {
     "title": "(No AI) Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
