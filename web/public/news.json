@@ -42,6 +42,20 @@
     "slug": "klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders"
   },
   {
+    "title": "(No AI) OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "pubDate": "2026-08-06T09:33:11.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Photo collage of Sam Altman in front of the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489)\n\nOpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In [a motion filed yesterday](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf) to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information as \"trade secrets,\" adding that Apple made no reasonable efforts to maintain such secrecy.\n\nThe dismissal request is in response to a [lawsuit filed by Apple in July](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets), alleging that [former Apple employees](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims) that went on to work for OpenAI stole confidential documents to further [OpenAI …](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request)",
+    "contentSnippet": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information as \"trade secrets,\" adding that Apple made no reasonable efforts to maintain such secrecy.\nThe dismissal request is in response to a lawsuit filed by Apple in July, alleging that former Apple employees that went on to work for OpenAI stole confidential documents to further OpenAI …\nRead the full story at The Verge.",
+    "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
+    "id": "https://www.theverge.com/?p=976042",
+    "isoDate": "2026-08-06T09:33:11.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+    "slug": "openai-says-apple-s-trade-secrets-lawsuit-is-rotten-to-its-core"
+  },
+  {
     "title": "(No AI) Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
     "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
     "pubDate": "2026-08-06T00:25:10.000Z",
@@ -54,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months"
-  },
-  {
-    "title": "(No AI) Sure seems like Fenix Flexin used AI music generator Treblo",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-    "pubDate": "2026-08-05T16:57:25.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![The seemingly AI generated cover art for Fenix Flexin’s Rubberz.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnd you thought we were done with this one… | Image: Fenix Flexin\n\nWe were pretty sure that [Fenix Flexin's \"Rubberz\"](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) was made using AI, but musician [Medasin](https://www.instagram.com/p/Dbbf1vCBuGO/) was confident that it was made using Treblo specifically. Now the company and a new [detection tool](https://treblo.com/detect) seem to confirm it.\n\nOn Monday, the company announced the open-source [Treblo AI Music Classifier](https://treblo.com/blog/treblo-ai-music-classifier), which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than 1 in 10,000. That's not unimpeachable, but it's notable that the company's own Classifier determined that \"Rubberz\" was \"very likely Treblo\" with \"high confidence,\" adding more fuel to the PR nightmare for Fenix.\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo)",
-    "contentSnippet": "And you thought we were done with this one… | Image: Fenix Flexin\t\n\nWe were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it.\nOn Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than 1 in 10,000. That's not unimpeachable, but it's notable that the company's own Classifier determined that \"Rubberz\" was \"very likely Treblo\" with \"high confidence,\" adding more fuel to the PR nightmare for Fenix. \n …\nRead the full story at The Verge.",
-    "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
-    "id": "https://www.theverge.com/?p=975528",
-    "isoDate": "2026-08-05T16:57:25.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sure-seems-like-fenix-flexin-used-ai-music-generator-treblo"
   },
   {
     "title": "(No AI) Third-party cyber evaluations involving OpenAI models",
