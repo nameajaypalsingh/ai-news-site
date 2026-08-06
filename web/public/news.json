@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "contentSnippet": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "guid": "https://techcrunch.com/?p=3150382",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "In Brief",
+      "Mark Zuckerberg",
+      "Meta",
+      "OpenAI"
+    ],
+    "isoDate": "2026-08-05T21:21:28.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-launches-muse-code-an-ai-agent-for-large-code-bases"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
     "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
@@ -21,23 +42,18 @@
     "slug": "klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "contentSnippet": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "guid": "https://techcrunch.com/?p=3150299",
-    "categories": [
-      "AI",
-      "DeepMind",
-      "Google",
-      "Jeff Dean"
-    ],
-    "isoDate": "2026-08-05T19:30:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup"
+    "title": "(No AI) Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "pubDate": "2026-08-06T00:25:10.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nxAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a [\"massive improvement\"](https://x.com/elonmusk/status/1972992095859433671?lang=en) over Wikipedia, apparently hasn't been updated since April 24th, [according to a report from _Lawfare_](https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone). \"As far as we can tell, no entry has changed in more than three months,\" _Lawfare_ said.\n\nGrokipedia launched in v0.1 [in October 2025](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied) with an initial batch of 885,000 articles, and is now on v0.2 (released [in November 2025](https://grokipedia.com/page/Grokipedia_version_02)) and has more than 6,000,000 total articles, [according to grokipedia.com/live](https://grokipedia.com/live). But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead)",
+    "contentSnippet": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
+    "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+    "id": "https://www.theverge.com/?p=976004",
+    "isoDate": "2026-08-06T00:25:10.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-s-attempt-at-an-ai-wikipedia-hasn-t-been-updated-in-months"
   },
   {
     "title": "(No AI) Sure seems like Fenix Flexin used AI music generator Treblo",
@@ -52,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "sure-seems-like-fenix-flexin-used-ai-music-generator-treblo"
-  },
-  {
-    "title": "(No AI) Google just announced a major shakeup of its top AI leadership",
-    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-    "pubDate": "2026-08-05T16:47:23.000Z",
-    "author": "Jay Peters",
-    "content": "![An image of Demis Hassabis](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\n\nHassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai [announced on Wednesday](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/). Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray Kavukcuoglu, formerly DeepMind's CTO, is stepping up to become Google's SVP of DeepMind and will report to Pichai. Kavukcuoglu will remain Google's chief AI architect as well.\n\n\"​​As you've heard me say many times, I've always believed the No.1 application of AI should be to improve human h …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup)",
-    "contentSnippet": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.\nHassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray Kavukcuoglu, formerly DeepMind's CTO, is stepping up to become Google's SVP of DeepMind and will report to Pichai. Kavukcuoglu will remain Google's chief AI architect as well.\n\"​​As you've heard me say many times, I've always believed the No.1 application of AI should be to improve human h …\nRead the full story at The Verge.",
-    "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray [&#8230;]",
-    "id": "https://www.theverge.com/?p=975677",
-    "isoDate": "2026-08-05T16:47:23.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-just-announced-a-major-shakeup-of-its-top-ai-leadership"
   },
   {
     "title": "(No AI) Third-party cyber evaluations involving OpenAI models",
@@ -119,36 +121,36 @@
   },
   {
     "creator": "Lily Hay Newman",
-    "title": "(No AI) The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-    "pubDate": "Wed, 05 Aug 2026 19:42:12 +0000",
+    "title": "(No AI) OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "pubDate": "Thu, 06 Aug 2026 00:15:04 +0000",
     "dc:creator": "Lily Hay Newman",
-    "content": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-    "contentSnippet": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-    "guid": "6a70b091636ff58caa3e5902",
+    "content": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+    "contentSnippet": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+    "guid": "6a73566edeeb035202db1641",
     "categories": [
       "Security",
       "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-08-05T19:42:12.000Z",
+    "isoDate": "2026-08-06T00:15:04.000Z",
     "source": "Wired AI",
-    "slug": "the-most-dangerous-ai-hacking-techniques-still-have-humans-in-the-loop"
+    "slug": "openai-didn-t-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-    "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-    "pubDate": "Wed, 05 Aug 2026 18:30:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-    "contentSnippet": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-    "guid": "6a6cf0b4d31e39100d380732",
+    "creator": "Matt Burgess",
+    "title": "(No AI) OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "pubDate": "Wed, 05 Aug 2026 23:30:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+    "contentSnippet": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+    "guid": "6a6b62c925171f31c973c6ee",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Security",
+      "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-08-05T18:30:00.000Z",
+    "isoDate": "2026-08-05T23:30:00.000Z",
     "source": "Wired AI",
-    "slug": "ai-hacks-are-bad-ai-worms-and-viruses-will-be-worse"
+    "slug": "openai-s-browser-could-be-hijacked-to-spam-your-whatsapp-contacts"
   }
 ]
