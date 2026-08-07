@@ -1,43 +1,55 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) New Mexico court orders Meta to pay additional $567M in child safety case",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Meta's total fine has raked up to $942 million in this case",
-    "contentSnippet": "Meta's total fine has raked up to $942 million in this case",
-    "guid": "https://techcrunch.com/?p=3151093",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "contentSnippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "guid": "https://techcrunch.com/?p=3151175",
     "categories": [
       "AI",
-      "child safety",
-      "Meta"
+      "Apps",
+      "AI agents",
+      "cloudflare"
     ],
-    "isoDate": "2026-08-07T11:40:37.000Z",
+    "isoDate": "2026-08-07T16:16:09.000Z",
     "source": "TechCrunch AI",
-    "slug": "new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case"
+    "slug": "cloudflare-launches-kitesurf-a-browser-built-for-ai-agents"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "contentSnippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "guid": "https://techcrunch.com/?p=3151017",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "contentSnippet": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "guid": "https://techcrunch.com/?p=3151106",
     "categories": [
       "AI",
-      "Gadgets",
-      "Hardware",
-      "ChatGPT",
-      "In Brief",
-      "jony ive",
-      "OpenAI"
+      "ai coding",
+      "Airbnb",
+      "brian chesky"
     ],
-    "isoDate": "2026-08-06T22:43:53.000Z",
+    "isoDate": "2026-08-07T14:22:49.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400"
+    "slug": "airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function"
+  },
+  {
+    "title": "(No AI) What’s behind the Google AI shakeup",
+    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "pubDate": "2026-08-07T16:45:14.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSome of the biggest names on Google's AI team [got new jobs this week](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup). In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there [something else entirely happening here](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind)?\n\nOn [this episode of _The Vergecast,_](https://pod.link/vergecast) Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast)",
+    "contentSnippet": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here?\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\nRead the full story at The Verge.",
+    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+    "id": "https://www.theverge.com/?p=976784",
+    "isoDate": "2026-08-07T16:45:14.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "what-s-behind-the-google-ai-shakeup"
   },
   {
     "title": "(No AI) Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
@@ -54,18 +66,18 @@
     "slug": "jony-ive-s-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart-speaker"
   },
   {
-    "title": "(No AI) Suno shares plans to combat spammy AI music",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "pubDate": "2026-08-06T17:39:43.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Suno logo on a glitchy backgrounds.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\n\nSuno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a [lengthy blog post](https://suno.com/blog/building-the-future-of-music-responsibly), CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy.\n\nThe company is rolling out new transparency tools, along with new watermarking and fingerprinting tech. Shulman says it aligns with \"[emerging industry standards](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)\" that will make it easier to identify Suno-generated content. He also says the company is aiming to partner with \"distribution platforms on combatting [fraud and misuse](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it).\"\n\nLast year, th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark)",
-    "contentSnippet": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSuno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. \nThe company is rolling out new transparency tools, along with new watermarking and fingerprinting tech. Shulman says it aligns with \"emerging industry standards\" that will make it easier to identify Suno-generated content. He also says the company is aiming to partner with \"distribution platforms on combatting fraud and misuse.\" \nLast year, th …\nRead the full story at The Verge.",
-    "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
-    "id": "https://www.theverge.com/?p=976289",
-    "isoDate": "2026-08-06T17:39:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "suno-shares-plans-to-combat-spammy-ai-music"
+    "title": "(No AI) Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "contentSnippet": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "guid": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-08-07T15:20:00.000Z",
+    "source": "OpenAI",
+    "slug": "responding-to-the-next-frontier-of-critical-cyber-capabilities"
   },
   {
     "title": "(No AI) How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -77,20 +89,6 @@
     "isoDate": "2026-08-07T09:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory"
-  },
-  {
-    "title": "(No AI) Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-    "content": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "contentSnippet": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "guid": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-08-06T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users"
   },
   {
     "title": "(No AI) WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -115,6 +113,23 @@
     "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
+    "creator": "Fernanda González",
+    "title": "(No AI) Scientists Used AI to Create 16 New Viruses",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "pubDate": "Fri, 07 Aug 2026 14:13:57 +0000",
+    "dc:creator": "Fernanda González",
+    "content": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "contentSnippet": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "guid": "6a75dcabddaef387fe994fff",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-08-07T14:13:57.000Z",
+    "source": "Wired AI",
+    "slug": "scientists-used-ai-to-create-16-new-viruses"
+  },
+  {
     "creator": "Caroline Haskins",
     "title": "(No AI) The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
     "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
@@ -130,22 +145,5 @@
     "isoDate": "2026-08-07T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-hottest-new-ai-chatbot-is-just-a-guy-answering-your-questions"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) One of China’s Most Powerful AI Models Has Also Escaped Containment",
-    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "pubDate": "Fri, 07 Aug 2026 01:16:55 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-    "contentSnippet": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-    "guid": "6a7490eeee5313e488f8f741",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-07T01:16:55.000Z",
-    "source": "Wired AI",
-    "slug": "one-of-china-s-most-powerful-ai-models-has-also-escaped-containment"
   }
 ]
