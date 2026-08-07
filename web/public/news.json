@@ -119,6 +119,23 @@
     "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "pubDate": "Fri, 07 Aug 2026 01:16:55 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+    "contentSnippet": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+    "guid": "6a7490eeee5313e488f8f741",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-07T01:16:55.000Z",
+    "source": "Wired AI",
+    "slug": "one-of-china-s-most-powerful-ai-models-has-also-escaped-containment"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Why Normal People Aren’t Using AI Agents",
     "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
@@ -134,27 +151,5 @@
     "isoDate": "2026-08-06T19:55:45.000Z",
     "source": "Wired AI",
     "slug": "why-normal-people-aren-t-using-ai-agents"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Molly Taft",
-    "title": "(No AI) ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-    "pubDate": "Thu, 06 Aug 2026 19:30:46 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Molly Taft",
-    "content": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-    "contentSnippet": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-    "guid": "6a73704eb0814227948c5dd1",
-    "categories": [
-      "Business",
-      "AI Hub",
-      "Business / Big Tech",
-      "Business / Artificial Intelligence",
-      "Business / Regulation",
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-08-06T19:30:46.000Z",
-    "source": "Wired AI",
-    "slug": "ice-s-dna-collection-increases-spacex-s-rocket-crashes-into-the-moon-and-the-ai-backlash-grows"
   }
 ]
