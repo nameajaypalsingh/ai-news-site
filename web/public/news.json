@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) New Mexico court orders Meta to pay additional $567M in child safety case",
+    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Meta's total fine has raked up to $942 million in this case",
+    "contentSnippet": "Meta's total fine has raked up to $942 million in this case",
+    "guid": "https://techcrunch.com/?p=3151093",
+    "categories": [
+      "AI",
+      "child safety",
+      "Meta"
+    ],
+    "isoDate": "2026-08-07T11:40:37.000Z",
+    "source": "TechCrunch AI",
+    "slug": "new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -20,25 +38,6 @@
     "isoDate": "2026-08-06T22:43:53.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-s-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400"
-  },
-  {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) ChatGPT brings unlimited text chats to free users",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "contentSnippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "guid": "https://techcrunch.com/?p=3150766",
-    "categories": [
-      "AI",
-      "Apps",
-      "ChatGPT",
-      "OpenAI"
-    ],
-    "isoDate": "2026-08-06T17:34:42.000Z",
-    "source": "TechCrunch AI",
-    "slug": "chatgpt-brings-unlimited-text-chats-to-free-users"
   },
   {
     "title": "(No AI) Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
@@ -69,6 +68,17 @@
     "slug": "suno-shares-plans-to-combat-spammy-ai-music"
   },
   {
+    "title": "(No AI) How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "content": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "contentSnippet": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "guid": "https://openai.com/index/hsp-gruppe",
+    "isoDate": "2026-08-07T09:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory"
+  },
+  {
     "title": "(No AI) Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
@@ -81,20 +91,6 @@
     "isoDate": "2026-08-06T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-for-free-users"
-  },
-  {
-    "title": "(No AI) Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "pubDate": "Thu, 06 Aug 2026 06:00:00 GMT",
-    "content": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "contentSnippet": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "guid": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-08-06T06:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "working-with-the-american-psychological-association-on-youth-mental-health-and-ai"
   },
   {
     "title": "(No AI) WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -119,6 +115,23 @@
     "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
+    "creator": "Caroline Haskins",
+    "title": "(No AI) The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "contentSnippet": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "guid": "6a736d4f36a4151ed40e9424",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-07T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-hottest-new-ai-chatbot-is-just-a-guy-answering-your-questions"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) One of China’s Most Powerful AI Models Has Also Escaped Containment",
     "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
@@ -134,22 +147,5 @@
     "isoDate": "2026-08-07T01:16:55.000Z",
     "source": "Wired AI",
     "slug": "one-of-china-s-most-powerful-ai-models-has-also-escaped-containment"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Why Normal People Aren’t Using AI Agents",
-    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-    "pubDate": "Thu, 06 Aug 2026 19:55:45 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-    "contentSnippet": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-    "guid": "6a737e26b0c90fd5154570e5",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-06T19:55:45.000Z",
-    "source": "Wired AI",
-    "slug": "why-normal-people-aren-t-using-ai-agents"
   }
 ]
