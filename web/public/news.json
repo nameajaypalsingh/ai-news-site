@@ -110,6 +110,23 @@
     "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
+    "creator": "Justin Pot",
+    "title": "(No AI) How to Disable Gemini in Gmail and Google Docs",
+    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "pubDate": "Sat, 08 Aug 2026 10:00:00 +0000",
+    "dc:creator": "Justin Pot",
+    "content": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+    "contentSnippet": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+    "guid": "6a726b62c3f164692f3de805",
+    "categories": [
+      "Gear",
+      "Gear / How To and Advice"
+    ],
+    "isoDate": "2026-08-08T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "how-to-disable-gemini-in-gmail-and-google-docs"
+  },
+  {
     "creator": "Fernanda González",
     "title": "(No AI) Scientists Used AI to Create 16 New Viruses",
     "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
@@ -125,22 +142,5 @@
     "isoDate": "2026-08-07T14:13:57.000Z",
     "source": "Wired AI",
     "slug": "scientists-used-ai-to-create-16-new-viruses"
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-    "contentSnippet": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-    "guid": "6a736d4f36a4151ed40e9424",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-07T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-hottest-new-ai-chatbot-is-just-a-guy-answering-your-questions"
   }
 ]
