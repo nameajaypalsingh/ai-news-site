@@ -1,41 +1,38 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "contentSnippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "guid": "https://techcrunch.com/?p=3151175",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "contentSnippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "guid": "https://techcrunch.com/?p=3151331",
     "categories": [
       "AI",
-      "Apps",
-      "AI agents",
-      "cloudflare"
+      "OpenAI"
     ],
-    "isoDate": "2026-08-07T16:16:09.000Z",
+    "isoDate": "2026-08-07T22:48:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "cloudflare-launches-kitesurf-a-browser-built-for-ai-agents"
+    "slug": "openai-says-it-slowed-astra-model-development-over-security-concerns"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "contentSnippet": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "guid": "https://techcrunch.com/?p=3151106",
+    "creator": "Julie Bort",
+    "title": "(No AI) After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "contentSnippet": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "guid": "https://techcrunch.com/?p=3151218",
     "categories": [
       "AI",
-      "ai coding",
-      "Airbnb",
-      "brian chesky"
+      "Enterprise",
+      "Rippling"
     ],
-    "isoDate": "2026-08-07T14:22:49.000Z",
+    "isoDate": "2026-08-07T21:30:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function"
+    "slug": "after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool"
   },
   {
     "title": "(No AI) Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
