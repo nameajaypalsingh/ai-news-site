@@ -1,6 +1,24 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    "contentSnippet": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+    "guid": "https://techcrunch.com/?p=3151379",
+    "categories": [
+      "AI",
+      "Climate",
+      "Amazon"
+    ],
+    "isoDate": "2026-08-08T21:24:02.000Z",
+    "source": "TechCrunch AI",
+    "slug": "planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
@@ -16,23 +34,6 @@
     "isoDate": "2026-08-08T19:41:13.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-acquires-presentation-startup-nextslide"
-  },
-  {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "contentSnippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "guid": "https://techcrunch.com/?p=3151331",
-    "categories": [
-      "AI",
-      "OpenAI"
-    ],
-    "isoDate": "2026-08-07T22:48:24.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-says-it-slowed-astra-model-development-over-security-concerns"
   },
   {
     "title": "(No AI) An Amazon data center could have the worst polluting power plant in the country",
