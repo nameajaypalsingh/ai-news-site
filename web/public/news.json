@@ -1,39 +1,50 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
+    "title": "(No AI) Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "contentSnippet": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "guid": "https://techcrunch.com/?p=3151379",
+    "content": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "contentSnippet": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "guid": "https://techcrunch.com/?p=3151401",
     "categories": [
       "AI",
-      "Climate",
-      "Amazon"
+      "Government & Policy",
+      "Media & Entertainment",
+      "AI policy",
+      "AI regulation",
+      "Elon Musk",
+      "Equity podcast",
+      "Jill Lepore",
+      "sam altman"
     ],
-    "isoDate": "2026-08-08T21:24:02.000Z",
+    "isoDate": "2026-08-09T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s"
+    "slug": "historian-jill-lepore-says-silicon-valley-misreads-science-fiction-and-undermines-democracy"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "NextSlide says its team members are now working on ChatGPT.",
-    "contentSnippet": "NextSlide says its team members are now working on ChatGPT.",
-    "guid": "https://techcrunch.com/?p=3151377",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "contentSnippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "guid": "https://techcrunch.com/?p=3151324",
     "categories": [
+      "Security",
       "AI",
-      "Startups",
-      "OpenAI"
+      "Meta",
+      "cybersecurity",
+      "moonshot",
+      "OpenAI",
+      "Hugging Face",
+      "Anthropic"
     ],
-    "isoDate": "2026-08-08T19:41:13.000Z",
+    "isoDate": "2026-08-09T14:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-acquires-presentation-startup-nextslide"
+    "slug": "the-ai-safety-test-is-becoming-a-safety-risk"
   },
   {
     "title": "(No AI) AI detectors are creating a new era of distrust",
