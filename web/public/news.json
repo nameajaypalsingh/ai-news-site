@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Julie Bort",
+    "title": "(No AI) Tech industry is buzzing after a Claude agent hacked into a gym",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "contentSnippet": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "guid": "https://techcrunch.com/?p=3151503",
+    "categories": [
+      "AI",
+      "Startups",
+      "TC",
+      "openclaw"
+    ],
+    "isoDate": "2026-08-10T20:04:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
     "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -19,26 +38,6 @@
     "isoDate": "2026-08-10T16:20:13.000Z",
     "source": "TechCrunch AI",
     "slug": "meta-s-new-glimmer-ai-model-offers-a-hint-at-zuckerberg-s-personal-intelligence-vision"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "contentSnippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-    "guid": "https://techcrunch.com/?p=3151410",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "Exclusive",
-      "microchips"
-    ],
-    "isoDate": "2026-08-10T12:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
   },
   {
     "title": "(No AI) Four takeaways from Mark Zuckerberg’s massive AI manifesto",
