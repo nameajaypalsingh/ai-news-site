@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "contentSnippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "guid": "https://techcrunch.com/?p=3151410",
+    "categories": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "Exclusive"
+    ],
+    "isoDate": "2026-08-10T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -18,23 +37,18 @@
     "slug": "embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Programming with Claude Code will soon require even less human oversight.",
-    "contentSnippet": "Programming with Claude Code will soon require even less human oversight.",
-    "guid": "https://techcrunch.com/?p=3151431",
-    "categories": [
-      "AI",
-      "Enterprise",
-      "Anthropic",
-      "claude code"
-    ],
-    "isoDate": "2026-08-09T19:20:32.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default"
+    "title": "(No AI) Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "pubDate": "2026-08-10T11:00:00.000Z",
+    "author": "Andrew J. Hawkins",
+    "content": "![An image showing Ford’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFord is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.\n\nThe app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the particular make and model, including fuel levels, cargo capacity, and towing capabilities. Ford plans on rolling out a voice-powered assistant that …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app)",
+    "contentSnippet": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat.\nThe app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. Since the app is linked to the customer's vehicle, the assistant knows many of the details about the particular make and model, including fuel levels, cargo capacity, and towing capabilities. Ford plans on rolling out a voice-powered assistant that …\nRead the full story at The Verge.",
+    "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
+    "id": "https://www.theverge.com/?p=976748",
+    "isoDate": "2026-08-10T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ford-s-new-ai-assistant-can-check-your-fuel-levels-and-tire-pressure"
   },
   {
     "title": "(No AI) AI detectors are creating a new era of distrust",
@@ -49,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "ai-detectors-are-creating-a-new-era-of-distrust"
-  },
-  {
-    "title": "(No AI) An Amazon data center could have the worst polluting power plant in the country",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "pubDate": "2026-08-08T17:53:34.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTo power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the [_New York Times_](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html). The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\n\nAccording to [_Cleanview_](https://newsletter.cleanview.co/p/scoop-amazon-is-behind-one-of-the), which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)",
-    "contentSnippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for the …\nRead the full story at The Verge.",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
-    "id": "https://www.theverge.com/?p=977124",
-    "isoDate": "2026-08-08T17:53:34.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "an-amazon-data-center-could-have-the-worst-polluting-power-plant-in-the-country"
   },
   {
     "title": "(No AI) Responding to the next frontier of critical cyber capabilities",
@@ -112,37 +112,37 @@
     "slug": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
   },
   {
-    "creator": "Justin Pot",
-    "title": "(No AI) Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-    "pubDate": "Sun, 09 Aug 2026 10:30:00 +0000",
-    "dc:creator": "Justin Pot",
-    "content": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
-    "contentSnippet": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
-    "guid": "6a75f5ae8162fdd1c3cd55cb",
+    "creator": "Reece Rogers",
+    "title": "(No AI) The AI Slop Backlash Is Actually Having an Impact",
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "pubDate": "Mon, 10 Aug 2026 11:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+    "contentSnippet": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+    "guid": "6a7267a652cbcac31bc24d69",
     "categories": [
       "Gear",
-      "Gear / How To and Advice",
-      "Gear / Products / Apps"
+      "Gear / Trends"
     ],
-    "isoDate": "2026-08-09T10:30:00.000Z",
+    "isoDate": "2026-08-10T11:30:00.000Z",
     "source": "Wired AI",
-    "slug": "meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-here-s-how"
+    "slug": "the-ai-slop-backlash-is-actually-having-an-impact"
   },
   {
-    "creator": "Joel Khalili",
-    "title": "(No AI) These AI Barons Are Ready to Give Away Their Fortunes",
-    "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-    "pubDate": "Sun, 09 Aug 2026 09:30:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-    "contentSnippet": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-    "guid": "6a5fb4974265ce8d61ecfc6f",
+    "creator": "Kate Taylor",
+    "title": "(No AI) The Rise of the 1 am Job Interview",
+    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "pubDate": "Mon, 10 Aug 2026 10:30:00 +0000",
+    "dc:creator": "Kate Taylor",
+    "content": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+    "contentSnippet": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+    "guid": "6a74a66abe18f73960cfccb3",
     "categories": [
+      "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-08-09T09:30:00.000Z",
+    "isoDate": "2026-08-10T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "these-ai-barons-are-ready-to-give-away-their-fortunes"
+    "slug": "the-rise-of-the-1-am-job-interview"
   }
 ]
