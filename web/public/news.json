@@ -1,53 +1,45 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-    "contentSnippet": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-    "guid": "https://techcrunch.com/?p=3151819",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "contentSnippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "guid": "https://techcrunch.com/?p=3152063",
     "categories": [
       "AI",
-      "mathematics",
-      "Anthropic"
+      "Apps",
+      "TC",
+      "ChatGPT",
+      "codex",
+      "In Brief",
+      "linux",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-11T16:25:20.000Z",
+    "isoDate": "2026-08-11T19:15:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "an-unreleased-anthropic-model-made-progress-on-one-of-math-s-biggest-unsolved-problems"
+    "slug": "openai-launches-chatgpt-desktop-app-for-linux"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-    "contentSnippet": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-    "guid": "https://techcrunch.com/?p=3151643",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Google’s Gemini app surges to one billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "contentSnippet": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "guid": "https://techcrunch.com/?p=3152071",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Spotify"
+      "Apps",
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-08-11T13:00:00.000Z",
+    "isoDate": "2026-08-11T18:49:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations"
-  },
-  {
-    "title": "(No AI) Apple could help you prove your iPhone photos aren’t deepfakes",
-    "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-    "pubDate": "2026-08-11T16:19:15.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![The Camera Control button on an iPhone 16 Pro being used to change settings.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. [_9to5Mac_](https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/) reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where the photo originated, and that it isn't AI fakery.\n\nApple Reference Image isn't currently live, but a privacy disclosure in the iOS beta notes that the feature will be off by default. When (or if) it does roll out, _9to5Mac_ says it can be enabled via Settings > Camera > Reference Image > Reference Mode, and that only p …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)",
-    "contentSnippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where the photo originated, and that it isn't AI fakery.\nApple Reference Image isn't currently live, but a privacy disclosure in the iOS beta notes that the feature will be off by default. When (or if) it does roll out, 9to5Mac says it can be enabled via Settings > Camera > Reference Image > Reference Mode, and that only p …\nRead the full story at The Verge.",
-    "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
-    "id": "https://www.theverge.com/?p=977921",
-    "isoDate": "2026-08-11T16:19:15.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-could-help-you-prove-your-iphone-photos-aren-t-deepfakes"
+    "slug": "google-s-gemini-app-surges-to-one-billion-users"
   },
   {
     "title": "(No AI) ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
@@ -62,6 +54,20 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "zoomsday-hack-uncovered-using-fewer-than-20-ai-prompts"
+  },
+  {
+    "title": "(No AI) Why your Amazon order confirmation emails have become so unhelpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "pubDate": "2026-08-11T13:27:20.000Z",
+    "author": "Mia Sato",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nEarlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.\n\n\"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"[Ordered: 1 Hardware item](https://x.com/QuinnyPig/status/2080475069411946720),\" \"[Your Drugstore, Shoes, and other items are here!](https://www.reddit.com/r/amazonprime/comments/1ust16q/amazon_email_stopped_showing_specific_items/)\" and \"[1 Nutrition & Wellness, 1 Wireless Accessories](https://www.reddit.com/r/enshittification/comments/1v3bsm6/amazon_emails_no_longer_tell_you_what_theyre/),\" for example. The emails have clip art-style illustrations of general product categories, and a shopper has to exit their email and go to Amazon to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)",
+    "contentSnippet": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \n\"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: 1 Hardware item,\" \"Your Drugstore, Shoes, and other items are here!\" and \"1 Nutrition & Wellness, 1 Wireless Accessories,\" for example. The emails have clip art-style illustrations of general product categories, and a shopper has to exit their email and go to Amazon to  …\nRead the full story at The Verge.",
+    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
+    "id": "https://www.theverge.com/?p=977733",
+    "isoDate": "2026-08-11T13:27:20.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "why-your-amazon-order-confirmation-emails-have-become-so-unhelpful"
   },
   {
     "title": "(No AI) Testing ads in ChatGPT",
