@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "contentSnippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "guid": "https://techcrunch.com/?p=3151839",
+    "categories": [
+      "AI",
+      "Venture",
+      "Accel"
+    ],
+    "isoDate": "2026-08-11T21:39:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI launches ChatGPT desktop app for Linux",
     "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -23,51 +41,32 @@
     "slug": "openai-launches-chatgpt-desktop-app-for-linux"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Google’s Gemini app surges to one billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
-    "contentSnippet": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
-    "guid": "https://techcrunch.com/?p=3152071",
-    "categories": [
-      "AI",
-      "Apps",
-      "gemini",
-      "Google"
-    ],
-    "isoDate": "2026-08-11T18:49:12.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-gemini-app-surges-to-one-billion-users"
+    "title": "(No AI) Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "pubDate": "2026-08-12T00:39:26.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the _Rideshare \"Stimulator\"_ game announced last month, developed by Unigine.\n\nThe writer, Stella Sacco, says differently, however, posting [on Bluesky](https://bsky.app/profile/antlervel.vet/post/3mssv7pyows2l) that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\"\n\nSaber describes _Rideshare \"Stimulator\"_ [as an](https://store.steampowered.com/app/2366590/Rideshare_Stimulator/) \"immersive driving simulation game that puts you behind the wheel …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)",
+    "contentSnippet": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.\nThe writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" \nSaber describes Rideshare \"Stimulator\" as an \"immersive driving simulation game that puts you behind the wheel …\nRead the full story at The Verge.",
+    "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+    "id": "https://www.theverge.com/?p=978558",
+    "isoDate": "2026-08-12T00:39:26.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "saber-denies-replacing-rideshare-stimulator-s-writers-with-chatgpt"
   },
   {
-    "title": "(No AI) ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "pubDate": "2026-08-11T14:45:44.000Z",
-    "author": "Emma Roth",
-    "content": "![An image showing Zoom’s logo on a blue and black background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&strip=all&crop=0,0,100,100)\n\nZoom [has patched](https://www.zoom.com/en/trust/security-bulletin/zsb-26015/) a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In [a blog post on Tuesday](https://a.security/blog/asecurity-zoomsday), researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" [as reported earlier by _Wired_](https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/).\n\nThe exploit involved [Zoom's annotation feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067931), which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and run malicious code on victims' devices, allowing them to steal data, turn on the camera or microphone, or install malware. The attack required no act …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack)",
-    "contentSnippet": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired.\nThe exploit involved Zoom's annotation feature, which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and run malicious code on victims' devices, allowing them to steal data, turn on the camera or microphone, or install malware. The attack required no act …\nRead the full story at The Verge.",
-    "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
-    "id": "https://www.theverge.com/?p=977909",
-    "isoDate": "2026-08-11T14:45:44.000Z",
+    "title": "(No AI) ChatGPT and Gemini both just passed 1 billion users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "pubDate": "2026-08-11T19:41:42.000Z",
+    "author": "David Pierce",
+    "content": "![A screenshot showing Gemini Live during Google’s Super Bowl ad](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100)\n\nThat’s a lot of people chatting with their AI friends all day. | Image: Google\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai [posted on X](https://x.com/sundarpichai/status/2087222656819241292) that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\n\nA billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an [otherwise anodyne blog post](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/) about how people use AI. [External data suggested](https://www.reuters.com/technology/chatgpt-app-hits-1-billion-monthly-active-users-record-time-data-shows-2026-06-02/) ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th. …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)",
+    "contentSnippet": "That’s a lot of people chatting with their AI friends all day. | Image: Google\t\n\nFor the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever.\nA billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th.  …\nRead the full story at The Verge.",
+    "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+    "id": "https://www.theverge.com/?p=978113",
+    "isoDate": "2026-08-11T19:41:42.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "zoomsday-hack-uncovered-using-fewer-than-20-ai-prompts"
-  },
-  {
-    "title": "(No AI) Why your Amazon order confirmation emails have become so unhelpful",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-    "pubDate": "2026-08-11T13:27:20.000Z",
-    "author": "Mia Sato",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nEarlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories.\n\n\"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"[Ordered: 1 Hardware item](https://x.com/QuinnyPig/status/2080475069411946720),\" \"[Your Drugstore, Shoes, and other items are here!](https://www.reddit.com/r/amazonprime/comments/1ust16q/amazon_email_stopped_showing_specific_items/)\" and \"[1 Nutrition & Wellness, 1 Wireless Accessories](https://www.reddit.com/r/enshittification/comments/1v3bsm6/amazon_emails_no_longer_tell_you_what_theyre/),\" for example. The emails have clip art-style illustrations of general product categories, and a shopper has to exit their email and go to Amazon to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)",
-    "contentSnippet": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \n\"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: 1 Hardware item,\" \"Your Drugstore, Shoes, and other items are here!\" and \"1 Nutrition & Wellness, 1 Wireless Accessories,\" for example. The emails have clip art-style illustrations of general product categories, and a shopper has to exit their email and go to Amazon to  …\nRead the full story at The Verge.",
-    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
-    "id": "https://www.theverge.com/?p=977733",
-    "isoDate": "2026-08-11T13:27:20.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "why-your-amazon-order-confirmation-emails-have-become-so-unhelpful"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-and-gemini-both-just-passed-1-billion-users"
   },
   {
     "title": "(No AI) Testing ads in ChatGPT",
@@ -84,18 +83,18 @@
     "slug": "testing-ads-in-chatgpt"
   },
   {
-    "title": "(No AI) OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "pubDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "content": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "contentSnippet": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "guid": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "title": "(No AI) Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "content": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "contentSnippet": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "guid": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "categories": [
-      "Global Affairs"
+      "Product"
     ],
-    "isoDate": "2026-08-10T14:00:00.000Z",
+    "isoDate": "2026-08-11T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas"
+    "slug": "daybreak-models-are-now-available-on-aws"
   },
   {
     "title": "(No AI) WeatherNext: AI model achieves breakthrough in forecasting cyclones",
