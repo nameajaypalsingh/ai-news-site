@@ -1,69 +1,82 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "contentSnippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "guid": "https://techcrunch.com/?p=3152533",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "contentSnippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "guid": "https://techcrunch.com/?p=3152748",
     "categories": [
       "AI",
-      "Anthropic",
-      "Claude",
-      "watermarks"
+      "Apps",
+      "Copilot",
+      "Microsoft"
     ],
-    "isoDate": "2026-08-12T22:26:37.000Z",
+    "isoDate": "2026-08-13T15:30:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-them-using-it-at-their-jobs-classes"
+    "slug": "microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "contentSnippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "guid": "https://techcrunch.com/?p=3152544",
+    "creator": "Julie Bort",
+    "title": "(No AI) Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "contentSnippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "guid": "https://techcrunch.com/?p=3152223",
     "categories": [
       "AI",
-      "Social",
-      "Amazon",
-      "Twitch"
+      "TC",
+      "nvidia"
     ],
-    "isoDate": "2026-08-12T20:10:40.000Z",
+    "isoDate": "2026-08-13T15:08:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out"
+    "slug": "nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus"
   },
   {
-    "title": "(No AI) Twitch streamers can now opt out from training Amazon’s AI",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "pubDate": "2026-08-12T17:29:10.000Z",
-    "author": "Jay Peters",
-    "content": "![The Twitch logo against a pink and purple background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTwitch users [can now opt out](https://x.com/TwitchSupport/status/2087572924450455558?s=20) of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" [according to a Twitch support page](https://help.twitch.tv/s/article/twitch-account-settings?language=en_US#FAQ).\n\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)",
-    "contentSnippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
-    "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-    "id": "https://www.theverge.com/?p=979112",
-    "isoDate": "2026-08-12T17:29:10.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "twitch-streamers-can-now-opt-out-from-training-amazon-s-ai"
-  },
-  {
-    "title": "(No AI) Guitar company D’Addario admits that AI music was used in a promotional video",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "pubDate": "2026-08-12T15:52:07.000Z",
+    "title": "(No AI) Suno is trying to look more like a real music production tool",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "pubDate": "2026-08-13T16:00:00.000Z",
     "author": "Terrence O’Brien",
-    "content": "![D’Addario logo imposed over image of a person playing guitar.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nMaybe don’t let the AI shred next time. | Image: D’Addario\n\nAfter weeks of controversy and speculation, music company D'Addario has [admitted](https://guitar.com/news/industry-news/daddario-admit-ai-controversy/) that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has [denied the allegations](https://www.guitarworld.com/gear/guitar-strings/daddario-denies-using-ai-in-string-demo-video), even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original Instagram post denying the use of generative AI to say it was wrong.\n\nIn a lengthy update to [its post from July 29th](https://www.instagram.com/daddarioandco/p/DbYvntjIOzg/) (embedded at the bottom), it said:\n\n> …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno)",
-    "contentSnippet": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing digital noise, and the use of AI-assisted mastering tools from LANDR and Logic. But now the company has edited its original Instagram post denying the use of generative AI to say it was wrong. \nIn a lengthy update to its post from July 29th (embedded at the bottom), it said:\n …\n\nRead the full story at The Verge.",
-    "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing [&#8230;]",
-    "id": "https://www.theverge.com/?p=978982",
-    "isoDate": "2026-08-12T15:52:07.000Z",
+    "content": "![Suno Studio 2.0 logo on orange and pink gradient](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n[Suno](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review) is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\n\nThe point is less about using your favorite Arturia vintag …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects)",
+    "contentSnippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\nThe point is less about using your favorite Arturia vintag …\nRead the full story at The Verge.",
+    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
+    "id": "https://www.theverge.com/?p=979345",
+    "isoDate": "2026-08-13T16:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "guitar-company-d-addario-admits-that-ai-music-was-used-in-a-promotional-video"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "suno-is-trying-to-look-more-like-a-real-music-production-tool"
+  },
+  {
+    "title": "(No AI) I looked inside an AI generated movie, and the best parts were all human",
+    "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "pubDate": "2026-08-13T15:30:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![An AI-generated image of three men looking bewildered while standing on a stage in a night club.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which they're fighting or running from armed goons. This movie might be the sort of feature you'd expect from directors like Edgar Wright or Guy Ritchie. But …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)",
+    "contentSnippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which they're fighting or running from armed goons. This movie might be the sort of feature you'd expect from directors like Edgar Wright or Guy Ritchie. But …\nRead the full story at The Verge.",
+    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
+    "id": "https://www.theverge.com/?p=977994",
+    "isoDate": "2026-08-13T15:30:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "i-looked-inside-an-ai-generated-movie-and-the-best-parts-were-all-human"
+  },
+  {
+    "title": "(No AI) OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+    "content": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "contentSnippet": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "guid": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-08-13T09:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-appoints-dali-rajic-as-chief-revenue-officer"
   },
   {
     "title": "(No AI) From assistance to execution: How enterprises put AI to work",
@@ -78,17 +91,6 @@
     "isoDate": "2026-08-12T06:00:00.000Z",
     "source": "OpenAI",
     "slug": "from-assistance-to-execution-how-enterprises-put-ai-to-work"
-  },
-  {
-    "title": "(No AI) How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "pubDate": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "content": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "contentSnippet": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "guid": "https://openai.com/index/ringcentral",
-    "isoDate": "2026-08-12T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-ringcentral-builds-ai-native-work-from-engineering-to-ops"
   },
   {
     "title": "(No AI) Putting sign language AI into users’ hands",
