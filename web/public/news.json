@@ -1,48 +1,66 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-    "contentSnippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-    "guid": "https://techcrunch.com/?p=3152748",
+    "creator": "Julie Bort",
+    "title": "(No AI) Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "contentSnippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "guid": "https://techcrunch.com/?p=3152870",
     "categories": [
       "AI",
-      "Apps",
-      "Copilot",
-      "Microsoft"
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Databricks"
     ],
-    "isoDate": "2026-08-13T15:30:52.000Z",
+    "isoDate": "2026-08-13T20:14:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps"
+    "slug": "databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "pubDate": "Thu, 13 Aug 2026 15:08:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-    "contentSnippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-    "guid": "https://techcrunch.com/?p=3152223",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "contentSnippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "guid": "https://techcrunch.com/?p=3152875",
     "categories": [
       "AI",
-      "TC",
-      "nvidia"
+      "Anthropic",
+      "ChatGPT",
+      "Claude",
+      "In Brief",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-13T15:08:00.000Z",
+    "isoDate": "2026-08-13T19:22:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-s-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus"
+    "slug": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed"
+  },
+  {
+    "title": "(No AI) OpenAI is losing its second executive this week",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "pubDate": "2026-08-13T19:28:39.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnother OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer [in December](https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer) after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in [a team note posted to LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7493699644359630848/). Dali Rajic, president and COO of Wiz, will be taking over the CRO role, [OpenAI says](https://openai.com/index/dali-rajic-chief-revenue-officer/).\n\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap [announced he would be leaving](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure). (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former [AGI chief Fidji Simo](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor) and [former CMO …](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)",
+    "contentSnippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO …\nRead the full story at The Verge.",
+    "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+    "id": "https://www.theverge.com/?p=979815",
+    "isoDate": "2026-08-13T19:28:39.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-is-losing-its-second-executive-this-week"
   },
   {
     "title": "(No AI) Suno is trying to look more like a real music production tool",
     "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
     "pubDate": "2026-08-13T16:00:00.000Z",
     "author": "Terrence O’Brien",
-    "content": "![Suno Studio 2.0 logo on orange and pink gradient](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n[Suno](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review) is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\n\nThe point is less about using your favorite Arturia vintag …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects)",
-    "contentSnippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\nThe point is less about using your favorite Arturia vintag …\nRead the full story at The Verge.",
+    "content": "![Suno Studio 2.0 logo on orange and pink gradient](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n[Suno](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review) is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\n\nThe point is less about using your favorite Arturia vintage syn …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects)",
+    "contentSnippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\nThe point is less about using your favorite Arturia vintage syn …\nRead the full story at The Verge.",
     "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
     "id": "https://www.theverge.com/?p=979345",
     "isoDate": "2026-08-13T16:00:00.000Z",
@@ -51,46 +69,43 @@
     "slug": "suno-is-trying-to-look-more-like-a-real-music-production-tool"
   },
   {
-    "title": "(No AI) I looked inside an AI generated movie, and the best parts were all human",
-    "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-    "pubDate": "2026-08-13T15:30:00.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![An AI-generated image of three men looking bewildered while standing on a stage in a night club.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which they're fighting or running from armed goons. This movie might be the sort of feature you'd expect from directors like Edgar Wright or Guy Ritchie. But …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)",
-    "contentSnippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to groupies and lavish parties on luxurious boats. Imagine these men are actually characters in a film - one filled with hyperkinetic smash cuts to action sequences in which they're fighting or running from armed goons. This movie might be the sort of feature you'd expect from directors like Edgar Wright or Guy Ritchie. But …\nRead the full story at The Verge.",
-    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
-    "id": "https://www.theverge.com/?p=977994",
-    "isoDate": "2026-08-13T15:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "i-looked-inside-an-ai-generated-movie-and-the-best-parts-were-all-human"
+    "title": "(No AI) The builder’s guide to GPT‑5.6",
+    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "contentSnippet": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "guid": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "categories": [
+      "Applied AI"
+    ],
+    "isoDate": "2026-08-13T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-builder-s-guide-to-gpt-5-6"
   },
   {
-    "title": "(No AI) OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
-    "content": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "contentSnippet": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "guid": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "title": "(No AI) Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "link": "https://openai.com/index/previewing-ultrafast",
+    "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "content": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "contentSnippet": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "guid": "https://openai.com/index/previewing-ultrafast",
     "categories": [
-      "Company"
+      "Product"
     ],
-    "isoDate": "2026-08-13T09:00:00.000Z",
+    "isoDate": "2026-08-13T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-appoints-dali-rajic-as-chief-revenue-officer"
+    "slug": "previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed"
   },
   {
-    "title": "(No AI) From assistance to execution: How enterprises put AI to work",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
-    "content": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "contentSnippet": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "guid": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-08-12T06:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "from-assistance-to-execution-how-enterprises-put-ai-to-work"
+    "title": "(No AI) Introducing Gemini 3.7 Flash",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "isoDate": "2026-08-13T17:04:18.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-gemini-3-7-flash"
   },
   {
     "title": "(No AI) Putting sign language AI into users’ hands",
@@ -102,17 +117,6 @@
     "isoDate": "2026-08-12T14:01:59.000Z",
     "source": "Google DeepMind",
     "slug": "putting-sign-language-ai-into-users-hands"
-  },
-  {
-    "title": "(No AI) WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "isoDate": "2026-08-06T15:06:15.000Z",
-    "source": "Google DeepMind",
-    "slug": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
   },
   {
     "creator": "David Cox",
