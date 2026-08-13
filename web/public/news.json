@@ -113,6 +113,23 @@
     "slug": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
   },
   {
+    "creator": "David Cox",
+    "title": "(No AI) There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "pubDate": "Thu, 13 Aug 2026 09:00:00 +0000",
+    "dc:creator": "David Cox",
+    "content": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "contentSnippet": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "guid": "6a7a2a8913d9a5bbede86a45",
+    "categories": [
+      "Science",
+      "Science / Health"
+    ],
+    "isoDate": "2026-08-13T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "there-s-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it"
+  },
+  {
     "creator": "Hugo Lowell",
     "title": "(No AI) The White House Is Going to Expand Its AI Policy",
     "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
@@ -128,22 +145,5 @@
     "isoDate": "2026-08-12T21:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-white-house-is-going-to-expand-its-ai-policy"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-    "pubDate": "Wed, 12 Aug 2026 18:45:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "AI agents that break free and hack into other systems are only trying to make us happy.",
-    "contentSnippet": "AI agents that break free and hack into other systems are only trying to make us happy.",
-    "guid": "6a763a712f828e528da6c06f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-12T18:45:00.000Z",
-    "source": "Wired AI",
-    "slug": "rogue-ai-agents-aren-t-evil-they-re-just-eager-to-please"
   }
 ]
