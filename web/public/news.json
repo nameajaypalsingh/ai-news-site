@@ -1,45 +1,41 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "contentSnippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "guid": "https://techcrunch.com/?p=3152463",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "contentSnippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "guid": "https://techcrunch.com/?p=3152533",
     "categories": [
       "AI",
-      "Fundraising",
-      "Startups",
-      "TC",
-      "cognition",
-      "In Brief"
+      "Anthropic",
+      "Claude",
+      "watermarks"
     ],
-    "isoDate": "2026-08-12T18:19:12.000Z",
+    "isoDate": "2026-08-12T22:26:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation"
+    "slug": "some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-them-using-it-at-their-jobs-classes"
   },
   {
-    "creator": "Kate Park",
-    "title": "(No AI) As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-    "dc:creator": "Kate Park",
-    "content": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "contentSnippet": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "guid": "https://techcrunch.com/?p=3152082",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "contentSnippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "guid": "https://techcrunch.com/?p=3152544",
     "categories": [
       "AI",
-      "andrew ng",
-      "Artificial Intelligence (AI)",
-      "Fei-Fei Li",
-      "Geoffrey Hinton",
-      "tech regulation"
+      "Social",
+      "Amazon",
+      "Twitch"
     ],
-    "isoDate": "2026-08-12T17:51:00.000Z",
+    "isoDate": "2026-08-12T20:10:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open"
+    "slug": "amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out"
   },
   {
     "title": "(No AI) Twitch streamers can now opt out from training Amazon’s AI",
@@ -84,18 +80,15 @@
     "slug": "from-assistance-to-execution-how-enterprises-put-ai-to-work"
   },
   {
-    "title": "(No AI) Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "content": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "contentSnippet": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "guid": "https://openai.com/index/testing-ads-in-chatgpt",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-08-11T10:00:00.000Z",
+    "title": "(No AI) How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "pubDate": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "content": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "contentSnippet": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "guid": "https://openai.com/index/ringcentral",
+    "isoDate": "2026-08-12T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "testing-ads-in-chatgpt"
+    "slug": "how-ringcentral-builds-ai-native-work-from-engineering-to-ops"
   },
   {
     "title": "(No AI) Putting sign language AI into users’ hands",
@@ -120,6 +113,23 @@
     "slug": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
   },
   {
+    "creator": "Hugo Lowell",
+    "title": "(No AI) The White House Is Going to Expand Its AI Policy",
+    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "pubDate": "Wed, 12 Aug 2026 21:00:00 +0000",
+    "dc:creator": "Hugo Lowell",
+    "content": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "contentSnippet": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "guid": "6a7b7aabe4e29f02b8c0d64f",
+    "categories": [
+      "Politics",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2026-08-12T21:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-white-house-is-going-to-expand-its-ai-policy"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
     "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
@@ -135,23 +145,5 @@
     "isoDate": "2026-08-12T18:45:00.000Z",
     "source": "Wired AI",
     "slug": "rogue-ai-agents-aren-t-evil-they-re-just-eager-to-please"
-  },
-  {
-    "creator": "Julian Chokkattu",
-    "title": "(No AI) 4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-    "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-    "pubDate": "Wed, 12 Aug 2026 14:00:00 +0000",
-    "dc:creator": "Julian Chokkattu",
-    "content": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-    "contentSnippet": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-    "guid": "6a7a5bf4e8bb799c3501e527",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones"
-    ],
-    "isoDate": "2026-08-12T14:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "4-new-camera-tricks-on-google-s-latest-pixel-11-smartphones"
   }
 ]
