@@ -5,14 +5,16 @@
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
     "dc:creator": "Ivan Mehta",
-    "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
-    "contentSnippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "contentSnippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
     "guid": "https://techcrunch.com/?p=3153145",
     "categories": [
       "AI",
       "Apps",
       "gemini",
-      "Google"
+      "Google",
+      "In Brief",
+      "watermarks"
     ],
     "isoDate": "2026-08-14T16:13:40.000Z",
     "source": "TechCrunch AI",
@@ -41,6 +43,20 @@
     "slug": "does-mark-zuckerberg-really-believe-ai-is-for-everyone"
   },
   {
+    "title": "(No AI) Mark Zuckerberg has an Instagzam",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "pubDate": "2026-08-14T16:54:16.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstagram's wordmark is iconic. Well, _was_ iconic. Apparently Instagram thought it looked old, so the company [rolled out a new one this week.](https://www.theverge.com/tech/979583/this-is-instagrams-new-logo) It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this.\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's [many-thousand-word missive](https://about.fb.com/news/2026/08/the-future-is-for-everyone/) on the future of AI. There are [a lot of ideas and proposals](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble) …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)",
+    "contentSnippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this.\nOn this episode of The Vergecast, David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's many-thousand-word missive on the future of AI. There are a lot of ideas and proposals …\nRead the full story at The Verge.",
+    "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+    "id": "https://www.theverge.com/?p=980367",
+    "isoDate": "2026-08-14T16:54:16.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "mark-zuckerberg-has-an-instagzam"
+  },
+  {
     "title": "(No AI) You can now turn off Google Gemini’s visible watermarks",
     "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
     "pubDate": "2026-08-14T16:39:32.000Z",
@@ -53,20 +69,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "you-can-now-turn-off-google-gemini-s-visible-watermarks"
-  },
-  {
-    "title": "(No AI) Apple trained its own AI model for China with help from Alibaba",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "pubDate": "2026-08-14T09:21:17.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across [growing tensions](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment) between Beijing and Washington.\n\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, _Reuters_ [reports](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/), citing three unnamed people familiar with the matter.\n\nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)",
-    "contentSnippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. \nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\nRead the full story at The Verge.",
-    "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
-    "id": "https://www.theverge.com/?p=980160",
-    "isoDate": "2026-08-14T09:21:17.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-trained-its-own-ai-model-for-china-with-help-from-alibaba"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
