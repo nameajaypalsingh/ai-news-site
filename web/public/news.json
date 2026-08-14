@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "contentSnippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "guid": "https://techcrunch.com/?p=3152760",
+    "categories": [
+      "AI",
+      "writer",
+      "Z.ai"
+    ],
+    "isoDate": "2026-08-13T21:13:24.000Z",
+    "source": "TechCrunch AI",
+    "slug": "writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -20,25 +38,18 @@
     "slug": "databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "contentSnippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "guid": "https://techcrunch.com/?p=3152875",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "Claude",
-      "In Brief",
-      "OpenAI"
-    ],
-    "isoDate": "2026-08-13T19:22:40.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed"
+    "title": "(No AI) Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "pubDate": "2026-08-13T21:42:38.000Z",
+    "author": "Emma Roth",
+    "content": "![An image of Mico](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100)\n\nMico is headed to Learn Live. | Image: Microsoft\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a [support page](https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features), Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" [as reported earlier by _GeekWire_](https://www.geekwire.com/2026/farewell-mico-microsofts-cute-little-ai-blob-is-going-the-way-of-bob/).\n\nMico [launched in Copilot's voice mode last October](https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy), with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to [give the chatbot an \"identity.\"](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview) The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins [the long list](https://the-microsoft-windows-xp.fandom.com/wiki/Office_Assistants) of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired)",
+    "contentSnippet": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
+    "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+    "id": "https://www.theverge.com/?p=979871",
+    "isoDate": "2026-08-13T21:42:38.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot"
   },
   {
     "title": "(No AI) OpenAI is losing its second executive this week",
@@ -53,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-is-losing-its-second-executive-this-week"
-  },
-  {
-    "title": "(No AI) Suno is trying to look more like a real music production tool",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "pubDate": "2026-08-13T16:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Suno Studio 2.0 logo on orange and pink gradient](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n[Suno](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review) is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\n\nThe point is less about using your favorite Arturia vintage syn …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects)",
-    "contentSnippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\nThe point is less about using your favorite Arturia vintage syn …\nRead the full story at The Verge.",
-    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
-    "id": "https://www.theverge.com/?p=979345",
-    "isoDate": "2026-08-13T16:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "suno-is-trying-to-look-more-like-a-real-music-production-tool"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
@@ -119,37 +116,38 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
-    "creator": "David Cox",
-    "title": "(No AI) There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "pubDate": "Thu, 13 Aug 2026 09:00:00 +0000",
-    "dc:creator": "David Cox",
-    "content": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-    "contentSnippet": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-    "guid": "6a7a2a8913d9a5bbede86a45",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) The Safety Reckoning Inside OpenAI",
+    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "pubDate": "Thu, 13 Aug 2026 22:37:19 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "contentSnippet": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "guid": "6a7cfc8e45debd0b63663f75",
     "categories": [
-      "Science",
-      "Science / Health"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-08-13T09:00:00.000Z",
+    "isoDate": "2026-08-13T22:37:19.000Z",
     "source": "Wired AI",
-    "slug": "there-s-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it"
+    "slug": "the-safety-reckoning-inside-openai"
   },
   {
-    "creator": "Hugo Lowell",
-    "title": "(No AI) The White House Is Going to Expand Its AI Policy",
-    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "pubDate": "Wed, 12 Aug 2026 21:00:00 +0000",
-    "dc:creator": "Hugo Lowell",
-    "content": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-    "contentSnippet": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-    "guid": "6a7b7aabe4e29f02b8c0d64f",
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Andy Greenberg",
+    "title": "(No AI) Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "pubDate": "Thu, 13 Aug 2026 21:14:43 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger, Andy Greenberg",
+    "content": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "contentSnippet": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "guid": "6a7ccb31f8503d5e8d3678fc",
     "categories": [
-      "Politics",
-      "Politics / Politics News"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-08-12T21:00:00.000Z",
+    "isoDate": "2026-08-13T21:14:43.000Z",
     "source": "Wired AI",
-    "slug": "the-white-house-is-going-to-expand-its-ai-policy"
+    "slug": "mark-zuckerberg-s-ai-manifesto-is-6-500-words-and-barely-says-anything"
   }
 ]
