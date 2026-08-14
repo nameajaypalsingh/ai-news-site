@@ -1,41 +1,58 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "contentSnippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "guid": "https://techcrunch.com/?p=3152760",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "contentSnippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "guid": "https://techcrunch.com/?p=3153145",
     "categories": [
       "AI",
-      "writer",
-      "Z.ai"
+      "Apps",
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-08-13T21:13:24.000Z",
+    "isoDate": "2026-08-14T16:13:40.000Z",
     "source": "TechCrunch AI",
-    "slug": "writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs"
+    "slug": "google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "contentSnippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "guid": "https://techcrunch.com/?p=3152870",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s \\[…\\]",
+    "contentSnippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3153153",
     "categories": [
       "AI",
-      "Fundraising",
-      "Startups",
-      "TC",
-      "Databricks"
+      "Amazon",
+      "Anthropic",
+      "data centers",
+      "Joby Aviation",
+      "Mark Zuckerberg",
+      "Meta"
     ],
-    "isoDate": "2026-08-13T20:14:39.000Z",
+    "isoDate": "2026-08-14T15:43:28.000Z",
     "source": "TechCrunch AI",
-    "slug": "databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation"
+    "slug": "does-mark-zuckerberg-really-believe-ai-is-for-everyone"
+  },
+  {
+    "title": "(No AI) You can now turn off Google Gemini’s visible watermarks",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "pubDate": "2026-08-14T16:39:32.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With [the update](https://x.com/GeminiApp/status/2088277477672255830?s=20), you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\n\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible [SynthID watermarks](https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector) and [C2PA metadata](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials) embedded in the background, [according to Josh Woodward](https://x.com/joshwoodward/status/2088259244193960386?s=20), the vice president of Google Labs, Gemini, and AI Studio. That means you …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)",
+    "contentSnippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you  …\nRead the full story at The Verge.",
+    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+    "id": "https://www.theverge.com/?p=980416",
+    "isoDate": "2026-08-14T16:39:32.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "you-can-now-turn-off-google-gemini-s-visible-watermarks"
   },
   {
     "title": "(No AI) Apple trained its own AI model for China with help from Alibaba",
@@ -50,20 +67,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "apple-trained-its-own-ai-model-for-china-with-help-from-alibaba"
-  },
-  {
-    "title": "(No AI) Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "pubDate": "2026-08-13T21:42:38.000Z",
-    "author": "Emma Roth",
-    "content": "![An image of Mico](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100)\n\nMico is headed to Learn Live. | Image: Microsoft\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a [support page](https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features), Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" [as reported earlier by _GeekWire_](https://www.geekwire.com/2026/farewell-mico-microsofts-cute-little-ai-blob-is-going-the-way-of-bob/).\n\nMico [launched in Copilot's voice mode last October](https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy), with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to [give the chatbot an \"identity.\"](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview) The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins [the long list](https://the-microsoft-windows-xp.fandom.com/wiki/Office_Assistants) of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired)",
-    "contentSnippet": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
-    "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
-    "id": "https://www.theverge.com/?p=979871",
-    "isoDate": "2026-08-13T21:42:38.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
@@ -116,6 +119,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Steven Levy",
+    "title": "(No AI) Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "contentSnippet": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "guid": "6a7df60ff868b5c7ca33c338",
+    "categories": [
+      "Business",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-08-14T15:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "tech-visionary-says-the-big-ai-labs-don-t-get-what-people-want"
+  },
+  {
     "creator": "Mattha Busby",
     "title": "(No AI) These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
     "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
@@ -131,22 +151,5 @@
     "isoDate": "2026-08-14T10:45:00.000Z",
     "source": "Wired AI",
     "slug": "these-masturbation-consultants-were-hired-to-pleasure-themselves-with-ai"
-  },
-  {
-    "creator": "Jason Parham",
-    "title": "(No AI) People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-    "pubDate": "Fri, 14 Aug 2026 10:15:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-    "contentSnippet": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-    "guid": "6a74b89762c67abb9111bd59",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-08-14T10:15:00.000Z",
-    "source": "Wired AI",
-    "slug": "people-are-marrying-chatbots-these-lawmakers-want-to-stop-them"
   }
 ]
