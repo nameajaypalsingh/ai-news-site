@@ -1,46 +1,41 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "contentSnippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "guid": "https://techcrunch.com/?p=3153145",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "contentSnippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "guid": "https://techcrunch.com/?p=3153310",
     "categories": [
       "AI",
-      "Apps",
-      "gemini",
-      "Google",
-      "In Brief",
-      "watermarks"
+      "Anthropic",
+      "Claude"
     ],
-    "isoDate": "2026-08-14T16:13:40.000Z",
+    "isoDate": "2026-08-15T18:58:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations"
+    "slug": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s \\[…\\]",
-    "contentSnippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3153153",
+    "creator": "Anthony Ha",
+    "title": "(No AI) SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "contentSnippet": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "guid": "https://techcrunch.com/?p=3153306",
     "categories": [
+      "Startups",
       "AI",
-      "Amazon",
-      "Anthropic",
-      "data centers",
-      "Joby Aviation",
-      "Mark Zuckerberg",
-      "Meta"
+      "Elon Musk",
+      "SpaceX",
+      "cursor"
     ],
-    "isoDate": "2026-08-14T15:43:28.000Z",
+    "isoDate": "2026-08-15T16:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "does-mark-zuckerberg-really-believe-ai-is-for-everyone"
+    "slug": "spacex-officially-closes-its-cursor-acquisition"
   },
   {
     "title": "(No AI) Mark Zuckerberg has an Instagzam",
