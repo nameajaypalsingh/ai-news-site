@@ -121,6 +121,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Fernanda González",
+    "title": "(No AI) Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "pubDate": "Sat, 15 Aug 2026 09:00:00 +0000",
+    "dc:creator": "Fernanda González",
+    "content": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+    "contentSnippet": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+    "guid": "6a7f35587f588ccda7affc4f",
+    "categories": [
+      "Gear",
+      "Gear / How To and Advice"
+    ],
+    "isoDate": "2026-08-15T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out"
+  },
+  {
     "creator": "Zeyi Yang",
     "title": "(No AI) The Next Big Influencer Is This 4-Foot-Tall Robot From China",
     "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
@@ -135,22 +152,5 @@
     "isoDate": "2026-08-14T20:59:03.000Z",
     "source": "Wired AI",
     "slug": "the-next-big-influencer-is-this-4-foot-tall-robot-from-china"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
-    "contentSnippet": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
-    "guid": "6a7df60ff868b5c7ca33c338",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-08-14T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "tech-visionary-says-the-big-ai-labs-don-t-get-what-people-want"
   }
 ]
