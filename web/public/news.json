@@ -38,6 +38,20 @@
     "slug": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work"
   },
   {
+    "title": "(No AI) ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "pubDate": "2026-08-16T14:56:40.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100)\n\nChatGPT's desktop app on macOS has a new feature called [Computer History](https://x.com/AriX/status/2087996577227124775) that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\n\nThe feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, [said on X](https://x.com/AriX/status/2088106720157446352?s=20) that Computer History will automatically ignore content in incognito or private browser ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)",
+    "contentSnippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser ta …\nRead the full story at The Verge.",
+    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+    "id": "https://www.theverge.com/?p=980742",
+    "isoDate": "2026-08-16T14:56:40.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes"
+  },
+  {
     "title": "(No AI) Rogue AI aren’t science fiction anymore",
     "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "pubDate": "2026-08-16T12:00:00.000Z",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "rogue-ai-aren-t-science-fiction-anymore"
-  },
-  {
-    "title": "(No AI) Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "pubDate": "2026-08-15T20:45:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Screenshot of a real human posing as a fake AI and producing a scribble that’s supposed to be a Pit Bull in a party hat.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nIf you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\n\n[Your AI Slop Bores Me](https://youraislopbores.me/) is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\n\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)",
-    "contentSnippet": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
-    "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
-    "id": "https://www.theverge.com/?p=980502",
-    "isoDate": "2026-08-15T20:45:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
