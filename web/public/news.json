@@ -1,6 +1,25 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "contentSnippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "guid": "https://techcrunch.com/?p=3153318",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei"
+    ],
+    "isoDate": "2026-08-16T16:53:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
@@ -18,24 +37,6 @@
     "isoDate": "2026-08-15T21:29:19.000Z",
     "source": "TechCrunch AI",
     "slug": "woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "contentSnippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "guid": "https://techcrunch.com/?p=3153310",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "isoDate": "2026-08-15T18:58:39.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work"
   },
   {
     "title": "(No AI) ChatGPT’s Computer History tracks your clicks and keystrokes",
