@@ -1,6 +1,26 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "contentSnippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "guid": "https://techcrunch.com/?p=3153313",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Grok",
+      "SpaceX",
+      "x.ai"
+    ],
+    "isoDate": "2026-08-15T21:29:19.000Z",
+    "source": "TechCrunch AI",
+    "slug": "woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Anthropic shares more details about how Claude’s new watermarks will work",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
@@ -18,24 +38,18 @@
     "slug": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "contentSnippet": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "guid": "https://techcrunch.com/?p=3153306",
-    "categories": [
-      "Startups",
-      "AI",
-      "Elon Musk",
-      "SpaceX",
-      "cursor"
-    ],
-    "isoDate": "2026-08-15T16:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "spacex-officially-closes-its-cursor-acquisition"
+    "title": "(No AI) Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "pubDate": "2026-08-15T20:45:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Screenshot of a real human posing as a fake AI and producing a scribble that’s supposed to be a Pit Bull in a party hat.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nIf you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\n\n[Your AI Slop Bores Me](https://youraislopbores.me/) is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\n\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)",
+    "contentSnippet": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
+    "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+    "id": "https://www.theverge.com/?p=980502",
+    "isoDate": "2026-08-15T20:45:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-chatbot"
   },
   {
     "title": "(No AI) Mark Zuckerberg has an Instagzam",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "mark-zuckerberg-has-an-instagzam"
-  },
-  {
-    "title": "(No AI) You can now turn off Google Gemini’s visible watermarks",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "pubDate": "2026-08-14T16:39:32.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With [the update](https://x.com/GeminiApp/status/2088277477672255830?s=20), you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\n\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible [SynthID watermarks](https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image-detector) and [C2PA metadata](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials) embedded in the background, [according to Josh Woodward](https://x.com/joshwoodward/status/2088259244193960386?s=20), the vice president of Google Labs, Gemini, and AI Studio. That means you …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)",
-    "contentSnippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow.\nWhen toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you  …\nRead the full story at The Verge.",
-    "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
-    "id": "https://www.theverge.com/?p=980416",
-    "isoDate": "2026-08-14T16:39:32.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "you-can-now-turn-off-google-gemini-s-visible-watermarks"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
