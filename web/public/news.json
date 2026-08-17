@@ -1,39 +1,44 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "contentSnippet": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "guid": "https://techcrunch.com/?p=3153332",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "contentSnippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "guid": "https://techcrunch.com/?p=3153443",
     "categories": [
       "AI",
-      "Startups"
+      "Fundraising",
+      "data centers",
+      "groq",
+      "neocloud",
+      "nvidia"
     ],
-    "isoDate": "2026-08-16T20:57:04.000Z",
+    "isoDate": "2026-08-17T16:15:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b"
+    "slug": "groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Why people aren’t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-    "contentSnippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-    "guid": "https://techcrunch.com/?p=3153329",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "contentSnippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "guid": "https://techcrunch.com/?p=3153419",
     "categories": [
       "AI",
-      "Social",
-      "Mark Zuckerberg",
-      "Meta"
+      "data centers",
+      "nvidia",
+      "OpenAI",
+      "Softbank"
     ],
-    "isoDate": "2026-08-16T20:32:01.000Z",
+    "isoDate": "2026-08-17T15:16:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-future"
+    "slug": "nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project"
   },
   {
     "title": "(No AI) Anthropic explains how Claude’s invisible text watermarks will work",
@@ -64,32 +69,32 @@
     "slug": "openai-reportedly-disbanded-its-preparedness-team"
   },
   {
-    "title": "(No AI) New policy ideas for the Intelligence Age",
-    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
-    "content": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-    "contentSnippet": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-    "guid": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "title": "(No AI) The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "content": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "contentSnippet": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "guid": "https://openai.com/index/the-defenders-window",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-08-17T05:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-defender-s-window"
+  },
+  {
+    "title": "(No AI) OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "content": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "contentSnippet": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "guid": "https://openai.com/index/openai-joins-ports-pike-project",
     "categories": [
       "Global Affairs"
     ],
-    "isoDate": "2026-08-17T03:15:00.000Z",
+    "isoDate": "2026-08-17T05:00:00.000Z",
     "source": "OpenAI",
-    "slug": "new-policy-ideas-for-the-intelligence-age"
-  },
-  {
-    "title": "(No AI) The builder’s guide to GPT‑5.6",
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-    "content": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "contentSnippet": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "guid": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-08-13T11:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "the-builder-s-guide-to-gpt-5-6"
+    "slug": "openai-joins-ports-pike-project"
   },
   {
     "title": "(No AI) Introducing Gemini 3.7 Flash",
