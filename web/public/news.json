@@ -1,42 +1,53 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "title": "(No AI) Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-    "contentSnippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-    "guid": "https://techcrunch.com/?p=3153318",
+    "content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "contentSnippet": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "guid": "https://techcrunch.com/?p=3153332",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Anthropic",
-      "dario amodei"
+      "Startups"
     ],
-    "isoDate": "2026-08-16T16:53:51.000Z",
+    "isoDate": "2026-08-16T20:57:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust"
+    "slug": "stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b"
   },
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+    "title": "(No AI) Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "contentSnippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "guid": "https://techcrunch.com/?p=3153313",
+    "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "contentSnippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "guid": "https://techcrunch.com/?p=3153329",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Grok",
-      "SpaceX",
-      "x.ai"
+      "Social",
+      "Mark Zuckerberg",
+      "Meta"
     ],
-    "isoDate": "2026-08-15T21:29:19.000Z",
+    "isoDate": "2026-08-16T20:32:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery"
+    "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-future"
+  },
+  {
+    "title": "(No AI) OpenAI reportedly disbanded its preparedness team",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "pubDate": "2026-08-16T21:32:56.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Maroon OpenAI logo on yellow background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the [_Financial Times_](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee), OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could [go rogue](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) and hack another company.) According to _FT_, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\n\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
+    "contentSnippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+    "id": "https://www.theverge.com/?p=980817",
+    "isoDate": "2026-08-16T21:32:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-reportedly-disbanded-its-preparedness-team"
   },
   {
     "title": "(No AI) ChatGPT’s Computer History tracks your clicks and keystrokes",
@@ -51,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes"
-  },
-  {
-    "title": "(No AI) Rogue AI aren’t science fiction anymore",
-    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "pubDate": "2026-08-16T12:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [The Stepback](https://www.theverge.com/the-stepback-newsletter)_, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, [follow Robert Hart](https://www.theverge.com/authors/robert-hart)._ The Stepback _arrives in our subscribers' inboxes at 8AM ET. Opt in for_ The Stepback _[here](https://www.theverge.com/newsletters)._\n\n## How it started\n\nIt all started in July, when one of OpenAI's autonomous AI agents [went rogue](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)",
-    "contentSnippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa …\nRead the full story at The Verge.",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
-    "id": "https://www.theverge.com/?p=980337",
-    "isoDate": "2026-08-16T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "rogue-ai-aren-t-science-fiction-anymore"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
