@@ -36,12 +36,26 @@
     "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-future"
   },
   {
+    "title": "(No AI) Anthropic explains how Claude’s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "pubDate": "2026-08-17T10:57:13.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Claude logo on robot’s face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, [Anthropic announced](https://www.anthropic.com/news/claude-text-watermark) that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology [developed by Google DeepMind](https://www.theverge.com/2024/10/23/24277873/google-artificial-intelligence-synthid-watermarking-open-source) that creates detectable patterns using wording probabilities.\n\nThis watermarking feature, [alongside C2PA support](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images) for Claude-processed images, is being introduced to meet Anthropic's obligations under the [European Union's AI Act](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes), which requires synthetic audio, image, video, and text to include machine-readable marks …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)",
+    "contentSnippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities.\nThis watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks …\nRead the full story at The Verge.",
+    "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
+    "id": "https://www.theverge.com/?p=980869",
+    "isoDate": "2026-08-17T10:57:13.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-explains-how-claude-s-invisible-text-watermarks-will-work"
+  },
+  {
     "title": "(No AI) OpenAI reportedly disbanded its preparedness team",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
     "pubDate": "2026-08-16T21:32:56.000Z",
     "author": "Terrence O’Brien",
-    "content": "![Maroon OpenAI logo on yellow background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the [_Financial Times_](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee), OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could [go rogue](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) and hack another company.) According to _FT_, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\n\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
-    "contentSnippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG …\nRead the full story at The Verge.",
+    "content": "![Maroon OpenAI logo on yellow background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the [_Financial Times_](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee), OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could [go rogue](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) and hack another company.) According to _FT_, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\n\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
+    "contentSnippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\nRead the full story at The Verge.",
     "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
     "id": "https://www.theverge.com/?p=980817",
     "isoDate": "2026-08-16T21:32:56.000Z",
@@ -50,18 +64,18 @@
     "slug": "openai-reportedly-disbanded-its-preparedness-team"
   },
   {
-    "title": "(No AI) ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "pubDate": "2026-08-16T14:56:40.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100)\n\nChatGPT's desktop app on macOS has a new feature called [Computer History](https://x.com/AriX/status/2087996577227124775) that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\n\nThe feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, [said on X](https://x.com/AriX/status/2088106720157446352?s=20) that Computer History will automatically ignore content in incognito or private browser ta …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)",
-    "contentSnippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser ta …\nRead the full story at The Verge.",
-    "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-    "id": "https://www.theverge.com/?p=980742",
-    "isoDate": "2026-08-16T14:56:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes"
+    "title": "(No AI) New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "content": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "contentSnippet": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "guid": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-08-17T03:15:00.000Z",
+    "source": "OpenAI",
+    "slug": "new-policy-ideas-for-the-intelligence-age"
   },
   {
     "title": "(No AI) The builder’s guide to GPT‑5.6",
@@ -76,20 +90,6 @@
     "isoDate": "2026-08-13T11:00:00.000Z",
     "source": "OpenAI",
     "slug": "the-builder-s-guide-to-gpt-5-6"
-  },
-  {
-    "title": "(No AI) Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
-    "content": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "contentSnippet": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "guid": "https://openai.com/index/previewing-ultrafast",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-08-13T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed"
   },
   {
     "title": "(No AI) Introducing Gemini 3.7 Flash",
