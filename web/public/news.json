@@ -1,43 +1,55 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "contentSnippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "guid": "https://techcrunch.com/?p=3153430",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The model maker added $18 billion in annualized revenue in two months.",
+    "contentSnippet": "The model maker added $18 billion in annualized revenue in two months.",
+    "guid": "https://techcrunch.com/?p=3153733",
     "categories": [
       "AI",
-      "AI training",
-      "Amazon",
+      "Anthropic",
       "In Brief"
     ],
-    "isoDate": "2026-08-17T16:38:44.000Z",
+    "isoDate": "2026-08-17T23:56:26.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-which-started-off-selling-books-is-destroying-rare-texts-to-train-ai"
+    "slug": "anthropic-s-annualized-revenue-surges-to-65b"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-    "contentSnippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-    "guid": "https://techcrunch.com/?p=3153443",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "contentSnippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "guid": "https://techcrunch.com/?p=3153653",
     "categories": [
       "AI",
-      "Fundraising",
-      "data centers",
-      "groq",
-      "neocloud",
-      "nvidia"
+      "Chrome",
+      "gemini",
+      "Google",
+      "relay"
     ],
-    "isoDate": "2026-08-17T16:15:12.000Z",
+    "isoDate": "2026-08-17T21:27:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
+    "slug": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team"
+  },
+  {
+    "title": "(No AI) Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "pubDate": "2026-08-17T11:00:00.000Z",
+    "author": "Jennifer Pattison Tuohy",
+    "content": "![Cat standing inside of Whisker’s AI powered litter robot.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe greatest invention in [pet tech](https://www.theverge.com/tech/765085/pet-gadgets-dog-cat-fish-favorites) in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that.\n\nAt least, that is the idea behind the [Litter-Robot 5 Pro](https://www.whisker.com/litter-robot-5-pro), the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)",
+    "contentSnippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
+    "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
+    "id": "https://www.theverge.com/?p=978323",
+    "isoDate": "2026-08-17T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies"
   },
   {
     "title": "(No AI) Anthropic explains how Claude’s invisible text watermarks will work",
@@ -52,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "anthropic-explains-how-claude-s-invisible-text-watermarks-will-work"
-  },
-  {
-    "title": "(No AI) OpenAI reportedly disbanded its preparedness team",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "pubDate": "2026-08-16T21:32:56.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Maroon OpenAI logo on yellow background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAccording to the [_Financial Times_](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee), OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could [go rogue](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) and hack another company.) According to _FT_, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\n\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
-    "contentSnippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams.\nThis is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI …\nRead the full story at The Verge.",
-    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
-    "id": "https://www.theverge.com/?p=980817",
-    "isoDate": "2026-08-16T21:32:56.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-reportedly-disbanded-its-preparedness-team"
   },
   {
     "title": "(No AI) The Defender’s Window",
