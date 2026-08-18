@@ -1,41 +1,54 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Anthropic’s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The model maker added $18 billion in annualized revenue in two months.",
-    "contentSnippet": "The model maker added $18 billion in annualized revenue in two months.",
-    "guid": "https://techcrunch.com/?p=3153733",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "contentSnippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "guid": "https://techcrunch.com/?p=3153909",
     "categories": [
       "AI",
-      "Anthropic",
-      "In Brief"
+      "Hardware",
+      "Apple",
+      "siri"
     ],
-    "isoDate": "2026-08-17T23:56:26.000Z",
+    "isoDate": "2026-08-18T16:19:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-annualized-revenue-surges-to-65b"
+    "slug": "why-apple-s-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-    "contentSnippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-    "guid": "https://techcrunch.com/?p=3153653",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "contentSnippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "guid": "https://techcrunch.com/?p=3153863",
     "categories": [
       "AI",
-      "Chrome",
-      "gemini",
-      "Google",
-      "relay"
+      "AI coding tools",
+      "warp"
     ],
-    "isoDate": "2026-08-17T21:27:05.000Z",
+    "isoDate": "2026-08-18T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team"
+    "slug": "warp-s-new-system-is-an-out-of-the-box-software-factory-for-ai-development"
+  },
+  {
+    "title": "(No AI) Firefox’s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "pubDate": "2026-08-18T13:00:00.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A screenshot of AI tab group suggestions in Firefox’s Smart Window](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&strip=all&crop=0,0,100,100)\n\nStarting today, AI chats in Firefox's [Smart Window AI browsing mode](https://blog.mozilla.org/en/firefox/firefox-smart-window/) can pull from current web info and show source links in chat responses through a partnership with [Exa](https://exa.ai/). Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language.\n\nI saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at last week,\" and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features)",
+    "contentSnippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. \nI saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at last week,\" and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it  …\nRead the full story at The Verge.",
+    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+    "id": "https://www.theverge.com/?p=981283",
+    "isoDate": "2026-08-18T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "firefox-s-smart-window-promises-a-better-ai-browser"
   },
   {
     "title": "(No AI) Google’s Pet Memory forgot who my cats are",
@@ -50,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "google-s-pet-memory-forgot-who-my-cats-are"
-  },
-  {
-    "title": "(No AI) Elon Musk made flying even worse so Palantir could profit",
-    "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-    "pubDate": "2026-08-18T11:00:00.000Z",
-    "author": "Darryl Campbell",
-    "content": "![Elon Musk and Peter Thiel](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn August 6th, the Minneapolis Air Route Traffic Control Center [lost radar and communications for around two hours](https://aerocorner.com/news/minneapolis-artcc-atc-zero-outage/). The outage disrupted more than [1,100 flights](https://www.travelpulse.com/news/impacting-travel/air-traffic-control-outage-delays-flights-across-midwest) across the center's 330,000 square mile, nine-state airspace sector.\n\nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir)",
-    "contentSnippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. \nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\nRead the full story at The Verge.",
-    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
-    "id": "https://www.theverge.com/?p=981194",
-    "isoDate": "2026-08-18T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-made-flying-even-worse-so-palantir-could-profit"
   },
   {
     "title": "(No AI) Partnering with CodeAI to prepare the first AI generation",
