@@ -38,60 +38,60 @@
     "slug": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team"
   },
   {
-    "title": "(No AI) Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "pubDate": "2026-08-17T11:00:00.000Z",
+    "title": "(No AI) Google’s Pet Memory forgot who my cats are",
+    "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "pubDate": "2026-08-18T12:01:29.000Z",
     "author": "Jennifer Pattison Tuohy",
-    "content": "![Cat standing inside of Whisker’s AI powered litter robot.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe greatest invention in [pet tech](https://www.theverge.com/tech/765085/pet-gadgets-dog-cat-fish-favorites) in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that.\n\nAt least, that is the idea behind the [Litter-Robot 5 Pro](https://www.whisker.com/litter-robot-5-pro), the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)",
-    "contentSnippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
-    "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
-    "id": "https://www.theverge.com/?p=978323",
-    "isoDate": "2026-08-17T11:00:00.000Z",
+    "content": "![Google Nest camera on a background of black and white cat fur.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOne of the best things my smart home does is [help me care for my pets](https://www.theverge.com/24074059/smart-home-pet-tech-tips-gadgets-solutions), and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new [Pet Memory feature for Gemini for Home](https://www.theverge.com/tech/942001/nest-cams-can-now-recognize-your-furry-friends), I thought this could be the perfect solution.\n\nPet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to _which_ animal they saw. It can then use that knowledge to adapt your smart home to your pet.\n\nMy plan was to use it to keep a digital …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)",
+    "contentSnippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution.\nPet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to which animal they saw. It can then use that knowledge to adapt your smart home to your pet. \nMy plan was to use it to keep a digital …\nRead the full story at The Verge.",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+    "id": "https://www.theverge.com/?p=981269",
+    "isoDate": "2026-08-18T12:01:29.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "whisker-s-ai-powered-litter-robot-thinks-my-cats-swapped-bodies"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-pet-memory-forgot-who-my-cats-are"
   },
   {
-    "title": "(No AI) Anthropic explains how Claude’s invisible text watermarks will work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "pubDate": "2026-08-17T10:57:13.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Claude logo on robot’s face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, [Anthropic announced](https://www.anthropic.com/news/claude-text-watermark) that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology [developed by Google DeepMind](https://www.theverge.com/2024/10/23/24277873/google-artificial-intelligence-synthid-watermarking-open-source) that creates detectable patterns using wording probabilities.\n\nThis watermarking feature, [alongside C2PA support](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images) for Claude-processed images, is being introduced to meet Anthropic's obligations under the [European Union's AI Act](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes), which requires synthetic audio, image, video, and text to include machine-readable marks …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)",
-    "contentSnippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities.\nThis watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks …\nRead the full story at The Verge.",
-    "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
-    "id": "https://www.theverge.com/?p=980869",
-    "isoDate": "2026-08-17T10:57:13.000Z",
+    "title": "(No AI) Elon Musk made flying even worse so Palantir could profit",
+    "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "pubDate": "2026-08-18T11:00:00.000Z",
+    "author": "Darryl Campbell",
+    "content": "![Elon Musk and Peter Thiel](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn August 6th, the Minneapolis Air Route Traffic Control Center [lost radar and communications for around two hours](https://aerocorner.com/news/minneapolis-artcc-atc-zero-outage/). The outage disrupted more than [1,100 flights](https://www.travelpulse.com/news/impacting-travel/air-traffic-control-outage-delays-flights-across-midwest) across the center's 330,000 square mile, nine-state airspace sector.\n\nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir)",
+    "contentSnippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. \nTwo days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) protocol requires, the pilots tried to contact Reagan National Airport to tell them to halt commercial traffic during the flight. But the air traffic controllers never heard the transmission and cleared a different airplane for takeoff - which came clo …\nRead the full story at The Verge.",
+    "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
+    "id": "https://www.theverge.com/?p=981194",
+    "isoDate": "2026-08-18T11:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-explains-how-claude-s-invisible-text-watermarks-will-work"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-made-flying-even-worse-so-palantir-could-profit"
   },
   {
-    "title": "(No AI) The Defender’s Window",
-    "link": "https://openai.com/index/the-defenders-window",
-    "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
-    "content": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "contentSnippet": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "guid": "https://openai.com/index/the-defenders-window",
+    "title": "(No AI) Partnering with CodeAI to prepare the first AI generation",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "content": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "contentSnippet": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "guid": "https://openai.com/index/partnering-with-codeai",
     "categories": [
-      "Security"
+      "Company"
     ],
-    "isoDate": "2026-08-17T05:30:00.000Z",
+    "isoDate": "2026-08-18T11:00:00.000Z",
     "source": "OpenAI",
-    "slug": "the-defender-s-window"
+    "slug": "partnering-with-codeai-to-prepare-the-first-ai-generation"
   },
   {
-    "title": "(No AI) OpenAI joins PORTS-Pike project",
-    "link": "https://openai.com/index/openai-joins-ports-pike-project",
-    "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
-    "content": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "contentSnippet": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "guid": "https://openai.com/index/openai-joins-ports-pike-project",
+    "title": "(No AI) Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "content": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "contentSnippet": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "guid": "https://openai.com/index/chatgpt-for-teens",
     "categories": [
-      "Global Affairs"
+      "Product"
     ],
-    "isoDate": "2026-08-17T05:00:00.000Z",
+    "isoDate": "2026-08-18T11:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-joins-ports-pike-project"
+    "slug": "introducing-chatgpt-for-teens-built-for-learning-backed-by-protections"
   },
   {
     "title": "(No AI) Introducing Gemini 3.7 Flash",
@@ -116,6 +116,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) The Powerful Chinese AI Model Experts Warned About Is Here",
+    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+    "contentSnippet": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+    "guid": "6a832c872b72af022841792b",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-18T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-powerful-chinese-ai-model-experts-warned-about-is-here"
+  },
+  {
     "creator": "Fernanda González",
     "title": "(No AI) Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
@@ -131,21 +148,5 @@
     "isoDate": "2026-08-15T09:00:00.000Z",
     "source": "Wired AI",
     "slug": "amazon-can-use-your-twitch-content-to-train-its-ai-unless-you-opt-out"
-  },
-  {
-    "creator": "Zeyi Yang",
-    "title": "(No AI) The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "pubDate": "Fri, 14 Aug 2026 20:59:03 +0000",
-    "dc:creator": "Zeyi Yang",
-    "content": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-    "contentSnippet": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-    "guid": "6a7e0f9c0f200c034ba14931",
-    "categories": [
-      "Business"
-    ],
-    "isoDate": "2026-08-14T20:59:03.000Z",
-    "source": "Wired AI",
-    "slug": "the-next-big-influencer-is-this-4-foot-tall-robot-from-china"
   }
 ]
