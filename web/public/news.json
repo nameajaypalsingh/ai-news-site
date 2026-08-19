@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "pubDate": "Tue, 18 Aug 2026 22:14:25 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "contentSnippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "guid": "https://techcrunch.com/?p=3154081",
+    "categories": [
+      "AI",
+      "cursor",
+      "GitHub",
+      "spacexai"
+    ],
+    "isoDate": "2026-08-18T22:14:25.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) OpenAI institutes new safeguards after Hugging Face breach",
     "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -16,25 +35,6 @@
     "isoDate": "2026-08-18T18:00:00.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-institutes-new-safeguards-after-hugging-face-breach"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Etched’s valuation doubles to $21B in a month",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-    "contentSnippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-    "guid": "https://techcrunch.com/?p=3153956",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "etched"
-    ],
-    "isoDate": "2026-08-18T17:21:58.000Z",
-    "source": "TechCrunch AI",
-    "slug": "etched-s-valuation-doubles-to-21b-in-a-month"
   },
   {
     "title": "(No AI) Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
@@ -65,7 +65,7 @@
     "slug": "openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face"
   },
   {
-    "title": "(No AI) Strengthening Democratic Oversight in National Security",
+    "title": "(No AI) Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
     "content": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
