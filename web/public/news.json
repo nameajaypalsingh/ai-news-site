@@ -1,40 +1,43 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-    "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-    "contentSnippet": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-    "guid": "https://techcrunch.com/?p=3154147",
+    "creator": "Tim De Chant",
+    "title": "(No AI) TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "contentSnippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "guid": "https://techcrunch.com/?p=3154356",
     "categories": [
       "AI",
+      "Climate",
       "data centers",
-      "Fiber"
+      "nuclear power",
+      "terrapower"
     ],
-    "isoDate": "2026-08-19T10:00:00.000Z",
+    "isoDate": "2026-08-19T15:44:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers"
+    "slug": "terrapower-s-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "pubDate": "Tue, 18 Aug 2026 22:14:25 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "contentSnippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "guid": "https://techcrunch.com/?p=3154081",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+    "contentSnippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+    "guid": "https://techcrunch.com/?p=3154279",
     "categories": [
       "AI",
-      "cursor",
-      "GitHub",
-      "spacexai"
+      "Media & Entertainment",
+      "Alexa",
+      "Amazon",
+      "Fire TV"
     ],
-    "isoDate": "2026-08-18T22:14:25.000Z",
+    "isoDate": "2026-08-19T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform"
+    "slug": "amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required"
   },
   {
     "title": "(No AI) Nvidia’s new financial strategy does not compute",
@@ -65,6 +68,20 @@
     "slug": "robin-williams-instagram-account-brought-back-to-fight-ai-abuse"
   },
   {
+    "title": "(No AI) Replit expands access to software creation with GPT-5.6 Luna",
+    "link": "https://openai.com/index/replit",
+    "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "content": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "contentSnippet": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "guid": "https://openai.com/index/replit",
+    "categories": [
+      "Startup"
+    ],
+    "isoDate": "2026-08-19T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "replit-expands-access-to-software-creation-with-gpt-5-6-luna"
+  },
+  {
     "title": "(No AI) ChatGPT Ads expands across Europe",
     "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
@@ -77,20 +94,6 @@
     "isoDate": "2026-08-18T22:00:00.000Z",
     "source": "OpenAI",
     "slug": "chatgpt-ads-expands-across-europe"
-  },
-  {
-    "title": "(No AI) Strengthening democratic oversight in national security",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "content": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "contentSnippet": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "guid": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-08-18T19:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "strengthening-democratic-oversight-in-national-security"
   },
   {
     "title": "(No AI) Introducing Gemini 3.7 Flash",
