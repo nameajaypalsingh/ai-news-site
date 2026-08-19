@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "contentSnippet": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "guid": "https://techcrunch.com/?p=3154147",
+    "categories": [
+      "AI",
+      "data centers",
+      "Fiber"
+    ],
+    "isoDate": "2026-08-19T10:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -19,22 +37,18 @@
     "slug": "cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "contentSnippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "guid": "https://techcrunch.com/?p=3154044",
-    "categories": [
-      "AI",
-      "Security",
-      "OpenAI"
-    ],
-    "isoDate": "2026-08-18T18:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-institutes-new-safeguards-after-hugging-face-breach"
+    "title": "(No AI) Nvidia’s new financial strategy does not compute",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "pubDate": "2026-08-19T12:00:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Digital photo collage of Nvidia CEO Jensen Huang.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\n\n_April - 1805_\n\n_Napoleon is master of Europe_\n\n_Only the British fleet stands before him_\n\n_Compute is now an asset class_\n\nI see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn [compute into an asset class](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html).\n\n\"This is really the first time that technology chips have become an investable asset class,\" Nvidia CEO Jensen Huang said to CNBC. \"These are revenue-generating assets now. They're productive, they're long-lived, they're fungible, they're flexible.\"\n\n> \"This is the very beginning, like what it was whe …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)",
+    "contentSnippet": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is master of Europe\nOnly the British fleet stands before him\nCompute is now an asset class\nI see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute into an asset class.\n\"This is really the first time that technology chips have become an investable asset class,\" Nvidia CEO Jensen Huang said to CNBC. \"These are revenue-generating assets now. They're productive, they're long-lived, they're fungible, they're flexible.\"\n\n\"This is the very beginning, like what it was whe …\n\nRead the full story at The Verge.",
+    "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+    "id": "https://www.theverge.com/?p=981668",
+    "isoDate": "2026-08-19T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-s-new-financial-strategy-does-not-compute"
   },
   {
     "title": "(No AI) Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
@@ -49,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
     "slug": "robin-williams-instagram-account-brought-back-to-fight-ai-abuse"
-  },
-  {
-    "title": "(No AI) OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "pubDate": "2026-08-18T19:28:30.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is announcing [security updates](https://openai.com/index/pacing-model-development-cyber-capabilities/) following the July news that its AI broke out of a sandboxed environment and [accidentally hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai), including improvements to its research environments, monitoring, and alignment techniques. The company had already put the [brakes on a new model, Astra](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities), that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for deployment\" while it tightened up security. The company's \"largest planned frontier RL run remains on hold.\"\n\nFor its frontier model research, OpenAI now r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)",
-    "contentSnippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its \"latest models intended for deployment\" while it tightened up security. The company's \"largest planned frontier RL run remains on hold.\"\nFor its frontier model research, OpenAI now r …\nRead the full story at The Verge.",
-    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
-    "id": "https://www.theverge.com/?p=981640",
-    "isoDate": "2026-08-18T19:28:30.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face"
   },
   {
     "title": "(No AI) ChatGPT Ads expands across Europe",
@@ -115,6 +115,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Dhruv Mehrotra, Dell Cameron",
+    "title": "(No AI) Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "dc:creator": "Dhruv Mehrotra, Dell Cameron",
+    "content": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "contentSnippet": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "guid": "6a7dd1a1171ea6971cf1d2c1",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-08-19T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "flock-has-a-powerful-new-ai-tool-for-police-we-got-its-code"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
     "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
@@ -132,22 +149,5 @@
     "isoDate": "2026-08-18T18:33:11.000Z",
     "source": "Wired AI",
     "slug": "openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) The Powerful Chinese AI Model Experts Warned About Is Here",
-    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-    "contentSnippet": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-    "guid": "6a832c872b72af022841792b",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-18T09:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-powerful-chinese-ai-model-experts-warned-about-is-here"
   }
 ]
