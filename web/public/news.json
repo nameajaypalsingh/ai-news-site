@@ -1,41 +1,55 @@
 [
   {
     "creator": "Sarah Perez",
-    "title": "(No AI) Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
+    "title": "(No AI) Google gives publishers a new way to fight AI-driven traffic losses",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "contentSnippet": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "guid": "https://techcrunch.com/?p=3154881",
+    "content": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+    "contentSnippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+    "guid": "https://techcrunch.com/?p=3155082",
     "categories": [
       "AI",
-      "Apps",
-      "Gaming",
-      "Social"
+      "Media & Entertainment",
+      "Google",
+      "Search"
     ],
-    "isoDate": "2026-08-20T16:07:26.000Z",
+    "isoDate": "2026-08-20T19:18:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users"
+    "slug": "google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses"
   },
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Inertia Enterprises finds a way to make its fusion fuel fast",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
-    "contentSnippet": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
-    "guid": "https://techcrunch.com/?p=3154855",
+    "creator": "Julie Bort",
+    "title": "(No AI) Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "pubDate": "Thu, 20 Aug 2026 19:15:05 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "contentSnippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "guid": "https://techcrunch.com/?p=3154952",
     "categories": [
       "AI",
-      "Exclusive",
-      "fusion power",
-      "Inertia Enterprises"
+      "Enterprise",
+      "Startups",
+      "Rippling"
     ],
-    "isoDate": "2026-08-20T16:00:00.000Z",
+    "isoDate": "2026-08-20T19:15:05.000Z",
     "source": "TechCrunch AI",
-    "slug": "inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast"
+    "slug": "runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders"
+  },
+  {
+    "title": "(No AI) It’s Greg Brockman’s OpenAI now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "pubDate": "2026-08-20T15:45:55.000Z",
+    "author": "Hayden Field",
+    "content": "![Graphic collage of Greg Brockman.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\n\nThroughout it all, one person has quietly amassed power: Greg Brockman.\n\nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, [described as](https://www.theverge.com/ai-artificial-intelligence/929864/achiam-talked-about-the-roles-of-greg-brockman-and-ilya-sutskever-in-openais-early-days) an \"engineering workhorse that pushed to build scaled-up systems that wou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion)",
+    "contentSnippet": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\nThroughout it all, one person has quietly amassed power: Greg Brockman. \nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse that pushed to build scaled-up systems that wou …\nRead the full story at The Verge.",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+    "id": "https://www.theverge.com/?p=982774",
+    "isoDate": "2026-08-20T15:45:55.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "it-s-greg-brockman-s-openai-now"
   },
   {
     "title": "(No AI) Welcome to the AI crisis in math",
@@ -52,18 +66,18 @@
     "slug": "welcome-to-the-ai-crisis-in-math"
   },
   {
-    "title": "(No AI) Slack is launching collaborative vibe-coding channels",
-    "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-    "pubDate": "2026-08-20T12:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![An illustration of the Slack logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSlack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped.\n\n\"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Slack said in its press release. \"There, everyone …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)",
-    "contentSnippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \n\"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Slack said in its press release. \"There, everyone  …\nRead the full story at The Verge.",
-    "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-    "id": "https://www.theverge.com/?p=982628",
-    "isoDate": "2026-08-20T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "slack-is-launching-collaborative-vibe-coding-channels"
+    "title": "(No AI) Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "content": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "contentSnippet": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "guid": "https://openai.com/index/introducing-ai-futures",
+    "categories": [
+      "AI Futures"
+    ],
+    "isoDate": "2026-08-20T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-ai-futures"
   },
   {
     "title": "(No AI) How ChatGPT Work helps Stampli move ideas to market",
@@ -75,20 +89,6 @@
     "isoDate": "2026-08-20T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-chatgpt-work-helps-stampli-move-ideas-to-market"
-  },
-  {
-    "title": "(No AI) Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "content": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "contentSnippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "guid": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-08-19T19:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "offering-zero-data-retention-for-frontier-models"
   },
   {
     "title": "(No AI) Introducing Gemini 3.7 Flash",
@@ -113,6 +113,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) Silicon Valley Doesn't Get Why You Hate AI",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "pubDate": "Thu, 20 Aug 2026 18:49:07 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+    "contentSnippet": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+    "guid": "6a85dd109e48c15857d19bad",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-20T18:49:07.000Z",
+    "source": "Wired AI",
+    "slug": "silicon-valley-doesn-t-get-why-you-hate-ai"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
@@ -128,22 +145,5 @@
     "isoDate": "2026-08-19T19:30:00.000Z",
     "source": "Wired AI",
     "slug": "i-saw-the-future-of-ai-in-a-robot-that-can-learn-on-the-spot"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-    "pubDate": "Wed, 19 Aug 2026 16:44:07 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-    "contentSnippet": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-    "guid": "6a85891388ea458d1c261341",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-19T16:44:07.000Z",
-    "source": "Wired AI",
-    "slug": "coders-say-they-already-found-workarounds-to-claude-s-invisible-watermarks"
   }
 ]
