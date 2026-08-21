@@ -1,42 +1,56 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "contentSnippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "guid": "https://techcrunch.com/?p=3155270",
+    "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+    "title": "(No AI) The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "dc:creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+    "content": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested \\[…\\]",
+    "contentSnippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
     "categories": [
-      "AI",
       "Startups",
-      "data labeling",
-      "micro1",
-      "reinforcement learning"
+      "Venture",
+      "AI"
     ],
-    "isoDate": "2026-08-21T00:13:44.000Z",
+    "isoDate": "2026-08-21T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom"
+    "slug": "the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "contentSnippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "guid": "https://techcrunch.com/?p=3155215",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "There's about to be a big fight to secure access to space.",
+    "contentSnippet": "There's about to be a big fight to secure access to space.",
+    "guid": "https://techcrunch.com/?p=3155064",
     "categories": [
       "AI",
-      "TC",
-      "Anthropic",
-      "OpenAI"
+      "Space",
+      "Startups",
+      "Exclusive",
+      "orbital data centers",
+      "Starcloud"
     ],
-    "isoDate": "2026-08-20T22:36:37.000Z",
+    "isoDate": "2026-08-21T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-is-gaining-on-anthropic-with-business-users-new-data-indicates"
+    "slug": "starcloud-raises-250-million-for-orbital-data-centers-as-launch-options-dry-up"
+  },
+  {
+    "title": "(No AI) Major YouTube creators are facing backlash for accepting AI money",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "pubDate": "2026-08-21T13:37:52.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "YouTube\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label\\_eb9dbb.jpg?quality=90&strip=all&crop=0,0,100,100\" />\n\nOver the past few days, a number of prominent filmmaking content creators including [Matti Haapoja](https://www.threads.com/@mattih/post/DcBh3cslYcg) and [Sam \"Kold\" Kolder](https://www.youtube.com/watch?v=CGoFUxCmBdA) have posted videos of themselves demonstrating what's possible with [AI platform Higgsfield](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list). The videos highlight Higgsfield's recently added [Seedance 2.5 functionality](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) and pitch these technologies as the future of video production.\n\nIn response to these videos, other creators [started sharing](https://www.threads.com/@chrislawley_/post/DcFuT60Gwry) what appear to be [screenshots of partnership offers](https://www.threads.com/@geraldundone/post/DcFRjUfDF0Q) they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)",
+    "contentSnippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
+    "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
+    "id": "https://www.theverge.com/?p=983181",
+    "isoDate": "2026-08-21T13:37:52.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "major-youtube-creators-are-facing-backlash-for-accepting-ai-money"
   },
   {
     "title": "(No AI) Google Discover is getting an AI chatbot-tuned feed",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "google-discover-is-getting-an-ai-chatbot-tuned-feed"
-  },
-  {
-    "title": "(No AI) It’s Greg Brockman’s OpenAI now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "pubDate": "2026-08-20T15:45:55.000Z",
-    "author": "Hayden Field",
-    "content": "![Graphic collage of Greg Brockman.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\n\nThroughout it all, one person has quietly amassed power: Greg Brockman.\n\nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, [described as](https://www.theverge.com/ai-artificial-intelligence/929864/achiam-talked-about-the-roles-of-greg-brockman-and-ilya-sutskever-in-openais-early-days) an \"engineering workhorse that pushed to build scaled-up systems that wou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion)",
-    "contentSnippet": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\nThroughout it all, one person has quietly amassed power: Greg Brockman. \nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse that pushed to build scaled-up systems that wou …\nRead the full story at The Verge.",
-    "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
-    "id": "https://www.theverge.com/?p=982774",
-    "isoDate": "2026-08-20T15:45:55.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "it-s-greg-brockman-s-openai-now"
   },
   {
     "title": "(No AI) Introducing AI Futures",
