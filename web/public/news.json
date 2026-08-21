@@ -114,6 +114,23 @@
     "slug": "putting-sign-language-ai-into-users-hands"
   },
   {
+    "creator": "Joel Khalili, Matt Burgess",
+    "title": "(No AI) The Single English County Saying No to Palantir",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+    "dc:creator": "Joel Khalili, Matt Burgess",
+    "content": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+    "contentSnippet": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+    "guid": "6a7c4b927c15d30fa36e58fd",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-08-21T06:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-single-english-county-saying-no-to-palantir"
+  },
+  {
     "creator": "Maxwell Zeff",
     "title": "(No AI) Silicon Valley Doesn't Get Why You Hate AI",
     "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
@@ -129,22 +146,5 @@
     "isoDate": "2026-08-20T18:49:07.000Z",
     "source": "Wired AI",
     "slug": "silicon-valley-doesn-t-get-why-you-hate-ai"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) I Saw the Future of AI in a Robot That Can Learn on the Spot",
-    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-    "pubDate": "Wed, 19 Aug 2026 19:30:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-    "contentSnippet": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-    "guid": "6a832c00aa9b25dea71b4c22",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-19T19:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-saw-the-future-of-ai-in-a-robot-that-can-learn-on-the-spot"
   }
 ]
