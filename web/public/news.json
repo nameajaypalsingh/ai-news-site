@@ -1,21 +1,21 @@
 [
   {
-    "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "title": "(No AI) The DOJ is investigating a16z. What does this mean for venture capital?",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-    "dc:creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "content": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested \\[…\\]",
-    "contentSnippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
+    "creator": "Julie Bort",
+    "title": "(No AI) Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "contentSnippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "guid": "https://techcrunch.com/?p=3155284",
     "categories": [
-      "Startups",
-      "Venture",
-      "AI"
+      "AI",
+      "Exclusive",
+      "nvidia"
     ],
-    "isoDate": "2026-08-21T14:00:00.000Z",
+    "isoDate": "2026-08-21T19:43:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital"
+    "slug": "nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
   },
   {
     "creator": "Tim Fernholz",
@@ -43,8 +43,8 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "pubDate": "2026-08-21T13:37:52.000Z",
     "author": "Charles Pulliam-Moore",
-    "content": "YouTube\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label\\_eb9dbb.jpg?quality=90&strip=all&crop=0,0,100,100\" />\n\nOver the past few days, a number of prominent filmmaking content creators including [Matti Haapoja](https://www.threads.com/@mattih/post/DcBh3cslYcg) and [Sam \"Kold\" Kolder](https://www.youtube.com/watch?v=CGoFUxCmBdA) have posted videos of themselves demonstrating what's possible with [AI platform Higgsfield](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list). The videos highlight Higgsfield's recently added [Seedance 2.5 functionality](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) and pitch these technologies as the future of video production.\n\nIn response to these videos, other creators [started sharing](https://www.threads.com/@chrislawley_/post/DcFuT60Gwry) what appear to be [screenshots of partnership offers](https://www.threads.com/@geraldundone/post/DcFRjUfDF0Q) they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)",
-    "contentSnippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
+    "content": "YouTube\" data-portal-copyright=\"Screenshot: The Verge, [YouTube](https://www.youtube.com/watch?v=CGoFUxCmBdA)\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label\\_eb9dbb.jpg?quality=90&strip=all&crop=0,0,100,100\" />\n\nA still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, [YouTube](https://www.youtube.com/watch?v=CGoFUxCmBdA)\n\nOver the past few days, a number of prominent filmmaking content creators including [Matti Haapoja](https://www.threads.com/@mattih/post/DcBh3cslYcg) and [Sam \"Kold\" Kolder](https://www.youtube.com/watch?v=CGoFUxCmBdA) have posted videos of themselves demonstrating what's possible with [AI platform Higgsfield](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list). The videos highlight Higgsfield's recently added [Seedance 2.5 functionality](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) and pitch these technologies as the future of video production.\n\nIn response to these videos, other creators [started sharing](https://www.threads.com/@chrislawley_/post/DcFuT60Gwry) what appear to be [screenshots of partnership offers](https://www.threads.com/@geraldundone/post/DcFRjUfDF0Q) they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)",
+    "contentSnippet": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
     "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
     "id": "https://www.theverge.com/?p=983181",
     "isoDate": "2026-08-21T13:37:52.000Z",
