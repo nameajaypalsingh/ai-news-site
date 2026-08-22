@@ -1,6 +1,30 @@
 [
   {
     "creator": "Rebecca Bellan",
+    "title": "(No AI) Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "contentSnippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "guid": "https://techcrunch.com/?p=3155518",
+    "categories": [
+      "Security",
+      "AI",
+      "Google",
+      "Meta",
+      "xAI",
+      "OpenAI",
+      "Hugging Face",
+      "Anthropic",
+      "alignment"
+    ],
+    "isoDate": "2026-08-22T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue-model"
+  },
+  {
+    "creator": "Rebecca Bellan",
     "title": "(No AI) Anthropic’s Opus 4.6 is a smut-machine",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -17,26 +41,6 @@
     "isoDate": "2026-08-21T23:07:25.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-s-opus-4-6-is-a-smut-machine"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "contentSnippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "guid": "https://techcrunch.com/?p=3155585",
-    "categories": [
-      "AI",
-      "data centers",
-      "In Brief",
-      "nvidia",
-      "OpenAI"
-    ],
-    "isoDate": "2026-08-21T22:37:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "nvidia-partners-with-data-center-developer-cloverleaf"
   },
   {
     "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
