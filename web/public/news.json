@@ -1,42 +1,56 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "contentSnippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "guid": "https://techcrunch.com/?p=3155284",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "contentSnippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "guid": "https://techcrunch.com/?p=3155131",
     "categories": [
       "AI",
-      "Exclusive",
-      "nvidia"
+      "Anthropic",
+      "Claude",
+      "Exclusive"
     ],
-    "isoDate": "2026-08-21T19:43:39.000Z",
+    "isoDate": "2026-08-21T23:07:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
+    "slug": "anthropic-s-opus-4-6-is-a-smut-machine"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "There's about to be a big fight to secure access to space.",
-    "contentSnippet": "There's about to be a big fight to secure access to space.",
-    "guid": "https://techcrunch.com/?p=3155064",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "contentSnippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "guid": "https://techcrunch.com/?p=3155585",
     "categories": [
       "AI",
-      "Space",
-      "Startups",
-      "Exclusive",
-      "orbital data centers",
-      "Starcloud"
+      "data centers",
+      "In Brief",
+      "nvidia",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-21T14:00:00.000Z",
+    "isoDate": "2026-08-21T22:37:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "starcloud-raises-250-million-for-orbital-data-centers-as-launch-options-dry-up"
+    "slug": "nvidia-partners-with-data-center-developer-cloverleaf"
+  },
+  {
+    "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "pubDate": "2026-08-21T21:25:50.000Z",
+    "author": "Jay Peters",
+    "content": "![A screenshot of LinkedIn’s “Seems like AI slop” button.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nLinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from [chief product officer Hari Srinivasan](https://www.linkedin.com/feed/update/urn:li:activity:7495960472341409792/), \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post.\n\nLinkedIn announced the button a few weeks after AI detector Pangram [determined that](https://www.pangram.com/blog/ai-in-your-feed?ref=404media.co) 41 percent of LinkedIn's longform posts were flagged as fully AI generated, [which _404 Media_ reported on](https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/). Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)",
+    "contentSnippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. \nLinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\nRead the full story at The Verge.",
+    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+    "id": "https://www.theverge.com/?p=983502",
+    "isoDate": "2026-08-21T21:25:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "over-1-million-people-have-clicked-linkedin-s-ai-slop-button"
   },
   {
     "title": "(No AI) Major YouTube creators are facing backlash for accepting AI money",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "major-youtube-creators-are-facing-backlash-for-accepting-ai-money"
-  },
-  {
-    "title": "(No AI) Google Discover is getting an AI chatbot-tuned feed",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "pubDate": "2026-08-20T21:50:22.000Z",
-    "author": "Emma Roth",
-    "content": "![A screenshot of Google Discover’s AI feed customization feature](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle will soon allow you to customize your Discover feed by describing what you want to see. The [new feature](https://blog.google/products-and-platforms/products/search/personalize-search-discover-news/), rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.\n\nYou'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option to add more information if it doesn't get it qu …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)",
-    "contentSnippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.\nYou'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option to add more information if it doesn't get it qu …\nRead the full story at The Verge.",
-    "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
-    "id": "https://www.theverge.com/?p=983088",
-    "isoDate": "2026-08-20T21:50:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-discover-is-getting-an-ai-chatbot-tuned-feed"
   },
   {
     "title": "(No AI) Introducing AI Futures",
@@ -114,6 +114,23 @@
     "slug": "introducing-gemini-3-7-flash"
   },
   {
+    "creator": "Zeyi Yang",
+    "title": "(No AI) The Unlikely Place at the Center of China’s AI Boom",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "pubDate": "Fri, 21 Aug 2026 23:25:32 +0000",
+    "dc:creator": "Zeyi Yang",
+    "content": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+    "contentSnippet": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+    "guid": "6a85df6ad0110f6d404e4794",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-21T23:25:32.000Z",
+    "source": "Wired AI",
+    "slug": "the-unlikely-place-at-the-center-of-china-s-ai-boom"
+  },
+  {
     "creator": "Joel Khalili, Matt Burgess",
     "title": "(No AI) The Single English County Saying No to Palantir",
     "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
@@ -129,22 +146,5 @@
     "isoDate": "2026-08-21T06:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-single-english-county-saying-no-to-palantir"
-  },
-  {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) Silicon Valley Doesn't Get Why You Hate AI",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-    "pubDate": "Thu, 20 Aug 2026 18:49:07 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-    "contentSnippet": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-    "guid": "6a85dd109e48c15857d19bad",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-20T18:49:07.000Z",
-    "source": "Wired AI",
-    "slug": "silicon-valley-doesn-t-get-why-you-hate-ai"
   }
 ]
