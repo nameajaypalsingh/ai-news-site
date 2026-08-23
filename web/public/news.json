@@ -1,37 +1,40 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "contentSnippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "guid": "https://techcrunch.com/?p=3155556",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "contentSnippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "guid": "https://techcrunch.com/?p=3155879",
     "categories": [
       "AI",
-      "Exclusive"
+      "openrouter"
     ],
-    "isoDate": "2026-08-23T15:00:00.000Z",
+    "isoDate": "2026-08-23T20:01:36.000Z",
     "source": "TechCrunch AI",
-    "slug": "is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-complicated"
+    "slug": "who-s-behind-the-new-stealth-model-ox-alpha"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "contentSnippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "guid": "https://techcrunch.com/?p=3155861",
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "contentSnippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "guid": "https://techcrunch.com/?p=3155017",
     "categories": [
       "AI",
-      "Harvard Business School"
+      "Apps",
+      "Gadgets",
+      "Hardware",
+      "smart calendar"
     ],
-    "isoDate": "2026-08-22T21:46:56.000Z",
+    "isoDate": "2026-08-23T19:14:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors"
+    "slug": "linkdaze-s-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule"
   },
   {
     "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
