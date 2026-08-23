@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "contentSnippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "guid": "https://techcrunch.com/?p=3155556",
+    "categories": [
+      "AI",
+      "Exclusive"
+    ],
+    "isoDate": "2026-08-23T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-complicated"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -15,24 +32,6 @@
     "isoDate": "2026-08-22T21:46:56.000Z",
     "source": "TechCrunch AI",
     "slug": "harvard-s-699-startup-bootcamp-offers-ai-avatars-of-its-instructors"
-  },
-  {
-    "creator": "Anna Heim",
-    "title": "(No AI) Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "contentSnippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "guid": "https://techcrunch.com/?p=3155023",
-    "categories": [
-      "AI",
-      "London",
-      "google deepmind"
-    ],
-    "isoDate": "2026-08-22T19:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research"
   },
   {
     "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
