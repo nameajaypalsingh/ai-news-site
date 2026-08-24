@@ -112,6 +112,23 @@
     "slug": "introducing-gemini-3-7-flash"
   },
   {
+    "creator": "Caroline Haskins",
+    "title": "(No AI) They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "pubDate": "Mon, 24 Aug 2026 09:30:00 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "contentSnippet": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "guid": "6a6a638dbda4e52fe44bd61a",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-24T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "they-dedicated-their-lives-to-teaching-then-the-deepfakes-started"
+  },
+  {
     "creator": "Zeyi Yang",
     "title": "(No AI) The Unlikely Place at the Center of China’s AI Boom",
     "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
@@ -127,22 +144,5 @@
     "isoDate": "2026-08-21T23:25:32.000Z",
     "source": "Wired AI",
     "slug": "the-unlikely-place-at-the-center-of-china-s-ai-boom"
-  },
-  {
-    "creator": "Joel Khalili, Matt Burgess",
-    "title": "(No AI) The Single English County Saying No to Palantir",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-    "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
-    "dc:creator": "Joel Khalili, Matt Burgess",
-    "content": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-    "contentSnippet": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-    "guid": "6a7c4b927c15d30fa36e58fd",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-08-21T06:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-single-english-county-saying-no-to-palantir"
   }
 ]
