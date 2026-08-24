@@ -1,44 +1,39 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "contentSnippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "guid": "https://techcrunch.com/?p=3155937",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "pubDate": "Mon, 24 Aug 2026 19:54:19 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "contentSnippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "guid": "https://techcrunch.com/?p=3156061",
     "categories": [
       "AI",
-      "Fundraising",
-      "Venture",
-      "Exclusive",
-      "general intuition",
-      "Point72 Ventures",
-      "robotics",
-      "valor equity partners"
+      "Startups",
+      "Amjad Masad",
+      "Replit",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-08-24T15:24:18.000Z",
+    "isoDate": "2026-08-24T19:54:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
+    "slug": "amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "contentSnippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "guid": "https://techcrunch.com/?p=3155884",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "pubDate": "Mon, 24 Aug 2026 18:03:55 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "contentSnippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "guid": "https://techcrunch.com/?p=3155931",
     "categories": [
-      "AI",
-      "Exclusive",
-      "OpenAI"
+      "AI"
     ],
-    "isoDate": "2026-08-24T15:00:00.000Z",
+    "isoDate": "2026-08-24T18:03:55.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-is-building-ai-agents-for-everything-will-everyone-use-them"
+    "slug": "instinct-s-powerful-ai-assistant-is-raising-privacy-and-security-concerns"
   },
   {
     "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
@@ -69,6 +64,20 @@
     "slug": "major-youtube-creators-are-facing-backlash-for-accepting-ai-money"
   },
   {
+    "title": "(No AI) Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "content": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "contentSnippet": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "guid": "https://openai.com/index/gpt-5-6-in-kiro",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-08-24T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "advancing-price-performance-for-developers-with-gpt-5-6-in-kiro"
+  },
+  {
     "title": "(No AI) Introducing AI Futures",
     "link": "https://openai.com/index/introducing-ai-futures",
     "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -81,17 +90,6 @@
     "isoDate": "2026-08-20T07:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-ai-futures"
-  },
-  {
-    "title": "(No AI) Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
-    "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "contentSnippet": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "guid": "https://openai.com/index/stampli",
-    "isoDate": "2026-08-20T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "stampli-cuts-launch-hours-by-68-using-chatgpt-work"
   },
   {
     "title": "(No AI) From Atari to EVE Online: Building on 15 Years of AI Research in Games",
