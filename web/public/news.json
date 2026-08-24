@@ -1,40 +1,44 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "contentSnippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "guid": "https://techcrunch.com/?p=3155879",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "contentSnippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "guid": "https://techcrunch.com/?p=3155937",
     "categories": [
       "AI",
-      "openrouter"
+      "Fundraising",
+      "Venture",
+      "Exclusive",
+      "general intuition",
+      "Point72 Ventures",
+      "robotics",
+      "valor equity partners"
     ],
-    "isoDate": "2026-08-23T20:01:36.000Z",
+    "isoDate": "2026-08-24T15:24:18.000Z",
     "source": "TechCrunch AI",
-    "slug": "who-s-behind-the-new-stealth-model-ox-alpha"
+    "slug": "valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "contentSnippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "guid": "https://techcrunch.com/?p=3155017",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "contentSnippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "guid": "https://techcrunch.com/?p=3155884",
     "categories": [
       "AI",
-      "Apps",
-      "Gadgets",
-      "Hardware",
-      "smart calendar"
+      "Exclusive",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-23T19:14:08.000Z",
+    "isoDate": "2026-08-24T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "linkdaze-s-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule"
+    "slug": "openai-is-building-ai-agents-for-everything-will-everyone-use-them"
   },
   {
     "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
