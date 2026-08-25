@@ -1,41 +1,55 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "contentSnippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "guid": "https://techcrunch.com/?p=3156230",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Gamma acquires Accel-backed design startup Lica",
+    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Lica co-founders are going to work on Gamma's new research team.",
+    "contentSnippet": "Lica co-founders are going to work on Gamma's new research team.",
+    "guid": "https://techcrunch.com/?p=3154850",
     "categories": [
       "AI",
-      "TC"
+      "Accel",
+      "presentaiton",
+      "Gamma",
+      "AI design tools"
     ],
-    "isoDate": "2026-08-25T00:23:12.000Z",
+    "isoDate": "2026-08-25T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec"
+    "slug": "gamma-acquires-accel-backed-design-startup-lica"
   },
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-    "contentSnippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-    "guid": "https://techcrunch.com/?p=3156185",
+    "creator": "Russell Brandom",
+    "title": "(No AI) OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "contentSnippet": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "guid": "https://techcrunch.com/?p=3156453",
     "categories": [
       "AI",
-      "Space",
-      "Elon Musk",
-      "SpaceX",
-      "Donald Trump",
-      "In Brief"
+      "Broadcom",
+      "OpenAI"
     ],
-    "isoDate": "2026-08-24T21:24:17.000Z",
+    "isoDate": "2026-08-25T14:22:04.000Z",
     "source": "TechCrunch AI",
-    "slug": "trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo"
+    "slug": "openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
+  },
+  {
+    "title": "(No AI) OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "pubDate": "2026-08-25T14:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing OpenAI’s Jalapeno chip](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to [a blog post published on Tuesday](https://openai.com/index/jalapeno-first-results/). During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\n\n[First introduced in June](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno), Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tbt-jalapeno.png?quality=90&strip=all&crop=0,0,100,100)\n\nTo mea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks)",
+    "contentSnippet": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\nFirst introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\nTo mea …\nRead the full story at The Verge.",
+    "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
+    "id": "https://www.theverge.com/?p=984290",
+    "isoDate": "2026-08-25T14:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-says-its-jalape-o-chip-can-power-faster-ai-responses-than-the-competition"
   },
   {
     "title": "(No AI) OpenAI subpoenaed by Alabama AG over Hugging Face hack",
@@ -52,46 +66,32 @@
     "slug": "openai-subpoenaed-by-alabama-ag-over-hugging-face-hack"
   },
   {
-    "title": "(No AI) Over 1 million people have clicked LinkedIn’s AI slop button",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "pubDate": "2026-08-21T21:25:50.000Z",
-    "author": "Jay Peters",
-    "content": "![A screenshot of LinkedIn’s “Seems like AI slop” button.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nLinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from [chief product officer Hari Srinivasan](https://www.linkedin.com/feed/update/urn:li:activity:7495960472341409792/), \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post.\n\nLinkedIn announced the button a few weeks after AI detector Pangram [determined that](https://www.pangram.com/blog/ai-in-your-feed?ref=404media.co) 41 percent of LinkedIn's longform posts were flagged as fully AI generated, [which _404 Media_ reported on](https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/). Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)",
-    "contentSnippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a post. \nLinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced \"new and improved\" classifiers to identify posts as AI and removed a feature that would \"en …\nRead the full story at The Verge.",
-    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
-    "id": "https://www.theverge.com/?p=983502",
-    "isoDate": "2026-08-21T21:25:50.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "over-1-million-people-have-clicked-linkedin-s-ai-slop-button"
+    "title": "(No AI) The full stack behind abundant intelligence",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "content": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "contentSnippet": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "guid": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-08-25T07:05:00.000Z",
+    "source": "OpenAI",
+    "slug": "the-full-stack-behind-abundant-intelligence"
   },
   {
-    "title": "(No AI) Disrupting a new covert influence campaign from Russia",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "content": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "contentSnippet": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "guid": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "title": "(No AI) Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "content": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "contentSnippet": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "guid": "https://openai.com/index/jalapeno-first-results",
     "categories": [
-      "Global Affairs"
+      "Engineering"
     ],
-    "isoDate": "2026-08-25T00:00:00.000Z",
+    "isoDate": "2026-08-25T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "disrupting-a-new-covert-influence-campaign-from-russia"
-  },
-  {
-    "title": "(No AI) Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
-    "content": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "contentSnippet": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "guid": "https://openai.com/index/gpt-5-6-in-kiro",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-08-24T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "advancing-price-performance-for-developers-with-gpt-5-6-in-kiro"
+    "slug": "jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in-ai-inference"
   },
   {
     "title": "(No AI) From Atari to EVE Online: Building on 15 Years of AI Research in Games",
