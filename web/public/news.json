@@ -1,42 +1,58 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Radar makes podcasts searchable — and usable by AI agents",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "contentSnippet": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "guid": "https://techcrunch.com/?p=3157086",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "contentSnippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "guid": "https://techcrunch.com/?p=3157364",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "TC",
-      "podcasts"
+      "Anthropic",
+      "nscale",
+      "nvidia",
+      "OpenAI",
+      "SpaceX"
     ],
-    "isoDate": "2026-08-26T15:47:28.000Z",
+    "isoDate": "2026-08-26T21:37:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "radar-makes-podcasts-searchable-and-usable-by-ai-agents"
+    "slug": "anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Ex-Meta scientists want to bring visual AI to the factory floor",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "contentSnippet": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "guid": "https://techcrunch.com/?p=3139375",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Google’s Gemini has a branding problem, and so does the rest of AI",
+    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Consumer AI apps need to stop making users learn their product architecture.",
+    "contentSnippet": "Consumer AI apps need to stop making users learn their product architecture.",
+    "guid": "https://techcrunch.com/?p=3157316",
     "categories": [
       "AI",
-      "Robotics",
-      "Meta",
-      "perceptron",
-      "Startups"
+      "Apps",
+      "ai apps",
+      "Google",
+      "google gemini"
     ],
-    "isoDate": "2026-08-26T15:00:00.000Z",
+    "isoDate": "2026-08-26T19:37:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor"
+    "slug": "google-s-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai"
+  },
+  {
+    "title": "(No AI) Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "pubDate": "2026-08-26T17:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. [Gemini 3.5 Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) is a new addition to the Gemini family that follows the launch of [3.5 Live Translate](https://www.theverge.com/ai-artificial-intelligence/947035/now-you-can-use-googles-live-ai-translations-just-by-holding-your-phone-to-your-ear-like-youre-taking-a-call), and comes as we're still waiting for Google to release the [Gemini 3.5 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) model that it [promised to roll out in June](https://www.theverge.com/tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out).\n\nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai)",
+    "contentSnippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it promised to roll out in June. \nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\nRead the full story at The Verge.",
+    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+    "id": "https://www.theverge.com/?p=985186",
+    "isoDate": "2026-08-26T17:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-new-ai-transcription-edits-out-your-ums-and-ahs"
   },
   {
     "title": "(No AI) Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
@@ -53,43 +69,43 @@
     "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet"
   },
   {
-    "title": "(No AI) OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "pubDate": "2026-08-25T14:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![An image showing OpenAI’s Jalapeno chip](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to [a blog post published on Tuesday](https://openai.com/index/jalapeno-first-results/). During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\n\n[First introduced in June](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno), Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tbt-jalapeno.png?quality=90&strip=all&crop=0,0,100,100)\n\nTo mea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks)",
-    "contentSnippet": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\nFirst introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\nTo mea …\nRead the full story at The Verge.",
-    "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
-    "id": "https://www.theverge.com/?p=984290",
-    "isoDate": "2026-08-25T14:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-says-its-jalape-o-chip-can-power-faster-ai-responses-than-the-competition"
-  },
-  {
-    "title": "(No AI) How loveholidays is making everyone a builder with Codex",
-    "link": "https://openai.com/index/loveholidays",
-    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "content": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "contentSnippet": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "guid": "https://openai.com/index/loveholidays",
-    "isoDate": "2026-08-26T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-loveholidays-is-making-everyone-a-builder-with-codex"
-  },
-  {
-    "title": "(No AI) The full stack behind abundant intelligence",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
-    "content": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "contentSnippet": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "guid": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "title": "(No AI) Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "content": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "contentSnippet": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "guid": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "categories": [
-      "Company"
+      "Product"
     ],
-    "isoDate": "2026-08-25T07:05:00.000Z",
+    "isoDate": "2026-08-26T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "the-full-stack-behind-abundant-intelligence"
+    "slug": "bringing-chatgpt-for-teachers-to-more-u-s-school-districts"
+  },
+  {
+    "title": "(No AI) Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
+    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "content": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "contentSnippet": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "guid": "https://openai.com/index/learning-never-stops",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-08-26T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "learning-never-stops-how-ai-makes-learning-continuous"
+  },
+  {
+    "title": "(No AI) Intelligent transcription with Gemini 3.5 Transcribe",
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "pubDate": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "content": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "contentSnippet": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "guid": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "isoDate": "2026-08-26T17:01:00.000Z",
+    "source": "Google DeepMind",
+    "slug": "intelligent-transcription-with-gemini-3-5-transcribe"
   },
   {
     "title": "(No AI) From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -103,50 +119,39 @@
     "slug": "from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
   },
   {
-    "title": "(No AI) Introducing Gemini 3.7 Flash",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "isoDate": "2026-08-13T17:04:18.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-7-flash"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) AI Slop Is Ruining Cute Animals on the Internet",
-    "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-    "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-    "contentSnippet": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-    "guid": "6a860cfb6b770bbaf47ffa12",
+    "creator": "Maxwell Zeff, Lily Hay Newman",
+    "title": "(No AI) What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "pubDate": "Wed, 26 Aug 2026 19:16:42 +0000",
+    "dc:creator": "Maxwell Zeff, Lily Hay Newman",
+    "content": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+    "contentSnippet": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+    "guid": "6a8e3628a900bd9d58335a70",
     "categories": [
       "Business",
       "Business / Artificial Intelligence",
-      "Culture",
-      "Culture / Digital Culture"
+      "Security",
+      "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-08-26T11:00:00.000Z",
+    "isoDate": "2026-08-26T19:16:42.000Z",
     "source": "Wired AI",
-    "slug": "ai-slop-is-ruining-cute-animals-on-the-internet"
+    "slug": "what-we-still-don-t-know-about-openai-s-hugging-face-hack"
   },
   {
-    "creator": "Kate Taylor",
-    "title": "(No AI) It Should Be Harder to Apply for a Job. No, Really",
-    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-    "pubDate": "Tue, 25 Aug 2026 09:30:00 +0000",
-    "dc:creator": "Kate Taylor",
-    "content": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-    "contentSnippet": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-    "guid": "6a832aea4b5ce895652e6c3f",
+    "creator": "Will Knight",
+    "title": "(No AI) The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+    "pubDate": "Wed, 26 Aug 2026 18:15:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+    "contentSnippet": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+    "guid": "6a8c88203e6cf87b84dc78d5",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-08-25T09:30:00.000Z",
+    "isoDate": "2026-08-26T18:15:00.000Z",
     "source": "Wired AI",
-    "slug": "it-should-be-harder-to-apply-for-a-job-no-really"
+    "slug": "the-humanoids-at-china-s-robot-games-were-faster-than-usain-bolt-but-i-m-more-impressed-by-their-tweezer-mastery"
   }
 ]
