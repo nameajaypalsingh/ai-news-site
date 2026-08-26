@@ -1,45 +1,42 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-    "contentSnippet": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-    "guid": "https://techcrunch.com/?p=3156546",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Radar makes podcasts searchable — and usable by AI agents",
+    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "contentSnippet": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "guid": "https://techcrunch.com/?p=3157086",
     "categories": [
-      "Startups",
-      "Hardware",
       "AI",
-      "Gadgets",
-      "accessibility",
-      "hearing aid",
-      "smartglasses"
+      "Media & Entertainment",
+      "TC",
+      "podcasts"
     ],
-    "isoDate": "2026-08-26T12:00:00.000Z",
+    "isoDate": "2026-08-26T15:47:28.000Z",
     "source": "TechCrunch AI",
-    "slug": "hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses"
+    "slug": "radar-makes-podcasts-searchable-and-usable-by-ai-agents"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-    "contentSnippet": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-    "guid": "https://techcrunch.com/?p=3156706",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Ex-Meta scientists want to bring visual AI to the factory floor",
+    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "contentSnippet": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "guid": "https://techcrunch.com/?p=3139375",
     "categories": [
-      "Startups",
       "AI",
-      "Exclusive",
-      "Nexus Venture Partners",
-      "Susquehanna Asia Venture Capital"
+      "Robotics",
+      "Meta",
+      "perceptron",
+      "Startups"
     ],
-    "isoDate": "2026-08-26T11:00:00.000Z",
+    "isoDate": "2026-08-26T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them"
+    "slug": "ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor"
   },
   {
     "title": "(No AI) Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
