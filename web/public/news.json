@@ -1,72 +1,68 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Nvidia closes in on Hugging Face acquisition",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "contentSnippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "guid": "https://techcrunch.com/?p=3157522",
+    "categories": [
+      "AI",
+      "TC"
+    ],
+    "isoDate": "2026-08-27T06:32:51.000Z",
+    "source": "TechCrunch AI",
+    "slug": "nvidia-closes-in-on-hugging-face-acquisition"
+  },
+  {
     "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000",
+    "title": "(No AI) Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "contentSnippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "guid": "https://techcrunch.com/?p=3157364",
+    "content": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "contentSnippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "guid": "https://techcrunch.com/?p=3157433",
     "categories": [
       "AI",
-      "Anthropic",
-      "nscale",
-      "nvidia",
-      "OpenAI",
-      "SpaceX"
+      "Startups",
+      "Funding",
+      "In Brief",
+      "instinct"
     ],
-    "isoDate": "2026-08-26T21:37:39.000Z",
+    "isoDate": "2026-08-27T00:24:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale"
+    "slug": "viral-ai-startup-instinct-has-raised-350m-at-a-2-5b-valuation"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Google’s Gemini has a branding problem, and so does the rest of AI",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Consumer AI apps need to stop making users learn their product architecture.",
-    "contentSnippet": "Consumer AI apps need to stop making users learn their product architecture.",
-    "guid": "https://techcrunch.com/?p=3157316",
-    "categories": [
-      "AI",
-      "Apps",
-      "ai apps",
-      "Google",
-      "google gemini"
-    ],
-    "isoDate": "2026-08-26T19:37:34.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai"
-  },
-  {
-    "title": "(No AI) Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "pubDate": "2026-08-26T17:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Vector illustration of the Google Gemini logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. [Gemini 3.5 Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) is a new addition to the Gemini family that follows the launch of [3.5 Live Translate](https://www.theverge.com/ai-artificial-intelligence/947035/now-you-can-use-googles-live-ai-translations-just-by-holding-your-phone-to-your-ear-like-youre-taking-a-call), and comes as we're still waiting for Google to release the [Gemini 3.5 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) model that it [promised to roll out in June](https://www.theverge.com/tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out).\n\nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai)",
-    "contentSnippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it promised to roll out in June. \nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\nRead the full story at The Verge.",
-    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
-    "id": "https://www.theverge.com/?p=985186",
-    "isoDate": "2026-08-26T17:00:00.000Z",
+    "title": "(No AI) Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "pubDate": "2026-08-26T21:40:53.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![An image of Nvidia’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and [Alphabet](https://fortune.com/2026/07/22/anthropic-spacex-investments-google-earnings-biggest-ever-profit-quarter/) have repeatedly reached the milestone.\n\nNvidia said in its [latest earnings report](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89 billion, and the company's profits more than doubled to $59.7 billion.\n\n![A screenshot of a bar graph showing Nvidia's overall revenue in Q2 2027](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-5.22.28-PM.png?quality=90&strip=all&crop=0,8.6816173972137,100,82.636765205573 \"A screenshot of a bar graph showing Nvidia's overall revenue in Q2 2027\") ![A screenshot of a bar graph showing Nvidia's Q2 2027 data center revenue](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-5.22.45-PM.png?quality=90&strip=all&crop=14.798488664987,0,70.403022670025,100 \"A screenshot of a bar graph showing Nvidia's Q2 2027 data center revenue\")\n\nNvidia's \"edge computing\" category, which [includes its consumer gam …](https://www.theverge.com/tech/935026/nvidia-is-officially-no-longer-a-gaming-company-in-financial-earnings)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)",
+    "contentSnippet": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. \nNvidia said in its latest earnings report that it brought in a record $96.2 billion in overall revenue in the past quarter, a jump of over $10 billion from the previous quarter. Its data center revenue alone more than doubled year-over-year to a record $89 billion, and the company's profits more than doubled to $59.7 billion.\nNvidia's \"edge computing\" category, which includes its consumer gam …\nRead the full story at The Verge.",
+    "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
+    "id": "https://www.theverge.com/?p=985387",
+    "isoDate": "2026-08-26T21:40:53.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-new-ai-transcription-edits-out-your-ums-and-ahs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-is-about-to-be-a-hundred-billion-dollar-a-quarter-company"
   },
   {
-    "title": "(No AI) Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-    "pubDate": "2026-08-26T11:07:40.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nBill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\n\nBill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future.\n\nHaving been conspicuously quiet on AI issues recently, Gates is back with a nearly [6,000-word essay](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make) seeking to reclaim a central role in shaping the technology globally. Titled \"The turbulent AI era is here. The choices we make now are critical,\" Gates warns the world is not remotely ready for what is coming. Worse still, he notes, \"we are not preparing for it.\"\n\nGates attempts to chart a path forward, but the essay l …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet)",
-    "contentSnippet": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\t\n\nBill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. \nHaving been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking to reclaim a central role in shaping the technology globally. Titled \"The turbulent AI era is here. The choices we make now are critical,\" Gates warns the world is not remotely ready for what is coming. Worse still, he notes, \"we are not preparing for it.\" \nGates attempts to chart a path forward, but the essay l …\nRead the full story at The Verge.",
-    "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking [&#8230;]",
-    "id": "https://www.theverge.com/?p=984923",
-    "isoDate": "2026-08-26T11:07:40.000Z",
+    "title": "(No AI) OpenAI’s rogue AI model incident was worse than we thought",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "pubDate": "2026-08-26T21:36:06.000Z",
+    "author": "Hayden Field",
+    "content": "![An illustration showing a computer with the OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\n\nIn July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it.\n\nOver a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. [One](https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf) was written by OpenAI itself, [the other](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/) by two third-party AI research nonprofits, METR and Redwood Research, which OpenAI allowed to jointly investigate the inciden …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)",
+    "contentSnippet": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nIn July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to find out about any of it. \nOver a month later, two new reports offer nearly 130 pages of details on the incident and OpenAI's response, many of them previously unreleased. One was written by OpenAI itself, the other by two third-party AI research nonprofits, METR and Redwood Research, which OpenAI allowed to jointly investigate the inciden …\nRead the full story at The Verge.",
+    "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]",
+    "id": "https://www.theverge.com/?p=985385",
+    "isoDate": "2026-08-26T21:36:06.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-longer-staying-quiet"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought"
   },
   {
     "title": "(No AI) Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -119,6 +115,23 @@
     "slug": "from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) The UK Power Grid Has a Phantom Data Center Problem",
+    "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "pubDate": "Thu, 27 Aug 2026 06:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+    "contentSnippet": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+    "guid": "6a8c6c2fff427bf214570441",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-27T06:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-uk-power-grid-has-a-phantom-data-center-problem"
+  },
+  {
     "creator": "Maxwell Zeff, Lily Hay Newman",
     "title": "(No AI) What We Still Don’t Know About OpenAI’s Hugging Face Hack",
     "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
@@ -136,22 +149,5 @@
     "isoDate": "2026-08-26T19:16:42.000Z",
     "source": "Wired AI",
     "slug": "what-we-still-don-t-know-about-openai-s-hugging-face-hack"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-    "pubDate": "Wed, 26 Aug 2026 18:15:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-    "contentSnippet": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-    "guid": "6a8c88203e6cf87b84dc78d5",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-26T18:15:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-humanoids-at-china-s-robot-games-were-faster-than-usain-bolt-but-i-m-more-impressed-by-their-tweezer-mastery"
   }
 ]
