@@ -118,37 +118,38 @@
     "slug": "piloting-the-world-s-first-double-blind-ai-evaluations"
   },
   {
-    "creator": "Steven Levy",
-    "title": "(No AI) AI Has Human Doctors Asking: What’s Left for Us?",
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "pubDate": "Fri, 28 Aug 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-    "contentSnippet": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-    "guid": "6a909639933ab0cdef3062ed",
+    "creator": "Maddy Varner",
+    "title": "(No AI) The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "pubDate": "Sat, 29 Aug 2026 10:30:00 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "contentSnippet": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "guid": "6a91a28c803370e4d9cbd822",
     "categories": [
-      "Business",
-      "Business / Tech Culture"
+      "Security",
+      "Security / Security News",
+      "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-08-28T15:00:00.000Z",
+    "isoDate": "2026-08-29T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "ai-has-human-doctors-asking-what-s-left-for-us"
+    "slug": "the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn"
   },
   {
-    "creator": "Miles Klee",
-    "title": "(No AI) He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-    "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-    "pubDate": "Fri, 28 Aug 2026 11:00:00 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-    "contentSnippet": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-    "guid": "6a8f5a92a900bd9d58336fff",
+    "creator": "David Nield",
+    "title": "(No AI) How to Run a Chatbot on Your Own Computer",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "pubDate": "Sat, 29 Aug 2026 10:00:00 +0000",
+    "dc:creator": "David Nield",
+    "content": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "contentSnippet": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "guid": "6a8f5fcd81a7b3cc4250388b",
     "categories": [
-      "Culture",
-      "Culture / Culture News"
+      "Gear",
+      "Gear / How To and Advice"
     ],
-    "isoDate": "2026-08-28T11:00:00.000Z",
+    "isoDate": "2026-08-29T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "he-scraped-all-of-their-art-for-ai-now-he-s-collaborating-on-a-tool-to-help-them"
+    "slug": "how-to-run-a-chatbot-on-your-own-computer"
   }
 ]
