@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "contentSnippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "guid": "https://techcrunch.com/?p=3158515",
+    "categories": [
+      "TC",
+      "AI",
+      "nvidia",
+      "GPU"
+    ],
+    "isoDate": "2026-08-29T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "nvidia-s-ai-advantage-is-moving-beyond-the-gpu"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Neocloud Lambda secures $1B in debt to buy more chips",
     "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -23,21 +42,18 @@
     "slug": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "contentSnippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "guid": "https://techcrunch.com/?p=3158505",
-    "categories": [
-      "AI",
-      "Anthropic"
-    ],
-    "isoDate": "2026-08-28T19:30:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
+    "title": "(No AI) Musicians-turned-detectives are hunting for AI grifters",
+    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "pubDate": "2026-08-29T12:00:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![A digital illustration depicting Nihil Young and Max “H4RRIS” Harris.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0,0,85.33125,89.314310632479)\n\nAs [audio-focused generative tools](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects) and platforms have [gotten more sophisticated](https://www.theverge.com/ai-artificial-intelligence/976636/suno-will-start-scanning-outputs-for-copyright-infringment), the internet has become increasingly filled with [AI-generated music](https://www.billboard.com/music/rb-hip-hop/tyga-admits-ai-starface-album-1236311004/) whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content [immediately own up to using AI](https://www.npr.org/2025/06/17/nx-s1-5431544/timbaland-ai-music-suno-stage-zero-tata-generative), others have [denied using the technology](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo) until increasing public scrutiny [forced them to tell the truth](https://ca.rollingstone.com/music/fenix-flexin-admits-use-ai-rubberz/).\n\nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)",
+    "contentSnippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. \nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\nRead the full story at The Verge.",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+    "id": "https://www.theverge.com/?p=985866",
+    "isoDate": "2026-08-29T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
+    "slug": "musicians-turned-detectives-are-hunting-for-ai-grifters"
   },
   {
     "title": "(No AI) Trump’s EPA wants to let data centers hide their air pollution",
@@ -52,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "trump-s-epa-wants-to-let-data-centers-hide-their-air-pollution"
-  },
-  {
-    "title": "(No AI) Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "pubDate": "2026-08-28T03:14:06.000Z",
-    "author": "Hayden Field",
-    "content": "![A photo illustration featuring Anthropic CEO Dario Amodei, President Donald Trump, and the Pentagon.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration.\n\nThe lawsuit, filed [in March](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology.\n\n\"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the northern district of California, [wrote](https://www.courtlistener.com/docket/72379655/250/anthropic-pbc-v-us-department-of-war/) in the ruling …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)",
-    "contentSnippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \n\"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the ruling …\nRead the full story at The Verge.",
-    "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
-    "id": "https://www.theverge.com/?p=985947",
-    "isoDate": "2026-08-28T03:14:06.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules"
   },
   {
     "title": "(No AI) Our decision on Cursor following its acquisition by SpaceX",
