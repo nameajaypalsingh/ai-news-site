@@ -1,5 +1,28 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "contentSnippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "guid": "https://techcrunch.com/?p=3158531",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "AI chips",
+      "In Brief",
+      "Lambda",
+      "Microsoft",
+      "neocloud",
+      "nvidia"
+    ],
+    "isoDate": "2026-08-28T20:24:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
+  },
+  {
     "creator": "Russell Brandom",
     "title": "(No AI) An Anthropic researcher just gave us a peek at self-improving AI",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -10,30 +33,25 @@
     "guid": "https://techcrunch.com/?p=3158505",
     "categories": [
       "AI",
-      "TC"
+      "Anthropic"
     ],
     "isoDate": "2026-08-28T19:30:38.000Z",
     "source": "TechCrunch AI",
     "slug": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "There's a lot of capital pouring into the business of giving models away.",
-    "contentSnippet": "There's a lot of capital pouring into the business of giving models away.",
-    "guid": "https://techcrunch.com/?p=3158461",
-    "categories": [
-      "AI",
-      "Hugging Face",
-      "nvidia",
-      "openrouter"
-    ],
-    "isoDate": "2026-08-28T18:19:40.000Z",
-    "source": "TechCrunch AI",
-    "slug": "open-weight-ai-companies-are-the-valley-s-hottest-acquisition-targets"
+    "title": "(No AI) Trump’s EPA wants to let data centers hide their air pollution",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "pubDate": "2026-08-28T16:28:40.000Z",
+    "author": "Justine Calma",
+    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust as new data centers [face growing backlash](https://www.theverge.com/science/841169/ai-data-center-opposition) from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\n\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned.\n\n\"You can see why that would be so interesting to an administration that wants to rush through the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)",
+    "contentSnippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
+    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+    "id": "https://www.theverge.com/?p=986176",
+    "isoDate": "2026-08-28T16:28:40.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-s-epa-wants-to-let-data-centers-hide-their-air-pollution"
   },
   {
     "title": "(No AI) Anthropic was illegally blacklisted by the Trump administration, court rules",
@@ -50,18 +68,18 @@
     "slug": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules"
   },
   {
-    "title": "(No AI) Google’s AI note-taking app now allows you to interact with books",
-    "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-    "pubDate": "2026-08-27T19:30:00.000Z",
-    "author": "Emma Roth",
-    "content": "![Gemini Notebook’s Expert Intelligence feature](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The [new \"Expert Intelligence\" feature](https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/) allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their contents.\n\nDuring a briefing with _The Verge_, Google Labs editorial director Steven Johnson showed how you can use the tool to generate a recipe book using the information in Michael Pollan's _Food Rules_. In another example, Gemini Notebook applied the knowledge from Kim Scott's management-focus …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)",
-    "contentSnippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their contents.\nDuring a briefing with The Verge, Google Labs editorial director Steven Johnson showed how you can use the tool to generate a recipe book using the information in Michael Pollan's Food Rules. In another example, Gemini Notebook applied the knowledge from Kim Scott's management-focus …\nRead the full story at The Verge.",
-    "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
-    "id": "https://www.theverge.com/?p=985567",
-    "isoDate": "2026-08-27T19:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-ai-note-taking-app-now-allows-you-to-interact-with-books"
+    "title": "(No AI) Our decision on Cursor following its acquisition by SpaceX",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "content": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "contentSnippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "guid": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-08-28T06:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "our-decision-on-cursor-following-its-acquisition-by-spacex"
   },
   {
     "title": "(No AI) Supporting Thailand’s next generation of AI startups",
@@ -76,20 +94,6 @@
     "isoDate": "2026-08-28T02:00:00.000Z",
     "source": "OpenAI",
     "slug": "supporting-thailand-s-next-generation-of-ai-startups"
-  },
-  {
-    "title": "(No AI) Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-    "content": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "contentSnippet": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "guid": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-08-27T09:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "better-answers-broader-thinking-what-students-gain-from-chatgpt-and-critical-thinking-training"
   },
   {
     "title": "(No AI) Gemini Omni 1.1 Flash lets you build with more control",
