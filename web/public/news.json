@@ -1,45 +1,54 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "contentSnippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "guid": "https://techcrunch.com/?p=3158515",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "contentSnippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "guid": "https://techcrunch.com/?p=3158639",
     "categories": [
-      "TC",
       "AI",
-      "nvidia",
-      "GPU"
+      "Anthropic"
     ],
-    "isoDate": "2026-08-29T13:00:00.000Z",
+    "isoDate": "2026-08-29T18:41:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-s-ai-advantage-is-moving-beyond-the-gpu"
+    "slug": "sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "contentSnippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "guid": "https://techcrunch.com/?p=3158531",
+    "creator": "Connie Loizos",
+    "title": "(No AI) “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "contentSnippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "guid": "https://techcrunch.com/?p=3156771",
     "categories": [
       "AI",
-      "Fundraising",
-      "AI chips",
-      "In Brief",
-      "Lambda",
-      "Microsoft",
-      "neocloud",
-      "nvidia"
+      "Biotech & Health",
+      "TC",
+      "Andreessen Horowitz",
+      "Vijay Pande"
     ],
-    "isoDate": "2026-08-28T20:24:11.000Z",
+    "isoDate": "2026-08-29T17:36:47.000Z",
     "source": "TechCrunch AI",
-    "slug": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
+    "slug": "we-re-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z"
+  },
+  {
+    "title": "(No AI) Sony Music and Warner Chappell are suing Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "pubDate": "2026-08-29T18:19:53.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSony Music and Warner Chappell have [filed suit against Anthropic](https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/) in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.\n\nThis is just the latest high-profile suit against Anthropic, which recently settled a suit [brought by the publishing industry](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai) for [$1.5 billion](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement). It's also [faced](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal) [multiple](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry) [lawsuits](https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/) from …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)",
+    "contentSnippet": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple lawsuits from …\nRead the full story at The Verge.",
+    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+    "id": "https://www.theverge.com/?p=986438",
+    "isoDate": "2026-08-29T18:19:53.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sony-music-and-warner-chappell-are-suing-anthropic"
   },
   {
     "title": "(No AI) Musicians-turned-detectives are hunting for AI grifters",
@@ -54,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
     "slug": "musicians-turned-detectives-are-hunting-for-ai-grifters"
-  },
-  {
-    "title": "(No AI) Trump’s EPA wants to let data centers hide their air pollution",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "pubDate": "2026-08-28T16:28:40.000Z",
-    "author": "Justine Calma",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJust as new data centers [face growing backlash](https://www.theverge.com/science/841169/ai-data-center-opposition) from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\n\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned.\n\n\"You can see why that would be so interesting to an administration that wants to rush through the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)",
-    "contentSnippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
-    "id": "https://www.theverge.com/?p=986176",
-    "isoDate": "2026-08-28T16:28:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-s-epa-wants-to-let-data-centers-hide-their-air-pollution"
   },
   {
     "title": "(No AI) Our decision on Cursor following its acquisition by SpaceX",
