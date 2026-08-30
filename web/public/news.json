@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Kate Park",
+    "title": "(No AI) Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
+    "dc:creator": "Kate Park",
+    "content": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "contentSnippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "guid": "https://techcrunch.com/?p=3158173",
+    "categories": [
+      "Enterprise",
+      "AI",
+      "caterpillar",
+      "mining"
+    ],
+    "isoDate": "2026-08-30T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining"
+  },
+  {
     "creator": "Kirsten Korosec",
     "title": "(No AI) Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -17,52 +36,32 @@
     "slug": "sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-    "contentSnippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-    "guid": "https://techcrunch.com/?p=3156771",
-    "categories": [
-      "AI",
-      "Biotech & Health",
-      "TC",
-      "Andreessen Horowitz",
-      "Vijay Pande"
-    ],
-    "isoDate": "2026-08-29T17:36:47.000Z",
-    "source": "TechCrunch AI",
-    "slug": "we-re-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z"
+    "title": "(No AI) Texas Governor Abbott blocks funding for more Flock cameras",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "pubDate": "2026-08-30T15:35:10.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Illustration of hands holding instruments to destroy a Flock camera](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAs backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has [frozen state spending](https://www.texastribune.org/2026/08/28/texas-greg-abbott-flock-cameras-order-state-money/) on them. The move came just ahead of the publication of a [_Texas Tribune_ investigation](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft.\n\nFlock cameras have increasingly drawn ire from [across the political spectrum](https://www.washingtonpost.com/politics/2026/08/29/flock-cameras-stir-bipartisan-fury-gov-greg-abbott-blocks-them-texas/) as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or [criminally charged](https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/) for misusing Flock systems, including at …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)",
+    "contentSnippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft.\nFlock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally charged for misusing Flock systems, including at  …\nRead the full story at The Verge.",
+    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+    "id": "https://www.theverge.com/?p=986541",
+    "isoDate": "2026-08-30T15:35:10.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "texas-governor-abbott-blocks-funding-for-more-flock-cameras"
   },
   {
-    "title": "(No AI) Sony Music and Warner Chappell are suing Anthropic",
+    "title": "(No AI) Sony Music Publishing and Warner Chappell are suing Anthropic",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
     "pubDate": "2026-08-29T18:19:53.000Z",
     "author": "Terrence O’Brien",
-    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSony Music and Warner Chappell have [filed suit against Anthropic](https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/) in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.\n\nThis is just the latest high-profile suit against Anthropic, which recently settled a suit [brought by the publishing industry](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai) for [$1.5 billion](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement). It's also [faced](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal) [multiple](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry) [lawsuits](https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/) from …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)",
-    "contentSnippet": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple lawsuits from …\nRead the full story at The Verge.",
-    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+    "content": "![Anthropic logo on an orange and grey background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSony Music Publishing and Warner Chappell have [filed suit against Anthropic](https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/) in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.\n\nThis is just the latest high-profile suit against Anthropic, which recently settled a suit [brought by the publishing industry](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai) for [$1.5 billion](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement). It's also [faced](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal) [multiple](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry) [la …](https://www.musicbusinessworldwide.com/umg-concord-and-abkco-sue-anthropic-for-3bn-in-what-could-be-single-largest-non-class-action-copyright-case-in-us-history/)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)",
+    "contentSnippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple la …\nRead the full story at The Verge.",
+    "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
     "id": "https://www.theverge.com/?p=986438",
     "isoDate": "2026-08-29T18:19:53.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sony-music-and-warner-chappell-are-suing-anthropic"
-  },
-  {
-    "title": "(No AI) Musicians-turned-detectives are hunting for AI grifters",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "pubDate": "2026-08-29T12:00:00.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![A digital illustration depicting Nihil Young and Max “H4RRIS” Harris.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0,0,85.33125,89.314310632479)\n\nAs [audio-focused generative tools](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects) and platforms have [gotten more sophisticated](https://www.theverge.com/ai-artificial-intelligence/976636/suno-will-start-scanning-outputs-for-copyright-infringment), the internet has become increasingly filled with [AI-generated music](https://www.billboard.com/music/rb-hip-hop/tyga-admits-ai-starface-album-1236311004/) whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content [immediately own up to using AI](https://www.npr.org/2025/06/17/nx-s1-5431544/timbaland-ai-music-suno-stage-zero-tata-generative), others have [denied using the technology](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo) until increasing public scrutiny [forced them to tell the truth](https://ca.rollingstone.com/music/fenix-flexin-admits-use-ai-rubberz/).\n\nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)",
-    "contentSnippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. \nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\nRead the full story at The Verge.",
-    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
-    "id": "https://www.theverge.com/?p=985866",
-    "isoDate": "2026-08-29T12:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
-    "slug": "musicians-turned-detectives-are-hunting-for-ai-grifters"
+    "slug": "sony-music-publishing-and-warner-chappell-are-suing-anthropic"
   },
   {
     "title": "(No AI) Our decision on Cursor following its acquisition by SpaceX",
@@ -115,6 +114,25 @@
     "slug": "piloting-the-world-s-first-double-blind-ai-evaluations"
   },
   {
+    "creator": "Andrew Williams",
+    "title": "(No AI) Why the Hottest New Wearables Want to Be Ignored",
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "pubDate": "Sun, 30 Aug 2026 10:30:00 +0000",
+    "dc:creator": "Andrew Williams",
+    "content": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "contentSnippet": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "guid": "6a8dc20a07538691fe0533d6",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Watches",
+      "Gear / Products / Health and Fitness"
+    ],
+    "isoDate": "2026-08-30T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "why-the-hottest-new-wearables-want-to-be-ignored"
+  },
+  {
     "creator": "Maddy Varner",
     "title": "(No AI) The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
     "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
@@ -131,22 +149,5 @@
     "isoDate": "2026-08-29T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn"
-  },
-  {
-    "creator": "David Nield",
-    "title": "(No AI) How to Run a Chatbot on Your Own Computer",
-    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-    "pubDate": "Sat, 29 Aug 2026 10:00:00 +0000",
-    "dc:creator": "David Nield",
-    "content": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-    "contentSnippet": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-    "guid": "6a8f5fcd81a7b3cc4250388b",
-    "categories": [
-      "Gear",
-      "Gear / How To and Advice"
-    ],
-    "isoDate": "2026-08-29T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "how-to-run-a-chatbot-on-your-own-computer"
   }
 ]
