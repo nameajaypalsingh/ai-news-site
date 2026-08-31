@@ -118,6 +118,23 @@
     "slug": "piloting-the-world-s-first-double-blind-ai-evaluations"
   },
   {
+    "creator": "Kate Taylor",
+    "title": "(No AI) You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "pubDate": "Mon, 31 Aug 2026 10:30:00 +0000",
+    "dc:creator": "Kate Taylor",
+    "content": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "contentSnippet": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "guid": "6a832bd4364359700ebc52b3",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-08-31T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "you-know-who-really-hates-ai-insurance-claims-adjusters"
+  },
+  {
     "creator": "Andrew Williams",
     "title": "(No AI) Why the Hottest New Wearables Want to Be Ignored",
     "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
@@ -135,23 +152,5 @@
     "isoDate": "2026-08-30T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "why-the-hottest-new-wearables-want-to-be-ignored"
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "(No AI) The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-    "pubDate": "Sat, 29 Aug 2026 10:30:00 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-    "contentSnippet": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-    "guid": "6a91a28c803370e4d9cbd822",
-    "categories": [
-      "Security",
-      "Security / Security News",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-08-29T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn"
   }
 ]
