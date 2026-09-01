@@ -1,98 +1,106 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Amazon Alexa can now alert you when something new might tempt you to shop",
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "contentSnippet": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "guid": "https://techcrunch.com/?p=3159627",
+    "creator": "Julie Bort",
+    "title": "(No AI) AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "contentSnippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "guid": "https://techcrunch.com/?p=3159934",
     "categories": [
       "AI",
-      "Commerce",
-      "Alexa",
-      "Amazon",
-      "e-commerce",
-      "shopping"
+      "TC",
+      "Venture"
     ],
-    "isoDate": "2026-09-01T15:51:55.000Z",
+    "isoDate": "2026-09-01T22:08:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop"
+    "slug": "afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-valued-at-3-2b"
   },
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
-    "contentSnippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
-    "guid": "https://techcrunch.com/?p=3159543",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "contentSnippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "guid": "https://techcrunch.com/?p=3159895",
     "categories": [
       "AI",
-      "Security",
-      "AI agents",
-      "ai security",
-      "Greenoaks Capital",
-      "Sequoia Capital"
+      "Hugging Face",
+      "OpenAI"
     ],
-    "isoDate": "2026-09-01T15:45:51.000Z",
+    "isoDate": "2026-09-01T21:06:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use"
+    "slug": "open-ai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems"
   },
   {
-    "title": "(No AI) John Deere launched an AI chatbot for farmers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "pubDate": "2026-09-01T16:00:52.000Z",
+    "title": "(No AI) Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "pubDate": "2026-09-01T22:01:36.000Z",
     "author": "Stevie Bonifield",
-    "content": "![A screenshot of John Deere’s JD AI chatbot interface](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&strip=all&crop=0,0,100,100)\n\nJohn Deere is testing a new [\"JD\" AI assistant](https://www.deere.com/en-us/privacy-data/data-services/your-data#meet-jd) that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing.\n\nThe press release didn't mention which AI technology is behind this platform. But [after fighting with farmers](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers) and [the FTC](https://www.theverge.com/policy/963032/john-deere-reaches-another-right-to-repair-settlement) for years over the right to repair, the news of Early Access Program testing for this bot comes with a mention of its ten-point [Farmer Data Commitment](https://www.deere.com/en-us/privacy-data/data-services/your-data) saying it won't sell the data, and lets farmers cont …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot)",
-    "contentSnippet": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. \nThe press release didn't mention which AI technology is behind this platform. But after fighting with farmers and the FTC for years over the right to repair, the news of Early Access Program testing for this bot comes with a mention of its ten-point Farmer Data Commitment saying it won't sell the data, and lets farmers cont …\nRead the full story at The Verge.",
-    "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]",
-    "id": "https://www.theverge.com/?p=987486",
-    "isoDate": "2026-09-01T16:00:52.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic says its newest AI models, [Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1), address criticisms from customers about price, data retention, and overzealous safeguards. The company claims [Claude Fable 5.1](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1) offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing on cached data that was already processed and stored.\n\nAlong with the announcement, a slew of early impressions popped up, including from Every CEO Dan Shipper, [who claims](https://x.com/danshipper/status/2094848951568474186), \"It's the strongest coding model we've used, but now it's fast, token-efficient, and crucially actually speaks like a norm …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)",
+    "contentSnippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing on cached data that was already processed and stored.\nAlong with the announcement, a slew of early impressions popped up, including from Every CEO Dan Shipper, who claims, \"It's the strongest coding model we've used, but now it's fast, token-efficient, and crucially actually speaks like a norm …\nRead the full story at The Verge.",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+    "id": "https://www.theverge.com/?p=987830",
+    "isoDate": "2026-09-01T22:01:36.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "john-deere-launched-an-ai-chatbot-for-farmers"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-launches-claude-fable-5-1-and-says-it-s-up-to-45-percent-cheaper-for-agentic-work"
   },
   {
-    "title": "(No AI) Google Pics is like Canva, but with even more AI",
-    "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "pubDate": "2026-09-01T16:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![A screenshot of Google Pics generating a poster design for a street fair.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\n\nGoogle has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing users to tap on specific objects or text, and describe what they want to change - features that may avoid the [ugly results](https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/) that [chatbots are known to spit out](https://www.404media.co/these-are-the-worst-chatgpt-flyers-youve-sent-us/) for marketing imagery.\n\n\"While AI image generation has been a huge hit for personal use, it's been a different story for bus …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator)",
-    "contentSnippet": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\t\n\nGoogle has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing users to tap on specific objects or text, and describe what they want to change - features that may avoid the ugly results that chatbots are known to spit out for marketing imagery.\n\"While AI image generation has been a huge hit for personal use, it's been a different story for bus …\nRead the full story at The Verge.",
-    "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
-    "id": "https://www.theverge.com/?p=987423",
-    "isoDate": "2026-09-01T16:00:00.000Z",
+    "title": "(No AI) OpenAI delayed its new model’s development after the Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "pubDate": "2026-09-01T20:45:49.000Z",
+    "author": "Hayden Field",
+    "content": "![Vector illustration of the Chat GPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.\n\nIn July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into internet access, made it possible for AI agents to secretly conspire under the company's nose using a secret message board, and hacked into the network of AI lab Hugging Face. The attack [sparked weeks of discussion and controversy](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr) inside and outside the AI industry, and AI leaders treated it as a \"warnin …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay)",
+    "contentSnippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post.\nIn July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into internet access, made it possible for AI agents to secretly conspire under the company's nose using a secret message board, and hacked into the network of AI lab Hugging Face. The attack sparked weeks of discussion and controversy inside and outside the AI industry, and AI leaders treated it as a \"warnin …\nRead the full story at The Verge.",
+    "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+    "id": "https://www.theverge.com/?p=987695",
+    "isoDate": "2026-09-01T20:45:49.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-pics-is-like-canva-but-with-even-more-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-delayed-its-new-model-s-development-after-the-hugging-face-hack"
   },
   {
-    "title": "(No AI) OpenAI supports California’s bill to advance youth AI safety",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "content": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "contentSnippet": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "guid": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "title": "(No AI) How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "contentSnippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "guid": "https://openai.com/index/ai-native-company-workflows",
     "categories": [
-      "Company"
+      "AI Adoption"
     ],
-    "isoDate": "2026-08-31T07:00:00.000Z",
+    "isoDate": "2026-09-01T17:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-supports-california-s-bill-to-advance-youth-ai-safety"
+    "slug": "how-ai-native-companies-turn-workflows-into-operating-capability"
   },
   {
-    "title": "(No AI) Polimill builds Japan's next-generation public AI infrastructure",
-    "link": "https://openai.com/index/polimill",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "content": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "contentSnippet": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "guid": "https://openai.com/index/polimill",
-    "isoDate": "2026-08-31T07:00:00.000Z",
+    "title": "(No AI) Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "content": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "contentSnippet": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "guid": "https://openai.com/index/path-to-astra",
+    "categories": [
+      "Safety"
+    ],
+    "isoDate": "2026-09-01T13:00:00.000Z",
     "source": "OpenAI",
-    "slug": "polimill-builds-japan-s-next-generation-public-ai-infrastructure"
+    "slug": "path-to-astra-critical-capabilities-and-frontier-safeguards"
+  },
+  {
+    "title": "(No AI) Introducing agentic video understanding with Gemini",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "isoDate": "2026-09-01T17:08:51.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-agentic-video-understanding-with-gemini"
   },
   {
     "title": "(No AI) Gemini Omni 1.1 Flash lets you build with more control",
@@ -106,15 +114,23 @@
     "slug": "gemini-omni-1-1-flash-lets-you-build-with-more-control"
   },
   {
-    "title": "(No AI) Piloting the world's first double-blind AI evaluations",
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "pubDate": "Thu, 27 Aug 2026 12:59:16 +0000",
-    "content": "Piloting the world's first double-blind AI evaluations",
-    "contentSnippet": "Piloting the world's first double-blind AI evaluations",
-    "guid": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "isoDate": "2026-08-27T12:59:16.000Z",
-    "source": "Google DeepMind",
-    "slug": "piloting-the-world-s-first-double-blind-ai-evaluations"
+    "creator": "Maxwell Zeff, Lily Hay Newman",
+    "title": "(No AI) OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "pubDate": "Tue, 01 Sep 2026 20:00:00 +0000",
+    "dc:creator": "Maxwell Zeff, Lily Hay Newman",
+    "content": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+    "contentSnippet": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+    "guid": "6a95c50b1ed47ec1f88c0129",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-09-01T20:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-is-about-to-release-its-first-ai-model-with-critical-cyber-abilities"
   },
   {
     "creator": "Boone Ashworth",
@@ -135,22 +151,5 @@
     "isoDate": "2026-09-01T14:40:00.000Z",
     "source": "Wired AI",
     "slug": "sonos-ace-ultra-beam-ultra-sonos-fabric-and-a-new-app-everything-sonos-just-announced"
-  },
-  {
-    "creator": "Kate Taylor",
-    "title": "(No AI) You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "pubDate": "Mon, 31 Aug 2026 10:30:00 +0000",
-    "dc:creator": "Kate Taylor",
-    "content": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-    "contentSnippet": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-    "guid": "6a832bd4364359700ebc52b3",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-08-31T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "you-know-who-really-hates-ai-insurance-claims-adjusters"
   }
 ]
