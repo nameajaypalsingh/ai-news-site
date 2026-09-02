@@ -1,68 +1,73 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "contentSnippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "guid": "https://techcrunch.com/?p=3159934",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "contentSnippet": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "guid": "https://techcrunch.com/?p=3160089",
     "categories": [
       "AI",
-      "Venture",
-      "In Brief",
-      "Y Combinator"
+      "Hardware",
+      "jio",
+      "JioPC",
+      "reliance jio"
     ],
-    "isoDate": "2026-09-01T22:08:24.000Z",
+    "isoDate": "2026-09-02T16:01:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "afterquery-reportedly-becomes-y-combinator-s-fastest-ever-unicorn-now-valued-at-3-2b"
+    "slug": "india-s-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "contentSnippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "guid": "https://techcrunch.com/?p=3159895",
+    "creator": "Ram Iyer",
+    "title": "(No AI) HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "contentSnippet": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "guid": "https://techcrunch.com/?p=3160035",
     "categories": [
       "AI",
-      "Hugging Face",
-      "OpenAI"
+      "Fundraising",
+      "Security",
+      "Delta-v Capital",
+      "HiddenLayer",
+      "M12",
+      "Ten Eleven Ventures"
     ],
-    "isoDate": "2026-09-01T21:06:24.000Z",
+    "isoDate": "2026-09-02T15:01:23.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems"
+    "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments"
   },
   {
-    "title": "(No AI) Google needs Hollywood more than the studios need AI",
-    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-    "pubDate": "2026-09-01T22:50:29.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![An AI-generated image of Yoda holding a lightsaber.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has [reportedly been reaching out](https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools) to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also give Google a significant advantage in its race to outpace other AI companies. But while there's little downside for Google, these deals pose a distinct set of risks to each of the studios that might be thinking about going all-in on AI. Getting into bed with Google this way _might_ benefit Hollywood in the short term, but …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai)",
-    "contentSnippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also give Google a significant advantage in its race to outpace other AI companies. But while there's  little downside for Google, these deals pose a distinct set of risks to each of the studios that might be thinking about going all-in on AI. Getting into bed with Google this way might benefit Hollywood in the short term, but  …\nRead the full story at The Verge.",
-    "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
-    "id": "https://www.theverge.com/?p=987429",
-    "isoDate": "2026-09-01T22:50:29.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-needs-hollywood-more-than-the-studios-need-ai"
-  },
-  {
-    "title": "(No AI) Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "pubDate": "2026-09-01T22:01:36.000Z",
+    "title": "(No AI) Google is sending MrBeast into the wilderness, armed with AI",
+    "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "pubDate": "2026-09-02T15:47:03.000Z",
     "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic says its newest AI models, [Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1), address criticisms from customers about price, data retention, and overzealous safeguards. The company claims [Claude Fable 5.1](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1) offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing on cached data that was already processed and stored.\n\nAlong with the announcement, a slew of early impressions popped up, including from Every CEO Dan Shipper, [who claims](https://x.com/danshipper/status/2094848951568474186), \"It's the strongest coding model we've used, but now it's fast, token-efficient, and crucially actually speaks like a norm …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1)",
-    "contentSnippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing on cached data that was already processed and stored.\nAlong with the announcement, a slew of early impressions popped up, including from Every CEO Dan Shipper, who claims, \"It's the strongest coding model we've used, but now it's fast, token-efficient, and crucially actually speaks like a norm …\nRead the full story at The Verge.",
-    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
-    "id": "https://www.theverge.com/?p=987830",
-    "isoDate": "2026-09-01T22:01:36.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a [multi-year partnership with Google](https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/). The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice:\n\n> First up on September 5 is a new MrBeast video following Jimmy and his crew as they attempt to survive some of the most extreme and treacherous climates on Earth. Teams will race to navigate three of the planet's most unforgiving landscapes - the jungle, the desert, and the Arctic - using Gemini to help them identify dangers, survive brutal weather changes, and stay one step ahead.\n\nGoogle …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit)",
+    "contentSnippet": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice:\nFirst up on September 5 is a new MrBeast video following Jimmy and his crew as they attempt to survive some of the most extreme and treacherous climates on Earth. Teams will race to navigate three of the planet's most unforgiving landscapes - the jungle, the desert, and the Arctic - using Gemini to help them identify dangers, survive brutal weather changes, and stay one step ahead.\nGoogle  …\nRead the full story at The Verge.",
+    "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]",
+    "id": "https://www.theverge.com/?p=988355",
+    "isoDate": "2026-09-02T15:47:03.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-launches-claude-fable-5-1-and-says-it-s-up-to-45-percent-cheaper-for-agentic-work"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-is-sending-mrbeast-into-the-wilderness-armed-with-ai"
+  },
+  {
+    "title": "(No AI) OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "pubDate": "2026-09-02T14:35:03.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of a memorial at Tumbler Ridge Secondary School in Canada](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported [earlier by _TechCrunch_](https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/). The new wave of lawsuits was [filed in a California federal court](https://www.documentcloud.org/documents/28594890-rushlow-v-openai/) on Wednesday by the students, teachers, and the principal in the school at the time of the shooting.\n\nSimilar to the [lawsuits filed by Tumbler Ridge victims' families](https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit) in April, these lawsuits claim OpenAI failed to take action after its automated review system flagged conversations that the alleged shooter, Jesse Van Rootselaar, had with ChatGPT about gun vio …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting)",
+    "contentSnippet": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal in the school at the time of the shooting.\nSimilar to the lawsuits filed by Tumbler Ridge victims' families in April, these lawsuits claim OpenAI failed to take action after its automated review system flagged conversations that the alleged shooter, Jesse Van Rootselaar, had with ChatGPT about gun vio …\nRead the full story at The Verge.",
+    "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [&#8230;]",
+    "id": "https://www.theverge.com/?p=988261",
+    "isoDate": "2026-09-02T14:35:03.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-accused-of-aiding-and-abetting-tumbler-ridge-mass-shooting-in-dozens-of-new-lawsuits"
   },
   {
     "title": "(No AI) How AI-native companies turn workflows into operating capability",
@@ -115,42 +120,38 @@
     "slug": "gemini-omni-1-1-flash-lets-you-build-with-more-control"
   },
   {
-    "creator": "Maxwell Zeff, Lily Hay Newman",
-    "title": "(No AI) OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-    "pubDate": "Tue, 01 Sep 2026 20:00:00 +0000",
-    "dc:creator": "Maxwell Zeff, Lily Hay Newman",
-    "content": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-    "contentSnippet": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-    "guid": "6a95c50b1ed47ec1f88c0129",
+    "creator": "Kate Taylor",
+    "title": "(No AI) The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "pubDate": "Wed, 02 Sep 2026 15:51:46 +0000",
+    "dc:creator": "Kate Taylor",
+    "content": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "contentSnippet": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "guid": "6a7dd5ceadfa954d38d64589",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence",
-      "Security",
-      "Security / Security News"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-01T20:00:00.000Z",
+    "isoDate": "2026-09-02T15:51:46.000Z",
     "source": "Wired AI",
-    "slug": "openai-is-about-to-release-its-first-ai-model-with-critical-cyber-abilities"
+    "slug": "the-logical-end-point-of-ai-job-interviews-is-two-bots-talking-to-each-other"
   },
   {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "pubDate": "Tue, 01 Sep 2026 14:40:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-    "contentSnippet": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-    "guid": "6a9582ab4bec28bfced5a370",
+    "creator": "Lexi Pandell",
+    "title": "(No AI) Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+    "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+    "pubDate": "Wed, 02 Sep 2026 10:00:00 +0000",
+    "dc:creator": "Lexi Pandell",
+    "content": "Meet the AI police who can make or break careers—in publishing and beyond.",
+    "contentSnippet": "Meet the AI police who can make or break careers—in publishing and beyond.",
+    "guid": "6a8cb79d3e6cf87b84dc7a7d",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Headphones",
-      "Gear / Products / Speakers",
-      "Gear / Products / Audio"
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-01T14:40:00.000Z",
+    "isoDate": "2026-09-02T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "sonos-ace-ultra-beam-ultra-sonos-fabric-and-a-new-app-everything-sonos-just-announced"
+    "slug": "pangram-has-emerged-as-the-gold-standard-of-ai-detection-should-you-trust-it"
   }
 ]
