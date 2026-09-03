@@ -1,79 +1,69 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-    "contentSnippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-    "guid": "https://techcrunch.com/?p=3137969",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "contentSnippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "guid": "https://techcrunch.com/?p=3160336",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Media & Entertainment",
-      "Robotics",
-      "Startups",
-      "Transportation",
-      "TechCrunch Disrupt",
-      "TechCrunch Disrupt 2026"
+      "Google",
+      "weather forecasting"
     ],
-    "isoDate": "2026-09-02T23:01:00.000Z",
+    "isoDate": "2026-09-03T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026"
+    "slug": "google-s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "contentSnippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "guid": "https://techcrunch.com/?p=3160290",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "contentSnippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "guid": "https://techcrunch.com/?p=3160347",
     "categories": [
       "AI",
-      "Enterprise",
-      "Startups",
+      "Hugging Face",
+      "Jensen Huang",
       "Mergers and Acquisitions",
-      "palo alto networks",
-      "Thrive Capital"
+      "nvidia"
     ],
-    "isoDate": "2026-09-02T22:44:56.000Z",
+    "isoDate": "2026-09-03T12:42:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
+    "slug": "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion"
   },
   {
-    "title": "(No AI) Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "pubDate": "2026-09-02T20:11:40.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle launched [Gemini 3.8 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/), arriving just a few weeks after [its predecessor](https://www.theverge.com/tech/979735/gemini-spark-is-now-powered-by-googles-upgraded-flash-model). The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage.\n\nGemini 3.8 Flash's launch was followed by some early …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)",
-    "contentSnippet": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-    "id": "https://www.theverge.com/?p=988742",
-    "isoDate": "2026-09-02T20:11:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-more"
-  },
-  {
-    "title": "(No AI) Amazon’s AI assistant can now spot fake emails from the company",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "pubDate": "2026-09-02T17:52:56.000Z",
+    "title": "(No AI) ChatGPT, Grok, and Claude all went down at the same time",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "pubDate": "2026-09-03T15:35:14.000Z",
     "author": "Emma Roth",
-    "content": "![A photo showing Alexa for Shopping’s message verification feature](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAmazon is trying to combat impersonation scams [with a new feature](https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping) that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can [ask Alexa for Shopping](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus) about a message you received, and it will use AI to compare it \"against a record of every message Amazon has sent,\" while also analyzing its contents, formatting, and the sender.\n\nAs noted by Amazon, the assistant will only confirm that a message is real if it's \"completely certain.\" An example shared by Amazon shows a customer asking, \"Did Amazon just text me an OTP from 98626? Message came around 4: …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)",
-    "contentSnippet": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it \"against a record of every message Amazon has sent,\" while also analyzing its contents, formatting, and the sender.\nAs noted by Amazon, the assistant will only confirm that a message is real if it's \"completely certain.\" An example shared by Amazon shows a customer asking, \"Did Amazon just text me an OTP from 98626? Message came around 4: …\nRead the full story at The Verge.",
-    "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
-    "id": "https://www.theverge.com/?p=988518",
-    "isoDate": "2026-09-02T17:52:56.000Z",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its [status page saying](https://status.openai.com/) there are currently \"elevated errors across ChatGPT and Codex.\"\n\nIn addition to preventing users from having conversations with ChatGPT, the outage is also affecting logins, file uploads, voice mode, search, deep research, image generation, and more.\n\nUsers began experiencing problems with Claude around the same time. While [Anthropic's status page](https://status.claude.com/) indicates Mythos/Fable 5.1, Mythos/Fable 5, Opus 5, Opus 4.8, and Opus 4.6 were initially im …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down)",
+    "contentSnippet": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\"\nIn addition to preventing users from having conversations with ChatGPT, the outage is also affecting logins, file uploads, voice mode, search, deep research, image generation, and more.\nUsers began experiencing problems with Claude around the same time. While Anthropic's status page indicates Mythos/Fable 5.1, Mythos/Fable 5, Opus 5, Opus 4.8, and Opus 4.6 were initially im …\nRead the full story at The Verge.",
+    "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage is also [&#8230;]",
+    "id": "https://www.theverge.com/?p=989503",
+    "isoDate": "2026-09-03T15:35:14.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-s-ai-assistant-can-now-spot-fake-emails-from-the-company"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-grok-and-claude-all-went-down-at-the-same-time"
+  },
+  {
+    "title": "(No AI) Google says its AI weather model is getting better",
+    "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "pubDate": "2026-09-03T15:00:00.000Z",
+    "author": "Justine Calma",
+    "content": "![Image of the Google “G” logo on a blue, black, and purple background.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\n\nIn the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five times sharper than Google's [previous model](https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext) by learning from real-time weather observations, according to the company.\n\n\"One of the main developments is for \\[WeatherNext 3\\] to go beyond what data most global AI models train on,\" says Samier Merchant, a research engineer at Google Research. \"We're able to leverage …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update)",
+    "contentSnippet": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five times sharper than Google's previous model by learning from real-time weather observations, according to the company.\n\"One of the main developments is for [WeatherNext 3] to go beyond what data most global AI models train on,\" says Samier Merchant, a research engineer at Google Research. \"We're able to leverage …\nRead the full story at The Verge.",
+    "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [&#8230;]",
+    "id": "https://www.theverge.com/?p=988921",
+    "isoDate": "2026-09-03T15:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-says-its-ai-weather-model-is-getting-better"
   },
   {
     "title": "(No AI) ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
@@ -101,6 +91,17 @@
     "slug": "how-ai-native-companies-turn-workflows-into-operating-capability"
   },
   {
+    "title": "(No AI) Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "isoDate": "2026-09-03T15:02:08.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
+  },
+  {
     "title": "(No AI) Proactive cyber defense for governments and enterprises",
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
@@ -112,49 +113,39 @@
     "slug": "proactive-cyber-defense-for-governments-and-enterprises"
   },
   {
-    "title": "(No AI) Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "isoDate": "2026-09-02T16:18:31.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-8-flash-and-3-8-flash-cyber"
-  },
-  {
-    "creator": "Paresh Dave, Maxwell Zeff",
-    "title": "(No AI) Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-    "pubDate": "Thu, 03 Sep 2026 01:32:02 +0000",
-    "dc:creator": "Paresh Dave, Maxwell Zeff",
-    "content": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-    "contentSnippet": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-    "guid": "6a98b7478c9d6f1d2a0923d6",
+    "creator": "Luke Larsen",
+    "title": "(No AI) Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+    "dc:creator": "Luke Larsen",
+    "content": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+    "contentSnippet": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+    "guid": "6a91b5991f4267c18de22d44",
     "categories": [
-      "Business",
-      "Business / Big Tech",
-      "Business / Artificial Intelligence"
+      "Gear",
+      "Gear / Products",
+      "Gear / Gear News and Events",
+      "Gear / Products / Computers"
     ],
-    "isoDate": "2026-09-03T01:32:02.000Z",
+    "isoDate": "2026-09-03T13:00:00.000Z",
     "source": "Wired AI",
-    "slug": "meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing"
+    "slug": "nvidia-rtx-spark-superchip-the-first-ai-pcs-are-here"
   },
   {
-    "creator": "Kate Knibbs, Maxwell Zeff",
-    "title": "(No AI) Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-    "pubDate": "Wed, 02 Sep 2026 18:41:02 +0000",
-    "dc:creator": "Kate Knibbs, Maxwell Zeff",
-    "content": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-    "contentSnippet": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-    "guid": "6a98445d5b3846267183e587",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "pubDate": "Thu, 03 Sep 2026 12:43:09 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+    "contentSnippet": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+    "guid": "6a906b97096f095c67a177d0",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-02T18:41:02.000Z",
+    "isoDate": "2026-09-03T12:43:09.000Z",
     "source": "Wired AI",
-    "slug": "trump-administration-sides-with-openai-in-new-york-times-copyright-lawsuit"
+    "slug": "nvidia-s-hugging-face-acquisition-is-a-12-9-billion-bet-on-open-source-ai"
   }
 ]
