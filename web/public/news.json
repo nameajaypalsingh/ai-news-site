@@ -1,5 +1,26 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "contentSnippet": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "guid": "https://techcrunch.com/?p=3160633",
+    "categories": [
+      "AI",
+      "Startups",
+      "Accel",
+      "In Brief",
+      "Mira Murati",
+      "Thinking Machines Lab"
+    ],
+    "isoDate": "2026-09-03T19:36:29.000Z",
+    "source": "TechCrunch AI",
+    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
+  },
+  {
     "creator": "Rebecca Bellan",
     "title": "(No AI) Abliteration.ai is making a business out of removing AI guardrails",
     "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
@@ -17,23 +38,6 @@
     "isoDate": "2026-09-03T18:37:57.000Z",
     "source": "TechCrunch AI",
     "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Meta is paying to peek at how you use their latest AI model",
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-    "contentSnippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-    "guid": "https://techcrunch.com/?p=3160462",
-    "categories": [
-      "AI",
-      "Meta"
-    ],
-    "isoDate": "2026-09-03T18:19:56.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model"
   },
   {
     "title": "(No AI) OpenAI’s next big AI model has ‘entered the AGI era’",
@@ -64,29 +68,32 @@
     "slug": "nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center"
   },
   {
-    "title": "(No AI) ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
-    "content": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "contentSnippet": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "guid": "https://openai.com/index/atv-big-air-tour",
-    "isoDate": "2026-09-02T12:00:00.000Z",
+    "title": "(No AI) Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "contentSnippet": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "guid": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-09-03T13:15:00.000Z",
     "source": "OpenAI",
-    "slug": "atv-big-air-tour-turned-3-days-of-work-into-3-hours-with-chatgpt"
+    "slug": "daybreak-for-frontline-defenders-1b-to-protect-essential-services"
   },
   {
-    "title": "(No AI) How AI-native companies turn workflows into operating capability",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-    "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "contentSnippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "guid": "https://openai.com/index/ai-native-company-workflows",
+    "title": "(No AI) Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "content": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "contentSnippet": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "guid": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "categories": [
-      "AI Adoption"
+      "Startup"
     ],
-    "isoDate": "2026-09-01T17:00:00.000Z",
+    "isoDate": "2026-09-03T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-ai-native-companies-turn-workflows-into-operating-capability"
+    "slug": "legora-reviewed-41-documents-in-minutes-with-gpt-6-astra"
   },
   {
     "title": "(No AI) Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -111,37 +118,41 @@
     "slug": "proactive-cyber-defense-for-governments-and-enterprises"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-    "pubDate": "Thu, 03 Sep 2026 18:06:24 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-    "contentSnippet": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-    "guid": "6a99a09696d08f90b0cf0230",
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "pubDate": "Thu, 03 Sep 2026 21:56:21 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+    "contentSnippet": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+    "guid": "6a999f3f5d28a882aa86cd2f",
     "categories": [
+      "Security",
+      "Security / Security News",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-03T18:06:24.000Z",
+    "isoDate": "2026-09-03T21:56:21.000Z",
     "source": "Wired AI",
-    "slug": "gpt-6-astra-is-here-and-openai-thinks-it-may-kick-off-the-agi-era"
+    "slug": "nobody-is-saying-why-openai-and-anthropic-had-outages-today"
   },
   {
-    "creator": "Maxwell Zeff",
-    "title": "(No AI) OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-    "pubDate": "Thu, 03 Sep 2026 16:42:40 +0000",
-    "dc:creator": "Maxwell Zeff",
-    "content": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-    "contentSnippet": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-    "guid": "6a98617d3d2b77debeec8dca",
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) Prediction Market Betting Is Getting People Banned and Arrested",
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "pubDate": "Thu, 03 Sep 2026 21:48:24 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+    "contentSnippet": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+    "guid": "6a98628a0e1a07689023e3f9",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Tech Culture",
+      "Security",
+      "Security / Privacy"
     ],
-    "isoDate": "2026-09-03T16:42:40.000Z",
+    "isoDate": "2026-09-03T21:48:24.000Z",
     "source": "Wired AI",
-    "slug": "openai-cut-off-a-billion-dollar-customer-to-avoid-elon-musk"
+    "slug": "prediction-market-betting-is-getting-people-banned-and-arrested"
   }
 ]
