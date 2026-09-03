@@ -1,41 +1,51 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "contentSnippet": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "guid": "https://techcrunch.com/?p=3160225",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "contentSnippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "guid": "https://techcrunch.com/?p=3137969",
     "categories": [
       "AI",
-      "ai safety",
-      "OpenAI"
+      "Biotech & Health",
+      "Climate",
+      "Crypto",
+      "Fintech",
+      "Fundraising",
+      "Media & Entertainment",
+      "Robotics",
+      "Startups",
+      "Transportation",
+      "TechCrunch Disrupt",
+      "TechCrunch Disrupt 2026"
     ],
-    "isoDate": "2026-09-02T20:19:14.000Z",
+    "isoDate": "2026-09-02T23:01:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-new-reasoning-technique-alarms-ai-safety-experts"
+    "slug": "the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of \\[…\\]",
-    "contentSnippet": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3160054",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "contentSnippet": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "guid": "https://techcrunch.com/?p=3160290",
     "categories": [
       "AI",
+      "Enterprise",
       "Startups",
-      "AI detection",
-      "Equity Video",
-      "Substack"
+      "Mergers and Acquisitions",
+      "palo alto networks",
+      "Thrive Capital"
     ],
-    "isoDate": "2026-09-02T17:18:13.000Z",
+    "isoDate": "2026-09-02T22:44:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "pangram-s-max-spero-on-why-ai-detection-is-harder-than-real-or-fake"
+    "slug": "palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
   },
   {
     "title": "(No AI) Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
@@ -66,6 +76,17 @@
     "slug": "amazon-s-ai-assistant-can-now-spot-fake-emails-from-the-company"
   },
   {
+    "title": "(No AI) ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "content": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "contentSnippet": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "guid": "https://openai.com/index/atv-big-air-tour",
+    "isoDate": "2026-09-02T12:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "atv-big-air-tour-turned-3-days-of-work-into-3-hours-with-chatgpt"
+  },
+  {
     "title": "(No AI) How AI-native companies turn workflows into operating capability",
     "link": "https://openai.com/index/ai-native-company-workflows",
     "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
@@ -78,20 +99,6 @@
     "isoDate": "2026-09-01T17:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-ai-native-companies-turn-workflows-into-operating-capability"
-  },
-  {
-    "title": "(No AI) Path to Astra: critical capabilities and frontier safeguards",
-    "link": "https://openai.com/index/path-to-astra",
-    "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
-    "content": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "contentSnippet": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "guid": "https://openai.com/index/path-to-astra",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-09-01T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "path-to-astra-critical-capabilities-and-frontier-safeguards"
   },
   {
     "title": "(No AI) Proactive cyber defense for governments and enterprises",
@@ -116,6 +123,24 @@
     "slug": "introducing-gemini-3-8-flash-and-3-8-flash-cyber"
   },
   {
+    "creator": "Paresh Dave, Maxwell Zeff",
+    "title": "(No AI) Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "pubDate": "Thu, 03 Sep 2026 01:32:02 +0000",
+    "dc:creator": "Paresh Dave, Maxwell Zeff",
+    "content": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+    "contentSnippet": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+    "guid": "6a98b7478c9d6f1d2a0923d6",
+    "categories": [
+      "Business",
+      "Business / Big Tech",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-09-03T01:32:02.000Z",
+    "source": "Wired AI",
+    "slug": "meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing"
+  },
+  {
     "creator": "Kate Knibbs, Maxwell Zeff",
     "title": "(No AI) Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
     "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
@@ -131,22 +156,5 @@
     "isoDate": "2026-09-02T18:41:02.000Z",
     "source": "Wired AI",
     "slug": "trump-administration-sides-with-openai-in-new-york-times-copyright-lawsuit"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "pubDate": "Wed, 02 Sep 2026 18:20:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-    "contentSnippet": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-    "guid": "6a9583dc88d28650c32558cc",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-02T18:20:00.000Z",
-    "source": "Wired AI",
-    "slug": "these-russian-mathematicians-taught-ai-models-how-to-talk-to-each-other-without-using-words"
   }
 ]
