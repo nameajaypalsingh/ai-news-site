@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "contentSnippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "guid": "https://techcrunch.com/?p=3160707",
+    "categories": [
+      "AI",
+      "Exclusive"
+    ],
+    "isoDate": "2026-09-04T04:21:03.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-sameness-problem-behind-those-unappetizing-ai-generated-menus"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Crusoe reportedly raises $3B at a  $30B valuation",
     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -10,34 +27,14 @@
     "guid": "https://techcrunch.com/?p=3160771",
     "categories": [
       "AI",
-      "TC",
       "Venture",
-      "crusoe"
+      "crusoe",
+      "data centers",
+      "In Brief"
     ],
     "isoDate": "2026-09-04T00:48:42.000Z",
     "source": "TechCrunch AI",
     "slug": "crusoe-reportedly-raises-3b-at-a-30b-valuation"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-    "contentSnippet": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-    "guid": "https://techcrunch.com/?p=3160633",
-    "categories": [
-      "AI",
-      "Startups",
-      "Accel",
-      "In Brief",
-      "Mira Murati",
-      "Thinking Machines Lab"
-    ],
-    "isoDate": "2026-09-03T19:36:29.000Z",
-    "source": "TechCrunch AI",
-    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
   },
   {
     "title": "(No AI) OpenAI’s next big AI model has ‘entered the AGI era’",
