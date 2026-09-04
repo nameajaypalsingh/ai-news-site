@@ -1,68 +1,75 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "contentSnippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "guid": "https://techcrunch.com/?p=3160707",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Google’s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "contentSnippet": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "guid": "https://techcrunch.com/?p=3160870",
     "categories": [
       "AI",
-      "Exclusive"
+      "Apps",
+      "gemini",
+      "Google Photos"
     ],
-    "isoDate": "2026-09-04T04:21:03.000Z",
+    "isoDate": "2026-09-04T14:47:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "the-sameness-problem-behind-those-unappetizing-ai-generated-menus"
+    "slug": "google-s-gemini-spark-can-now-manage-your-google-photos-library"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "contentSnippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "guid": "https://techcrunch.com/?p=3160771",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "contentSnippet": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "guid": "https://techcrunch.com/?p=3160690",
     "categories": [
-      "AI",
+      "Startups",
+      "Fintech",
+      "Biotech & Health",
       "Venture",
-      "crusoe",
-      "data centers",
-      "In Brief"
+      "Media & Entertainment",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-09-04T00:48:42.000Z",
+    "isoDate": "2026-09-04T14:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "crusoe-reportedly-raises-3b-at-a-30b-valuation"
+    "slug": "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event"
   },
   {
-    "title": "(No AI) OpenAI’s next big AI model has ‘entered the AGI era’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-    "pubDate": "2026-09-03T18:00:00.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI [announced earlier this week](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay), it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems.\n\n\"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about this time, and I think it might be about this model …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)",
-    "contentSnippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems.\n\"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about this time, and I think it might be about this model …\nRead the full story at The Verge.",
-    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-    "id": "https://www.theverge.com/?p=989601",
-    "isoDate": "2026-09-03T18:00:00.000Z",
+    "title": "(No AI) Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "pubDate": "2026-09-04T13:34:12.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100)\n\nA swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer.\n\nThe incident, [first reported](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) by _Reuters_, is outlined in new [research](https://collusion.wiki/) published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)",
+    "contentSnippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+    "id": "https://www.theverge.com/?p=990149",
+    "isoDate": "2026-09-04T13:34:12.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-next-big-ai-model-has-entered-the-agi-era"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "rogue-openai-agents-appear-to-have-organized-another-attack-using-a-german-wiki"
   },
   {
-    "title": "(No AI) Nvidia launches free tool that links idle computers into a personal AI data center",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-    "pubDate": "2026-09-03T16:00:00.000Z",
-    "author": "Antonio G. Di Benedetto",
-    "content": "![A visual of Nvidia devices connected in a network via intertwining green lines.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia is announcing its new [Personal AI Router](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/) (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.\n\nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's [open-source software](https://github.com/NVIDIA/Personal-AI-Router) developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook)",
-    "contentSnippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also  …\nRead the full story at The Verge.",
-    "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
-    "id": "https://www.theverge.com/?p=989435",
-    "isoDate": "2026-09-03T16:00:00.000Z",
+    "title": "(No AI) Instagram’s AI detection is a mess (again)",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Painting on an easel with a reCAPTCHA box.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, [users](https://www.instagram.com/p/DcBv-fRIKBb/?img_index=3&igsh=MWsxMTRxemhvNzJscw%3D%3D) have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all.\n\nThe precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using tools like Canva's Background Remover or with negl …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion)",
+    "contentSnippet": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all.\nThe precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using tools like Canva's Background Remover or with negl …\nRead the full story at The Verge.",
+    "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+    "id": "https://www.theverge.com/?p=989617",
+    "isoDate": "2026-09-04T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "instagram-s-ai-detection-is-a-mess-again"
   },
   {
     "title": "(No AI) Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -115,41 +122,37 @@
     "slug": "proactive-cyber-defense-for-governments-and-enterprises"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "pubDate": "Thu, 03 Sep 2026 21:56:21 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-    "contentSnippet": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-    "guid": "6a999f3f5d28a882aa86cd2f",
+    "creator": "Steven Levy",
+    "title": "(No AI) Who Cares if AI Is Conscious—It’s Basically Alive",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "pubDate": "Fri, 04 Sep 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+    "contentSnippet": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+    "guid": "6a99cf877b162d837701baf2",
     "categories": [
-      "Security",
-      "Security / Security News",
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-09-03T21:56:21.000Z",
+    "isoDate": "2026-09-04T15:00:00.000Z",
     "source": "Wired AI",
-    "slug": "nobody-is-saying-why-openai-and-anthropic-had-outages-today"
+    "slug": "who-cares-if-ai-is-conscious-it-s-basically-alive"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Prediction Market Betting Is Getting People Banned and Arrested",
-    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-    "pubDate": "Thu, 03 Sep 2026 21:48:24 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-    "contentSnippet": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-    "guid": "6a98628a0e1a07689023e3f9",
+    "creator": "Jill Duffy",
+    "title": "(No AI) AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "pubDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+    "dc:creator": "Jill Duffy",
+    "content": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+    "contentSnippet": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+    "guid": "6a974df9e160e2c30a556099",
     "categories": [
-      "Business",
-      "Business / Tech Culture",
-      "Security",
-      "Security / Privacy"
+      "Gear",
+      "Gear / Trends"
     ],
-    "isoDate": "2026-09-03T21:48:24.000Z",
+    "isoDate": "2026-09-04T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "prediction-market-betting-is-getting-people-banned-and-arrested"
+    "slug": "ai-use-in-the-job-market-is-creating-an-infinite-doom-loop"
   }
 ]
