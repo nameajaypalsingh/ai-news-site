@@ -1,6 +1,25 @@
 [
   {
     "creator": "Marina Temkin",
+    "title": "(No AI) Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "contentSnippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "guid": "https://techcrunch.com/?p=3160771",
+    "categories": [
+      "AI",
+      "TC",
+      "Venture",
+      "crusoe"
+    ],
+    "isoDate": "2026-09-04T00:48:42.000Z",
+    "source": "TechCrunch AI",
+    "slug": "crusoe-reportedly-raises-3b-at-a-30b-valuation"
+  },
+  {
+    "creator": "Marina Temkin",
     "title": "(No AI) Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
@@ -19,25 +38,6 @@
     "isoDate": "2026-09-03T19:36:29.000Z",
     "source": "TechCrunch AI",
     "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "contentSnippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "guid": "https://techcrunch.com/?p=3160448",
-    "categories": [
-      "AI",
-      "Security",
-      "ai safety",
-      "cybersecurity"
-    ],
-    "isoDate": "2026-09-03T18:37:57.000Z",
-    "source": "TechCrunch AI",
-    "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails"
   },
   {
     "title": "(No AI) OpenAI’s next big AI model has ‘entered the AGI era’",
