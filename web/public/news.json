@@ -38,6 +38,20 @@
     "slug": "openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
   },
   {
+    "title": "(No AI) OpenAI admits to German wiki ‘incident’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "pubDate": "2026-09-05T11:15:55.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from [reports that a swarm of its out-of-control agents hijacked a German wiki site](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki).\n\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in [a post on X](https://x.com/openai/status/2096133504417616165?s=46&t=vx29-32gzBE_H5suNoiKjQ) on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\n\nOpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)",
+    "contentSnippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\nOpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r …\nRead the full story at The Verge.",
+    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+    "id": "https://www.theverge.com/?p=990773",
+    "isoDate": "2026-09-05T11:15:55.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-admits-to-german-wiki-incident"
+  },
+  {
     "title": "(No AI) Roland is getting into generative AI music with Melody Flip",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
     "pubDate": "2026-09-04T17:51:35.000Z",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "roland-is-getting-into-generative-ai-music-with-melody-flip"
-  },
-  {
-    "title": "(No AI) Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "pubDate": "2026-09-04T16:05:57.000Z",
-    "author": "Lauren Feiner",
-    "content": "![An illustration of the Copilot logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from [publishers including _The New York Times_](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement) and [book authors](https://www.theverge.com/news/693516/authors-throw-the-book-at-microsoft-ai).\n\nAs part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works.\" It says the resulting analysis shows that 59,545 …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)",
-    "contentSnippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.\nAs part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works.\" It says the resulting analysis shows that 59,545 …\nRead the full story at The Verge.",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
-    "id": "https://www.theverge.com/?p=990267",
-    "isoDate": "2026-09-04T16:05:57.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its-chatbot"
   },
   {
     "title": "(No AI) Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -116,6 +116,23 @@
     "slug": "proactive-cyber-defense-for-governments-and-enterprises"
   },
   {
+    "creator": "Lily Hay Newman, Matt Burgess, Dhruv Mehrotra",
+    "title": "(No AI) OpenAI Agents Hacked Another Website",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "pubDate": "Sat, 05 Sep 2026 10:30:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess, Dhruv Mehrotra",
+    "content": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "contentSnippet": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "guid": "6a9acd6e4c28b30a706b709a",
+    "categories": [
+      "Security",
+      "Security / Security News"
+    ],
+    "isoDate": "2026-09-05T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-agents-hacked-another-website"
+  },
+  {
     "creator": "Steven Levy",
     "title": "(No AI) Who Cares if AI Is Conscious—It’s Basically Alive",
     "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
@@ -131,22 +148,5 @@
     "isoDate": "2026-09-04T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "who-cares-if-ai-is-conscious-it-s-basically-alive"
-  },
-  {
-    "creator": "Jill Duffy",
-    "title": "(No AI) AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-    "pubDate": "Fri, 04 Sep 2026 10:00:00 +0000",
-    "dc:creator": "Jill Duffy",
-    "content": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-    "contentSnippet": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-    "guid": "6a974df9e160e2c30a556099",
-    "categories": [
-      "Gear",
-      "Gear / Trends"
-    ],
-    "isoDate": "2026-09-04T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-use-in-the-job-market-is-creating-an-infinite-doom-loop"
   }
 ]
