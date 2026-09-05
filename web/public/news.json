@@ -1,43 +1,41 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "contentSnippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "guid": "https://techcrunch.com/?p=3160981",
+    "creator": "Marina Temkin",
+    "title": "(No AI) XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The round is being raised just months after the robot data startup exited from stealth.",
+    "contentSnippet": "The round is being raised just months after the robot data startup exited from stealth.",
+    "guid": "https://techcrunch.com/?p=3161014",
     "categories": [
       "AI",
-      "compute",
-      "nscale",
-      "nvidia"
+      "Robotics",
+      "Startups",
+      "8VC"
     ],
-    "isoDate": "2026-09-04T21:12:11.000Z",
+    "isoDate": "2026-09-04T23:36:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing"
+    "slug": "xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
   },
   {
-    "creator": "Theresa Loconsolo",
-    "title": "(No AI) What will Apple’s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
-    "dc:creator": "Theresa Loconsolo",
-    "content": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy \\[…\\]",
-    "contentSnippet": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3160884",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "contentSnippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "guid": "https://techcrunch.com/?p=3160997",
     "categories": [
       "AI",
-      "Apple",
-      "John Ternus",
-      "nvidia",
-      "Tesla",
-      "Tim Cook"
+      "breach",
+      "OpenAI",
+      "Hugging Face"
     ],
-    "isoDate": "2026-09-04T17:18:00.000Z",
+    "isoDate": "2026-09-04T23:15:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "what-will-apple-s-john-ternus-era-look-like"
+    "slug": "openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
   },
   {
     "title": "(No AI) Roland is getting into generative AI music with Melody Flip",
