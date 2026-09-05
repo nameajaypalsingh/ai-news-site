@@ -1,41 +1,39 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The round is being raised just months after the robot data startup exited from stealth.",
-    "contentSnippet": "The round is being raised just months after the robot data startup exited from stealth.",
-    "guid": "https://techcrunch.com/?p=3161014",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "contentSnippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "guid": "https://techcrunch.com/?p=3161045",
     "categories": [
       "AI",
-      "Robotics",
-      "Startups",
-      "8VC"
+      "gemini",
+      "Google"
     ],
-    "isoDate": "2026-09-04T23:36:14.000Z",
+    "isoDate": "2026-09-05T19:35:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
+    "slug": "hikers-rescued-after-using-google-gemini-for-planning"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "contentSnippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "guid": "https://techcrunch.com/?p=3160997",
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "contentSnippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "guid": "https://techcrunch.com/?p=3161042",
     "categories": [
       "AI",
-      "breach",
-      "OpenAI",
-      "Hugging Face"
+      "Security",
+      "OpenAI"
     ],
-    "isoDate": "2026-09-04T23:15:11.000Z",
+    "isoDate": "2026-09-05T18:05:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
+    "slug": "openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosure"
   },
   {
     "title": "(No AI) OpenAI admits to German wiki ‘incident’",
