@@ -1,6 +1,26 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "contentSnippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "guid": "https://techcrunch.com/?p=3161049",
+    "categories": [
+      "AI",
+      "Media & Entertainment",
+      "Microsoft",
+      "Newsday",
+      "OpenAI"
+    ],
+    "isoDate": "2026-09-05T22:49:55.000Z",
+    "source": "TechCrunch AI",
+    "slug": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Hikers rescued after using Google Gemini for planning",
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
@@ -16,24 +36,6 @@
     "isoDate": "2026-09-05T19:35:24.000Z",
     "source": "TechCrunch AI",
     "slug": "hikers-rescued-after-using-google-gemini-for-planning"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "contentSnippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "guid": "https://techcrunch.com/?p=3161042",
-    "categories": [
-      "AI",
-      "Security",
-      "OpenAI"
-    ],
-    "isoDate": "2026-09-05T18:05:27.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosure"
   },
   {
     "title": "(No AI) OpenAI admits to German wiki ‘incident’",
