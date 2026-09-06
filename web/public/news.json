@@ -66,32 +66,32 @@
     "slug": "roland-is-getting-into-generative-ai-music-with-melody-flip"
   },
   {
-    "title": "(No AI) Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "contentSnippet": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "guid": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "title": "(No AI) An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "content": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "contentSnippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "guid": "https://openai.com/index/an-alien-mind",
     "categories": [
-      "Security"
+      "Safety"
     ],
-    "isoDate": "2026-09-03T13:15:00.000Z",
+    "isoDate": "2026-09-06T09:00:00.000Z",
     "source": "OpenAI",
-    "slug": "daybreak-for-frontline-defenders-1b-to-protect-essential-services"
+    "slug": "an-alien-mind"
   },
   {
-    "title": "(No AI) Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "content": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "contentSnippet": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "guid": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "(No AI) Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "content": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "contentSnippet": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "guid": "https://openai.com/index/research-acceleration-view-inside-openai",
     "categories": [
-      "Startup"
+      "Research"
     ],
-    "isoDate": "2026-09-03T12:00:00.000Z",
+    "isoDate": "2026-09-06T08:00:00.000Z",
     "source": "OpenAI",
-    "slug": "playco-cut-manual-fixes-50-prototyping-games-with-gpt-6-astra"
+    "slug": "research-acceleration-the-view-inside-openai"
   },
   {
     "title": "(No AI) Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
