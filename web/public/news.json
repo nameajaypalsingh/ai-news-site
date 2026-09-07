@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+    "title": "(No AI) Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "guid": "https://techcrunch.com/?p=2973217",
+    "categories": [
+      "AI",
+      "artificial intelligence",
+      "evergreens",
+      "Glossary"
+    ],
+    "isoDate": "2026-09-07T19:24:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-know"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -10,32 +29,13 @@
     "guid": "https://techcrunch.com/?p=3161058",
     "categories": [
       "AI",
-      "Media & Entertainment"
+      "Media & Entertainment",
+      "Anthropic",
+      "copyright infringement"
     ],
     "isoDate": "2026-09-06T20:47:37.000Z",
     "source": "TechCrunch AI",
     "slug": "authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement"
-  },
-  {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "contentSnippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "guid": "https://techcrunch.com/?p=3161054",
-    "categories": [
-      "Startups",
-      "Transportation",
-      "AI",
-      "Travis Kalanick",
-      "Uber",
-      "atoms"
-    ],
-    "isoDate": "2026-09-06T16:45:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-business"
   },
   {
     "title": "(No AI) Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
