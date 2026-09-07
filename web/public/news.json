@@ -117,6 +117,23 @@
   },
   {
     "creator": "Reece Rogers",
+    "title": "(No AI) Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "pubDate": "Mon, 07 Sep 2026 10:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+    "contentSnippet": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+    "guid": "6a985e26ae63a30d70e113b7",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-09-07T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback"
+  },
+  {
+    "creator": "Reece Rogers",
     "title": "(No AI) My Brief Summer Fling With Siri AI",
     "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
     "pubDate": "Sun, 06 Sep 2026 10:30:00 +0000",
@@ -132,23 +149,5 @@
     "isoDate": "2026-09-06T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "my-brief-summer-fling-with-siri-ai"
-  },
-  {
-    "creator": "Molly Taft",
-    "title": "(No AI) Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-    "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
-    "contentSnippet": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
-    "guid": "6a9841fc882152f5a8e0044d",
-    "categories": [
-      "Science",
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-09-06T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "why-china-is-the-bogeyman-data-center-enthusiasts-just-can-t-quit"
   }
 ]
