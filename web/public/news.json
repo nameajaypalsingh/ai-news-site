@@ -1,68 +1,85 @@
 [
   {
-    "creator": "Anna Heim",
-    "title": "(No AI) Mistral raises €3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
-    "dc:creator": "Anna Heim",
-    "content": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
-    "contentSnippet": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
-    "guid": "https://techcrunch.com/?p=3161251",
+    "creator": "Julie Bort",
+    "title": "(No AI) Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "contentSnippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "guid": "https://techcrunch.com/?p=3161463",
     "categories": [
       "AI",
-      "Mistral AI",
-      "Samsung Electronics"
+      "TC",
+      "Anthropic",
+      "hackers"
     ],
-    "isoDate": "2026-09-08T14:17:48.000Z",
+    "isoDate": "2026-09-08T21:10:27.000Z",
     "source": "TechCrunch AI",
-    "slug": "mistral-raises-3b-as-sovereign-ai-becomes-big-business"
+    "slug": "hackers-are-stealing-claude-tokens-from-subscribers"
   },
   {
-    "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "title": "(No AI) Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
-    "dc:creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-    "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "contentSnippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "guid": "https://techcrunch.com/?p=2973217",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "contentSnippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "guid": "https://techcrunch.com/?p=3161658",
     "categories": [
+      "Startups",
       "AI",
-      "artificial intelligence",
-      "evergreens",
-      "Glossary"
+      "Valuations",
+      "cursor",
+      "coding assistants",
+      "cognition"
     ],
-    "isoDate": "2026-09-07T19:24:00.000Z",
+    "isoDate": "2026-09-08T21:04:06.000Z",
     "source": "TechCrunch AI",
-    "slug": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-know"
+    "slug": "cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
   },
   {
-    "title": "(No AI) Google’s Atlas of the human genome could pave the way for new treatments",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-    "pubDate": "2026-09-08T14:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.\n\nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\" the researchers said in a [blog post](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome) published on Tuesday.\n\nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas)",
-    "contentSnippet": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.  \nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\"  the researchers said in a blog post published on Tuesday. \nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions …\nRead the full story at The Verge.",
-    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
-    "id": "https://www.theverge.com/?p=991180",
-    "isoDate": "2026-09-08T14:00:00.000Z",
+    "title": "(No AI) Drama swirls around OpenAI’s legendary mathematical milestone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "pubDate": "2026-09-08T20:53:52.000Z",
+    "author": "Emma Roth",
+    "content": "![Vector illustration of the Open AI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier [by _The New York Times_](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?partner=slack&smid=sl-share) and [_Wired_](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/). In [a blog post on Tuesday](https://openai.com/index/navier-stokes-solution/), OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven [Millennium Prize Problems](https://www.claymath.org/millennium-problems/), each of which comes with a $1 million reward for solving.\n\nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)",
+    "contentSnippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
+    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
+    "id": "https://www.theverge.com/?p=991710",
+    "isoDate": "2026-09-08T20:53:52.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "drama-swirls-around-openai-s-legendary-mathematical-milestone"
   },
   {
-    "title": "(No AI) Adobe is trying to make its AI generators idiot-proof in Premiere",
-    "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-    "pubDate": "2026-09-08T13:00:00.000Z",
-    "author": "Thomas Ricker",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow.\n\nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)",
-    "contentSnippet": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. \nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip …\nRead the full story at The Verge.",
-    "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
-    "id": "https://www.theverge.com/?p=991133",
-    "isoDate": "2026-09-08T13:00:00.000Z",
+    "title": "(No AI) ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "pubDate": "2026-09-08T20:16:09.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\n\nOpenAI [announced ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\n\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions. You can also now leave comments directly on parts of images …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)",
+    "contentSnippet": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions. You can also now leave comments directly on parts of images …\nRead the full story at The Verge.",
+    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+    "id": "https://www.theverge.com/?p=991727",
+    "isoDate": "2026-09-08T20:16:09.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-sketch-turns-your-bad-drawings-into-detailed-ai-images"
+  },
+  {
+    "title": "(No AI) How GPT-5.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "content": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "contentSnippet": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "guid": "https://openai.com/index/codex-quantum-computing-experiments",
+    "categories": [
+      "Applied AI"
+    ],
+    "isoDate": "2026-09-08T17:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-gpt-5-6-sol-helps-run-quantum-computing-experiments"
   },
   {
     "title": "(No AI) The Work Now Within Reach",
@@ -77,20 +94,6 @@
     "isoDate": "2026-09-08T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "the-work-now-within-reach"
-  },
-  {
-    "title": "(No AI) OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
-    "content": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-    "contentSnippet": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-    "guid": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-09-08T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-expands-initiatives-to-support-journalism-from-classrooms-to-newsrooms"
   },
   {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -115,38 +118,38 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-    "pubDate": "Mon, 07 Sep 2026 10:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-    "contentSnippet": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-    "guid": "6a985e26ae63a30d70e113b7",
+    "creator": "Lily Hay Newman, Maxwell Zeff",
+    "title": "(No AI) Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "pubDate": "Tue, 08 Sep 2026 20:12:51 +0000",
+    "dc:creator": "Lily Hay Newman, Maxwell Zeff",
+    "content": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+    "contentSnippet": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+    "guid": "6a9b2b6de2d6587d5e6b3c23",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
+      "Security",
+      "Security / Privacy",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-07T10:30:00.000Z",
+    "isoDate": "2026-09-08T20:12:51.000Z",
     "source": "Wired AI",
-    "slug": "whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback"
+    "slug": "muse-meta-s-new-personal-ai-agent-needs-you-to-trust-it"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) My Brief Summer Fling With Siri AI",
-    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-    "pubDate": "Sun, 06 Sep 2026 10:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-    "contentSnippet": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-    "guid": "6a97057af5cd56d0322d3a8e",
+    "creator": "Will Knight, Maxwell Zeff",
+    "title": "(No AI) OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "pubDate": "Tue, 08 Sep 2026 16:42:05 +0000",
+    "dc:creator": "Will Knight, Maxwell Zeff",
+    "content": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "contentSnippet": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "guid": "6aa019df196e8ca64468263f",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-06T10:30:00.000Z",
+    "isoDate": "2026-09-08T16:42:05.000Z",
     "source": "Wired AI",
-    "slug": "my-brief-summer-fling-with-siri-ai"
+    "slug": "openai-just-claimed-a-huge-math-discovery-some-academics-are-crying-foul"
   }
 ]
