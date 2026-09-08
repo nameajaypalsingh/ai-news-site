@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Anna Heim",
+    "title": "(No AI) Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
+    "dc:creator": "Anna Heim",
+    "content": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "contentSnippet": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "guid": "https://techcrunch.com/?p=3161251",
+    "categories": [
+      "AI",
+      "Mistral AI",
+      "Samsung Electronics"
+    ],
+    "isoDate": "2026-09-08T14:17:48.000Z",
+    "source": "TechCrunch AI",
+    "slug": "mistral-raises-3b-as-sovereign-ai-becomes-big-business"
+  },
+  {
     "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
     "title": "(No AI) Opaque recurrence, and other AI terms that you should probably know",
     "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -19,79 +37,71 @@
     "slug": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-know"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "contentSnippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "guid": "https://techcrunch.com/?p=3161058",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "Anthropic",
-      "copyright infringement"
-    ],
-    "isoDate": "2026-09-06T20:47:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement"
-  },
-  {
-    "title": "(No AI) Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "pubDate": "2026-09-06T23:36:04.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\n\n_The Seattle Times_ and _Newsday_ are just the latest plaintiffs to take OpenAI to court, [alleging copyright infringement](https://www.reuters.com/legal/government/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-2026-09-05/). The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [_The New York Times_](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement), [Ziff Davis](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag), [Merriam-Webster, and Encyclopedia Britannica](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit) against OpenAI.\n\n_The Seattle Times_ and _Newsday_ also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of [nearly 400 local newspapers](https://www.theverge.com/ai-artificial-intelligence/956543/nearly-400-local-newspapers-are-suing-openai-and-microsoft) that recently sued the two …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)",
-    "contentSnippet": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.\nThe Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two  …\nRead the full story at The Verge.",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
-    "id": "https://www.theverge.com/?p=990932",
-    "isoDate": "2026-09-06T23:36:04.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement"
-  },
-  {
-    "title": "(No AI) OpenAI admits to German wiki ‘incident’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "pubDate": "2026-09-05T11:15:55.000Z",
+    "title": "(No AI) Google’s Atlas of the human genome could pave the way for new treatments",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+    "pubDate": "2026-09-08T14:00:00.000Z",
     "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from [reports that a swarm of its out-of-control agents hijacked a German wiki site](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki).\n\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in [a post on X](https://x.com/openai/status/2096133504417616165?s=46&t=vx29-32gzBE_H5suNoiKjQ) on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\n\nOpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)",
-    "contentSnippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\nOpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r …\nRead the full story at The Verge.",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
-    "id": "https://www.theverge.com/?p=990773",
-    "isoDate": "2026-09-05T11:15:55.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.\n\nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\" the researchers said in a [blog post](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome) published on Tuesday.\n\nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas)",
+    "contentSnippet": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.  \nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\"  the researchers said in a blog post published on Tuesday. \nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions …\nRead the full story at The Verge.",
+    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
+    "id": "https://www.theverge.com/?p=991180",
+    "isoDate": "2026-09-08T14:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-admits-to-german-wiki-incident"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments"
   },
   {
-    "title": "(No AI) Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT",
-    "content": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "contentSnippet": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "guid": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-09-07T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "supporting-independent-journalism-in-ukraine"
+    "title": "(No AI) Adobe is trying to make its AI generators idiot-proof in Premiere",
+    "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+    "pubDate": "2026-09-08T13:00:00.000Z",
+    "author": "Thomas Ricker",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow.\n\nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)",
+    "contentSnippet": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. \nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip …\nRead the full story at The Verge.",
+    "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
+    "id": "https://www.theverge.com/?p=991133",
+    "isoDate": "2026-09-08T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
   },
   {
-    "title": "(No AI) An Alien Mind",
-    "link": "https://openai.com/index/an-alien-mind",
-    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
-    "content": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "contentSnippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "guid": "https://openai.com/index/an-alien-mind",
+    "title": "(No AI) The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "content": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "contentSnippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "guid": "https://openai.com/index/the-work-now-within-reach",
     "categories": [
-      "Safety"
+      "Company"
     ],
-    "isoDate": "2026-09-06T09:00:00.000Z",
+    "isoDate": "2026-09-08T13:00:00.000Z",
     "source": "OpenAI",
-    "slug": "an-alien-mind"
+    "slug": "the-work-now-within-reach"
+  },
+  {
+    "title": "(No AI) OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "content": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "contentSnippet": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "guid": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-09-08T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-expands-initiatives-to-support-journalism-from-classrooms-to-newsrooms"
+  },
+  {
+    "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "pubDate": "Tue, 08 Sep 2026 14:00:15 +0000",
+    "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "contentSnippet": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "guid": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "isoDate": "2026-09-08T14:00:15.000Z",
+    "source": "Google DeepMind",
+    "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
     "title": "(No AI) Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -103,17 +113,6 @@
     "isoDate": "2026-09-03T15:02:08.000Z",
     "source": "Google DeepMind",
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
-  },
-  {
-    "title": "(No AI) Proactive cyber defense for governments and enterprises",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "isoDate": "2026-09-02T16:24:24.000Z",
-    "source": "Google DeepMind",
-    "slug": "proactive-cyber-defense-for-governments-and-enterprises"
   },
   {
     "creator": "Reece Rogers",
