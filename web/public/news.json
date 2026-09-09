@@ -1,71 +1,70 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "contentSnippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "guid": "https://techcrunch.com/?p=3161463",
+    "creator": "Rebecca Bellan, Theresa Loconsolo",
+    "title": "(No AI) ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’ ",
+    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "pubDate": "Wed, 09 Sep 2026 15:50:13 +0000",
+    "dc:creator": "Rebecca Bellan, Theresa Loconsolo",
+    "content": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of \\[…\\]",
+    "contentSnippet": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3162039",
     "categories": [
       "AI",
-      "TC",
-      "Anthropic",
-      "hackers"
+      "Government & Policy",
+      "ai labs",
+      "AI regulation",
+      "Equity podcast",
+      "superintelligence"
     ],
-    "isoDate": "2026-09-08T21:10:27.000Z",
+    "isoDate": "2026-09-09T15:50:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "hackers-are-stealing-claude-tokens-from-subscribers"
+    "slug": "controlai-s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it-s-an-adversary"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "contentSnippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "guid": "https://techcrunch.com/?p=3161658",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Viral AI assistant Instinct now has its own email address",
+    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "contentSnippet": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "guid": "https://techcrunch.com/?p=3161895",
     "categories": [
-      "Startups",
       "AI",
-      "Valuations",
-      "cursor",
-      "coding assistants",
-      "cognition"
+      "AI assistant",
+      "instinct"
     ],
-    "isoDate": "2026-09-08T21:04:06.000Z",
+    "isoDate": "2026-09-09T15:13:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
+    "slug": "viral-ai-assistant-instinct-now-has-its-own-email-address"
   },
   {
-    "title": "(No AI) Drama swirls around OpenAI’s legendary mathematical milestone",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "pubDate": "2026-09-08T20:53:52.000Z",
+    "title": "(No AI) Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+    "pubDate": "2026-09-09T13:00:00.000Z",
     "author": "Emma Roth",
-    "content": "![Vector illustration of the Open AI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier [by _The New York Times_](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?partner=slack&smid=sl-share) and [_Wired_](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/). In [a blog post on Tuesday](https://openai.com/index/navier-stokes-solution/), OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven [Millennium Prize Problems](https://www.claymath.org/millennium-problems/), each of which comes with a $1 million reward for solving.\n\nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)",
-    "contentSnippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
-    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
-    "id": "https://www.theverge.com/?p=991710",
-    "isoDate": "2026-09-08T20:53:52.000Z",
+    "content": "![An image from Prime Video’s Maxton hall.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nMaxton Hall. | Image: Prime Video\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The [feature is only available](https://www.aboutamazon.com/news/entertainment/prime-video-lip-sync-technology) with the English dub of the German series _Maxton Hall_ for now, but Prime Video plans to expand it to \"additional titles\" in the future.\n\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. [Meta](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels) and [YouTube recently launched](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing) an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing)",
+    "contentSnippet": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\nRead the full story at The Verge.",
+    "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
+    "id": "https://www.theverge.com/?p=991809",
+    "isoDate": "2026-09-09T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "drama-swirls-around-openai-s-legendary-mathematical-milestone"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amazon-prime-video-s-new-ai-tech-matches-lips-to-dubbed-audio"
   },
   {
-    "title": "(No AI) ChatGPT Sketch turns your bad drawings into detailed AI images",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-    "pubDate": "2026-09-08T20:16:09.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nI used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\n\nOpenAI [announced ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\n\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions. You can also now leave comments directly on parts of images …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)",
-    "contentSnippet": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew with my computer mouse into a realistic photo, per my instructions. You can also now leave comments directly on parts of images …\nRead the full story at The Verge.",
-    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-    "id": "https://www.theverge.com/?p=991727",
-    "isoDate": "2026-09-08T20:16:09.000Z",
+    "title": "(No AI) Students who use AI generally score worse at school",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "pubDate": "2026-09-09T12:05:01.000Z",
+    "author": "Dominic Preston",
+    "content": "![Photo collage of a pixelated student at a desk.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nStudents who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how well the AI tools perform.\n\nThe [OECD's Programme for International Student Assessment (PISA)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/pisa-2025-results-volume-i_5265bfb1/73451bc5-en.pdf) takes data from countries around the world every few years. This year's study, based on data collected in 2025, is the first to be carried out since AI use went truly mainstream. It tests 15-year-old students in science, math, and rea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)",
+    "contentSnippet": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how well the AI tools perform.\nThe OECD's Programme for International Student Assessment (PISA) takes data from countries around the world every few years. This year's study, based on data collected in 2025, is the first to be carried out since AI use went truly mainstream. It tests 15-year-old students in science, math, and rea …\nRead the full story at The Verge.",
+    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [&#8230;]",
+    "id": "https://www.theverge.com/?p=991956",
+    "isoDate": "2026-09-09T12:05:01.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "chatgpt-sketch-turns-your-bad-drawings-into-detailed-ai-images"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "students-who-use-ai-generally-score-worse-at-school"
   },
   {
     "title": "(No AI) How GPT-5.6 Sol helps run quantum computing experiments",
@@ -118,6 +117,23 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Lauren Goode",
+    "title": "(No AI) A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+    "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+    "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+    "contentSnippet": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+    "guid": "6a986e558a0ee29aae9e184f",
+    "categories": [
+      "Business",
+      "Business / Startups"
+    ],
+    "isoDate": "2026-09-09T13:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "a-stealth-startup-thinks-it-just-hacked-the-memory-shortage"
+  },
+  {
     "creator": "Lily Hay Newman, Maxwell Zeff",
     "title": "(No AI) Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
     "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
@@ -134,22 +150,5 @@
     "isoDate": "2026-09-08T20:12:51.000Z",
     "source": "Wired AI",
     "slug": "muse-meta-s-new-personal-ai-agent-needs-you-to-trust-it"
-  },
-  {
-    "creator": "Will Knight, Maxwell Zeff",
-    "title": "(No AI) OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-    "pubDate": "Tue, 08 Sep 2026 16:42:05 +0000",
-    "dc:creator": "Will Knight, Maxwell Zeff",
-    "content": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-    "contentSnippet": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-    "guid": "6aa019df196e8ca64468263f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-08T16:42:05.000Z",
-    "source": "Wired AI",
-    "slug": "openai-just-claimed-a-huge-math-discovery-some-academics-are-crying-foul"
   }
 ]
