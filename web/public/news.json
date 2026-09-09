@@ -1,69 +1,84 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "The update uses Apple Intelligence to make better sense of your health data.",
-    "contentSnippet": "The update uses Apple Intelligence to make better sense of your health data.",
-    "guid": "https://techcrunch.com/?p=3162124",
-    "categories": [
-      "AI",
-      "Apps",
-      "Gadgets",
-      "Apple",
-      "Apple Health"
-    ],
-    "isoDate": "2026-09-09T18:16:29.000Z",
-    "source": "TechCrunch AI",
-    "slug": "apple-s-revamped-health-app-will-calculate-your-health-age-and-readiness-score"
-  },
-  {
     "creator": "Tim De Chant",
-    "title": "(No AI) Apple has a new way prove your iPhone photos aren’t AI slop",
-    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+    "title": "(No AI) Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
     "dc:creator": "Tim De Chant",
-    "content": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-    "contentSnippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-    "guid": "https://techcrunch.com/?p=3162127",
+    "content": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+    "contentSnippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+    "guid": "https://techcrunch.com/?p=3162041",
     "categories": [
       "AI",
-      "Apple",
-      "iPhone"
+      "Climate",
+      "clean energy",
+      "data centers",
+      "massachusetts"
     ],
-    "isoDate": "2026-09-09T18:08:35.000Z",
+    "isoDate": "2026-09-09T21:43:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-has-a-new-way-prove-your-iphone-photos-aren-t-ai-slop"
+    "slug": "massachusetts-hits-data-centers-with-new-clean-power-rules"
   },
   {
-    "title": "(No AI) Microsoft has new AI privacy rules for schools",
-    "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-    "pubDate": "2026-09-09T17:07:48.000Z",
-    "author": "Lauren Feiner",
-    "content": "![Photo illustration of pixels coming out of a locker.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft [agreed to a set of safety and privacy principles](https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators/) for AI in schools a week after two major school systems announced a ban on student-facing AI.\n\nIn a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them. The terms include pledging not to train AI models on student or educator data, limiting the amount of data Microsoft collects in the first place and disclosing to families how its tools work in plain …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)",
-    "contentSnippet": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them. The terms include pledging not to train AI models on student or educator data, limiting the amount of data Microsoft collects in the first place and disclosing to families how its tools work in plain …\nRead the full story at The Verge.",
-    "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of [&#8230;]",
-    "id": "https://www.theverge.com/?p=992359",
-    "isoDate": "2026-09-09T17:07:48.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "microsoft-has-new-ai-privacy-rules-for-schools"
+    "creator": "Sarah Perez",
+    "title": "(No AI) Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "contentSnippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "guid": "https://techcrunch.com/?p=3162193",
+    "categories": [
+      "AI",
+      "Privacy",
+      "Apple",
+      "privacy"
+    ],
+    "isoDate": "2026-09-09T20:24:48.000Z",
+    "source": "TechCrunch AI",
+    "slug": "apple-watch-s-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening"
   },
   {
-    "title": "(No AI) Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "pubDate": "2026-09-09T13:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![An image from Prime Video’s Maxton hall.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nMaxton Hall. | Image: Prime Video\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The [feature is only available](https://www.aboutamazon.com/news/entertainment/prime-video-lip-sync-technology) with the English dub of the German series _Maxton Hall_ for now, but Prime Video plans to expand it to \"additional titles\" in the future.\n\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. [Meta](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels) and [YouTube recently launched](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing) an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing)",
-    "contentSnippet": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\nRead the full story at The Verge.",
-    "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
-    "id": "https://www.theverge.com/?p=991809",
-    "isoDate": "2026-09-09T13:00:00.000Z",
+    "title": "(No AI) Suno releases its first AI music model made with record industry help",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "pubDate": "2026-09-09T21:42:19.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Suno v6 ai music model logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuno's new v6 [AI music model](https://suno.com/blog/introducing-v6) is its first made with support from the record industry. Suno's Jack Brody told _The Verge_ that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners [Warner Music Group](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal), [BMG](https://www.theverge.com/ai-artificial-intelligence/978232/suno-has-struck-a-global-alliance-with-the-music-company-bmg), and [Believe](https://suno.com/blog/believe-partnership), as well as \"[user data](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers).\" It's unclear whether that means v6 training data is completely free of [dubiously obtained content](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack).\n\nOne of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help)",
+    "contentSnippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content.\nOne of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res …\nRead the full story at The Verge.",
+    "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+    "id": "https://www.theverge.com/?p=991977",
+    "isoDate": "2026-09-09T21:42:19.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-prime-video-s-new-ai-tech-matches-lips-to-dubbed-audio"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+  },
+  {
+    "title": "(No AI) OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "pubDate": "2026-09-09T21:16:34.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpen AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary [Millennium Prize problems](https://www.claymath.org/millennium-problems/) should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how [rapidly AI is transforming mathematics](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun). But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that prompted OpenAI to pursue the problem: After hearing other researchers were making progress, it seems to have thrown its considerable resources into a last-minute effort to beat them to the punch. The ensuing controversy has surfaced allegations of scooping, spying …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)",
+    "contentSnippet": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that prompted OpenAI to pursue the problem: After hearing other researchers were making progress, it seems to have thrown its considerable resources into a last-minute effort to beat them to the punch. The ensuing controversy has surfaced allegations of scooping, spying …\nRead the full story at The Verge.",
+    "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+    "id": "https://www.theverge.com/?p=992953",
+    "isoDate": "2026-09-09T21:16:34.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-sly-mathematical-breakthrough-sends-a-chill-through-academia"
+  },
+  {
+    "title": "(No AI) GPT-6 Astra: The next generation in intelligence for work",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "pubDate": "Wed, 09 Sep 2026 11:00:00 GMT",
+    "content": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "contentSnippet": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "guid": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-09-09T11:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "gpt-6-astra-the-next-generation-in-intelligence-for-work"
   },
   {
     "title": "(No AI) Paul Christiano joins OpenAI Foundation Board",
@@ -78,20 +93,6 @@
     "isoDate": "2026-09-09T17:00:00.000Z",
     "source": "OpenAI",
     "slug": "paul-christiano-joins-openai-foundation-board"
-  },
-  {
-    "title": "(No AI) How GPT-5.6 Sol helps run quantum computing experiments",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
-    "content": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "contentSnippet": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "guid": "https://openai.com/index/codex-quantum-computing-experiments",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-09-08T17:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-gpt-5-6-sol-helps-run-quantum-computing-experiments"
   },
   {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -116,37 +117,39 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-    "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-    "pubDate": "Wed, 09 Sep 2026 18:30:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-    "contentSnippet": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-    "guid": "6a99c117ea54a6b9ca0b7009",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "pubDate": "Wed, 09 Sep 2026 22:11:55 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+    "contentSnippet": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+    "guid": "6aa18ecc989080f6e79c9e38",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-09T18:30:00.000Z",
+    "isoDate": "2026-09-09T22:11:55.000Z",
     "source": "Wired AI",
-    "slug": "i-let-an-ai-agent-hack-all-my-gadgets-and-i-d-do-it-again"
+    "slug": "the-ai-researcher-who-just-quit-anthropic-says-it-s-crunch-time-for-humanity"
   },
   {
-    "creator": "Lauren Goode",
-    "title": "(No AI) A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-    "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-    "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
-    "dc:creator": "Lauren Goode",
-    "content": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-    "contentSnippet": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-    "guid": "6a986e558a0ee29aae9e184f",
+    "creator": "Matt Burgess",
+    "title": "(No AI) San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+    "pubDate": "Wed, 09 Sep 2026 21:15:27 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+    "contentSnippet": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+    "guid": "6aa1a26ea58b3128b9c68bcb",
     "categories": [
-      "Business",
-      "Business / Startups"
+      "Security",
+      "Security / Privacy",
+      "Business / Artificial Intelligence",
+      "Business / Social Media"
     ],
-    "isoDate": "2026-09-09T13:00:00.000Z",
+    "isoDate": "2026-09-09T21:15:27.000Z",
     "source": "Wired AI",
-    "slug": "a-stealth-startup-thinks-it-just-hacked-the-memory-shortage"
+    "slug": "san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads"
   }
 ]
