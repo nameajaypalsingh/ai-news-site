@@ -1,49 +1,50 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) AI agents are flooding public services with new requests",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-    "contentSnippet": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-    "guid": "https://techcrunch.com/?p=3162667",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "contentSnippet": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "guid": "https://techcrunch.com/?p=3162739",
     "categories": [
       "AI",
-      "TC",
-      "government",
-      "research"
+      "AI agents",
+      "Anthropic"
     ],
-    "isoDate": "2026-09-10T14:53:50.000Z",
+    "isoDate": "2026-09-10T17:54:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-agents-are-flooding-public-services-with-new-requests"
+    "slug": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Maven Robotics wants to steal your robot deployment deal",
-    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-    "contentSnippet": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-    "guid": "https://techcrunch.com/?p=3162108",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "contentSnippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "guid": "https://techcrunch.com/?p=3162605",
     "categories": [
       "AI",
-      "Robotics",
-      "Exclusive"
+      "Media & Entertainment",
+      "Startups",
+      "Pocket Entertainment",
+      "Pocket FM"
     ],
-    "isoDate": "2026-09-10T14:17:37.000Z",
+    "isoDate": "2026-09-10T17:45:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "maven-robotics-wants-to-steal-your-robot-deployment-deal"
+    "slug": "india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content"
   },
   {
     "title": "(No AI) Universal Music is launching an AI music platform with ElevenLabs",
     "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
     "pubDate": "2026-09-10T15:38:19.000Z",
     "author": "Emma Roth",
-    "content": "![A fractured image of a person speaking into a microphone.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUniversal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an [announcement on Thursday](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/). The record label is developing the platform through a multi-year licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\n\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an [AI music platform with Udio](https://www.theverge.com/news/809882/universal-music-udio-settlement) and has struck [AI licensing deals with Spotify](https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix), [Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal), and [Kl …](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai)",
-    "contentSnippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multi-year licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Kl …\nRead the full story at The Verge.",
-    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multi-year licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+    "content": "![A fractured image of a person speaking into a microphone.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUniversal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an [announcement on Thursday](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/). The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\n\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an [AI music platform with Udio](https://www.theverge.com/news/809882/universal-music-udio-settlement) and has struck [AI licensing deals with Spotify](https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix), [Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal), and [Kla …](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai)",
+    "contentSnippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Kla …\nRead the full story at The Verge.",
+    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
     "id": "https://www.theverge.com/?p=993465",
     "isoDate": "2026-09-10T15:38:19.000Z",
     "source": "The Verge AI",
@@ -65,6 +66,20 @@
     "slug": "meta-s-muse-ai-works-and-creeps-me-out"
   },
   {
+    "title": "(No AI) How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+    "content": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "contentSnippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "guid": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "categories": [
+      "Applied AI"
+    ],
+    "isoDate": "2026-09-10T16:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules"
+  },
+  {
     "title": "(No AI) Now everyone can put data to work",
     "link": "https://openai.com/index/put-data-to-work",
     "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
@@ -77,20 +92,6 @@
     "isoDate": "2026-09-10T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "now-everyone-can-put-data-to-work"
-  },
-  {
-    "title": "(No AI) Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "content": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "contentSnippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "guid": "https://openai.com/index/expanding-ai-access-us-government",
-    "categories": [
-      "Global Affairs"
-    ],
-    "isoDate": "2026-09-10T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "expanding-ai-access-and-cyber-defense-for-federal-state-local-and-tribal-governments"
   },
   {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
