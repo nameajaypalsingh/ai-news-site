@@ -1,69 +1,74 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "contentSnippet": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "guid": "https://techcrunch.com/?p=3162739",
+    "creator": "Julie Bort",
+    "title": "(No AI) Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "contentSnippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "guid": "https://techcrunch.com/?p=3162873",
     "categories": [
       "AI",
-      "AI agents",
-      "Anthropic"
+      "Enterprise",
+      "TC",
+      "nvidia"
     ],
-    "isoDate": "2026-09-10T17:54:44.000Z",
+    "isoDate": "2026-09-10T21:51:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
+    "slug": "jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-    "contentSnippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-    "guid": "https://techcrunch.com/?p=3162605",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "contentSnippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "guid": "https://techcrunch.com/?p=3162704",
     "categories": [
       "AI",
+      "Biotech & Health",
+      "Fintech",
+      "Fundraising",
       "Media & Entertainment",
       "Startups",
-      "Pocket Entertainment",
-      "Pocket FM"
+      "TC",
+      "Venture",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-09-10T17:45:00.000Z",
+    "isoDate": "2026-09-10T21:35:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content"
+    "slug": "mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-talk-about-your-work-not-his"
   },
   {
-    "title": "(No AI) Universal Music is launching an AI music platform with ElevenLabs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "pubDate": "2026-09-10T15:38:19.000Z",
+    "title": "(No AI) Slack can now vibe-code interactive charts and reports inside chats",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "pubDate": "2026-09-10T21:25:21.000Z",
     "author": "Emma Roth",
-    "content": "![A fractured image of a person speaking into a microphone.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUniversal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an [announcement on Thursday](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/). The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\n\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an [AI music platform with Udio](https://www.theverge.com/news/809882/universal-music-udio-settlement) and has struck [AI licensing deals with Spotify](https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix), [Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal), and [Kla …](https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai)",
-    "contentSnippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Kla …\nRead the full story at The Verge.",
-    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
-    "id": "https://www.theverge.com/?p=993465",
-    "isoDate": "2026-09-10T15:38:19.000Z",
+    "content": "![An image of Slack Surfaces](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0,0,100,100)\n\nA new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With [Slackforce Surfaces](https://www.salesforce.com/slack/slack-surfaces-transforms-enterprise-data/), you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\n\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)",
+    "contentSnippet": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
+    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+    "id": "https://www.theverge.com/?p=989853",
+    "isoDate": "2026-09-10T21:25:21.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "universal-music-is-launching-an-ai-music-platform-with-elevenlabs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats"
   },
   {
-    "title": "(No AI) Meta’s Muse AI works and creeps me out",
-    "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-    "pubDate": "2026-09-10T15:00:00.000Z",
-    "author": "Emma Roth",
-    "content": "![A screenshot of Meta’s Muse AI assistant](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&strip=all&crop=0,0,100,100)\n\nI turned my Muse assistant into a purple cat. | Screenshot: The Verge\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The [company says](https://ai.meta.com/muse/) its AI agent can \"take the busywork off your plate\" by [helping you with online shopping](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race), emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - especially from a company that [previously prioritized entertainment](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race#:~:text=%E2%80%9CWe%20need%20to,uniquely%20do%20well.%E2%80%9D) over productivity. Though the AI assistant generally worked as I expected it to, the unnerving amount of information it autonomously gleaned about me largely overshadowed my experience.\n\nOne of the first tasks I assigned Muse, which carries out actions using …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)",
-    "contentSnippet": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.  I decided to try out the new tool and see how well it performed - especially from a company that previously prioritized entertainment over productivity. Though the AI assistant generally worked as I expected it to, the unnerving amount of information it autonomously gleaned about me largely overshadowed my experience.\nOne of the first tasks I assigned Muse, which carries out actions using …\nRead the full story at The Verge.",
-    "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
-    "id": "https://www.theverge.com/?p=993391",
-    "isoDate": "2026-09-10T15:00:00.000Z",
+    "title": "(No AI) Schools are catching on to Big Tech’s playbook",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "pubDate": "2026-09-10T19:44:20.000Z",
+    "author": "Lauren Feiner",
+    "content": "![laptop with an apple on a stack of books](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\n\nThat's the narrative AI companies are pitching schools on right now, but according to _New York Times_ education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\n\nIn a new book, _Coding Kids_, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)",
+    "contentSnippet": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
+    "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
+    "id": "https://www.theverge.com/?p=993308",
+    "isoDate": "2026-09-10T19:44:20.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-s-muse-ai-works-and-creeps-me-out"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "schools-are-catching-on-to-big-tech-s-playbook"
   },
   {
     "title": "(No AI) How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -116,6 +121,24 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Brian Barrett, Leah Feiger, Will Knight",
+    "title": "(No AI) Is AI Actually Going to Kill Us All?",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "pubDate": "Thu, 10 Sep 2026 20:30:37 +0000",
+    "dc:creator": "Brian Barrett, Leah Feiger, Will Knight",
+    "content": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+    "contentSnippet": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+    "guid": "6aa1efe41fbc971c9b4403e6",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Tech Culture"
+    ],
+    "isoDate": "2026-09-10T20:30:37.000Z",
+    "source": "Wired AI",
+    "slug": "is-ai-actually-going-to-kill-us-all"
+  },
+  {
     "creator": "David Nield",
     "title": "(No AI) Everything New You Can Do With Siri AI",
     "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
@@ -131,22 +154,5 @@
     "isoDate": "2026-09-10T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "everything-new-you-can-do-with-siri-ai"
-  },
-  {
-    "creator": "Dhruv Mehrotra",
-    "title": "(No AI) Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-    "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
-    "dc:creator": "Dhruv Mehrotra",
-    "content": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-    "contentSnippet": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-    "guid": "6aa178485ff5f87d9a4e6267",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-09-10T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "clearview-ai-is-testing-an-ai-tool-that-would-let-cops-unearth-your-life-online"
   }
 ]
