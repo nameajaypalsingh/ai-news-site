@@ -1,46 +1,46 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-    "contentSnippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-    "guid": "https://techcrunch.com/?p=3162873",
+    "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+    "title": "(No AI) An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+    "dc:creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+    "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.  On \\[…\\]",
+    "contentSnippet": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.  On […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
     "categories": [
       "AI",
-      "Enterprise",
-      "TC",
-      "Jensen Huang",
-      "nvidia"
+      "Startups",
+      "Anthropic",
+      "Apple",
+      "cognition",
+      "Equity podcast",
+      "SpaceX"
     ],
-    "isoDate": "2026-09-10T21:51:59.000Z",
+    "isoDate": "2026-09-11T18:41:49.000Z",
     "source": "TechCrunch AI",
-    "slug": "jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year"
+    "slug": "an-anthropic-researcher-s-doomsday-warning-comes-at-a-very-interesting-time"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "contentSnippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "guid": "https://techcrunch.com/?p=3162704",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "contentSnippet": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "guid": "https://techcrunch.com/?p=3163102",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Fintech",
-      "Fundraising",
-      "Media & Entertainment",
-      "Startups",
-      "Venture",
-      "TechCrunch Disrupt"
+      "Fidji Simo",
+      "In Brief",
+      "nscale",
+      "OpenAI",
+      "people moves"
     ],
-    "isoDate": "2026-09-10T21:35:00.000Z",
+    "isoDate": "2026-09-11T16:46:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wants-to-talk-about-your-work-not-his"
+    "slug": "nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo"
   },
   {
     "title": "(No AI) Meta says it’s changing AI suggestions after posing invasive personal questions",
@@ -71,6 +71,20 @@
     "slug": "slack-can-now-vibe-code-interactive-charts-and-reports-inside-chats"
   },
   {
+    "title": "(No AI) Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "content": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "contentSnippet": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "guid": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "categories": [
+      "Engineering"
+    ],
+    "isoDate": "2026-09-11T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users"
+  },
+  {
     "title": "(No AI) How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
@@ -83,20 +97,6 @@
     "isoDate": "2026-09-10T16:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules"
-  },
-  {
-    "title": "(No AI) Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-    "content": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "contentSnippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "guid": "https://openai.com/index/put-data-to-work",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-09-10T15:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "now-everyone-can-put-data-to-work"
   },
   {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -121,6 +121,23 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Dhruv Mehrotra",
+    "title": "(No AI) Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "pubDate": "Fri, 11 Sep 2026 18:59:25 +0000",
+    "dc:creator": "Dhruv Mehrotra",
+    "content": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+    "contentSnippet": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+    "guid": "6aa40fffad39288c906c2baf",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-09-11T18:59:25.000Z",
+    "source": "Wired AI",
+    "slug": "meta-sued-over-training-data-for-its-ai-and-face-recognition-systems"
+  },
+  {
     "creator": "Lauren Goode",
     "title": "(No AI) One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
     "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
@@ -136,22 +153,5 @@
     "isoDate": "2026-09-11T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "one-of-ai-s-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Why So Many AI Researchers Think the Machines Could Kill Everyone",
-    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-    "pubDate": "Fri, 11 Sep 2026 09:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-    "contentSnippet": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-    "guid": "6aa1ae63f598338e8d128f12",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-11T09:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "why-so-many-ai-researchers-think-the-machines-could-kill-everyone"
   }
 ]
