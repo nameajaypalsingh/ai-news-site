@@ -12,6 +12,7 @@
       "AI",
       "Enterprise",
       "TC",
+      "Jensen Huang",
       "nvidia"
     ],
     "isoDate": "2026-09-10T21:51:59.000Z",
@@ -121,6 +122,23 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "pubDate": "Thu, 10 Sep 2026 23:28:42 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "contentSnippet": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "guid": "6aa2f5da9bfef15e7a640b9f",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-09-10T23:28:42.000Z",
+    "source": "Wired AI",
+    "slug": "openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal"
+  },
+  {
     "creator": "Brian Barrett, Leah Feiger, Will Knight",
     "title": "(No AI) Is AI Actually Going to Kill Us All?",
     "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
@@ -137,22 +155,5 @@
     "isoDate": "2026-09-10T20:30:37.000Z",
     "source": "Wired AI",
     "slug": "is-ai-actually-going-to-kill-us-all"
-  },
-  {
-    "creator": "David Nield",
-    "title": "(No AI) Everything New You Can Do With Siri AI",
-    "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-    "pubDate": "Thu, 10 Sep 2026 10:30:00 +0000",
-    "dc:creator": "David Nield",
-    "content": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-    "contentSnippet": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-    "guid": "6a971655b7b1a625defc4dd9",
-    "categories": [
-      "Gear",
-      "Gear / How To and Advice"
-    ],
-    "isoDate": "2026-09-10T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "everything-new-you-can-do-with-siri-ai"
   }
 ]
