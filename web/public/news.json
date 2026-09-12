@@ -1,12 +1,31 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Anthropic CEO outlines plan to ‘pace the frontier’",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "pubDate": "Sat, 12 Sep 2026 15:52:11 +0000",
+    "title": "(No AI) OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "What would it actually look like to \"pace the frontier\"?",
-    "contentSnippet": "What would it actually look like to \"pace the frontier\"?",
+    "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "contentSnippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "guid": "https://techcrunch.com/?p=3163386",
+    "categories": [
+      "AI",
+      "Fundraising",
+      "OpenAI",
+      "sam altman"
+    ],
+    "isoDate": "2026-09-12T20:19:16.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+  },
+  {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic CEO outlines plan to slow AI development",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "contentSnippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
     "guid": "https://techcrunch.com/?p=3163373",
     "categories": [
       "AI",
@@ -14,28 +33,23 @@
       "Anthropic",
       "dario amodei"
     ],
-    "isoDate": "2026-09-12T15:52:11.000Z",
+    "isoDate": "2026-09-12T19:34:44.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-ceo-outlines-plan-to-pace-the-frontier"
+    "slug": "anthropic-ceo-outlines-plan-to-slow-ai-development"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "contentSnippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "guid": "https://techcrunch.com/?p=3163323",
-    "categories": [
-      "AI",
-      "Robotics",
-      "Exclusive",
-      "Sequoia"
-    ],
-    "isoDate": "2026-09-11T22:58:17.000Z",
-    "source": "TechCrunch AI",
-    "slug": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
+    "title": "(No AI) Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "pubDate": "2026-09-12T21:16:28.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an [interview](https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/) with _[Fortune](https://youtu.be/2my-NU6LuCM)_. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\n> \"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)",
+    "contentSnippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
+    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+    "id": "https://www.theverge.com/?p=994384",
+    "isoDate": "2026-09-12T21:16:28.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sam-altman-says-openai-going-public-in-2026-would-be-ill-advised"
   },
   {
     "title": "(No AI) Anthropic CEO says it’s time to pump the brakes on AI",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai"
-  },
-  {
-    "title": "(No AI) Trump is giving data centers a pass to pollute",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "pubDate": "2026-09-12T14:41:27.000Z",
-    "author": "Justine Calma",
-    "content": "![Photo collage of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPresident Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new [report](https://www.environmentalprotectionnetwork.org/new-report-ai-data-center-boom-poses-growing-health-risks-as-epa-other-federal-agencies-weaken-protections-against-harmful-pollution/). They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection Pledge\" to signal that the administration is taking the environmental threat seriously.\n\nAt the start of his term, Trump's EPA administrator, Lee Zeldin, [proclaimed his goal of making America](https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin) \"[the AI capital of the world](https://www.epa.gov/newsreleases/icymi-administrator-zeldin-fox-news-trumps-epa-clearing-regulatory-path-america)\" through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)",
-    "contentSnippet": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection Pledge\" to signal that the administration is taking the environmental threat seriously. \nAt the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America \"the AI capital of the world\" through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules  …\nRead the full story at The Verge.",
-    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
-    "id": "https://www.theverge.com/?p=994112",
-    "isoDate": "2026-09-12T14:41:27.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-is-giving-data-centers-a-pass-to-pollute"
   },
   {
     "title": "(No AI) Perplexity trusts GPT-6 Astra with end-to-end systems",
