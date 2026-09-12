@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic CEO outlines plan to ‘pace the frontier’",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "pubDate": "Sat, 12 Sep 2026 15:52:11 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "What would it actually look like to \"pace the frontier\"?",
+    "contentSnippet": "What would it actually look like to \"pace the frontier\"?",
+    "guid": "https://techcrunch.com/?p=3163373",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "dario amodei"
+    ],
+    "isoDate": "2026-09-12T15:52:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-ceo-outlines-plan-to-pace-the-frontier"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -19,24 +38,18 @@
     "slug": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "contentSnippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "guid": "https://techcrunch.com/?p=3163179",
-    "categories": [
-      "AI",
-      "TC",
-      "Venture",
-      "garry tan",
-      "Y Combinator"
-    ],
-    "isoDate": "2026-09-11T20:59:47.000Z",
-    "source": "TechCrunch AI",
-    "slug": "y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too"
+    "title": "(No AI) Anthropic CEO says it’s time to pump the brakes on AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "pubDate": "2026-09-12T16:23:40.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A digital brain on a leash.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like [METR](https://metr.org/) access to its models to help ensure its \"adherence to safety practices and commitments.\" In a [winding essay](https://darioamodei.com/post/we-must-pace-the-frontier#pacing-within-democracies), Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\n\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is [taking now unilaterally](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity). Step two would involve the industry coming together as a whole, likely with gove …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)",
+    "contentSnippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
+    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+    "id": "https://www.theverge.com/?p=994337",
+    "isoDate": "2026-09-12T16:23:40.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai"
   },
   {
     "title": "(No AI) Trump is giving data centers a pass to pollute",
@@ -51,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "trump-is-giving-data-centers-a-pass-to-pollute"
-  },
-  {
-    "title": "(No AI) OpenAI just wants to win",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "pubDate": "2026-09-12T11:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![A trophy with OpenAI’s logo on it](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\n\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition)",
-    "contentSnippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
-    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
-    "id": "https://www.theverge.com/?p=994255",
-    "isoDate": "2026-09-12T11:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-just-wants-to-win"
   },
   {
     "title": "(No AI) Perplexity trusts GPT-6 Astra with end-to-end systems",
