@@ -1,12 +1,31 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "contentSnippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "guid": "https://techcrunch.com/?p=3163323",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Exclusive",
+      "Sequoia"
+    ],
+    "isoDate": "2026-09-11T22:58:17.000Z",
+    "source": "TechCrunch AI",
+    "slug": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
+  },
+  {
     "creator": "Julie Bort",
-    "title": "(No AI) Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+    "title": "(No AI) Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
-    "contentSnippet": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+    "content": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "contentSnippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "guid": "https://techcrunch.com/?p=3163179",
     "categories": [
       "AI",
@@ -17,23 +36,7 @@
     ],
     "isoDate": "2026-09-11T20:59:47.000Z",
     "source": "TechCrunch AI",
-    "slug": "y-combinator-s-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "contentSnippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "guid": "https://techcrunch.com/?p=3163181",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-09-11T20:57:36.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-s-feud-with-mathematicians-is-only-escalating"
+    "slug": "y-combinator-s-garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too"
   },
   {
     "title": "(No AI) Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
@@ -64,6 +67,17 @@
     "slug": "anthropic-spent-this-week-in-hot-water-over-cybersecurity"
   },
   {
+    "title": "(No AI) Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "content": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "contentSnippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "guid": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "isoDate": "2026-09-14T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
+  },
+  {
     "title": "(No AI) Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
@@ -76,20 +90,6 @@
     "isoDate": "2026-09-11T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users"
-  },
-  {
-    "title": "(No AI) How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "content": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "contentSnippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "guid": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "categories": [
-      "Applied AI"
-    ],
-    "isoDate": "2026-09-10T16:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-antimicrobial-molecules"
   },
   {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
