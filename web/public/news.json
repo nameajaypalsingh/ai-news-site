@@ -113,6 +113,23 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Molly Taft",
+    "title": "(No AI) AI Agents Are Thirsty for Power",
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "pubDate": "Sun, 13 Sep 2026 10:00:00 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "contentSnippet": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "guid": "6aa2ae4185a64f1534d84791",
+    "categories": [
+      "Science",
+      "Science / Environment"
+    ],
+    "isoDate": "2026-09-13T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-agents-are-thirsty-for-power"
+  },
+  {
     "creator": "Andy Greenberg, Lily Hay Newman, Dell Cameron",
     "title": "(No AI) From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
@@ -128,22 +145,5 @@
     "isoDate": "2026-09-12T10:30:00.000Z",
     "source": "Wired AI",
     "slug": "from-hacks-to-bioweapons-claude-misuse-is-now-everywhere"
-  },
-  {
-    "creator": "Dhruv Mehrotra",
-    "title": "(No AI) Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-    "pubDate": "Fri, 11 Sep 2026 18:59:25 +0000",
-    "dc:creator": "Dhruv Mehrotra",
-    "content": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-    "contentSnippet": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-    "guid": "6aa40fffad39288c906c2baf",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-09-11T18:59:25.000Z",
-    "source": "Wired AI",
-    "slug": "meta-sued-over-training-data-for-its-ai-and-face-recognition-systems"
   }
 ]
