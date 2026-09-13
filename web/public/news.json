@@ -1,6 +1,25 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "contentSnippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "guid": "https://techcrunch.com/?p=3163449",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "Equity podcast",
+      "OpenAI"
+    ],
+    "isoDate": "2026-09-13T19:40:15.000Z",
+    "source": "TechCrunch AI",
+    "slug": "what-s-behind-the-ai-industry-s-latest-warnings-of-doom"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
@@ -19,23 +38,18 @@
     "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "contentSnippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "guid": "https://techcrunch.com/?p=3163386",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "OpenAI",
-      "sam altman"
-    ],
-    "isoDate": "2026-09-12T20:19:16.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-s-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+    "title": "(No AI) Trump and Mike Johnson think the AI industry is overreacting",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "pubDate": "2026-09-13T19:41:48.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A photo of Donald Trump with an illustrated background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday, Anthropic CEO Dario Amodei published a [lengthy open letter](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's [Sam Altman](https://x.com/sama/status/2098811563415150910) and [Elon Musk](https://x.com/elonmusk/status/2098789109980332057) both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered [tentative support](https://x.com/demishassabis/status/2098909516582490602) for Amodei's proposal.\n\nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being [overreactive](https://www.wsj.com/tech/ai/trump-defends-white-houses-light-touch-on-ai-regulation-c4ed2488) and fear that a pause could lead to China outpacing the US in the AI race. According to the _[Financial Times](https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed)_, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\n\nJo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)",
+    "contentSnippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
+    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+    "id": "https://www.theverge.com/?p=994441",
+    "isoDate": "2026-09-13T19:41:48.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-and-mike-johnson-think-the-ai-industry-is-overreacting"
   },
   {
     "title": "(No AI) OpenAI’s rogue AI tried to hack another company in May",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "openai-s-rogue-ai-tried-to-hack-another-company-in-may"
-  },
-  {
-    "title": "(No AI) Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "pubDate": "2026-09-12T21:16:28.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an [interview](https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/) with _[Fortune](https://youtu.be/2my-NU6LuCM)_. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\n> \"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)",
-    "contentSnippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
-    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
-    "id": "https://www.theverge.com/?p=994384",
-    "isoDate": "2026-09-12T21:16:28.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sam-altman-says-openai-going-public-in-2026-would-be-ill-advised"
   },
   {
     "title": "(No AI) Perplexity trusts GPT-6 Astra with end-to-end systems",
