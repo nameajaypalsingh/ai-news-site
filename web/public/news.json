@@ -38,6 +38,20 @@
     "slug": "anthropic-ceo-outlines-plan-to-slow-ai-development"
   },
   {
+    "title": "(No AI) OpenAI’s rogue AI tried to hack another company in May",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "pubDate": "2026-09-12T21:41:36.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Maroon OpenAI logo on yellow background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now [independent researchers](https://www.rubyhack.ai/) have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys.\n\nAt the time, RubyGems described it as a \"[major malicious attack](https://x.com/maciejmensfeld/status/2054164602577940619)\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)",
+    "contentSnippet": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+    "id": "https://www.theverge.com/?p=994383",
+    "isoDate": "2026-09-12T21:41:36.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-s-rogue-ai-tried-to-hack-another-company-in-may"
+  },
+  {
     "title": "(No AI) Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
     "pubDate": "2026-09-12T21:16:28.000Z",
@@ -50,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "sam-altman-says-openai-going-public-in-2026-would-be-ill-advised"
-  },
-  {
-    "title": "(No AI) Anthropic CEO says it’s time to pump the brakes on AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "pubDate": "2026-09-12T16:23:40.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![A digital brain on a leash.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like [METR](https://metr.org/) access to its models to help ensure its \"adherence to safety practices and commitments.\" In a [winding essay](https://darioamodei.com/post/we-must-pace-the-frontier#pacing-within-democracies), Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\n\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is [taking now unilaterally](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity). Step two would involve the industry coming together as a whole, likely with gove …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)",
-    "contentSnippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models.\nAmodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove …\nRead the full story at The Verge.",
-    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
-    "id": "https://www.theverge.com/?p=994337",
-    "isoDate": "2026-09-12T16:23:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai"
   },
   {
     "title": "(No AI) Perplexity trusts GPT-6 Astra with end-to-end systems",
