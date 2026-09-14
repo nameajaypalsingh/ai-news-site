@@ -113,6 +113,23 @@
     "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) ‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+    "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "pubDate": "Mon, 14 Sep 2026 09:00:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+    "contentSnippet": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+    "guid": "6a9585f1b479cd2d026f6fc0",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-09-14T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "i-like-my-big-rat-wife-meet-the-people-using-chatbots-to-write-custom-fiction"
+  },
+  {
     "creator": "Molly Taft",
     "title": "(No AI) AI Agents Are Thirsty for Power",
     "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
@@ -128,22 +145,5 @@
     "isoDate": "2026-09-13T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-agents-are-thirsty-for-power"
-  },
-  {
-    "creator": "Andy Greenberg, Lily Hay Newman, Dell Cameron",
-    "title": "(No AI) From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-    "pubDate": "Sat, 12 Sep 2026 10:30:00 +0000",
-    "dc:creator": "Andy Greenberg, Lily Hay Newman, Dell Cameron",
-    "content": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-    "contentSnippet": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-    "guid": "6aa461bc4de88ba2f8bc1d47",
-    "categories": [
-      "Security",
-      "Security / Security News"
-    ],
-    "isoDate": "2026-09-12T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "from-hacks-to-bioweapons-claude-misuse-is-now-everywhere"
   }
 ]
