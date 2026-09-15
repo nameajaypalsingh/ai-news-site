@@ -1,47 +1,41 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "contentSnippet": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "guid": "https://techcrunch.com/?p=3164278",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) The AI data center boom is colliding with cities scarred by big industry ",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "contentSnippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "guid": "https://techcrunch.com/?p=3164506",
     "categories": [
-      "AI",
-      "Government & Policy",
-      "Anthropic",
-      "dario amodei",
-      "Demis Hassabis",
-      "google deepmind",
-      "OpenAI",
-      "sam altman"
+      "Climate",
+      "AI"
     ],
-    "isoDate": "2026-09-15T15:47:03.000Z",
+    "isoDate": "2026-09-15T21:47:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks"
+    "slug": "the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry"
   },
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "contentSnippet": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "guid": "https://techcrunch.com/?p=3164139",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "contentSnippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "guid": "https://techcrunch.com/?p=3164453",
     "categories": [
       "AI",
-      "Commerce",
-      "Fundraising",
-      "Startups",
-      "generative engine optimization",
-      "In Brief"
+      "Social",
+      "mcp",
+      "Meta",
+      "WhatsApp",
+      "whatsapp business"
     ],
-    "isoDate": "2026-09-15T15:22:48.000Z",
+    "isoDate": "2026-09-15T20:12:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round"
+    "slug": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup"
   },
   {
     "title": "(No AI) Meta’s new One subscriptions put a price on social media and AI",
@@ -97,6 +91,17 @@
     "slug": "perplexity-trusts-gpt-6-astra-with-end-to-end-systems"
   },
   {
+    "title": "(No AI) Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "pubDate": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "isoDate": "2026-09-15T17:05:57.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+  },
+  {
     "title": "(No AI) AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "pubDate": "Tue, 08 Sep 2026 14:00:15 +0000",
@@ -108,15 +113,21 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
-    "title": "(No AI) Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "isoDate": "2026-09-03T15:02:08.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
+    "creator": "Miles Klee",
+    "title": "(No AI) AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "pubDate": "Tue, 15 Sep 2026 18:00:09 +0000",
+    "dc:creator": "Miles Klee",
+    "content": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+    "contentSnippet": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+    "guid": "6aa43111edca0293d40e617f",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-09-15T18:00:09.000Z",
+    "source": "Wired AI",
+    "slug": "ai-actor-tilly-norwood-told-me-that-all-lives-matter"
   },
   {
     "creator": "Matt Burgess",
@@ -134,22 +145,5 @@
     "isoDate": "2026-09-14T16:50:00.000Z",
     "source": "Wired AI",
     "slug": "new-york-seizes-a-dozen-celebrity-deepfake-websites"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-    "pubDate": "Mon, 14 Sep 2026 11:00:00 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-    "contentSnippet": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-    "guid": "6aa7ba5ebd1baa3b3b2e94a7",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-14T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-leaders-are-calling-for-a-slowdown-trump-s-team-says-it-s-on-them"
   }
 ]
