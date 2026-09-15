@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "contentSnippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "guid": "https://techcrunch.com/?p=3164024",
+    "categories": [
+      "AI",
+      "Hardware",
+      "TC"
+    ],
+    "isoDate": "2026-09-15T01:50:48.000Z",
+    "source": "TechCrunch AI",
+    "slug": "jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
@@ -10,7 +28,7 @@
     "guid": "https://techcrunch.com/?p=3163882",
     "categories": [
       "AI",
-      "TC",
+      "Government & Policy",
       "Donald Trump",
       "Jensen Huang",
       "nvidia"
@@ -20,24 +38,18 @@
     "slug": "nvidia-ceo-jensen-huang-tells-trump-we-re-not-going-to-let-an-ai-slowdown-happen"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-    "contentSnippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-    "guid": "https://techcrunch.com/?p=3163844",
-    "categories": [
-      "AI",
-      "Hardware",
-      "In Brief",
-      "Mergers and Acquisitions",
-      "OpenAI"
-    ],
-    "isoDate": "2026-09-14T20:44:14.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
+    "title": "(No AI) Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "pubDate": "2026-09-14T22:59:41.000Z",
+    "author": "Hayden Field",
+    "content": "![Enlightened robots standing next to each other.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - [some](https://www.tiktok.com/t/ZTUCseghH/) dubbed it an outright \"cartel.\"\n\nThe truth …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)",
+    "contentSnippet": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+    "id": "https://www.theverge.com/?p=995186",
+    "isoDate": "2026-09-14T22:59:41.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "is-big-tech-s-ai-slowdown-a-safety-pact-or-a-cartel"
   },
   {
     "title": "(No AI) What execs and politicians are saying about slowing down AI development",
@@ -52,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "what-execs-and-politicians-are-saying-about-slowing-down-ai-development"
-  },
-  {
-    "title": "(No AI) Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "pubDate": "2026-09-14T20:03:37.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has [taken a call from the president](https://www.theverge.com/tech/986389/oops-hot-mic) during work, but this time he put Trump on speakerphone before a big crowd.\n\nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\"\n\nIt's already a [frothy week](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled [\"We Must Pace the Frontier\"](https://darioamodei.com/post/we-must-pace-the-frontier) where he argued for slowing …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)",
-    "contentSnippet": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. \nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\" \nIt's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled \"We Must Pace the Frontier\" where he argued for slowing  …\nRead the full story at The Verge.",
-    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
-    "id": "https://www.theverge.com/?p=995079",
-    "isoDate": "2026-09-14T20:03:37.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "jensen-huang-puts-trump-on-speakerphone-onstage-to-announce-robots-won-t-take-over-the-world"
   },
   {
     "title": "(No AI) How Fyxer built an AI executive assistant people trust",
