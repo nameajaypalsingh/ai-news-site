@@ -1,44 +1,43 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "contentSnippet": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "guid": "https://techcrunch.com/?p=3164631",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "contentSnippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "guid": "https://techcrunch.com/?p=3165076",
     "categories": [
-      "Startups",
       "AI",
-      "Robotics",
-      "nvidia",
-      "TechCrunch Disrupt"
+      "OpenAI",
+      "Anthropic",
+      "dario amodei",
+      "ai safety"
     ],
-    "isoDate": "2026-09-16T15:00:00.000Z",
+    "isoDate": "2026-09-16T21:07:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "robots-are-waiting-for-a-chatgpt-moment-nvidia-s-les-karpas-explains-why-at-techcrunch-disrupt-2026"
+    "slug": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Threads’ new features let podcasters promote shows and reach listeners",
-    "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-    "pubDate": "Wed, 16 Sep 2026 14:24:58 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-    "contentSnippet": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-    "guid": "https://techcrunch.com/?p=3164799",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "contentSnippet": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "guid": "https://techcrunch.com/?p=3164997",
     "categories": [
       "AI",
-      "Social",
+      "In Brief",
       "Meta",
-      "podcasts",
-      "social media",
-      "Threads"
+      "SMART Glasses",
+      "smartglasses"
     ],
-    "isoDate": "2026-09-16T14:24:58.000Z",
+    "isoDate": "2026-09-16T20:12:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "threads-new-features-let-podcasters-promote-shows-and-reach-listeners"
+    "slug": "after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera"
   },
   {
     "title": "(No AI) The sexy AI-powered dating app scams are here",
@@ -59,13 +58,13 @@
     "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
     "pubDate": "2026-09-16T12:00:00.000Z",
     "author": "Sean Hollister",
-    "content": "![Elon Musk, Sundar Pichai, Sam Altman, and Dario Amodei](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOver the past few days, a lot of people who stand to make a lot of money from AI all [publicly agreed](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.\n\nWhen people who profit from something declare that it's dangerous and needs to be regulated, [there's always reason to be skeptical](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel). But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm.\n\nCharles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)",
+    "content": "![H.A.L.-style glowing red digital eye over a textured digital backdrop.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nOver the past few days, a lot of people who stand to make a lot of money from AI all [publicly agreed](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.\n\nWhen people who profit from something declare that it's dangerous and needs to be regulated, [there's always reason to be skeptical](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel). But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm.\n\nCharles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)",
     "contentSnippet": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.\nWhen people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. \nCharles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen …\nRead the full story at The Verge.",
     "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
     "id": "https://www.theverge.com/?p=995534",
     "isoDate": "2026-09-16T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "a-brief-history-of-ai-executives-calling-for-regulation"
   },
   {
@@ -119,37 +118,37 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
-    "creator": "Louise Matsakis",
-    "title": "(No AI) China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-    "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-    "pubDate": "Wed, 16 Sep 2026 09:30:00 +0000",
-    "dc:creator": "Louise Matsakis",
-    "content": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-    "contentSnippet": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-    "guid": "6aa82f6b6d59a577994203c4",
+    "creator": "Maxwell Zeff",
+    "title": "(No AI) OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "pubDate": "Wed, 16 Sep 2026 22:07:24 +0000",
+    "dc:creator": "Maxwell Zeff",
+    "content": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "contentSnippet": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "guid": "6aaadab9f7b6740fa1cfa011",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-16T09:30:00.000Z",
+    "isoDate": "2026-09-16T22:07:24.000Z",
     "source": "Wired AI",
-    "slug": "china-isn-t-buying-silicon-valley-s-call-for-an-ai-slowdown"
+    "slug": "openai-creates-a-new-framework-to-disclose-bad-ai-behavior"
   },
   {
-    "creator": "Miles Klee",
-    "title": "(No AI) AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "pubDate": "Tue, 15 Sep 2026 18:00:09 +0000",
-    "dc:creator": "Miles Klee",
-    "content": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-    "contentSnippet": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-    "guid": "6aa43111edca0293d40e617f",
+    "creator": "Hugo Lowell",
+    "title": "(No AI) Washington Won’t Be Regulating AI Anytime Soon",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "pubDate": "Wed, 16 Sep 2026 21:00:00 +0000",
+    "dc:creator": "Hugo Lowell",
+    "content": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "contentSnippet": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "guid": "6aa7f834acf46bff2d9b3648",
     "categories": [
-      "Culture",
-      "Culture / Digital Culture"
+      "Politics",
+      "Politics / Politics News"
     ],
-    "isoDate": "2026-09-15T18:00:09.000Z",
+    "isoDate": "2026-09-16T21:00:00.000Z",
     "source": "Wired AI",
-    "slug": "ai-actor-tilly-norwood-told-me-that-all-lives-matter"
+    "slug": "washington-won-t-be-regulating-ai-anytime-soon"
   }
 ]
