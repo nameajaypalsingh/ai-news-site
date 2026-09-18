@@ -1,70 +1,69 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The round values the data center giant at $30.9 billion.",
-    "contentSnippet": "The round values the data center giant at $30.9 billion.",
-    "guid": "https://techcrunch.com/?p=3165830",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "contentSnippet": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "guid": "https://techcrunch.com/?p=3165970",
+    "categories": [
+      "Startups",
+      "AI",
+      "nvidia",
+      "TechCrunch Disrupt"
+    ],
+    "isoDate": "2026-09-18T15:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "open-or-closed-ai-nvidia-s-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026"
+  },
+  {
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "contentSnippet": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "guid": "https://techcrunch.com/?p=3166065",
     "categories": [
       "AI",
-      "Hardware",
-      "Venture",
-      "data centers",
-      "crusoe"
+      "Apps",
+      "Meta",
+      "muse"
     ],
-    "isoDate": "2026-09-17T23:25:52.000Z",
+    "isoDate": "2026-09-18T15:22:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories"
+    "slug": "meta-s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Google DeepMind launches institute to widen the AGI debate",
-    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-    "contentSnippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-    "guid": "https://techcrunch.com/?p=3165803",
-    "categories": [
-      "AI",
-      "artificial general intelligence",
-      "Google",
-      "google deepmind"
-    ],
-    "isoDate": "2026-09-17T23:21:17.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-deepmind-launches-institute-to-widen-the-agi-debate"
-  },
-  {
-    "title": "(No AI) The AI Superintelligence Slowdown",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-    "pubDate": "2026-09-17T19:28:24.000Z",
-    "author": "Sean Hollister",
-    "content": "![H.A.L. style glowing red digital eye over a textured digital backdrop.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nRemember when tech leaders would tell their employees to [“move fast and break things”?](https://www.businessinsider.com/mark-zuckerberg-innovation-2009-10?r=US&IR=T) It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned [that AI could kill us all](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans), a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\n\n[Their motivations are suspect](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel), but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\n\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like [they claim to have wanted for years](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\n\n_Read on below for the latest updates in this AI saga._\n\n*   [Anthropic proposes three rules for measuring AI progress.](https://www.theverge.com/ai-artificial-intelligence/997296/anthropic-proposes-three-rules-for-measuring-ai-progress)\n*   [King Charles says AI needs “sufficient means of control before it is all too late.”](https://www.theverge.com/ai-artificial-intelligence/997219/king-charles-says-ai-needs-sufficient-means-of-control-before-it-is-all-too-late)\n*   [Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)\n*   [OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.](https://www.theverge.com/ai-artificial-intelligence/996748/openai-reveals-six-more-concerning-ai-incidents-under-its-new-rules-for-reporting-safety-issues)\n*   [Jensen Huang sure is getting cozy with Trump.](https://www.theverge.com/policy/996211/jensen-huang-trump-state-dinner)\n*   [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)\n*   [Two Google Deepmind researchers lend voices to the AI apocalypse.](https://www.theverge.com/ai-artificial-intelligence/996167/two-google-deepmind-researchers-lend-voices-to-the-ai-apocalypse)\n*   [Guy getting super rich off unfettered AI development says it doesn’t need regulation.](https://www.theverge.com/ai-artificial-intelligence/996127/guy-getting-super-rich-off-unfettered-ai-development-says-it-doesnt-need-regulation)\n*   [Zuck doesn’t want to press pause on AI.](https://www.theverge.com/policy/995996/zuck-doesnt-want-to-press-pause-on-ai)\n*   [Barack Obama takes the middle way on AI.](https://www.theverge.com/ai-artificial-intelligence/995576/obama-ai-comments)\n*   [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)\n*   [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)\n*   [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)\n*   [China: AI CEOs are “fear mongering.”](https://www.theverge.com/ai-artificial-intelligence/994580/china-ai-ceos-are-fear-mongering)\n*   [Sam Altman: Let’s slow down.](https://www.theverge.com/ai-artificial-intelligence/994562/sam-altman-lets-slow-down-without-slowing-down)\n*   [Is it time for AI companies to press pause?](https://www.theverge.com/ai-artificial-intelligence/994424/is-it-time-for-ai-companies-to-press-pause)\n*   [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)\n*   [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)",
-    "contentSnippet": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\nTheir motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\nRead on below for the latest updates in this AI saga.\nAnthropic proposes three rules for measuring AI progress.\n\t\t\t\nKing Charles says AI needs “sufficient means of control before it is all too late.”\n\t\t\t\nMicrosoft AI CEO says AI threats are real, and Anthropic is making it worse\n\t\t\t\nOpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.\n\t\t\t\nJensen Huang sure is getting cozy with Trump.\n\t\t\t\nA brief history of AI executives calling for regulation\n\t\t\t\nTwo Google Deepmind researchers lend voices to the AI apocalypse.\n\t\t\t\nGuy getting super rich off unfettered AI development says it doesn’t need regulation.\n\t\t\t\nZuck doesn’t want to press pause on AI.\n\t\t\t\nBarack Obama takes the middle way on AI.\n\t\t\t\nIs Big Tech’s AI slowdown a safety pact or a cartel?\n\t\t\t\nWhat execs and politicians are saying about slowing down AI development\n\t\t\t\nMicrosoft says ‘people matter more than AI’ following safety concerns\n\t\t\t\nChina: AI CEOs are “fear mongering.”\n\t\t\t\nSam Altman: Let’s slow down.\n\t\t\t\nIs it time for AI companies to press pause?\n\t\t\t\nSam Altman says OpenAI going public in 2026 would be ‘ill-advised’\n\t\t\t\nAnthropic CEO says it’s time to pump the brakes on AI",
-    "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=996923",
-    "isoDate": "2026-09-17T19:28:24.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-ai-superintelligence-slowdown"
-  },
-  {
-    "title": "(No AI) Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-    "pubDate": "2026-09-17T18:58:05.000Z",
+    "title": "(No AI) Security researchers used Claude to help them hack into OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "pubDate": "2026-09-18T15:30:16.000Z",
     "author": "Stevie Bonifield",
-    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe revamped [projects feature](https://claude.com/blog/projects-redesigned) in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to [Grok Bot](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch) and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything:\n\n> Under the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)",
-    "contentSnippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: \nUnder the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work …\n\nRead the full story at The Verge.",
-    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
-    "id": "https://www.theverge.com/?p=997134",
-    "isoDate": "2026-09-17T18:58:05.000Z",
+    "content": "![Robot hacker typing on a keyboard.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nA team of three independent security researchers at [Hacktron](https://www.hacktron.ai/blog/hacking-openai#versions-affected-and-patches) says it took [less than 72 hours](https://x.com/S1r1u5_/status/2100777801335095383?s=20) for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the [_Wall Street Journal_](https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883) reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the _Wall Street Journal_'s sources.\n\nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)",
+    "contentSnippet": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
+    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the [&#8230;]",
+    "id": "https://www.theverge.com/?p=997444",
+    "isoDate": "2026-09-18T15:30:16.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "claude-code-relaunches-projects-to-manage-multiple-ai-agents-in-the-cloud"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "security-researchers-used-claude-to-help-them-hack-into-openai"
+  },
+  {
+    "title": "(No AI) Flash floods can strike without warning — this new technology could change that",
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "pubDate": "2026-09-18T11:00:00.000Z",
+    "author": "Megan Wollerton",
+    "content": "![Flash flood](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard.\n\n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\n\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within [just a few hours that day](https://www.wlky.com/article/lanesville-indiana-corydon-flooding-rain-evacuations/71536533), way over [the thre …](https://glossary.ametsoc.org/wiki/rain/)\n\n[Read the full story at The Verge.](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)",
+    "contentSnippet": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the thre …\nRead the full story at The Verge.",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+    "id": "https://www.theverge.com/?p=997083",
+    "isoDate": "2026-09-18T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "flash-floods-can-strike-without-warning-this-new-technology-could-change-that"
   },
   {
     "title": "(No AI) How Cooley is accelerating IPO work with ChatGPT",
@@ -114,37 +113,36 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Here’s What the AI Apocalypse Could Look Like",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-    "pubDate": "Thu, 17 Sep 2026 22:20:21 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-    "contentSnippet": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-    "guid": "6aaafc193814031c9547cb9e",
+    "creator": "Hugo Lowell",
+    "title": "(No AI) AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+    "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+    "pubDate": "Fri, 18 Sep 2026 15:00:08 +0000",
+    "dc:creator": "Hugo Lowell",
+    "content": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+    "contentSnippet": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+    "guid": "6aa7fcf6306110d62e11cf8c",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Politics"
     ],
-    "isoDate": "2026-09-17T22:20:21.000Z",
+    "isoDate": "2026-09-18T15:00:08.000Z",
     "source": "Wired AI",
-    "slug": "here-s-what-the-ai-apocalypse-could-look-like"
+    "slug": "ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race"
   },
   {
-    "creator": "Maddy Varner",
-    "title": "(No AI) The AI ‘Slowdown’ Is an Antitrust Mess",
-    "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-    "pubDate": "Thu, 17 Sep 2026 19:58:28 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-    "contentSnippet": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-    "guid": "6aaaac63b59fdcc43578b89d",
+    "creator": "Steven Levy",
+    "title": "(No AI) If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+    "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+    "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+    "contentSnippet": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+    "guid": "6aac2db5bdb5a3fcf07dbefb",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-09-17T19:58:28.000Z",
+    "isoDate": "2026-09-18T15:00:00.000Z",
     "source": "Wired AI",
-    "slug": "the-ai-slowdown-is-an-antitrust-mess"
+    "slug": "if-the-ai-industry-followed-its-own-research-it-might-have-paused-already"
   }
 ]
