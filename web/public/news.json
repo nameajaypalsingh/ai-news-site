@@ -1,49 +1,48 @@
 [
   {
     "creator": "Tim Fernholz",
-    "title": "(No AI) A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+    "title": "(No AI) Anthropic’s first embedded evaluator is … Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-    "contentSnippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-    "guid": "https://techcrunch.com/?p=3165837",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-09-18T18:49:30.000Z",
-    "source": "TechCrunch AI",
-    "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-    "contentSnippet": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-    "guid": "https://techcrunch.com/?p=3166240",
+    "content": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "contentSnippet": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "guid": "https://techcrunch.com/?p=3166479",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "TC",
-      "character.ai",
-      "Disney",
-      "entertainment"
+      "Accenture",
+      "Anthropic"
     ],
-    "isoDate": "2026-09-18T17:59:53.000Z",
+    "isoDate": "2026-09-18T21:44:33.000Z",
     "source": "TechCrunch AI",
-    "slug": "disney-s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters"
+    "slug": "anthropic-s-first-embedded-evaluator-is-accenture"
+  },
+  {
+    "creator": "Russell Brandom",
+    "title": "(No AI) World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "contentSnippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "guid": "https://techcrunch.com/?p=3166196",
+    "categories": [
+      "AI",
+      "TC",
+      "world models"
+    ],
+    "isoDate": "2026-09-18T20:18:14.000Z",
+    "source": "TechCrunch AI",
+    "slug": "world-model-companies-are-keeping-a-lot-of-secrets"
   },
   {
     "title": "(No AI) Virginia governor creates an AI task force and moves to restrain data centers",
     "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
     "pubDate": "2026-09-18T18:29:17.000Z",
     "author": "Lauren Feiner",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nVirginia Gov. Abigail Spanberger (D) [ordered the state government](https://www.governor.virginia.gov//newsroom/news-releases/2026/september-releases/name-1123696-en.html) to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the [data center capital of the world](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash).\n\n[Executive Order 22](https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/eo/eo-22-establishing-va-data-center-accountability-and-ai-initiatives.pdf) bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)",
-    "contentSnippet": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like …\nRead the full story at The Verge.",
-    "summary": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing non-disclosure [&#8230;]",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nVirginia Gov. Abigail Spanberger [ordered the state government](https://www.governor.virginia.gov//newsroom/news-releases/2026/september-releases/name-1123696-en.html) to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the [data center capital of the world](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash).\n\n[Executive Order 22](https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/eo/eo-22-establishing-va-data-center-accountability-and-ai-initiatives.pdf) bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wor …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)",
+    "contentSnippet": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wor …\nRead the full story at The Verge.",
+    "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing non-disclosure agreements [&#8230;]",
     "id": "https://www.theverge.com/?p=997573",
     "isoDate": "2026-09-18T18:29:17.000Z",
     "source": "The Verge AI",
@@ -112,6 +111,23 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) Here’s How an AI Slowdown Could Actually Be Enforced",
+    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "pubDate": "Fri, 18 Sep 2026 19:21:09 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "contentSnippet": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "guid": "6aaae9d2cc7170ac7d27da69",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-09-18T19:21:09.000Z",
+    "source": "Wired AI",
+    "slug": "here-s-how-an-ai-slowdown-could-actually-be-enforced"
+  },
+  {
     "creator": "Hugo Lowell",
     "title": "(No AI) AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
     "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
@@ -126,22 +142,5 @@
     "isoDate": "2026-09-18T15:00:08.000Z",
     "source": "Wired AI",
     "slug": "ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-    "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-    "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-    "contentSnippet": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-    "guid": "6aac2db5bdb5a3fcf07dbefb",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-09-18T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "if-the-ai-industry-followed-its-own-research-it-might-have-paused-already"
   }
 ]
