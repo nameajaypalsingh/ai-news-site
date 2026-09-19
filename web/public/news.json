@@ -1,41 +1,41 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "contentSnippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "guid": "https://techcrunch.com/?p=3165814",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "contentSnippet": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "guid": "https://techcrunch.com/?p=3166647",
     "categories": [
-      "TC",
+      "Security",
       "AI",
-      "OpenAI",
-      "Anthropic",
-      "alignment"
+      "Google",
+      "gemini",
+      "Alphabet"
+    ],
+    "isoDate": "2026-09-19T17:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-s-gemini-is-the-latest-ai-model-to-hack-other-companies"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "contentSnippet": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "guid": "https://techcrunch.com/?p=3162545",
+    "categories": [
+      "Hardware",
+      "AI",
+      "pet tech"
     ],
     "isoDate": "2026-09-19T15:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-safety-conversations-have-gotten-unbelievable"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-    "contentSnippet": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-    "guid": "https://techcrunch.com/?p=3161565",
-    "categories": [
-      "AI",
-      "Andreessen Horowitz",
-      "Startups"
-    ],
-    "isoDate": "2026-09-19T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"
+    "slug": "petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes"
   },
   {
     "title": "(No AI) Gemini went rogue, hacked three companies, and Google hid it",
