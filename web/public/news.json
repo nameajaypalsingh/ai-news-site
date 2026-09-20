@@ -1,5 +1,29 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 6 days left to get ahead at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "pubDate": "Sun, 20 Sep 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "contentSnippet": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "guid": "https://techcrunch.com/?p=3166682",
+    "categories": [
+      "AI",
+      "Biotech & Health",
+      "Fintech",
+      "Fundraising",
+      "Robotics",
+      "Startups",
+      "TC",
+      "Venture",
+      "TechCrunch Disrupt"
+    ],
+    "isoDate": "2026-09-20T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Flock reportedly tries to shrink workforce with employee buyouts",
     "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
@@ -18,22 +42,18 @@
     "slug": "flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "contentSnippet": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "guid": "https://techcrunch.com/?p=3166662",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Donald Trump"
-    ],
-    "isoDate": "2026-09-19T19:57:47.000Z",
-    "source": "TechCrunch AI",
-    "slug": "trump-says-it-s-time-to-rebrand-ai-with-a-new-name-and-he-s-also-creating-an-ai-force"
+    "title": "(No AI) Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "pubDate": "2026-09-20T12:00:00.000Z",
+    "author": "Justine Calma",
+    "content": "![Art depicting a pattern of repeating eyeballs over a computer screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nBefore recent high-profile hacks raised the specter of AI possibly \"[killing all humans](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans),\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing.\n\n\"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at the Institute for Security and Technology (IST), [told me last year](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran). At the time, I was preoccupied with a [Department of Homeland Security warning](https://www.cybersecuritydive.com/news/dhs-warns-of-heightened-cyber-threat-as-us-enters-iran-conflict/751314/) that [Iranian actors and sympathizers could target the US](https://www.dhs.gov/sites/default/files/ntas/alerts/25_0622_S1_NTAS-Bulletin-508.pdf) with cyberattacks.\n\nLast week, I called Corman up to chat about recent incidents of rogue AI a …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)",
+    "contentSnippet": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at the Institute for Security and Technology (IST), told me last year. At the time, I was preoccupied with a Department of Homeland Security warning that Iranian actors and sympathizers could target the US with cyberattacks. \nLast week, I called Corman up to chat about recent incidents of rogue AI a …\nRead the full story at The Verge.",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+    "id": "https://www.theverge.com/?p=997834",
+    "isoDate": "2026-09-20T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy-systems"
   },
   {
     "title": "(No AI) Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -48,20 +68,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think"
-  },
-  {
-    "title": "(No AI) Gemini went rogue, hacked three companies, and Google hid it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "pubDate": "2026-09-19T15:25:03.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Vector illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the _[Wall Street Journal](https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?mod=rss_Technology)_ approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI.\n\nAccording to _WSJ_, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an instance of \"mistaken identity,\" and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. \"In th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)",
-    "contentSnippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. \nAccording to WSJ, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an instance of \"mistaken identity,\" and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. \"In th …\nRead the full story at The Verge.",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-    "id": "https://www.theverge.com/?p=997795",
-    "isoDate": "2026-09-19T15:25:03.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "gemini-went-rogue-hacked-three-companies-and-google-hid-it"
   },
   {
     "title": "(No AI) Introducing the Australian Youth Safety Blueprint",
@@ -111,37 +117,38 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
-    "creator": "Matt Burgess, Lily Hay Newman",
-    "title": "(No AI) Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "pubDate": "Sat, 19 Sep 2026 11:00:00 +0000",
-    "dc:creator": "Matt Burgess, Lily Hay Newman",
-    "content": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-    "contentSnippet": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-    "guid": "6aaaaa164e40ce71797f8e63",
+    "creator": "Reece Rogers",
+    "title": "(No AI) Meta's Muse Is Better at Surveilling Than Helping Me",
+    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "pubDate": "Sun, 20 Sep 2026 10:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "contentSnippet": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "guid": "6aa95711718bdbe1c32c1f53",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps"
     ],
-    "isoDate": "2026-09-19T11:00:00.000Z",
+    "isoDate": "2026-09-20T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "forget-the-ai-slowdown-the-vulnerability-explosion-is-already-happening"
+    "slug": "meta-s-muse-is-better-at-surveilling-than-helping-me"
   },
   {
-    "creator": "Isabella Ward",
-    "title": "(No AI) Mathematicians Hate AI. They Can’t Quit It",
-    "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "pubDate": "Sat, 19 Sep 2026 10:00:00 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-    "contentSnippet": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-    "guid": "6aab158f069f5b268621a0f9",
+    "creator": "Molly Taft",
+    "title": "(No AI) It’s Donald Trump Versus MAGA on Data Centers",
+    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "pubDate": "Sun, 20 Sep 2026 10:30:00 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+    "contentSnippet": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+    "guid": "6aad77e18ffbfab4b483ed15",
     "categories": [
-      "Science",
-      "Science / Physics and Math"
+      "Politics",
+      "Politics / Politics News"
     ],
-    "isoDate": "2026-09-19T10:00:00.000Z",
+    "isoDate": "2026-09-20T10:30:00.000Z",
     "source": "Wired AI",
-    "slug": "mathematicians-hate-ai-they-can-t-quit-it"
+    "slug": "it-s-donald-trump-versus-maga-on-data-centers"
   }
 ]
