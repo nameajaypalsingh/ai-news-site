@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) ScrollEd wants to turn textbooks into TikTok",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "pubDate": "Sun, 20 Sep 2026 18:00:00 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "contentSnippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "guid": "https://techcrunch.com/?p=3165886",
+    "categories": [
+      "Startups",
+      "AI",
+      "Social",
+      "TechCrunch Disrupt",
+      "Startup Battlefield 200"
+    ],
+    "isoDate": "2026-09-20T18:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "scrolled-wants-to-turn-textbooks-into-tiktok"
+  },
+  {
     "creator": "TechCrunch Events",
     "title": "(No AI) 6 days left to get ahead at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -24,22 +44,18 @@
     "slug": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "contentSnippet": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "guid": "https://techcrunch.com/?p=3166668",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Flock"
-    ],
-    "isoDate": "2026-09-19T20:39:13.000Z",
-    "source": "TechCrunch AI",
-    "slug": "flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"
+    "title": "(No AI) Trump now says he wants to form an ‘AI Force’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "pubDate": "2026-09-20T15:39:22.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Graphic photo illustration of Donald Trump.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He [made](https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/) the [announcement](https://www.bbc.com/news/articles/cqlykr2vrv04o) amid [growing calls](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) from across the political spectrum and even within the industry to [pump the brakes](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\"\n\nIn the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)",
+    "contentSnippet": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\"\nIn the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were  …\nRead the full story at The Verge.",
+    "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+    "id": "https://www.theverge.com/?p=997867",
+    "isoDate": "2026-09-20T15:39:22.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-now-says-he-wants-to-form-an-ai-force"
   },
   {
     "title": "(No AI) Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
@@ -54,20 +70,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "humans-not-rogue-ai-are-still-the-biggest-cybersecurity-risk-to-energy-systems"
-  },
-  {
-    "title": "(No AI) Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "pubDate": "2026-09-19T20:44:40.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![A laptop with a green malicious smiley face on its screen, the mouth a zipper.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta's Muse is apparently an [effective AI assistant](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on), but one that's a little creepy. Part of that is because of its new [Mac app](https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app), which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at _Inc Magazine_, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages.\n\nThe problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, \"I saw the notification previews, not …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)",
-    "contentSnippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. \nThe problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, \"I saw the notification previews, not …\nRead the full story at The Verge.",
-    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-    "id": "https://www.theverge.com/?p=997833",
-    "isoDate": "2026-09-19T20:44:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-s-muse-is-creepy-but-maybe-not-for-the-reasons-you-think"
   },
   {
     "title": "(No AI) Introducing the Australian Youth Safety Blueprint",
