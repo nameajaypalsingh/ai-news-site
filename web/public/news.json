@@ -1,39 +1,47 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Meta’s AI agent has been blocked from using Amazon.com",
-    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Muse isn't welcome as a shopper anymore.",
-    "contentSnippet": "Muse isn't welcome as a shopper anymore.",
-    "guid": "https://techcrunch.com/?p=3167032",
+    "creator": "Aditya Mehta",
+    "title": "(No AI) OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
+    "dc:creator": "Aditya Mehta",
+    "content": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "contentSnippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "guid": "https://techcrunch.com/?p=3167174",
     "categories": [
       "AI",
-      "Amazon",
-      "Meta",
-      "muse"
+      "mathematics",
+      "OpenAI"
     ],
-    "isoDate": "2026-09-21T17:55:18.000Z",
+    "isoDate": "2026-09-21T20:15:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-s-ai-agent-has-been-blocked-from-using-amazon-com"
+    "slug": "openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) With Tabby, a former accountant is using AI to make accountants obsolete",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-    "contentSnippet": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-    "guid": "https://techcrunch.com/?p=3166970",
+    "creator": "Jessica Barrera",
+    "title": "(No AI) Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
+    "dc:creator": "Jessica Barrera",
+    "content": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+    "contentSnippet": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+    "guid": "https://techcrunch.com/?p=3167098",
     "categories": [
       "AI",
-      "Startup Battlefield 200"
+      "Apps",
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising",
+      "Gadgets",
+      "Startups",
+      "Venture",
+      "Startup Battlefield",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-09-21T16:38:51.000Z",
+    "isoDate": "2026-09-21T19:25:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete"
+    "slug": "discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-disrupt-2026-ticket"
   },
   {
     "title": "(No AI) Can John Ternus find Apple’s next big thing?",
@@ -78,18 +86,18 @@
     "slug": "advisory-group-on-mathematics-and-artificial-intelligence"
   },
   {
-    "title": "(No AI) Building standards for the next phase of AI",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "pubDate": "Mon, 21 Sep 2026 10:00:00 GMT",
-    "content": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-    "contentSnippet": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-    "guid": "https://openai.com/index/building-standards-next-phase-ai",
+    "title": "(No AI) Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "content": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "contentSnippet": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "guid": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "categories": [
-      "Global Affairs"
+      "Startup"
     ],
-    "isoDate": "2026-09-21T10:00:00.000Z",
+    "isoDate": "2026-09-21T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "building-standards-for-the-next-phase-of-ai"
+    "slug": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra"
   },
   {
     "title": "(No AI) Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -114,6 +122,23 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
+    "creator": "Javier Carbajal",
+    "title": "(No AI) AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "pubDate": "Mon, 21 Sep 2026 18:33:02 +0000",
+    "dc:creator": "Javier Carbajal",
+    "content": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+    "contentSnippet": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+    "guid": "6ab15a867fffb9bb745696ef",
+    "categories": [
+      "Politics",
+      "Politics / Policy"
+    ],
+    "isoDate": "2026-09-21T18:33:02.000Z",
+    "source": "Wired AI",
+    "slug": "ai-tariffs-rare-minerals-what-to-expect-from-trump-s-upcoming-summit-with-xi-jinping"
+  },
+  {
     "creator": "Julian Chokkattu",
     "title": "(No AI) Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
@@ -130,22 +155,5 @@
     "isoDate": "2026-09-21T13:00:00.000Z",
     "source": "Wired AI",
     "slug": "got-an-android-phone-google-thinks-you-ll-probably-want-a-googlebook-laptop"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) US and China Discuss Alerting Each Other to AI National Security Threats",
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "pubDate": "Mon, 21 Sep 2026 10:34:43 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-    "contentSnippet": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-    "guid": "6ab0f60f6263408dc102430f",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-09-21T10:34:43.000Z",
-    "source": "Wired AI",
-    "slug": "us-and-china-discuss-alerting-each-other-to-ai-national-security-threats"
   }
 ]
