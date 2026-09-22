@@ -1,105 +1,97 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-    "contentSnippet": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-    "guid": "https://techcrunch.com/?p=3167384",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "contentSnippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "guid": "https://techcrunch.com/?p=3167901",
     "categories": [
-      "TC",
+      "AI",
+      "Fundraising",
       "Startups",
-      "AI",
-      "Robotics",
-      "Okta",
-      "AWS",
-      "nvidia",
-      "TechCrunch Disrupt",
-      "Anthropic",
-      "Waabi",
-      "shield ai"
+      "data labeling",
+      "snorkel ai"
     ],
-    "isoDate": "2026-09-22T15:00:00.000Z",
+    "isoDate": "2026-09-22T21:56:43.000Z",
     "source": "TechCrunch AI",
-    "slug": "five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda"
+    "slug": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) AstroForge is putting AI in command of its next spacecraft",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-    "contentSnippet": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-    "guid": "https://techcrunch.com/?p=3167451",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "contentSnippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "guid": "https://techcrunch.com/?p=3166854",
     "categories": [
       "AI",
-      "Space",
-      "astroforge",
-      "Exclusive",
-      "space startups"
+      "Hardware",
+      "Qualcomm"
     ],
-    "isoDate": "2026-09-22T15:00:00.000Z",
+    "isoDate": "2026-09-22T20:00:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "astroforge-is-putting-ai-in-command-of-its-next-spacecraft"
+    "slug": "qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai"
   },
   {
-    "title": "(No AI) Trump says US is officially renaming AI ‘super intelligence’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-    "pubDate": "2026-09-22T16:01:10.000Z",
-    "author": "Richard Lawler",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&strip=all&crop=0,0,100,100)\n\nIn a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people [while also claiming](https://www.youtube.com/live/6iFtwt6Ck58?si=QuLO1Sf6zN5_2sGj&t=1947) that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\"\n\nWhy? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you?\n\n**Here's what Trump said:**\n\n> The United States also totally rejects any attempt to construct a globallist scheme to control for the artificial intelligence being spoken of so much now. Here and after officially called \"super intelligence,\" changing the name, and that the use of the word arti …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)",
-    "contentSnippet": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" \nWhy? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you?\nHere's what Trump said:\nThe United States also totally rejects any attempt to construct a globallist scheme to control for the artificial intelligence being spoken of so much now. Here and after officially called \"super intelligence,\" changing the name, and that the use of the word arti …\n\nRead the full story at The Verge.",
-    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Why? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you? Here's [&#8230;]",
-    "id": "https://www.theverge.com/?p=998816",
-    "isoDate": "2026-09-22T16:01:10.000Z",
+    "title": "(No AI) Rabbit’s new AI agent doesn’t need an R1 to run",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "pubDate": "2026-09-22T20:52:40.000Z",
+    "author": "Emma Roth",
+    "content": "![The Rabbit R1 in front of a window.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0,0,100,100)\n\nRabbit, the company behind the [underwhelming R1 device](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget), is rolling out a standalone AI agent that you don't need its hardware to use, as [reported earlier by _Wired_](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/). The [startup says](https://www.prnewswire.com/news-releases/rabbit-unveils-os3-the-agentic-operating-system-for-every-device-302886403.html) its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.\n\nAccording to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated [desktop site](https://os3.rabbit.tech/sign-up?returnTo=/), a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)",
+    "contentSnippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.\nAccording to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …\nRead the full story at The Verge.",
+    "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+    "id": "https://www.theverge.com/?p=999094",
+    "isoDate": "2026-09-22T20:52:40.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-says-us-is-officially-renaming-ai-super-intelligence"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run"
   },
   {
-    "title": "(No AI) Meta patches Muse exploit that let attackers control the AI agent",
-    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "pubDate": "2026-09-22T11:53:58.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Robot hands typing on a keyboard](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge\n\nMeta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by [security researcher Patrick Wardle](https://x.com/patrickwardle/status/2102045926474785265) utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to their own endpoint, [_Ars Technica_](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) reports, giving the attacker access to the Muse account.\n\nSeveral design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device, and allowing any app to control all of Muse's undocumented settings. Pr …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent)",
-    "contentSnippet": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge\t\n\nMeta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account.\nSeveral design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device, and allowing any app to control all of Muse's undocumented settings. Pr …\nRead the full story at The Verge.",
-    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
-    "id": "https://www.theverge.com/?p=998679",
-    "isoDate": "2026-09-22T11:53:58.000Z",
+    "title": "(No AI) Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "pubDate": "2026-09-22T16:34:08.000Z",
+    "author": "Emma Roth",
+    "content": "![An illustration of a person wearing a graduation cap](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nVenture capital firm Andreessen Horowitz (a16z) is creating [an \"academy\" positioned](https://www.a16z.news/p/introducing-the-horowitz-andreessen) as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\n\nTo partake in the one-year …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)",
+    "contentSnippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
+    "id": "https://www.theverge.com/?p=998813",
+    "isoDate": "2026-09-22T16:34:08.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partnerships-with-palantir-google-and-meta"
   },
   {
-    "title": "(No AI) Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "content": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "contentSnippet": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "guid": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "(No AI) Better prompt caching for GPT-6",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+    "content": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "contentSnippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "guid": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "categories": [
-      "Company"
+      "Product"
     ],
-    "isoDate": "2026-09-21T12:00:00.000Z",
+    "isoDate": "2026-09-22T21:00:00.000Z",
     "source": "OpenAI",
-    "slug": "advisory-group-on-mathematics-and-artificial-intelligence"
+    "slug": "better-prompt-caching-for-gpt-6"
   },
   {
-    "title": "(No AI) Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "content": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "contentSnippet": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "guid": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "(No AI) Introducing GPT-6 Sol and Luna",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "content": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "contentSnippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "guid": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "categories": [
-      "Startup"
+      "Product"
     ],
-    "isoDate": "2026-09-21T12:00:00.000Z",
+    "isoDate": "2026-09-22T18:00:00.000Z",
     "source": "OpenAI",
-    "slug": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra"
+    "slug": "introducing-gpt-6-sol-and-luna"
   },
   {
     "title": "(No AI) Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -124,6 +116,24 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "pubDate": "Tue, 22 Sep 2026 18:19:13 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "contentSnippet": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "guid": "6ab2a41187b91de57238dc10",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Phones"
+    ],
+    "isoDate": "2026-09-22T18:19:13.000Z",
+    "source": "Wired AI",
+    "slug": "how-to-claim-your-cut-of-apple-s-250-million-siri-settlement"
+  },
+  {
     "creator": "Julian Chokkattu",
     "title": "(No AI) Rabbit Is Back, This Time With an AI Agent App",
     "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
@@ -139,22 +149,5 @@
     "isoDate": "2026-09-22T16:00:00.000Z",
     "source": "Wired AI",
     "slug": "rabbit-is-back-this-time-with-an-ai-agent-app"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) Viture’s Vonder Glasses Are Meant to Map Your Mind",
-    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-    "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-    "contentSnippet": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-    "guid": "6ab124fe1bc7aa6c3a03663f",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-09-22T13:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "viture-s-vonder-glasses-are-meant-to-map-your-mind"
   }
 ]
