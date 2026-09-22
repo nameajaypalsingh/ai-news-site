@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "contentSnippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "guid": "https://techcrunch.com/?p=3167267",
+    "categories": [
+      "AI",
+      "Commerce",
+      "agentic commerce",
+      "Apple",
+      "ron johnson"
+    ],
+    "isoDate": "2026-09-21T23:44:28.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-man-who-built-apple-s-stores-doesn-t-buy-silicon-valley-s-bet-on-ai-shopping"
+  },
+  {
     "creator": "Aditya Mehta",
     "title": "(No AI) OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
@@ -18,30 +38,18 @@
     "slug": "openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems"
   },
   {
-    "creator": "Jessica Barrera",
-    "title": "(No AI) Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-    "dc:creator": "Jessica Barrera",
-    "content": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-    "contentSnippet": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-    "guid": "https://techcrunch.com/?p=3167098",
-    "categories": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Climate",
-      "Fintech",
-      "Fundraising",
-      "Gadgets",
-      "Startups",
-      "Venture",
-      "Startup Battlefield",
-      "TechCrunch Disrupt"
-    ],
-    "isoDate": "2026-09-21T19:25:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "discover-what-s-next-5-days-left-to-save-up-to-200-on-your-techcrunch-disrupt-2026-ticket"
+    "title": "(No AI) California tightens rules on AI data center energy and water use",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "pubDate": "2026-09-21T20:29:45.000Z",
+    "author": "Emma Roth",
+    "content": "![A data center protest in Imperial, California ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nCalifornia Gov. Gavin Newsom [has signed seven bills](https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/) designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by [the _Los Angeles Times_](https://www.latimes.com/california/story/2026-09-21/newsom-signs-bills-to-regulate-data-center-industry-criticizes-trump-for-inaction). The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems.\n\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)",
+    "contentSnippet": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption  …\nRead the full story at The Verge.",
+    "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
+    "id": "https://www.theverge.com/?p=998453",
+    "isoDate": "2026-09-21T20:29:45.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "california-tightens-rules-on-ai-data-center-energy-and-water-use"
   },
   {
     "title": "(No AI) Can John Ternus find Apple’s next big thing?",
@@ -56,20 +64,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "can-john-ternus-find-apple-s-next-big-thing"
-  },
-  {
-    "title": "(No AI) iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "pubDate": "2026-09-21T13:36:52.000Z",
-    "author": "Emma Roth",
-    "content": "![The iPhone 16](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&strip=all&crop=0,0,100,100)\n\nApple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim [on the settlement's website](https://smartphoneaisettlement.com/), as reported [earlier by _MacRumors_](https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/).\n\nYou can receive an estimated $25 per eligible device, but the settlement's website notes that this can increase to $95 depending on how many people file claims. To file a claim, you'll need to enter your name, contact information, and iPhone serial number on the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement)",
-    "contentSnippet": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website, as reported earlier by MacRumors.\nYou can receive an estimated $25 per eligible device, but the settlement's website notes that this can increase to $95 depending on how many people file claims. To file a claim, you'll need to enter your name, contact information, and iPhone serial number on the …\nRead the full story at The Verge.",
-    "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
-    "id": "https://www.theverge.com/?p=998191",
-    "isoDate": "2026-09-21T13:36:52.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "iphone-owners-can-now-submit-claims-in-apple-s-250-million-siri-ai-settlement"
   },
   {
     "title": "(No AI) Advisory Group on Mathematics and Artificial Intelligence",
