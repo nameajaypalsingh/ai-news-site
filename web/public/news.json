@@ -116,6 +116,23 @@
     "slug": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
   },
   {
+    "creator": "Andy Greenberg",
+    "title": "(No AI) How to Use AI With Your Privacy Intact",
+    "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+    "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
+    "dc:creator": "Andy Greenberg",
+    "content": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+    "contentSnippet": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+    "guid": "6aa1dbdf9388f7e1078211d6",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-09-22T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "how-to-use-ai-with-your-privacy-intact"
+  },
+  {
     "creator": "Javier Carbajal",
     "title": "(No AI) AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
     "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
@@ -131,23 +148,5 @@
     "isoDate": "2026-09-21T18:33:02.000Z",
     "source": "Wired AI",
     "slug": "ai-tariffs-rare-minerals-what-to-expect-from-trump-s-upcoming-summit-with-xi-jinping"
-  },
-  {
-    "creator": "Julian Chokkattu",
-    "title": "(No AI) Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-    "pubDate": "Mon, 21 Sep 2026 13:00:00 +0000",
-    "dc:creator": "Julian Chokkattu",
-    "content": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-    "contentSnippet": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-    "guid": "6aaae32b05602692e2355e14",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Computers"
-    ],
-    "isoDate": "2026-09-21T13:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "got-an-android-phone-google-thinks-you-ll-probably-want-a-googlebook-laptop"
   }
 ]
