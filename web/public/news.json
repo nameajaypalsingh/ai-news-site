@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "contentSnippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "guid": "https://techcrunch.com/?p=3167972",
+    "categories": [
+      "AI",
+      "Kyriakos Mitsotakis"
+    ],
+    "isoDate": "2026-09-23T04:59:08.000Z",
+    "source": "TechCrunch AI",
+    "slug": "we-re-already-fighting-yesterday-s-battle-greece-s-prime-minister-gets-candid-about-ai"
+  },
+  {
     "creator": "TechCrunch Events",
     "title": "(No AI) TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
     "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
@@ -19,24 +36,18 @@
     "slug": "techcrunch-founder-summit-s-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4"
   },
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "contentSnippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "guid": "https://techcrunch.com/?p=3167901",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "data labeling",
-      "snorkel ai"
-    ],
-    "isoDate": "2026-09-22T21:56:43.000Z",
-    "source": "TechCrunch AI",
-    "slug": "snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms"
+    "title": "(No AI) OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "pubDate": "2026-09-23T00:17:17.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter turning a string of spectacular mathematical results into a [reputational crisis](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes), OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\n\nOn Monday, the company [announced](https://openai.com/index/advisory-group-on-mathematics-and-ai/) a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told _The Verge_ the group is a good first step, but many said they were left with basic questions about what it will actually do, how …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)",
+    "contentSnippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with basic questions about what it will actually do, how …\nRead the full story at The Verge.",
+    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+    "id": "https://www.theverge.com/?p=999167",
+    "isoDate": "2026-09-23T00:17:17.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again"
   },
   {
     "title": "(No AI) Rabbit’s new AI agent doesn’t need an R1 to run",
@@ -51,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "rabbit-s-new-ai-agent-doesn-t-need-an-r1-to-run"
-  },
-  {
-    "title": "(No AI) Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-    "pubDate": "2026-09-22T16:34:08.000Z",
-    "author": "Emma Roth",
-    "content": "![An illustration of a person wearing a graduation cap](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nVenture capital firm Andreessen Horowitz (a16z) is creating [an \"academy\" positioned](https://www.a16z.news/p/introducing-the-horowitz-andreessen) as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\n\nTo partake in the one-year …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy)",
-    "contentSnippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
-    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
-    "id": "https://www.theverge.com/?p=998813",
-    "isoDate": "2026-09-22T16:34:08.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partnerships-with-palantir-google-and-meta"
   },
   {
     "title": "(No AI) Better prompt caching for GPT-6",
