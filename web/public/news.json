@@ -1,40 +1,53 @@
 [
   {
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "contentSnippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "guid": "https://techcrunch.com/?p=3170070",
+    "categories": [
+      "AI",
+      "OpenAI"
+    ],
+    "isoDate": "2026-09-25T22:20:47.000Z",
+    "source": "TechCrunch AI",
+    "slug": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-knowledge"
+  },
+  {
     "creator": "Sarah Perez",
-    "title": "(No AI) Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000",
+    "title": "(No AI) Meta opens early access program for new Muse features",
+    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-    "contentSnippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
-    "guid": "https://techcrunch.com/?p=3169621",
+    "content": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "contentSnippet": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "guid": "https://techcrunch.com/?p=3170007",
     "categories": [
       "AI",
       "Apps",
-      "Social",
-      "TC",
       "Meta",
       "muse"
     ],
-    "isoDate": "2026-09-25T16:16:52.000Z",
+    "isoDate": "2026-09-25T20:34:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off"
+    "slug": "meta-opens-early-access-program-for-new-muse-features"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The latest unauthorized agent swarms were discovered by researchers.",
-    "contentSnippet": "The latest unauthorized agent swarms were discovered by researchers.",
-    "guid": "https://techcrunch.com/?p=3169293",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-09-25T15:48:14.000Z",
-    "source": "TechCrunch AI",
-    "slug": "for-months-openai-s-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
+    "title": "(No AI) Meta makes the Muse filesystem even more accessible",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "pubDate": "2026-09-25T16:49:53.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday, with a little prodding, it was discovered that Meta's Muse would [expose its filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem) to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them.\n\nBut today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the \"[intended behavior.](https://x.com/natfriedman/status/2103205193492115903?s=20)\"\n\nIn a [post](https://x.com/dps/status/2103161493722419334) on X, Meta Superintelligence Labs' David Singleton elaborated:\n\n> This was a very deliberate choice - your Muse Secur …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)",
+    "contentSnippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them. \nBut today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the \"intended behavior.\"\nIn a post on X, Meta Superintelligence Labs' David Singleton elaborated:\nThis was a very deliberate choice - your Muse Secur …\n\nRead the full story at The Verge.",
+    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [&#8230;]",
+    "id": "https://www.theverge.com/?p=1000784",
+    "isoDate": "2026-09-25T16:49:53.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-makes-the-muse-filesystem-even-more-accessible"
   },
   {
     "title": "(No AI) Sony and UMG are suing Suno again",
@@ -49,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "sony-and-umg-are-suing-suno-again"
-  },
-  {
-    "title": "(No AI) One company is at the center of a wave of rogue AI attacks",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "pubDate": "2026-09-25T15:39:48.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100)\n\nIn July, OpenAI revealed that its AI agents had [attacked Hugging Face without permission](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack), sparking widespread concerns about [AI safety.](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) Since then, a [string of similar incidents](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) involving agents from Meta, Anthropic, Google, and other companies has [fueled further fears about rogue AI](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic). As disclosures implicating numerous AI models trickled out over the past few months, these seemed like separate incidents. But many share a common source: one specific company tasked with testing the agents.\n\n[Irregular](https://www.irregular.com/about), an Israeli startup that stress-tests AI models in \"high-fidelity research platforms that simulate and monitor real-world AI security scenarios …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)",
-    "contentSnippet": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few months, these seemed like separate incidents. But many share a common source: one specific company tasked with testing the agents. \nIrregular, an Israeli startup that stress-tests AI models in \"high-fidelity research platforms that simulate and monitor real-world AI security scenarios …\nRead the full story at The Verge.",
-    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
-    "id": "https://www.theverge.com/?p=1000644",
-    "isoDate": "2026-09-25T15:39:48.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks"
   },
   {
     "title": "(No AI) Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -112,38 +111,37 @@
     "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
   },
   {
-    "creator": "Zoë Schiffer",
-    "title": "(No AI) I Think I Found an AI Agent Worth the Risk",
-    "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-    "pubDate": "Thu, 24 Sep 2026 19:36:35 +0000",
-    "dc:creator": "Zoë Schiffer",
-    "content": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-    "contentSnippet": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-    "guid": "6ab2e8c97e5544c7a3b97b6f",
+    "creator": "Aarian Marshall, Paresh Dave",
+    "title": "(No AI) Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "pubDate": "Fri, 25 Sep 2026 20:30:40 +0000",
+    "dc:creator": "Aarian Marshall, Paresh Dave",
+    "content": "They wanted the silicon. They got the sand.",
+    "contentSnippet": "They wanted the silicon. They got the sand.",
+    "guid": "6ab6c7201da71b80b195349d",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-09-25T20:30:40.000Z",
+    "source": "Wired AI",
+    "slug": "thieves-stole-nvidia-trailers-they-got-20-tons-of-sand"
+  },
+  {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "pubDate": "Fri, 25 Sep 2026 16:58:20 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "contentSnippet": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "guid": "6ab69b4edd296d4bba528714",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-24T19:36:35.000Z",
+    "isoDate": "2026-09-25T16:58:20.000Z",
     "source": "Wired AI",
-    "slug": "i-think-i-found-an-ai-agent-worth-the-risk"
-  },
-  {
-    "creator": "Julian Chokkattu",
-    "title": "(No AI) Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-    "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-    "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
-    "dc:creator": "Julian Chokkattu",
-    "content": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-    "contentSnippet": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-    "guid": "6ab333f8f51e7fb8c39cc78e",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones"
-    ],
-    "isoDate": "2026-09-24T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "google-s-gemini-can-now-make-calls-for-you-on-pixel-phones"
+    "slug": "appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk"
   }
 ]
