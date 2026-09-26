@@ -93,6 +93,45 @@
     "slug": "two-years-of-openai-academy"
   },
   {
+    "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "isoDate": "2026-09-24T16:20:39.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-gemini-3-8-live-with-live-avatar"
+  },
+  {
+    "title": "(No AI) Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "contentSnippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "isoDate": "2026-09-23T16:00:57.000Z",
+    "source": "Google DeepMind",
+    "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
+  },
+  {
+    "creator": "Reece Rogers",
+    "title": "(No AI) Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "pubDate": "Sat, 26 Sep 2026 10:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+    "contentSnippet": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+    "guid": "6ab67d95c4da8f2e1f68c67c",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-09-26T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "meta-s-muse-is-adults-only-why-does-it-look-like-a-kids-toy"
+  },
+  {
     "creator": "Aarian Marshall, Paresh Dave",
     "title": "(No AI) Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
     "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
@@ -108,22 +147,5 @@
     "isoDate": "2026-09-25T20:30:40.000Z",
     "source": "Wired AI",
     "slug": "thieves-stole-nvidia-trailers-they-got-20-tons-of-sand"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "pubDate": "Fri, 25 Sep 2026 16:58:20 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-    "contentSnippet": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-    "guid": "6ab69b4edd296d4bba528714",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-25T16:58:20.000Z",
-    "source": "Wired AI",
-    "slug": "appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk"
   }
 ]
