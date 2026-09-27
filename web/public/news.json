@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "contentSnippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "guid": "https://techcrunch.com/?p=3170226",
+    "categories": [
+      "AI",
+      "Commerce",
+      "Google",
+      "Flipkart",
+      "gemini"
+    ],
+    "isoDate": "2026-09-27T01:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Insurers claim AI is already increasing healthcare costs",
     "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -19,24 +39,18 @@
     "slug": "insurers-claim-ai-is-already-increasing-healthcare-costs"
   },
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "contentSnippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "guid": "https://techcrunch.com/?p=3167791",
-    "categories": [
-      "Startups",
-      "Venture",
-      "AI",
-      "Synthesia",
-      "AI avatars"
-    ],
-    "isoDate": "2026-09-26T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it"
+    "title": "(No AI) OpenAI pauses training of its ‘most capable models’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "pubDate": "2026-09-26T16:34:59.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Vector illustration of the Open AI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAs reports of OpenAI's models [breaking containment](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai), hacking sites, and generally getting out of control pile up, the company has made the decision to [pause training](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/) of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to [gain internet access](https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents). The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\n\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)",
+    "contentSnippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- …\nRead the full story at The Verge.",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+    "id": "https://www.theverge.com/?p=1001049",
+    "isoDate": "2026-09-26T16:34:59.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-pauses-training-of-its-most-capable-models"
   },
   {
     "title": "(No AI) Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai"
-  },
-  {
-    "title": "(No AI) Meta makes the Muse filesystem even more accessible",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "pubDate": "2026-09-25T16:49:53.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nYesterday, with a little prodding, it was discovered that Meta's Muse would [expose its filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem) to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them.\n\nBut today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the \"[intended behavior.](https://x.com/natfriedman/status/2103205193492115903?s=20)\"\n\nIn a [post](https://x.com/dps/status/2103161493722419334) on X, Meta Superintelligence Labs' David Singleton elaborated:\n\n> This was a very deliberate choice - your Muse Secur …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)",
-    "contentSnippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them. \nBut today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the \"intended behavior.\"\nIn a post on X, Meta Superintelligence Labs' David Singleton elaborated:\nThis was a very deliberate choice - your Muse Secur …\n\nRead the full story at The Verge.",
-    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [&#8230;]",
-    "id": "https://www.theverge.com/?p=1000784",
-    "isoDate": "2026-09-25T16:49:53.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-makes-the-muse-filesystem-even-more-accessible"
   },
   {
     "title": "(No AI) Proaction boosts sales 60% and saves 75+ hours with Codex",
