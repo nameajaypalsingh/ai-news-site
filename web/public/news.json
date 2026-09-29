@@ -1,38 +1,54 @@
 [
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to \\[…\\]",
-    "contentSnippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
-    "guid": "https://techcrunch.com/?p=3170647",
-    "categories": [
-      "AI"
-    ],
-    "isoDate": "2026-09-28T18:31:23.000Z",
-    "source": "TechCrunch AI",
-    "slug": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents"
-  },
-  {
     "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
+    "title": "(No AI) OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "contentSnippet": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "guid": "https://techcrunch.com/?p=3170644",
+    "content": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "contentSnippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "guid": "https://techcrunch.com/?p=3171035",
     "categories": [
       "AI",
-      "Sonnet",
-      "Anthropic",
-      "Claude"
+      "Astra",
+      "OpenAI"
     ],
-    "isoDate": "2026-09-28T18:00:00.000Z",
+    "isoDate": "2026-09-28T23:39:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner"
+    "slug": "openai-reportedly-ditches-model-over-safety-concerns"
+  },
+  {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "contentSnippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "guid": "https://techcrunch.com/?p=3170936",
+    "categories": [
+      "AI",
+      "Accel",
+      "inference",
+      "Modal Labs"
+    ],
+    "isoDate": "2026-09-28T21:29:18.000Z",
+    "source": "TechCrunch AI",
+    "slug": "source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation"
+  },
+  {
+    "title": "(No AI) AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "pubDate": "2026-09-28T21:31:35.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWorld Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\n\nAMD [announced today](https://newsroom.amd.com/news/amd-acquire-world-labs/) that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched [in 2024](https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures) and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, [in 2025](https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier).\n\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)",
+    "contentSnippet": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
+    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+    "id": "https://www.theverge.com/?p=1001749",
+    "isoDate": "2026-09-28T21:31:35.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "amd-is-acquiring-ai-company-world-labs-in-a-deal-worth-more-than-8-billion"
   },
   {
     "title": "(No AI) OpenAI’s AI agents need to catch up",
@@ -49,20 +65,6 @@
     "slug": "openai-s-ai-agents-need-to-catch-up"
   },
   {
-    "title": "(No AI) AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "pubDate": "2026-09-28T18:30:00.000Z",
-    "author": "Hayden Field",
-    "content": "![Illustration of a pixelated key next to a padlock and chain, implying online data security.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers from all over the world warned they'd been getting emails \"begging for money\" - which she hadn't sent.\n\nThe organization's third-party IT team pulled its systems offline for three days while they investigated the issue and plugged up the vulner …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)",
-    "contentSnippet": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers from all over the world warned they'd been getting emails \"begging for money\" - which she hadn't sent.\nThe organization's third-party IT team pulled its systems offline for three days while they investigated the issue and plugged up the vulner …\nRead the full story at The Verge.",
-    "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
-    "id": "https://www.theverge.com/?p=1001427",
-    "isoDate": "2026-09-28T18:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-aren-t-ready"
-  },
-  {
     "title": "(No AI) The Lenfest Institute grows landmark program with expanded OpenAI support",
     "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
@@ -77,15 +79,15 @@
     "slug": "the-lenfest-institute-grows-landmark-program-with-expanded-openai-support"
   },
   {
-    "title": "(No AI) Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "link": "https://openai.com/index/proaction",
-    "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
-    "content": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "contentSnippet": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "guid": "https://openai.com/index/proaction",
-    "isoDate": "2026-09-25T19:00:00.000Z",
+    "title": "(No AI) Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
+    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "content": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "contentSnippet": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "guid": "https://openai.com/form/codex-originals",
+    "isoDate": "2026-09-28T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "proaction-boosts-sales-60-and-saves-75-hours-with-codex"
+    "slug": "are-you-a-codex-original"
   },
   {
     "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
