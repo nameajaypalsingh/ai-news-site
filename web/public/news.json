@@ -1,150 +1,130 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) AI-powered app maker Wabi pivots to a messaging experience",
-    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-    "contentSnippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-    "guid": "https://techcrunch.com/?p=3171437",
-    "categories": [
-      "AI",
-      "Apps",
-      "Wabi"
-    ],
-    "isoDate": "2026-09-29T17:20:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ai-powered-app-maker-wabi-pivots-to-a-messaging-experience"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) OpenAI launches Dots, its bubbly agentic avatar",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "contentSnippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "guid": "https://techcrunch.com/?p=3171209",
+    "creator": "Julie Bort",
+    "title": "(No AI) The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "contentSnippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "guid": "https://techcrunch.com/?p=3171681",
     "categories": [
       "AI",
       "TC",
+      "Elon Musk",
       "OpenAI"
     ],
-    "isoDate": "2026-09-29T17:17:15.000Z",
+    "isoDate": "2026-09-29T22:20:59.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-launches-dots-its-bubbly-agentic-avatar"
+    "slug": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch"
   },
   {
-    "title": "(No AI) AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-    "pubDate": "2026-09-29T17:35:03.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100)\n\n\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of [a dozen interviews](https://frominside.ai/) with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' capabilities and motivations, collected and launched the interviews on [frominside.ai](http://frominside.ai).\n\nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)",
-    "contentSnippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human  …\nRead the full story at The Verge.",
-    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002238",
-    "isoDate": "2026-09-29T17:35:03.000Z",
+    "creator": "Sarah Perez",
+    "title": "(No AI) OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "contentSnippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "guid": "https://techcrunch.com/?p=3171583",
+    "categories": [
+      "AI",
+      "Apps",
+      "TC",
+      "OpenAI"
+    ],
+    "isoDate": "2026-09-29T20:15:47.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-s-latest-features-take-direct-aim-at-the-app-store-model"
+  },
+  {
+    "title": "(No AI) Trump orders US government to call AI ‘Super Intelligence’",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "pubDate": "2026-09-29T22:25:45.000Z",
+    "author": "Lauren Feiner",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Carolyn Van Houten/The Washington Post via Getty Images\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a [new executive order](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/) signed by President Donald Trump.\n\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of [America.gov](http://america.gov) earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it,\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)",
+    "contentSnippet": "Image: Carolyn Van Houten/The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it,\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\nRead the full story at The Verge.",
+    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002468",
+    "isoDate": "2026-09-29T22:25:45.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-as-it-sounds"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-orders-us-government-to-call-ai-super-intelligence"
   },
   {
-    "title": "(No AI) OpenAI launches Dots, its Muse competitor",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "pubDate": "2026-09-29T17:15:00.000Z",
-    "author": "Emma Roth",
-    "content": "![An illustration showing Dot avatars](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0,0,100,100)\n\nLike Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\n\nOpenAI is responding to Meta's [buzzy Muse AI](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping) with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\n\nThe company's [capable GPT-6 Astra model](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's [similar to the one offered by Muse](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on), as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)",
-    "contentSnippet": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
-    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002033",
-    "isoDate": "2026-09-29T17:15:00.000Z",
+    "title": "(No AI) Elon Musk’s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "pubDate": "2026-09-29T21:49:09.000Z",
+    "author": "Jay Peters",
+    "content": "![Illustration of Elon Musk standing with a blue and orange striped background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nElon Musk | Image: Laura Normand / The Verge\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after [a months-long pause](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead). In August, _Lawfare_ [reported that](https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone) articles on Grokipedia hadn't reviewed edits since April, but the [platform's live updates site](https://grokipedia.com/live) is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\n\nThe site seems to have become active again relatively recently. The page for [President Barack Obama](https://grokipedia.com/page/Barack_Obama) has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for [Elon Musk](https://grokipedia.com/page/Elon_Musk) was fact-checked while I was writing this, within the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)",
+    "contentSnippet": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\nThe site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the  …\nRead the full story at The Verge.",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002448",
+    "isoDate": "2026-09-29T21:49:09.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-launches-dots-its-muse-competitor"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "elon-musk-s-ai-powered-grokipedia-is-updating-again"
   },
   {
-    "title": "(No AI) How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
-    "content": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "contentSnippet": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "guid": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "(No AI) Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "content": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "contentSnippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "guid": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-09-29T10:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-gpt-6-1-sol"
+  },
+  {
+    "title": "(No AI) DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "content": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "contentSnippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "guid": "https://openai.com/index/devday-2026-recap",
     "categories": [
       "Company"
     ],
-    "isoDate": "2026-09-28T19:00:00.000Z",
+    "isoDate": "2026-09-29T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-we-will-do-better-for-australia"
+    "slug": "devday-2026-recap"
   },
   {
-    "title": "(No AI) Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
-    "content": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "contentSnippet": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "guid": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) OpenAI Gets Sued Over the Hugging Face Hack",
+    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+    "pubDate": "Tue, 29 Sep 2026 19:05:00 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+    "contentSnippet": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+    "guid": "6abbb69b2122500d82924ae7",
     "categories": [
-      "Safety"
+      "Security",
+      "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-09-28T19:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "towards-safety-cases-for-frontier-ai-training"
-  },
-  {
-    "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "isoDate": "2026-09-24T16:20:39.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-8-live-with-live-avatar"
-  },
-  {
-    "title": "(No AI) Advancing Private AI Compute with secure, server-side memory",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "contentSnippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "isoDate": "2026-09-23T16:00:57.000Z",
-    "source": "Google DeepMind",
-    "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-    "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-    "contentSnippet": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-    "guid": "6abbc49d41517308a6383d32",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-09-29T17:15:00.000Z",
+    "isoDate": "2026-09-29T19:05:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-s-dots-are-always-on-ai-agents-and-its-answer-to-meta-s-muse"
+    "slug": "openai-gets-sued-over-the-hugging-face-hack"
   },
   {
-    "creator": "Isabella Ward",
-    "title": "(No AI) OpenAI Delays Release of Latest Model Over Safety Concerns",
-    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-    "pubDate": "Tue, 29 Sep 2026 10:36:22 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-    "contentSnippet": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-    "guid": "6abb6e1ea8fe438aac4deedb",
+    "creator": "Emily Mullin, Anna Rogers",
+    "title": "(No AI) Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+    "pubDate": "Tue, 29 Sep 2026 18:03:01 +0000",
+    "dc:creator": "Emily Mullin, Anna Rogers",
+    "content": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+    "contentSnippet": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+    "guid": "6aba7e04bc8ab97fed5aaa2a",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "Science",
+      "Science / Biotech"
     ],
-    "isoDate": "2026-09-29T10:36:22.000Z",
+    "isoDate": "2026-09-29T18:03:01.000Z",
     "source": "Wired AI",
-    "slug": "openai-delays-release-of-latest-model-over-safety-concerns"
+    "slug": "anthropic-says-it-discovered-a-crispr-like-system-now-what"
   }
 ]
