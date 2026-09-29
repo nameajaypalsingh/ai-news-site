@@ -1,71 +1,67 @@
 [
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-    "contentSnippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-    "guid": "https://techcrunch.com/?p=3171132",
+    "creator": "Sarah Perez",
+    "title": "(No AI) AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "contentSnippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "guid": "https://techcrunch.com/?p=3171437",
     "categories": [
       "AI",
-      "Anthropic"
+      "Apps",
+      "Wabi"
     ],
-    "isoDate": "2026-09-29T05:13:43.000Z",
+    "isoDate": "2026-09-29T17:20:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-s-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity"
+    "slug": "ai-powered-app-maker-wabi-pivots-to-a-messaging-experience"
   },
   {
-    "creator": "Jagmeet Singh",
-    "title": "(No AI) Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
-    "dc:creator": "Jagmeet Singh",
-    "content": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-    "contentSnippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-    "guid": "https://techcrunch.com/?p=3170634",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "contentSnippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "guid": "https://techcrunch.com/?p=3171209",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Media & Entertainment",
-      "Startups",
-      "Venture",
-      "Exclusive",
-      "Peak XV",
-      "Peak XV Partners"
+      "TC",
+      "OpenAI"
     ],
-    "isoDate": "2026-09-29T00:30:00.000Z",
+    "isoDate": "2026-09-29T17:17:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort"
+    "slug": "openai-launches-dots-its-bubbly-agentic-avatar"
   },
   {
-    "title": "(No AI) AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "pubDate": "2026-09-28T21:31:35.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWorld Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\n\nAMD [announced today](https://newsroom.amd.com/news/amd-acquire-world-labs/) that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched [in 2024](https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures) and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, [in 2025](https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier).\n\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)",
-    "contentSnippet": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
-    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
-    "id": "https://www.theverge.com/?p=1001749",
-    "isoDate": "2026-09-28T21:31:35.000Z",
+    "title": "(No AI) AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "pubDate": "2026-09-29T17:35:03.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100)\n\n\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of [a dozen interviews](https://frominside.ai/) with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' capabilities and motivations, collected and launched the interviews on [frominside.ai](http://frominside.ai).\n\nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)",
+    "contentSnippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human  …\nRead the full story at The Verge.",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002238",
+    "isoDate": "2026-09-29T17:35:03.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amd-is-acquiring-ai-company-world-labs-in-a-deal-worth-more-than-8-billion"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-as-it-sounds"
   },
   {
-    "title": "(No AI) OpenAI’s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "pubDate": "2026-09-28T18:45:00.000Z",
-    "author": "Hayden Field",
-    "content": "![Graphic collage of Greg Brockman.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. [Rumors abound](https://www.reddit.com/r/hermesagent/comments/1wpv87l/any_info_on_openais_rumored_aeon_agent_could_it/) that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more.\n\nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)",
-    "contentSnippet": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. \nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy …\nRead the full story at The Verge.",
-    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
-    "id": "https://www.theverge.com/?p=1001590",
-    "isoDate": "2026-09-28T18:45:00.000Z",
+    "title": "(No AI) OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "author": "Emma Roth",
+    "content": "![An illustration showing Dot avatars](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&strip=all&crop=0,0,100,100)\n\nLike Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\n\nOpenAI is responding to Meta's [buzzy Muse AI](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping) with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\n\nThe company's [capable GPT-6 Astra model](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's [similar to the one offered by Muse](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on), as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)",
+    "contentSnippet": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
+    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002033",
+    "isoDate": "2026-09-29T17:15:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-ai-agents-need-to-catch-up"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-launches-dots-its-muse-competitor"
   },
   {
     "title": "(No AI) How we will do better for Australia",
@@ -96,37 +92,59 @@
     "slug": "towards-safety-cases-for-frontier-ai-training"
   },
   {
-    "creator": "Isabella Ward",
-    "title": "(No AI) OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "pubDate": "Mon, 28 Sep 2026 11:32:19 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-    "contentSnippet": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-    "guid": "6aba2ec22122500d82923825",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-09-28T11:32:19.000Z",
-    "source": "Wired AI",
-    "slug": "openai-pauses-training-its-most-powerful-models-after-rogue-agents-target-government"
+    "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "isoDate": "2026-09-24T16:20:39.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-gemini-3-8-live-with-live-avatar"
   },
   {
-    "creator": "Kate Taylor",
-    "title": "(No AI) AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "pubDate": "Mon, 28 Sep 2026 10:00:00 +0000",
-    "dc:creator": "Kate Taylor",
-    "content": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-    "contentSnippet": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-    "guid": "6ab2a2c60fa125208c530950",
+    "title": "(No AI) Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "contentSnippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "isoDate": "2026-09-23T16:00:57.000Z",
+    "source": "Google DeepMind",
+    "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
+  },
+  {
+    "creator": "Reece Rogers",
+    "title": "(No AI) OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+    "contentSnippet": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+    "guid": "6abbc49d41517308a6383d32",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-09-29T17:15:00.000Z",
+    "source": "Wired AI",
+    "slug": "openai-s-dots-are-always-on-ai-agents-and-its-answer-to-meta-s-muse"
+  },
+  {
+    "creator": "Isabella Ward",
+    "title": "(No AI) OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "pubDate": "Tue, 29 Sep 2026 10:36:22 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+    "contentSnippet": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+    "guid": "6abb6e1ea8fe438aac4deedb",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-28T10:00:00.000Z",
+    "isoDate": "2026-09-29T10:36:22.000Z",
     "source": "Wired AI",
-    "slug": "ai-agents-are-about-to-flood-the-workforce-no-one-s-ready-for-it"
+    "slug": "openai-delays-release-of-latest-model-over-safety-concerns"
   }
 ]
