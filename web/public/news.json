@@ -1,131 +1,152 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "contentSnippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "guid": "https://techcrunch.com/?p=3171828",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "contentSnippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "guid": "https://techcrunch.com/?p=3172187",
     "categories": [
-      "Startups",
       "AI",
-      "TechCrunch Disrupt",
-      "Cerebras"
+      "OpenAI"
     ],
-    "isoDate": "2026-09-30T14:30:00.000Z",
+    "isoDate": "2026-09-30T19:00:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026"
+    "slug": "openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents"
   },
   {
     "creator": "Marina Temkin",
-    "title": "(No AI) Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
+    "title": "(No AI) AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
     "dc:creator": "Marina Temkin",
-    "content": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
-    "contentSnippet": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
-    "guid": "https://techcrunch.com/?p=3172103",
+    "content": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "contentSnippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "guid": "https://techcrunch.com/?p=3172305",
     "categories": [
       "AI",
       "Startups",
-      "ai infrastructure",
-      "restate",
-      "Temporal"
+      "liquidity",
+      "voice AI",
+      "ElevenLabs",
+      "In Brief"
     ],
-    "isoDate": "2026-09-30T14:27:11.000Z",
+    "isoDate": "2026-09-30T18:23:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents"
+    "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-22b"
   },
   {
-    "title": "(No AI) Instagram is adding an AI ‘assistant’ to tell you how to post",
-    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-    "pubDate": "2026-09-30T14:30:00.000Z",
-    "author": "Mia Sato",
-    "content": "![An illustration of the Instagram logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.\n\nUsing the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube)",
-    "contentSnippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.\nUsing the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …\nRead the full story at The Verge.",
-    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002402",
-    "isoDate": "2026-09-30T14:30:00.000Z",
+    "title": "(No AI) The AI Tamagotchis are coming",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "pubDate": "2026-09-30T18:07:38.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents.\n\n\"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the [Friend](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables) and [Humane AI Pin](https://www.theverge.com/24126502/humane-ai-pin-review) have inspired mainly frustration and backlash, which may only worsen as public anger toward AI grows. Meta and OpenAI, however, are both pushing ahead. OpenAI is working with famed ex-Apple designer Jony Ive and pla …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)",
+    "contentSnippet": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \n\"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger toward AI grows. Meta and OpenAI, however, are both pushing ahead. OpenAI is working with famed ex-Apple designer Jony Ive and pla …\nRead the full story at The Verge.",
+    "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002779",
+    "isoDate": "2026-09-30T18:07:38.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "instagram-is-adding-an-ai-assistant-to-tell-you-how-to-post"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "the-ai-tamagotchis-are-coming"
   },
   {
-    "title": "(No AI) Here’s how tech leaders will self-police AI safety under Trump’s deal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-    "pubDate": "2026-09-30T12:24:32.000Z",
+    "title": "(No AI) Here’s what AI leaders are saying about Trump’s new safety plan",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "pubDate": "2026-09-30T17:15:49.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Satya Nadella, chief executive officer of Microsoft Corp., from left, Greg Brockman, president and co-founder of OpenAI Inc., Jensen Huang, chief executive officer of Nvidia Corp., US House Speaker Mike Johnson, a Republican from Louisiana, US President Donald Trump, Lisa Su, chair and chief executive officer of Advanced Micro Devices Inc. (AMD), Nikesh Arora, chief executive officer at Palo Alto Networks Inc., and Elon Musk, chief executive officer of Tesla Inc., during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026. The gathering follows a surge in concern about AI potentially posing a threat to humans. ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images\n\nWe now have the full details of the [\"morally binding\" AI safety deal](https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence) announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was [shared online](https://x.com/DavidSacks/status/2105060520327786914) by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang.\n\n\"In order to build a positive future for the American people and the world, we believe every company is responsible for developing …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs)",
-    "contentSnippet": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images\t\n\nWe now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang.\n\"In order to build a positive future for the American people and the world, we believe every company is responsible for developing  …\nRead the full story at The Verge.",
-    "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002584",
-    "isoDate": "2026-09-30T12:24:32.000Z",
+    "content": "![WASHINGTON, DC - SEPTEMBER 29: CEO of Meta Platforms Mark Zuckerberg (R) looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC. The meeting comes as some have called for a slowdown in AI development amid rising safety concerns.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIf you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\n\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding [fears around AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic) being a [\"hoax\"](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html) cooked up by Democrats no longer apply now that he's renamed the technology to \"[Super Intelligence](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai).\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\"\n\nAnd instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\"\n\nThe people in question here are Goog …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)",
+    "contentSnippet": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\t\n\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" \nAnd instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\"\nThe people in question here are Goog …\nRead the full story at The Verge.",
+    "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002636",
+    "isoDate": "2026-09-30T17:15:49.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-s-what-ai-leaders-are-saying-about-trump-s-new-safety-plan"
   },
   {
-    "title": "(No AI) Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "content": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "contentSnippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "guid": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "(No AI) Disrupting a coordinated model-distillation campaign",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "pubDate": "Wed, 30 Sep 2026 10:30:00 GMT",
+    "content": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "contentSnippet": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "guid": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "categories": [
-      "Product"
+      "Security"
     ],
-    "isoDate": "2026-09-29T10:00:00.000Z",
+    "isoDate": "2026-09-30T10:30:00.000Z",
     "source": "OpenAI",
-    "slug": "introducing-gpt-6-1-sol"
+    "slug": "disrupting-a-coordinated-model-distillation-campaign"
   },
   {
-    "title": "(No AI) DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "content": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "contentSnippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "guid": "https://openai.com/index/devday-2026-recap",
+    "title": "(No AI) Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "pubDate": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "content": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "contentSnippet": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "guid": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "categories": [
-      "Company"
+      "Global Affairs"
     ],
-    "isoDate": "2026-09-29T10:00:00.000Z",
+    "isoDate": "2026-09-30T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "devday-2026-recap"
+    "slug": "helping-small-businesses-put-ai-to-work"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) OpenAI Gets Sued Over the Hugging Face Hack",
-    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "pubDate": "Tue, 29 Sep 2026 19:05:00 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-    "contentSnippet": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-    "guid": "6abbb69b2122500d82924ae7",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-09-29T19:05:00.000Z",
-    "source": "Wired AI",
-    "slug": "openai-gets-sued-over-the-hugging-face-hack"
+    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "isoDate": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
   },
   {
-    "creator": "Emily Mullin, Anna Rogers",
-    "title": "(No AI) Anthropic Says It Discovered a Crispr-Like System. Now What?",
-    "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-    "pubDate": "Tue, 29 Sep 2026 18:03:01 +0000",
-    "dc:creator": "Emily Mullin, Anna Rogers",
-    "content": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-    "contentSnippet": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-    "guid": "6aba7e04bc8ab97fed5aaa2a",
+    "title": "(No AI) Introducing SynthID Bio",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "contentSnippet": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "guid": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "isoDate": "2026-09-30T15:03:07.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-synthid-bio"
+  },
+  {
+    "creator": "Maddy Varner",
+    "title": "(No AI) Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "pubDate": "Wed, 30 Sep 2026 20:30:09 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "contentSnippet": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "guid": "6abd2716b729f64a710059c9",
     "categories": [
-      "Science",
-      "Science / Biotech"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-09-29T18:03:01.000Z",
+    "isoDate": "2026-09-30T20:30:09.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-says-it-discovered-a-crispr-like-system-now-what"
+    "slug": "trump-s-ai-safety-accord-is-a-fancy-pinky-swear"
+  },
+  {
+    "creator": "Reece Rogers",
+    "title": "(No AI) The Battle to Be Your Personal AI Agent Is Here",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "pubDate": "Wed, 30 Sep 2026 19:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "contentSnippet": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "guid": "6abbf44535e7c9025b8ff9e3",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-09-30T19:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-battle-to-be-your-personal-ai-agent-is-here"
   }
 ]
