@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Amanda Silberling",
+    "title": "(No AI) America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "contentSnippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "guid": "https://techcrunch.com/?p=3171769",
+    "categories": [
+      "AI",
+      "Minecraft"
+    ],
+    "isoDate": "2026-09-29T23:30:55.000Z",
+    "source": "TechCrunch AI",
+    "slug": "america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s-not-a-glitch"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
     "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
@@ -19,51 +36,32 @@
     "slug": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) OpenAI’s latest features take direct aim at the app store model",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "contentSnippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "guid": "https://techcrunch.com/?p=3171583",
-    "categories": [
-      "AI",
-      "Apps",
-      "TC",
-      "OpenAI"
-    ],
-    "isoDate": "2026-09-29T20:15:47.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-s-latest-features-take-direct-aim-at-the-app-store-model"
+    "title": "(No AI) Sam Altman says OpenAI won’t go public until its models are safe",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "pubDate": "2026-09-30T00:19:13.000Z",
+    "author": "Hayden Field",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\"\n\nAltman's comments come after [months of controversy](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic) about whether or not OpenAI and its rivals can c …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)",
+    "contentSnippet": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" \nAltman's comments come after months of controversy about whether or not OpenAI and its rivals can c …\nRead the full story at The Verge.",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002505",
+    "isoDate": "2026-09-30T00:19:13.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sam-altman-says-openai-won-t-go-public-until-its-models-are-safe"
   },
   {
     "title": "(No AI) Trump orders US government to call AI ‘Super Intelligence’",
     "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
     "pubDate": "2026-09-29T22:25:45.000Z",
     "author": "Lauren Feiner",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Carolyn Van Houten/The Washington Post via Getty Images\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a [new executive order](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/) signed by President Donald Trump.\n\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of [America.gov](http://america.gov) earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it,\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)",
-    "contentSnippet": "Image: Carolyn Van Houten/The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it,\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\nRead the full story at The Verge.",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Carolyn Van Houten / The Washington Post via Getty Images\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a [new executive order](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/) signed by President Donald Trump.\n\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of [America.gov](http://america.gov) earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)",
+    "contentSnippet": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be  …\nRead the full story at The Verge.",
     "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
     "id": "https://www.theverge.com/?p=1002468",
     "isoDate": "2026-09-29T22:25:45.000Z",
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "trump-orders-us-government-to-call-ai-super-intelligence"
-  },
-  {
-    "title": "(No AI) Elon Musk’s AI-powered Grokipedia is updating again",
-    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "pubDate": "2026-09-29T21:49:09.000Z",
-    "author": "Jay Peters",
-    "content": "![Illustration of Elon Musk standing with a blue and orange striped background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nElon Musk | Image: Laura Normand / The Verge\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after [a months-long pause](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead). In August, _Lawfare_ [reported that](https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone) articles on Grokipedia hadn't reviewed edits since April, but the [platform's live updates site](https://grokipedia.com/live) is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\n\nThe site seems to have become active again relatively recently. The page for [President Barack Obama](https://grokipedia.com/page/Barack_Obama) has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for [Elon Musk](https://grokipedia.com/page/Elon_Musk) was fact-checked while I was writing this, within the …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)",
-    "contentSnippet": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\nThe site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the  …\nRead the full story at The Verge.",
-    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002448",
-    "isoDate": "2026-09-29T21:49:09.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elon-musk-s-ai-powered-grokipedia-is-updating-again"
   },
   {
     "title": "(No AI) Introducing GPT-6.1 Sol",
@@ -92,6 +90,28 @@
     "isoDate": "2026-09-29T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "devday-2026-recap"
+  },
+  {
+    "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "isoDate": "2026-09-24T16:20:39.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-gemini-3-8-live-with-live-avatar"
+  },
+  {
+    "title": "(No AI) Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "contentSnippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "isoDate": "2026-09-23T16:00:57.000Z",
+    "source": "Google DeepMind",
+    "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
   },
   {
     "creator": "Lily Hay Newman",
