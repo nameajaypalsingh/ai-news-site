@@ -1,67 +1,70 @@
 [
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-    "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "contentSnippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "guid": "https://techcrunch.com/?p=3171769",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "contentSnippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "guid": "https://techcrunch.com/?p=3171828",
+    "categories": [
+      "Startups",
+      "AI",
+      "TechCrunch Disrupt",
+      "Cerebras"
+    ],
+    "isoDate": "2026-09-30T14:30:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026"
+  },
+  {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "contentSnippet": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "guid": "https://techcrunch.com/?p=3172103",
     "categories": [
       "AI",
-      "Minecraft"
+      "Startups",
+      "ai infrastructure",
+      "restate",
+      "Temporal"
     ],
-    "isoDate": "2026-09-29T23:30:55.000Z",
+    "isoDate": "2026-09-30T14:27:11.000Z",
     "source": "TechCrunch AI",
-    "slug": "america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-it-s-not-a-glitch"
+    "slug": "restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "contentSnippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "guid": "https://techcrunch.com/?p=3171681",
-    "categories": [
-      "AI",
-      "TC",
-      "Elon Musk",
-      "OpenAI"
-    ],
-    "isoDate": "2026-09-29T22:20:59.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch"
-  },
-  {
-    "title": "(No AI) Sam Altman says OpenAI won’t go public until its models are safe",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "pubDate": "2026-09-30T00:19:13.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFor months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\"\n\nAltman's comments come after [months of controversy](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic) about whether or not OpenAI and its rivals can c …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)",
-    "contentSnippet": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,\" Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be \"bad for the world.\" \nAltman's comments come after months of controversy about whether or not OpenAI and its rivals can c …\nRead the full story at The Verge.",
-    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002505",
-    "isoDate": "2026-09-30T00:19:13.000Z",
+    "title": "(No AI) Instagram is adding an AI ‘assistant’ to tell you how to post",
+    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+    "pubDate": "2026-09-30T14:30:00.000Z",
+    "author": "Mia Sato",
+    "content": "![An illustration of the Instagram logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.\n\nUsing the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube)",
+    "contentSnippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change.\nUsing the new assistant, creators can ask open-ended questions about what's trending on Instagram, why one video worked and another didn't, or what piece of content resonated most with their audience. The tool pulls in data and metrics such as likes, views, retention on videos, and shares. Instagram says it can spot pat …\nRead the full story at The Verge.",
+    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002402",
+    "isoDate": "2026-09-30T14:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "sam-altman-says-openai-won-t-go-public-until-its-models-are-safe"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "instagram-is-adding-an-ai-assistant-to-tell-you-how-to-post"
   },
   {
-    "title": "(No AI) Trump orders US government to call AI ‘Super Intelligence’",
-    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-    "pubDate": "2026-09-29T22:25:45.000Z",
-    "author": "Lauren Feiner",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Carolyn Van Houten / The Washington Post via Getty Images\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a [new executive order](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/) signed by President Donald Trump.\n\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of [America.gov](http://america.gov) earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)",
-    "contentSnippet": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be  …\nRead the full story at The Verge.",
-    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
-    "id": "https://www.theverge.com/?p=1002468",
-    "isoDate": "2026-09-29T22:25:45.000Z",
+    "title": "(No AI) Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "pubDate": "2026-09-30T12:24:32.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Satya Nadella, chief executive officer of Microsoft Corp., from left, Greg Brockman, president and co-founder of OpenAI Inc., Jensen Huang, chief executive officer of Nvidia Corp., US House Speaker Mike Johnson, a Republican from Louisiana, US President Donald Trump, Lisa Su, chair and chief executive officer of Advanced Micro Devices Inc. (AMD), Nikesh Arora, chief executive officer at Palo Alto Networks Inc., and Elon Musk, chief executive officer of Tesla Inc., during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026. The gathering follows a surge in concern about AI potentially posing a threat to humans. ](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images\n\nWe now have the full details of the [\"morally binding\" AI safety deal](https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence) announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was [shared online](https://x.com/DavidSacks/status/2105060520327786914) by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang.\n\n\"In order to build a positive future for the American people and the world, we believe every company is responsible for developing …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs)",
+    "contentSnippet": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images\t\n\nWe now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by Google's Sundar Pichai, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, OpenAI's Greg Brockman, XAI's Elon Musk, and Nvidia's Jensen Huang.\n\"In order to build a positive future for the American people and the world, we believe every company is responsible for developing  …\nRead the full story at The Verge.",
+    "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002584",
+    "isoDate": "2026-09-30T12:24:32.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-orders-us-government-to-call-ai-super-intelligence"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal"
   },
   {
     "title": "(No AI) Introducing GPT-6.1 Sol",
@@ -90,28 +93,6 @@
     "isoDate": "2026-09-29T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "devday-2026-recap"
-  },
-  {
-    "title": "(No AI) Introducing Gemini 3.8 Live with Live Avatar",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "isoDate": "2026-09-24T16:20:39.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-3-8-live-with-live-avatar"
-  },
-  {
-    "title": "(No AI) Advancing Private AI Compute with secure, server-side memory",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "content": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "contentSnippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "guid": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "isoDate": "2026-09-23T16:00:57.000Z",
-    "source": "Google DeepMind",
-    "slug": "advancing-private-ai-compute-with-secure-server-side-memory"
   },
   {
     "creator": "Lily Hay Newman",
