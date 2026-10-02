@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Dominic-Madori Davis",
+    "title": "(No AI) Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
+    "dc:creator": "Dominic-Madori Davis",
+    "content": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "contentSnippet": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "guid": "https://techcrunch.com/?p=3172859",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "Elon Musk",
+      "In Brief"
+    ],
+    "isoDate": "2026-10-01T21:08:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela-s-president"
+  },
+  {
     "creator": "Sarah Perez",
     "title": "(No AI) ChatGPT can now virtually try on clothes for you",
     "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
@@ -18,28 +37,6 @@
     "isoDate": "2026-10-01T19:21:53.000Z",
     "source": "TechCrunch AI",
     "slug": "chatgpt-can-now-virtually-try-on-clothes-for-you"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "contentSnippet": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "guid": "https://techcrunch.com/?p=3172746",
-    "categories": [
-      "AI",
-      "Space",
-      "data centers",
-      "Google",
-      "Planet Labs",
-      "Project Suncatcher",
-      "SpaceX"
-    ],
-    "isoDate": "2026-10-01T19:18:03.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-thinks-spacex-s-starship-has-to-launch-1-800-times-before-space-data-centers-get-off-the-ground"
   },
   {
     "title": "(No AI) Google’s new Guided Vision feature can help you read the fine print",
@@ -120,6 +117,23 @@
     "slug": "introducing-synthid-bio"
   },
   {
+    "creator": "Brian Barrett",
+    "title": "(No AI) Whatever AI Safety Is, It’s Not This",
+    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "pubDate": "Thu, 01 Oct 2026 22:10:42 +0000",
+    "dc:creator": "Brian Barrett",
+    "content": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+    "contentSnippet": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+    "guid": "6abacb8bbc8ab97fed5aad6a",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-01T22:10:42.000Z",
+    "source": "Wired AI",
+    "slug": "whatever-ai-safety-is-it-s-not-this"
+  },
+  {
     "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
     "title": "(No AI) Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
     "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
@@ -136,22 +150,5 @@
     "isoDate": "2026-10-01T19:58:31.000Z",
     "source": "Wired AI",
     "slug": "trump-s-morally-binding-ai-accord-the-rise-of-ai-agents-and-extremists-on-the-ballot"
-  },
-  {
-    "creator": "Maddy Varner",
-    "title": "(No AI) Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-    "pubDate": "Wed, 30 Sep 2026 20:30:09 +0000",
-    "dc:creator": "Maddy Varner",
-    "content": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-    "contentSnippet": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-    "guid": "6abd2716b729f64a710059c9",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-09-30T20:30:09.000Z",
-    "source": "Wired AI",
-    "slug": "trump-s-ai-safety-accord-is-a-fancy-pinky-swear"
   }
 ]
