@@ -1,5 +1,33 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: will they find your startup?",
+    "contentSnippet": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: will they find your startup?",
+    "guid": "https://techcrunch.com/?p=3173088",
+    "categories": [
+      "Enterprise",
+      "TC",
+      "Startups",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Media & Entertainment",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt"
+    ],
+    "isoDate": "2026-10-02T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10-000-tech-leaders"
+  },
+  {
     "creator": "Dominic-Madori Davis",
     "title": "(No AI) Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -19,52 +47,32 @@
     "slug": "musk-s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela-s-president"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-    "contentSnippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-    "guid": "https://techcrunch.com/?p=3172830",
-    "categories": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "ChatGPT",
-      "shopping"
-    ],
-    "isoDate": "2026-10-01T19:21:53.000Z",
-    "source": "TechCrunch AI",
-    "slug": "chatgpt-can-now-virtually-try-on-clothes-for-you"
+    "title": "(No AI) AI hallucinations are making entitled customers even worse",
+    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "pubDate": "2026-10-02T12:00:00.000Z",
+    "author": "Gaby Del Valle",
+    "content": "![Person’s hand holding a phone with a wooden face and Pinocchio nose.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nMadison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\"\n\nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish …\n\n[Read the full story at The Verge.](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)",
+    "contentSnippet": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" \nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish  …\nRead the full story at The Verge.",
+    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+    "id": "https://www.theverge.com/?p=1002963",
+    "isoDate": "2026-10-02T12:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-hallucinations-are-making-entitled-customers-even-worse"
   },
   {
-    "title": "(No AI) Google’s new Guided Vision feature can help you read the fine print",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "pubDate": "2026-10-01T19:47:51.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGuided Vision is [launching in Gemini Live](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/) on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects.\n\nLike the VoiceOver Live Recognition feature Apple has added [to the iPhone](https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence) and [Vision Pro](https://www.theverge.com/news/665683/apple-vision-pro-accessibility-features-zoom-voiceover), it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)",
-    "contentSnippet": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. \nLike the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available  …\nRead the full story at The Verge.",
-    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
-    "id": "https://www.theverge.com/?p=1003756",
-    "isoDate": "2026-10-01T19:47:51.000Z",
+    "title": "(No AI) If a data center is camouflaged in the woods, will anyone hate it?",
+    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "pubDate": "2026-10-02T12:00:00.000Z",
+    "author": "Justine Calma",
+    "content": "![Art depicts a data center surrounded by greenery.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSan Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI.\n\nThere are now more than a dozen data centers in Galvan's roughly 55-square-mile district, and he expects that number to grow to around 20 over the next few years if proposed projects are completed. They're clustered along two main roads, concentrating nuisances in the same neighborhoods: traffic and tr …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry)",
+    "contentSnippet": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. \nThere are now more than a dozen data centers in Galvan's roughly 55-square-mile district, and he expects that number to grow to around 20 over the next few years if proposed projects are completed. They're clustered along two main roads, concentrating nuisances in the same neighborhoods: traffic and tr …\nRead the full story at The Verge.",
+    "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more [&#8230;]",
+    "id": "https://www.theverge.com/?p=1003681",
+    "isoDate": "2026-10-02T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-new-guided-vision-feature-can-help-you-read-the-fine-print"
-  },
-  {
-    "title": "(No AI) Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "pubDate": "2026-10-01T17:12:21.000Z",
-    "author": "Emma Roth",
-    "content": "![An image of Google’s logo on a red, blue, and green background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and _Rolling Stone_ parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, [as reported earlier by _Reuters_](https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/?taid=6abe7325adc2d20001478a0c&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter). US District Judge Amit Mehta takes Google's side [in a ruling on Wednesday](https://www.documentcloud.org/documents/28712400-penske-and-chegg-v-google-dismissal/), writing that PMC and Chegg's claims don't stand up to antitrust law.\n\nIn [lawsuits filed last year, Chegg](https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly) and [PMC accused Google](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews) of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)",
-    "contentSnippet": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law.\nIn lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\nRead the full story at The Verge.",
-    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
-    "id": "https://www.theverge.com/?p=1003589",
-    "isoDate": "2026-10-01T17:12:21.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "judge-dismisses-antitrust-lawsuits-over-google-s-ai-overviews"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "if-a-data-center-is-camouflaged-in-the-woods-will-anyone-hate-it"
   },
   {
     "title": "(No AI) The eternal complement",
@@ -95,60 +103,37 @@
     "slug": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out"
   },
   {
-    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "isoDate": "2026-09-30T20:01:45.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "pubDate": "Fri, 02 Oct 2026 09:45:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+    "contentSnippet": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+    "guid": "6abc2709de4260e1edbea50e",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-10-02T09:45:00.000Z",
+    "source": "Wired AI",
+    "slug": "a-flaw-in-chatgpt-s-mac-app-could-have-let-hackers-grab-sensitive-data"
   },
   {
-    "title": "(No AI) Introducing SynthID Bio",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "contentSnippet": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "guid": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "isoDate": "2026-09-30T15:03:07.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-synthid-bio"
-  },
-  {
-    "creator": "Brian Barrett",
-    "title": "(No AI) Whatever AI Safety Is, It’s Not This",
-    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-    "pubDate": "Thu, 01 Oct 2026 22:10:42 +0000",
-    "dc:creator": "Brian Barrett",
-    "content": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-    "contentSnippet": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-    "guid": "6abacb8bbc8ab97fed5aad6a",
+    "creator": "Paresh Dave",
+    "title": "(No AI) Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "pubDate": "Fri, 02 Oct 2026 09:30:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "contentSnippet": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "guid": "6abd4bb5b55f4a85476c9ae6",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Big Tech"
     ],
-    "isoDate": "2026-10-01T22:10:42.000Z",
+    "isoDate": "2026-10-02T09:30:00.000Z",
     "source": "Wired AI",
-    "slug": "whatever-ai-safety-is-it-s-not-this"
-  },
-  {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-    "pubDate": "Thu, 01 Oct 2026 19:58:31 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-    "contentSnippet": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-    "guid": "6abd69a2aa33d107855886da",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Regulation"
-    ],
-    "isoDate": "2026-10-01T19:58:31.000Z",
-    "source": "Wired AI",
-    "slug": "trump-s-morally-binding-ai-accord-the-rise-of-ai-agents-and-extremists-on-the-ballot"
+    "slug": "health-care-workers-are-tired-of-cleaning-up-palantir-s-mess"
   }
 ]
