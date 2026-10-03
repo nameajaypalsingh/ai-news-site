@@ -89,6 +89,23 @@
     "slug": "chatham-scales-its-capital-markets-expertise-with-openai"
   },
   {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) Muse Creates Detailed Profiles of All Your Friends and Family",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "pubDate": "Sat, 03 Oct 2026 12:00:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "contentSnippet": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "guid": "6abc27c619638e7270d13469",
+    "categories": [
+      "Security",
+      "Security / Privacy"
+    ],
+    "isoDate": "2026-10-03T12:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "muse-creates-detailed-profiles-of-all-your-friends-and-family"
+  },
+  {
     "creator": "Will Knight",
     "title": "(No AI) These AI Experts Want to Do High-Stakes Research Out in the Open",
     "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
@@ -104,22 +121,5 @@
     "isoDate": "2026-10-02T16:00:00.000Z",
     "source": "Wired AI",
     "slug": "these-ai-experts-want-to-do-high-stakes-research-out-in-the-open"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-    "contentSnippet": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-    "guid": "6abe88e538929764b2271968",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-10-02T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "trump-s-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked"
   }
 ]
