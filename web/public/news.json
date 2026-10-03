@@ -1,67 +1,71 @@
 [
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "pubDate": "Sat, 03 Oct 2026 00:45:39 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "contentSnippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "guid": "https://techcrunch.com/?p=3173444",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "contentSnippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "guid": "https://techcrunch.com/?p=3173505",
     "categories": [
       "AI",
-      "Meta"
+      "Climate",
+      "Government & Policy",
+      "Amazon",
+      "Amazon Web Services",
+      "data centers",
+      "Matt Garman"
     ],
-    "isoDate": "2026-10-03T00:45:39.000Z",
+    "isoDate": "2026-10-03T18:43:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-wants-your-next-gadget-to-be-muse-infused"
+    "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "contentSnippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "guid": "https://techcrunch.com/?p=3173395",
+    "creator": "Anthony Ha",
+    "title": "(No AI) OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "contentSnippet": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "guid": "https://techcrunch.com/?p=3173499",
     "categories": [
       "AI",
-      "In Brief",
-      "Sean Parker",
-      "Stability AI"
+      "Security",
+      "OpenAI"
     ],
-    "isoDate": "2026-10-02T21:09:14.000Z",
+    "isoDate": "2026-10-03T16:30:01.000Z",
     "source": "TechCrunch AI",
-    "slug": "sean-parker-is-rebuilding-stability-ai-around-music"
+    "slug": "openai-safety-employee-resigns-claiming-the-company-s-culture-is-broken"
   },
   {
-    "title": "(No AI) Meta open sources code to let you make Muse AI gadgets",
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "pubDate": "2026-10-02T21:08:37.000Z",
-    "author": "Jay Peters",
-    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta now lets you make your own [Muse gadgets](https://gadgets.muse.ai/) that feature the company's new AI agent with code that the company [open sourced](https://github.com/facebookincubator/muse-gadget-sdk). The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY [Muse Charm](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware).\n\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)",
-    "contentSnippet": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
-    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-    "id": "https://www.theverge.com/?p=1004330",
-    "isoDate": "2026-10-02T21:08:37.000Z",
+    "title": "(No AI) Capcom is preparing for a ‘future where we create games together with AI’",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "pubDate": "2026-10-03T16:49:10.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A screenshot of the video game Resident Evil Requiem.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100)\n\nCapcom's _Pragmata_ might be all about the [horrors of AI](https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview), but in practice the studio [doesn't seem so down on the tech](https://www.polygon.com/capcom-ai-re-engine-statement-2026/). During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida [gave a presentation](https://gamebiz.jp/news/433531) with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\n\nCapcom has said previously that it [will not use AI …](https://www.ign.com/articles/resident-evil-requiem-developer-capcom-insists-it-wont-use-ai-generated-assets-in-its-games-but-will-harness-tech-to-make-game-development-processes-more-efficient)\n\n[Read the full story at The Verge.](https://www.theverge.com/games/1004418/capcom-ai-game-development)",
+    "contentSnippet": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\nCapcom has said previously that it will not use AI …\nRead the full story at The Verge.",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]",
+    "id": "https://www.theverge.com/?p=1004418",
+    "isoDate": "2026-10-03T16:49:10.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gadgets"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai"
   },
   {
-    "title": "(No AI) Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "pubDate": "2026-10-02T20:08:40.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, [as reported earlier by _TechCrunch_](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/). In [an update on Friday](https://developer.apple.com/news/?id=p6zjojqw), Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\n\nThe change comes just weeks after _Inc_'s Jason Aten found that Meta's Muse AI somehow [knew the contents of his messages](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy), despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone [pushed back on this report](https://x.com/andymstone/status/2105107596734849423?s=20), saying access to Messages is \"entirely opt-in. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)",
-    "contentSnippet": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
-    "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
-    "id": "https://www.theverge.com/?p=1004295",
-    "isoDate": "2026-10-02T20:08:40.000Z",
+    "title": "(No AI) Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "pubDate": "2026-10-03T15:00:00.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Splice CEO Kakul Srivastava.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100)\n\nKakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"[Money](https://youtu.be/dNCWe_6HAM8)\" and \"[Espresso](https://youtu.be/eVli-tstM5E)\" by Sabrina Carpenter. (The original samples are [here](https://splice.com/sounds/sample/023441d922ac1266aa00741e2b62ea41a30ef4eda9953b9faf4313c2858446b0) and [here](https://splice.com/sounds/sample/30dd0c48c5dcc6b8c43aa6d75c3a3eaa5cd0cb8a6672f006f76e75f8ea133852), for the curious.)\n\nBefore that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been especially true at Splice, where she's not just expanded the platform's footprint by acquiring [Spitfire Audio](https://www.spitfireaudio.com/), but also overseen its forays into the wor …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview)",
+    "contentSnippet": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.)\nBefore that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been especially true at Splice, where she's not just expanded the platform's footprint by acquiring Spitfire Audio, but also overseen its forays into the wor …\nRead the full story at The Verge.",
+    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
+    "id": "https://www.theverge.com/?p=1004162",
+    "isoDate": "2026-10-03T15:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-will-limit-mac-disk-access-as-ai-agents-substantially-increase-risk"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversations"
   },
   {
     "title": "(No AI) A model guide for the GPT-6 family",
@@ -89,6 +93,45 @@
     "slug": "chatham-scales-its-capital-markets-expertise-with-openai"
   },
   {
+    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "isoDate": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+  },
+  {
+    "title": "(No AI) Introducing SynthID Bio",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "contentSnippet": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "guid": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "isoDate": "2026-09-30T15:03:07.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-synthid-bio"
+  },
+  {
+    "creator": "Ryan Whitwam, Ars Technica",
+    "title": "(No AI) The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "pubDate": "Sat, 03 Oct 2026 18:00:00 +0000",
+    "dc:creator": "Ryan Whitwam, Ars Technica",
+    "content": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "contentSnippet": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "guid": "6abff1eb79a026977dfe804e",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-03T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "(No AI) Muse Creates Detailed Profiles of All Your Friends and Family",
     "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
@@ -104,22 +147,5 @@
     "isoDate": "2026-10-03T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "muse-creates-detailed-profiles-of-all-your-friends-and-family"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) These AI Experts Want to Do High-Stakes Research Out in the Open",
-    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "pubDate": "Fri, 02 Oct 2026 16:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-    "contentSnippet": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-    "guid": "6abbf300990723ca87d10e08",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-02T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "these-ai-experts-want-to-do-high-stakes-research-out-in-the-open"
   }
 ]
