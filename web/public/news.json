@@ -1,48 +1,53 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "contentSnippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "guid": "https://techcrunch.com/?p=3169207",
+    "creator": "Kirsten Korosec",
+    "title": "(No AI) Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "pubDate": "Sat, 03 Oct 2026 00:45:39 +0000",
+    "dc:creator": "Kirsten Korosec",
+    "content": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "contentSnippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "guid": "https://techcrunch.com/?p=3173444",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Fintech",
-      "Fundraising",
-      "Robotics",
-      "Startups",
-      "Venture",
-      "Layoffs 2026",
-      "TechCrunch Disrupt"
-    ],
-    "isoDate": "2026-10-02T19:15:51.000Z",
-    "source": "TechCrunch AI",
-    "slug": "affected-by-layoffs-don-t-miss-this-75-deal-for-your-techcrunch-disrupt-2026-expo-pass"
-  },
-  {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-    "contentSnippet": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-    "guid": "https://techcrunch.com/?p=3173313",
-    "categories": [
-      "AI",
-      "Apps",
-      "Security",
-      "AI agents",
-      "Apple",
       "Meta"
     ],
-    "isoDate": "2026-10-02T18:11:27.000Z",
+    "isoDate": "2026-10-03T00:45:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-says-it-s-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+    "slug": "meta-wants-your-next-gadget-to-be-muse-infused"
+  },
+  {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "contentSnippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "guid": "https://techcrunch.com/?p=3173395",
+    "categories": [
+      "AI",
+      "In Brief",
+      "Sean Parker",
+      "Stability AI"
+    ],
+    "isoDate": "2026-10-02T21:09:14.000Z",
+    "source": "TechCrunch AI",
+    "slug": "sean-parker-is-rebuilding-stability-ai-around-music"
+  },
+  {
+    "title": "(No AI) Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "pubDate": "2026-10-02T21:08:37.000Z",
+    "author": "Jay Peters",
+    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta now lets you make your own [Muse gadgets](https://gadgets.muse.ai/) that feature the company's new AI agent with code that the company [open sourced](https://github.com/facebookincubator/muse-gadget-sdk). The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY [Muse Charm](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware).\n\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)",
+    "contentSnippet": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+    "id": "https://www.theverge.com/?p=1004330",
+    "isoDate": "2026-10-02T21:08:37.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-open-sources-code-to-let-you-make-muse-ai-gadgets"
   },
   {
     "title": "(No AI) Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
@@ -57,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "apple-will-limit-mac-disk-access-as-ai-agents-substantially-increase-risk"
-  },
-  {
-    "title": "(No AI) OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "pubDate": "2026-10-02T18:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Photo of a phone showing the OpenAI Dots interface](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNew helpful little guy just dropped. | Photo: Allison Johnson / The Verge\n\nIt's a tale as old as last week: [OpenAI's new agent platform](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor), called Dots, is full of [cute little guys](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping) who can do your bidding.\n\nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work.\n\nOpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface.\n\nThe interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)",
-    "contentSnippet": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. \nOpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface.\nThe interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it  …\nRead the full story at The Verge.",
-    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
-    "id": "https://www.theverge.com/?p=1004096",
-    "isoDate": "2026-10-02T18:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-s-dot-agent-is-enterprise-software-that-can-also-order-your-dinner"
   },
   {
     "title": "(No AI) A model guide for the GPT-6 family",
@@ -120,8 +111,8 @@
     "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
     "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
     "dc:creator": "Steven Levy",
-    "content": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
-    "contentSnippet": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+    "content": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
+    "contentSnippet": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
     "guid": "6abe88e538929764b2271968",
     "categories": [
       "Business",
