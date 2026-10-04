@@ -1,43 +1,42 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "pubDate": "Sun, 04 Oct 2026 15:15:10 +0000",
+    "title": "(No AI) Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "This new task force is Trump's latest response to the debate over AI safety.",
-    "contentSnippet": "This new task force is Trump's latest response to the debate over AI safety.",
-    "guid": "https://techcrunch.com/?p=3173547",
+    "content": "AI slop seems to be overwhelming bug bounty programs.",
+    "contentSnippet": "AI slop seems to be overwhelming bug bounty programs.",
+    "guid": "https://techcrunch.com/?p=3173559",
     "categories": [
       "AI",
-      "Government & Policy",
-      "Donald Trump"
+      "Security"
     ],
-    "isoDate": "2026-10-04T15:15:10.000Z",
+    "isoDate": "2026-10-04T20:31:07.000Z",
     "source": "TechCrunch AI",
-    "slug": "trump-unveils-his-new-super-intelligence-force"
+    "slug": "google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions"
   },
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+    "title": "(No AI) Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "contentSnippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "guid": "https://techcrunch.com/?p=3173505",
+    "content": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "contentSnippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "guid": "https://techcrunch.com/?p=3173555",
     "categories": [
       "AI",
-      "Climate",
       "Government & Policy",
-      "Amazon",
-      "Amazon Web Services",
-      "data centers",
-      "Matt Garman"
+      "dario amodei",
+      "Donald Trump",
+      "Equity podcast",
+      "jeff bezos",
+      "Mark Zuckerberg"
     ],
-    "isoDate": "2026-10-03T18:43:57.000Z",
+    "isoDate": "2026-10-04T20:08:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
+    "slug": "can-super-intelligence-and-a-non-binding-safety-pact-solve-ai-s-image-problem"
   },
   {
     "title": "(No AI) NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
