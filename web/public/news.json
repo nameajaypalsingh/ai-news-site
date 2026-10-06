@@ -1,74 +1,84 @@
 [
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) OpenAI will start watermarking ChatGPT’s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "contentSnippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "guid": "https://techcrunch.com/?p=3173997",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "TC",
-      "eu",
-      "OpenAI",
-      "EU AI Act",
-      "watermarking"
-    ],
-    "isoDate": "2026-10-05T20:36:48.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-will-start-watermarking-chatgpt-s-text-in-the-eu"
-  },
-  {
     "creator": "Rebecca Bellan",
-    "title": "(No AI) Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+    "title": "(No AI) Mirror Particle is building a ‘world model’ of human behavior",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
     "dc:creator": "Rebecca Bellan",
-    "content": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-    "contentSnippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-    "guid": "https://techcrunch.com/?p=3173994",
+    "content": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "contentSnippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "guid": "https://techcrunch.com/?p=3166195",
     "categories": [
       "AI",
-      "beam",
-      "nvidia",
-      "open source",
-      "open weight",
-      "reflection ai"
+      "Startups",
+      "Mirror Particle",
+      "Startup Battlefield 200",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-10-05T19:33:53.000Z",
+    "isoDate": "2026-10-06T16:35:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost"
+    "slug": "mirror-particle-is-building-a-world-model-of-human-behavior"
   },
   {
-    "title": "(No AI) Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "pubDate": "2026-10-06T10:53:11.000Z",
-    "author": "Dominic Preston",
-    "content": "![The Amazon Echo Studio with its front blue LED ring illuminated while sitting on a wooden coffee table.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.\n\nThe issue has been reported on Reddit repeatedly over the last few weeks, [as recently as three days ago](https://www.reddit.com/r/alexa/comments/1www1qs/alexa_did_something_very_strange_today/), across multiple types of Echo speaker. Multiple users have [uploaded videos](https://www.reddit.com/r/alexa/comments/1wk4rii/alexa_said_lalalalala_for_10_minutes/) of the speakers' strange behavior. Here's one that _Android Authority_ uploaded to YouTube:\n\nAmazon is aware of the issue, and told _Android Authority_ in …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end)",
-    "contentSnippet": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.\nThe issue has been reported on Reddit repeatedly over the last few weeks, as recently as three days ago, across multiple types of Echo speaker. Multiple users have uploaded videos of the speakers' strange behavior. Here's one that Android Authority uploaded to YouTube:\n\nAmazon is aware of the issue, and told Android Authority in  …\nRead the full story at The Verge.",
-    "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
-    "id": "https://www.theverge.com/?p=1005342",
-    "isoDate": "2026-10-06T10:53:11.000Z",
+    "creator": "Russell Brandom",
+    "title": "(No AI) Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "contentSnippet": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "guid": "https://techcrunch.com/?p=3174443",
+    "categories": [
+      "TC",
+      "AI",
+      "Anthropic",
+      "In Brief"
+    ],
+    "isoDate": "2026-10-06T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits"
+  },
+  {
+    "title": "(No AI) We can’t just change the definition of ‘recording’",
+    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "pubDate": "2026-10-06T16:29:44.000Z",
+    "author": "Victoria Song",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith AI hardware, tech companies are pushing the definition of what does and _doesn't_ constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording.\n\nPerhaps not anymore.\n\nLast week, _Bloomberg_'s Mark Gurman reported that Apple is working on [a smart hom …](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)\n\n[Read the full story at The Verge.](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)",
+    "contentSnippet": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording. \nPerhaps not anymore. \nLast week, Bloomberg's Mark Gurman reported that Apple is working on a smart hom …\nRead the full story at The Verge.",
+    "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras [&#8230;]",
+    "id": "https://www.theverge.com/?p=1005697",
+    "isoDate": "2026-10-06T16:29:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "we-can-t-just-change-the-definition-of-recording"
   },
   {
-    "title": "(No AI) Gemini Call for Me might tell your mom you’re running late",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "pubDate": "2026-10-05T23:09:55.000Z",
+    "title": "(No AI) Google is about to remove free access to Gemini Flash and Pro",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "pubDate": "2026-10-06T13:19:01.000Z",
     "author": "Stevie Bonifield",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle may be expanding its \"Call for Me\" AI feature beyond [business calls](https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls) so you can use it to send messages to friends and family. [_Android Authority_](https://www.androidauthority.com/gemini-call-for-me-personal-contacts-3719183/) reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\"\n\nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)",
-    "contentSnippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" \nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or  …\nRead the full story at The Verge.",
-    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
-    "id": "https://www.theverge.com/?p=1005177",
-    "isoDate": "2026-10-05T23:09:55.000Z",
+    "content": "![Vector illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nStarting on October 9th, anyone using Google Gemini on a free plan will be [limited to the Flash Lite model](https://support.google.com/gemini/answer/17004136). Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it.\n\nAfter these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be restricted to users with a Google AI Pro or Ultra s …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only)",
+    "contentSnippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. \nAfter these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be restricted to users with a Google AI Pro or Ultra s …\nRead the full story at The Verge.",
+    "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
+    "id": "https://www.theverge.com/?p=1005451",
+    "isoDate": "2026-10-06T13:19:01.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "gemini-call-for-me-might-tell-your-mom-you-re-running-late"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-is-about-to-remove-free-access-to-gemini-flash-and-pro"
+  },
+  {
+    "title": "(No AI) Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "content": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "contentSnippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "guid": "https://openai.com/index/atlassian-partnership",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-10-06T16:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action"
   },
   {
     "title": "(No AI) Our approach to EU text provenance rules",
@@ -83,20 +93,6 @@
     "isoDate": "2026-10-05T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "our-approach-to-eu-text-provenance-rules"
-  },
-  {
-    "title": "(No AI) Building advertising for the way people use AI",
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
-    "content": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "contentSnippet": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "guid": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-10-05T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "building-advertising-for-the-way-people-use-ai"
   },
   {
     "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
@@ -121,38 +117,39 @@
     "slug": "introducing-synthid-bio"
   },
   {
-    "creator": "Katie Drummond",
-    "title": "(No AI) Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-    "contentSnippet": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-    "guid": "6abfc247f4e54bcc4326dd7d",
-    "categories": [
-      "The Big Story",
-      "Business / Artificial Intelligence",
-      "Business"
-    ],
-    "isoDate": "2026-10-06T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "kevin-roose-didn-t-use-ai-to-write-his-book-about-ai"
-  },
-  {
-    "creator": "Molly Taft",
-    "title": "(No AI) Rural Data Centers Are in for a Big Federal Tax Break",
-    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "pubDate": "Sun, 04 Oct 2026 10:00:00 +0000",
-    "dc:creator": "Molly Taft",
-    "content": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-    "contentSnippet": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-    "guid": "6abe5cae9828a5714cf83d72",
+    "creator": "Isabella Ward",
+    "title": "(No AI) OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "pubDate": "Tue, 06 Oct 2026 17:28:33 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "contentSnippet": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "guid": "6ac3ef9feed40d3a2cedf84d",
     "categories": [
       "Science",
-      "Science / Environment"
+      "Science / Physics and Math",
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-04T10:00:00.000Z",
+    "isoDate": "2026-10-06T17:28:33.000Z",
     "source": "Wired AI",
-    "slug": "rural-data-centers-are-in-for-a-big-federal-tax-break"
+    "slug": "openai-is-pissing-off-a-bunch-of-mathematicians-again"
+  },
+  {
+    "creator": "Joel Khalili",
+    "title": "(No AI) Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+    "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "pubDate": "Tue, 06 Oct 2026 13:15:23 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "contentSnippet": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "guid": "6ac3e0f24c663913ae832b04",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-06T13:15:23.000Z",
+    "source": "Wired AI",
+    "slug": "mistral-says-its-new-ai-model-le-chonk-is-the-best-open-weight-offering-outside-of-china"
   }
 ]
