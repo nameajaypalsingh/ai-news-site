@@ -1,42 +1,54 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Mirror Particle is building a ‘world model’ of human behavior",
-    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-    "contentSnippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-    "guid": "https://techcrunch.com/?p=3166195",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "contentSnippet": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "guid": "https://techcrunch.com/?p=3174722",
     "categories": [
       "AI",
       "Startups",
-      "Mirror Particle",
-      "Startup Battlefield 200",
-      "TechCrunch Disrupt"
+      "ai video",
+      "CRV",
+      "General Catalyst"
     ],
-    "isoDate": "2026-10-06T16:35:00.000Z",
+    "isoDate": "2026-10-06T22:34:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "mirror-particle-is-building-a-world-model-of-human-behavior"
+    "slug": "ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product"
   },
   {
     "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+    "title": "(No AI) How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-    "contentSnippet": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-    "guid": "https://techcrunch.com/?p=3174443",
+    "content": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "contentSnippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "guid": "https://techcrunch.com/?p=3174464",
     "categories": [
-      "TC",
       "AI",
-      "Anthropic",
-      "In Brief"
+      "content moderation"
     ],
-    "isoDate": "2026-10-06T16:00:00.000Z",
+    "isoDate": "2026-10-06T20:35:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits"
+    "slug": "how-ai-decision-models-could-change-content-moderation"
+  },
+  {
+    "title": "(No AI) OpenAI drops another batch of mathematical breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "pubDate": "2026-10-06T23:26:38.000Z",
+    "author": "Robert Hart",
+    "content": "![Sam Altman speaking in front of OpenAI logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has [revealed solutions](https://openai.com/index/sharing-ai-progress-in-mathematics/) to a number of long-standing mathematics problems produced by an unreleased frontier model in [a batch of 722 manuscripts, covering 372 result families](https://github.com/openai/math) that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the [newly formed independent advisory group of elite mathematicians](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\n\nThe results have been expected for weeks, althou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)",
+    "contentSnippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\nThe results have been expected for weeks, althou …\nRead the full story at The Verge.",
+    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+    "id": "https://www.theverge.com/?p=1005004",
+    "isoDate": "2026-10-06T23:26:38.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-drops-another-batch-of-mathematical-breakthroughs"
   },
   {
     "title": "(No AI) We can’t just change the definition of ‘recording’",
@@ -53,68 +65,46 @@
     "slug": "we-can-t-just-change-the-definition-of-recording"
   },
   {
-    "title": "(No AI) Google is about to remove free access to Gemini Flash and Pro",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "pubDate": "2026-10-06T13:19:01.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Vector illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nStarting on October 9th, anyone using Google Gemini on a free plan will be [limited to the Flash Lite model](https://support.google.com/gemini/answer/17004136). Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it.\n\nAfter these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be restricted to users with a Google AI Pro or Ultra s …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only)",
-    "contentSnippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. \nAfter these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be restricted to users with a Google AI Pro or Ultra s …\nRead the full story at The Verge.",
-    "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
-    "id": "https://www.theverge.com/?p=1005451",
-    "isoDate": "2026-10-06T13:19:01.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-is-about-to-remove-free-access-to-gemini-flash-and-pro"
-  },
-  {
-    "title": "(No AI) Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
-    "content": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "contentSnippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "guid": "https://openai.com/index/atlassian-partnership",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-10-06T16:00:00.000Z",
+    "title": "(No AI) How Jump Trading is scaling quant research with ChatGPT",
+    "link": "https://openai.com/index/jump-trading",
+    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "content": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "contentSnippet": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "guid": "https://openai.com/index/jump-trading",
+    "isoDate": "2026-10-06T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action"
+    "slug": "how-jump-trading-is-scaling-quant-research-with-chatgpt"
   },
   {
-    "title": "(No AI) Our approach to EU text provenance rules",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
-    "content": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "contentSnippet": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "guid": "https://openai.com/index/eu-text-provenance",
+    "title": "(No AI) Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "content": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "contentSnippet": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "guid": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "categories": [
-      "Safety"
+      "Research"
     ],
-    "isoDate": "2026-10-05T15:00:00.000Z",
+    "isoDate": "2026-10-06T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "our-approach-to-eu-text-provenance-rules"
+    "slug": "sharing-ai-progress-in-mathematics"
   },
   {
-    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "isoDate": "2026-09-30T20:01:45.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
-  },
-  {
-    "title": "(No AI) Introducing SynthID Bio",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "contentSnippet": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "guid": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "isoDate": "2026-09-30T15:03:07.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-synthid-bio"
+    "creator": "John Semley",
+    "title": "(No AI) ‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "pubDate": "Tue, 06 Oct 2026 18:45:39 +0000",
+    "dc:creator": "John Semley",
+    "content": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "contentSnippet": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "guid": "6abe996838929764b2271cbd",
+    "categories": [
+      "Culture",
+      "Culture / Movies"
+    ],
+    "isoDate": "2026-10-06T18:45:39.000Z",
+    "source": "Wired AI",
+    "slug": "artificial-roasts-ai-s-creators-and-sends-a-dark-warning-about-its-dangers"
   },
   {
     "creator": "Isabella Ward",
@@ -134,22 +124,5 @@
     "isoDate": "2026-10-06T17:28:33.000Z",
     "source": "Wired AI",
     "slug": "openai-is-pissing-off-a-bunch-of-mathematicians-again"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-    "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-    "pubDate": "Tue, 06 Oct 2026 13:15:23 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-    "contentSnippet": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-    "guid": "6ac3e0f24c663913ae832b04",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-06T13:15:23.000Z",
-    "source": "Wired AI",
-    "slug": "mistral-says-its-new-ai-model-le-chonk-is-the-best-open-weight-offering-outside-of-china"
   }
 ]
