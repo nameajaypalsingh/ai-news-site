@@ -5,15 +5,15 @@
     "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
     "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
     "dc:creator": "Marina Temkin",
-    "content": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
-    "contentSnippet": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "content": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "contentSnippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
     "guid": "https://techcrunch.com/?p=3174722",
     "categories": [
       "AI",
       "Startups",
-      "ai video",
       "CRV",
-      "General Catalyst"
+      "General Catalyst",
+      "ai video"
     ],
     "isoDate": "2026-10-06T22:34:03.000Z",
     "source": "TechCrunch AI",
@@ -88,6 +88,28 @@
     "isoDate": "2026-10-06T12:00:00.000Z",
     "source": "OpenAI",
     "slug": "sharing-ai-progress-in-mathematics"
+  },
+  {
+    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "isoDate": "2026-10-06T19:57:04.000Z",
+    "source": "Google DeepMind",
+    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+  },
+  {
+    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "isoDate": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
   },
   {
     "creator": "John Semley",
