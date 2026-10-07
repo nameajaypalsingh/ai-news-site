@@ -1,150 +1,128 @@
 [
   {
     "creator": "Marina Temkin",
-    "title": "(No AI) Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "title": "(No AI) Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
     "dc:creator": "Marina Temkin",
-    "content": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "contentSnippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-    "guid": "https://techcrunch.com/?p=3174722",
+    "content": "The developer of Hermes agent raised a $90 million Series B.",
+    "contentSnippet": "The developer of Hermes agent raised a $90 million Series B.",
+    "guid": "https://techcrunch.com/?p=3175337",
     "categories": [
       "AI",
-      "Startups",
-      "CRV",
-      "General Catalyst",
-      "ai video"
+      "Enterprise",
+      "Fundraising",
+      "AI agents",
+      "Hermes Agent"
     ],
-    "isoDate": "2026-10-06T22:34:03.000Z",
+    "isoDate": "2026-10-07T20:48:45.000Z",
     "source": "TechCrunch AI",
-    "slug": "ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product"
+    "slug": "nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) How AI decision models could change content moderation",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-    "contentSnippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-    "guid": "https://techcrunch.com/?p=3174464",
+    "creator": "Julie Bort",
+    "title": "(No AI) Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "contentSnippet": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "guid": "https://techcrunch.com/?p=3175292",
     "categories": [
       "AI",
-      "content moderation"
+      "Hardware",
+      "TC",
+      "Microsoft"
     ],
-    "isoDate": "2026-10-06T20:35:20.000Z",
+    "isoDate": "2026-10-07T20:22:37.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-ai-decision-models-could-change-content-moderation"
+    "slug": "microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
   },
   {
-    "title": "(No AI) OpenAI drops another batch of mathematical breakthroughs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-    "pubDate": "2026-10-06T23:26:38.000Z",
-    "author": "Robert Hart",
-    "content": "![Sam Altman speaking in front of OpenAI logo](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI has [revealed solutions](https://openai.com/index/sharing-ai-progress-in-mathematics/) to a number of long-standing mathematics problems produced by an unreleased frontier model in [a batch of 722 manuscripts, covering 372 result families](https://github.com/openai/math) that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the [newly formed independent advisory group of elite mathematicians](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\n\nThe results have been expected for weeks, althou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)",
-    "contentSnippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\nThe results have been expected for weeks, althou …\nRead the full story at The Verge.",
-    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-    "id": "https://www.theverge.com/?p=1005004",
-    "isoDate": "2026-10-06T23:26:38.000Z",
+    "title": "(No AI) ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "pubDate": "2026-10-07T19:10:42.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The [update, which is rolling out to all users](https://openai.com/index/gpt-6-for-everyone/) alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.\n\nIn [a blog post explaining the change](https://openai.com/index/gpt-6-for-everyone/), OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight differe …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)",
+    "contentSnippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.\nIn a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight differe …\nRead the full story at The Verge.",
+    "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+    "id": "https://www.theverge.com/?p=1007276",
+    "isoDate": "2026-10-07T19:10:42.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-drops-another-batch-of-mathematical-breakthroughs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-s-intelligent-ui-update-fills-its-responses-with-pictures-charts-and-buttons"
   },
   {
-    "title": "(No AI) We can’t just change the definition of ‘recording’",
-    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "pubDate": "2026-10-06T16:29:44.000Z",
-    "author": "Victoria Song",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith AI hardware, tech companies are pushing the definition of what does and _doesn't_ constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording.\n\nPerhaps not anymore.\n\nLast week, _Bloomberg_'s Mark Gurman reported that Apple is working on [a smart hom …](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)\n\n[Read the full story at The Verge.](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)",
-    "contentSnippet": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording. \nPerhaps not anymore. \nLast week, Bloomberg's Mark Gurman reported that Apple is working on a smart hom …\nRead the full story at The Verge.",
-    "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras [&#8230;]",
-    "id": "https://www.theverge.com/?p=1005697",
-    "isoDate": "2026-10-06T16:29:44.000Z",
+    "title": "(No AI) Everything announced at Microsoft’s Surface Laptop Ultra event",
+    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "pubDate": "2026-10-07T18:42:22.000Z",
+    "author": "Jay Peters",
+    "content": "![A photo of Windows and Surface chief Pavan Davuluri announcing the Surface Laptop Ultra and RTX Spark Dev Box prices.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\n\nThe biggest announcement was arguably the release details about [the Surface Laptop Ultra](https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date), its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has [built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging) instead of the proprietary Surface Connect magnetic charging port. _The Verge_‘s Tom Warren published [a deep dive all about the new laptop](https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes). Microsoft [also announced](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder) that the Surface RTX Spark Dev Box, a mini PC for developers, is available for preorder for $5,999 ahead of shipping in November.\n\nIn addition, Microsoft shared details about [some updates coming to Windows](https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence), including “Hybrid Intelligence” features that lets Copilot use files on your Windows PC to take actions and a new search experience that lets you do quick actions from the search bar.\n\nYou can catch up with all of our coverage from the event right here.\n\n*   [Fs in the chat.](https://www.theverge.com/tech/1007454/fs-in-the-chat)\n*   [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)\n*   [Microsoft is giving Copilot more control over Windows and your files](https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence)\n*   [The Surface Laptop Ultra finally has a release date — and a starting price of $2,599](https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date)\n*   [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)\n*   [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)\n*   [Muse is coming to Windows.](https://www.theverge.com/tech/1007079/muse-is-coming-to-windows)\n*   [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)",
+    "contentSnippet": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has built-in magnetic USB-C charging instead of the proprietary Surface Connect magnetic charging port. The Verge‘s Tom Warren published a deep dive all about the new laptop. Microsoft also announced that the Surface RTX Spark Dev Box, a mini PC for developers, is available for preorder for $5,999 ahead of shipping in November.\nIn addition, Microsoft shared details about some updates coming to Windows, including “Hybrid Intelligence” features that lets Copilot use files on your Windows PC to take actions and a new search experience that lets you do quick actions from the search bar.\nYou can catch up with all of our coverage from the event right here.\nFs in the chat.\n\t\t\t\nThe first Nvidia RTX Spark laptops cost up to $7,000\n\t\t\t\nMicrosoft is giving Copilot more control over Windows and your files\n\t\t\t\nThe Surface Laptop Ultra finally has a release date — and a starting price of $2,599\n\t\t\t\nSurface RTX Spark Dev Box is available for preorder for $5,999\n\t\t\t\nMicrosoft’s Surface Laptop Ultra has built-in magnetic USB-C charging\n\t\t\t\nMuse is coming to Windows.\n\t\t\t\nWindows and Surface live blog: On the ground at Microsoft’s event",
+    "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#8217;s powered by Nvidia&#8217;s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [&#8230;]",
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=1007147",
+    "isoDate": "2026-10-07T18:42:22.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "we-can-t-just-change-the-definition-of-recording"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "everything-announced-at-microsoft-s-surface-laptop-ultra-event"
   },
   {
-    "title": "(No AI) How Jump Trading is scaling quant research with ChatGPT",
-    "link": "https://openai.com/index/jump-trading",
-    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "content": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "contentSnippet": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "guid": "https://openai.com/index/jump-trading",
-    "isoDate": "2026-10-06T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-jump-trading-is-scaling-quant-research-with-chatgpt"
-  },
-  {
-    "title": "(No AI) Sharing AI progress in mathematics",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "content": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "contentSnippet": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "guid": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "title": "(No AI) Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "content": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "contentSnippet": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "guid": "https://openai.com/index/teens-learn-and-plan",
     "categories": [
-      "Research"
+      "Product"
     ],
-    "isoDate": "2026-10-06T12:00:00.000Z",
+    "isoDate": "2026-10-07T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "sharing-ai-progress-in-mathematics"
+    "slug": "helping-teens-learn-plan-and-shape-the-future-of-ai"
   },
   {
-    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "isoDate": "2026-10-06T19:57:04.000Z",
-    "source": "Google DeepMind",
-    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+    "title": "(No AI) Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "content": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "contentSnippet": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "guid": "https://openai.com/index/radisson",
+    "isoDate": "2026-10-07T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "radisson-hotel-group-brings-hotel-discovery-into-chatgpt"
   },
   {
-    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "isoDate": "2026-09-30T20:01:45.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
-  },
-  {
-    "creator": "John Semley",
-    "title": "(No AI) ‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-    "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-    "pubDate": "Tue, 06 Oct 2026 18:45:39 +0000",
-    "dc:creator": "John Semley",
-    "content": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
-    "contentSnippet": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
-    "guid": "6abe996838929764b2271cbd",
+    "creator": "Will Knight",
+    "title": "(No AI) These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "pubDate": "Wed, 07 Oct 2026 18:45:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "contentSnippet": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "guid": "6ac3dfb697d1c72b4c81d740",
     "categories": [
-      "Culture",
-      "Culture / Movies"
-    ],
-    "isoDate": "2026-10-06T18:45:39.000Z",
-    "source": "Wired AI",
-    "slug": "artificial-roasts-ai-s-creators-and-sends-a-dark-warning-about-its-dangers"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "pubDate": "Tue, 06 Oct 2026 17:28:33 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-    "contentSnippet": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-    "guid": "6ac3ef9feed40d3a2cedf84d",
-    "categories": [
-      "Science",
-      "Science / Physics and Math",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-06T17:28:33.000Z",
+    "isoDate": "2026-10-07T18:45:00.000Z",
     "source": "Wired AI",
-    "slug": "openai-is-pissing-off-a-bunch-of-mathematicians-again"
+    "slug": "these-researchers-made-ai-drive-a-toyota-corolla-to-get-in-n-out"
+  },
+  {
+    "creator": "Reece Rogers",
+    "title": "(No AI) The New ChatGPT Is More Show Than Tell",
+    "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "pubDate": "Wed, 07 Oct 2026 18:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+    "contentSnippet": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+    "guid": "6ac65d4eac79b670a5c39488",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-07T18:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-new-chatgpt-is-more-show-than-tell"
   }
 ]
