@@ -1,5 +1,30 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+    "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+    "contentSnippet": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+    "guid": "https://techcrunch.com/?p=3175987",
+    "categories": [
+      "Startups",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt",
+      "Startup Battlefield"
+    ],
+    "isoDate": "2026-10-09T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise"
+  },
+  {
     "creator": "Amanda Silberling",
     "title": "(No AI) Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
     "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
@@ -21,50 +46,43 @@
     "slug": "pretend-you-re-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "contentSnippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "guid": "https://techcrunch.com/?p=3175894",
-    "categories": [
-      "AI",
-      "ai safety",
-      "OpenAI"
-    ],
-    "isoDate": "2026-10-08T20:04:26.000Z",
-    "source": "TechCrunch AI",
-    "slug": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
+    "title": "(No AI) Trump’s attempt to rename AI is looking awfully artificial",
+    "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "pubDate": "2026-10-09T14:25:43.000Z",
+    "author": "Adi Robertson",
+    "content": "![CEO of Meta Platforms Mark Zuckerberg (R) looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPresident Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from [a phrase](http://journalism.org/2016/12/15/many-americans-believe-fake-news-is-sowing-confusion/) describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and [declaring resisters](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)",
+    "contentSnippet": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\nRead the full story at The Verge.",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008677",
+    "isoDate": "2026-10-09T14:25:43.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "trump-s-attempt-to-rename-ai-is-looking-awfully-artificial"
   },
   {
-    "title": "(No AI) Anthropic launches free AI security scans for open-source projects",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "pubDate": "2026-10-08T21:53:51.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's offering to help open-source projects track down security vulnerabilities with a new service called [OSS Scanner](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source). It says open-source projects that [opt-in](https://red.anthropic.com/oss-scanner/#sign-up) will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\n\n> The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)",
-    "contentSnippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
-    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008521",
-    "isoDate": "2026-10-08T21:53:51.000Z",
+    "title": "(No AI) Instinct was the buzziest AI agent around — can it survive Muse?",
+    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "pubDate": "2026-10-09T14:00:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![Photo of a phone on a table showing Instinct AI texts.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstinct’s agent is always just a text away.\n\nBefore there were [cute little guys](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute), there was Instinct.\n\nIn August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, [garnering praise](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/) for its straightforward, text message-based interface and its ability to handle chores like [booking DMV appointments](https://x.com/pitdesi/status/2090579987778937159?lang=en) and [sending follow-up emails](https://x.com/srcasm/status/2091211911920542200).\n\nThen Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies.\n\nWith Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots)",
+    "contentSnippet": "Instinct’s agent is always just a text away.\t\n\nBefore there were cute little guys, there was Instinct.\nIn August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to handle chores like booking DMV appointments and sending follow-up emails.\nThen Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies.\nWith Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep …\nRead the full story at The Verge.",
+    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008254",
+    "isoDate": "2026-10-09T14:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-launches-free-ai-security-scans-for-open-source-projects"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "instinct-was-the-buzziest-ai-agent-around-can-it-survive-muse"
   },
   {
-    "title": "(No AI) California is trying to shut down robot vs. human cage matches",
-    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-    "pubDate": "2026-10-08T20:06:56.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, [as reported by _The New York Times_](https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html).\n\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the _NYT_ described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on [its website](https://rek.com/fights), and the robot appears to be one from [EngineAI](https://en.engineai.com.cn/) but with a _Terminator_\\-like head swapped on top.\n\nYou can watch a replay of the fight [on YouTube](https://www.youtube.com/watch?v=4rg2sB6ELtk):\n\nThe CEO of Rek …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human)",
-    "contentSnippet": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on its website, and the robot appears to be one from EngineAI but with a Terminator-like head swapped on top.  \nYou can watch a replay of the fight on YouTube:\n\nThe CEO of Rek …\nRead the full story at The Verge.",
-    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008401",
-    "isoDate": "2026-10-08T20:06:56.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "california-is-trying-to-shut-down-robot-vs-human-cage-matches"
+    "title": "(No AI) Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "contentSnippet": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "guid": "https://openai.com/index/sophos",
+    "isoDate": "2026-10-09T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak"
   },
   {
     "title": "(No AI) How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -78,18 +96,43 @@
     "slug": "how-oracle-turns-days-of-work-into-minutes-with-chatgpt-and-codex"
   },
   {
-    "title": "(No AI) Pollo AI turns creative ideas into campaigns with OpenAI",
-    "link": "https://openai.com/index/pollo-ai",
-    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "content": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "contentSnippet": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "guid": "https://openai.com/index/pollo-ai",
+    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "isoDate": "2026-10-06T19:57:04.000Z",
+    "source": "Google DeepMind",
+    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+  },
+  {
+    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "isoDate": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+  },
+  {
+    "creator": "Ej Dickson ",
+    "title": "(No AI) Even ‘Law & Order’ Is Terrified of AI",
+    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
+    "dc:creator": "Ej Dickson ",
+    "content": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "contentSnippet": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "guid": "6ac01fede94a29d60b5da911",
     "categories": [
-      "Startup"
+      "Culture",
+      "Culture / TV"
     ],
-    "isoDate": "2026-10-08T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai"
+    "isoDate": "2026-10-09T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "even-law-order-is-terrified-of-ai"
   },
   {
     "creator": "Zoë Schiffer, Leah Feiger",
@@ -109,22 +152,5 @@
     "isoDate": "2026-10-08T21:14:12.000Z",
     "source": "Wired AI",
     "slug": "inside-elon-musk-s-midterm-spending-spree"
-  },
-  {
-    "creator": "Zoë Schiffer",
-    "title": "(No AI) She Designed Meta’s New AI Logo. Then Came the Hate",
-    "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-    "pubDate": "Thu, 08 Oct 2026 19:30:00 +0000",
-    "dc:creator": "Zoë Schiffer",
-    "content": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "contentSnippet": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "guid": "6ac52a334a782f0cbf88b69f",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-08T19:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "she-designed-meta-s-new-ai-logo-then-came-the-hate"
   }
 ]
