@@ -39,6 +39,20 @@
     "slug": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
   },
   {
+    "title": "(No AI) Anthropic launches free AI security scans for open-source projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "pubDate": "2026-10-08T21:53:51.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A robot with the claude logo on its face.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic's offering to help open-source projects track down security vulnerabilities with a new service called [OSS Scanner](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source). It says open-source projects that [opt-in](https://red.anthropic.com/oss-scanner/#sign-up) will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\n\n> The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)",
+    "contentSnippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
+    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008521",
+    "isoDate": "2026-10-08T21:53:51.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-launches-free-ai-security-scans-for-open-source-projects"
+  },
+  {
     "title": "(No AI) California is trying to shut down robot vs. human cage matches",
     "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
     "pubDate": "2026-10-08T20:06:56.000Z",
@@ -51,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "california-is-trying-to-shut-down-robot-vs-human-cage-matches"
-  },
-  {
-    "title": "(No AI) USA Today becomes the latest publisher to sue OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-    "pubDate": "2026-10-08T17:58:33.000Z",
-    "author": "Emma Roth",
-    "content": "![Illustration of OpenAI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUSA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, [as reported earlier by _Reuters_](https://www.reuters.com/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08/). In [a filing on Thursday](https://www.documentcloud.org/documents/28731453-usa-today-v-openai/), the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content \"has done real and continuing\" harm to its outlets.\n\nThis is just the latest in a string of copyright lawsuits filed against OpenAI. In [addition to a copyright lawsuit filed by _The New York Times_](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement), OpenAI is also facing [legal action from _The Intercept_](https://www.theverge.com/2024/2/28/24085973/intercept-raw-story-alternet-openai-lawsuit-copyright), [CNET owner Ziff Davis](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag), [CBC/Radio-Canada](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt), [Encyclopaedia …](https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit)",
-    "contentSnippet": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of its content  \"has done real and continuing\" harm to its outlets.\nThis is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET owner Ziff Davis, CBC/Radio-Canada, Encyclopaedia  …\nRead the full story at The Verge.",
-    "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008198",
-    "isoDate": "2026-10-08T17:58:33.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "usa-today-becomes-the-latest-publisher-to-sue-openai"
   },
   {
     "title": "(No AI) How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -92,26 +92,23 @@
     "slug": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai"
   },
   {
-    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "isoDate": "2026-10-06T19:57:04.000Z",
-    "source": "Google DeepMind",
-    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
-  },
-  {
-    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "isoDate": "2026-09-30T20:01:45.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+    "creator": "Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) Inside Elon Musk’s Midterm Spending Spree",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "pubDate": "Thu, 08 Oct 2026 21:14:12 +0000",
+    "dc:creator": "Zoë Schiffer, Leah Feiger",
+    "content": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "contentSnippet": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "guid": "6ac6ac8d9de41610baccb1a6",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Politics",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2026-10-08T21:14:12.000Z",
+    "source": "Wired AI",
+    "slug": "inside-elon-musk-s-midterm-spending-spree"
   },
   {
     "creator": "Zoë Schiffer",
@@ -129,23 +126,5 @@
     "isoDate": "2026-10-08T19:30:00.000Z",
     "source": "Wired AI",
     "slug": "she-designed-meta-s-new-ai-logo-then-came-the-hate"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-    "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-    "pubDate": "Thu, 08 Oct 2026 09:30:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-    "contentSnippet": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-    "guid": "6ac027c0a18993c6adb8406d",
-    "categories": [
-      "Business",
-      "Business / Tech Culture",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-08T09:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led"
   }
 ]
