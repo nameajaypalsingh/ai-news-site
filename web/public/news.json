@@ -1,77 +1,67 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-    "contentSnippet": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-    "guid": "https://techcrunch.com/?p=3175987",
-    "categories": [
-      "Startups",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "AI",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt",
-      "Startup Battlefield"
-    ],
-    "isoDate": "2026-10-09T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise"
-  },
-  {
     "creator": "Amanda Silberling",
-    "title": "(No AI) Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
+    "title": "(No AI) An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
     "dc:creator": "Amanda Silberling",
-    "content": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-    "contentSnippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-    "guid": "https://techcrunch.com/?p=3175918",
+    "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "contentSnippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "guid": "https://techcrunch.com/?p=3176212",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Media & Entertainment",
-      "elizabeth holmes",
-      "lawsuit",
-      "Theranos"
+      "Anthropic"
     ],
-    "isoDate": "2026-10-08T21:00:00.000Z",
+    "isoDate": "2026-10-09T19:36:56.000Z",
     "source": "TechCrunch AI",
-    "slug": "pretend-you-re-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website"
+    "slug": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"
   },
   {
-    "title": "(No AI) Trump’s attempt to rename AI is looking awfully artificial",
-    "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "pubDate": "2026-10-09T14:25:43.000Z",
-    "author": "Adi Robertson",
-    "content": "![CEO of Meta Platforms Mark Zuckerberg (R) looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nPresident Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from [a phrase](http://journalism.org/2016/12/15/many-americans-believe-fake-news-is-sowing-confusion/) describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and [declaring resisters](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)",
-    "contentSnippet": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\nRead the full story at The Verge.",
-    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008677",
-    "isoDate": "2026-10-09T14:25:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "trump-s-attempt-to-rename-ai-is-looking-awfully-artificial"
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access \\[…\\]",
+    "contentSnippet": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3176138",
+    "categories": [
+      "AI",
+      "AI data center",
+      "Amazon",
+      "data center"
+    ],
+    "isoDate": "2026-10-09T16:56:42.000Z",
+    "source": "TechCrunch AI",
+    "slug": "amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust"
   },
   {
-    "title": "(No AI) Instinct was the buzziest AI agent around — can it survive Muse?",
-    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "pubDate": "2026-10-09T14:00:00.000Z",
-    "author": "Allison Johnson",
-    "content": "![Photo of a phone on a table showing Instinct AI texts.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nInstinct’s agent is always just a text away.\n\nBefore there were [cute little guys](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute), there was Instinct.\n\nIn August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, [garnering praise](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/) for its straightforward, text message-based interface and its ability to handle chores like [booking DMV appointments](https://x.com/pitdesi/status/2090579987778937159?lang=en) and [sending follow-up emails](https://x.com/srcasm/status/2091211911920542200).\n\nThen Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies.\n\nWith Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots)",
-    "contentSnippet": "Instinct’s agent is always just a text away.\t\n\nBefore there were cute little guys, there was Instinct.\nIn August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to handle chores like booking DMV appointments and sending follow-up emails.\nThen Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies.\nWith Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep …\nRead the full story at The Verge.",
-    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008254",
-    "isoDate": "2026-10-09T14:00:00.000Z",
+    "title": "(No AI) ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "pubDate": "2026-10-09T19:09:44.000Z",
+    "author": "Robert Hart",
+    "content": "![Melting calculator with glitch effects.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\"\n\nThose were among the descriptions more than three dozen mathematicians reached for in conversations with _The Verge_ as they tried to make sense of the [flood of mathematical results](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github) OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the deluge was a deep-seated anxiety over what it all means - and what comes next. For all their different reactions, researchers agreed that simply understanding what OpenAI had released could take years, let alone figuring out where the mathematicians themselves fit in the fi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)",
+    "contentSnippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" \nThose were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the deluge was a deep-seated anxiety over what it all means - and what comes next. For all their different reactions, researchers agreed that simply understanding what OpenAI had released could take years, let alone figuring out where the mathematicians themselves fit in the fi …\nRead the full story at The Verge.",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008726",
+    "isoDate": "2026-10-09T19:09:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "instinct-was-the-buzziest-ai-agent-around-can-it-survive-muse"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "pure-insanity-mathematicians-will-need-years-to-make-sense-of-openai-s-latest-drop"
+  },
+  {
+    "title": "(No AI) Nikon microscopic video competition winner disqualified for using generative AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "pubDate": "2026-10-09T18:06:57.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A still from Dr. Ning Xu’s disqualified video for Nikon’s 2026 Small World in Motion contest](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe original first place video used AI in post-processing. | Image: Dr. Ning Xu\n\nNikon [says](https://www.nikonsmallworld.com/news/nikon-small-world-in-motion-video-statement) the video that originally won first place in its [Small World in Motion contest](https://www.theverge.com/tech/997345/the-winners-of-nikons-microscopic-video-competition) \"did not comply with the competition rules regarding generative AI.\" [_BBC_](https://www.bbc.com/news/articles/cr86z33pdy9vo) reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon said last week that it was [reviewing the video](https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/) following skepticism online about its authenticity.\n\nIn [a comment on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506310017814401024/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287508739768218980352%2Curn%3Ali%3AugcPost%3A7506310017814401024%29), Dr. Xu admitted to using AI for the video: \"An unsupervised neural-network method was subsequently used for AI-assisted post-processing to distinguish and visualize f …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)",
+    "contentSnippet": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon said last week that it was reviewing the video following skepticism online about its authenticity. \nIn a comment on LinkedIn, Dr. Xu admitted to using AI for the video: \"An unsupervised neural-network method was subsequently used for AI-assisted post-processing to distinguish and visualize f …\nRead the full story at The Verge.",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008930",
+    "isoDate": "2026-10-09T18:06:57.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nikon-microscopic-video-competition-winner-disqualified-for-using-generative-ai"
   },
   {
     "title": "(No AI) Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -85,15 +75,15 @@
     "slug": "sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak"
   },
   {
-    "title": "(No AI) How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "link": "https://openai.com/index/oracle",
-    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-    "content": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "contentSnippet": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "guid": "https://openai.com/index/oracle",
-    "isoDate": "2026-10-08T16:00:00.000Z",
+    "title": "(No AI) Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "contentSnippet": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "guid": "https://openai.com/index/asana-browser-agent",
+    "isoDate": "2026-10-09T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-oracle-turns-days-of-work-into-minutes-with-chatgpt-and-codex"
+    "slug": "asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol"
   },
   {
     "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -118,6 +108,23 @@
     "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
   },
   {
+    "creator": "Adam Morgan",
+    "title": "(No AI) Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000",
+    "dc:creator": "Adam Morgan",
+    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "contentSnippet": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "guid": "6abe9c83d05dc665bd7e9be0",
+    "categories": [
+      "Culture",
+      "Culture / Books"
+    ],
+    "isoDate": "2026-10-09T19:28:49.000Z",
+    "source": "Wired AI",
+    "slug": "book-publishers-are-quietly-using-more-ai-staff-are-revolting"
+  },
+  {
     "creator": "Ej Dickson ",
     "title": "(No AI) Even ‘Law & Order’ Is Terrified of AI",
     "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
@@ -133,24 +140,5 @@
     "isoDate": "2026-10-09T10:00:00.000Z",
     "source": "Wired AI",
     "slug": "even-law-order-is-terrified-of-ai"
-  },
-  {
-    "creator": "Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) Inside Elon Musk’s Midterm Spending Spree",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-    "pubDate": "Thu, 08 Oct 2026 21:14:12 +0000",
-    "dc:creator": "Zoë Schiffer, Leah Feiger",
-    "content": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "contentSnippet": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "guid": "6ac6ac8d9de41610baccb1a6",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Politics",
-      "Politics / Politics News"
-    ],
-    "isoDate": "2026-10-08T21:14:12.000Z",
-    "source": "Wired AI",
-    "slug": "inside-elon-musk-s-midterm-spending-spree"
   }
 ]
