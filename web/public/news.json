@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "contentSnippet": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "guid": "https://techcrunch.com/?p=3176054",
+    "categories": [
+      "AI",
+      "otter",
+      "voice AI"
+    ],
+    "isoDate": "2026-10-11T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -18,24 +36,18 @@
     "slug": "microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Is Apple hoping to get into the AI-generated podcast business?",
-    "contentSnippet": "Is Apple hoping to get into the AI-generated podcast business?",
-    "guid": "https://techcrunch.com/?p=3176436",
-    "categories": [
-      "AI",
-      "Media & Entertainment",
-      "Startups",
-      "Apple",
-      "Huxe"
-    ],
-    "isoDate": "2026-10-10T19:50:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe"
+    "title": "(No AI) Learning to use local AI is exciting, overwhelming, and frustrating",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "pubDate": "2026-10-11T11:00:00.000Z",
+    "author": "Antonio G. Di Benedetto",
+    "content": "![An Asus TUF A14 laptop running Hermes Agent local AI and sitting on a child’s table full of toys.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nBaby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it.\n\nA big part of Apple's pitch for its new Mac desktops is how good they …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)",
+    "contentSnippet": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it.\nA big part of Apple's pitch for its new Mac desktops is how good they  …\nRead the full story at The Verge.",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+    "id": "https://www.theverge.com/?p=1008484",
+    "isoDate": "2026-10-11T11:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating"
   },
   {
     "title": "(No AI) Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -50,20 +62,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
-  },
-  {
-    "title": "(No AI) DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "pubDate": "2026-10-10T18:52:07.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![DistroKid Logo on blue background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nArtists are [taking](https://x.com/shinobistalin/status/2108324834664907207?s=20) to [social media](https://www.threads.com/@stilldono/post/DeRcOJoIB0A) to [complain](https://x.com/poetofbabylon/status/2108210502862262499?s=20) that DistroKid has [unceremoniously removed](https://youtu.be/Jy_IZ9afe40) their work without notice. Now DistroKid has confirmed to _The Verge_ that the takedowns are a direct response to claims made by UMG. The label filed a [lawsuit](https://www.theverge.com/entertainment/995842/umg-is-suing-distrokid-for-alleged-deceptive-trade-practices-and-blatant-copyright-infringement) in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that their non-AI works are being caught up in the purge, however.\n\nMusician and self-described \"Video Game boy\" [McGwire](https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7?si=_8km8XUZTius5dQ0hvuNeg) reported that six of his songs had been removed from streaming. As has been the case with others, McGwire says that there was no communication from DistroKid before or after the removals, a …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)",
-    "contentSnippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that their non-AI works are being caught up in the purge, however.\nMusician and self-described \"Video Game boy\" McGwire reported that six of his songs had been removed from streaming. As has been the case with others, McGwire says that there was no communication from DistroKid before or after the removals, a …\nRead the full story at The Verge.",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
-    "id": "https://www.theverge.com/?p=1009309",
-    "isoDate": "2026-10-10T18:52:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-lawsuit"
   },
   {
     "title": "(No AI) Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -88,6 +86,45 @@
     "slug": "asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol"
   },
   {
+    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "isoDate": "2026-10-06T19:57:04.000Z",
+    "source": "Google DeepMind",
+    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+  },
+  {
+    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "isoDate": "2026-09-30T20:01:45.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+  },
+  {
+    "creator": "Boone Ashworth",
+    "title": "(No AI) I Made Terrible Games With Google’s AI Playground",
+    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "dc:creator": "Boone Ashworth",
+    "content": "A long day’s haul in the video game slop mines.",
+    "contentSnippet": "A long day’s haul in the video game slop mines.",
+    "guid": "6ac932eaafef77f50434f289",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-11T11:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "i-made-terrible-games-with-google-s-ai-playground"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "(No AI) AI Is Getting Really Good at Messing With Cybercriminals",
     "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
@@ -103,22 +140,5 @@
     "isoDate": "2026-10-10T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "ai-is-getting-really-good-at-messing-with-cybercriminals"
-  },
-  {
-    "creator": "Adam Morgan",
-    "title": "(No AI) Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000",
-    "dc:creator": "Adam Morgan",
-    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "contentSnippet": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "guid": "6abe9c83d05dc665bd7e9be0",
-    "categories": [
-      "Culture",
-      "Culture / Books"
-    ],
-    "isoDate": "2026-10-09T19:28:49.000Z",
-    "source": "Wired AI",
-    "slug": "book-publishers-are-quietly-using-more-ai-staff-are-revolting"
   }
 ]
