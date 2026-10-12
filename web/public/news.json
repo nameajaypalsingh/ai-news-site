@@ -1,78 +1,68 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "contentSnippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "guid": "https://techcrunch.com/?p=3176490",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+    "contentSnippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+    "guid": "https://techcrunch.com/?p=3176669",
     "categories": [
       "AI",
-      "Gadgets",
-      "Hardware",
-      "Apple",
-      "HomePod"
+      "Exclusive"
     ],
-    "isoDate": "2026-10-11T21:14:40.000Z",
+    "isoDate": "2026-10-12T17:19:14.000Z",
     "source": "TechCrunch AI",
-    "slug": "will-the-homeview-be-apple-s-first-smart-home-success"
+    "slug": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "contentSnippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "guid": "https://techcrunch.com/?p=3176474",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "contentSnippet": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "guid": "https://techcrunch.com/?p=3176628",
     "categories": [
       "AI",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Robotics",
-      "Startups",
-      "TC",
-      "Venture",
-      "Startup Battlefield",
-      "TechCrunch Disrupt"
+      "Government & Policy",
+      "AI regulation",
+      "Brad Smith",
+      "Microsoft"
     ],
-    "isoDate": "2026-10-11T19:00:00.000Z",
+    "isoDate": "2026-10-12T15:31:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-what-s-next"
+    "slug": "microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
   },
   {
-    "title": "(No AI) Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "pubDate": "2026-10-11T18:33:56.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Satya Nadella, chief executive officer of Microsoft Corp., from left, Greg Brockman, president and co-founder of OpenAI Inc., Jensen Huang, chief executive officer of Nvidia Corp., US House Speaker Mike Johnson, a Republican from Louisiana, US President Donald Trump, Lisa Su, chair and chief executive officer of Advanced Micro Devices Inc. (AMD), Nikesh Arora, chief executive officer at Palo Alto Networks Inc., and Elon Musk, chief executive officer of Tesla Inc., during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026. The gathering follows a surge in concern about AI potentially posing a threat to humans. Photographer: Tierney L. Cross/The Washington Post/Bloomberg via Getty Images](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen President Donald Trump announced his plans to rebrand artificial intelligence as \"[super intelligence](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai),\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the [great AI rebrand](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding) he so desires.\n\nThat Elon Musk was [quick to jump on board](https://www.theverge.com/ai-artificial-intelligence/1004598/ill-believe-it-when-i-see-it), promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)",
-    "contentSnippet": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. \nThat Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …\nRead the full story at The Verge.",
-    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
-    "id": "https://www.theverge.com/?p=1009406",
-    "isoDate": "2026-10-11T18:33:56.000Z",
+    "title": "(No AI) Meta has some Wonder Full new AI models ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "pubDate": "2026-10-12T17:00:00.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta is making up for lost time in the AI race. After [launching Muse Spark](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout), the first model from its [revamped](https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money) Superintelligence Labs division, and [buzzy AI agent Muse](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race), it's now [launching](https://research.meta.ai/blog/introducing-muse-wonder) two new models it claims can go toe-to-toe with the industry's best.\n\nThe new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said.\n\nMeta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse.\" It hasn't shared specifics or provided a tim …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)",
+    "contentSnippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. \nThe new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said. \nMeta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse.\" It hasn't shared specifics or provided a tim …\nRead the full story at The Verge.",
+    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
+    "id": "https://www.theverge.com/?p=1009479",
+    "isoDate": "2026-10-12T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "silicon-valley-is-falling-in-line-with-trump-s-attempt-to-rename-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-has-some-wonder-full-new-ai-models"
   },
   {
-    "title": "(No AI) Learning to use local AI is exciting, overwhelming, and frustrating",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "pubDate": "2026-10-11T11:00:00.000Z",
-    "author": "Antonio G. Di Benedetto",
-    "content": "![An Asus TUF A14 laptop running Hermes Agent local AI and sitting on a child’s table full of toys.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nBaby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it.\n\nA big part of Apple's pitch for its new Mac desktops is how good they …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)",
-    "contentSnippet": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it.\nA big part of Apple's pitch for its new Mac desktops is how good they  …\nRead the full story at The Verge.",
-    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
-    "id": "https://www.theverge.com/?p=1008484",
-    "isoDate": "2026-10-11T11:00:00.000Z",
+    "title": "(No AI) Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "pubDate": "2026-10-12T13:00:00.000Z",
+    "author": "Tom Warren",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft’s Maia 300 chip. | Image: Microsoft\n\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks.\n\nMaia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\" [says Scott Guthrie](https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/), executive vice president of Microsoft's cloud group. \"And in a full 96-acceler …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)",
+    "contentSnippet": "Microsoft’s Maia 300 chip. | Image: Microsoft\t\n\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks.\nMaia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\" says Scott Guthrie, executive vice president of Microsoft's cloud group. \"And in a full 96-acceler …\nRead the full story at The Verge.",
+    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+    "id": "https://www.theverge.com/?p=1009465",
+    "isoDate": "2026-10-12T13:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-nvidia-s-gpus"
   },
   {
     "title": "(No AI) Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -119,6 +109,23 @@
     "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
   },
   {
+    "creator": "Will Knight",
+    "title": "(No AI) Muse Wonder Puts Meta Back at the AI Frontier",
+    "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "pubDate": "Mon, 12 Oct 2026 17:00:27 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "contentSnippet": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "guid": "6accf786c1f3b427f509b0cb",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-12T17:00:27.000Z",
+    "source": "Wired AI",
+    "slug": "muse-wonder-puts-meta-back-at-the-ai-frontier"
+  },
+  {
     "creator": "Boone Ashworth",
     "title": "(No AI) I Made Terrible Games With Google’s AI Playground",
     "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
@@ -134,22 +141,5 @@
     "isoDate": "2026-10-11T11:30:00.000Z",
     "source": "Wired AI",
     "slug": "i-made-terrible-games-with-google-s-ai-playground"
-  },
-  {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "(No AI) AI Is Getting Really Good at Messing With Cybercriminals",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "contentSnippet": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "guid": "6ac7c89b91ca886b7a0df9d4",
-    "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
-    ],
-    "isoDate": "2026-10-10T12:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-is-getting-really-good-at-messing-with-cybercriminals"
   }
 ]
