@@ -1,40 +1,42 @@
 [
   {
+    "creator": "Russell Brandom",
+    "title": "(No AI) Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
+    "dc:creator": "Russell Brandom",
+    "content": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "contentSnippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "guid": "https://techcrunch.com/?p=3176752",
+    "categories": [
+      "AI",
+      "ai models",
+      "frontier models",
+      "meta superintelligence lab",
+      "muse"
+    ],
+    "isoDate": "2026-10-12T17:56:56.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-releases-its-first-frontier-model-muse-wonder"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) WindBorne wins a hefty US Air Force contract for its balloon data",
     "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
-    "contentSnippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+    "content": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "contentSnippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
     "guid": "https://techcrunch.com/?p=3176669",
     "categories": [
       "AI",
-      "Exclusive"
+      "Startups",
+      "Exclusive",
+      "Windborne Systems"
     ],
     "isoDate": "2026-10-12T17:19:14.000Z",
     "source": "TechCrunch AI",
     "slug": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
-  },
-  {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "contentSnippet": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "guid": "https://techcrunch.com/?p=3176628",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "AI regulation",
-      "Brad Smith",
-      "Microsoft"
-    ],
-    "isoDate": "2026-10-12T15:31:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
   },
   {
     "title": "(No AI) Meta has some Wonder Full new AI models ",
@@ -87,26 +89,21 @@
     "slug": "asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol"
   },
   {
-    "title": "(No AI) EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "isoDate": "2026-10-06T19:57:04.000Z",
-    "source": "Google DeepMind",
-    "slug": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
-  },
-  {
-    "title": "(No AI) Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "isoDate": "2026-09-30T20:01:45.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-argon-our-next-era-of-frontier-intelligence"
+    "creator": "Jeremy White",
+    "title": "(No AI) Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "pubDate": "Mon, 12 Oct 2026 17:55:12 +0000",
+    "dc:creator": "Jeremy White",
+    "content": "Musk, we find your lack of security disturbing.",
+    "contentSnippet": "Musk, we find your lack of security disturbing.",
+    "guid": "6accf702f14e645f525e1194",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-12T17:55:12.000Z",
+    "source": "Wired AI",
+    "slug": "elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him"
   },
   {
     "creator": "Will Knight",
@@ -124,22 +121,5 @@
     "isoDate": "2026-10-12T17:00:27.000Z",
     "source": "Wired AI",
     "slug": "muse-wonder-puts-meta-back-at-the-ai-frontier"
-  },
-  {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) I Made Terrible Games With Google’s AI Playground",
-    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "A long day’s haul in the video game slop mines.",
-    "contentSnippet": "A long day’s haul in the video game slop mines.",
-    "guid": "6ac932eaafef77f50434f289",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-10-11T11:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "i-made-terrible-games-with-google-s-ai-playground"
   }
 ]
