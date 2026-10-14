@@ -5,13 +5,15 @@
     "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
     "dc:creator": "Aisha Malik",
-    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "contentSnippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "contentSnippet": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "guid": "https://techcrunch.com/?p=3177396",
     "categories": [
       "AI",
       "Biotech & Health",
-      "Science Corporation"
+      "Max Hodak",
+      "Science Corporation",
+      "TechCrunch Disrupt"
     ],
     "isoDate": "2026-10-13T23:13:31.000Z",
     "source": "TechCrunch AI",
@@ -88,26 +90,20 @@
     "slug": "sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak"
   },
   {
-    "title": "(No AI) Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "isoDate": "2026-10-14T02:00:14.000Z",
-    "source": "Google DeepMind",
-    "slug": "google-deepmind-and-singapore-government-announce-new-ai-tool-to-protect-citizens-against-scams"
-  },
-  {
-    "title": "(No AI) Developing Gemini 4 Argon responsibly and safely",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "isoDate": "2026-10-13T19:43:07.000Z",
-    "source": "Google DeepMind",
-    "slug": "developing-gemini-4-argon-responsibly-and-safely"
+    "creator": "David Gilbert",
+    "title": "(No AI) AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "pubDate": "Wed, 14 Oct 2026 09:00:00 +0000",
+    "dc:creator": "David Gilbert",
+    "content": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "contentSnippet": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "guid": "6ace5bf9fef1e55bb5172524",
+    "categories": [
+      "Politics"
+    ],
+    "isoDate": "2026-10-14T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity"
   },
   {
     "creator": "Paresh Dave, Maddy Varner, Caroline Haskins",
@@ -127,22 +123,5 @@
     "isoDate": "2026-10-13T23:17:59.000Z",
     "source": "Wired AI",
     "slug": "an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office"
-  },
-  {
-    "creator": "Ben Gartside",
-    "title": "(No AI) OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "pubDate": "Tue, 13 Oct 2026 19:35:29 +0000",
-    "dc:creator": "Ben Gartside",
-    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "contentSnippet": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "guid": "6ace0d6cda1d099f16b1dae2",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-13T19:35:29.000Z",
-    "source": "Wired AI",
-    "slug": "openai-and-anthropic-tell-british-lawmakers-regulate-us"
   }
 ]
