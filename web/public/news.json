@@ -1,68 +1,92 @@
 [
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Figma is also releasing its code layers feature in open beta.",
-    "contentSnippet": "Figma is also releasing its code layers feature in open beta.",
-    "guid": "https://techcrunch.com/?p=3177541",
+    "creator": "Sean O'Kane",
+    "title": "(No AI) AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
+    "dc:creator": "Sean O'Kane",
+    "content": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "contentSnippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "guid": "https://techcrunch.com/?p=3177351",
+    "categories": [
+      "Transportation",
+      "AI",
+      "electric vehicles",
+      "EVs",
+      "TechCrunch Disrupt",
+      "Rivian",
+      "RJ Scaringe",
+      "LLMs",
+      "agentic ai"
+    ],
+    "isoDate": "2026-10-15T15:02:36.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-agents-are-coming-to-rivian-s-cars"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Google’s Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "contentSnippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "guid": "https://techcrunch.com/?p=3178088",
     "categories": [
       "AI",
       "Apps",
-      "India",
-      "Figma"
+      "Commerce",
+      "e-commerce",
+      "gemini",
+      "Google",
+      "online shopping",
+      "shopping carts"
     ],
-    "isoDate": "2026-10-15T04:30:00.000Z",
+    "isoDate": "2026-10-15T14:29:33.000Z",
     "source": "TechCrunch AI",
-    "slug": "figma-announces-new-features-to-define-how-agents-work-on-its-platform"
+    "slug": "google-s-universal-cart-shopping-tool-launches-in-the-us"
   },
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "contentSnippet": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "guid": "https://techcrunch.com/?p=3177960",
+    "title": "(No AI) Friends don’t let friends feed their data to AI agents",
+    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "pubDate": "2026-10-15T16:21:45.000Z",
+    "author": "Janus Rose",
+    "content": "![Muse mascot with red eyes](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThere's a growing trend in the consumer tech world: gadgets [designed to spy on everything and everyone around you](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance), regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with.\n\nSince Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent)",
+    "contentSnippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with.\nSince Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av …\nRead the full story at The Verge.",
+    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+    "id": "https://www.theverge.com/?p=1011938",
+    "isoDate": "2026-10-15T16:21:45.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "friends-don-t-let-friends-feed-their-data-to-ai-agents"
+  },
+  {
+    "title": "(No AI) How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "pubDate": "2026-10-15T14:30:00.000Z",
+    "author": "Tom Warren",
+    "content": "![Windows logo on black background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)",
+    "contentSnippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for  …\nRead the full story at The Verge.",
+    "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
+    "id": "https://www.theverge.com/?p=1011996",
+    "isoDate": "2026-10-15T14:30:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "how-windows-is-being-optimized-for-nvidia-s-rtx-spark-laptops"
+  },
+  {
+    "title": "(No AI) Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "contentSnippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "guid": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "categories": [
-      "AI",
-      "Ricursive",
-      "Ricursive Intelligence"
+      "Company"
     ],
-    "isoDate": "2026-10-15T01:01:32.000Z",
-    "source": "TechCrunch AI",
-    "slug": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
-  },
-  {
-    "title": "(No AI) McKinsey is making job applicants spar with a fake AI client",
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "pubDate": "2026-10-14T22:53:31.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nConsulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, [according to _The Wall Street Journal_](https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e).\n\nThe AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the _WSJ_ says, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see how well they deal with the simulated situations.\n\nThe McKinsey tool will be in testing for undergrads seeking business-analyst jobs in \"some\" offi …\n\n[Read the full story at The Verge.](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)",
-    "contentSnippet": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.\nThe AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the WSJ says, and it isn't designed to \"mimic an unhinged client.\" The AI won't score the candidates - humans will be in the room to assess the candidates and see how well they deal with the simulated situations.\nThe McKinsey tool will be in testing for undergrads seeking business-analyst jobs in \"some\" offi …\nRead the full story at The Verge.",
-    "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
-    "id": "https://www.theverge.com/?p=1011654",
-    "isoDate": "2026-10-14T22:53:31.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "mckinsey-is-making-job-applicants-spar-with-a-fake-ai-client"
-  },
-  {
-    "title": "(No AI) Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "pubDate": "2026-10-14T21:11:28.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the ChatGPT logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, [as reported earlier by _Reuters_](https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/). The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT.\n\nThe string of complaints claims that OpenAI violated local consumer protection laws by failing to warn customers about the dangers of ChatGPT, citing several lawsuits filed [by the family members](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose) [of teens and](https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos) [adults](https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions) that allege the AI chatbot played a role in their loved …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)",
-    "contentSnippet": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when developing ChatGPT.\nThe string of complaints claims that OpenAI violated local consumer protection laws by failing to warn customers about the dangers of ChatGPT, citing several lawsuits filed by the family members of teens and adults that allege the AI chatbot played a role in their loved  …\nRead the full story at The Verge.",
-    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
-    "id": "https://www.theverge.com/?p=1011500",
-    "isoDate": "2026-10-14T21:11:28.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "eight-states-sue-openai-saying-chatgpt-isn-t-safe-for-kids"
+    "isoDate": "2026-10-15T13:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "teaching-students-to-think-and-learn-through-questions"
   },
   {
     "title": "(No AI) Amp puts AI agents to work beyond code with OpenAI models",
@@ -79,15 +103,15 @@
     "slug": "amp-puts-ai-agents-to-work-beyond-code-with-openai-models"
   },
   {
-    "title": "(No AI) SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone",
-    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "content": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "contentSnippet": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "guid": "https://openai.com/index/sentinelone",
-    "isoDate": "2026-10-14T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "sentinelone-cuts-malware-analysis-from-weeks-to-hours"
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
     "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -99,17 +123,6 @@
     "isoDate": "2026-10-14T02:00:14.000Z",
     "source": "Google DeepMind",
     "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
-  },
-  {
-    "title": "(No AI) Developing Gemini 4 Argon responsibly and safely",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "isoDate": "2026-10-13T19:43:07.000Z",
-    "source": "Google DeepMind",
-    "slug": "developing-gemini-4-argon-responsibly-and-safely"
   },
   {
     "creator": "Will Knight",
