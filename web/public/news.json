@@ -1,78 +1,85 @@
 [
   {
-    "creator": "Sean O'Kane",
-    "title": "(No AI) AI agents are coming to Rivian’s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-    "dc:creator": "Sean O'Kane",
-    "content": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "contentSnippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "guid": "https://techcrunch.com/?p=3177351",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "contentSnippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "guid": "https://techcrunch.com/?p=3178309",
     "categories": [
-      "Transportation",
       "AI",
-      "electric vehicles",
-      "EVs",
-      "TechCrunch Disrupt",
-      "Rivian",
-      "RJ Scaringe",
-      "LLMs",
-      "agentic ai"
+      "Apple",
+      "Meta",
+      "muse"
     ],
-    "isoDate": "2026-10-15T15:02:36.000Z",
+    "isoDate": "2026-10-15T20:04:53.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-agents-are-coming-to-rivian-s-cars"
+    "slug": "meta-launches-an-open-weight-ai-model-that-runs-on-macs"
   },
   {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) Google’s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-    "contentSnippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-    "guid": "https://techcrunch.com/?p=3178088",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "contentSnippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "guid": "https://techcrunch.com/?p=3178363",
     "categories": [
       "AI",
       "Apps",
-      "Commerce",
-      "e-commerce",
-      "gemini",
-      "Google",
-      "online shopping",
-      "shopping carts"
+      "Hardware",
+      "Amazon",
+      "bee",
+      "wearables"
     ],
-    "isoDate": "2026-10-15T14:29:33.000Z",
+    "isoDate": "2026-10-15T19:55:25.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-s-universal-cart-shopping-tool-launches-in-the-us"
+    "slug": "amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps"
   },
   {
-    "title": "(No AI) Friends don’t let friends feed their data to AI agents",
-    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "pubDate": "2026-10-15T16:21:45.000Z",
-    "author": "Janus Rose",
-    "content": "![Muse mascot with red eyes](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThere's a growing trend in the consumer tech world: gadgets [designed to spy on everything and everyone around you](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance), regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with.\n\nSince Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent)",
-    "contentSnippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with.\nSince Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av …\nRead the full story at The Verge.",
-    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
-    "id": "https://www.theverge.com/?p=1011938",
-    "isoDate": "2026-10-15T16:21:45.000Z",
+    "title": "(No AI) ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "pubDate": "2026-10-15T22:43:23.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![A promotional screenshot of a ChatGPT sidebar running in Google Chrome](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI's ChatGPT Atlas browser [is gone](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset), but now ChatGPT's [Google Chrome extension](https://chromewebstore.google.com/detail/hehggadaopoacecdllhhajmbjkdcmajg?utm_source=item-share-cb) is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting [a demo video](https://x.com/ChatGPT/status/2110823738531037651?s=20) showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering.\n\n> A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome.  \n>   \n> First up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you.  \n>   \n> If …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)",
+    "contentSnippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering.\n\n\nA few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome.\nFirst up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you. \nIf  …\n\n\nRead the full story at The Verge.",
+    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+    "id": "https://www.theverge.com/?p=1012510",
+    "isoDate": "2026-10-15T22:43:23.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "friends-don-t-let-friends-feed-their-data-to-ai-agents"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "chatgpt-can-peek-at-your-chrome-tabs-now"
   },
   {
-    "title": "(No AI) How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "pubDate": "2026-10-15T14:30:00.000Z",
-    "author": "Tom Warren",
-    "content": "![Windows logo on black background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMicrosoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)",
-    "contentSnippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for  …\nRead the full story at The Verge.",
-    "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
-    "id": "https://www.theverge.com/?p=1011996",
-    "isoDate": "2026-10-15T14:30:00.000Z",
+    "title": "(No AI) Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "pubDate": "2026-10-15T22:35:55.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0,0,100,100)\n\nSega is removing _Total War: Shogun 2 - Complete Edition_ from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.\n\n_Complete Edition_, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its DLC with promised upgrades including \"improved visuals,\" \"1440p and 4K UI scaling,\" and modernized controls. It has an \"Overwhelmingly Negative\" rating [on Steam](https://store.steampowered.com/app/3846830/Total_War_SHOGUN_2__Complete_Edition/), where it has already been pulled, and [posts](https://www.reddit.com/r/totalwar/comments/1x51wq3/was_ai_used_in_shogun_2_complete_edition/) [on Reddit](https://www.reddit.com/r/gaming/comments/1x5a5ym/new_shogun_2_total_war_remaster_is_an_ai_slop/) showcase artwork that users believe AI messed up.\n\n[](https://www.reddit.com/r/gaming/comments/1x5a5ym/new_shogun_2_total_war_remaster_is_an_ai_slop/)\n\n\"We're aware that _Total War: Shogun 2 - Complete Editio …_\n\n[Read the full story at The Verge.](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)",
+    "contentSnippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.\nComplete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its DLC with promised upgrades including \"improved visuals,\" \"1440p and 4K UI scaling,\" and modernized controls. It has an \"Overwhelmingly Negative\" rating on Steam, where it has already been pulled, and posts on Reddit showcase artwork that users believe AI messed up.\n\n\n\n\n\n\"We're aware that Total War: Shogun 2 - Complete Editio …\nRead the full story at The Verge.",
+    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+    "id": "https://www.theverge.com/?p=1012512",
+    "isoDate": "2026-10-15T22:35:55.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "how-windows-is-being-optimized-for-nvidia-s-rtx-spark-laptops"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sega-pulls-total-war-shogun-2-remaster-from-sale-following-disastrous-launch"
+  },
+  {
+    "title": "(No AI) Bringing GPT-Rosalind to academic research labs",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "contentSnippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "guid": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-10-15T19:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "bringing-gpt-rosalind-to-academic-research-labs"
   },
   {
     "title": "(No AI) Teaching students to think and learn through questions",
@@ -87,20 +94,6 @@
     "isoDate": "2026-10-15T13:00:00.000Z",
     "source": "OpenAI",
     "slug": "teaching-students-to-think-and-learn-through-questions"
-  },
-  {
-    "title": "(No AI) Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "content": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "contentSnippet": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "guid": "https://openai.com/index/amp-beyond-coding",
-    "categories": [
-      "Startup"
-    ],
-    "isoDate": "2026-10-14T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "amp-puts-ai-agents-to-work-beyond-code-with-openai-models"
   },
   {
     "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -125,38 +118,37 @@
     "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
-    "creator": "Will Knight",
-    "title": "(No AI) AI Came for Math. Now It’s Chasing the Rest of Science",
-    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "contentSnippet": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "guid": "6ace55f4b718d45618194c75",
+    "creator": "Brian Barrett, Leah Feiger, Reece Rogers",
+    "title": "(No AI) We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "pubDate": "Thu, 15 Oct 2026 21:18:15 +0000",
+    "dc:creator": "Brian Barrett, Leah Feiger, Reece Rogers",
+    "content": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "contentSnippet": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "guid": "6acfb7fb7efaf68414339c74",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence",
-      "Science"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-14T18:15:00.000Z",
+    "isoDate": "2026-10-15T21:18:15.000Z",
     "source": "Wired AI",
-    "slug": "ai-came-for-math-now-it-s-chasing-the-rest-of-science"
+    "slug": "we-got-hot-and-heavy-with-meta-s-muse-and-baffled-by-apple-s-homeview"
   },
   {
-    "creator": "Boone Ashworth",
-    "title": "(No AI) My Friend Has No Soul",
-    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
-    "dc:creator": "Boone Ashworth",
-    "content": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-    "contentSnippet": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-    "guid": "6acdc338d04b6454bd09a4da",
+    "creator": "Paresh Dave",
+    "title": "(No AI) AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "pubDate": "Thu, 15 Oct 2026 21:00:28 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "contentSnippet": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "guid": "6acfd026baa8001981e8823c",
     "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
+      "Business",
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-14T11:00:00.000Z",
+    "isoDate": "2026-10-15T21:00:28.000Z",
     "source": "Wired AI",
-    "slug": "my-friend-has-no-soul"
+    "slug": "ai-hacks-leave-a-mess-that-ai-companies-aren-t-paying-for"
   }
 ]
