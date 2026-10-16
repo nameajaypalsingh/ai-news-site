@@ -1,37 +1,39 @@
 [
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "contentSnippet": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "guid": "https://techcrunch.com/?p=3178756",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "contentSnippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "guid": "https://techcrunch.com/?p=3178496",
     "categories": [
       "AI",
-      "TC"
+      "Anthropic",
+      "Replit",
+      "TechCrunch Disrupt"
     ],
-    "isoDate": "2026-10-16T16:01:37.000Z",
+    "isoDate": "2026-10-16T21:22:28.000Z",
     "source": "TechCrunch AI",
-    "slug": "elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-them"
+    "slug": "replit-is-no-longer-working-with-anthropic-ceo-says"
   },
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Jev is Vercel’s fastest-adopted AI model ever",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "contentSnippet": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "guid": "https://techcrunch.com/?p=3178711",
+    "creator": "Aditya Mehta",
+    "title": "(No AI) India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "dc:creator": "Aditya Mehta",
+    "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "contentSnippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "guid": "https://techcrunch.com/?p=3178813",
     "categories": [
       "AI",
-      "Vercel"
+      "India"
     ],
-    "isoDate": "2026-10-16T15:33:49.000Z",
+    "isoDate": "2026-10-16T17:52:24.000Z",
     "source": "TechCrunch AI",
-    "slug": "jev-is-vercel-s-fastest-adopted-ai-model-ever"
+    "slug": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
   },
   {
     "title": "(No AI) A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -62,6 +64,20 @@
     "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free"
   },
   {
+    "title": "(No AI) Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "contentSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "guid": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "categories": [
+      "Startup"
+    ],
+    "isoDate": "2026-10-16T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "stack-overflow-for-agents-triples-signups-with-chatgpt-plugin"
+  },
+  {
     "title": "(No AI) Bringing GPT-Rosalind to academic research labs",
     "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
@@ -76,40 +92,20 @@
     "slug": "bringing-gpt-rosalind-to-academic-research-labs"
   },
   {
-    "title": "(No AI) Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-    "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "contentSnippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "guid": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "creator": "Tess Owen, Tim Marchman",
+    "title": "(No AI) Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
+    "dc:creator": "Tess Owen, Tim Marchman",
+    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "contentSnippet": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "guid": "6ad24df34fa2063ab5f076cb",
     "categories": [
-      "Company"
+      "Politics"
     ],
-    "isoDate": "2026-10-15T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "teaching-students-to-think-and-learn-through-questions"
-  },
-  {
-    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "isoDate": "2026-10-15T16:08:03.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
-  },
-  {
-    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "isoDate": "2026-10-14T02:00:14.000Z",
-    "source": "Google DeepMind",
-    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+    "isoDate": "2026-10-16T20:05:08.000Z",
+    "source": "Wired AI",
+    "slug": "katie-zacharia-was-linked-to-an-ai-rare-earths-startup-it-s-even-weirder-than-it-sounds"
   },
   {
     "creator": "Steven Levy",
@@ -127,22 +123,5 @@
     "isoDate": "2026-10-16T15:00:00.000Z",
     "source": "Wired AI",
     "slug": "maybe-chatbots-shouldn-t-get-to-say-i-or-me"
-  },
-  {
-    "creator": "Ej Dickson ",
-    "title": "(No AI) AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "pubDate": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "dc:creator": "Ej Dickson ",
-    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "contentSnippet": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "guid": "6acd00154e5c3c4c4af4d8df",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-10-16T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content"
   }
 ]
