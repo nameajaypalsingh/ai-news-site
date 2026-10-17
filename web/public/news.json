@@ -36,6 +36,20 @@
     "slug": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
   },
   {
+    "title": "(No AI) Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "pubDate": "2026-10-17T13:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![Digital collage of various toy robots.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAutonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\n\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp [told _TechCrunch_](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/) that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)",
+    "contentSnippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …\nRead the full story at The Verge.",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1013195",
+    "isoDate": "2026-10-17T13:00:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "websites-are-closing-their-doors-to-ai-agents"
+  },
+  {
     "title": "(No AI) A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
     "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "pubDate": "2026-10-16T15:00:00.000Z",
@@ -50,20 +64,6 @@
     "slug": "a-week-with-rtx-spark-everything-we-ve-learned-using-nvidia-s-new-laptops"
   },
   {
-    "title": "(No AI) Meta’s new terms may allow it to train AI on news sites for free",
-    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "pubDate": "2026-10-16T14:02:40.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to [a report from _Nieman Lab_](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/). The [new terms](https://www.facebook.com/legal/commercial_terms_preview), which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" its AI products.\n\nWhile Meta spokesperson Daniel Roberts says that the company is just \"consolidating\" its commercial and self-serve ad terms, legal experts tell _Nieman Lab_ that this could allow Meta \"to argue its commercial terms supersede other blocking instructions,\" like [a site's robots.txt file](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders). That could …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)",
-    "contentSnippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" its AI products.\nWhile Meta spokesperson Daniel Roberts says that the company is just \"consolidating\" its commercial and self-serve ad terms, legal experts tell Nieman Lab that this could allow Meta \"to argue its commercial terms supersede other blocking instructions,\" like a site's robots.txt file. That could …\nRead the full story at The Verge.",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=1012846",
-    "isoDate": "2026-10-16T14:02:40.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free"
-  },
-  {
     "title": "(No AI) How Itaú is building generative AI for its entire customer base",
     "link": "https://openai.com/index/itau-generative-ai",
     "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
@@ -75,18 +75,54 @@
     "slug": "how-ita-is-building-generative-ai-for-its-entire-customer-base"
   },
   {
-    "title": "(No AI) Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "(No AI) Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "contentSnippet": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "guid": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "categories": [
-      "Startup"
-    ],
+    "content": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "contentSnippet": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "guid": "https://openai.com/index/benefit-street-partners",
     "isoDate": "2026-10-16T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "stack-overflow-for-agents-triples-signups-with-chatgpt-plugin"
+    "slug": "benefit-street-partners-answers-questions-faster-with-codex"
+  },
+  {
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+  },
+  {
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+  },
+  {
+    "creator": "Philip Ball",
+    "title": "(No AI) Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "dc:creator": "Philip Ball",
+    "content": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "contentSnippet": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "guid": "6acd250319b2ca0ba1bdaaf2",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-10-17T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "why-ai-isn-t-ready-to-tackle-our-convoluted-genomes"
   },
   {
     "creator": "Tess Owen, Tim Marchman",
@@ -103,22 +139,5 @@
     "isoDate": "2026-10-16T20:05:08.000Z",
     "source": "Wired AI",
     "slug": "katie-zacharia-was-linked-to-an-ai-rare-earths-startup-it-s-even-weirder-than-it-sounds"
-  },
-  {
-    "creator": "Steven Levy",
-    "title": "(No AI) Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-    "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-    "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000",
-    "dc:creator": "Steven Levy",
-    "content": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-    "contentSnippet": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-    "guid": "6ad1204cb10b053f192727b9",
-    "categories": [
-      "Business",
-      "Business / Tech Culture"
-    ],
-    "isoDate": "2026-10-16T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "maybe-chatbots-shouldn-t-get-to-say-i-or-me"
   }
 ]
