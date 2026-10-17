@@ -64,6 +64,17 @@
     "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free"
   },
   {
+    "title": "(No AI) How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "contentSnippet": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "guid": "https://openai.com/index/itau-generative-ai",
+    "isoDate": "2026-10-16T19:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "how-ita-is-building-generative-ai-for-its-entire-customer-base"
+  },
+  {
     "title": "(No AI) Stack Overflow for Agents triples signups with ChatGPT plugin",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
@@ -78,18 +89,26 @@
     "slug": "stack-overflow-for-agents-triples-signups-with-chatgpt-plugin"
   },
   {
-    "title": "(No AI) Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "contentSnippet": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "guid": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-10-15T19:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "bringing-gpt-rosalind-to-academic-research-labs"
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+  },
+  {
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
     "creator": "Tess Owen, Tim Marchman",
