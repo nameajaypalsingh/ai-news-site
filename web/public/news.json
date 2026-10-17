@@ -1,39 +1,38 @@
 [
   {
-    "creator": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
-    "title": "(No AI) Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
-    "dc:creator": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
-    "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "contentSnippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "guid": "https://techcrunch.com/?p=3178496",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "contentSnippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "guid": "https://techcrunch.com/?p=3178941",
     "categories": [
       "AI",
-      "Anthropic",
-      "Replit",
-      "TechCrunch Disrupt"
+      "Social",
+      "Meta"
     ],
-    "isoDate": "2026-10-16T21:22:28.000Z",
+    "isoDate": "2026-10-17T21:31:32.000Z",
     "source": "TechCrunch AI",
-    "slug": "replit-is-no-longer-working-with-anthropic-ceo-says"
+    "slug": "meta-removes-language-that-raised-scraping-and-ai-training-concerns"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "contentSnippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "guid": "https://techcrunch.com/?p=3178813",
+    "creator": "Anthony Ha",
+    "title": "(No AI) Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "contentSnippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "guid": "https://techcrunch.com/?p=3178934",
     "categories": [
       "AI",
-      "India"
+      "Anthropic"
     ],
-    "isoDate": "2026-10-16T17:52:24.000Z",
+    "isoDate": "2026-10-17T20:21:19.000Z",
     "source": "TechCrunch AI",
-    "slug": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
+    "slug": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"
   },
   {
     "title": "(No AI) Meta removes language that may have allowed it to scrape news sites",
@@ -84,6 +83,28 @@
     "isoDate": "2026-10-16T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "benefit-street-partners-answers-questions-faster-with-codex"
+  },
+  {
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+  },
+  {
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
     "creator": "Philip Ball",
