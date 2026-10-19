@@ -87,37 +87,59 @@
     "slug": "benefit-street-partners-answers-questions-faster-with-codex"
   },
   {
-    "creator": "Reece Rogers",
-    "title": "(No AI) OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "contentSnippet": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "guid": "6ad227480242af4ebffe6d0b",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-10-18T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty"
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-    "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-    "contentSnippet": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-    "guid": "6abd21cd6366a0250b4ee426",
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+  },
+  {
+    "creator": "Maddy Varner",
+    "title": "(No AI) Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "pubDate": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "dc:creator": "Maddy Varner",
+    "content": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "contentSnippet": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "guid": "6acfdecce57834fa26ab0f75",
     "categories": [
       "Business",
-      "Science"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-18T10:30:00.000Z",
+    "isoDate": "2026-10-19T09:00:00.000Z",
     "source": "Wired AI",
-    "slug": "data-centers-have-a-new-pr-plan-your-kid-s-field-trip"
+    "slug": "disney-asked-character-ai-to-go-bankrupt-for-a-get-out-of-lawsuits-card"
+  },
+  {
+    "creator": "Philip Ball",
+    "title": "(No AI) Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "dc:creator": "Philip Ball",
+    "content": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "contentSnippet": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "guid": "6acd250319b2ca0ba1bdaaf2",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-10-17T09:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "why-ai-isn-t-ready-to-tackle-our-convoluted-genomes"
   }
 ]
