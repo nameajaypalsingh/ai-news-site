@@ -1,70 +1,71 @@
 [
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "contentSnippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "guid": "https://techcrunch.com/?p=3179517",
+    "creator": "Tim De Chant",
+    "title": "(No AI) Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
+    "dc:creator": "Tim De Chant",
+    "content": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "contentSnippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "guid": "https://techcrunch.com/?p=3179291",
+    "categories": [
+      "Climate",
+      "AI",
+      "Fundraising",
+      "plants",
+      "Exclusive",
+      "plant monitoring"
+    ],
+    "isoDate": "2026-10-20T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language"
+  },
+  {
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "pubDate": "Tue, 20 Oct 2026 14:13:32 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "contentSnippet": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "guid": "https://techcrunch.com/?p=3179569",
     "categories": [
       "AI",
-      "Government & Policy",
-      "AI Now Institute",
-      "AI regulation",
-      "mamdani"
+      "Apps",
+      "TC",
+      "Figma"
     ],
-    "isoDate": "2026-10-20T01:27:03.000Z",
+    "isoDate": "2026-10-20T14:13:32.000Z",
     "source": "TechCrunch AI",
-    "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back"
+    "slug": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "contentSnippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "guid": "https://techcrunch.com/?p=3179487",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "In Brief",
-      "nscale"
-    ],
-    "isoDate": "2026-10-19T23:39:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal"
-  },
-  {
-    "title": "(No AI) The fossil fuel comeback is here",
-    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-    "pubDate": "2026-10-19T21:48:01.000Z",
-    "author": "Justine Calma",
-    "content": "![Photo illustration of industrial smokestacks.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new [report](https://www.edf.org/media/report-us-power-pipeline-shifts-toward-more-costly-polluting-fossil-fuels-clean-energy-faces) shows.\n\nElectricity demand is also climbing faster than it has in [more than a decade](https://www.eia.gov/todayinenergy/detail.php?id=65264) with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has [sought to hobble](https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html) the wind and solar industries in favor of fossil fuels.\n\nAmerica's energy landscape is already shifting as a result, according to the report published last week by the nonprofit Environmental Defense Fund and research firm Atlas Public Policy. If all the gas projects in the d …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report)",
-    "contentSnippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels.\nAmerica's energy landscape is already shifting as a result, according to the report published last week by the nonprofit Environmental Defense Fund and research firm Atlas Public Policy. If all the gas projects in the d …\nRead the full story at The Verge.",
-    "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
-    "id": "https://www.theverge.com/?p=1013954",
-    "isoDate": "2026-10-19T21:48:01.000Z",
+    "title": "(No AI) Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "pubDate": "2026-10-20T14:18:37.000Z",
+    "author": "Emma Roth",
+    "content": "![Spotify’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSpotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an [announcement on Tuesday](https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/) that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\"\n\nThough Spotify has [stopped short](https://www.theverge.com/entertainment/917109/spotify-starts-rolling-out-its-voluntary-ai-labels) of mandating labels on all AI tracks, [it launched an \"AI Persona\" badge for …](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations)\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed)",
+    "contentSnippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
+    "id": "https://www.theverge.com/?p=1014284",
+    "isoDate": "2026-10-20T14:18:37.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-fossil-fuel-comeback-is-here"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-from-its-recommendations"
   },
   {
-    "title": "(No AI) CoreWeave’s debt is becoming the whole AI industry’s problem",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-    "pubDate": "2026-10-19T21:28:20.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nCoreWeave had a bad week last week. Its bonds slipped into [distressed territory](https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b) by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath [\"SPAC King\"](https://www.axios.com/2026/06/24/chamath-palihapitiya-spac-axios-show) Palihapitiya [noticed the distressed debt](https://x.com/chamath/status/2110128893680378299), and also [asked whether the AI buildout was a private credit bubble](https://x.com/chamath/status/2110090896960356768). Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too.\n\nNow, I have _also_ asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)",
-    "contentSnippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too.\nNow, I have also asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi …\nRead the full story at The Verge.",
-    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014045",
-    "isoDate": "2026-10-19T21:28:20.000Z",
+    "title": "(No AI) Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "pubDate": "2026-10-20T13:06:44.000Z",
+    "author": "Andrew Liszewski",
+    "content": "![A before and after photo showing open eyes added to a photo of a person with their eyes closed.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAdobe [announced yesterday](https://blog.adobe.com/en/publish/2026/10/19/give-your-photos-a-second-chance-with-open-eyes-in-lightroom-on-mobile) that the [mobile version of Lightroom](https://www.adobe.com/products/photoshop-lightroom/mobile.html), available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\n\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as [_DPReview_ points out](https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/), Elements sources the replacement from another phot …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair)",
+    "contentSnippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another phot …\nRead the full story at The Verge.",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+    "id": "https://www.theverge.com/?p=1014246",
+    "isoDate": "2026-10-20T13:06:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "coreweave-s-debt-is-becoming-the-whole-ai-industry-s-problem"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "adobe-lightroom-mobile-can-now-open-closed-eyes-in-photos-with-a-simple-tap"
   },
   {
     "title": "(No AI) Advancing coding in low‑resource programming languages",
@@ -92,6 +93,45 @@
     "slug": "how-ita-is-building-generative-ai-for-its-entire-customer-base"
   },
   {
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+  },
+  {
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+  },
+  {
+    "creator": "Olivia Snow",
+    "title": "(No AI) An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "pubDate": "Tue, 20 Oct 2026 15:07:43 +0000",
+    "dc:creator": "Olivia Snow",
+    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "contentSnippet": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "guid": "6ad2849709bfba3004168e1e",
+    "categories": [
+      "Culture",
+      "Culture / Digital Culture"
+    ],
+    "isoDate": "2026-10-20T15:07:43.000Z",
+    "source": "Wired AI",
+    "slug": "an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
     "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
@@ -109,22 +149,5 @@
     "isoDate": "2026-10-19T19:49:17.000Z",
     "source": "Wired AI",
     "slug": "openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "(No AI) WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-    "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-    "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-    "contentSnippet": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-    "guid": "6ad5f231be73e1c393ca6a84",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-10-19T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot"
   }
 ]
