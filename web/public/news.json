@@ -1,96 +1,93 @@
 [
   {
-    "creator": "Tim De Chant",
-    "title": "(No AI) Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
-    "dc:creator": "Tim De Chant",
-    "content": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "contentSnippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "guid": "https://techcrunch.com/?p=3179291",
-    "categories": [
-      "Climate",
-      "AI",
-      "Fundraising",
-      "plants",
-      "Exclusive",
-      "plant monitoring"
-    ],
-    "isoDate": "2026-10-20T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language"
-  },
-  {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-    "pubDate": "Tue, 20 Oct 2026 14:13:32 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Figma said it plans to support as many standards as possible without exposing all of its data",
-    "contentSnippet": "Figma said it plans to support as many standards as possible without exposing all of its data",
-    "guid": "https://techcrunch.com/?p=3179569",
+    "creator": "Julie Bort",
+    "title": "(No AI) Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "contentSnippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "guid": "https://techcrunch.com/?p=3179822",
     "categories": [
       "AI",
-      "Apps",
       "TC",
-      "Figma"
+      "Hugging Face",
+      "Netflix"
     ],
-    "isoDate": "2026-10-20T14:13:32.000Z",
+    "isoDate": "2026-10-20T22:24:02.000Z",
     "source": "TechCrunch AI",
-    "slug": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol"
+    "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-accurate"
   },
   {
-    "title": "(No AI) Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-    "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-    "pubDate": "2026-10-20T14:18:37.000Z",
-    "author": "Emma Roth",
-    "content": "![Spotify’s logo](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSpotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an [announcement on Tuesday](https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/) that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\"\n\nThough Spotify has [stopped short](https://www.theverge.com/entertainment/917109/spotify-starts-rolling-out-its-voluntary-ai-labels) of mandating labels on all AI tracks, [it launched an \"AI Persona\" badge for …](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations)\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed)",
-    "contentSnippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
-    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014284",
-    "isoDate": "2026-10-20T14:18:37.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-from-its-recommendations"
-  },
-  {
-    "title": "(No AI) Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-    "pubDate": "2026-10-20T13:06:44.000Z",
-    "author": "Andrew Liszewski",
-    "content": "![A before and after photo showing open eyes added to a photo of a person with their eyes closed.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAdobe [announced yesterday](https://blog.adobe.com/en/publish/2026/10/19/give-your-photos-a-second-chance-with-open-eyes-in-lightroom-on-mobile) that the [mobile version of Lightroom](https://www.adobe.com/products/photoshop-lightroom/mobile.html), available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\n\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as [_DPReview_ points out](https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/), Elements sources the replacement from another phot …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair)",
-    "contentSnippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another phot …\nRead the full story at The Verge.",
-    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014246",
-    "isoDate": "2026-10-20T13:06:44.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-lightroom-mobile-can-now-open-closed-eyes-in-photos-with-a-simple-tap"
-  },
-  {
-    "title": "(No AI) Advancing coding in low‑resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
-    "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "contentSnippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "guid": "https://openai.com/index/low-resource-programming-languages",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "contentSnippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "guid": "https://techcrunch.com/?p=3179891",
     "categories": [
-      "Publication"
+      "AI",
+      "Anthropic",
+      "cloud compute"
     ],
-    "isoDate": "2026-10-19T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "advancing-coding-in-low-resource-programming-languages"
+    "isoDate": "2026-10-20T21:25:22.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-s-cloud-partnerships-are-getting-messy"
   },
   {
-    "title": "(No AI) How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "contentSnippet": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "guid": "https://openai.com/index/itau-generative-ai",
-    "isoDate": "2026-10-16T19:00:00.000Z",
+    "title": "(No AI) Google’s more personalized Gemini AI is heading to your car",
+    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "pubDate": "2026-10-20T22:11:34.000Z",
+    "author": "Emma Roth",
+    "content": "![An image showing Gemini’s Personal Intelligence feature on a car’s display](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [bringing Personal Intelligence to Gemini AI](https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/) in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\n\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)",
+    "contentSnippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\nRead the full story at The Verge.",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+    "id": "https://www.theverge.com/?p=1014999",
+    "isoDate": "2026-10-20T22:11:34.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-more-personalized-gemini-ai-is-heading-to-your-car"
+  },
+  {
+    "title": "(No AI) Meta pauses Muse sharing after researchers find AI chats on the web",
+    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "pubDate": "2026-10-20T18:07:34.000Z",
+    "author": "Emma Roth",
+    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, [as reported by _Ars Technica_](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/?utm_source=bsky&utm_medium=social). In [a report published this week](https://blog.claroc.io/ghostshares-muse-passive-dns/#_), researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to _The Verge_. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)",
+    "contentSnippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\nRead the full story at The Verge.",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
+    "id": "https://www.theverge.com/?p=1014627",
+    "isoDate": "2026-10-20T18:07:34.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-pauses-muse-sharing-after-researchers-find-ai-chats-on-the-web"
+  },
+  {
+    "title": "(No AI) Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "content": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "contentSnippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "guid": "https://openai.com/index/ted-taylor-restaurant",
+    "isoDate": "2026-10-20T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-ita-is-building-generative-ai-for-its-entire-customer-base"
+    "slug": "franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work"
+  },
+  {
+    "title": "(No AI) OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "content": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "contentSnippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "guid": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-10-20T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-acquires-orchestra-bio"
   },
   {
     "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -115,6 +112,23 @@
     "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
+    "creator": "Isabella Ward, Anna Desmarais",
+    "title": "(No AI) French Government Calls Emergency Meetings With Platforms Over Protests",
+    "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "pubDate": "Tue, 20 Oct 2026 17:41:58 +0000",
+    "dc:creator": "Isabella Ward, Anna Desmarais",
+    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "contentSnippet": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "guid": "6ad76f56ff9a9f0c430f7989",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-10-20T17:41:58.000Z",
+    "source": "Wired AI",
+    "slug": "french-government-calls-emergency-meetings-with-platforms-over-protests"
+  },
+  {
     "creator": "Olivia Snow",
     "title": "(No AI) An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
     "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
@@ -130,24 +144,5 @@
     "isoDate": "2026-10-20T15:07:43.000Z",
     "source": "Wired AI",
     "slug": "an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-    "pubDate": "Mon, 19 Oct 2026 19:49:17 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-    "contentSnippet": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-    "guid": "6ad64f2bddf0178335f625b8",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-10-19T19:49:17.000Z",
-    "source": "Wired AI",
-    "slug": "openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
   }
 ]
