@@ -1,40 +1,42 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch \\[…\\]",
-    "contentSnippet": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
-    "guid": "https://techcrunch.com/?p=3178312",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "contentSnippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "guid": "https://techcrunch.com/?p=3179517",
     "categories": [
       "AI",
-      "TC",
-      "Hugging Face"
+      "Government & Policy",
+      "AI Now Institute",
+      "AI regulation",
+      "mamdani"
     ],
-    "isoDate": "2026-10-19T22:49:27.000Z",
+    "isoDate": "2026-10-20T01:27:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy-chief-says"
+    "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "contentSnippet": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "guid": "https://techcrunch.com/?p=3179279",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "contentSnippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "guid": "https://techcrunch.com/?p=3179487",
     "categories": [
       "AI",
-      "Enterprise",
-      "TC",
-      "Microsoft"
+      "Anthropic",
+      "In Brief",
+      "nscale"
     ],
-    "isoDate": "2026-10-19T22:04:28.000Z",
+    "isoDate": "2026-10-19T23:39:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-can-t-be-trusted"
+    "slug": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal"
   },
   {
     "title": "(No AI) The fossil fuel comeback is here",
@@ -65,7 +67,7 @@
     "slug": "coreweave-s-debt-is-becoming-the-whole-ai-industry-s-problem"
   },
   {
-    "title": "(No AI) Advancing Coding in Low-Resource Programming Languages",
+    "title": "(No AI) Advancing coding in low‑resource programming languages",
     "link": "https://openai.com/index/low-resource-programming-languages",
     "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
     "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
