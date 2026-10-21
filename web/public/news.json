@@ -5,14 +5,12 @@
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
     "dc:creator": "Lucas Ropek",
-    "content": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "contentSnippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "content": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "contentSnippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "guid": "https://techcrunch.com/?p=3179755",
     "categories": [
       "AI",
-      "TC",
-      "Anthropic",
-      "policy"
+      "Anthropic"
     ],
     "isoDate": "2026-10-20T23:01:23.000Z",
     "source": "TechCrunch AI",
@@ -24,12 +22,12 @@
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
     "dc:creator": "Julie Bort",
-    "content": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "contentSnippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "content": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "contentSnippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "guid": "https://techcrunch.com/?p=3179822",
     "categories": [
       "AI",
-      "TC",
+      "Clem Delangue",
       "Hugging Face",
       "Netflix"
     ],
@@ -113,6 +111,23 @@
     "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
+    "creator": "Joel Khalili",
+    "title": "(No AI) Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
+    "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+    "pubDate": "Wed, 21 Oct 2026 08:30:00 +0000",
+    "dc:creator": "Joel Khalili",
+    "content": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "contentSnippet": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "guid": "6ad79c45a4cc6513f80c0b82",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-21T08:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "can-europe-build-data-centers-without-giving-up-its-climate-goals"
+  },
+  {
     "creator": "Isabella Ward, Anna Desmarais",
     "title": "(No AI) French Government Calls Emergency Meetings With Platforms Over Protests",
     "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
@@ -128,22 +143,5 @@
     "isoDate": "2026-10-20T17:41:58.000Z",
     "source": "Wired AI",
     "slug": "french-government-calls-emergency-meetings-with-platforms-over-protests"
-  },
-  {
-    "creator": "Olivia Snow",
-    "title": "(No AI) An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-    "pubDate": "Tue, 20 Oct 2026 15:07:43 +0000",
-    "dc:creator": "Olivia Snow",
-    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "contentSnippet": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "guid": "6ad2849709bfba3004168e1e",
-    "categories": [
-      "Culture",
-      "Culture / Digital Culture"
-    ],
-    "isoDate": "2026-10-20T15:07:43.000Z",
-    "source": "Wired AI",
-    "slug": "an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding"
   }
 ]
