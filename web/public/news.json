@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Ram Iyer",
+    "title": "(No AI) AI promises productivity, but for managers, it’s mostly a headache for now",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "contentSnippet": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "guid": "https://techcrunch.com/?p=3179812",
+    "categories": [
+      "AI",
+      "AI at work",
+      "Exclusive",
+      "management"
+    ],
+    "isoDate": "2026-10-21T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-promises-productivity-but-for-managers-it-s-mostly-a-headache-for-now"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -17,131 +36,93 @@
     "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "contentSnippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "guid": "https://techcrunch.com/?p=3179822",
-    "categories": [
-      "AI",
-      "Clem Delangue",
-      "Hugging Face",
-      "Netflix"
-    ],
-    "isoDate": "2026-10-20T22:24:02.000Z",
-    "source": "TechCrunch AI",
-    "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-accurate"
-  },
-  {
-    "title": "(No AI) Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-    "pubDate": "2026-10-20T23:04:19.000Z",
-    "author": "Richard Lawler",
-    "content": "![An image of Sam Altman, OpenAI CEO.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Tuesday, US District Judge Zachary Bluestone dismissed the [lawsuit](https://www.courtlistener.com/docket/69520118/altman-v-altman/?filed_after=&filed_before=&entry_gte=&entry_lte=&order_by=desc) Ann Altman [filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her](https://www.theverge.com/2025/1/7/24338736/sam-altman-sexual-abuse-lawsuit-ann-sister) throughout her childhood. As reported earlier by _[The Guardian](https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit)_, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\n\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)",
-    "contentSnippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\nRead the full story at The Verge.",
-    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014976",
-    "isoDate": "2026-10-20T23:04:19.000Z",
+    "title": "(No AI) Conversational Gemini navigation comes to Apple CarPlay",
+    "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "pubDate": "2026-10-21T15:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter introducing its Gemini AI assistant to [Android Auto last year](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto), Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).\n\nIt's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads. Users …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps)",
+    "contentSnippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).\nIt's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads. Users …\nRead the full story at The Verge.",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+    "id": "https://www.theverge.com/?p=1015281",
+    "isoDate": "2026-10-21T15:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-lawsuit"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "conversational-gemini-navigation-comes-to-apple-carplay"
   },
   {
-    "title": "(No AI) Google’s more personalized Gemini AI is heading to your car",
-    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "pubDate": "2026-10-20T22:11:34.000Z",
+    "title": "(No AI) OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "pubDate": "2026-10-21T13:57:43.000Z",
     "author": "Emma Roth",
-    "content": "![An image showing Gemini’s Personal Intelligence feature on a car’s display](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle is [bringing Personal Intelligence to Gemini AI](https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/) in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\n\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)",
-    "contentSnippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.\nAs an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t …\nRead the full story at The Verge.",
-    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014999",
-    "isoDate": "2026-10-20T22:11:34.000Z",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI [disclosed a pair of safety incidents](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring) that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.\n\n\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, [writes on X](https://x.com/Marcus_J_W/status/2112695138199966084). \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\"\n\nA separate incident occurred after a GPT-6.1 Sol agent suppressed automatic se …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)",
+    "contentSnippet": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.\n\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\"\nA separate incident occurred after a GPT-6.1 Sol agent suppressed automatic se …\nRead the full story at The Verge.",
+    "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+    "id": "https://www.theverge.com/?p=1015316",
+    "isoDate": "2026-10-21T13:57:43.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-more-personalized-gemini-ai-is-heading-to-your-car"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-says-an-ai-agent-lied-about-disabling-its-safety-monitoring-system"
   },
   {
-    "title": "(No AI) Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "link": "https://openai.com/index/ted-taylor-restaurant",
-    "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
-    "content": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "contentSnippet": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "guid": "https://openai.com/index/ted-taylor-restaurant",
-    "isoDate": "2026-10-20T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work"
-  },
-  {
-    "title": "(No AI) Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "link": "https://openai.com/index/terminal-x",
-    "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
-    "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "contentSnippet": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "guid": "https://openai.com/index/terminal-x",
+    "title": "(No AI) OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "contentSnippet": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "guid": "https://openai.com/index/openai-models-google-cloud",
     "categories": [
-      "Startup"
+      "Company"
     ],
-    "isoDate": "2026-10-20T07:00:00.000Z",
+    "isoDate": "2026-10-21T12:00:00.000Z",
     "source": "OpenAI",
-    "slug": "terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1"
+    "slug": "openai-models-are-coming-to-google-cloud"
   },
   {
-    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "isoDate": "2026-10-15T16:08:03.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+    "title": "(No AI) Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "content": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "contentSnippet": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "guid": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-10-21T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "patch-the-planet-global-response-coordination-as-agents-uncover-critical-vulnerabilities"
   },
   {
-    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "isoDate": "2026-10-14T02:00:14.000Z",
-    "source": "Google DeepMind",
-    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
-  },
-  {
-    "creator": "Joel Khalili",
-    "title": "(No AI) Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
-    "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
-    "pubDate": "Wed, 21 Oct 2026 08:30:00 +0000",
-    "dc:creator": "Joel Khalili",
-    "content": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-    "contentSnippet": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-    "guid": "6ad79c45a4cc6513f80c0b82",
+    "creator": "Will Knight",
+    "title": "(No AI) This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "contentSnippet": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "guid": "6ad7b9c1698b2d6d47493387",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-21T08:30:00.000Z",
+    "isoDate": "2026-10-21T16:00:00.000Z",
     "source": "Wired AI",
-    "slug": "can-europe-build-data-centers-without-giving-up-its-climate-goals"
+    "slug": "this-startup-is-all-in-on-recursive-self-improvement-its-latest-model-is-scary-good"
   },
   {
-    "creator": "Isabella Ward, Anna Desmarais",
-    "title": "(No AI) French Government Calls Emergency Meetings With Platforms Over Protests",
-    "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "pubDate": "Tue, 20 Oct 2026 17:41:58 +0000",
-    "dc:creator": "Isabella Ward, Anna Desmarais",
-    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "contentSnippet": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "guid": "6ad76f56ff9a9f0c430f7989",
+    "creator": "Tom Bristow",
+    "title": "(No AI) Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+    "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "pubDate": "Wed, 21 Oct 2026 15:02:15 +0000",
+    "dc:creator": "Tom Bristow",
+    "content": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "contentSnippet": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "guid": "6ad8bfd3cd0792bc5939d089",
     "categories": [
       "Business",
-      "Business / Big Tech"
+      "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-20T17:41:58.000Z",
+    "isoDate": "2026-10-21T15:02:15.000Z",
     "source": "Wired AI",
-    "slug": "french-government-calls-emergency-meetings-with-platforms-over-protests"
+    "slug": "jensen-huang-s-vision-for-europe-runs-on-plug-in-data-centers"
   }
 ]
