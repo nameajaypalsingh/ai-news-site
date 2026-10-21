@@ -1,5 +1,24 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "contentSnippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "guid": "https://techcrunch.com/?p=3179755",
+    "categories": [
+      "AI",
+      "TC",
+      "Anthropic",
+      "policy"
+    ],
+    "isoDate": "2026-10-20T23:01:23.000Z",
+    "source": "TechCrunch AI",
+    "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
@@ -19,22 +38,18 @@
     "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-accurate"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "contentSnippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "guid": "https://techcrunch.com/?p=3179891",
-    "categories": [
-      "AI",
-      "Anthropic",
-      "cloud compute"
-    ],
-    "isoDate": "2026-10-20T21:25:22.000Z",
-    "source": "TechCrunch AI",
-    "slug": "anthropic-s-cloud-partnerships-are-getting-messy"
+    "title": "(No AI) Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "pubDate": "2026-10-20T23:04:19.000Z",
+    "author": "Richard Lawler",
+    "content": "![An image of Sam Altman, OpenAI CEO.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Tuesday, US District Judge Zachary Bluestone dismissed the [lawsuit](https://www.courtlistener.com/docket/69520118/altman-v-altman/?filed_after=&filed_before=&entry_gte=&entry_lte=&order_by=desc) Ann Altman [filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her](https://www.theverge.com/2025/1/7/24338736/sam-altman-sexual-abuse-lawsuit-ann-sister) throughout her childhood. As reported earlier by _[The Guardian](https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit)_, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\n\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)",
+    "contentSnippet": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed.\nWhen the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, \"Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim …\nRead the full story at The Verge.",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+    "id": "https://www.theverge.com/?p=1014976",
+    "isoDate": "2026-10-20T23:04:19.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-lawsuit"
   },
   {
     "title": "(No AI) Google’s more personalized Gemini AI is heading to your car",
@@ -51,20 +66,6 @@
     "slug": "google-s-more-personalized-gemini-ai-is-heading-to-your-car"
   },
   {
-    "title": "(No AI) Meta pauses Muse sharing after researchers find AI chats on the web",
-    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-    "pubDate": "2026-10-20T18:07:34.000Z",
-    "author": "Emma Roth",
-    "content": "![The Muse AI mascot and logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, [as reported by _Ars Technica_](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/?utm_source=bsky&utm_medium=social). In [a report published this week](https://blog.claroc.io/ghostshares-muse-passive-dns/#_), researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to _The Verge_. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)",
-    "contentSnippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\nRead the full story at The Verge.",
-    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
-    "id": "https://www.theverge.com/?p=1014627",
-    "isoDate": "2026-10-20T18:07:34.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-pauses-muse-sharing-after-researchers-find-ai-chats-on-the-web"
-  },
-  {
     "title": "(No AI) Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "link": "https://openai.com/index/ted-taylor-restaurant",
     "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -76,18 +77,18 @@
     "slug": "franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work"
   },
   {
-    "title": "(No AI) OpenAI acquires Orchestra Bio",
-    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "content": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "contentSnippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "guid": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "title": "(No AI) Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "link": "https://openai.com/index/terminal-x",
+    "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "contentSnippet": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "guid": "https://openai.com/index/terminal-x",
     "categories": [
-      "Company"
+      "Startup"
     ],
-    "isoDate": "2026-10-20T00:00:00.000Z",
+    "isoDate": "2026-10-20T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-acquires-orchestra-bio"
+    "slug": "terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1"
   },
   {
     "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
