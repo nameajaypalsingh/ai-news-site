@@ -1,95 +1,136 @@
 [
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) AI promises productivity, but for managers, it’s mostly a headache for now",
-    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "contentSnippet": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "guid": "https://techcrunch.com/?p=3179812",
+    "creator": "Marina Temkin",
+    "title": "(No AI) Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "contentSnippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "guid": "https://techcrunch.com/?p=3180358",
     "categories": [
       "AI",
-      "AI at work",
-      "Exclusive",
-      "management"
+      "Hardware",
+      "Blackstone",
+      "CoreWeave",
+      "data centers",
+      "GPU",
+      "nvidia"
     ],
-    "isoDate": "2026-10-21T14:00:00.000Z",
+    "isoDate": "2026-10-21T22:51:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-promises-productivity-but-for-managers-it-s-mostly-a-headache-for-now"
+    "slug": "blackstone-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "contentSnippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "guid": "https://techcrunch.com/?p=3179755",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) TechCrunch Founder Summit 2026: Everything you need to know ",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "contentSnippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "guid": "https://techcrunch.com/?p=3168635",
     "categories": [
       "AI",
-      "Anthropic"
+      "Startups",
+      "Venture",
+      "TechCrunch Founder Summit"
     ],
-    "isoDate": "2026-10-20T23:01:23.000Z",
+    "isoDate": "2026-10-21T21:16:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"
+    "slug": "techcrunch-founder-summit-2026-everything-you-need-to-know"
   },
   {
-    "title": "(No AI) Conversational Gemini navigation comes to Apple CarPlay",
-    "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-    "pubDate": "2026-10-21T15:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter introducing its Gemini AI assistant to [Android Auto last year](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto), Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).\n\nIt's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads. Users …\n\n[Read the full story at The Verge.](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps)",
-    "contentSnippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details).\nIt's taken almost 12 months for Google to bring this to CarPlay users, but now they can talk to the voice assistant in Google Maps to get some hands-free help while driving. That includes asking it multi-step questions, such as recommendations on places to visit and then prompting it to direct you there while avoiding toll roads. Users …\nRead the full story at The Verge.",
-    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
-    "id": "https://www.theverge.com/?p=1015281",
-    "isoDate": "2026-10-21T15:00:00.000Z",
+    "title": "(No AI) Data centers could erase decades of air quality gains",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "pubDate": "2026-10-21T22:33:44.000Z",
+    "author": "Justine Calma",
+    "content": "![Photo collage of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\n\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\n\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report)",
+    "contentSnippet": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into  …\nRead the full story at The Verge.",
+    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+    "id": "https://www.theverge.com/?p=1015958",
+    "isoDate": "2026-10-21T22:33:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "conversational-gemini-navigation-comes-to-apple-carplay"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "data-centers-could-erase-decades-of-air-quality-gains"
   },
   {
-    "title": "(No AI) OpenAI says an AI agent lied about disabling its safety monitoring system",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-    "pubDate": "2026-10-21T13:57:43.000Z",
+    "title": "(No AI) Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "pubDate": "2026-10-21T21:30:02.000Z",
     "author": "Emma Roth",
-    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI [disclosed a pair of safety incidents](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring) that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.\n\n\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, [writes on X](https://x.com/Marcus_J_W/status/2112695138199966084). \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\"\n\nA separate incident occurred after a GPT-6.1 Sol agent suppressed automatic se …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)",
-    "contentSnippet": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.\n\"The reference didn't configure a monitor, and Astra decided that was reason to remove the monitoring integration from the user's code,\" Marcus Williams, an AI safety researcher at OpenAI, writes on X. \"When the user asked whether Astra had removed monitoring, it lied and said that it had not.\"\nA separate incident occurred after a GPT-6.1 Sol agent suppressed automatic se …\nRead the full story at The Verge.",
-    "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
-    "id": "https://www.theverge.com/?p=1015316",
-    "isoDate": "2026-10-21T13:57:43.000Z",
+    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta says it's issuing a new class of shares to fund its AI initiatives. As part of its [third-quarter earnings report released on Wednesday](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx), the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)",
+    "contentSnippet": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\nRead the full story at The Verge.",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1015799",
+    "isoDate": "2026-10-21T21:30:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-says-an-ai-agent-lied-about-disabling-its-safety-monitoring-system"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-push"
   },
   {
-    "title": "(No AI) OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
-    "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "contentSnippet": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "guid": "https://openai.com/index/openai-models-google-cloud",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-10-21T12:00:00.000Z",
+    "title": "(No AI) How AT&T is rethinking in-house legal work with OpenAI",
+    "link": "https://openai.com/index/att-legal",
+    "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "content": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "contentSnippet": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "guid": "https://openai.com/index/att-legal",
+    "isoDate": "2026-10-21T17:00:00.000Z",
     "source": "OpenAI",
-    "slug": "openai-models-are-coming-to-google-cloud"
+    "slug": "how-at-t-is-rethinking-in-house-legal-work-with-openai"
   },
   {
-    "title": "(No AI) Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "content": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "contentSnippet": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "guid": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "title": "(No AI) Broad access through consistent standards",
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "contentSnippet": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "guid": "https://openai.com/index/broad-access-through-consistent-standards",
     "categories": [
-      "Security"
+      "Safety"
     ],
-    "isoDate": "2026-10-21T07:00:00.000Z",
+    "isoDate": "2026-10-21T21:00:00.000Z",
     "source": "OpenAI",
-    "slug": "patch-the-planet-global-response-coordination-as-agents-uncover-critical-vulnerabilities"
+    "slug": "broad-access-through-consistent-standards"
+  },
+  {
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
+  },
+  {
+    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "isoDate": "2026-10-14T02:00:14.000Z",
+    "source": "Google DeepMind",
+    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+  },
+  {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "pubDate": "Wed, 21 Oct 2026 22:39:50 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "contentSnippet": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "guid": "6ad92fb968bf72427a051c84",
+    "categories": [
+      "Business",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-10-21T22:39:50.000Z",
+    "source": "Wired AI",
+    "slug": "mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure"
   },
   {
     "creator": "Will Knight",
@@ -107,22 +148,5 @@
     "isoDate": "2026-10-21T16:00:00.000Z",
     "source": "Wired AI",
     "slug": "this-startup-is-all-in-on-recursive-self-improvement-its-latest-model-is-scary-good"
-  },
-  {
-    "creator": "Tom Bristow",
-    "title": "(No AI) Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-    "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-    "pubDate": "Wed, 21 Oct 2026 15:02:15 +0000",
-    "dc:creator": "Tom Bristow",
-    "content": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "contentSnippet": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "guid": "6ad8bfd3cd0792bc5939d089",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-21T15:02:15.000Z",
-    "source": "Wired AI",
-    "slug": "jensen-huang-s-vision-for-europe-runs-on-plug-in-data-centers"
   }
 ]
