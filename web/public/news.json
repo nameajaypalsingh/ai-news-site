@@ -1,97 +1,107 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-    "contentSnippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-    "guid": "https://techcrunch.com/?p=3180358",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Uber puts all 30,000 employees on ChatGPT Work",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "contentSnippet": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "guid": "https://techcrunch.com/?p=3180196",
+    "categories": [
+      "AI"
+    ],
+    "isoDate": "2026-10-22T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "uber-puts-all-30-000-employees-on-chatgpt-work"
+  },
+  {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Spotify’s current AI bet is about being the music service that agents choose",
+    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "pubDate": "Thu, 22 Oct 2026 15:03:58 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "contentSnippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "guid": "https://techcrunch.com/?p=3180626",
     "categories": [
       "AI",
-      "Hardware",
-      "Blackstone",
-      "CoreWeave",
-      "data centers",
-      "GPU",
-      "nvidia"
+      "Apps",
+      "Media & Entertainment",
+      "music streaming",
+      "Spotify",
+      "streaming"
     ],
-    "isoDate": "2026-10-21T22:51:22.000Z",
+    "isoDate": "2026-10-22T15:03:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "blackstone-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown"
+    "slug": "spotify-s-current-ai-bet-is-about-being-the-music-service-that-agents-choose"
   },
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) TechCrunch Founder Summit 2026: Everything you need to know ",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "contentSnippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "guid": "https://techcrunch.com/?p=3168635",
-    "categories": [
-      "AI",
-      "Startups",
-      "Venture",
-      "TechCrunch Founder Summit"
-    ],
-    "isoDate": "2026-10-21T21:16:20.000Z",
-    "source": "TechCrunch AI",
-    "slug": "techcrunch-founder-summit-2026-everything-you-need-to-know"
-  },
-  {
-    "title": "(No AI) Data centers could erase decades of air quality gains",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "pubDate": "2026-10-21T22:33:44.000Z",
-    "author": "Justine Calma",
-    "content": "![Photo collage of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\n\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\n\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report)",
-    "contentSnippet": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into  …\nRead the full story at The Verge.",
-    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
-    "id": "https://www.theverge.com/?p=1015958",
-    "isoDate": "2026-10-21T22:33:44.000Z",
+    "title": "(No AI) Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+    "pubDate": "2026-10-22T16:16:15.000Z",
+    "author": "Andrew Webster",
+    "content": "![A still from the stop-motion film Wildwood showing a child with glasses in a tall military-style hat next to a woman in armor.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Wildwood_ is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of _Coraline_ and _ParaNorman_. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to the instant progress promised by generative AI tools.\n\nRecently _Wildwood_ director and Laika CEO [Travis Knight joined](https://www.reddit.com/r/antiai/comments/1xbiclk/wildwood_director_travis_knight_says_ai_is_not_a/) [a chorus](https://deadline.com/2025/10/guillermo-del-toro-would-rather-die-than-use-generative-ai-1236597071/) [of influencer](https://www.ign.com/articles/f-ai-star-wars-and-knives-out-director-rian-johnson-blasts-ai-as-making-everything-worse-in-every-single-way) [filmmakers](https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence) …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion)",
+    "contentSnippet": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to the instant progress promised by generative AI tools.\nRecently Wildwood director and Laika CEO Travis Knight joined a chorus of influencer filmmakers …\nRead the full story at The Verge.",
+    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a [&#8230;]",
+    "id": "https://www.theverge.com/?p=1016647",
+    "isoDate": "2026-10-22T16:16:15.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "data-centers-could-erase-decades-of-air-quality-gains"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "wildwood-s-director-says-ai-is-antithetical-to-everything-that-we-are-at-this-studio"
   },
   {
-    "title": "(No AI) Meta to create a new class of shares to fund AI push",
-    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "pubDate": "2026-10-21T21:30:02.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Meta logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nMeta says it's issuing a new class of shares to fund its AI initiatives. As part of its [third-quarter earnings report released on Wednesday](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx), the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)",
-    "contentSnippet": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\nRead the full story at The Verge.",
-    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
-    "id": "https://www.theverge.com/?p=1015799",
-    "isoDate": "2026-10-21T21:30:02.000Z",
+    "title": "(No AI) OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+    "pubDate": "2026-10-22T15:50:30.000Z",
+    "author": "Lauren Feiner",
+    "content": "![Capitol Hill](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIt was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\n\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records)",
+    "contentSnippet": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
+    "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1016585",
+    "isoDate": "2026-10-22T15:50:30.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-push"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-anthropic-and-nvidia-had-record-lobbying-quarters"
   },
   {
-    "title": "(No AI) How AT&T is rethinking in-house legal work with OpenAI",
-    "link": "https://openai.com/index/att-legal",
-    "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "content": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "contentSnippet": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "guid": "https://openai.com/index/att-legal",
-    "isoDate": "2026-10-21T17:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-at-t-is-rethinking-in-house-legal-work-with-openai"
-  },
-  {
-    "title": "(No AI) Broad access through consistent standards",
-    "link": "https://openai.com/index/broad-access-through-consistent-standards",
-    "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "contentSnippet": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "guid": "https://openai.com/index/broad-access-through-consistent-standards",
+    "title": "(No AI) What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "content": "What forward deployed engineering means at OpenAI",
+    "contentSnippet": "What forward deployed engineering means at OpenAI",
+    "guid": "https://openai.com/index/forward-deployed-engineering-means",
     "categories": [
-      "Safety"
+      "Engineering"
     ],
-    "isoDate": "2026-10-21T21:00:00.000Z",
+    "isoDate": "2026-10-22T06:00:00.000Z",
     "source": "OpenAI",
-    "slug": "broad-access-through-consistent-standards"
+    "slug": "what-fde-means-at-openai"
+  },
+  {
+    "title": "(No AI) Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "contentSnippet": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "guid": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-10-22T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "uber-brings-chatgpt-work-to-all-employees-with-openai"
+  },
+  {
+    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "isoDate": "2026-10-22T14:30:24.000Z",
+    "source": "Google DeepMind",
+    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
   },
   {
     "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -105,48 +115,38 @@
     "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
-    "title": "(No AI) Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "contentSnippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "guid": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "isoDate": "2026-10-14T02:00:14.000Z",
-    "source": "Google DeepMind",
-    "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
+    "creator": "Julian Chokkattu",
+    "title": "(No AI) Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+    "dc:creator": "Julian Chokkattu",
+    "content": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+    "contentSnippet": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+    "guid": "6acf7f9fb4b82589ef13e659",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-22T13:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "meet-mori-a-cute-robot-mushroom-that-doesn-t-really-say-or-do-anything"
   },
   {
-    "creator": "Lily Hay Newman",
-    "title": "(No AI) Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-    "pubDate": "Thu, 22 Oct 2026 02:24:17 +0000",
-    "dc:creator": "Lily Hay Newman",
-    "content": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-    "contentSnippet": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-    "guid": "6ad955a28e3faf9869a11a20",
+    "creator": "Emily Mullin",
+    "title": "(No AI) Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "contentSnippet": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "guid": "6ad8f3de7f4e8c7bfb89b8b0",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Science",
+      "Science / Health",
+      "Business"
     ],
-    "isoDate": "2026-10-22T02:24:17.000Z",
+    "isoDate": "2026-10-22T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-    "pubDate": "Wed, 21 Oct 2026 22:39:50 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "contentSnippet": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "guid": "6ad92fb968bf72427a051c84",
-    "categories": [
-      "Business",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-10-21T22:39:50.000Z",
-    "source": "Wired AI",
-    "slug": "mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure"
+    "slug": "hugging-face-s-new-ai-biology-model-lets-you-chat-with-dna"
   }
 ]
