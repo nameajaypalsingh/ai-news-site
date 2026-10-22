@@ -116,6 +116,23 @@
     "slug": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-ai-model-for-scam-detection"
   },
   {
+    "creator": "Lily Hay Newman",
+    "title": "(No AI) Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "pubDate": "Thu, 22 Oct 2026 02:24:17 +0000",
+    "dc:creator": "Lily Hay Newman",
+    "content": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+    "contentSnippet": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+    "guid": "6ad955a28e3faf9869a11a20",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-10-22T02:24:17.000Z",
+    "source": "Wired AI",
+    "slug": "hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched"
+  },
+  {
     "creator": "Paresh Dave",
     "title": "(No AI) Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
     "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
@@ -131,22 +148,5 @@
     "isoDate": "2026-10-21T22:39:50.000Z",
     "source": "Wired AI",
     "slug": "mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-    "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-    "contentSnippet": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-    "guid": "6ad7b9c1698b2d6d47493387",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-21T16:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "this-startup-is-all-in-on-recursive-self-improvement-its-latest-model-is-scary-good"
   }
 ]
