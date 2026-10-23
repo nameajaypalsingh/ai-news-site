@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "contentSnippet": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "guid": "https://techcrunch.com/?p=3180898",
+    "categories": [
+      "Transportation",
+      "AI",
+      "nvidia",
+      "Pony.ai",
+      "indrive"
+    ],
+    "isoDate": "2026-10-23T04:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia"
+  },
+  {
     "creator": "Aditya Mehta",
     "title": "(No AI) Left alone with nothing to do, AI agents started playing",
     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -15,26 +35,6 @@
     "isoDate": "2026-10-23T00:45:37.000Z",
     "source": "TechCrunch AI",
     "slug": "left-alone-with-nothing-to-do-ai-agents-started-playing"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "contentSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "guid": "https://techcrunch.com/?p=3180936",
-    "categories": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "In Brief",
-      "OpenAI"
-    ],
-    "isoDate": "2026-10-22T22:08:24.000Z",
-    "source": "TechCrunch AI",
-    "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo"
   },
   {
     "title": "(No AI) Canva’s first AI image model plans designs before generating them",
@@ -65,6 +65,20 @@
     "slug": "meta-s-ai-could-still-scrape-news-sites-legal-experts-say"
   },
   {
+    "title": "(No AI) OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "content": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "contentSnippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "guid": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-10-23T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security"
+  },
+  {
     "title": "(No AI) Build more responsive apps with the Decisions API",
     "link": "https://openai.com/index/decisions-api",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
@@ -77,20 +91,6 @@
     "isoDate": "2026-10-22T19:00:00.000Z",
     "source": "OpenAI",
     "slug": "build-more-responsive-apps-with-the-decisions-api"
-  },
-  {
-    "title": "(No AI) What FDE means at OpenAI",
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
-    "content": "What forward deployed engineering means at OpenAI",
-    "contentSnippet": "What forward deployed engineering means at OpenAI",
-    "guid": "https://openai.com/index/forward-deployed-engineering-means",
-    "categories": [
-      "AI Adoption"
-    ],
-    "isoDate": "2026-10-22T06:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "what-fde-means-at-openai"
   },
   {
     "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
