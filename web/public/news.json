@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Aditya Mehta",
+    "title": "(No AI) Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+    "dc:creator": "Aditya Mehta",
+    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "contentSnippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "guid": "https://techcrunch.com/?p=3181016",
+    "categories": [
+      "AI",
+      "TC"
+    ],
+    "isoDate": "2026-10-23T00:45:37.000Z",
+    "source": "TechCrunch AI",
+    "slug": "left-alone-with-nothing-to-do-ai-agents-started-playing"
+  },
+  {
     "creator": "Julie Bort",
     "title": "(No AI) OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -18,27 +35,6 @@
     "isoDate": "2026-10-22T22:08:24.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo"
-  },
-  {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) 1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "contentSnippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "guid": "https://techcrunch.com/?p=3180727",
-    "categories": [
-      "AI",
-      "Apps",
-      "1password",
-      "dots",
-      "OpenAI",
-      "agents"
-    ],
-    "isoDate": "2026-10-22T19:07:09.000Z",
-    "source": "TechCrunch AI",
-    "slug": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password"
   },
   {
     "title": "(No AI) Canva’s first AI image model plans designs before generating them",
@@ -90,7 +86,7 @@
     "contentSnippet": "What forward deployed engineering means at OpenAI",
     "guid": "https://openai.com/index/forward-deployed-engineering-means",
     "categories": [
-      "Engineering"
+      "AI Adoption"
     ],
     "isoDate": "2026-10-22T06:00:00.000Z",
     "source": "OpenAI",
