@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Here are the top AI agents that can live in your text messages ",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "contentSnippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "guid": "https://techcrunch.com/?p=3173132",
+    "categories": [
+      "AI",
+      "instinct",
+      "AI agents"
+    ],
+    "isoDate": "2026-10-24T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages"
+  },
+  {
     "creator": "Tim Fernholz",
     "title": "(No AI) OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -14,27 +32,6 @@
     "isoDate": "2026-10-23T23:05:49.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks"
-  },
-  {
-    "creator": "Julie Bort",
-    "title": "(No AI) Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "pubDate": "Fri, 23 Oct 2026 21:59:19 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "contentSnippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "guid": "https://techcrunch.com/?p=3181412",
-    "categories": [
-      "AI",
-      "Gadgets",
-      "TC",
-      "nvidia",
-      "pollen robotics",
-      "toys"
-    ],
-    "isoDate": "2026-10-23T21:59:19.000Z",
-    "source": "TechCrunch AI",
-    "slug": "hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20-000-sell"
   },
   {
     "title": "(No AI) OpenAI now trains its frontier AI models with no internet access",
@@ -115,6 +112,23 @@
     "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "contentSnippet": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "guid": "6ad927eedb675d3d17a94c9a",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-10-24T12:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"
+  },
+  {
     "creator": "Zoë Schiffer",
     "title": "(No AI) The Social Society Helping Women Join the AI Boom",
     "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
@@ -130,22 +144,5 @@
     "isoDate": "2026-10-22T19:56:32.000Z",
     "source": "Wired AI",
     "slug": "the-social-society-helping-women-join-the-ai-boom"
-  },
-  {
-    "creator": "Julian Chokkattu",
-    "title": "(No AI) Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-    "dc:creator": "Julian Chokkattu",
-    "content": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-    "contentSnippet": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-    "guid": "6acf7f9fb4b82589ef13e659",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-10-22T13:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "meet-mori-a-cute-robot-mushroom-that-doesn-t-really-say-or-do-anything"
   }
 ]
