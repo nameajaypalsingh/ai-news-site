@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "contentSnippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "guid": "https://techcrunch.com/?p=3162590",
+    "categories": [
+      "AI",
+      "Microsoft",
+      "OpenAI",
+      "evergreens",
+      "siri ai"
+    ],
+    "isoDate": "2026-10-24T19:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it"
+  },
+  {
     "creator": "Ivan Mehta",
     "title": "(No AI) Block’s new voice model sounds eerily human",
     "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -19,29 +39,18 @@
     "slug": "block-s-new-voice-model-sounds-eerily-human"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "contentSnippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "guid": "https://techcrunch.com/?p=3181243",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "Elon Musk",
-      "SpaceX",
-      "vote",
-      "Exclusive",
-      "xAI",
-      "sam altman",
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "isoDate": "2026-10-24T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democrats"
+    "title": "(No AI) Blue Planet III is keeping the rough edges in the age of AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "pubDate": "2026-10-24T21:29:12.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![A humpback whale breaching with the NYC skyline in the background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100)\n\nBBC's _[Blue Planet III](https://www.bbcearth.com/shows/blue-planet-iii)_ is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\n\nExecutive Producer Elizabeth White told _[The Guardian](https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)_ in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)",
+    "contentSnippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth White told The Guardian in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough  …\nRead the full story at The Verge.",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+    "id": "https://www.theverge.com/?p=1018205",
+    "isoDate": "2026-10-24T21:29:12.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai"
   },
   {
     "title": "(No AI) Pennsylvania will require labels on AI-generated ads",
@@ -56,20 +65,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "pennsylvania-will-require-labels-on-ai-generated-ads"
-  },
-  {
-    "title": "(No AI) OpenAI now trains its frontier AI models with no internet access",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "pubDate": "2026-10-23T21:11:07.000Z",
-    "author": "Emma Roth",
-    "content": "![Vector illustration of the Open AI logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In [a blog post on Friday](https://openai.com/index/securing-our-frontier-model-training-environment/), OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\"\n\nOpenAI paused training its frontier AI [models in September](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause), after disclosing several incidents in which its AI agents broke out of their testing environments to hack [third-party companies](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai) and [government agencies](https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data), or [swarm obscure websites](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki). On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)",
-    "contentSnippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\"\nOpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte …\nRead the full story at The Verge.",
-    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018021",
-    "isoDate": "2026-10-23T21:11:07.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-now-trains-its-frontier-ai-models-with-no-internet-access"
   },
   {
     "title": "(No AI) Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -98,6 +93,28 @@
     "isoDate": "2026-10-23T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "securing-our-frontier-model-training-environment"
+  },
+  {
+    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "isoDate": "2026-10-22T14:30:24.000Z",
+    "source": "Google DeepMind",
+    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
+  },
+  {
+    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "isoDate": "2026-10-15T16:08:03.000Z",
+    "source": "Google DeepMind",
+    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
     "creator": "Lily Hay Newman, Matt Burgess",
