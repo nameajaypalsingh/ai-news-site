@@ -1,6 +1,26 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "contentSnippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "guid": "https://techcrunch.com/?p=3181554",
+    "categories": [
+      "AI",
+      "Media & Entertainment",
+      "Elon Musk",
+      "SpaceX",
+      "xAI"
+    ],
+    "isoDate": "2026-10-25T21:31:16.000Z",
+    "source": "TechCrunch AI",
+    "slug": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
@@ -15,27 +35,6 @@
     "isoDate": "2026-10-25T16:57:32.000Z",
     "source": "TechCrunch AI",
     "slug": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says"
-  },
-  {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "contentSnippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "guid": "https://techcrunch.com/?p=3067743",
-    "categories": [
-      "Hardware",
-      "AI",
-      "Gadgets",
-      "wearables",
-      "evergreens",
-      "AI wearables"
-    ],
-    "isoDate": "2026-10-25T14:10:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-hottest-ai-wearables-and-gadgets-you-should-know-about"
   },
   {
     "title": "(No AI) r/opensource just banned AI, non-English speakers, and more",
@@ -92,28 +91,6 @@
     "isoDate": "2026-10-23T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "securing-our-frontier-model-training-environment"
-  },
-  {
-    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "isoDate": "2026-10-22T14:30:24.000Z",
-    "source": "Google DeepMind",
-    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
-  },
-  {
-    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "isoDate": "2026-10-15T16:08:03.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
     "creator": "Molly Taft",
