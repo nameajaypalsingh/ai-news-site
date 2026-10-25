@@ -1,6 +1,27 @@
 [
   {
     "creator": "Lauren Forristal",
+    "title": "(No AI) The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "contentSnippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "guid": "https://techcrunch.com/?p=3067743",
+    "categories": [
+      "Hardware",
+      "AI",
+      "Gadgets",
+      "wearables",
+      "evergreens",
+      "AI wearables"
+    ],
+    "isoDate": "2026-10-25T14:10:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "the-hottest-ai-wearables-and-gadgets-you-should-know-about"
+  },
+  {
+    "creator": "Lauren Forristal",
     "title": "(No AI) The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -20,51 +41,32 @@
     "slug": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it"
   },
   {
-    "creator": "Ivan Mehta",
-    "title": "(No AI) Block’s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
-    "dc:creator": "Ivan Mehta",
-    "content": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "contentSnippet": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "guid": "https://techcrunch.com/?p=3181490",
-    "categories": [
-      "AI",
-      "block",
-      "jack dorsey",
-      "voice AI"
-    ],
-    "isoDate": "2026-10-24T16:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "block-s-new-voice-model-sounds-eerily-human"
+    "title": "(No AI) r/opensource just banned AI, non-English speakers, and more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "pubDate": "2026-10-25T13:25:32.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![An illustration of the Reddit logo.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100)\n\nThe mods at [r/opensource](https://www.reddit.com/r/opensource/) posted [new submission rules](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/) that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"\n\nThe new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub [r/trueopensource](https://www.reddit.com/r/TrueOpenSource/). Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has accessibility features that use AI,\" including …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)",
+    "contentSnippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"\nThe new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has accessibility features that use AI,\" including  …\nRead the full story at The Verge.",
+    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+    "id": "https://www.theverge.com/?p=1018217",
+    "isoDate": "2026-10-25T13:25:32.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "r-opensource-just-banned-ai-non-english-speakers-and-more"
   },
   {
-    "title": "(No AI) Blue Planet III is keeping the rough edges in the age of AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "pubDate": "2026-10-24T21:29:12.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![A humpback whale breaching with the NYC skyline in the background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100)\n\nBBC's _[Blue Planet III](https://www.bbcearth.com/shows/blue-planet-iii)_ is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\n\nExecutive Producer Elizabeth White told _[The Guardian](https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)_ in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)",
-    "contentSnippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth White told The Guardian in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough  …\nRead the full story at The Verge.",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018205",
-    "isoDate": "2026-10-24T21:29:12.000Z",
+    "title": "(No AI) Google’s AI search changes upended online publishing",
+    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "pubDate": "2026-10-25T12:00:00.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_This is_ [The Stepback](https://www.theverge.com/the-stepback-newsletter)_, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow [Emma Roth](https://www.theverge.com/authors/emma-roth)._ The Stepback _arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for_ The Stepback _[here](https://www.theverge.com/newsletters)._\n\n## How it started\n\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)",
+    "contentSnippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub …\nRead the full story at The Verge.",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+    "id": "https://www.theverge.com/?p=1017983",
+    "isoDate": "2026-10-25T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai"
-  },
-  {
-    "title": "(No AI) Pennsylvania will require labels on AI-generated ads",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "pubDate": "2026-10-24T18:32:21.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Illustration of ad broken by a gavel](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Thursday, Pennsylvania Governor Josh Shapiro signed the [Artificial Intelligence Deceptive Advertising Act](https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0806/PN1808) into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as the ad itself. That applies to [TV commercials from multi-billion-dollar companies](https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025), as well as restaurants' [ugly, crowded flyers](https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that) about their wing specials.\n\nPennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)",
-    "contentSnippet": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as the ad itself. That applies to TV commercials from multi-billion-dollar companies, as well as restaurants' ugly, crowded flyers about their wing specials.\nPennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad  …\nRead the full story at The Verge.",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018187",
-    "isoDate": "2026-10-24T18:32:21.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "pennsylvania-will-require-labels-on-ai-generated-ads"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-ai-search-changes-upended-online-publishing"
   },
   {
     "title": "(No AI) Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -117,6 +119,24 @@
     "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
+    "creator": "Molly Taft",
+    "title": "(No AI) What the US Movement Against Data Centers Can Learn From Abroad",
+    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
+    "dc:creator": "Molly Taft",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "contentSnippet": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "guid": "6adaac0658fe17d926e679bc",
+    "categories": [
+      "Science",
+      "Science / Environment",
+      "Business"
+    ],
+    "isoDate": "2026-10-25T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "what-the-us-movement-against-data-centers-can-learn-from-abroad"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "(No AI) The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
     "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
@@ -132,22 +152,5 @@
     "isoDate": "2026-10-24T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"
-  },
-  {
-    "creator": "Zoë Schiffer",
-    "title": "(No AI) The Social Society Helping Women Join the AI Boom",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "pubDate": "Thu, 22 Oct 2026 19:56:32 +0000",
-    "dc:creator": "Zoë Schiffer",
-    "content": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "contentSnippet": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "guid": "6ad944c52adb51db52e1a3c5",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-22T19:56:32.000Z",
-    "source": "Wired AI",
-    "slug": "the-social-society-helping-women-join-the-ai-boom"
   }
 ]
