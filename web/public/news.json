@@ -11,9 +11,9 @@
     "categories": [
       "AI",
       "Enterprise",
-      "Enterprise AI",
       "Anthropic",
-      "anthropic ipo"
+      "anthropic ipo",
+      "Enterprise AI"
     ],
     "isoDate": "2026-10-26T16:49:42.000Z",
     "source": "TechCrunch AI",
@@ -25,16 +25,31 @@
     "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "pubDate": "Mon, 26 Oct 2026 16:46:36 +0000",
     "dc:creator": "Aditya Mehta",
-    "content": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
-    "contentSnippet": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+    "content": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "contentSnippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "guid": "https://techcrunch.com/?p=3181659",
     "categories": [
       "AI",
-      "TC"
+      "apollo",
+      "SpaceX"
     ],
     "isoDate": "2026-10-26T16:46:36.000Z",
     "source": "TechCrunch AI",
     "slug": "spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+  },
+  {
+    "title": "(No AI) Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "pubDate": "2026-10-26T21:45:31.000Z",
+    "author": "Justine Calma",
+    "content": "![Anthropic logo on an orange and gray background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAs it [prepares to go public](https://www.anthropic.com/news/s1-sec), Anthropic's [S-1 filing](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) makes generative AI's methane dependency glaringly obvious.\n\n> \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\"\n\nIn documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's [marketing term](https://www.vox.com/22912760/natural-gas-methane-rename) for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a possible catch-22, Anthropic admits that rising gl …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)",
+    "contentSnippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.\n\n\"Competition for access to electrical supply and data center locations with adequate power availability is intense.\"\n\nIn documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a possible catch-22, Anthropic admits that rising gl …\nRead the full story at The Verge.",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+    "id": "https://www.theverge.com/?p=1018994",
+    "isoDate": "2026-10-26T21:45:31.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom"
   },
   {
     "title": "(No AI) The RealReal won’t let AI agents hog designer clothing",
@@ -51,43 +66,49 @@
     "slug": "the-realreal-won-t-let-ai-agents-hog-designer-clothing"
   },
   {
-    "title": "(No AI) Five weird details from Anthropic’s IPO filing",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "pubDate": "2026-10-26T17:10:23.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has [finally filed](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) its S-1 prospectus with the SEC, a [document](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.\n\nAt more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass:\n\n## **It pays to be an Amodei**\n\nSibling co-founders Dario Amodei and Daniela Amodei are the two most highly-paid executives at Anthropic, according to the filing. Last year, CEO Dario's compensation …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details)",
-    "contentSnippet": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.\nAt more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass:\nIt pays to be an Amodei\nSibling co-founders Dario Amodei and Daniela Amodei are the two most highly-paid executives at Anthropic, according to the filing. Last year, CEO Dario's compensation  …\nRead the full story at The Verge.",
-    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018738",
-    "isoDate": "2026-10-26T17:10:23.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "five-weird-details-from-anthropic-s-ipo-filing"
+    "title": "(No AI) Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "contentSnippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "guid": "https://openai.com/index/greptile-code-review-codex-astra",
+    "categories": [
+      "Startup"
+    ],
+    "isoDate": "2026-10-26T22:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "greptile-takes-bug-detection-beyond-code-review-with-gpt-6-astra"
   },
   {
-    "title": "(No AI) ChatGPT’s expanding world of work",
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "content": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "contentSnippet": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "guid": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "title": "(No AI) Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "pubDate": "Mon, 26 Oct 2026 14:30:00 GMT",
+    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "contentSnippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "guid": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "categories": [
       "Research"
     ],
-    "isoDate": "2026-10-26T10:00:00.000Z",
+    "isoDate": "2026-10-26T14:30:00.000Z",
     "source": "OpenAI",
-    "slug": "chatgpt-s-expanding-world-of-work"
+    "slug": "working-with-academic-communities-to-build-scientific-understanding"
   },
   {
-    "title": "(No AI) How Fanatics and OpenAI streamline the fan experience",
-    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "content": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "contentSnippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "guid": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "isoDate": "2026-10-26T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "how-fanatics-and-openai-streamline-the-fan-experience"
+    "creator": "Lauren Goode, Caroline Haskins, Kate Taylor",
+    "title": "(No AI) Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "pubDate": "Mon, 26 Oct 2026 21:27:15 +0000",
+    "dc:creator": "Lauren Goode, Caroline Haskins, Kate Taylor",
+    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "contentSnippet": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "guid": "6adf7ed1ef12fa802abfb0e0",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-26T21:27:15.000Z",
+    "source": "Wired AI",
+    "slug": "why-anthropic-s-ipo-prospectus-is-missing-so-many-key-figures"
   },
   {
     "creator": "Brian Barrett",
@@ -105,22 +126,5 @@
     "isoDate": "2026-10-26T16:01:55.000Z",
     "source": "Wired AI",
     "slug": "the-anthropic-s-1-filing-is-also-an-ai-doomsday-primer"
-  },
-  {
-    "creator": "Joel Khalili, Kate Taylor",
-    "title": "(No AI) Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "pubDate": "Mon, 26 Oct 2026 14:50:47 +0000",
-    "dc:creator": "Joel Khalili, Kate Taylor",
-    "content": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "contentSnippet": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "guid": "6adf4b6dcf87963da16e83cd",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-26T14:50:47.000Z",
-    "source": "Wired AI",
-    "slug": "anthropic-s-ipo-prospectus-reveals-what-s-under-the-hood"
   }
 ]
