@@ -1,66 +1,83 @@
 [
   {
     "creator": "Tim Fernholz",
-    "title": "(No AI) How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
+    "title": "(No AI) Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
     "dc:creator": "Tim Fernholz",
-    "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "contentSnippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "guid": "https://techcrunch.com/?p=3181218",
+    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "contentSnippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "guid": "https://techcrunch.com/?p=3182002",
     "categories": [
       "AI",
-      "Disrupt",
       "Exclusive"
     ],
-    "isoDate": "2026-10-27T02:00:00.000Z",
+    "isoDate": "2026-10-27T17:08:08.000Z",
     "source": "TechCrunch AI",
-    "slug": "how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"
+    "slug": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "contentSnippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "guid": "https://techcrunch.com/?p=3181989",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "contentSnippet": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "guid": "https://techcrunch.com/?p=3182045",
     "categories": [
       "AI",
-      "TC"
+      "Media & Entertainment",
+      "Genie",
+      "Google",
+      "google deepmind",
+      "world models"
     ],
-    "isoDate": "2026-10-27T01:12:21.000Z",
+    "isoDate": "2026-10-27T16:30:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "cohere-says-alibaba-s-qwen-model-tried-to-send-a-file-to-beijing"
+    "slug": "google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
   },
   {
-    "title": "(No AI) OpenAI announces three big science discoveries and a new way to work with academics",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "pubDate": "2026-10-26T23:34:58.000Z",
-    "author": "Richard Lawler",
-    "content": "![OpenAI logo with a background of complex math formulas.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLess than a month after its [mass release of hundreds of manuscripts](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) that it said contained solutions to long-standing mathematics questions, OpenAI is back with [three more \"major\" discoveries in math, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/). What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations.\n\n> [**OpenAI results added to GitHub today:**](https://github.com/openai/math/blob/main/history.md)\n> \n> Local smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)",
-    "contentSnippet": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
-    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
-    "id": "https://www.theverge.com/?p=1019143",
-    "isoDate": "2026-10-26T23:34:58.000Z",
+    "title": "(No AI) VisionQuest is what happens when AI really goes rogue",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "pubDate": "2026-10-27T17:30:00.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![Four characters from VisionQuest are seated on a couch in a living room.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn Marvel's _VisionQuest_, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)",
+    "contentSnippet": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI  …\nRead the full story at The Verge.",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+    "id": "https://www.theverge.com/?p=1017064",
+    "isoDate": "2026-10-27T17:30:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "visionquest-is-what-happens-when-ai-really-goes-rogue"
   },
   {
-    "title": "(No AI) Anthropic is burning gas to feed the AI boom",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "pubDate": "2026-10-26T21:45:31.000Z",
-    "author": "Justine Calma",
-    "content": "![Anthropic logo on an orange and gray background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAs it [prepares to go public](https://www.anthropic.com/news/s1-sec), Anthropic's [S-1 filing](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) makes generative AI's methane dependency glaringly obvious.\n\n> \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\"\n\nIn documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's [marketing term](https://www.vox.com/22912760/natural-gas-methane-rename) for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a possible catch-22, Anthropic admits that rising gl …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)",
-    "contentSnippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.\n\n\"Competition for access to electrical supply and data center locations with adequate power availability is intense.\"\n\nIn documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a possible catch-22, Anthropic admits that rising gl …\nRead the full story at The Verge.",
-    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018994",
-    "isoDate": "2026-10-26T21:45:31.000Z",
+    "title": "(No AI) Anthropic’s elaborate plan to keep Wall Street at bay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "pubDate": "2026-10-27T16:51:22.000Z",
+    "author": "Robert Hart",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to [tap the vast riches of the public markets](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\n\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has [cited](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety)",
+    "contentSnippet": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n …\nRead the full story at The Verge.",
+    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+    "id": "https://www.theverge.com/?p=1019470",
+    "isoDate": "2026-10-27T16:51:22.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-s-elaborate-plan-to-keep-wall-street-at-bay"
+  },
+  {
+    "title": "(No AI) OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "content": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "contentSnippet": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "guid": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-10-27T07:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "openai-expands-partnership-with-oracle-to-bring-its-apps-to-chatgpt"
   },
   {
     "title": "(No AI) Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -77,73 +94,37 @@
     "slug": "greptile-takes-bug-detection-beyond-code-review-with-gpt-6-astra"
   },
   {
-    "title": "(No AI) Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "pubDate": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "contentSnippet": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "guid": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "creator": "Isabella Ward",
+    "title": "(No AI) UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "pubDate": "Tue, 27 Oct 2026 15:10:26 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "contentSnippet": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "guid": "6ad9cfffb974411ce94e5e2c",
     "categories": [
-      "Research"
+      "Politics",
+      "Politics / Policy"
     ],
-    "isoDate": "2026-10-26T14:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "working-with-academic-communities-to-build-scientific-understanding"
-  },
-  {
-    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "isoDate": "2026-10-22T14:30:24.000Z",
-    "source": "Google DeepMind",
-    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
-  },
-  {
-    "title": "(No AI) Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "content": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "contentSnippet": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "guid": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "isoDate": "2026-10-15T16:08:03.000Z",
-    "source": "Google DeepMind",
-    "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
-  },
-  {
-    "creator": "Reece Rogers",
-    "title": "(No AI) I Tested Every Major AI Agent for a Day. Here’s the Best One",
-    "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-    "pubDate": "Tue, 27 Oct 2026 09:30:00 +0000",
-    "dc:creator": "Reece Rogers",
-    "content": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-    "contentSnippet": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-    "guid": "6adb5ab42c4105a738fd25ca",
-    "categories": [
-      "Gear",
-      "Gear / Gear News and Events"
-    ],
-    "isoDate": "2026-10-27T09:30:00.000Z",
+    "isoDate": "2026-10-27T15:10:26.000Z",
     "source": "Wired AI",
-    "slug": "i-tested-every-major-ai-agent-for-a-day-here-s-the-best-one"
+    "slug": "uk-home-office-may-face-investigation-over-use-of-openai-tech"
   },
   {
-    "creator": "Lauren Goode, Caroline Haskins, Kate Taylor",
-    "title": "(No AI) Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "pubDate": "Mon, 26 Oct 2026 21:27:15 +0000",
-    "dc:creator": "Lauren Goode, Caroline Haskins, Kate Taylor",
-    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "contentSnippet": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "guid": "6adf7ed1ef12fa802abfb0e0",
+    "creator": "Kate Taylor",
+    "title": "(No AI) AI Agents Are Media’s New Favorite Audience",
+    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "dc:creator": "Kate Taylor",
+    "content": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "contentSnippet": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "guid": "6adb7f4f37abe86dfce58c20",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-10-26T21:27:15.000Z",
+    "isoDate": "2026-10-27T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "why-anthropic-s-ipo-prospectus-is-missing-so-many-key-figures"
+    "slug": "ai-agents-are-media-s-new-favorite-audience"
   }
 ]
