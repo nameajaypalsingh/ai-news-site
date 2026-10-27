@@ -113,6 +113,23 @@
     "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity"
   },
   {
+    "creator": "Reece Rogers",
+    "title": "(No AI) I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "pubDate": "Tue, 27 Oct 2026 09:30:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "contentSnippet": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "guid": "6adb5ab42c4105a738fd25ca",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-10-27T09:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "i-tested-every-major-ai-agent-for-a-day-here-s-the-best-one"
+  },
+  {
     "creator": "Lauren Goode, Caroline Haskins, Kate Taylor",
     "title": "(No AI) Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
     "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
@@ -128,22 +145,5 @@
     "isoDate": "2026-10-26T21:27:15.000Z",
     "source": "Wired AI",
     "slug": "why-anthropic-s-ipo-prospectus-is-missing-so-many-key-figures"
-  },
-  {
-    "creator": "Brian Barrett",
-    "title": "(No AI) The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-    "pubDate": "Mon, 26 Oct 2026 16:01:55 +0000",
-    "dc:creator": "Brian Barrett",
-    "content": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "contentSnippet": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "guid": "6adf5a4c0708bfb551f92f1c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-26T16:01:55.000Z",
-    "source": "Wired AI",
-    "slug": "the-anthropic-s-1-filing-is-also-an-ai-doomsday-primer"
   }
 ]
