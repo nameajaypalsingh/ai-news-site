@@ -1,41 +1,58 @@
 [
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-    "contentSnippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-    "guid": "https://techcrunch.com/?p=3182002",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "contentSnippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "guid": "https://techcrunch.com/?p=3181301",
     "categories": [
       "AI",
-      "Exclusive"
+      "data centers",
+      "TechCrunch Disrupt",
+      "Veir"
     ],
-    "isoDate": "2026-10-27T17:08:08.000Z",
+    "isoDate": "2026-10-27T22:55:41.000Z",
     "source": "TechCrunch AI",
-    "slug": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean"
+    "slug": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid"
   },
   {
-    "creator": "Rebecca Bellan",
-    "title": "(No AI) Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
-    "dc:creator": "Rebecca Bellan",
-    "content": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-    "contentSnippet": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-    "guid": "https://techcrunch.com/?p=3182045",
+    "creator": "Zack Whittaker",
+    "title": "(No AI) Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
+    "dc:creator": "Zack Whittaker",
+    "content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "contentSnippet": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "guid": "https://techcrunch.com/?p=3182297",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Genie",
-      "Google",
-      "google deepmind",
-      "world models"
+      "Fintech",
+      "Security",
+      "agentic payments",
+      "Bank of America",
+      "Banking",
+      "cybersecurity"
     ],
-    "isoDate": "2026-10-27T16:30:57.000Z",
+    "isoDate": "2026-10-27T21:44:34.000Z",
     "source": "TechCrunch AI",
-    "slug": "google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
+    "slug": "bank-of-america-kindly-asks-that-you-don-t-share-your-banking-password-with-your-ai-assistant"
+  },
+  {
+    "title": "(No AI) Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "pubDate": "2026-10-27T20:48:58.000Z",
+    "author": "Robert Hart",
+    "content": "![Frowning calculator on a background of math writing.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Monday, OpenAI [announced](https://openai.com/index/building-scientific-understanding-with-academic-communities/) impressive [breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to _The Verge_ are growing increasingly tired of the company's antics.\n\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints [unceremoniously dumped on them](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\n\nAll three results conc …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)",
+    "contentSnippet": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\nAll three results conc …\nRead the full story at The Verge.",
+    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+    "id": "https://www.theverge.com/?p=1019921",
+    "isoDate": "2026-10-27T20:48:58.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs"
   },
   {
     "title": "(No AI) VisionQuest is what happens when AI really goes rogue",
@@ -52,18 +69,15 @@
     "slug": "visionquest-is-what-happens-when-ai-really-goes-rogue"
   },
   {
-    "title": "(No AI) Anthropic’s elaborate plan to keep Wall Street at bay",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "pubDate": "2026-10-27T16:51:22.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to [tap the vast riches of the public markets](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\n\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has [cited](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n\n…\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety)",
-    "contentSnippet": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n …\nRead the full story at The Verge.",
-    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
-    "id": "https://www.theverge.com/?p=1019470",
-    "isoDate": "2026-10-27T16:51:22.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "anthropic-s-elaborate-plan-to-keep-wall-street-at-bay"
+    "title": "(No AI) Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai",
+    "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "contentSnippet": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "guid": "https://openai.com/index/retell-ai",
+    "isoDate": "2026-10-27T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "retell-uses-openai-models-to-help-power-100m-monthly-calls"
   },
   {
     "title": "(No AI) OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -80,18 +94,22 @@
     "slug": "openai-expands-partnership-with-oracle-to-bring-its-apps-to-chatgpt"
   },
   {
-    "title": "(No AI) Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "link": "https://openai.com/index/greptile-code-review-codex-astra",
-    "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "contentSnippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "guid": "https://openai.com/index/greptile-code-review-codex-astra",
+    "creator": "Emily Mullin",
+    "title": "(No AI) Anthropic Says It Will Revolutionize Biology—Some Day",
+    "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "pubDate": "Tue, 27 Oct 2026 19:39:04 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "contentSnippet": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "guid": "6adfca7628ba980ed3d02255",
     "categories": [
-      "Startup"
+      "Science",
+      "Science / Biotech",
+      "Business"
     ],
-    "isoDate": "2026-10-26T22:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "greptile-takes-bug-detection-beyond-code-review-with-gpt-6-astra"
+    "isoDate": "2026-10-27T19:39:04.000Z",
+    "source": "Wired AI",
+    "slug": "anthropic-says-it-will-revolutionize-biology-some-day"
   },
   {
     "creator": "Isabella Ward",
@@ -109,22 +127,5 @@
     "isoDate": "2026-10-27T15:10:26.000Z",
     "source": "Wired AI",
     "slug": "uk-home-office-may-face-investigation-over-use-of-openai-tech"
-  },
-  {
-    "creator": "Kate Taylor",
-    "title": "(No AI) AI Agents Are Media’s New Favorite Audience",
-    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-    "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
-    "dc:creator": "Kate Taylor",
-    "content": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "contentSnippet": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "guid": "6adb7f4f37abe86dfce58c20",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-27T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-agents-are-media-s-new-favorite-audience"
   }
 ]
