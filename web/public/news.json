@@ -1,99 +1,110 @@
 [
   {
-    "creator": "TechCrunch Events",
-    "title": "(No AI) 7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-    "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
-    "dc:creator": "TechCrunch Events",
-    "content": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-    "contentSnippet": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-    "guid": "https://techcrunch.com/?p=3182455",
-    "categories": [
-      "TC",
-      "Startups",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "AI",
-      "Fundraising",
-      "TechCrunch Founder Summit 2026"
-    ],
-    "isoDate": "2026-10-28T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "7-days-until-techcrunch-founder-summit-save-up-to-100-on-your-pass-before-doors-open"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-    "contentSnippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-    "guid": "https://techcrunch.com/?p=3182406",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "contentSnippet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "guid": "https://techcrunch.com/?p=3182643",
     "categories": [
       "AI",
-      "Startups",
-      "Venture",
-      "Amazon",
-      "Google",
-      "IPO",
       "Anthropic"
     ],
-    "isoDate": "2026-10-28T01:15:28.000Z",
+    "isoDate": "2026-10-28T19:19:58.000Z",
     "source": "TechCrunch AI",
-    "slug": "vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-make-much-much-more"
+    "slug": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
   },
   {
-    "title": "(No AI) xAI is buying out homeowners who promise not to sue over data center noise",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-    "pubDate": "2026-10-28T14:44:00.000Z",
+    "creator": "Theresa Loconsolo",
+    "title": "(No AI) Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "pubDate": "Wed, 28 Oct 2026 19:05:46 +0000",
+    "dc:creator": "Theresa Loconsolo",
+    "content": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the \\[…\\]",
+    "contentSnippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3182776",
+    "categories": [
+      "AI",
+      "Security",
+      "Startups",
+      "CTO",
+      "cybersecurity",
+      "Equity Video",
+      "php",
+      "wiz"
+    ],
+    "isoDate": "2026-10-28T19:05:46.000Z",
+    "source": "TechCrunch AI",
+    "slug": "wiz-s-cto-on-php2shell-and-the-coming-vulnpocalypse"
+  },
+  {
+    "title": "(No AI) Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "pubDate": "2026-10-28T20:03:00.000Z",
     "author": "Emma Roth",
-    "content": "![A photo of xAI’s Southaven, Mississippi data center](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nxAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, [according to a report from _The Guardian_](https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi). A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report [they're already being forced out](https://wreg.com/news/local/xai-memphis/spacexai-data-center-expansion-in-southaven-forces-renters-out/), with 60 days' notice after their landlords agreed to sell.\n\nA recent report from the [_Mississippi Free Press_](https://www.mississippifreepress.org/xai-moves-to-buy-out-southaven-residents-who-agree-not-to-sue-it-over-power-plant-noise-letter-shows/) includes a letter received by several households rec …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit)",
-    "contentSnippet": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report they're already being forced out, with 60 days' notice after their landlords agreed to sell.\nA recent report from the Mississippi Free Press includes a letter received by several households rec …\nRead the full story at The Verge.",
-    "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&#8230;]",
-    "id": "https://www.theverge.com/?p=1020596",
-    "isoDate": "2026-10-28T14:44:00.000Z",
+    "content": "![An image showing the Gemini logo on a dark blue background](https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In [an announcement on Wednesday](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/), Google highlights Carbon's top spot on the [Artificial Analysis Intelligence Index (v5.0)](https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\n\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners [in its Fairwind Program](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/).\n\n![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Artificial-Analysis-Intelligence-Index-Score-28-Oct-26.png?quality=90&strip=all&crop=0,0,100,100)\n\nThe company says Carbon reflects the \"pace at which we're pus …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)",
+    "contentSnippet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program.\nThe company says Carbon reflects the \"pace at which we're pus …\nRead the full story at The Verge.",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+    "id": "https://www.theverge.com/?p=1021339",
+    "isoDate": "2026-10-28T20:03:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "xai-is-buying-out-homeowners-who-promise-not-to-sue-over-data-center-noise"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecurity"
   },
   {
-    "title": "(No AI) Voters in Texas agree: They hate data centers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-    "pubDate": "2026-10-28T12:00:00.000Z",
-    "author": "Justine Calma",
-    "content": "![Greg Abbott, Gina Hinojosa, James Talarico, and Ken Paxton in the shape of Texas with glitchy effects.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAsk Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\n\nThere's the [fight in Taylor](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/10/05/taylor-data-center-investigation) over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face [recall](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/08/04/recall-petition-in-response-to-data-centers) [attempts](https://www.kcentv.com/article/news/local/temple-recall-effort-against-mayor-davis-and-council-members-falls-short-of-needed-signatures/500-70af88ad-4e48-4bce-8d0a-2c8ff2e7fc50) over data center developments. And some 30 miles outside of Austin, San Marcos became the first [city in all of Texas to ban data centers](https://www.usatoday.com/story/money/business/2026/06/30/texas-data-centers-san-marcos-ban-opposition-poll-state-regulations/90750494007/).\n\nNowhere in the world are data centers growing more explosively than …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)",
-    "contentSnippet": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside of Austin, San Marcos became the first city in all of Texas to ban data centers.\nNowhere in the world are data centers growing more explosively than …\nRead the full story at The Verge.",
-    "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. [&#8230;]",
-    "id": "https://www.theverge.com/?p=1018676",
-    "isoDate": "2026-10-28T12:00:00.000Z",
+    "title": "(No AI) Microsoft is ending Copilot support on smart TVs",
+    "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "pubDate": "2026-10-28T18:36:26.000Z",
+    "author": "Andrew Liszewski",
+    "content": "![Microsoft’s Copilot AI assistant shown running on a Samsung smart TV.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNearly two years after [LG and Samsung announced at CES 2025](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025) that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, [according to a report by _Windows Central_](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-is-killing-copilot-on-all-smart-tvs-after-backlash-and-strategy-shift-lg-confirms-support-will-end-before-2027).\n\nThe news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on _Windows Central'_s Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)",
+    "contentSnippet": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.\nThe news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central's Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat …\nRead the full story at The Verge.",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1021143",
+    "isoDate": "2026-10-28T18:36:26.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "voters-in-texas-agree-they-hate-data-centers"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "microsoft-is-ending-copilot-support-on-smart-tvs"
   },
   {
-    "title": "(No AI) Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "contentSnippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "guid": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "isoDate": "2026-10-28T09:30:00.000Z",
+    "title": "(No AI) OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "content": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "contentSnippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "guid": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-10-28T13:15:00.000Z",
     "source": "OpenAI",
-    "slug": "legora-is-building-the-agentic-operating-system-for-legal-work"
+    "slug": "openai-and-servicenow-expand-partnership-across-enterprise-workflows"
   },
   {
-    "title": "(No AI) Retell uses OpenAI models to help power 100M monthly calls",
-    "link": "https://openai.com/index/retell-ai",
-    "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
-    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "contentSnippet": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "guid": "https://openai.com/index/retell-ai",
-    "isoDate": "2026-10-27T15:00:00.000Z",
+    "title": "(No AI) The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "content": "How AI might enter the org chart—beneath, beside, and between us.",
+    "contentSnippet": "How AI might enter the org chart—beneath, beside, and between us.",
+    "guid": "https://openai.com/index/the-future-of-the-firm",
+    "categories": [
+      "Intelligence Age"
+    ],
+    "isoDate": "2026-10-28T10:00:00.000Z",
     "source": "OpenAI",
-    "slug": "retell-uses-openai-models-to-help-power-100m-monthly-calls"
+    "slug": "the-future-of-the-firm"
+  },
+  {
+    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "isoDate": "2026-10-28T17:00:58.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-carbon-our-next-frontier-model"
   },
   {
     "title": "(No AI) Genie 4: A new generation of world simulation",
@@ -107,15 +118,21 @@
     "slug": "genie-4-a-new-generation-of-world-simulation"
   },
   {
-    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "isoDate": "2026-10-22T14:30:24.000Z",
-    "source": "Google DeepMind",
-    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
+    "creator": "Will Knight",
+    "title": "(No AI) I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "contentSnippet": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "guid": "6adfcf10fff166c1bb1e044f",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-28T18:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "i-put-a-bunch-of-ai-agents-in-charge-of-a-fantasy-soccer-team-they-re-not-better-than-humans-yet"
   },
   {
     "creator": "Adam Morgan",
@@ -133,22 +150,5 @@
     "isoDate": "2026-10-28T10:15:00.000Z",
     "source": "Wired AI",
     "slug": "macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed"
-  },
-  {
-    "creator": "Jake Bittle",
-    "title": "(No AI) AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-    "pubDate": "Wed, 28 Oct 2026 08:30:00 +0000",
-    "dc:creator": "Jake Bittle",
-    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "contentSnippet": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "guid": "6ae0f8e8b1846b1aa5192467",
-    "categories": [
-      "Science",
-      "Science / Environment"
-    ],
-    "isoDate": "2026-10-28T08:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "ai-emergency-alerts-are-coming-humans-might-not-be-ready"
   }
 ]
