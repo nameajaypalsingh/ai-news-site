@@ -1,5 +1,29 @@
 [
   {
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "contentSnippet": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "guid": "https://techcrunch.com/?p=3182455",
+    "categories": [
+      "TC",
+      "Startups",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit 2026"
+    ],
+    "isoDate": "2026-10-28T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "7-days-until-techcrunch-founder-summit-save-up-to-100-on-your-pass-before-doors-open"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
     "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -22,51 +46,43 @@
     "slug": "vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-make-much-much-more"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "contentSnippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "guid": "https://techcrunch.com/?p=3182387",
-    "categories": [
-      "AI",
-      "ChatGPT",
-      "OpenAI",
-      "OpenAI Files"
-    ],
-    "isoDate": "2026-10-27T23:34:27.000Z",
-    "source": "TechCrunch AI",
-    "slug": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication"
+    "title": "(No AI) xAI is buying out homeowners who promise not to sue over data center noise",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "pubDate": "2026-10-28T14:44:00.000Z",
+    "author": "Emma Roth",
+    "content": "![A photo of xAI’s Southaven, Mississippi data center](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nxAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, [according to a report from _The Guardian_](https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi). A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report [they're already being forced out](https://wreg.com/news/local/xai-memphis/spacexai-data-center-expansion-in-southaven-forces-renters-out/), with 60 days' notice after their landlords agreed to sell.\n\nA recent report from the [_Mississippi Free Press_](https://www.mississippifreepress.org/xai-moves-to-buy-out-southaven-residents-who-agree-not-to-sue-it-over-power-plant-noise-letter-shows/) includes a letter received by several households rec …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit)",
+    "contentSnippet": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report they're already being forced out, with 60 days' notice after their landlords agreed to sell.\nA recent report from the Mississippi Free Press includes a letter received by several households rec …\nRead the full story at The Verge.",
+    "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&#8230;]",
+    "id": "https://www.theverge.com/?p=1020596",
+    "isoDate": "2026-10-28T14:44:00.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "xai-is-buying-out-homeowners-who-promise-not-to-sue-over-data-center-noise"
   },
   {
-    "title": "(No AI) Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "pubDate": "2026-10-27T20:48:58.000Z",
-    "author": "Robert Hart",
-    "content": "![Frowning calculator on a background of math writing.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOn Monday, OpenAI [announced](https://openai.com/index/building-scientific-understanding-with-academic-communities/) impressive [breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to _The Verge_ are growing increasingly tired of the company's antics.\n\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints [unceremoniously dumped on them](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\n\nAll three results conc …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)",
-    "contentSnippet": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\nAll three results conc …\nRead the full story at The Verge.",
-    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
-    "id": "https://www.theverge.com/?p=1019921",
-    "isoDate": "2026-10-27T20:48:58.000Z",
+    "title": "(No AI) Voters in Texas agree: They hate data centers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+    "pubDate": "2026-10-28T12:00:00.000Z",
+    "author": "Justine Calma",
+    "content": "![Greg Abbott, Gina Hinojosa, James Talarico, and Ken Paxton in the shape of Texas with glitchy effects.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAsk Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\n\nThere's the [fight in Taylor](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/10/05/taylor-data-center-investigation) over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face [recall](https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/08/04/recall-petition-in-response-to-data-centers) [attempts](https://www.kcentv.com/article/news/local/temple-recall-effort-against-mayor-davis-and-council-members-falls-short-of-needed-signatures/500-70af88ad-4e48-4bce-8d0a-2c8ff2e7fc50) over data center developments. And some 30 miles outside of Austin, San Marcos became the first [city in all of Texas to ban data centers](https://www.usatoday.com/story/money/business/2026/06/30/texas-data-centers-san-marcos-ban-opposition-poll-state-regulations/90750494007/).\n\nNowhere in the world are data centers growing more explosively than …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)",
+    "contentSnippet": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside of Austin, San Marcos became the first city in all of Texas to ban data centers.\nNowhere in the world are data centers growing more explosively than …\nRead the full story at The Verge.",
+    "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. [&#8230;]",
+    "id": "https://www.theverge.com/?p=1018676",
+    "isoDate": "2026-10-28T12:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "voters-in-texas-agree-they-hate-data-centers"
   },
   {
-    "title": "(No AI) VisionQuest is what happens when AI really goes rogue",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-    "pubDate": "2026-10-27T17:30:00.000Z",
-    "author": "Charles Pulliam-Moore",
-    "content": "![Four characters from VisionQuest are seated on a couch in a living room.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn Marvel's _VisionQuest_, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)",
-    "contentSnippet": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI  …\nRead the full story at The Verge.",
-    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
-    "id": "https://www.theverge.com/?p=1017064",
-    "isoDate": "2026-10-27T17:30:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "visionquest-is-what-happens-when-ai-really-goes-rogue"
+    "title": "(No AI) Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "contentSnippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "guid": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "isoDate": "2026-10-28T09:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "legora-is-building-the-agentic-operating-system-for-legal-work"
   },
   {
     "title": "(No AI) Retell uses OpenAI models to help power 100M monthly calls",
@@ -80,52 +96,59 @@
     "slug": "retell-uses-openai-models-to-help-power-100m-monthly-calls"
   },
   {
-    "title": "(No AI) OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "content": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "contentSnippet": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "guid": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-10-27T07:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-expands-partnership-with-oracle-to-bring-its-apps-to-chatgpt"
+    "title": "(No AI) Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "isoDate": "2026-10-27T16:01:38.000Z",
+    "source": "Google DeepMind",
+    "slug": "genie-4-a-new-generation-of-world-simulation"
   },
   {
-    "creator": "Emily Mullin",
-    "title": "(No AI) Anthropic Says It Will Revolutionize Biology—Some Day",
-    "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-    "pubDate": "Tue, 27 Oct 2026 19:39:04 +0000",
-    "dc:creator": "Emily Mullin",
-    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "contentSnippet": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "guid": "6adfca7628ba980ed3d02255",
+    "title": "(No AI) Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "contentSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "guid": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "isoDate": "2026-10-22T14:30:24.000Z",
+    "source": "Google DeepMind",
+    "slug": "beyond-tree-cover-mapping-the-world-s-forest-types"
+  },
+  {
+    "creator": "Adam Morgan",
+    "title": "(No AI) Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "pubDate": "Wed, 28 Oct 2026 10:15:00 +0000",
+    "dc:creator": "Adam Morgan",
+    "content": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "contentSnippet": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "guid": "6ad123ca8f0396c58f0a3709",
+    "categories": [
+      "Culture",
+      "Culture / Books"
+    ],
+    "isoDate": "2026-10-28T10:15:00.000Z",
+    "source": "Wired AI",
+    "slug": "macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed"
+  },
+  {
+    "creator": "Jake Bittle",
+    "title": "(No AI) AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "pubDate": "Wed, 28 Oct 2026 08:30:00 +0000",
+    "dc:creator": "Jake Bittle",
+    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "contentSnippet": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "guid": "6ae0f8e8b1846b1aa5192467",
     "categories": [
       "Science",
-      "Science / Biotech",
-      "Business"
+      "Science / Environment"
     ],
-    "isoDate": "2026-10-27T19:39:04.000Z",
+    "isoDate": "2026-10-28T08:30:00.000Z",
     "source": "Wired AI",
-    "slug": "anthropic-says-it-will-revolutionize-biology-some-day"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "pubDate": "Tue, 27 Oct 2026 15:10:26 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "contentSnippet": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "guid": "6ad9cfffb974411ce94e5e2c",
-    "categories": [
-      "Politics",
-      "Politics / Policy"
-    ],
-    "isoDate": "2026-10-27T15:10:26.000Z",
-    "source": "Wired AI",
-    "slug": "uk-home-office-may-face-investigation-over-use-of-openai-tech"
+    "slug": "ai-emergency-alerts-are-coming-humans-might-not-be-ready"
   }
 ]
