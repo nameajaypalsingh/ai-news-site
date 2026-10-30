@@ -1,44 +1,40 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "contentSnippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "guid": "https://techcrunch.com/?p=3183224",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "contentSnippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "guid": "https://techcrunch.com/?p=3183095",
     "categories": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "TC",
-      "social media",
-      "Reddit",
-      "Search"
+      "AI"
     ],
-    "isoDate": "2026-10-29T20:08:31.000Z",
+    "isoDate": "2026-10-30T01:20:48.000Z",
     "source": "TechCrunch AI",
-    "slug": "as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-in-experience"
+    "slug": "you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work"
   },
   {
-    "creator": "Kirsten Korosec",
-    "title": "(No AI) Rivian expands joint venture with VW to include AI assistant",
-    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
-    "dc:creator": "Kirsten Korosec",
-    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "contentSnippet": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "guid": "https://techcrunch.com/?p=3183253",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "contentSnippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "guid": "https://techcrunch.com/?p=3183387",
     "categories": [
       "AI",
-      "Transportation",
-      "Volkswagen Group",
-      "Rivian"
+      "Enterprise",
+      "TC",
+      "Amazon",
+      "cloud",
+      "earnings"
     ],
-    "isoDate": "2026-10-29T20:05:47.000Z",
+    "isoDate": "2026-10-29T23:42:22.000Z",
     "source": "TechCrunch AI",
-    "slug": "rivian-expands-joint-venture-with-vw-to-include-ai-assistant"
+    "slug": "aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big"
   },
   {
     "title": "(No AI) You can generate and edit Google Docs files directly in Gemini chats now",
@@ -95,6 +91,28 @@
     "isoDate": "2026-10-29T09:00:00.000Z",
     "source": "OpenAI",
     "slug": "how-we-detect-frontier-model-misalignment"
+  },
+  {
+    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "isoDate": "2026-10-28T17:00:58.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-carbon-our-next-frontier-model"
+  },
+  {
+    "title": "(No AI) Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "isoDate": "2026-10-27T16:01:38.000Z",
+    "source": "Google DeepMind",
+    "slug": "genie-4-a-new-generation-of-world-simulation"
   },
   {
     "creator": "Vittoria Elliott",
