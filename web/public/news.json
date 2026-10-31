@@ -93,37 +93,59 @@
     "slug": "community-safety-report-and-new-protections-for-teens"
   },
   {
-    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "title": "(No AI) How a Contractor’s Claude Agent Got Into the Pentagon",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-    "pubDate": "Fri, 30 Oct 2026 21:19:26 +0000",
-    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "content": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-    "contentSnippet": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-    "guid": "6ae2572fb8b2eb024a124f0c",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech"
-    ],
-    "isoDate": "2026-10-30T21:19:26.000Z",
-    "source": "Wired AI",
-    "slug": "how-a-contractor-s-claude-agent-got-into-the-pentagon"
+    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "isoDate": "2026-10-28T17:00:58.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-carbon-our-next-frontier-model"
   },
   {
-    "creator": "Vittoria Elliott",
-    "title": "(No AI) A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "pubDate": "Thu, 29 Oct 2026 18:39:43 +0000",
-    "dc:creator": "Vittoria Elliott",
-    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "contentSnippet": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "guid": "6adf41f52b5fc20f5f0e3547",
+    "title": "(No AI) Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "isoDate": "2026-10-27T16:01:38.000Z",
+    "source": "Google DeepMind",
+    "slug": "genie-4-a-new-generation-of-world-simulation"
+  },
+  {
+    "creator": "Lily Hay Newman, Matt Burgess",
+    "title": "(No AI) Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+    "dc:creator": "Lily Hay Newman, Matt Burgess",
+    "content": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "contentSnippet": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "guid": "6ae370037389580e6da942a4",
     "categories": [
-      "Politics"
+      "Security",
+      "Security / Cyberattacks and Hacks"
     ],
-    "isoDate": "2026-10-29T18:39:43.000Z",
+    "isoDate": "2026-10-31T12:00:00.000Z",
     "source": "Wired AI",
-    "slug": "a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system"
+    "slug": "spooky-new-infostealer-malware-uses-ai-to-autodox-victims"
+  },
+  {
+    "creator": "Paresh Dave",
+    "title": "(No AI) Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "pubDate": "Sat, 31 Oct 2026 10:30:00 +0000",
+    "dc:creator": "Paresh Dave",
+    "content": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "contentSnippet": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "guid": "6ae4e6ac964b916949bd58ed",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-10-31T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "meta-s-muse-could-upend-all-kinds-of-businesses-it-hasn-t-yet"
   }
 ]
