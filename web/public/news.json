@@ -1,38 +1,45 @@
 [
   {
     "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+    "title": "(No AI) Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
     "dc:creator": "Anthony Ha",
-    "content": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "contentSnippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "guid": "https://techcrunch.com/?p=3184004",
+    "content": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "contentSnippet": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "guid": "https://techcrunch.com/?p=3184023",
     "categories": [
       "AI",
-      "Fundraising",
-      "OpenAI"
+      "Apple",
+      "John Ternus"
     ],
-    "isoDate": "2026-10-31T16:12:55.000Z",
+    "isoDate": "2026-10-31T21:41:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-reportedly-lowers-funding-target-for-new-round"
+    "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "contentSnippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "guid": "https://techcrunch.com/?p=3183989",
+    "creator": "TechCrunch Events",
+    "title": "(No AI) 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000",
+    "dc:creator": "TechCrunch Events",
+    "content": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "contentSnippet": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "guid": "https://techcrunch.com/?p=3184015",
     "categories": [
       "AI",
-      "TC"
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "Venture",
+      "TechCrunch Founder Summit 2026"
     ],
-    "isoDate": "2026-10-31T01:20:05.000Z",
+    "isoDate": "2026-10-31T21:36:07.000Z",
     "source": "TechCrunch AI",
-    "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia"
+    "slug": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale"
   },
   {
     "title": "(No AI) I built an AI Tamagotchi before Meta could",
@@ -89,28 +96,6 @@
     "isoDate": "2026-10-30T09:00:00.000Z",
     "source": "OpenAI",
     "slug": "community-safety-report-and-new-protections-for-teens"
-  },
-  {
-    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "isoDate": "2026-10-28T17:00:58.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-carbon-our-next-frontier-model"
-  },
-  {
-    "title": "(No AI) Genie 4: A new generation of world simulation",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
-    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "isoDate": "2026-10-27T16:01:38.000Z",
-    "source": "Google DeepMind",
-    "slug": "genie-4-a-new-generation-of-world-simulation"
   },
   {
     "creator": "Lily Hay Newman, Matt Burgess",
