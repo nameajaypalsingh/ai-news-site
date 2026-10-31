@@ -1,71 +1,68 @@
 [
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Zest’s new AI agent finds restaurants and books reservations over text",
-    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "contentSnippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "guid": "https://techcrunch.com/?p=3183083",
+    "creator": "Aditya Mehta",
+    "title": "(No AI) Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
+    "dc:creator": "Aditya Mehta",
+    "content": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "contentSnippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "guid": "https://techcrunch.com/?p=3183989",
     "categories": [
       "AI",
+      "TC"
+    ],
+    "isoDate": "2026-10-31T01:20:05.000Z",
+    "source": "TechCrunch AI",
+    "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "contentSnippet": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "guid": "https://techcrunch.com/?p=3183846",
+    "categories": [
+      "AI",
+      "Apps",
       "Startups",
-      "AI agents",
-      "dining",
-      "zest"
+      "AI assistant",
+      "ollie"
     ],
-    "isoDate": "2026-10-30T17:47:12.000Z",
+    "isoDate": "2026-10-30T22:56:13.000Z",
     "source": "TechCrunch AI",
-    "slug": "zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text"
+    "slug": "ollie-a-privacy-focused-ai-assistant-is-shutting-down"
   },
   {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Google’s first data center satellite is online and writing poetry",
-    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "contentSnippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "guid": "https://techcrunch.com/?p=3183584",
-    "categories": [
-      "AI",
-      "Space",
-      "Exclusive",
-      "Google",
-      "space data centers"
-    ],
-    "isoDate": "2026-10-30T17:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "google-s-first-data-center-satellite-is-online-and-writing-poetry"
-  },
-  {
-    "title": "(No AI) Google’s satellite AI server transmits its first response to Earth",
-    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "pubDate": "2026-10-30T18:21:38.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, [Google says](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/) it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:\n\n> Blue marble below\n> \n> Data streams in silent grace\n> \n> Starlight feeds my core. ✨\n\nGoogle says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, [an experimental initiative](https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher) that could eventually put AI data centers in space. Google launched the satellite into orbit [earlier this …](https://www.theverge.com/tech/1003838/googles-ai-satellite-successfully-launches-into-space)\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)",
-    "contentSnippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:\nBlue marble below\nData streams in silent grace\nStarlight feeds my core. ✨\nGoogle says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this …\nRead the full story at The Verge.",
-    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
-    "id": "https://www.theverge.com/?p=1023528",
-    "isoDate": "2026-10-30T18:21:38.000Z",
+    "title": "(No AI) Apple Intelligence is finally coming to China with iOS 27.3",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "pubDate": "2026-10-30T22:32:53.000Z",
+    "author": "Jay Peters",
+    "content": "![Image of iPhone 16 running iOS 18.1 with Apple Intelligence on a bench.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple will launch Apple Intelligence in China with iOS 27.3, the company announced [on its Chinese newsroom website](https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/), as [reported by _MacRumors_](https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/). The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\n\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)",
+    "contentSnippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\nRead the full story at The Verge.",
+    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+    "id": "https://www.theverge.com/?p=1023974",
+    "isoDate": "2026-10-30T22:32:53.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-satellite-ai-server-transmits-its-first-response-to-earth"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-intelligence-is-finally-coming-to-china-with-ios-27-3"
   },
   {
-    "title": "(No AI) Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "pubDate": "2026-10-30T17:38:04.000Z",
-    "author": "Emma Roth",
-    "content": "![A photo of a Starbucks drive-thru](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nStarbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During [an earnings call on Thursday](https://s203.q4cdn.com/326826266/files/content_files/Q4-FY26-SBUX-Transcript.pdf), Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by [_More Perfect Union_](https://bsky.app/profile/moreperfectunion.bsky.social/post/3mz42442ai22z).\n\nIt sounds similar to the technology that [Taco Bell is experimenting with](https://www.businessinsider.com/taco-bell-brings-more-ai-drive-thrus-yum-brands-expansion-2026-4), which could change the layout, content, and visuals on a digital menu board \"on a car-by-car basis.\" McDonald's also r[ecently showed off an AI-powered feature](https://www.theverge.com/ai-artificial-intelligence/947644/mcdonalds-latest-ai-drive-thru-test-will-let-customers-ask-can-i-get-my-usual) it's piloting at a handful of dri …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru)",
-    "contentSnippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union.\nIt sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board \"on a car-by-car basis.\" McDonald's also recently showed off an AI-powered feature it's piloting at a handful of dri …\nRead the full story at The Verge.",
-    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
-    "id": "https://www.theverge.com/?p=1023440",
-    "isoDate": "2026-10-30T17:38:04.000Z",
+    "title": "(No AI) Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "pubDate": "2026-10-30T20:48:43.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAsked about supply chain shortages, like the [ongoing RAM shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news), OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the [_Cheeky Pint_](https://www.youtube.com/watch?v=iMsUcCYNKqY&t=1747s) podcast, where he also [commented on AI's impact on math](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview), Altman said:\n\n> \"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\n> \n> But from a global allocation perspective, actually, it's quite terrible to have everybo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)",
+    "contentSnippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it's quite terrible to have everybo …\n\nRead the full story at The Verge.",
+    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+    "id": "https://www.theverge.com/?p=1023820",
+    "isoDate": "2026-10-30T20:48:43.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "starbucks-wants-to-use-ai-to-show-you-a-personalized-digital-menu-at-the-drive-thru"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "sam-altman-says-it-s-better-for-ram-to-be-in-a-data-center-than-on-your-desk"
   },
   {
     "title": "(No AI) Making it easier for websites to express AI training preferences",
@@ -96,26 +93,22 @@
     "slug": "community-safety-report-and-new-protections-for-teens"
   },
   {
-    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "isoDate": "2026-10-28T17:00:58.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-carbon-our-next-frontier-model"
-  },
-  {
-    "title": "(No AI) Genie 4: A new generation of world simulation",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
-    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "isoDate": "2026-10-27T16:01:38.000Z",
-    "source": "Google DeepMind",
-    "slug": "genie-4-a-new-generation-of-world-simulation"
+    "creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "title": "(No AI) How a Contractor’s Claude Agent Got Into the Pentagon",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "pubDate": "Fri, 30 Oct 2026 21:19:26 +0000",
+    "dc:creator": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "content": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+    "contentSnippet": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+    "guid": "6ae2572fb8b2eb024a124f0c",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech"
+    ],
+    "isoDate": "2026-10-30T21:19:26.000Z",
+    "source": "Wired AI",
+    "slug": "how-a-contractor-s-claude-agent-got-into-the-pentagon"
   },
   {
     "creator": "Vittoria Elliott",
@@ -132,23 +125,5 @@
     "isoDate": "2026-10-29T18:39:43.000Z",
     "source": "Wired AI",
     "slug": "a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-    "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-    "pubDate": "Thu, 29 Oct 2026 15:00:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "contentSnippet": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "guid": "6adf749c866c48a82946e7f2",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Startups"
-    ],
-    "isoDate": "2026-10-29T15:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "the-pain-in-the-ass-math-that-could-save-vibe-coding-from-itself"
   }
 ]
