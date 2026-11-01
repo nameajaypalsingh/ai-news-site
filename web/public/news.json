@@ -98,6 +98,45 @@
     "slug": "community-safety-report-and-new-protections-for-teens"
   },
   {
+    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "isoDate": "2026-10-28T17:00:58.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-carbon-our-next-frontier-model"
+  },
+  {
+    "title": "(No AI) Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "isoDate": "2026-10-27T16:01:38.000Z",
+    "source": "Google DeepMind",
+    "slug": "genie-4-a-new-generation-of-world-simulation"
+  },
+  {
+    "creator": "Christine Peterson",
+    "title": "(No AI) Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "pubDate": "Sun, 01 Nov 2026 10:30:00 +0000",
+    "dc:creator": "Christine Peterson",
+    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "contentSnippet": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "guid": "6ae100238620da29e32c576d",
+    "categories": [
+      "Science",
+      "Science / Environment"
+    ],
+    "isoDate": "2026-11-01T10:30:00.000Z",
+    "source": "Wired AI",
+    "slug": "chatbots-are-leading-hikers-astray-with-dangerous-consequences"
+  },
+  {
     "creator": "Lily Hay Newman, Matt Burgess",
     "title": "(No AI) Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
     "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
@@ -113,22 +152,5 @@
     "isoDate": "2026-10-31T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "spooky-new-infostealer-malware-uses-ai-to-autodox-victims"
-  },
-  {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-    "pubDate": "Sat, 31 Oct 2026 10:30:00 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-    "contentSnippet": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-    "guid": "6ae4e6ac964b916949bd58ed",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-10-31T10:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "meta-s-muse-could-upend-all-kinds-of-businesses-it-hasn-t-yet"
   }
 ]
