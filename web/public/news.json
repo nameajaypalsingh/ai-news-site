@@ -1,42 +1,42 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "Data centers are deeply unpopular. But what if we called them something else?",
-    "contentSnippet": "Data centers are deeply unpopular. But what if we called them something else?",
-    "guid": "https://techcrunch.com/?p=3184048",
+    "creator": "Ram Iyer",
+    "title": "(No AI) 42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
+    "dc:creator": "Ram Iyer",
+    "content": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "contentSnippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "guid": "https://techcrunch.com/?p=3184087",
     "categories": [
+      "Startups",
       "AI",
-      "Government & Policy",
-      "Chris Lehane",
-      "OpenAI"
+      "Exclusive",
+      "predictive analytics",
+      "behavioral analysis",
+      "world models"
     ],
-    "isoDate": "2026-11-01T21:55:23.000Z",
+    "isoDate": "2026-11-02T16:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
+    "slug": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) AI can make tech CEOs’ lives easier. What about everyone else?",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "contentSnippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "guid": "https://techcrunch.com/?p=3184041",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "pubDate": "Mon, 02 Nov 2026 16:23:21 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "contentSnippet": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "guid": "https://techcrunch.com/?p=3184148",
     "categories": [
       "AI",
-      "Marissa Mayer",
-      "Mark Zuckerberg",
-      "sam altman",
-      "Whitney Wolfe Herd"
+      "Elon Musk",
+      "Grok"
     ],
-    "isoDate": "2026-11-01T20:57:58.000Z",
+    "isoDate": "2026-11-02T16:23:21.000Z",
     "source": "TechCrunch AI",
-    "slug": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else"
+    "slug": "elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs"
   },
   {
     "title": "(No AI) I built an AI Tamagotchi before Meta could",
@@ -67,32 +67,43 @@
     "slug": "apple-intelligence-is-finally-coming-to-china-with-ios-27-3"
   },
   {
-    "title": "(No AI) Making it easier for websites to express AI training preferences",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-    "content": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "contentSnippet": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "guid": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "title": "(No AI) Introducing the Grid Protectors Program",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "contentSnippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "guid": "https://openai.com/index/grid-protectors-program",
     "categories": [
-      "Company"
+      "Global Affairs"
     ],
-    "isoDate": "2026-10-30T09:30:00.000Z",
+    "isoDate": "2026-11-02T15:00:00.000Z",
     "source": "OpenAI",
-    "slug": "making-it-easier-for-websites-to-express-ai-training-preferences"
+    "slug": "introducing-the-grid-protectors-program"
   },
   {
-    "title": "(No AI) Community safety report and new protections for teens",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-    "content": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "contentSnippet": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "guid": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "title": "(No AI) LifeVal",
+    "link": "https://openai.com/index/lifeval",
+    "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "content": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "contentSnippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "guid": "https://openai.com/index/lifeval",
     "categories": [
-      "Safety"
+      "Research"
     ],
-    "isoDate": "2026-10-30T09:00:00.000Z",
+    "isoDate": "2026-11-02T09:00:00.000Z",
     "source": "OpenAI",
-    "slug": "community-safety-report-and-new-protections-for-teens"
+    "slug": "lifeval"
+  },
+  {
+    "title": "(No AI) Speeding up planning decisions with AI",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "isoDate": "2026-10-30T14:18:30.000Z",
+    "source": "Google DeepMind",
+    "slug": "speeding-up-planning-decisions-with-ai"
   },
   {
     "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
@@ -106,48 +117,37 @@
     "slug": "gemini-4-carbon-our-next-frontier-model"
   },
   {
-    "title": "(No AI) Genie 4: A new generation of world simulation",
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
-    "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "contentSnippet": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "guid": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "isoDate": "2026-10-27T16:01:38.000Z",
-    "source": "Google DeepMind",
-    "slug": "genie-4-a-new-generation-of-world-simulation"
-  },
-  {
-    "creator": "Christine Peterson",
-    "title": "(No AI) Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "pubDate": "Sun, 01 Nov 2026 10:30:00 +0000",
-    "dc:creator": "Christine Peterson",
-    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "contentSnippet": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "guid": "6ae100238620da29e32c576d",
+    "creator": "David Nield",
+    "title": "(No AI) When You Should—and Shouldn’t—Use AI to Search the Web",
+    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+    "dc:creator": "David Nield",
+    "content": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "contentSnippet": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "guid": "6ad7d51fa4cc6513f80c0e64",
     "categories": [
-      "Science",
-      "Science / Environment"
+      "Gear",
+      "Gear / How To and Advice"
     ],
-    "isoDate": "2026-11-01T10:30:00.000Z",
+    "isoDate": "2026-11-02T12:00:00.000Z",
     "source": "Wired AI",
-    "slug": "chatbots-are-leading-hikers-astray-with-dangerous-consequences"
+    "slug": "when-you-should-and-shouldn-t-use-ai-to-search-the-web"
   },
   {
-    "creator": "Lily Hay Newman, Matt Burgess",
-    "title": "(No AI) Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
-    "dc:creator": "Lily Hay Newman, Matt Burgess",
-    "content": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-    "contentSnippet": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-    "guid": "6ae370037389580e6da942a4",
+    "creator": "Matt Burgess",
+    "title": "(No AI) Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "pubDate": "Mon, 02 Nov 2026 10:00:00 +0000",
+    "dc:creator": "Matt Burgess",
+    "content": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "contentSnippet": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "guid": "6ace3a4387812505ce91e493",
     "categories": [
       "Security",
-      "Security / Cyberattacks and Hacks"
+      "Security / Privacy"
     ],
-    "isoDate": "2026-10-31T12:00:00.000Z",
+    "isoDate": "2026-11-02T10:00:00.000Z",
     "source": "Wired AI",
-    "slug": "spooky-new-infostealer-malware-uses-ai-to-autodox-victims"
+    "slug": "hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features"
   }
 ]
