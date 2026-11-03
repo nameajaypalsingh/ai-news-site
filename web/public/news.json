@@ -1,70 +1,83 @@
 [
   {
-    "creator": "Ram Iyer",
-    "title": "(No AI) 42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
-    "dc:creator": "Ram Iyer",
-    "content": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "contentSnippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "guid": "https://techcrunch.com/?p=3184087",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Apple may try to increase revenue by doing…something with third-party AI apps",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "contentSnippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "guid": "https://techcrunch.com/?p=3184506",
     "categories": [
+      "TC",
+      "AI",
+      "Apple",
+      "earnings"
+    ],
+    "isoDate": "2026-11-03T01:49:52.000Z",
+    "source": "TechCrunch AI",
+    "slug": "apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps"
+  },
+  {
+    "creator": "Julie Bort",
+    "title": "(No AI) Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+    "dc:creator": "Julie Bort",
+    "content": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "contentSnippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "guid": "https://techcrunch.com/?p=3184485",
+    "categories": [
+      "AI",
       "Startups",
-      "AI",
-      "Exclusive",
-      "predictive analytics",
-      "behavioral analysis",
-      "world models"
+      "garry tan",
+      "Y Combinator"
     ],
-    "isoDate": "2026-11-02T16:30:00.000Z",
+    "isoDate": "2026-11-03T00:35:52.000Z",
     "source": "TechCrunch AI",
-    "slug": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior"
+    "slug": "y-combinator-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens"
   },
   {
-    "creator": "Amanda Silberling",
-    "title": "(No AI) Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "pubDate": "Mon, 02 Nov 2026 16:23:21 +0000",
-    "dc:creator": "Amanda Silberling",
-    "content": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-    "contentSnippet": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-    "guid": "https://techcrunch.com/?p=3184148",
-    "categories": [
-      "AI",
-      "Elon Musk",
-      "Grok"
-    ],
-    "isoDate": "2026-11-02T16:23:21.000Z",
-    "source": "TechCrunch AI",
-    "slug": "elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs"
-  },
-  {
-    "title": "(No AI) I built an AI Tamagotchi before Meta could",
-    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "pubDate": "2026-10-31T16:05:00.000Z",
-    "author": "Sean Hollister",
-    "content": "![A silver pendant touchscreen computer with a cute little tamagotchi like mascot on screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255)\n\nMark Zuckerberg's Meta [made AI look so stinking cute](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute) by giving it a squishy little face - and this holiday season, he wants to sell you [a Muse Charm](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware) so you can carry your jolly AI helper around like a Tamagotchi.\n\nBut I won't be buying one, because _we have Muse Charm at home_. It cost just $50, and I've decided the learning experience was worth it.\n\n[View Link](https://www.tiktok.com/@verge/video/7702862550014168333)\n\nMy version doesn't [sport cameras or a 5G cellular radio](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem), but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home.\n\nOr at least it can if you inject a lot of extra vibe code.\n\nWeeks …\n\n[Read the full story at The Verge.](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)",
-    "contentSnippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $50, and I've decided the learning experience was worth it.\nView Link\nMy version doesn't sport cameras or a 5G cellular radio, but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home.\nOr at least it can if you inject a lot of extra vibe code.\nWeeks …\nRead the full story at The Verge.",
-    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
-    "id": "https://www.theverge.com/?p=1013375",
-    "isoDate": "2026-10-31T16:05:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
-    "slug": "i-built-an-ai-tamagotchi-before-meta-could"
-  },
-  {
-    "title": "(No AI) Apple Intelligence is finally coming to China with iOS 27.3",
-    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "pubDate": "2026-10-30T22:32:53.000Z",
+    "title": "(No AI) Anthropic clamps down on Claude’s AI video game clones",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "pubDate": "2026-11-02T18:56:02.000Z",
     "author": "Jay Peters",
-    "content": "![Image of iPhone 16 running iOS 18.1 with Apple Intelligence on a bench.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple will launch Apple Intelligence in China with iOS 27.3, the company announced [on its Chinese newsroom website](https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/), as [reported by _MacRumors_](https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/). The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\n\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)",
-    "contentSnippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\nRead the full story at The Verge.",
-    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
-    "id": "https://www.theverge.com/?p=1023974",
-    "isoDate": "2026-10-30T22:32:53.000Z",
+    "content": "![Anthropic logo on an orange and gray background.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, [as reported by _Tom's Hardware_](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks). Retro gaming is currently being overrun [with AI-made decompilations, recompilations, and ports](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port), but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones.\n\nLast week, a user on X [posted a screenshot](https://x.com/chasmmmmmmmmmmm/status/2116062991686721968) allegedly showing two new sentences added to Claude Code's system prompt: \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)",
+    "contentSnippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones.\nLast week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if …\nRead the full story at The Verge.",
+    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
+    "id": "https://www.theverge.com/?p=1024632",
+    "isoDate": "2026-11-02T18:56:02.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-intelligence-is-finally-coming-to-china-with-ios-27-3"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "anthropic-clamps-down-on-claude-s-ai-video-game-clones"
+  },
+  {
+    "title": "(No AI) OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "pubDate": "2026-11-02T18:01:30.000Z",
+    "author": "Emma Roth",
+    "content": "![Chat GPT logo on a graphic green background.](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100)\n\nIn [an announcement on Monday](https://openai.com/index/grid-protectors-program/), OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.\n\nThe announcement comes as [opposition to data centers](https://www.theverge.com/policy/1019152/data-centers-midterm-elections) spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, [residents protested](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary) after Box Elder County commissioners signed off on a data center expected to consume more than double …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)",
+    "contentSnippet": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.\nThe announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double  …\nRead the full story at The Verge.",
+    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
+    "id": "https://www.theverge.com/?p=1024604",
+    "isoDate": "2026-11-02T18:01:30.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-areas"
+  },
+  {
+    "title": "(No AI) Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "content": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "contentSnippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "guid": "https://openai.com/index/scaling-git-at-openai",
+    "categories": [
+      "Engineering"
+    ],
+    "isoDate": "2026-11-02T15:30:00.000Z",
+    "source": "OpenAI",
+    "slug": "scaling-git-at-openai"
   },
   {
     "title": "(No AI) Introducing the Grid Protectors Program",
@@ -79,42 +92,6 @@
     "isoDate": "2026-11-02T15:00:00.000Z",
     "source": "OpenAI",
     "slug": "introducing-the-grid-protectors-program"
-  },
-  {
-    "title": "(No AI) LifeVal",
-    "link": "https://openai.com/index/lifeval",
-    "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
-    "content": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "contentSnippet": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "guid": "https://openai.com/index/lifeval",
-    "categories": [
-      "Research"
-    ],
-    "isoDate": "2026-11-02T09:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "lifeval"
-  },
-  {
-    "title": "(No AI) Speeding up planning decisions with AI",
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
-    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "isoDate": "2026-10-30T14:18:30.000Z",
-    "source": "Google DeepMind",
-    "slug": "speeding-up-planning-decisions-with-ai"
-  },
-  {
-    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "isoDate": "2026-10-28T17:00:58.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-carbon-our-next-frontier-model"
   },
   {
     "creator": "David Nield",
