@@ -1,41 +1,47 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Apple may try to increase revenue by doing…something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-    "contentSnippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-    "guid": "https://techcrunch.com/?p=3184506",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "contentSnippet": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "guid": "https://techcrunch.com/?p=3184378",
     "categories": [
-      "TC",
       "AI",
+      "Apps",
+      "Hardware",
       "Apple",
-      "earnings"
+      "Apple Intelligence",
+      "Apple Watch",
+      "audio",
+      "iOS"
     ],
-    "isoDate": "2026-11-03T01:49:52.000Z",
+    "isoDate": "2026-11-03T07:20:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps"
+    "slug": "apple-watch-s-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing"
   },
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "contentSnippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "guid": "https://techcrunch.com/?p=3184485",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "contentSnippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "guid": "https://techcrunch.com/?p=3184353",
     "categories": [
       "AI",
-      "Startups",
-      "garry tan",
-      "Y Combinator"
+      "Apps",
+      "Android",
+      "Google",
+      "iOS",
+      "Dreambeans"
     ],
-    "isoDate": "2026-11-03T00:35:52.000Z",
+    "isoDate": "2026-11-03T03:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "y-combinator-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens"
+    "slug": "google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses"
   },
   {
     "title": "(No AI) Anthropic clamps down on Claude’s AI video game clones",
@@ -66,6 +72,17 @@
     "slug": "openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-areas"
   },
   {
+    "title": "(No AI) Heimstaden is changing residential real estate management with AI",
+    "link": "https://openai.com/index/heimstaden",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "contentSnippet": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "guid": "https://openai.com/index/heimstaden",
+    "isoDate": "2026-11-03T08:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "heimstaden-is-changing-residential-real-estate-management-with-ai"
+  },
+  {
     "title": "(No AI) Scaling Git at OpenAI",
     "link": "https://openai.com/index/scaling-git-at-openai",
     "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
@@ -80,18 +97,43 @@
     "slug": "scaling-git-at-openai"
   },
   {
-    "title": "(No AI) Introducing the Grid Protectors Program",
-    "link": "https://openai.com/index/grid-protectors-program",
-    "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
-    "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "contentSnippet": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "guid": "https://openai.com/index/grid-protectors-program",
+    "title": "(No AI) Speeding up planning decisions with AI",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "isoDate": "2026-10-30T14:18:30.000Z",
+    "source": "Google DeepMind",
+    "slug": "speeding-up-planning-decisions-with-ai"
+  },
+  {
+    "title": "(No AI) Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "isoDate": "2026-10-28T17:00:58.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-4-carbon-our-next-frontier-model"
+  },
+  {
+    "creator": "Katie Drummond",
+    "title": "(No AI) ‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
+    "dc:creator": "Katie Drummond",
+    "content": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+    "contentSnippet": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+    "guid": "6ae37585b7cef7207a0617e3",
     "categories": [
-      "Global Affairs"
+      "The Big Story",
+      "Politics"
     ],
-    "isoDate": "2026-11-02T15:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-the-grid-protectors-program"
+    "isoDate": "2026-11-03T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "our-risk-their-reward-zohran-mamdani-on-ai-and-data-centers"
   },
   {
     "creator": "David Nield",
@@ -109,22 +151,5 @@
     "isoDate": "2026-11-02T12:00:00.000Z",
     "source": "Wired AI",
     "slug": "when-you-should-and-shouldn-t-use-ai-to-search-the-web"
-  },
-  {
-    "creator": "Matt Burgess",
-    "title": "(No AI) Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "pubDate": "Mon, 02 Nov 2026 10:00:00 +0000",
-    "dc:creator": "Matt Burgess",
-    "content": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "contentSnippet": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "guid": "6ace3a4387812505ce91e493",
-    "categories": [
-      "Security",
-      "Security / Privacy"
-    ],
-    "isoDate": "2026-11-02T10:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features"
   }
 ]
