@@ -1,67 +1,67 @@
 [
   {
-    "creator": "Aisha Malik",
-    "title": "(No AI) Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
-    "dc:creator": "Aisha Malik",
-    "content": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "contentSnippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "guid": "https://techcrunch.com/?p=3184717",
-    "categories": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Netflix"
-    ],
-    "isoDate": "2026-11-03T18:42:16.000Z",
-    "source": "TechCrunch AI",
-    "slug": "netflix-s-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood"
-  },
-  {
     "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic is still grappling with the economics of compute",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "pubDate": "Tue, 03 Nov 2026 17:07:01 +0000",
+    "title": "(No AI) Anthropic is working on a system to prove AI models’ identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
     "dc:creator": "Russell Brandom",
-    "content": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "contentSnippet": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "guid": "https://techcrunch.com/?p=3184638",
+    "content": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "contentSnippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "guid": "https://techcrunch.com/?p=3184891",
     "categories": [
       "AI",
-      "Anthropic"
+      "Anthropic",
+      "cryptography",
+      "inference"
     ],
-    "isoDate": "2026-11-03T17:07:01.000Z",
+    "isoDate": "2026-11-03T22:41:03.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-is-still-grappling-with-the-economics-of-compute"
+    "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity"
   },
   {
-    "title": "(No AI) Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-    "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-    "pubDate": "2026-11-03T18:31:00.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Simulated iphone and apple watch screenshots for Siri Recap](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nStarting today, Siri can tune into the Apple Watch's mic with [Audio Intelligence features](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement) that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch's mic detected.\n\n**[Apple](https://support.apple.com/en-us/148354)**:\n\n*   Live Rewind, which can help users recall what was just said in conversation. A double-press of the Digital Crown shows the previous 15 seconds of a conversation as a text snippet, so the user can catch something they may have missed or are less famili …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)",
-    "contentSnippet": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch's mic detected. \nApple:\nLive Rewind, which can help users recall what was just said in conversation. A double-press of the Digital Crown shows the previous 15 seconds of a conversation as a text snippet, so the user can catch something they may have missed or are less famili …\n\nRead the full story at The Verge.",
-    "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [&#8230;]",
-    "id": "https://www.theverge.com/?p=1025002",
-    "isoDate": "2026-11-03T18:31:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-s-latest-watchos-beta-includes-its-new-always-on-audio-intelligence-features"
+    "creator": "Aditya Mehta",
+    "title": "(No AI) Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+    "dc:creator": "Aditya Mehta",
+    "content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "contentSnippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "guid": "https://techcrunch.com/?p=3184896",
+    "categories": [
+      "AI",
+      "data centers"
+    ],
+    "isoDate": "2026-11-03T22:19:53.000Z",
+    "source": "TechCrunch AI",
+    "slug": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows"
   },
   {
-    "title": "(No AI) OpenAI says ChatGPT is catching up to Google in search",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-    "pubDate": "2026-11-03T18:30:42.000Z",
-    "author": "Hayden Field",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\n\nAdam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\n\nHaving one-fifth as many searches as Google is still a long way from overtaking it, b …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)",
-    "contentSnippet": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\nAdam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry did not specify the source of the Google search volume number.)\nHaving one-fifth as many searches as Google is still a long way from overtaking it, b …\nRead the full story at The Verge.",
-    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
-    "id": "https://www.theverge.com/?p=1025482",
-    "isoDate": "2026-11-03T18:30:42.000Z",
+    "title": "(No AI) Please stop asking me when the AI bubble will pop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "pubDate": "2026-11-03T23:37:45.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEmmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\n\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.\n\nWhat I can tell you is that I read with interest a story in _Bloomberg_ this morning: \"[Wall Street CEOs, Big Money Managers Divided Over AI Risks](https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks).\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)",
+    "contentSnippet": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.\nWhat I can tell you is that I read with interest a story in Bloomberg this morning: \"Wall Street CEOs, Big Money Managers Divided Over AI Risks.\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …\nRead the full story at The Verge.",
+    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1025826",
+    "isoDate": "2026-11-03T23:37:45.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-says-chatgpt-is-catching-up-to-google-in-search"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "please-stop-asking-me-when-the-ai-bubble-will-pop"
+  },
+  {
+    "title": "(No AI) Those Jeff Bezos hair transplant photos are very fake",
+    "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "pubDate": "2026-11-03T21:01:07.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Two photos. one showing Jason Statham on the left, and Jeff Bezos on the right, both of which have been edited with hair.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThese edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\n\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are [some images](https://x.com/kvng_chi/status/2117300489515868273) of the two men [circulating around X](https://x.com/i/trending/2117386539840012574), [Threads](https://www.threads.com/@mjg5x5/post/DfSEg4BEYf-?xmt=AQG0Z0SHWX_7CdbsWnT9-8DsZCvTky83tg4v2we48vgpNa-58Dzz_mwjXl3wDiWueAH3t7qJ&slof=1), and [Bluesky](https://bsky.app/profile/jamellebouie.net/post/3mzgcqghxbk2s) in which they both have substantially more hair than their usual shaved look, which in Bezos' case appears to be _very_ freshly transplanted. It's all just photo editing fakery, AI or otherwise.\n\nIt's unclear [how viral](https://www.threads.com/@9six7/post/DfQyiH8EcmO/looks-very-natural-said-everyone-on-his-payroll/) these [posts are](https://x.com/semtinmuhabiri/status/2117226307776127241), but they're prevalent enough that a few members of the _Verge_ team have encountered them in their social media feeds. Some people who shared them claimed …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)",
+    "contentSnippet": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge\t\n\nAmazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved look, which in Bezos' case appears to be very freshly transplanted. It's all just photo editing fakery, AI or otherwise.\nIt's unclear how viral these posts are, but they're prevalent enough that a few members of the Verge team have encountered them in their social media feeds. Some people who shared them claimed  …\nRead the full story at The Verge.",
+    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved [&#8230;]",
+    "id": "https://www.theverge.com/?p=1025745",
+    "isoDate": "2026-11-03T21:01:07.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "those-jeff-bezos-hair-transplant-photos-are-very-fake"
   },
   {
     "title": "(No AI) Accelerating engineering for the physical world",
@@ -78,37 +78,15 @@
     "slug": "accelerating-engineering-for-the-physical-world"
   },
   {
-    "title": "(No AI) Heimstaden is changing residential real estate management with AI",
-    "link": "https://openai.com/index/heimstaden",
+    "title": "(No AI) How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
     "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "contentSnippet": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "guid": "https://openai.com/index/heimstaden",
+    "content": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "contentSnippet": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "guid": "https://openai.com/index/cisco-cyber",
     "isoDate": "2026-11-03T08:00:00.000Z",
     "source": "OpenAI",
-    "slug": "heimstaden-is-changing-residential-real-estate-management-with-ai"
-  },
-  {
-    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
-    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "isoDate": "2026-11-03T17:01:49.000Z",
-    "source": "Google DeepMind",
-    "slug": "agentic-cheminformatics-with-google-antigravity"
-  },
-  {
-    "title": "(No AI) Speeding up planning decisions with AI",
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
-    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "isoDate": "2026-10-30T14:18:30.000Z",
-    "source": "Google DeepMind",
-    "slug": "speeding-up-planning-decisions-with-ai"
+    "slug": "how-cisco-defends-at-machine-speed-with-openai"
   },
   {
     "creator": "David Gilbert",
