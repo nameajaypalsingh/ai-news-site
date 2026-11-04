@@ -1,124 +1,160 @@
 [
   {
-    "creator": "Russell Brandom",
-    "title": "(No AI) Anthropic is working on a system to prove AI models’ identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
-    "dc:creator": "Russell Brandom",
-    "content": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "contentSnippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "guid": "https://techcrunch.com/?p=3184891",
+    "creator": "Theresa Loconsolo, Rebecca Bellan",
+    "title": "(No AI) Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
+    "dc:creator": "Theresa Loconsolo, Rebecca Bellan",
+    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of \\[…\\]",
+    "contentSnippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
+    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3185167",
     "categories": [
       "AI",
-      "Anthropic",
-      "cryptography",
-      "inference"
+      "Security",
+      "Startups",
+      "Equity podcast",
+      "Hugging Face",
+      "open source"
     ],
-    "isoDate": "2026-11-03T22:41:03.000Z",
+    "isoDate": "2026-11-04T18:44:57.000Z",
     "source": "TechCrunch AI",
-    "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity"
+    "slug": "building-on-open-source-ai-hugging-face-s-policy-chief-on-the-costs-risks-and-trade-offs"
   },
   {
-    "creator": "Aditya Mehta",
-    "title": "(No AI) Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
-    "dc:creator": "Aditya Mehta",
-    "content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "contentSnippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "guid": "https://techcrunch.com/?p=3184896",
+    "creator": "Sarah Perez",
+    "title": "(No AI) I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "contentSnippet": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "guid": "https://techcrunch.com/?p=3185071",
     "categories": [
       "AI",
-      "data centers"
+      "Apps",
+      "Hardware",
+      "Apple",
+      "Apple Intelligence",
+      "Apple Watch",
+      "audio",
+      "iPhone",
+      "siri",
+      "siri ai"
     ],
-    "isoDate": "2026-11-03T22:19:53.000Z",
+    "isoDate": "2026-11-04T16:51:35.000Z",
     "source": "TechCrunch AI",
-    "slug": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows"
+    "slug": "i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-unsettling"
   },
   {
-    "title": "(No AI) The biggest modding site in PC gaming is taking a stance on AI",
-    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-    "pubDate": "2026-11-04T00:42:10.000Z",
-    "author": "Jay Peters",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site [announced today](https://www.nexusmods.com/news/15654) as part of a big post about AI-generated content on the platform.\n\n\"One of the most consistent concerns we've heard is that it's not clearly disclosed when AI has been used to create a mod,\" according to the post from site owner Victor \"Foledinho\" Folmann. \"We already have tags for AI-generated and AI-assisted mods, but we recognise that there's a lot more we can do to make that information more accessible and clear for you a …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)",
-    "contentSnippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.\n\"One of the most consistent concerns we've heard is that it's not clearly disclosed when AI has been used to create a mod,\" according to the post from site owner Victor \"Foledinho\" Folmann. \"We already have tags for AI-generated and AI-assisted mods, but we recognise that there's a lot more we can do to make that information more accessible and clear for you a …\nRead the full story at The Verge.",
-    "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
-    "id": "https://www.theverge.com/?p=1026085",
-    "isoDate": "2026-11-04T00:42:10.000Z",
+    "title": "(No AI) Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "pubDate": "2026-11-04T18:26:07.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![Photo of camera of Nothing Phone 4A in front of plants.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNothing CEO Carl Pei said in [a post on X](https://x.com/getpeid/status/2117991714879410204) that the company's launching its first AI device in December. That's just a little over a year after Pei announced [plans for \"AI-native\" devices](https://www.theverge.com/news/778636/nothing-ai-native-devices) and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it _won't_ have is a screen:\n\n> \"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\n\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)",
+    "contentSnippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen:\n\"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded  …\nRead the full story at The Verge.",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
+    "id": "https://www.theverge.com/?p=1026586",
+    "isoDate": "2026-11-04T18:26:07.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-biggest-modding-site-in-pc-gaming-is-taking-a-stance-on-ai"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month"
   },
   {
-    "title": "(No AI) Please stop asking me when the AI bubble will pop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-    "pubDate": "2026-11-03T23:37:45.000Z",
-    "author": "Elizabeth Lopatto",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nEmmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\n\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.\n\nWhat I can tell you is that I read with interest a story in _Bloomberg_ this morning: \"[Wall Street CEOs, Big Money Managers Divided Over AI Risks](https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks).\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)",
-    "contentSnippet": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images\t\n\nPeople, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.\nWhat I can tell you is that I read with interest a story in Bloomberg this morning: \"Wall Street CEOs, Big Money Managers Divided Over AI Risks.\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio …\nRead the full story at The Verge.",
-    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
-    "id": "https://www.theverge.com/?p=1025826",
-    "isoDate": "2026-11-03T23:37:45.000Z",
+    "title": "(No AI) My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+    "pubDate": "2026-11-04T18:00:00.000Z",
+    "author": "Victoria Song",
+    "content": "![Close up of Bee Frontier on top of a colorful phone.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAlso, can I just say this LED indicator light is way too small and unnoticeable?\n\n_This is_ [Optimizer](https://www.theverge.com/optimizer-newsletter)_, a weekly newsletter sent from_ Verge _senior reviewer_ [_Victoria Song_](https://www.theverge.com/authors/victoria-song) _that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for_ Optimizer _[here](https://www.theverge.com/newsletters)._\n\n\"How does that make you feel?\"\n\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the [Amazon Bee Frontier](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs) during our session.\n\nThat first week, I didn't really have an answer. A lot had changed since I first tested [Bee](https://www.theverge.com/reviews/627056/bee-review-ai-wearable), an always-recording AI wearable, early last year. The ele …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)",
+    "contentSnippet": "Also, can I just say this LED indicator light is way too small and unnoticeable?\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\n\"How does that make you feel?\"\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session.\nThat first week, I didn't really have an answer. A lot had changed since I first tested Bee, an always-recording AI wearable, early last year. The ele …\nRead the full story at The Verge.",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [&#8230;]",
+    "id": "https://www.theverge.com/?p=1026464",
+    "isoDate": "2026-11-04T18:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "please-stop-asking-me-when-the-ai-bubble-will-pop"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "my-therapist-thinks-i-should-chuck-the-amazon-bee-frontier-out-a-window"
   },
   {
-    "title": "(No AI) Accelerating engineering for the physical world",
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
-    "content": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "contentSnippet": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "guid": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "title": "(No AI) OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "content": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "contentSnippet": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "guid": "https://openai.com/index/openai-to-acquire-pierre",
     "categories": [
-      "Research"
+      "Company"
     ],
-    "isoDate": "2026-11-03T12:00:00.000Z",
+    "isoDate": "2026-11-04T14:30:00.000Z",
     "source": "OpenAI",
-    "slug": "accelerating-engineering-for-the-physical-world"
+    "slug": "openai-to-acquire-pierre-computer-company-inc"
   },
   {
-    "title": "(No AI) How Cisco defends at machine speed with OpenAI",
-    "link": "https://openai.com/index/cisco-cyber",
-    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "content": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "contentSnippet": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "guid": "https://openai.com/index/cisco-cyber",
-    "isoDate": "2026-11-03T08:00:00.000Z",
+    "title": "(No AI) Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "content": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "contentSnippet": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "guid": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-11-04T07:00:00.000Z",
     "source": "OpenAI",
-    "slug": "how-cisco-defends-at-machine-speed-with-openai"
+    "slug": "daybreak-red-is-now-available-in-aws-govcloud-us-east"
   },
   {
-    "creator": "David Gilbert",
-    "title": "(No AI) Here’s Why You Shouldn’t Use AI to Vote",
-    "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "pubDate": "Tue, 03 Nov 2026 14:45:08 +0000",
-    "dc:creator": "David Gilbert",
-    "content": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-    "contentSnippet": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-    "guid": "6ae8a49293d0a10b8d7f1ddd",
-    "categories": [
-      "Politics"
-    ],
-    "isoDate": "2026-11-03T14:45:08.000Z",
-    "source": "Wired AI",
-    "slug": "here-s-why-you-shouldn-t-use-ai-to-vote"
+    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "isoDate": "2026-11-03T17:01:49.000Z",
+    "source": "Google DeepMind",
+    "slug": "agentic-cheminformatics-with-google-antigravity"
   },
   {
-    "creator": "Katie Drummond",
-    "title": "(No AI) ‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-    "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-    "contentSnippet": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-    "guid": "6ae37585b7cef7207a0617e3",
+    "title": "(No AI) Speeding up planning decisions with AI",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "isoDate": "2026-10-30T14:18:30.000Z",
+    "source": "Google DeepMind",
+    "slug": "speeding-up-planning-decisions-with-ai"
+  },
+  {
+    "creator": "Will Knight",
+    "title": "(No AI) Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "pubDate": "Wed, 04 Nov 2026 19:16:25 +0000",
+    "dc:creator": "Will Knight",
+    "content": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "contentSnippet": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "guid": "6ad2762c3bafd52c8d60c16a",
     "categories": [
-      "The Big Story",
-      "Politics"
+      "Business",
+      "Security"
     ],
-    "isoDate": "2026-11-03T11:00:00.000Z",
+    "isoDate": "2026-11-04T19:16:25.000Z",
     "source": "Wired AI",
-    "slug": "our-risk-their-reward-zohran-mamdani-on-ai-and-data-centers"
+    "slug": "hugging-face-s-ceo-says-his-p-doom-is-close-to-zero"
+  },
+  {
+    "creator": "Vittoria Elliott, Molly Taft",
+    "title": "(No AI) The Results Are In: Voters Hate Data Centers",
+    "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+    "pubDate": "Wed, 04 Nov 2026 16:56:17 +0000",
+    "dc:creator": "Vittoria Elliott, Molly Taft",
+    "content": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+    "contentSnippet": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+    "guid": "6ae4a246273b3c41ba93a346",
+    "categories": [
+      "Politics",
+      "Politics / Politics News"
+    ],
+    "isoDate": "2026-11-04T16:56:17.000Z",
+    "source": "Wired AI",
+    "slug": "the-results-are-in-voters-hate-data-centers"
   }
 ]
