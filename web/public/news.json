@@ -1,77 +1,73 @@
 [
   {
-    "creator": "Theresa Loconsolo, Rebecca Bellan",
-    "title": "(No AI) Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
-    "dc:creator": "Theresa Loconsolo, Rebecca Bellan",
-    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of \\[…\\]",
-    "contentSnippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
-    "guid": "https://techcrunch.com/?post_type=tc_podcast&p=3185167",
+    "creator": "Rebecca Bellan",
+    "title": "(No AI) AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+    "dc:creator": "Rebecca Bellan",
+    "content": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "contentSnippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "guid": "https://techcrunch.com/?p=3185268",
     "categories": [
       "AI",
-      "Security",
+      "Government & Policy",
+      "election",
+      "Public First",
+      "leading the future",
+      "guardrails alliance"
+    ],
+    "isoDate": "2026-11-04T22:45:09.000Z",
+    "source": "TechCrunch AI",
+    "slug": "ai-pacs-spent-millions-trying-to-shape-congress-here-s-how-they-fared"
+  },
+  {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "contentSnippet": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "guid": "https://techcrunch.com/?p=3185172",
+    "categories": [
+      "AI",
       "Startups",
-      "Equity podcast",
-      "Hugging Face",
-      "open source"
+      "AI hardware",
+      "hardware",
+      "In Brief",
+      "nothing phone"
     ],
-    "isoDate": "2026-11-04T18:44:57.000Z",
+    "isoDate": "2026-11-04T22:13:16.000Z",
     "source": "TechCrunch AI",
-    "slug": "building-on-open-source-ai-hugging-face-s-policy-chief-on-the-costs-risks-and-trade-offs"
+    "slug": "nothing-ceo-says-company-s-mysterious-ai-first-device-is-dropping-next-month"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "contentSnippet": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "guid": "https://techcrunch.com/?p=3185071",
-    "categories": [
-      "AI",
-      "Apps",
-      "Hardware",
-      "Apple",
-      "Apple Intelligence",
-      "Apple Watch",
-      "audio",
-      "iPhone",
-      "siri",
-      "siri ai"
-    ],
-    "isoDate": "2026-11-04T16:51:35.000Z",
-    "source": "TechCrunch AI",
-    "slug": "i-tried-apple-s-siri-recaps-they-re-surprisingly-useful-and-a-little-unsettling"
-  },
-  {
-    "title": "(No AI) Nothing teases a screen-free AI device ahead of launch next month",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-    "pubDate": "2026-11-04T18:26:07.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Photo of camera of Nothing Phone 4A in front of plants.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNothing CEO Carl Pei said in [a post on X](https://x.com/getpeid/status/2117991714879410204) that the company's launching its first AI device in December. That's just a little over a year after Pei announced [plans for \"AI-native\" devices](https://www.theverge.com/news/778636/nothing-ai-native-devices) and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it _won't_ have is a screen:\n\n> \"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\n\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)",
-    "contentSnippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen:\n\"Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app.\"\nPei shared an image with the post that says \"NOTHING(R)\" in the top left corner, above an ambiguous black rounded  …\nRead the full story at The Verge.",
-    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
-    "id": "https://www.theverge.com/?p=1026586",
-    "isoDate": "2026-11-04T18:26:07.000Z",
+    "title": "(No AI) Qualcomm is betting big on data centers as smartphone sales sink",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "pubDate": "2026-11-04T22:42:15.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Qualcomm logo over a multicolored illustration](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith smartphone sales [tanking by around 20 percent](https://www.theverge.com/gadgets/1009588/global-smartphone-sales-just-hit-a-14-year-low) compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its [Q4 2026 earnings](https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Presentation_Final.pdf) call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like [Amazon](https://www.theverge.com/ai-artificial-intelligence/991372/qualcomms-collaborating-with-amazon-on-multiple-generations-of-chips-for-aws-data-centers) and [Meta](https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-) announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\n\nConsidering the company's [total revenue](https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf) for 2026 was $10.4 billion, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)",
+    "contentSnippet": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
+    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
+    "id": "https://www.theverge.com/?p=1026867",
+    "isoDate": "2026-11-04T22:42:15.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink"
   },
   {
-    "title": "(No AI) My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-    "pubDate": "2026-11-04T18:00:00.000Z",
-    "author": "Victoria Song",
-    "content": "![Close up of Bee Frontier on top of a colorful phone.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAlso, can I just say this LED indicator light is way too small and unnoticeable?\n\n_This is_ [Optimizer](https://www.theverge.com/optimizer-newsletter)_, a weekly newsletter sent from_ Verge _senior reviewer_ [_Victoria Song_](https://www.theverge.com/authors/victoria-song) _that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for_ Optimizer _[here](https://www.theverge.com/newsletters)._\n\n\"How does that make you feel?\"\n\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the [Amazon Bee Frontier](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs) during our session.\n\nThat first week, I didn't really have an answer. A lot had changed since I first tested [Bee](https://www.theverge.com/reviews/627056/bee-review-ai-wearable), an always-recording AI wearable, early last year. The ele …\n\n[Read the full story at The Verge.](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)",
-    "contentSnippet": "Also, can I just say this LED indicator light is way too small and unnoticeable?\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\n\"How does that make you feel?\"\nI get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session.\nThat first week, I didn't really have an answer. A lot had changed since I first tested Bee, an always-recording AI wearable, early last year. The ele …\nRead the full story at The Verge.",
-    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [&#8230;]",
-    "id": "https://www.theverge.com/?p=1026464",
-    "isoDate": "2026-11-04T18:00:00.000Z",
+    "title": "(No AI) 17 better ways Elon Musk could have wasted $446 million",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "pubDate": "2026-11-04T21:45:00.000Z",
+    "author": "Elizabeth Lopatto",
+    "content": "![Elon Musk frowns, surrounded by all the things he could have bought and didn’t](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nDream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from [a pack of attention-seeking lunatics](https://www.theverge.com/24058356/trolls-social-media-commenter-lurker-reply-guy-threads). If your social media of choice is the site formerly known as Twitter, and [it is your main source of contact with the outside world](https://www.nature.com/articles/s41599-025-06187-8), you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk.\n\nIn particular, $47 million of that money from Musk's America PAC was aimed at defeating Texas Democrat James Talarico, who trounced Musk's preferred Senate candidate, Ken Paxton, with 55 percent of the vote. Talarico even made Musk's influence [a cent …](https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html)\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich)",
+    "contentSnippet": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk.\nIn particular, $47 million of that money from Musk's America PAC was aimed at defeating Texas Democrat James Talarico, who trounced Musk's preferred Senate candidate, Ken Paxton, with 55 percent of the vote. Talarico even made Musk's influence a cent …\nRead the full story at The Verge.",
+    "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
+    "id": "https://www.theverge.com/?p=1026878",
+    "isoDate": "2026-11-04T21:45:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "my-therapist-thinks-i-should-chuck-the-amazon-bee-frontier-out-a-window"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "17-better-ways-elon-musk-could-have-wasted-446-million"
   },
   {
     "title": "(No AI) OpenAI to acquire Pierre Computer Company, Inc.",
@@ -102,59 +98,37 @@
     "slug": "daybreak-red-is-now-available-in-aws-govcloud-us-east"
   },
   {
-    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
-    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "isoDate": "2026-11-03T17:01:49.000Z",
-    "source": "Google DeepMind",
-    "slug": "agentic-cheminformatics-with-google-antigravity"
-  },
-  {
-    "title": "(No AI) Speeding up planning decisions with AI",
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
-    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "isoDate": "2026-10-30T14:18:30.000Z",
-    "source": "Google DeepMind",
-    "slug": "speeding-up-planning-decisions-with-ai"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-    "pubDate": "Wed, 04 Nov 2026 19:16:25 +0000",
-    "dc:creator": "Will Knight",
-    "content": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "contentSnippet": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "guid": "6ad2762c3bafd52c8d60c16a",
+    "creator": "Caroline Haskins",
+    "title": "(No AI) The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "pubDate": "Wed, 04 Nov 2026 23:13:14 +0000",
+    "dc:creator": "Caroline Haskins",
+    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "contentSnippet": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "guid": "6aeb5a0c899aefeeb033196c",
     "categories": [
       "Business",
-      "Security"
+      "Business / Artificial Intelligence",
+      "Politics"
     ],
-    "isoDate": "2026-11-04T19:16:25.000Z",
+    "isoDate": "2026-11-04T23:13:14.000Z",
     "source": "Wired AI",
-    "slug": "hugging-face-s-ceo-says-his-p-doom-is-close-to-zero"
+    "slug": "the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space"
   },
   {
-    "creator": "Vittoria Elliott, Molly Taft",
-    "title": "(No AI) The Results Are In: Voters Hate Data Centers",
-    "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
-    "pubDate": "Wed, 04 Nov 2026 16:56:17 +0000",
-    "dc:creator": "Vittoria Elliott, Molly Taft",
-    "content": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-    "contentSnippet": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-    "guid": "6ae4a246273b3c41ba93a346",
+    "creator": "Tess Owen",
+    "title": "(No AI) The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "pubDate": "Wed, 04 Nov 2026 20:41:29 +0000",
+    "dc:creator": "Tess Owen",
+    "content": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "contentSnippet": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "guid": "6ae4a770bd1058bb39c86ec2",
     "categories": [
-      "Politics",
-      "Politics / Politics News"
+      "Politics"
     ],
-    "isoDate": "2026-11-04T16:56:17.000Z",
+    "isoDate": "2026-11-04T20:41:29.000Z",
     "source": "Wired AI",
-    "slug": "the-results-are-in-voters-hate-data-centers"
+    "slug": "the-biggest-pro-ai-super-pac-network-didn-t-really-impact-the-midterms"
   }
 ]
