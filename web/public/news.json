@@ -1,66 +1,82 @@
 [
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-    "contentSnippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-    "guid": "https://techcrunch.com/?p=3185305",
+    "creator": "Sarah Perez",
+    "title": "(No AI) Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+    "dc:creator": "Sarah Perez",
+    "content": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "contentSnippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "guid": "https://techcrunch.com/?p=3185548",
     "categories": [
       "AI",
-      "TC"
+      "TC",
+      "data centers",
+      "Meta"
     ],
-    "isoDate": "2026-11-05T01:26:22.000Z",
+    "isoDate": "2026-11-05T19:12:39.000Z",
     "source": "TechCrunch AI",
-    "slug": "apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage"
+    "slug": "meta-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder"
   },
   {
-    "creator": "Dominic-Madori Davis",
-    "title": "(No AI) After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
-    "dc:creator": "Dominic-Madori Davis",
-    "content": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "contentSnippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "guid": "https://techcrunch.com/?p=3185307",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) OpenAI released a new cybersecurity model. Is that enough?",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "contentSnippet": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "guid": "https://techcrunch.com/?p=3185414",
     "categories": [
       "AI",
-      "Government & Policy",
-      "data centers"
+      "cybersecurity",
+      "OpenAI"
     ],
-    "isoDate": "2026-11-05T01:02:14.000Z",
+    "isoDate": "2026-11-05T19:06:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming"
+    "slug": "openai-released-a-new-cybersecurity-model-is-that-enough"
   },
   {
-    "title": "(No AI) Big Tech’s big AI buildout will not end until someone stops it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-    "pubDate": "2026-11-05T10:45:00.000Z",
-    "author": "Ellen Thomas",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAfter four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.\n\nA third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own.\n\nAmazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)",
-    "contentSnippet": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.\nA third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own.\nAmazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee …\nRead the full story at The Verge.",
-    "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
-    "id": "https://www.theverge.com/?p=1027344",
-    "isoDate": "2026-11-05T10:45:00.000Z",
+    "title": "(No AI) Muse has a voice mode now",
+    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "pubDate": "2026-11-05T19:03:04.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100)\n\nMeta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg [announced today](https://www.threads.com/@zuck/post/DfXrs6RGonx).\n\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings.\n\n[](https://www.threads.com/@muse/post/DfXsBBYCnf5)\n\nIn my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)",
+    "contentSnippet": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings.\n\n\n\n\n\nIn my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor …\nRead the full story at The Verge.",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [&#8230;]",
+    "id": "https://www.theverge.com/?p=1028015",
+    "isoDate": "2026-11-05T19:03:04.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "big-tech-s-big-ai-buildout-will-not-end-until-someone-stops-it"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "muse-has-a-voice-mode-now"
   },
   {
-    "title": "(No AI) Qualcomm is betting big on data centers as smartphone sales sink",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "pubDate": "2026-11-04T22:42:15.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Qualcomm logo over a multicolored illustration](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWith smartphone sales [tanking by around 20 percent](https://www.theverge.com/gadgets/1009588/global-smartphone-sales-just-hit-a-14-year-low) compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its [Q4 2026 earnings](https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Presentation_Final.pdf) call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like [Amazon](https://www.theverge.com/ai-artificial-intelligence/991372/qualcomms-collaborating-with-amazon-on-multiple-generations-of-chips-for-aws-data-centers) and [Meta](https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-) announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\n\nConsidering the company's [total revenue](https://investor.qualcomm.com/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf) for 2026 was $10.4 billion, …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)",
-    "contentSnippet": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
-    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
-    "id": "https://www.theverge.com/?p=1026867",
-    "isoDate": "2026-11-04T22:42:15.000Z",
+    "title": "(No AI) Claude AI can plug directly into your bank account",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "pubDate": "2026-11-05T18:00:00.000Z",
+    "author": "Jess Weatherbed",
+    "content": "![Three phones showing previews of Personal Finance in Claude](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAnthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\n\nIts access is read-only, and with Plaid facilit …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)",
+    "contentSnippet": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month.\nIts access is read-only, and with Plaid facilit …\nRead the full story at The Verge.",
+    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
+    "id": "https://www.theverge.com/?p=1027652",
+    "isoDate": "2026-11-05T18:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "claude-ai-can-plug-directly-into-your-bank-account"
+  },
+  {
+    "title": "(No AI) GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "pubDate": "Thu, 05 Nov 2026 09:00:00 GMT",
+    "content": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "contentSnippet": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "guid": "https://openai.com/index/introducing-gpt-6-cyber",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-11-05T09:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents"
   },
   {
     "title": "(No AI) Setting a new standard for responsible AI infrastructure",
@@ -77,18 +93,15 @@
     "slug": "setting-a-new-standard-for-responsible-ai-infrastructure"
   },
   {
-    "title": "(No AI) OpenAI to acquire Pierre Computer Company, Inc.",
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
-    "content": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-    "contentSnippet": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-    "guid": "https://openai.com/index/openai-to-acquire-pierre",
-    "categories": [
-      "Company"
-    ],
-    "isoDate": "2026-11-04T14:30:00.000Z",
-    "source": "OpenAI",
-    "slug": "openai-to-acquire-pierre-computer-company-inc"
+    "title": "(No AI) Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "isoDate": "2026-11-05T17:05:16.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips"
   },
   {
     "title": "(No AI) Agentic cheminformatics with Google Antigravity",
@@ -102,48 +115,37 @@
     "slug": "agentic-cheminformatics-with-google-antigravity"
   },
   {
-    "title": "(No AI) Speeding up planning decisions with AI",
-    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
-    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "contentSnippet": "Google DeepMind and UK government work together to reduce planning assessment times",
-    "guid": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "isoDate": "2026-10-30T14:18:30.000Z",
-    "source": "Google DeepMind",
-    "slug": "speeding-up-planning-decisions-with-ai"
-  },
-  {
     "creator": "Isabella Ward",
-    "title": "(No AI) He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-    "pubDate": "Thu, 05 Nov 2026 11:45:00 +0000",
+    "title": "(No AI) Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "pubDate": "Thu, 05 Nov 2026 16:26:57 +0000",
     "dc:creator": "Isabella Ward",
-    "content": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-    "contentSnippet": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-    "guid": "6ad26bec5976120efa9e5d95",
-    "categories": [
-      "Culture"
-    ],
-    "isoDate": "2026-11-05T11:45:00.000Z",
-    "source": "Wired AI",
-    "slug": "he-trolls-ai-labs-for-a-living-now-they-all-want-to-work-with-him"
-  },
-  {
-    "creator": "Caroline Haskins",
-    "title": "(No AI) The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-    "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-    "pubDate": "Wed, 04 Nov 2026 23:13:14 +0000",
-    "dc:creator": "Caroline Haskins",
-    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "contentSnippet": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "guid": "6aeb5a0c899aefeeb033196c",
+    "content": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+    "contentSnippet": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+    "guid": "6ad27b839e1279e3a28f38db",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence",
-      "Politics"
+      "Business / Social Media"
     ],
-    "isoDate": "2026-11-04T23:13:14.000Z",
+    "isoDate": "2026-11-05T16:26:57.000Z",
     "source": "Wired AI",
-    "slug": "the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space"
+    "slug": "reddit-founder-says-building-social-media-apps-is-not-cool-anymore"
+  },
+  {
+    "creator": "Julian Chokkattu",
+    "title": "(No AI) Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "link": "https://www.wired.com/story/aina-smart-ring/",
+    "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+    "dc:creator": "Julian Chokkattu",
+    "content": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "contentSnippet": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "guid": "6ae8ef95664c044eb27c8a04",
+    "categories": [
+      "Gear",
+      "Gear / Gear News and Events"
+    ],
+    "isoDate": "2026-11-05T14:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "exclusive-aina-s-smart-ring-wants-to-be-a-remote-control-for-your-ai-agent"
   }
 ]
