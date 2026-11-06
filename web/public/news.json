@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Lucas Ropek",
+    "title": "(No AI) OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "contentSnippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "guid": "https://techcrunch.com/?p=3186034",
+    "categories": [
+      "AI",
+      "Anthropic",
+      "fundraising",
+      "In Brief",
+      "OpenAI"
+    ],
+    "isoDate": "2026-11-06T22:53:46.000Z",
+    "source": "TechCrunch AI",
+    "slug": "openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation"
+  },
+  {
     "creator": "Zack Whittaker",
     "title": "(No AI) Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
@@ -11,61 +31,41 @@
     "categories": [
       "AI",
       "Security",
-      "artex",
+      "cybersecurity",
       "cyberattack",
-      "cybersecurity"
+      "artex"
     ],
     "isoDate": "2026-11-06T18:44:38.000Z",
     "source": "TechCrunch AI",
     "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "contentSnippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "guid": "https://techcrunch.com/?p=3185929",
-    "categories": [
-      "AI",
-      "agents",
-      "Mark Zuckerberg",
-      "Meta",
-      "muse"
-    ],
-    "isoDate": "2026-11-06T18:44:20.000Z",
-    "source": "TechCrunch AI",
-    "slug": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
+    "title": "(No AI) OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "pubDate": "2026-11-06T23:46:18.000Z",
+    "author": "Stevie Bonifield",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to [_Bloomberg_](https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value). That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.\n\nEchoing _[FT](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1)_ and [_Wall Street Journal_](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5) reports from last week, _Bloomberg_ says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion. That was before tech stocks dropped, and the results of the midterms showed how much public o …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)",
+    "contentSnippet": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising  $122 billion from investors in March at a valuation of $852 billion.\nEchoing FT and Wall Street Journal reports from last week, Bloomberg says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion. That was before tech stocks dropped, and the results of the midterms showed how much public o …\nRead the full story at The Verge.",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+    "id": "https://www.theverge.com/?p=1029380",
+    "isoDate": "2026-11-06T23:46:18.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo"
   },
   {
-    "title": "(No AI) Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "pubDate": "2026-11-06T18:10:10.000Z",
-    "author": "Emma Roth",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528,0,91.924715693647,74.471659887186)\n\nMeta will now allow you to build customized, app-like experiences within its Muse AI assistant. The [new feature, called \"spaces,\"](https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/) allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app.\n\nIf you connect your space to a relevant app, Muse will update pricing, dates, and other information in the background. Meta says you can create a new space by describing it, and continue to tweak it by asking Muse. You can also interact with your spaces by checking things off, adding notes, and making edits.\n\n[](https://www.threads.com/@muse/post/DfaNbz4CMU8)\n\nYou can add spaces to the sidebar in the Muse a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)",
-    "contentSnippet": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app.\nIf you connect your space to a relevant app, Muse will update pricing, dates, and other information in the background. Meta says you can create a new space by describing it, and continue to tweak it by asking Muse. You can also interact with your spaces by checking things off, adding notes, and making edits.\n\n\n\n\n\nYou can add spaces to the sidebar in the Muse a …\nRead the full story at The Verge.",
-    "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, [&#8230;]",
-    "id": "https://www.theverge.com/?p=1028871",
-    "isoDate": "2026-11-06T18:10:10.000Z",
+    "title": "(No AI) China reportedly recruited AI exec to spy on Jensen Huang",
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "pubDate": "2026-11-06T23:00:44.000Z",
+    "author": "Jay Peters",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nChina's intelligence agency recruited [Megaspeed](https://megaspeed.ai/) executive Alice Huang to spy on Nvidia CEO Jensen Huang, [according to _The New York Times_](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.OVE.Q7K1.pw9O9sjsZBW4&smid=url-share)_._ The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" [Megaspeed](https://megaspeed.ai/) is a customer of Nvidia's, and Alice Huang also has \"relationships with executives at the highest levels of the A.I. chip industry,\" including leaders at Gigabyte, the _NYT_ says.\n\nLast week, the _NYT_ [reported that](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?smid=nytcore-android-share) Jensen Huang was seen as the target of a \"Chinese spy plot\" and shared details about Al …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)",
+    "contentSnippet": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed is a customer of Nvidia's, and Alice Huang also has \"relationships with executives at the highest levels of the A.I. chip industry,\" including leaders at Gigabyte, the NYT says.\nLast week, the NYT reported that Jensen Huang was seen as the target of a \"Chinese spy plot\" and shared details about Al …\nRead the full story at The Verge.",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+    "id": "https://www.theverge.com/?p=1029338",
+    "isoDate": "2026-11-06T23:00:44.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
-    "slug": "meta-s-muse-ai-can-create-custom-spaces-for-the-version-of-the-app-you-need-right-now"
-  },
-  {
-    "title": "(No AI) AI is the new dating dealbreaker",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "pubDate": "2026-11-06T17:00:00.000Z",
-    "author": "Helen Li",
-    "content": "![a hand holding a phone open to a dating app with a robot as the profile picture](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.\n\n\"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\"\n\nUsually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)",
-    "contentSnippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.\n\"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\"\nUsually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo …\nRead the full story at The Verge.",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
-    "id": "https://www.theverge.com/?p=1028609",
-    "isoDate": "2026-11-06T17:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "ai-is-the-new-dating-dealbreaker"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang"
   },
   {
     "title": "(No AI) Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -82,18 +82,18 @@
     "slug": "partnering-with-hacktron-to-find-vulnerabilities-in-openai-s-systems"
   },
   {
-    "title": "(No AI) Australian universities are creating AI-native graduates",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
-    "content": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "contentSnippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "guid": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "(No AI) Measuring how AI agents handle everyday wet-lab science",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "contentSnippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "guid": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "categories": [
-      "Company"
+      "Publication"
     ],
-    "isoDate": "2026-11-05T17:00:00.000Z",
+    "isoDate": "2026-11-06T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "australian-universities-are-creating-ai-native-graduates"
+    "slug": "measuring-how-ai-agents-handle-everyday-wet-lab-science"
   },
   {
     "creator": "Will Knight, Lily Hay Newman",
