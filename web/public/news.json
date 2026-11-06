@@ -1,72 +1,85 @@
 [
   {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "contentSnippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "guid": "https://techcrunch.com/?p=3185713",
+    "creator": "Zack Whittaker",
+    "title": "(No AI) Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+    "dc:creator": "Zack Whittaker",
+    "content": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "contentSnippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "guid": "https://techcrunch.com/?p=3185905",
     "categories": [
       "AI",
       "Security",
-      "Lightspeed Venture Capital",
-      "M&A",
-      "palo alto networks",
-      "signalfire"
+      "artex",
+      "cyberattack",
+      "cybersecurity"
     ],
-    "isoDate": "2026-11-06T06:28:32.000Z",
+    "isoDate": "2026-11-06T18:44:38.000Z",
     "source": "TechCrunch AI",
-    "slug": "palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m"
+    "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
   },
   {
-    "creator": "Sarah Perez",
-    "title": "(No AI) Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
-    "dc:creator": "Sarah Perez",
-    "content": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "contentSnippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "guid": "https://techcrunch.com/?p=3185656",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "contentSnippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "guid": "https://techcrunch.com/?p=3185929",
     "categories": [
       "AI",
-      "Commerce",
-      "AI agents",
-      "Airbnb",
-      "travel"
+      "agents",
+      "Mark Zuckerberg",
+      "Meta",
+      "muse"
     ],
-    "isoDate": "2026-11-05T22:40:55.000Z",
+    "isoDate": "2026-11-06T18:44:20.000Z",
     "source": "TechCrunch AI",
-    "slug": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-2027"
+    "slug": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
   },
   {
-    "title": "(No AI) OpenAI is stepping back from NDAs for data center projects",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "pubDate": "2026-11-06T00:37:56.000Z",
-    "author": "Jay Peters",
-    "content": "![Graphic image of a data center.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nFollowing this week's midterms where voters resoundingly voiced their [opposition to data center expansion](https://www.theverge.com/policy/1026365/data-centers-midterms-results), OpenAI today announced [new commitments](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/) to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\n\nMany data center projects have come under scrutiny for relying on NDAs to [hide discussions](https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana) between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced [it would](https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning) no longer u …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)",
-    "contentSnippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced it would no longer u …\nRead the full story at The Verge.",
-    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
-    "id": "https://www.theverge.com/?p=1028454",
-    "isoDate": "2026-11-06T00:37:56.000Z",
+    "title": "(No AI) Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "pubDate": "2026-11-06T18:10:10.000Z",
+    "author": "Emma Roth",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528,0,91.924715693647,74.471659887186)\n\nMeta will now allow you to build customized, app-like experiences within its Muse AI assistant. The [new feature, called \"spaces,\"](https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/) allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app.\n\nIf you connect your space to a relevant app, Muse will update pricing, dates, and other information in the background. Meta says you can create a new space by describing it, and continue to tweak it by asking Muse. You can also interact with your spaces by checking things off, adding notes, and making edits.\n\n[](https://www.threads.com/@muse/post/DfaNbz4CMU8)\n\nYou can add spaces to the sidebar in the Muse a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)",
+    "contentSnippet": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app.\nIf you connect your space to a relevant app, Muse will update pricing, dates, and other information in the background. Meta says you can create a new space by describing it, and continue to tweak it by asking Muse. You can also interact with your spaces by checking things off, adding notes, and making edits.\n\n\n\n\n\nYou can add spaces to the sidebar in the Muse a …\nRead the full story at The Verge.",
+    "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, [&#8230;]",
+    "id": "https://www.theverge.com/?p=1028871",
+    "isoDate": "2026-11-06T18:10:10.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "openai-is-stepping-back-from-ndas-for-data-center-projects"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
+    "slug": "meta-s-muse-ai-can-create-custom-spaces-for-the-version-of-the-app-you-need-right-now"
   },
   {
-    "title": "(No AI) Airbnb is working on an AI travel agent",
-    "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "pubDate": "2026-11-06T00:06:12.000Z",
-    "author": "Jay Peters",
-    "content": "![An image showing the Airbnb logo](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nAirbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter [released today](https://s26.q4cdn.com/656283129/files/content_files/Airbnb-Q3-2026-Shareholder-Letter.pdf).\n\n\"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge.\n\nHere's how Airbnb says that new interface will work:\n\n> We don't think a traditional chatbo …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)",
-    "contentSnippet": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge.\nHere's how Airbnb says that new interface will work:\nWe don't think a traditional chatbo …\n\nRead the full story at The Verge.",
-    "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
-    "id": "https://www.theverge.com/?p=1028412",
-    "isoDate": "2026-11-06T00:06:12.000Z",
+    "title": "(No AI) AI is the new dating dealbreaker",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "pubDate": "2026-11-06T17:00:00.000Z",
+    "author": "Helen Li",
+    "content": "![a hand holding a phone open to a dating app with a robot as the profile picture](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nWhen Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.\n\n\"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\"\n\nUsually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)",
+    "contentSnippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.\n\"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\"\nUsually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo …\nRead the full story at The Verge.",
+    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+    "id": "https://www.theverge.com/?p=1028609",
+    "isoDate": "2026-11-06T17:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "airbnb-is-working-on-an-ai-travel-agent"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "ai-is-the-new-dating-dealbreaker"
+  },
+  {
+    "title": "(No AI) Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "contentSnippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "guid": "https://openai.com/index/partnering-with-hacktron",
+    "categories": [
+      "Security"
+    ],
+    "isoDate": "2026-11-06T08:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "partnering-with-hacktron-to-find-vulnerabilities-in-openai-s-systems"
   },
   {
     "title": "(No AI) Australian universities are creating AI-native graduates",
@@ -83,48 +96,37 @@
     "slug": "australian-universities-are-creating-ai-native-graduates"
   },
   {
-    "title": "(No AI) Cult.fit builds operational muscle with Codex",
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
-    "content": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "contentSnippet": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "guid": "https://openai.com/index/cultfit-builds-with-codex",
-    "isoDate": "2026-11-05T20:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "cult-fit-builds-operational-muscle-with-codex"
+    "creator": "Will Knight, Lily Hay Newman",
+    "title": "(No AI) Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "pubDate": "Fri, 06 Nov 2026 18:43:43 +0000",
+    "dc:creator": "Will Knight, Lily Hay Newman",
+    "content": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "contentSnippet": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "guid": "6aeb76b2899aefeeb033197b",
+    "categories": [
+      "Security",
+      "Security / Cyberattacks and Hacks"
+    ],
+    "isoDate": "2026-11-06T18:43:43.000Z",
+    "source": "Wired AI",
+    "slug": "free-chinese-ai-models-are-getting-scary-good-at-hacking"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "pubDate": "Thu, 05 Nov 2026 21:37:18 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "contentSnippet": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "guid": "6aecb226aada98abfcc68c76",
+    "creator": "Steven Levy",
+    "title": "(No AI) AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "pubDate": "Fri, 06 Nov 2026 16:00:00 +0000",
+    "dc:creator": "Steven Levy",
+    "content": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "contentSnippet": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "guid": "6aeccdd60e08160b7fc2e8b1",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-11-05T21:37:18.000Z",
+    "isoDate": "2026-11-06T16:00:00.000Z",
     "source": "Wired AI",
-    "slug": "ads-in-chatbots-have-arrived-here-s-what-s-working-and-what-s-not"
-  },
-  {
-    "creator": "Isabella Ward",
-    "title": "(No AI) Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-    "pubDate": "Thu, 05 Nov 2026 16:26:57 +0000",
-    "dc:creator": "Isabella Ward",
-    "content": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-    "contentSnippet": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-    "guid": "6ad27b839e1279e3a28f38db",
-    "categories": [
-      "Business",
-      "Business / Social Media"
-    ],
-    "isoDate": "2026-11-05T16:26:57.000Z",
-    "source": "Wired AI",
-    "slug": "reddit-founder-says-building-social-media-apps-is-not-cool-anymore"
+    "slug": "ai-companies-really-really-want-to-buy-your-work-files-and-emails"
   }
 ]
