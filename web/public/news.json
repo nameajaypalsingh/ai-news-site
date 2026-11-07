@@ -1,5 +1,25 @@
 [
   {
+    "creator": "Marina Temkin",
+    "title": "(No AI) Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
+    "dc:creator": "Marina Temkin",
+    "content": "The deal highlights the challenges of developing massive AI data centers.",
+    "contentSnippet": "The deal highlights the challenges of developing massive AI data centers.",
+    "guid": "https://techcrunch.com/?p=3186051",
+    "categories": [
+      "AI",
+      "ai infrastructure",
+      "crusoe",
+      "datacenter",
+      "Google"
+    ],
+    "isoDate": "2026-11-07T01:40:28.000Z",
+    "source": "TechCrunch AI",
+    "slug": "crusoe-sells-troubled-wyoming-data-center-project-to-google"
+  },
+  {
     "creator": "Lucas Ropek",
     "title": "(No AI) OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -18,26 +38,6 @@
     "isoDate": "2026-11-06T22:53:46.000Z",
     "source": "TechCrunch AI",
     "slug": "openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation"
-  },
-  {
-    "creator": "Zack Whittaker",
-    "title": "(No AI) Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
-    "dc:creator": "Zack Whittaker",
-    "content": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "contentSnippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "guid": "https://techcrunch.com/?p=3185905",
-    "categories": [
-      "AI",
-      "Security",
-      "cybersecurity",
-      "cyberattack",
-      "artex"
-    ],
-    "isoDate": "2026-11-06T18:44:38.000Z",
-    "source": "TechCrunch AI",
-    "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
   },
   {
     "title": "(No AI) OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
@@ -94,6 +94,28 @@
     "isoDate": "2026-11-06T00:00:00.000Z",
     "source": "OpenAI",
     "slug": "measuring-how-ai-agents-handle-everyday-wet-lab-science"
+  },
+  {
+    "title": "(No AI) Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "isoDate": "2026-11-05T17:05:16.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips"
+  },
+  {
+    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "isoDate": "2026-11-03T17:01:49.000Z",
+    "source": "Google DeepMind",
+    "slug": "agentic-cheminformatics-with-google-antigravity"
   },
   {
     "creator": "Will Knight, Lily Hay Newman",
