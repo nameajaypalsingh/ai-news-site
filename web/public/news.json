@@ -92,37 +92,59 @@
     "slug": "measuring-how-ai-agents-handle-everyday-wet-lab-science"
   },
   {
-    "creator": "Jaclyn Greenberg",
-    "title": "(No AI) Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-    "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-    "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
-    "dc:creator": "Jaclyn Greenberg",
-    "content": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-    "contentSnippet": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-    "guid": "6ae8fcff93d0a10b8d7f1f15",
-    "categories": [
-      "Gear",
-      "Gear / How To and Advice"
-    ],
-    "isoDate": "2026-11-07T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough"
+    "title": "(No AI) Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "isoDate": "2026-11-05T17:05:16.000Z",
+    "source": "Google DeepMind",
+    "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips"
   },
   {
-    "creator": "Will Knight, Lily Hay Newman",
-    "title": "(No AI) Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "pubDate": "Fri, 06 Nov 2026 18:43:43 +0000",
-    "dc:creator": "Will Knight, Lily Hay Newman",
-    "content": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-    "contentSnippet": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-    "guid": "6aeb76b2899aefeeb033197b",
+    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "isoDate": "2026-11-03T17:01:49.000Z",
+    "source": "Google DeepMind",
+    "slug": "agentic-cheminformatics-with-google-antigravity"
+  },
+  {
+    "creator": "Joe Ray",
+    "title": "(No AI) I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000",
+    "dc:creator": "Joe Ray",
+    "content": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "contentSnippet": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "guid": "6aed1403f979e2b672d1308c",
     "categories": [
-      "Security",
-      "Security / Cyberattacks and Hacks"
+      "Gear",
+      "Gear / Gear News and Events"
     ],
-    "isoDate": "2026-11-06T18:43:43.000Z",
+    "isoDate": "2026-11-08T12:00:00.000Z",
     "source": "Wired AI",
-    "slug": "free-chinese-ai-models-are-getting-scary-good-at-hacking"
+    "slug": "i-used-nyt-cooking-s-new-ai-powered-recipe-modifier-and-it-s-actually-pretty-good"
+  },
+  {
+    "creator": "Reece Rogers",
+    "title": "(No AI) World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000",
+    "dc:creator": "Reece Rogers",
+    "content": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "contentSnippet": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "guid": "6ae4b7e754bf7a084fa1ea61",
+    "categories": [
+      "Gear",
+      "Gear / Trends"
+    ],
+    "isoDate": "2026-11-08T10:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "world-models-will-soon-be-inescapable-here-s-what-you-need-to-know"
   }
 ]
