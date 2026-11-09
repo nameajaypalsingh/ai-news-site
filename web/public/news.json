@@ -1,6 +1,25 @@
 [
   {
     "creator": "Anthony Ha",
+    "title": "(No AI) Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
+    "dc:creator": "Anthony Ha",
+    "content": "In a memo to the company, Huang admitted that he had an affair.",
+    "contentSnippet": "In a memo to the company, Huang admitted that he had an affair.",
+    "guid": "https://techcrunch.com/?p=3186128",
+    "categories": [
+      "AI",
+      "Government & Policy",
+      "nvidia",
+      "Jensen Huang"
+    ],
+    "isoDate": "2026-11-08T21:00:11.000Z",
+    "source": "TechCrunch AI",
+    "slug": "nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-possible-chinese-spy"
+  },
+  {
+    "creator": "Anthony Ha",
     "title": "(No AI) After the midterms, things are looking rocky for Elon Musk and data centers",
     "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "pubDate": "Sat, 07 Nov 2026 22:07:22 +0000",
@@ -19,49 +38,32 @@
     "slug": "after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers"
   },
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "pubDate": "Sat, 07 Nov 2026 21:17:08 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "contentSnippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "guid": "https://techcrunch.com/?p=3186087",
-    "categories": [
-      "AI",
-      "Government & Policy"
-    ],
-    "isoDate": "2026-11-07T21:17:08.000Z",
-    "source": "TechCrunch AI",
-    "slug": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo"
+    "title": "(No AI) Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "pubDate": "2026-11-08T22:54:50.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nJensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model for robots. Photographer: Kiyoshi Ota/Bloomberg via Getty Images | Bloomberg via Getty Images\n\nOn Sunday, Nvidia announced it was [launching an investigation](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below.\n\n> To my colleagues at NVIDIA,\n> \n> I owe my family and all of you an apology.\n> \n> I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\n> \n> Throughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia)",
+    "contentSnippet": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown foundational AI model for robots. Photographer: Kiyoshi Ota/Bloomberg via Getty Images | Bloomberg via Getty Images\t\n\nOn Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. \nTo my colleagues at NVIDIA,\nI owe my family and all of you an apology.\nI was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\nThroughout my life, my family has given me love and support. They deserve my honesty and loyalty. Instead, I  …\n\nRead the full story at The Verge.",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+    "id": "https://www.theverge.com/?p=1029595",
+    "isoDate": "2026-11-08T22:54:50.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "here-s-the-full-text-of-jensen-huang-s-memo-to-nvidia"
   },
   {
-    "title": "(No AI) Apple is racing to make Siri more agentic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "pubDate": "2026-11-08T19:18:19.000Z",
+    "title": "(No AI) Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "pubDate": "2026-11-08T20:22:39.000Z",
     "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n_Bloomberg's_ Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to [accelerate the Siri roadmap](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up) and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals.\n\nTwo significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple's first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)",
-    "contentSnippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals.\nTwo significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple's first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to …\nRead the full story at The Verge.",
-    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
-    "id": "https://www.theverge.com/?p=1029552",
-    "isoDate": "2026-11-08T19:18:19.000Z",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to [spy on the company](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy). A [statement](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) posted by the board of directors reads:\n\n> The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation.\n> \n> The Board prioritizes U.S. national and economic security, which is paramou …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)",
+    "contentSnippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads:\nThe NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation. \nThe Board prioritizes U.S. national and economic security, which is paramou …\n\nRead the full story at The Verge.",
+    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+    "id": "https://www.theverge.com/?p=1029562",
+    "isoDate": "2026-11-08T20:22:39.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "apple-is-racing-to-make-siri-more-agentic"
-  },
-  {
-    "title": "(No AI) Elvis and Eminem rights holders are suing Suno",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "pubDate": "2026-11-08T17:23:19.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Elvis Presley](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nSuno is facing yet another [pair of lawsuits](https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/). A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's Ensuring Likeness Voice and Image Security (ELVIS) Act, which makes it illegal for an AI company to clone a singer's voice.\n\nIn the suit, lawyers representing Presley's rights holders argue that \"Suno has mechanically encoded itself with artists' identities, hard-work, creativity, and time, and harnessed them all for …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)",
-    "contentSnippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's Ensuring Likeness Voice and Image Security (ELVIS) Act, which makes it illegal for an AI company to clone a singer's voice.\nIn the suit, lawyers representing Presley's rights holders argue that \"Suno has mechanically encoded itself with artists' identities, hard-work, creativity, and time, and harnessed them all for  …\nRead the full story at The Verge.",
-    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
-    "id": "https://www.theverge.com/?p=1029533",
-    "isoDate": "2026-11-08T17:23:19.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "elvis-and-eminem-rights-holders-are-suing-suno"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-is-investigating-jensen-huang-s-relationship-with-a-chinese-spy"
   },
   {
     "title": "(No AI) Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
