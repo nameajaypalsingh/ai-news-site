@@ -1,5 +1,22 @@
 [
   {
+    "creator": "Lauren Forristal",
+    "title": "(No AI) Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000",
+    "dc:creator": "Lauren Forristal",
+    "content": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "contentSnippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "guid": "https://techcrunch.com/?p=3185546",
+    "categories": [
+      "AI",
+      "otter ai"
+    ],
+    "isoDate": "2026-11-10T07:00:00.000Z",
+    "source": "TechCrunch AI",
+    "slug": "otter-ai-can-now-follow-conversations-across-30-languages"
+  },
+  {
     "creator": "Marina Temkin",
     "title": "(No AI) Anthropic reportedly plans to move forward with IPO plans",
     "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
@@ -18,27 +35,6 @@
     "isoDate": "2026-11-10T01:27:12.000Z",
     "source": "TechCrunch AI",
     "slug": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans"
-  },
-  {
-    "creator": "Marina Temkin",
-    "title": "(No AI) Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
-    "dc:creator": "Marina Temkin",
-    "content": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "contentSnippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "guid": "https://techcrunch.com/?p=3186628",
-    "categories": [
-      "AI",
-      "Government & Policy",
-      "China",
-      "In Brief",
-      "Jensen Huang",
-      "nvidia"
-    ],
-    "isoDate": "2026-11-09T23:28:37.000Z",
-    "source": "TechCrunch AI",
-    "slug": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago"
   },
   {
     "title": "(No AI) David Ellison says AI could be the ‘biggest creative unlock in modern history’",
@@ -69,6 +65,20 @@
     "slug": "what-could-china-get-from-jensen-huang"
   },
   {
+    "title": "(No AI) Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "pubDate": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "content": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "contentSnippet": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "guid": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "categories": [
+      "Company"
+    ],
+    "isoDate": "2026-11-10T09:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "closing-the-ai-guidance-gap-in-education"
+  },
+  {
     "title": "(No AI) ChatGPT Enterprise now available in AWS Marketplace",
     "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT",
@@ -83,18 +93,15 @@
     "slug": "chatgpt-enterprise-now-available-in-aws-marketplace"
   },
   {
-    "title": "(No AI) Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "link": "https://openai.com/index/control-room",
-    "pubDate": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "content": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "contentSnippet": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "guid": "https://openai.com/index/control-room",
-    "categories": [
-      "Safety"
-    ],
-    "isoDate": "2026-11-09T13:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "control-room-a-central-system-to-track-and-stop-model-workloads-across-our-research-infrastructure"
+    "title": "(No AI) Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "content": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "contentSnippet": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "guid": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "isoDate": "2026-11-10T12:02:28.000Z",
+    "source": "Google DeepMind",
+    "slug": "introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-at-depth"
   },
   {
     "title": "(No AI) Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -108,48 +115,37 @@
     "slug": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips"
   },
   {
-    "title": "(No AI) Agentic cheminformatics with Google Antigravity",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
-    "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "contentSnippet": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "guid": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "isoDate": "2026-11-03T17:01:49.000Z",
-    "source": "Google DeepMind",
-    "slug": "agentic-cheminformatics-with-google-antigravity"
-  },
-  {
-    "creator": "Will Knight, Paresh Dave",
-    "title": "(No AI) Jensen Huang’s Troubles Leave the AI Industry Reeling",
-    "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-    "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
-    "dc:creator": "Will Knight, Paresh Dave",
-    "content": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "contentSnippet": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "guid": "6af1fac05b42cb1a21fe51eb",
+    "creator": "Will Knight",
+    "title": "(No AI) Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "contentSnippet": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "guid": "6ace8269ef03129fd13b25aa",
     "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
+      "The Big Story"
     ],
-    "isoDate": "2026-11-10T00:18:19.000Z",
+    "isoDate": "2026-11-10T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "jensen-huang-s-troubles-leave-the-ai-industry-reeling"
+    "slug": "tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers"
   },
   {
     "creator": "Lauren Goode",
-    "title": "(No AI) Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-    "pubDate": "Mon, 09 Nov 2026 14:30:56 +0000",
+    "title": "(No AI) The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
     "dc:creator": "Lauren Goode",
-    "content": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-    "contentSnippet": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-    "guid": "6af1762f5613664a71d65ac0",
+    "content": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "contentSnippet": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "guid": "6aecd72ef3a6c68d608651ac",
     "categories": [
+      "The Big Story",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-11-09T14:30:56.000Z",
+    "isoDate": "2026-11-10T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year"
+    "slug": "the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are"
   }
 ]
