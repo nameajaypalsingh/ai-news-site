@@ -1,67 +1,70 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-    "contentSnippet": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-    "guid": "https://techcrunch.com/?p=3186547",
-    "categories": [
-      "Enterprise",
-      "TC",
-      "AI",
-      "Databricks"
-    ],
-    "isoDate": "2026-11-11T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth"
-  },
-  {
-    "creator": "Tim Fernholz",
-    "title": "(No AI) Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
-    "dc:creator": "Tim Fernholz",
-    "content": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "contentSnippet": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "guid": "https://techcrunch.com/?p=3187089",
+    "creator": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "title": "(No AI) Why the data center you dread might never even be built",
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "pubDate": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "dc:creator": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure \\[…\\]",
+    "contentSnippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+    "guid": "https://techcrunch.com/?post_type=tc_video&p=3187347",
     "categories": [
       "AI",
-      "Exclusive"
+      "Government & Policy",
+      "AI data center",
+      "data center"
     ],
-    "isoDate": "2026-11-11T14:00:00.000Z",
+    "isoDate": "2026-11-11T20:15:15.000Z",
     "source": "TechCrunch AI",
-    "slug": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads"
+    "slug": "why-the-data-center-you-dread-might-never-even-be-built"
   },
   {
-    "title": "(No AI) Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "pubDate": "2026-11-11T15:00:00.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA graphic representing Google’s AlphaGenome Atlas. | Image: Google\n\nResearchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.\n\nAlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was [released last year](https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/). While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model)",
-    "contentSnippet": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google\t\n\nResearchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.\nAlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was released last year. While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d …\nRead the full story at The Verge.",
-    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]",
-    "id": "https://www.theverge.com/?p=1031524",
-    "isoDate": "2026-11-11T15:00:00.000Z",
+    "creator": "Lucas Ropek",
+    "title": "(No AI) Meta is losing its longtime head of  infrastructure",
+    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+    "pubDate": "Wed, 11 Nov 2026 20:12:01 +0000",
+    "dc:creator": "Lucas Ropek",
+    "content": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "contentSnippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+    "guid": "https://techcrunch.com/?p=3187471",
+    "categories": [
+      "AI",
+      "compute",
+      "infrastructure",
+      "Meta",
+      "social media"
+    ],
+    "isoDate": "2026-11-11T20:12:01.000Z",
+    "source": "TechCrunch AI",
+    "slug": "meta-is-losing-its-longtime-head-of-infrastructure"
+  },
+  {
+    "title": "(No AI) United won’t let your AI agent book your flight",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "pubDate": "2026-11-11T21:54:21.000Z",
+    "author": "Lauren Feiner",
+    "content": "![United Airlines](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUnited says it [won't let personal AI assistants book tickets](https://www.united.com/en/us/fly/help-center/digital-trust-center/artificial-intelligence/third-party-ai-agents.html) on the airline, citing both privacy and regulatory concerns.\n\nThe company says it hasn't yet seen many people try to use AI agents to book their flights, [_The Wall Street Journal_ reports](https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38), in line with observations from other businesses like [Doordash](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/). But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives.\n\nWhile agents can still show users United flights, they …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)",
+    "contentSnippet": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives.\nWhile agents can still show users United flights, they …\nRead the full story at The Verge.",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "id": "https://www.theverge.com/?p=1031623",
+    "isoDate": "2026-11-11T21:54:21.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-alphagenome-2-zooms-in-on-the-cellular-roots-of-disease"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "united-won-t-let-your-ai-agent-book-your-flight"
   },
   {
-    "title": "(No AI) Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "pubDate": "2026-11-11T14:00:00.000Z",
+    "title": "(No AI) Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "pubDate": "2026-11-11T16:00:00.000Z",
     "author": "Jess Weatherbed",
-    "content": "![Project Screen Test previewed at Adobe Max 2026.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nProject Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\n\nSome of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.\n\nThe first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai)",
-    "contentSnippet": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\t\n\nSome of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.\nThe first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a …\nRead the full story at The Verge.",
-    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
-    "id": "https://www.theverge.com/?p=1031505",
-    "isoDate": "2026-11-11T14:00:00.000Z",
+    "content": "![Illustrated examples of Google’s Tabletop AI platform.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more.\n\n\"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)",
+    "contentSnippet": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more.\n\"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google  …\nRead the full story at The Verge.",
+    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
+    "id": "https://www.theverge.com/?p=1031526",
+    "isoDate": "2026-11-11T16:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "adobe-s-ai-experiments-let-you-walk-around-in-photos-and-interview-your-characters"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "google-s-tabletop-ai-experiment-lets-you-build-custom-collaboration-apps"
   },
   {
     "title": "(No AI) Gilbert + Tobin rethinks the business of law with AI",
@@ -111,39 +114,37 @@
     "slug": "gemini-4-carbon-is-now-available"
   },
   {
-    "creator": "Garrett M. Graff",
-    "title": "(No AI) China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-    "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-    "pubDate": "Wed, 11 Nov 2026 15:30:00 +0000",
-    "dc:creator": "Garrett M. Graff",
-    "content": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-    "contentSnippet": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-    "guid": "6af37522ebc8960a0be1d743",
-    "categories": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "Politics"
-    ],
-    "isoDate": "2026-11-11T15:30:00.000Z",
-    "source": "Wired AI",
-    "slug": "china-s-nvidia-honeypot-isn-t-surprising-jensen-huang-fell-for-it-anyway"
-  },
-  {
-    "creator": "Paresh Dave, Caroline Haskins",
-    "title": "(No AI) A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-    "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-    "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
-    "dc:creator": "Paresh Dave, Caroline Haskins",
-    "content": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-    "contentSnippet": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-    "guid": "6aee59f2d9407a3cfa2ceb7d",
+    "creator": "Will Knight",
+    "title": "(No AI) I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "pubDate": "Wed, 11 Nov 2026 19:55:54 +0000",
+    "dc:creator": "Will Knight",
+    "content": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "contentSnippet": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "guid": "6af201a78edcf6c224e08d61",
     "categories": [
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-11-11T11:00:00.000Z",
+    "isoDate": "2026-11-11T19:55:54.000Z",
     "source": "Wired AI",
-    "slug": "a-13-year-old-asked-ai-about-suicide-on-her-school-laptop-it-didn-t-get-flagged-for-weeks"
+    "slug": "i-saw-the-future-of-robotics-in-a-virtual-duck-that-chases-my-cat"
+  },
+  {
+    "creator": "Emily Mullin",
+    "title": "(No AI) A Startup Wants to Fight AI Bioweapons With AI",
+    "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+    "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+    "dc:creator": "Emily Mullin",
+    "content": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "contentSnippet": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "guid": "6af201ee77b79684f4754674",
+    "categories": [
+      "Science",
+      "Science / Biotech"
+    ],
+    "isoDate": "2026-11-11T17:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "a-startup-wants-to-fight-ai-bioweapons-with-ai"
   }
 ]
