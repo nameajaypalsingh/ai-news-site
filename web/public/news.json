@@ -1,17 +1,16 @@
 [
   {
     "creator": "Julie Bort",
-    "title": "(No AI) OpenAI Acquires Odessia, travel startup created by Sonder founder",
+    "title": "(No AI) OpenAI acquires Odessia, travel startup created by Sonder founder",
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
     "dc:creator": "Julie Bort",
     "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "contentSnippet": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "contentSnippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "guid": "https://techcrunch.com/?p=3187116",
     "categories": [
       "AI",
       "Startups",
-      "TC",
       "travel"
     ],
     "isoDate": "2026-11-10T21:08:52.000Z",
@@ -69,6 +68,17 @@
     "slug": "chatgpt-is-getting-verified-ai-business-agents"
   },
   {
+    "title": "(No AI) Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "content": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "contentSnippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "guid": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "isoDate": "2026-11-12T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "gilbert-tobin-rethinks-the-business-of-law-with-ai"
+  },
+  {
     "title": "(No AI) Helping caregivers use AI in everyday life",
     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
@@ -81,42 +91,6 @@
     "isoDate": "2026-11-10T12:00:00.000Z",
     "source": "OpenAI",
     "slug": "helping-caregivers-use-ai-in-everyday-life"
-  },
-  {
-    "title": "(No AI) Introducing Businesses in ChatGPT",
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT",
-    "content": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "contentSnippet": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "guid": "https://openai.com/index/introducing-businesses-chatgpt",
-    "categories": [
-      "Product"
-    ],
-    "isoDate": "2026-11-10T10:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "introducing-businesses-in-chatgpt"
-  },
-  {
-    "title": "(No AI) Gemini 4 Carbon is now available",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "pubDate": "Tue, 10 Nov 2026 16:03:47 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "isoDate": "2026-11-10T16:03:47.000Z",
-    "source": "Google DeepMind",
-    "slug": "gemini-4-carbon-is-now-available"
-  },
-  {
-    "title": "(No AI) Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
-    "content": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-    "contentSnippet": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-    "guid": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "isoDate": "2026-11-10T12:02:28.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-at-depth"
   },
   {
     "creator": "Reece Rogers",
