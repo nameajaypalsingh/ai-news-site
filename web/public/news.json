@@ -1,42 +1,54 @@
 [
   {
-    "creator": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
-    "title": "(No AI) Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "pubDate": "Wed, 11 Nov 2026 20:15:15 +0000",
-    "dc:creator": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
-    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure \\[…\\]",
-    "contentSnippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
-    "guid": "https://techcrunch.com/?post_type=tc_video&p=3187347",
+    "creator": "Connie Loizos",
+    "title": "(No AI) Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "contentSnippet": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "guid": "https://techcrunch.com/?p=3187615",
     "categories": [
       "AI",
-      "Government & Policy",
-      "AI data center",
-      "data center"
+      "TC"
     ],
-    "isoDate": "2026-11-11T20:15:15.000Z",
+    "isoDate": "2026-11-12T03:13:10.000Z",
     "source": "TechCrunch AI",
-    "slug": "why-the-data-center-you-dread-might-never-even-be-built"
+    "slug": "who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors"
   },
   {
-    "creator": "Lucas Ropek",
-    "title": "(No AI) Meta is losing its longtime head of  infrastructure",
-    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "pubDate": "Wed, 11 Nov 2026 20:12:01 +0000",
-    "dc:creator": "Lucas Ropek",
-    "content": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "contentSnippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "guid": "https://techcrunch.com/?p=3187471",
+    "creator": "Amanda Silberling",
+    "title": "(No AI) The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "pubDate": "Wed, 11 Nov 2026 23:50:00 +0000",
+    "dc:creator": "Amanda Silberling",
+    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "contentSnippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "guid": "https://techcrunch.com/?p=3186475",
     "categories": [
       "AI",
-      "compute",
-      "infrastructure",
-      "Meta",
-      "social media"
+      "China",
+      "nvidia",
+      "Donald Trump",
+      "Jensen Huang"
     ],
-    "isoDate": "2026-11-11T20:12:01.000Z",
+    "isoDate": "2026-11-11T23:50:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "meta-is-losing-its-longtime-head-of-infrastructure"
+    "slug": "the-unfolding-jensen-huang-scandal-a-timeline"
+  },
+  {
+    "title": "(No AI) Nvidia is reportedly preparing to fire Jensen Huang",
+    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "pubDate": "2026-11-11T22:44:36.000Z",
+    "author": "Lauren Feiner",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia's board is preparing to dismiss CEO Jensen Huang following a [report from the _New York Times_ about a second alleged extramarital affair](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html), just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, [_The Wall Street Journal_ reports](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=yMDm9F). The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the _Times_.\n\nThe Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the _Journal_. Nvidia did not immediately respond to a request for comment from _The Verge_.\n\nHuang and Powell, who are both marri …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1031652/jensen-huang-rumor)",
+    "contentSnippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. \nThe Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge.\nHuang and Powell, who are both marri …\nRead the full story at The Verge.",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "id": "https://www.theverge.com/?p=1031652",
+    "isoDate": "2026-11-11T22:44:36.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "nvidia-is-reportedly-preparing-to-fire-jensen-huang"
   },
   {
     "title": "(No AI) United won’t let your AI agent book your flight",
@@ -51,20 +63,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "slug": "united-won-t-let-your-ai-agent-book-your-flight"
-  },
-  {
-    "title": "(No AI) Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "pubDate": "2026-11-11T16:00:00.000Z",
-    "author": "Jess Weatherbed",
-    "content": "![Illustrated examples of Google’s Tabletop AI platform.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nTabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more.\n\n\"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)",
-    "contentSnippet": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more.\n\"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google  …\nRead the full story at The Verge.",
-    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
-    "id": "https://www.theverge.com/?p=1031526",
-    "isoDate": "2026-11-11T16:00:00.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-tabletop-ai-experiment-lets-you-build-custom-collaboration-apps"
   },
   {
     "title": "(No AI) Gilbert + Tobin rethinks the business of law with AI",
