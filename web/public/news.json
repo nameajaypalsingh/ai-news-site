@@ -1,69 +1,86 @@
 [
   {
-    "creator": "Julie Bort",
-    "title": "(No AI) Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
-    "dc:creator": "Julie Bort",
-    "content": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-    "contentSnippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-    "guid": "https://techcrunch.com/?p=3188108",
+    "creator": "Tim Fernholz",
+    "title": "(No AI) Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+    "dc:creator": "Tim Fernholz",
+    "content": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "contentSnippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "guid": "https://techcrunch.com/?p=3188067",
     "categories": [
       "AI",
-      "Jensen Huang",
-      "nvidia",
-      "Trump"
+      "banned ai",
+      "nvidia"
     ],
-    "isoDate": "2026-11-12T22:42:51.000Z",
+    "isoDate": "2026-11-13T18:40:30.000Z",
     "source": "TechCrunch AI",
-    "slug": "democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s-scheme-with-trump"
+    "slug": "export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen"
   },
   {
     "creator": "Sarah Perez",
-    "title": "(No AI) Muse can now place calls to US businesses — if you pay",
-    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "title": "(No AI) ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
     "dc:creator": "Sarah Perez",
-    "content": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "contentSnippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "guid": "https://techcrunch.com/?p=3188128",
+    "content": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "contentSnippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "guid": "https://techcrunch.com/?p=3188368",
     "categories": [
       "AI",
-      "Apps",
-      "Meta",
-      "muse"
+      "Commerce",
+      "AI agents",
+      "ChatGPT",
+      "dots",
+      "eCommerce",
+      "OpenAI",
+      "shopping"
     ],
-    "isoDate": "2026-11-12T22:22:28.000Z",
+    "isoDate": "2026-11-13T16:00:12.000Z",
     "source": "TechCrunch AI",
-    "slug": "muse-can-now-place-calls-to-us-businesses-if-you-pay"
+    "slug": "chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
   },
   {
-    "title": "(No AI) Google’s new Gemini model is better at understanding complicated questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-    "pubDate": "2026-11-12T21:55:32.000Z",
-    "author": "Stevie Bonifield",
-    "content": "![Vector illustration of the Google Gemini logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nGoogle says its new [Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/) model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's [available starting today](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, [says](https://x.com/rmstein/status/2120941443359576166?a=lerZsroBaoIBT9jNz00&s=20) it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\n\nGoogle says Gemini 4 Hydrog …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)",
-    "contentSnippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\nGoogle says Gemini 4 Hydrog …\nRead the full story at The Verge.",
-    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
-    "id": "https://www.theverge.com/?p=1032505",
-    "isoDate": "2026-11-12T21:55:32.000Z",
+    "title": "(No AI) What’s really at stake in the Jensen Huang saga",
+    "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "pubDate": "2026-11-13T14:47:16.000Z",
+    "author": "David Pierce",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOne part of [the saga surrounding Nvidia CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) ended on Thursday, when [Huang resigned](https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns) from his position at the top of AI's most important company. But in the coming weeks and months, [a much bigger story](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling) may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot.\n\nOn [this episode of _The Vergecast_](https://pod.link/vergecast), David and Nilay start by trying to unpack the many parts of the story. We're all going to learn a lot more about Megaspeed than we ever planned or wanted, and we're goin …\n\n[Read the full story at The Verge.](https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast)",
+    "contentSnippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot.\nOn this episode of The Vergecast, David and Nilay start by trying to unpack the many parts of the story. We're all going to learn a lot more about Megaspeed than we ever planned or wanted, and we're goin …\nRead the full story at The Verge.",
+    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+    "id": "https://www.theverge.com/?p=1032866",
+    "isoDate": "2026-11-13T14:47:16.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "google-s-new-gemini-model-is-better-at-understanding-complicated-questions"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "what-s-really-at-stake-in-the-jensen-huang-saga"
   },
   {
-    "title": "(No AI) No, AI agents did not discover a previously unknown Maya site",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "pubDate": "2026-11-12T19:42:40.000Z",
-    "author": "Robert Hart",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: [Pietro Miotti](//pietromiotti.com/latest/maya-site/”)\n\nArmed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which [sparked criticism](https://bsky.app/profile/indyfromspace.bsky.social/post/3n2235hwwsk2m) among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at.\n\n> Local communities are often already well aware of sites in their area.\n\nMiotti [said](https://pietromiotti.com/latest/maya-site/) the idea to use AI to sea …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)",
-    "contentSnippet": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti\t\n\n Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at.\n\nLocal communities are often already well aware of sites in their area.\n\nMiotti said the idea to use AI to sea …\nRead the full story at The Verge.",
-    "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [&#8230;]",
-    "id": "https://www.theverge.com/?p=1032125",
-    "isoDate": "2026-11-12T19:42:40.000Z",
+    "title": "(No AI) Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "pubDate": "2026-11-13T14:00:00.000Z",
+    "author": "Allison Johnson",
+    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nLet’s get to work. | Photo: Allison Johnson / The Verge\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\n\nClaude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us [an impressive text-based assistant](https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots), Meta offered us its cute little guy, Muse, [to help us buy things](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping), and OpenAI gave us [the more work-oriented Dots](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent). Claude Duet is even more focused on work than those. It's also more consumer-friendly than [Claude Cowork](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now), which was more consumer-friendly than Claude Code - the co …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)",
+    "contentSnippet": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\nClaude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork, which was more consumer-friendly than Claude Code - the co …\nRead the full story at The Verge.",
+    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+    "id": "https://www.theverge.com/?p=1032518",
+    "isoDate": "2026-11-13T14:00:00.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "no-ai-agents-did-not-discover-a-previously-unknown-maya-site"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "claude-s-duet-agent-is-a-little-neurotic-and-surprisingly-helpful"
+  },
+  {
+    "title": "(No AI) Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "contentSnippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "guid": "https://openai.com/index/introducing-chatgpt-wallet",
+    "categories": [
+      "Product"
+    ],
+    "isoDate": "2026-11-13T15:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "introducing-chatgpt-wallet"
   },
   {
     "title": "(No AI) How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -77,73 +94,37 @@
     "slug": "how-amplitude-ships-product-improvements-in-1-2-days-with-openai"
   },
   {
-    "title": "(No AI) Gondola doubles revenue as its team builds more with Codex",
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
-    "content": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "contentSnippet": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "guid": "https://openai.com/business/customer-stories/gondola",
+    "creator": "Andrew Couts",
+    "title": "(No AI) Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "pubDate": "Fri, 13 Nov 2026 19:08:57 +0000",
+    "dc:creator": "Andrew Couts",
+    "content": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "contentSnippet": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "guid": "6af737b0981b066bb4e2d1ab",
     "categories": [
-      "Startup"
+      "Security",
+      "Security / Security News"
     ],
-    "isoDate": "2026-11-12T12:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "gondola-doubles-revenue-as-its-team-builds-more-with-codex"
-  },
-  {
-    "title": "(No AI) Introducing Gemini 4 Hydrogen",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "isoDate": "2026-11-12T18:00:50.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-4-hydrogen"
-  },
-  {
-    "title": "(No AI) AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
-    "content": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "contentSnippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "guid": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "isoDate": "2026-11-11T15:00:15.000Z",
-    "source": "Google DeepMind",
-    "slug": "alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
-  },
-  {
-    "creator": "Jason Parham",
-    "title": "(No AI) This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-    "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-    "pubDate": "Fri, 13 Nov 2026 11:45:00 +0000",
-    "dc:creator": "Jason Parham",
-    "content": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-    "contentSnippet": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-    "guid": "6af36771190ffd33e9467dde",
-    "categories": [
-      "Culture",
-      "Culture / TV"
-    ],
-    "isoDate": "2026-11-13T11:45:00.000Z",
+    "isoDate": "2026-11-13T19:08:57.000Z",
     "source": "Wired AI",
-    "slug": "this-startup-is-betting-on-ai-microdramas-to-get-more-black-stories-in-hollywood"
+    "slug": "microsoft-365-crawls-back-to-life-after-a-24-hour-outage"
   },
   {
-    "creator": "Paresh Dave",
-    "title": "(No AI) Silicon Valley Is Still Defending Jensen Huang",
-    "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-    "pubDate": "Thu, 12 Nov 2026 22:29:43 +0000",
-    "dc:creator": "Paresh Dave",
-    "content": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-    "contentSnippet": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-    "guid": "6af508af71a0e5889c82ff5f",
+    "creator": "Lauren Goode",
+    "title": "(No AI) Jensen Huang and the End of the Founder Fairy Tale",
+    "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
+    "dc:creator": "Lauren Goode",
+    "content": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "contentSnippet": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "guid": "6af62d4ad0f1f44dad1a73ce",
     "categories": [
       "Business",
-      "Business / Artificial Intelligence"
+      "Business / Tech Culture"
     ],
-    "isoDate": "2026-11-12T22:29:43.000Z",
+    "isoDate": "2026-11-13T16:00:00.000Z",
     "source": "Wired AI",
-    "slug": "silicon-valley-is-still-defending-jensen-huang"
+    "slug": "jensen-huang-and-the-end-of-the-founder-fairy-tale"
   }
 ]
