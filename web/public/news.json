@@ -1,5 +1,23 @@
 [
   {
+    "creator": "Connie Loizos",
+    "title": "(No AI) Where was Nvidia’s security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
+    "dc:creator": "Connie Loizos",
+    "content": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "contentSnippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "guid": "https://techcrunch.com/?p=3188673",
+    "categories": [
+      "AI",
+      "TC",
+      "nvidia"
+    ],
+    "isoDate": "2026-11-15T00:08:07.000Z",
+    "source": "TechCrunch AI",
+    "slug": "where-was-nvidia-s-security-team"
+  },
+  {
     "creator": "Anthony Ha",
     "title": "(No AI) Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
     "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -19,26 +37,6 @@
     "isoDate": "2026-11-14T21:41:22.000Z",
     "source": "TechCrunch AI",
     "slug": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
-  },
-  {
-    "creator": "Lauren Forristal",
-    "title": "(No AI) The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-    "dc:creator": "Lauren Forristal",
-    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "contentSnippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "guid": "https://techcrunch.com/?p=3162590",
-    "categories": [
-      "AI",
-      "Microsoft",
-      "OpenAI",
-      "evergreens",
-      "siri ai"
-    ],
-    "isoDate": "2026-11-14T17:30:00.000Z",
-    "source": "TechCrunch AI",
-    "slug": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-make-it"
   },
   {
     "title": "(No AI) The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
