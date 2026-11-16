@@ -1,42 +1,56 @@
 [
   {
-    "creator": "Anthony Ha",
-    "title": "(No AI) SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
-    "dc:creator": "Anthony Ha",
-    "content": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "contentSnippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "guid": "https://techcrunch.com/?p=3188820",
+    "creator": "Ivan Mehta",
+    "title": "(No AI) Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
+    "dc:creator": "Ivan Mehta",
+    "content": "Apple's new app for a study will answer everyday medical questions",
+    "contentSnippet": "Apple's new app for a study will answer everyday medical questions",
+    "guid": "https://techcrunch.com/?p=3188803",
     "categories": [
       "AI",
-      "Media & Entertainment",
-      "Jensen Huang",
-      "nvidia",
-      "Saturday night live",
-      "SNL"
+      "Apps",
+      "Apple",
+      "Health",
+      "openevidence"
     ],
-    "isoDate": "2026-11-15T20:20:57.000Z",
+    "isoDate": "2026-11-16T01:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft"
+    "slug": "apple-launches-new-app-to-study-how-people-use-ai-for-health"
   },
   {
-    "creator": "Connie Loizos",
-    "title": "(No AI) Where was Nvidia’s security team?",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
-    "dc:creator": "Connie Loizos",
-    "content": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "contentSnippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "guid": "https://techcrunch.com/?p=3188673",
+    "creator": "Jagmeet Singh",
+    "title": "(No AI) Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+    "dc:creator": "Jagmeet Singh",
+    "content": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "contentSnippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "guid": "https://techcrunch.com/?p=3188782",
     "categories": [
+      "Startups",
       "AI",
-      "TC",
-      "nvidia"
+      "Info edge",
+      "physical ai"
     ],
-    "isoDate": "2026-11-15T00:08:07.000Z",
+    "isoDate": "2026-11-15T23:30:00.000Z",
     "source": "TechCrunch AI",
-    "slug": "where-was-nvidia-s-security-team"
+    "slug": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market"
+  },
+  {
+    "title": "(No AI) Apple’s new study looks to improve the effectiveness of AI health tools",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "pubDate": "2026-11-16T01:26:56.000Z",
+    "author": "Andrew Liszewski",
+    "content": "![Two iPhones running the Apple Health AI Usage Study app.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with [OpenEvidence](https://www.openevidence.com/), a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like _The New England Journal of Medicine_. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\n\nThe app is now available for download, and enrollment starts today, …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)",
+    "contentSnippet": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\nThe app is now available for download, and enrollment starts today,  …\nRead the full story at The Verge.",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+    "id": "https://www.theverge.com/?p=1033355",
+    "isoDate": "2026-11-16T01:26:56.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "apple-s-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
   },
   {
     "title": "(No AI) Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -53,43 +67,32 @@
     "slug": "jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama"
   },
   {
-    "title": "(No AI) Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "pubDate": "2026-11-15T19:15:43.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![Photo collage of a photo of the US Capitol building coming out of a computer window.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nUnsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.\n\nSenate Minority Leader Chuck Schumer has already said that Huang and the Trump administration [need to answer to Congress](https://www.theverge.com/policy/1032231/jensen-huang-will-still-need-to-answer-to-congress-despite-his-resignation-schumer-says). Senate Banking Committee Chairman Tim Scott has also [sent letters](https://abcnews.com/Politics/house-senate-republicans-call-howard-lutnick-jensen-huang/story?id=138111390) to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the commit …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)",
-    "contentSnippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.\nSenate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Committee Chairman Tim Scott has also sent letters to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the commit …\nRead the full story at The Verge.",
-    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
-    "id": "https://www.theverge.com/?p=1033984",
-    "isoDate": "2026-11-15T19:15:43.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "congress-wants-to-tighten-export-rules-on-ai-chips-after-nvidia-spy-scandal"
-  },
-  {
-    "title": "(No AI) Introducing ChatGPT Wallet",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
-    "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "contentSnippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "guid": "https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "(No AI) A step toward defining the Standard Model on a lattice",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "content": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "contentSnippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "guid": "https://openai.com/index/step-toward-defining-the-standard-model",
     "categories": [
-      "Product"
+      "Science"
     ],
-    "isoDate": "2026-11-13T15:00:00.000Z",
+    "isoDate": "2026-11-15T22:00:01.000Z",
     "source": "OpenAI",
-    "slug": "introducing-chatgpt-wallet"
+    "slug": "a-step-toward-defining-the-standard-model-on-a-lattice"
   },
   {
-    "title": "(No AI) Shield helps technicians hand off legacy portal work with OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-    "content": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "contentSnippet": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "guid": "https://openai.com/business/customer-stories/shield",
-    "isoDate": "2026-11-13T08:00:00.000Z",
+    "title": "(No AI) Our new blog for science",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "content": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "contentSnippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "guid": "https://openai.com/index/our-new-blog-for-science",
+    "categories": [
+      "Science"
+    ],
+    "isoDate": "2026-11-15T22:00:00.000Z",
     "source": "OpenAI",
-    "slug": "shield-helps-technicians-hand-off-legacy-portal-work-with-openai"
+    "slug": "our-new-blog-for-science"
   },
   {
     "title": "(No AI) Introducing Gemini 4 Hydrogen",
