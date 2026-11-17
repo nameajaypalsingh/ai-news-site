@@ -68,6 +68,20 @@
     "slug": "california-sues-openai-over-rogue-ai-hacking-incidents"
   },
   {
+    "title": "(No AI) Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "contentSnippet": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "guid": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "categories": [
+      "Global Affairs"
+    ],
+    "isoDate": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "strengthening-nato-and-allied-cyber-defenses-with-ai"
+  },
+  {
     "title": "(No AI) Broadening access to AI for scientists",
     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
@@ -82,74 +96,39 @@
     "slug": "broadening-access-to-ai-for-scientists"
   },
   {
-    "title": "(No AI) Strengthening the fight against online child sexual abuse with new tools and support",
-    "link": "https://openai.com/index/strengthening-online-child-safety",
-    "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
-    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "contentSnippet": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "guid": "https://openai.com/index/strengthening-online-child-safety",
+    "creator": "Julian Chokkattu",
+    "title": "(No AI) The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+    "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "dc:creator": "Julian Chokkattu",
+    "content": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+    "contentSnippet": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+    "guid": "6af5ff1c0b81f4a3e576433e",
     "categories": [
-      "Safety"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Watches"
     ],
-    "isoDate": "2026-11-16T17:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "strengthening-the-fight-against-online-child-sexual-abuse-with-new-tools-and-support"
+    "isoDate": "2026-11-17T11:00:00.000Z",
+    "source": "Wired AI",
+    "slug": "the-apple-watch-s-live-rewind-can-record-and-rewind-spoken-conversations-it-s-pretty-awkward"
   },
   {
-    "title": "(No AI) Introducing Gemini 4 Hydrogen",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
-    "content": "",
-    "contentSnippet": "",
-    "guid": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "isoDate": "2026-11-12T18:00:50.000Z",
-    "source": "Google DeepMind",
-    "slug": "introducing-gemini-4-hydrogen"
-  },
-  {
-    "title": "(No AI) AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
-    "content": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "contentSnippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "guid": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "isoDate": "2026-11-11T15:00:15.000Z",
-    "source": "Google DeepMind",
-    "slug": "alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
-  },
-  {
-    "creator": "Katie Drummond",
-    "title": "(No AI) Jensen Huang Is Gone. Now What?",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "pubDate": "Mon, 16 Nov 2026 16:12:51 +0000",
-    "dc:creator": "Katie Drummond",
-    "content": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-    "contentSnippet": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-    "guid": "6af7749c3101511031c45454",
+    "creator": "Will Knight",
+    "title": "(No AI) Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "dc:creator": "Will Knight",
+    "content": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "contentSnippet": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "guid": "6af3622682931ce68d5ff1c4",
     "categories": [
       "The Big Story",
       "Business",
       "Business / Artificial Intelligence"
     ],
-    "isoDate": "2026-11-16T16:12:51.000Z",
+    "isoDate": "2026-11-17T11:00:00.000Z",
     "source": "Wired AI",
-    "slug": "jensen-huang-is-gone-now-what"
-  },
-  {
-    "creator": "Will Knight",
-    "title": "(No AI) Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "pubDate": "Mon, 16 Nov 2026 11:00:00 +0000",
-    "dc:creator": "Will Knight",
-    "content": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "contentSnippet": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "guid": "6af5d84658905b6f1b0fc8b9",
-    "categories": [
-      "Business",
-      "Business / Artificial Intelligence"
-    ],
-    "isoDate": "2026-11-16T11:00:00.000Z",
-    "source": "Wired AI",
-    "slug": "nvidia-was-already-in-trouble-before-the-jensen-huang-mess"
+    "slug": "rogue-agents-hacked-his-company-why-is-cl-ment-delangue-so-optimistic-about-ai"
   }
 ]
