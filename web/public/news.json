@@ -4,8 +4,8 @@
     "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "pubDate": "2026-11-19T22:31:41.000Z",
     "author": "Emma Roth",
-    "content": "![A person holding an iPhone 18 Pro phone showing the lock screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to [a job listing](https://jobs.apple.com/en-us/details/200695488-0836/senior-engineering-manager-agentic-ai-proactive?team=SFTWR) spotted [by _Bloomberg_](https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding), which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\n\nAn AI agent from Apple would put the iPhonemaker in the running to compete with the likes of [Meta's Muse](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute), [OpenAI's Dots](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor), [Anthropic's Duet](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on), and [Google's Tasks](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free). Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while [Google just started letting Gemini](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use) do the same.\n\nApple began rolling out its …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)",
-    "contentSnippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhonemaker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began rolling out its …\nRead the full story at The Verge.",
+    "content": "![A person holding an iPhone 18 Pro phone showing the lock screen.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nApple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to [a job listing](https://jobs.apple.com/en-us/details/200695488-0836/senior-engineering-manager-agentic-ai-proactive?team=SFTWR) spotted [by _Bloomberg_](https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding), which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\n\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of [Meta's Muse](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute), [OpenAI's Dots](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor), [Anthropic's Duet](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on), and [Google's Tasks](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free). Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while [Google just started letting Gemini](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use) do the same.\n\nApple began rolling out it …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)",
+    "contentSnippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began rolling out it …\nRead the full story at The Verge.",
     "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
     "id": "https://www.theverge.com/?p=1038227",
     "isoDate": "2026-11-19T22:31:41.000Z",
@@ -42,18 +42,18 @@
     "slug": "how-openai-s-performance-factory-keeps-chatgpt-fast"
   },
   {
-    "title": "(No AI) The Silent Consensus",
-    "link": "https://openai.com/index/the-silent-consensus",
-    "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "contentSnippet": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "guid": "https://openai.com/index/the-silent-consensus",
+    "title": "(No AI) Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "content": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "contentSnippet": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "guid": "https://openai.com/business/learn/deploying-daybreak-red",
     "categories": [
-      "Intelligence Age"
+      "Guides"
     ],
-    "isoDate": "2026-11-18T10:00:00.000Z",
+    "isoDate": "2026-11-19T00:00:00.000Z",
     "source": "OpenAI",
-    "slug": "the-silent-consensus"
+    "slug": "deploying-daybreak-red"
   },
   {
     "title": "(No AI) Introducing Gemini 4 Neon",
