@@ -1,5 +1,19 @@
 [
   {
+    "title": "(No AI) Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "pubDate": "2026-11-22T17:25:20.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![The Binding of Isaac: Repenentance Plus thumbnail.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe _Binding of Isaac: Repentance Plus_ has spent the last few days getting [review-bombed on Steam](https://store.steampowered.com/app/3353470/The_Binding_of_Isaac_Repentance/) after it was discovered that a particular segment of the game [used AI music](https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing). Reddit user [ShweetsStuff](https://www.reddit.com/r/bindingofisaac/comments/1y1qqut/reps_gtavi_runs_music_is_100_generated_by_suno_ai/) discovered the songs used during a _Grand Theft Auto_\\-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\n\nCreator Edmund McMillen took to X to [apologize](https://x.com/edmundmcmillen/status/2124169167880470745?s=20) and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to [disclose how and when they use generative AI](https://www.ign.com/articles/valve-announces-changes-to-how-its-handling-ai-content-on-steam) in the development process, and Nicalis, Inc., the studio behin …\n\n[Read the full story at The Verge.](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)",
+    "contentSnippet": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\nCreator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behin …\nRead the full story at The Verge.",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+    "id": "https://www.theverge.com/?p=1039770",
+    "isoDate": "2026-11-22T17:25:20.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "binding-of-isaac-developer-removes-ai-music-from-repentance-plus"
+  },
+  {
     "title": "(No AI) The vibe-coding revolution is coming to all the gadgets",
     "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
     "pubDate": "2026-11-22T13:00:00.000Z",
@@ -14,18 +28,18 @@
     "slug": "the-vibe-coding-revolution-is-coming-to-all-the-gadgets"
   },
   {
-    "title": "(No AI) The UN fails to agree on rules regulating ‘killer robots’",
-    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-    "pubDate": "2026-11-21T20:03:37.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![US Conducts Air War Against ISIL From Secret Base In Persian Gulf Region](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nOne of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.\n\nAccording to _[NPR](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)_:\n\n> Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo.\n\nThe compromise reached was that countries would inste …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)",
-    "contentSnippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. \nAccording to NPR:\nBefore the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo.\nThe compromise reached was that countries would inste …\nRead the full story at The Verge.",
-    "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
-    "id": "https://www.theverge.com/?p=1039554",
-    "isoDate": "2026-11-21T20:03:37.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "the-un-fails-to-agree-on-rules-regulating-killer-robots"
+    "title": "(No AI) Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "content": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "contentSnippet": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "guid": "https://openai.com/index/perplexity-and-intelligence",
+    "categories": [
+      "Research"
+    ],
+    "isoDate": "2026-11-22T00:00:00.000Z",
+    "source": "OpenAI",
+    "slug": "perplexity-and-intelligence"
   },
   {
     "title": "(No AI) Combatting adversarial distillation",
@@ -37,17 +51,6 @@
     "isoDate": "2026-11-20T10:00:00.000Z",
     "source": "OpenAI",
     "slug": "combatting-adversarial-distillation"
-  },
-  {
-    "title": "(No AI) Hebbia sees improvements in financial research with GPT-6 Astra",
-    "link": "https://openai.com/business/customer-stories/hebbia",
-    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "content": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "contentSnippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "guid": "https://openai.com/business/customer-stories/hebbia",
-    "isoDate": "2026-11-20T00:00:00.000Z",
-    "source": "OpenAI",
-    "slug": "hebbia-sees-improvements-in-financial-research-with-gpt-6-astra"
   },
   {
     "creator": "Reece Rogers",
