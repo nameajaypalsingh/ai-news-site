@@ -1,5 +1,19 @@
 [
   {
+    "title": "(No AI) 42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "pubDate": "2026-11-26T09:54:40.000Z",
+    "author": "Terrence O’Brien",
+    "content": "![Vector illustration of the Character.ai logo.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nA coalition of [42 state attorneys general](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) is [trying to prevent](https://oag.ca.gov/system/files/attachments/press-docs/characterai.pdf) Character.AI from [selling off user data](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy) as it navigates Chapter 11 bankruptcy proceedings. In a [deluge](https://oag.maryland.gov/News/pages/Attorney-General-Brown-Challenges-Plan-to-Auction-Off-Character.AI-Users%E2%80%99-Private-Chats%2C-Including-Kids%E2%80%99-Data%2C-to-Highest-B.aspx) of [nearly](https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-challenges-plan-to-auction-off-character-ai-private-chats) [identical](https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns) [press](https://www.ag.state.mn.us/Office/Communications/2026/11/23_CharacterAI.asp) releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold.\"\n\nIn October, Character.AI [filed for bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney) following [years](https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure) of [scandals](https://www.theverge.com/ai-artificial-intelligence/1009463/character-ai-chats-encouraging-self-harm-detailed-in-unredacted-kentucky-lawsuit) and [legal challenges](https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement), including from [Disney](https://www.theverge.com/news/789451/its-curtains-for-ai-elsa-spider-man-and-darth-vader). Disney ended up buying some of the company's assets and [hiring its CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai), K …\n\n[Read the full story at The Verge.](https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats)",
+    "contentSnippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold.\"\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney. Disney ended up buying some of the company's assets and hiring its CEO, K …\nRead the full story at The Verge.",
+    "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
+    "id": "https://www.theverge.com/?p=1042620",
+    "isoDate": "2026-11-26T09:54:40.000Z",
+    "source": "The Verge AI",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "42-state-ags-are-trying-to-stop-character-ai-from-selling-users-chats"
+  },
+  {
     "title": "(No AI) Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
     "pubDate": "2026-11-25T21:51:26.000Z",
@@ -12,20 +26,6 @@
     "source": "The Verge AI",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
     "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-bleak-picture-of-entertainment-s-future"
-  },
-  {
-    "title": "(No AI) FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-    "pubDate": "2026-11-25T17:44:51.000Z",
-    "author": "Emma Roth",
-    "content": "![SpaceX’s facility in California](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn [an announcement on Wednesday](https://docs.fcc.gov/public/attachments/DOC-427572A1.pdf), the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned [company's \"Starmind\" initiative](https://www.spacex.com/spacexsi/starmind). With [several others also pursuing the idea of putting AI data centers in space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers), including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites.\n\n[The FCC's approval requires](https://docs.fcc.gov/public/attachments/DA-26-1273A1.pdf) SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in [space \"graveyard\" orbits](https://www.nesdis.noaa.gov/news/graveyard-orbits-and-the-satellite-afterlife), rather than …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)",
-    "contentSnippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites.\nThe FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in space \"graveyard\" orbits, rather than  …\nRead the full story at The Verge.",
-    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
-    "id": "https://www.theverge.com/?p=1042278",
-    "isoDate": "2026-11-25T17:44:51.000Z",
-    "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-million-data-center-satellites-into-space"
   },
   {
     "title": "(No AI) GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -56,26 +56,21 @@
     "slug": "searching-for-distant-planets-with-astra"
   },
   {
-    "title": "(No AI) From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-    "pubDate": "Tue, 24 Nov 2026 13:07:53 +0000",
-    "content": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-    "contentSnippet": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-    "guid": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-    "isoDate": "2026-11-24T13:07:53.000Z",
-    "source": "Google DeepMind",
-    "slug": "from-spectrum-to-structure-identifying-molecules-with-mass-spec-skills-for-google-antigravity"
-  },
-  {
-    "title": "(No AI) Finding faster quantum algorithms with agents and formal verification",
-    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "pubDate": "Mon, 23 Nov 2026 16:59:40 +0000",
-    "content": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-    "contentSnippet": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-    "guid": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "isoDate": "2026-11-23T16:59:40.000Z",
-    "source": "Google DeepMind",
-    "slug": "finding-faster-quantum-algorithms-with-agents-and-formal-verification"
+    "creator": "Isabella Ward",
+    "title": "(No AI) Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "pubDate": "Thu, 26 Nov 2026 10:51:27 +0000",
+    "dc:creator": "Isabella Ward",
+    "content": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+    "contentSnippet": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+    "guid": "6b07095da2c32fc4ddb30859",
+    "categories": [
+      "Business",
+      "Business / Artificial Intelligence"
+    ],
+    "isoDate": "2026-11-26T10:51:27.000Z",
+    "source": "Wired AI",
+    "slug": "meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains"
   },
   {
     "creator": "Aarian Marshall",
@@ -93,22 +88,5 @@
     "isoDate": "2026-11-25T11:30:00.000Z",
     "source": "Wired AI",
     "slug": "airplane-turbulence-is-extremely-hard-to-predict-but-maybe-not-for-long"
-  },
-  {
-    "creator": "Dell Cameron",
-    "title": "(No AI) Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-    "pubDate": "Tue, 24 Nov 2026 23:39:04 +0000",
-    "dc:creator": "Dell Cameron",
-    "content": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-    "contentSnippet": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-    "guid": "6b059b8f77321780ff17d2de",
-    "categories": [
-      "Security",
-      "Security / National Security"
-    ],
-    "isoDate": "2026-11-24T23:39:04.000Z",
-    "source": "Wired AI",
-    "slug": "jensen-huang-s-return-shows-nvidia-is-too-big-to-police"
   }
 ]
