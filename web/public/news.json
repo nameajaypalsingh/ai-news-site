@@ -1,31 +1,31 @@
 [
   {
-    "title": "(No AI) Has vibe coding made open source the new normal for synths?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-    "pubDate": "2026-11-25T13:00:00.000Z",
-    "author": "Terrence O’Brien",
-    "content": "![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nThe emergence of powerful vibe-coding agents and tools like [Reverse Engineer Anything](https://github.com/morluto/rea) has [caused chaos in the music gear world](https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware), leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source.\n\nThe biggest name to decide \"if you can't beat 'em, join 'em\" is [inMusic](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai), the parent company of Akai, Moog, Native Instruments, and more. \"We're going t …\n\n[Read the full story at The Verge.](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware)",
-    "contentSnippet": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source.\nThe biggest name to decide \"if you can't beat 'em, join 'em\" is inMusic, the parent company of Akai, Moog, Native Instruments, and more. \"We're going t …\nRead the full story at The Verge.",
-    "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
-    "id": "https://www.theverge.com/?p=1040081",
-    "isoDate": "2026-11-25T13:00:00.000Z",
+    "title": "(No AI) Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "pubDate": "2026-11-25T21:51:26.000Z",
+    "author": "Charles Pulliam-Moore",
+    "content": "![A patent illustration depicting a man standing in a room with a large television screen displaying the home page of a streaming service.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303)\n\nLast year, [Google filed a patent](https://www.digitaltrends.com/movies/google-filed-a-patent-for-an-ai-channel-that-casts-you-as-the-lead/) for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market.\n\nFirst [spotted by Patentlyze](https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/), the patent - which was filed last May and published last week - describes how My Channel would use a person's demographic data and viewing history to create its own prompts that would then be fed into an LLM to help generate AI videos tailored to that …\n\n[Read the full story at The Verge.](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)",
+    "contentSnippet": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market.\nFirst spotted by Patentlyze, the patent - which was filed last May and published last week - describes how My Channel would use a person's demographic data and viewing history to create its own prompts that would then be fed into an LLM to help generate AI videos tailored to that …\nRead the full story at The Verge.",
+    "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+    "id": "https://www.theverge.com/?p=1042221",
+    "isoDate": "2026-11-25T21:51:26.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "has-vibe-coding-made-open-source-the-new-normal-for-synths"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+    "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-bleak-picture-of-entertainment-s-future"
   },
   {
-    "title": "(No AI) Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "pubDate": "2026-11-24T20:02:03.000Z",
+    "title": "(No AI) FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "pubDate": "2026-11-25T17:44:51.000Z",
     "author": "Emma Roth",
-    "content": "![A photo of Jensen Huang](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nNvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to [reports from _Bloomberg_](https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return)_,_ [_The New York Times_](https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html), and [_The Handbasket's_ Marisa Kabas](https://bsky.app/profile/marisakabas.bsky.social/post/3n33bk6pymk2s).\n\nDuring the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea [publicly promoted by Trump himself](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated) - \"completely untrue.\" He added, \"Don't think for a second politics played a role in the company. We are the most apolitical company,\" [according to Kabas](https://bsky.app/profile/marisakabas.bsky.social/post/3n33bk6pymk2s).\n\nAlong w …\n\n[Read the full story at The Verge.](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)",
-    "contentSnippet": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas.\nDuring the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - \"completely untrue.\" He added, \"Don't think for a second politics played a role in the company. We are the most apolitical company,\" according to Kabas.\nAlong w …\nRead the full story at The Verge.",
-    "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
-    "id": "https://www.theverge.com/?p=1041571",
-    "isoDate": "2026-11-24T20:02:03.000Z",
+    "content": "![SpaceX’s facility in California](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nIn [an announcement on Wednesday](https://docs.fcc.gov/public/attachments/DOC-427572A1.pdf), the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned [company's \"Starmind\" initiative](https://www.spacex.com/spacexsi/starmind). With [several others also pursuing the idea of putting AI data centers in space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers), including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites.\n\n[The FCC's approval requires](https://docs.fcc.gov/public/attachments/DA-26-1273A1.pdf) SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in [space \"graveyard\" orbits](https://www.nesdis.noaa.gov/news/graveyard-orbits-and-the-satellite-afterlife), rather than …\n\n[Read the full story at The Verge.](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)",
+    "contentSnippet": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites.\nThe FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in space \"graveyard\" orbits, rather than  …\nRead the full story at The Verge.",
+    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+    "id": "https://www.theverge.com/?p=1042278",
+    "isoDate": "2026-11-25T17:44:51.000Z",
     "source": "The Verge AI",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "slug": "jensen-huang-reportedly-tells-nvidia-staff-it-s-not-true-trump-got-him-rehired"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "slug": "fcc-signs-off-on-spacex-s-plan-to-put-up-to-1-million-data-center-satellites-into-space"
   },
   {
     "title": "(No AI) GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -54,6 +54,28 @@
     "isoDate": "2026-11-24T11:00:00.000Z",
     "source": "OpenAI",
     "slug": "searching-for-distant-planets-with-astra"
+  },
+  {
+    "title": "(No AI) From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "pubDate": "Tue, 24 Nov 2026 13:07:53 +0000",
+    "content": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "contentSnippet": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "guid": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "isoDate": "2026-11-24T13:07:53.000Z",
+    "source": "Google DeepMind",
+    "slug": "from-spectrum-to-structure-identifying-molecules-with-mass-spec-skills-for-google-antigravity"
+  },
+  {
+    "title": "(No AI) Finding faster quantum algorithms with agents and formal verification",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "pubDate": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "content": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "contentSnippet": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "guid": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "isoDate": "2026-11-23T16:59:40.000Z",
+    "source": "Google DeepMind",
+    "slug": "finding-faster-quantum-algorithms-with-agents-and-formal-verification"
   },
   {
     "creator": "Aarian Marshall",
